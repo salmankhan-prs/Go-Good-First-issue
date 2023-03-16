@@ -93,6 +93,9 @@
 
 
   ## celestiaorg/celestia-app
+ [chore(deps): Bump golang from 1.18.10-alpine3.17 to 1.20.2-alpine3.17](https://github.com/celestiaorg/celestia-app/pull/1494)
+
+
  [chore(deps): Bump actions/setup-go from 3 to 4](https://github.com/celestiaorg/celestia-app/pull/1492)
 
 
@@ -178,9 +181,6 @@
 
 
  [Create a generic reset upgrade hardfork sub command ](https://github.com/celestiaorg/celestia-app/issues/1367)
-
-
- [Network Data Collection](https://github.com/celestiaorg/celestia-app/issues/1352)
 
 
   ## onflow/flow-go
@@ -366,6 +366,11 @@
 
 
   ## cockroachdb/cockroach
+ [sentry: error.go:89: unexpected error from the vectorized engine: non-nullable column "×:×" with no value! Index scanned was × with the index key columns (×) and the values (×)
+(1) attached stack trace
+  -- s...](https://github.com/cockroachdb/cockroach/issues/98764)
+
+
  [roachtest: unoptimized-query-oracle/disable-rules=half/seed-multi-region failed](https://github.com/cockroachdb/cockroach/issues/98763)
 
 
@@ -466,9 +471,6 @@ Wraps: (2) attached stack trace
 
 
  [cloud/gcp_test: add weird code 0/ok error to regex](https://github.com/cockroachdb/cockroach/pull/98732)
-
-
- [sql: consider prohibiting creation of prepared EXPLAIN ANALYZE statements](https://github.com/cockroachdb/cockroach/issues/98731)
 
 
   ## gophercloud/gophercloud
@@ -694,6 +696,97 @@ Wraps: (2) attached stack trace
 
 
  [Bump ms, express and karma in /components/automate-workflow-web](https://github.com/chef/automate/pull/7730)
+
+
+  ## mattermost/mattermost-server
+ [Mono repo hh upload](https://github.com/mattermost/mattermost-server/pull/22536)
+
+
+ [Unable to import the data using mmctl or mattermost into the mattermost server/database (followed as it is in the official docs) reported at mattermost/docs #6285](https://github.com/mattermost/mattermost-server/issues/22535)
+
+
+ [[MM-49486]: Option to exclude file count in channel stats](https://github.com/mattermost/mattermost-server/pull/22533)
+
+
+ [Fixed MM-51060](https://github.com/mattermost/mattermost-server/pull/22532)
+
+
+ [[MM-51401] Add an extra check for the schema](https://github.com/mattermost/mattermost-server/pull/22531)
+
+
+ [MM-49564: Drafts upsert in the Store vs App layer](https://github.com/mattermost/mattermost-server/pull/22530)
+
+
+ [calls in test mode even if it's on OFF](https://github.com/mattermost/mattermost-server/issues/22529)
+
+
+ [GET /v4/posts/{post_id}/thread with perPage returns different number of posts](https://github.com/mattermost/mattermost-server/issues/22528)
+
+
+ [[MM-51445] Replace compass-components icon component with compass icons](https://github.com/mattermost/mattermost-server/pull/22527)
+
+
+ ["@" mentioning modal going out of screen on small window](https://github.com/mattermost/mattermost-server/issues/22526)
+
+
+ [E2E folder structure for mono-repo](https://github.com/mattermost/mattermost-server/pull/22525)
+
+
+ [Please: Free version of mattermost doesn't provide any message/attachment retention settings](https://github.com/mattermost/mattermost-server/issues/22524)
+
+
+ [[MM-51233] Updates for Trial Requests](https://github.com/mattermost/mattermost-server/pull/22521)
+
+
+ [User can´t update their state](https://github.com/mattermost/mattermost-server/issues/22520)
+
+
+ [Change channel type dropdown to a button instead of an anchor](https://github.com/mattermost/mattermost-server/pull/22517)
+
+
+ [Post texts disappear](https://github.com/mattermost/mattermost-server/issues/22516)
+
+
+ [[MM-49751] - Turn off Inactive Server Email](https://github.com/mattermost/mattermost-server/pull/22514)
+
+
+ [Optimize FileInfo stats query](https://github.com/mattermost/mattermost-server/pull/22513)
+
+
+ [update prepackage boards to v7.8.3](https://github.com/mattermost/mattermost-server/pull/22512)
+
+
+ [Minio Connection Problems](https://github.com/mattermost/mattermost-server/issues/22507)
+
+
+ [Allowed searching users by substring in admin console](https://github.com/mattermost/mattermost-server/pull/22505)
+
+
+ [Test renew](https://github.com/mattermost/mattermost-server/pull/22496)
+
+
+ [CI trigger for mono-repo](https://github.com/mattermost/mattermost-server/pull/22495)
+
+
+ [[MM-50002] Fix infinite reconnect loop when reconnect handler fails](https://github.com/mattermost/mattermost-server/pull/22494)
+
+
+ [Links with nested parenthesis parsed incorrectly](https://github.com/mattermost/mattermost-server/issues/22493)
+
+
+ [[MM-51302] Fix scroll to the bottom of editor after pasting long text](https://github.com/mattermost/mattermost-server/pull/22491)
+
+
+ [Add MUI and remove compass-component (work in progress)](https://github.com/mattermost/mattermost-server/pull/22490)
+
+
+ [[MM-39919] Fix login invalid password message on create user](https://github.com/mattermost/mattermost-server/pull/22487)
+
+
+ [Calls dropping on Android, but functional on Desktop / iOS ](https://github.com/mattermost/mattermost-server/issues/22486)
+
+
+ [ [MM-21901] Set trigger timeout for Interactive Dialogue dynamically using config instead of const value](https://github.com/mattermost/mattermost-server/pull/22485)
 
 
   ## codenotary/immudb
@@ -2274,6 +2367,97 @@ Wraps: (2) attached stack trace
  [Story: an organization admin can invite new users as memgers and assign privileges](https://github.com/monogon-dev/monogon/issues/158)
 
 
+  ## elastic/elastic-package
+ [Upload safe logs](https://github.com/elastic/elastic-package/pull/1184)
+
+
+ [Remove ansi codes from compose up/down output](https://github.com/elastic/elastic-package/pull/1182)
+
+
+ [[TSDB] Dimension limit override settings blocking the build](https://github.com/elastic/elastic-package/issues/1174)
+
+
+ [Update version in test-install-zip make target ](https://github.com/elastic/elastic-package/issues/1165)
+
+
+ [Add end-to-end benchmark command](https://github.com/elastic/elastic-package/issues/1164)
+
+
+ [[meta] Path to elastic-package 1.0](https://github.com/elastic/elastic-package/issues/1158)
+
+
+ [Use package upload instead of registry for development](https://github.com/elastic/elastic-package/issues/1157)
+
+
+ [elastic-package build command copies hidden files/directories into build directory](https://github.com/elastic/elastic-package/issues/1156)
+
+
+ [Automate format version update in package archetype](https://github.com/elastic/elastic-package/issues/1155)
+
+
+ [[Linter] Ensure `stream.yml.hbs` exists if it will be fallen back on](https://github.com/elastic/elastic-package/issues/1145)
+
+
+ [Refactor profiles to decouple them from stack resources](https://github.com/elastic/elastic-package/pull/1140)
+
+
+ [Fix for issue #1074](https://github.com/elastic/elastic-package/pull/1132)
+
+
+ [Need docker image for Ceph integration system test](https://github.com/elastic/elastic-package/issues/1126)
+
+
+ [Handle use of containerd driver type with elastic-agent images](https://github.com/elastic/elastic-package/issues/1119)
+
+
+ [Run tests in CI with docker-compose v2](https://github.com/elastic/elastic-package/issues/1116)
+
+
+ [[TSDB] [Documentation] Annotate fields that are dimensions in the table showing Exported Fields in Integration](https://github.com/elastic/elastic-package/issues/1111)
+
+
+ [Integration CI build `elastic-package stack up` does not have default alert index](https://github.com/elastic/elastic-package/issues/1097)
+
+
+ [Creating a local integration test for the dynamic template](https://github.com/elastic/elastic-package/issues/1096)
+
+
+ [elastic-package stack Kibana telemetry](https://github.com/elastic/elastic-package/issues/1091)
+
+
+ [Panic on shellinit detection](https://github.com/elastic/elastic-package/issues/1079)
+
+
+ [Enable APM tracing by default for stack up](https://github.com/elastic/elastic-package/pull/1076)
+
+
+ [Allowed IP List from allowed_geo_ips.txt is insane](https://github.com/elastic/elastic-package/issues/1074)
+
+
+ [Validate version match of ECS in build.yml and generated docs](https://github.com/elastic/elastic-package/issues/1066)
+
+
+ [Enroll cmd](https://github.com/elastic/elastic-package/pull/1065)
+
+
+ [`export dashboard` should strip tags created by Fleet](https://github.com/elastic/elastic-package/issues/1060)
+
+
+ [Some fixes and refactors around profile and stack resources](https://github.com/elastic/elastic-package/pull/1055)
+
+
+ [Support input packages in elastic-package dump](https://github.com/elastic/elastic-package/issues/1050)
+
+
+ [Simplifying package release process proposal](https://github.com/elastic/elastic-package/issues/1043)
+
+
+ [Report benchmark command can compare against a specific version](https://github.com/elastic/elastic-package/issues/1040)
+
+
+ [Set synthetic source mode on new data streams](https://github.com/elastic/elastic-package/issues/1026)
+
+
   ## openziti/sdk-golang
  [JWT Support and Example](https://github.com/openziti/sdk-golang/pull/359)
 
@@ -2321,6 +2505,97 @@ Wraps: (2) attached stack trace
 
 
  [Go SDK Over Submits Posture Responses](https://github.com/openziti/sdk-golang/issues/111)
+
+
+  ## celestiaorg/celestia-app
+ [chore(deps): Bump golang from 1.18.10-alpine3.17 to 1.20.2-alpine3.17](https://github.com/celestiaorg/celestia-app/pull/1494)
+
+
+ [chore(deps): Bump actions/setup-go from 3 to 4](https://github.com/celestiaorg/celestia-app/pull/1492)
+
+
+ [ADR 016: Removing Token Voting for Upgrades](https://github.com/celestiaorg/celestia-app/pull/1491)
+
+
+ [chore: error propagation refactore for the share package](https://github.com/celestiaorg/celestia-app/issues/1490)
+
+
+ [Enforce that a portion of the namespace is not used during consensus](https://github.com/celestiaorg/celestia-app/issues/1489)
+
+
+ [specs: consider removing Sparse Merkle Tree section](https://github.com/celestiaorg/celestia-app/issues/1488)
+
+
+ [specs: versioned namespace IDs](https://github.com/celestiaorg/celestia-app/issues/1487)
+
+
+ [refactor: uniformly override token denomination](https://github.com/celestiaorg/celestia-app/issues/1483)
+
+
+ [staking: introduce total delegation to self-delegation threshold](https://github.com/celestiaorg/celestia-app/issues/1480)
+
+
+ [Write ADR for governance minimization and "difficulty bomb"](https://github.com/celestiaorg/celestia-app/issues/1477)
+
+
+ [EPIC: share encoding](https://github.com/celestiaorg/celestia-app/issues/1465)
+
+
+ [chore: share encoding refactor](https://github.com/celestiaorg/celestia-app/pull/1462)
+
+
+ [specs: Discuss which field and codec we're using](https://github.com/celestiaorg/celestia-app/issues/1459)
+
+
+ [specs: 32 byte namespace ID](https://github.com/celestiaorg/celestia-app/issues/1453)
+
+
+ [Utilize IgnoreMaxNs when using nmt](https://github.com/celestiaorg/celestia-app/issues/1450)
+
+
+ [Consider refactoring `Share` type](https://github.com/celestiaorg/celestia-app/issues/1443)
+
+
+ [specs: public keys](https://github.com/celestiaorg/celestia-app/issues/1440)
+
+
+ [Consider removing split-test-files](https://github.com/celestiaorg/celestia-app/issues/1439)
+
+
+ [specs: PayForBlob transactions](https://github.com/celestiaorg/celestia-app/issues/1435)
+
+
+ [Implement namespace version byte](https://github.com/celestiaorg/celestia-app/issues/1434)
+
+
+ [celestiaorg ADR template](https://github.com/celestiaorg/celestia-app/issues/1415)
+
+
+ [Remove usage of deprecated `rokroskar/workflow-run-cleanup-action`](https://github.com/celestiaorg/celestia-app/issues/1398)
+
+
+ [Improve `celestia-appd init --help` docs](https://github.com/celestiaorg/celestia-app/issues/1393)
+
+
+ [Investigate and possibly implement a way to limit specific parameter changes](https://github.com/celestiaorg/celestia-app/issues/1381)
+
+
+ [Remove the unused min and max square size params](https://github.com/celestiaorg/celestia-app/issues/1380)
+
+
+ [Deterministic namespace ID based on blob content ](https://github.com/celestiaorg/celestia-app/issues/1377)
+
+
+ [Run the `verify` command on mocked QGB](https://github.com/celestiaorg/celestia-app/issues/1375)
+
+
+ [panic on chain start if all required parameters have not been set in genesis](https://github.com/celestiaorg/celestia-app/issues/1371)
+
+
+ [Investigate the tests race conditions](https://github.com/celestiaorg/celestia-app/issues/1369)
+
+
+ [Create a generic reset upgrade hardfork sub command ](https://github.com/celestiaorg/celestia-app/issues/1367)
 
 
   ## nspcc-dev/neofs-node
@@ -2414,6 +2689,97 @@ Wraps: (2) attached stack trace
  [storage engine initialization takes too long](https://github.com/nspcc-dev/neofs-node/issues/2215)
 
 
+  ## onflow/flow-go
+ [Suggestions for PR 3965 (part 2)](https://github.com/onflow/flow-go/pull/4051)
+
+
+ [[WIP] Go 1.20](https://github.com/onflow/flow-go/pull/4050)
+
+
+ [[Exec] Adding collection result consumer type ](https://github.com/onflow/flow-go/pull/4049)
+
+
+ [update vm.Run calls to vm.RunV2 (part 1 of many)](https://github.com/onflow/flow-go/pull/4048)
+
+
+ [make LedgerStorageSnapshot's readCache thread safe](https://github.com/onflow/flow-go/pull/4047)
+
+
+ [Add read leaf nodes from checkpoint file for Archive node use](https://github.com/onflow/flow-go/pull/4040)
+
+
+ [Add tests to leaf node reader](https://github.com/onflow/flow-go/pull/4039)
+
+
+ [Include CoverageReport to ReusableCadenceRuntime and ReusableCadenceRuntimePool types](https://github.com/onflow/flow-go/pull/4038)
+
+
+ [[Networking] Refactor GossipSub topology logger with zeroLog dictionary feature](https://github.com/onflow/flow-go/pull/4035)
+
+
+ [Assert that an flow.AccountLinked event is emitted](https://github.com/onflow/flow-go/pull/4032)
+
+
+ [Remove nil location check in getOrLoad program](https://github.com/onflow/flow-go/pull/4031)
+
+
+ [Inconsistent flow.Identifier from ](https://github.com/onflow/flow-go/issues/4030)
+
+
+ [v0.29 add read leaf nodes](https://github.com/onflow/flow-go/pull/4029)
+
+
+ [[Access] Handle inconsistent protocol state in access rpc engine](https://github.com/onflow/flow-go/issues/4028)
+
+
+ [Khalil/1883-inbound single pairwise connection](https://github.com/onflow/flow-go/pull/4022)
+
+
+ [Extended coding guidelines around usage of `irrecoverable.Exception`](https://github.com/onflow/flow-go/pull/4021)
+
+
+ [Enable attachments on all networks but Mainnet](https://github.com/onflow/flow-go/pull/4020)
+
+
+ [[Access] Include start/end height in response from GetEventsForHeightRange](https://github.com/onflow/flow-go/issues/4019)
+
+
+ [[TPS][Testing] Move TPS test runs to new VM](https://github.com/onflow/flow-go/issues/4015)
+
+
+ [Remove unused/usafe Get/Set on Derived data](https://github.com/onflow/flow-go/pull/4011)
+
+
+ [Support bn254](https://github.com/onflow/flow-go/issues/4006)
+
+
+ [[Exec] change requirements for chunk data pack requests](https://github.com/onflow/flow-go/pull/4005)
+
+
+ [Storage PoC](https://github.com/onflow/flow-go/pull/4004)
+
+
+ [Re-enable epoch SN test](https://github.com/onflow/flow-go/pull/3996)
+
+
+ [[Exec] Split execution state interface - part 1](https://github.com/onflow/flow-go/pull/3994)
+
+
+ [Create function to extract payload/register values from Checkpoint V6 files to iterator/go channel](https://github.com/onflow/flow-go/issues/3990)
+
+
+ [[Networking] Introducing Visibility to the GossipSub Scoring Mechanism](https://github.com/onflow/flow-go/pull/3986)
+
+
+ [Remove account freezing ](https://github.com/onflow/flow-go/issues/3983)
+
+
+ [[Access] Fix REST API metrics](https://github.com/onflow/flow-go/issues/3971)
+
+
+ [[BFT] Pending blocks cache for follower engine](https://github.com/onflow/flow-go/pull/3965)
+
+
   ## keptn/lifecycle-toolkit
  [ci: fix release docs pipeline](https://github.com/keptn/lifecycle-toolkit/pull/1058)
 
@@ -2505,97 +2871,6 @@ Wraps: (2) attached stack trace
  [docs: add KLT file structure](https://github.com/keptn/lifecycle-toolkit/pull/993)
 
 
-  ## openziti/ziti
- [Updating changelog with channel and fabric bug fixes](https://github.com/openziti/ziti/pull/1040)
 
 
- [ziti edge create service fails silently if config names don't exist](https://github.com/openziti/ziti/issues/1032)
-
-
- [Quickstart on Raspberry Pi 4 running 32 bit does not run](https://github.com/openziti/ziti/issues/1031)
-
-
- [Provide an upgrade path for ziti cleanup](https://github.com/openziti/ziti/issues/1030)
-
-
- [Erlang/Elixir Edge SDK](https://github.com/openziti/ziti/issues/1029)
-
-
- [Adding default REST API service to quickstart](https://github.com/openziti/ziti/pull/1027)
-
-
- [Fix #920 Rerunning quickstart](https://github.com/openziti/ziti/pull/1025)
-
-
- [ziti agent reports error on windows](https://github.com/openziti/ziti/issues/1023)
-
-
- [Differences between zitiLogin and ziti edge login](https://github.com/openziti/ziti/issues/1022)
-
-
- [No easy way to configure SSO user enrollment ](https://github.com/openziti/ziti/issues/1019)
-
-
- [docker env password is renewed at each `docker-compose up`](https://github.com/openziti/ziti/issues/1013)
-
-
- [Could the controller and router use the computed, well-known, edge trust bundle instead of the ctrl plane trust bundle?](https://github.com/openziti/ziti/issues/996)
-
-
- [ziti router run error with new release 0.27.3](https://github.com/openziti/ziti/issues/993)
-
-
- [wishlist: ziti_stream upstream module for Nginx](https://github.com/openziti/ziti/issues/991)
-
-
- ["ziti create config router edge" doesn't know about --tunnelerMode proxy](https://github.com/openziti/ziti/issues/987)
-
-
- [Incorrect default ports on docker .env file](https://github.com/openziti/ziti/issues/986)
-
-
- [configure bind IP for router tunnel mode "proxy"](https://github.com/openziti/ziti/issues/985)
-
-
- [Ziti Router Tunnel Fallback DNS](https://github.com/openziti/ziti/issues/981)
-
-
- [Answer DNS queries for SRV records](https://github.com/openziti/ziti/issues/980)
-
-
- [RBAC for controller](https://github.com/openziti/ziti/issues/979)
-
-
- [quickstart fails if stuck on any prompt for too long](https://github.com/openziti/ziti/issues/969)
-
-
- [quickstart should probe for expected hostname](https://github.com/openziti/ziti/issues/968)
-
-
- [Stand up a stand alone router within docker](https://github.com/openziti/ziti/issues/967)
-
-
- [Stop recreating router config in docker](https://github.com/openziti/ziti/issues/963)
-
-
- ["Fix" check prereqs](https://github.com/openziti/ziti/issues/962)
-
-
- [Added function for creating additional routers](https://github.com/openziti/ziti/pull/961)
-
-
- [ziti-router creates multiple  IPs for same DNS name](https://github.com/openziti/ziti/issues/960)
-
-
- [Java SDK MFA example](https://github.com/openziti/ziti/issues/957)
-
-
- [Docker .env file not quite correct](https://github.com/openziti/ziti/issues/955)
-
-
- [Allowing filtering on joined entities with guardrails](https://github.com/openziti/ziti/issues/948)
-
-
-
-
- last updated At 2023-03-16 19:30:28.54821 +0530 IST m=+25.227186876
+ last updated At 2023-03-16 19:32:12.697016 +0530 IST m=+24.389428876
