@@ -1,6 +1,610 @@
 #Hello to Go good first issue
 
  
+  ## elastic/elastic-package
+ [Upload safe logs](https://github.com/elastic/elastic-package/pull/1184)
+
+
+ [Remove ansi codes from compose up/down output](https://github.com/elastic/elastic-package/pull/1182)
+
+
+ [[TSDB] Dimension limit override settings blocking the build](https://github.com/elastic/elastic-package/issues/1174)
+
+
+ [Update version in test-install-zip make target ](https://github.com/elastic/elastic-package/issues/1165)
+
+
+ [Add end-to-end benchmark command](https://github.com/elastic/elastic-package/issues/1164)
+
+
+ [[meta] Path to elastic-package 1.0](https://github.com/elastic/elastic-package/issues/1158)
+
+
+ [Use package upload instead of registry for development](https://github.com/elastic/elastic-package/issues/1157)
+
+
+ [elastic-package build command copies hidden files/directories into build directory](https://github.com/elastic/elastic-package/issues/1156)
+
+
+ [Automate format version update in package archetype](https://github.com/elastic/elastic-package/issues/1155)
+
+
+ [[Linter] Ensure `stream.yml.hbs` exists if it will be fallen back on](https://github.com/elastic/elastic-package/issues/1145)
+
+
+ [Refactor profiles to decouple them from stack resources](https://github.com/elastic/elastic-package/pull/1140)
+
+
+ [Fix for issue #1074](https://github.com/elastic/elastic-package/pull/1132)
+
+
+ [Need docker image for Ceph integration system test](https://github.com/elastic/elastic-package/issues/1126)
+
+
+ [Handle use of containerd driver type with elastic-agent images](https://github.com/elastic/elastic-package/issues/1119)
+
+
+ [Run tests in CI with docker-compose v2](https://github.com/elastic/elastic-package/issues/1116)
+
+
+ [[TSDB] [Documentation] Annotate fields that are dimensions in the table showing Exported Fields in Integration](https://github.com/elastic/elastic-package/issues/1111)
+
+
+ [Integration CI build `elastic-package stack up` does not have default alert index](https://github.com/elastic/elastic-package/issues/1097)
+
+
+ [Creating a local integration test for the dynamic template](https://github.com/elastic/elastic-package/issues/1096)
+
+
+ [elastic-package stack Kibana telemetry](https://github.com/elastic/elastic-package/issues/1091)
+
+
+ [Panic on shellinit detection](https://github.com/elastic/elastic-package/issues/1079)
+
+
+ [Enable APM tracing by default for stack up](https://github.com/elastic/elastic-package/pull/1076)
+
+
+ [Allowed IP List from allowed_geo_ips.txt is insane](https://github.com/elastic/elastic-package/issues/1074)
+
+
+ [Validate version match of ECS in build.yml and generated docs](https://github.com/elastic/elastic-package/issues/1066)
+
+
+ [Enroll cmd](https://github.com/elastic/elastic-package/pull/1065)
+
+
+ [`export dashboard` should strip tags created by Fleet](https://github.com/elastic/elastic-package/issues/1060)
+
+
+ [Some fixes and refactors around profile and stack resources](https://github.com/elastic/elastic-package/pull/1055)
+
+
+ [Support input packages in elastic-package dump](https://github.com/elastic/elastic-package/issues/1050)
+
+
+ [Simplifying package release process proposal](https://github.com/elastic/elastic-package/issues/1043)
+
+
+ [Report benchmark command can compare against a specific version](https://github.com/elastic/elastic-package/issues/1040)
+
+
+ [Set synthetic source mode on new data streams](https://github.com/elastic/elastic-package/issues/1026)
+
+
+  ## celestiaorg/celestia-app
+ [chore(deps): Bump actions/setup-go from 3 to 4](https://github.com/celestiaorg/celestia-app/pull/1492)
+
+
+ [ADR 016: Removing Token Voting for Upgrades](https://github.com/celestiaorg/celestia-app/pull/1491)
+
+
+ [chore: error propagation refactore for the share package](https://github.com/celestiaorg/celestia-app/issues/1490)
+
+
+ [Enforce that a portion of the namespace is not used during consensus](https://github.com/celestiaorg/celestia-app/issues/1489)
+
+
+ [specs: consider removing Sparse Merkle Tree section](https://github.com/celestiaorg/celestia-app/issues/1488)
+
+
+ [specs: versioned namespace IDs](https://github.com/celestiaorg/celestia-app/issues/1487)
+
+
+ [refactor: uniformly override token denomination](https://github.com/celestiaorg/celestia-app/issues/1483)
+
+
+ [staking: introduce total delegation to self-delegation threshold](https://github.com/celestiaorg/celestia-app/issues/1480)
+
+
+ [Write ADR for governance minimization and "difficulty bomb"](https://github.com/celestiaorg/celestia-app/issues/1477)
+
+
+ [EPIC: share encoding](https://github.com/celestiaorg/celestia-app/issues/1465)
+
+
+ [chore: share encoding refactor](https://github.com/celestiaorg/celestia-app/pull/1462)
+
+
+ [specs: Discuss which field and codec we're using](https://github.com/celestiaorg/celestia-app/issues/1459)
+
+
+ [specs: 32 byte namespace ID](https://github.com/celestiaorg/celestia-app/issues/1453)
+
+
+ [Utilize IgnoreMaxNs when using nmt](https://github.com/celestiaorg/celestia-app/issues/1450)
+
+
+ [Consider refactoring `Share` type](https://github.com/celestiaorg/celestia-app/issues/1443)
+
+
+ [specs: public keys](https://github.com/celestiaorg/celestia-app/issues/1440)
+
+
+ [Consider removing split-test-files](https://github.com/celestiaorg/celestia-app/issues/1439)
+
+
+ [specs: PayForBlob transactions](https://github.com/celestiaorg/celestia-app/issues/1435)
+
+
+ [Implement namespace version byte](https://github.com/celestiaorg/celestia-app/issues/1434)
+
+
+ [celestiaorg ADR template](https://github.com/celestiaorg/celestia-app/issues/1415)
+
+
+ [Remove usage of deprecated `rokroskar/workflow-run-cleanup-action`](https://github.com/celestiaorg/celestia-app/issues/1398)
+
+
+ [Improve `celestia-appd init --help` docs](https://github.com/celestiaorg/celestia-app/issues/1393)
+
+
+ [Investigate and possibly implement a way to limit specific parameter changes](https://github.com/celestiaorg/celestia-app/issues/1381)
+
+
+ [Remove the unused min and max square size params](https://github.com/celestiaorg/celestia-app/issues/1380)
+
+
+ [Deterministic namespace ID based on blob content ](https://github.com/celestiaorg/celestia-app/issues/1377)
+
+
+ [Run the `verify` command on mocked QGB](https://github.com/celestiaorg/celestia-app/issues/1375)
+
+
+ [panic on chain start if all required parameters have not been set in genesis](https://github.com/celestiaorg/celestia-app/issues/1371)
+
+
+ [Investigate the tests race conditions](https://github.com/celestiaorg/celestia-app/issues/1369)
+
+
+ [Create a generic reset upgrade hardfork sub command ](https://github.com/celestiaorg/celestia-app/issues/1367)
+
+
+ [Network Data Collection](https://github.com/celestiaorg/celestia-app/issues/1352)
+
+
+  ## onflow/flow-go
+ [Suggestions for PR 3965 (part 2)](https://github.com/onflow/flow-go/pull/4051)
+
+
+ [[WIP] Go 1.20](https://github.com/onflow/flow-go/pull/4050)
+
+
+ [[Exec] Adding collection result consumer type ](https://github.com/onflow/flow-go/pull/4049)
+
+
+ [update vm.Run calls to vm.RunV2 (part 1 of many)](https://github.com/onflow/flow-go/pull/4048)
+
+
+ [make LedgerStorageSnapshot's readCache thread safe](https://github.com/onflow/flow-go/pull/4047)
+
+
+ [Add read leaf nodes from checkpoint file for Archive node use](https://github.com/onflow/flow-go/pull/4040)
+
+
+ [Add tests to leaf node reader](https://github.com/onflow/flow-go/pull/4039)
+
+
+ [Include CoverageReport to ReusableCadenceRuntime and ReusableCadenceRuntimePool types](https://github.com/onflow/flow-go/pull/4038)
+
+
+ [[Networking] Refactor GossipSub topology logger with zeroLog dictionary feature](https://github.com/onflow/flow-go/pull/4035)
+
+
+ [Assert that an flow.AccountLinked event is emitted](https://github.com/onflow/flow-go/pull/4032)
+
+
+ [Remove nil location check in getOrLoad program](https://github.com/onflow/flow-go/pull/4031)
+
+
+ [Inconsistent flow.Identifier from ](https://github.com/onflow/flow-go/issues/4030)
+
+
+ [v0.29 add read leaf nodes](https://github.com/onflow/flow-go/pull/4029)
+
+
+ [[Access] Handle inconsistent protocol state in access rpc engine](https://github.com/onflow/flow-go/issues/4028)
+
+
+ [Khalil/1883-inbound single pairwise connection](https://github.com/onflow/flow-go/pull/4022)
+
+
+ [Extended coding guidelines around usage of `irrecoverable.Exception`](https://github.com/onflow/flow-go/pull/4021)
+
+
+ [Enable attachments on all networks but Mainnet](https://github.com/onflow/flow-go/pull/4020)
+
+
+ [[Access] Include start/end height in response from GetEventsForHeightRange](https://github.com/onflow/flow-go/issues/4019)
+
+
+ [[TPS][Testing] Move TPS test runs to new VM](https://github.com/onflow/flow-go/issues/4015)
+
+
+ [Remove unused/usafe Get/Set on Derived data](https://github.com/onflow/flow-go/pull/4011)
+
+
+ [Support bn254](https://github.com/onflow/flow-go/issues/4006)
+
+
+ [[Exec] change requirements for chunk data pack requests](https://github.com/onflow/flow-go/pull/4005)
+
+
+ [Storage PoC](https://github.com/onflow/flow-go/pull/4004)
+
+
+ [Re-enable epoch SN test](https://github.com/onflow/flow-go/pull/3996)
+
+
+ [[Exec] Split execution state interface - part 1](https://github.com/onflow/flow-go/pull/3994)
+
+
+ [Create function to extract payload/register values from Checkpoint V6 files to iterator/go channel](https://github.com/onflow/flow-go/issues/3990)
+
+
+ [[Networking] Introducing Visibility to the GossipSub Scoring Mechanism](https://github.com/onflow/flow-go/pull/3986)
+
+
+ [Remove account freezing ](https://github.com/onflow/flow-go/issues/3983)
+
+
+ [[Access] Fix REST API metrics](https://github.com/onflow/flow-go/issues/3971)
+
+
+ [[BFT] Pending blocks cache for follower engine](https://github.com/onflow/flow-go/pull/3965)
+
+
+  ## filecoin-project/lotus
+ [Post-upgrade: export range fails due to CID not found in the blockstore](https://github.com/filecoin-project/lotus/issues/10492)
+
+
+ [There is a bug in the tool function formatInt used in RLP encoding](https://github.com/filecoin-project/lotus/issues/10491)
+
+
+ [shed: get balances of evm accounts ](https://github.com/filecoin-project/lotus/pull/10489)
+
+
+ [feat:config:force existing users to opt into new defaults](https://github.com/filecoin-project/lotus/pull/10488)
+
+
+ [Boost repeatedly logs event diff fn failed: unknown actor code bafk2bzace...](https://github.com/filecoin-project/lotus/issues/10482)
+
+
+ [Snap Deals Issue With FVM Deal Contract Deals](https://github.com/filecoin-project/lotus/issues/10478)
+
+
+ [eth_getTransactionReceipt  panic](https://github.com/filecoin-project/lotus/issues/10471)
+
+
+ [feat: eth: cache fee history percentiles](https://github.com/filecoin-project/lotus/pull/10466)
+
+
+ [fix: eth: use the correct tipset for Eth APIs](https://github.com/filecoin-project/lotus/pull/10462)
+
+
+ [feat: discard state writes in StateCompute and StateReplay.](https://github.com/filecoin-project/lotus/pull/10457)
+
+
+ [Miner triggerd windowPoST on restart, even if current one is already proven on chain](https://github.com/filecoin-project/lotus/issues/10455)
+
+
+ [Connecting worker with shared storage reports N^N useless information](https://github.com/filecoin-project/lotus/issues/10454)
+
+
+ [feat:chain: Message Index](https://github.com/filecoin-project/lotus/pull/10452)
+
+
+ [[feat] - Add yet another batch of methods to Lotus Gateway](https://github.com/filecoin-project/lotus/pull/10449)
+
+
+ [Occasional random `error in RPC call to 'Filecoin.StorageReportHealth': health report for unknown storage: <GUID>`](https://github.com/filecoin-project/lotus/issues/10448)
+
+
+ [[WIP] v1.21.0](https://github.com/filecoin-project/lotus/issues/10434)
+
+
+ [feat: worker: Ensure tempdir exists on startup](https://github.com/filecoin-project/lotus/pull/10433)
+
+
+ [lotus-shed splitstore rollback memory overflow, causing the thread to be a zombie thread](https://github.com/filecoin-project/lotus/issues/10430)
+
+
+ [Splitstore max size config follow on: alerting and metrics](https://github.com/filecoin-project/lotus/issues/10428)
+
+
+ [feat: tracer: upgrade elastic search transport for pubsub traces ](https://github.com/filecoin-project/lotus/pull/10405)
+
+
+ [Hardhat 'console.log' decoder](https://github.com/filecoin-project/lotus/issues/10401)
+
+
+ [lotus evm stat f05 is broken](https://github.com/filecoin-project/lotus/issues/10400)
+
+
+ [Spike: Pause compaction when out of sync](https://github.com/filecoin-project/lotus/pull/10392)
+
+
+ [Splitstore: proposal for MaxHotBytesTarget and space adaptive GC](https://github.com/filecoin-project/lotus/issues/10388)
+
+
+ [Lotus Hotstore Badger GC ](https://github.com/filecoin-project/lotus/issues/10386)
+
+
+ [ETH RPC: tx reciept returned 'null' when 'out of gas' occured](https://github.com/filecoin-project/lotus/issues/10383)
+
+
+ [CLI: FilPlus: Support calling ExtendClaim](https://github.com/filecoin-project/lotus/issues/10381)
+
+
+ [Lotus Miner V2 - Technical Design Document](https://github.com/filecoin-project/lotus/issues/10379)
+
+
+ [Integrating the grindability proofs change](https://github.com/filecoin-project/lotus/issues/10375)
+
+
+ [Lotus shows wrong expiry time in lotus-miner sectors list](https://github.com/filecoin-project/lotus/issues/10374)
+
+
+  ## cockroachdb/cockroach
+ [roachtest: unoptimized-query-oracle/disable-rules=half/seed-multi-region failed](https://github.com/cockroachdb/cockroach/issues/98763)
+
+
+ [kvserver: remove below-raft PreIngestDelay during SST application](https://github.com/cockroachdb/cockroach/pull/98762)
+
+
+ [sentry: replica_proposal.go:246: log.Fatal: sequence identical for different leases, prevLease=repl=(n1,s1):1 seq=349 start=1678703951.653267401,0 epo=271 pro=1678704079.861808741,0, newLease=repl=(n2,s2):2 s...](https://github.com/cockroachdb/cockroach/issues/98761)
+
+
+ [sql,cli: \l shows unknown owner of the system database](https://github.com/cockroachdb/cockroach/issues/98760)
+
+
+ [backupccl: create stripped crdb_internal.fingerprint overload](https://github.com/cockroachdb/cockroach/pull/98759)
+
+
+ [sqlccl: disable default test tenant for explicit tenant tests](https://github.com/cockroachdb/cockroach/pull/98758)
+
+
+ [sentry: error.go:89: unexpected error from the vectorized engine: single entry value with no default column id
+(1) assertion failure
+Wraps: (2) attached stack trace
+  -- stack trace:
+  | github.com/cockroachd...](https://github.com/cockroachdb/cockroach/issues/98757)
+
+
+ [sentry: error.go:89: unexpected error from the vectorized engine: single entry value with no default column id
+(1)
+Wraps: (2) assertion failure
+Wraps: (3) attached stack trace
+  -- stack trace:
+  | github.com...](https://github.com/cockroachdb/cockroach/issues/98756)
+
+
+ [sentry: error.go:89: unexpected error from the vectorized engine: non-nullable column "×:×" with no value! Index scanned was × with the index key columns (×) and the values (×)
+(1) attached stack trace
+  -- s...](https://github.com/cockroachdb/cockroach/issues/98755)
+
+
+ [sentry: error.go:89: unexpected error from the vectorized engine: single entry value with no default column id
+(1) assertion failure
+Wraps: (2) attached stack trace
+  -- stack trace:
+  | github.com/cockroachd...](https://github.com/cockroachdb/cockroach/issues/98754)
+
+
+ [pkg/sql/sqlstats/persistedsqlstats/persistedsqlstats_test: TestSQLStatsDataDriven failed](https://github.com/cockroachdb/cockroach/issues/98753)
+
+
+ [release-22.2: backupccl: add include_all_secondary_tenants option](https://github.com/cockroachdb/cockroach/pull/98752)
+
+
+ [scripts: use pprofme for pprof-post](https://github.com/cockroachdb/cockroach/pull/98751)
+
+
+ [sql: the output of `SHOW TENANT system WITH CAPABILITIES` is nonsentical](https://github.com/cockroachdb/cockroach/issues/98749)
+
+
+ [sql: TestExplainRedact failed](https://github.com/cockroachdb/cockroach/issues/98746)
+
+
+ [metrics: -count metrics in internal tsdb are broken/not useful](https://github.com/cockroachdb/cockroach/issues/98745)
+
+
+ [roachtest: alterpk-tpcc-500 failed](https://github.com/cockroachdb/cockroach/issues/98744)
+
+
+ [kv/kvserver: TestReplicateRogueRemovedNode failed](https://github.com/cockroachdb/cockroach/issues/98743)
+
+
+ [roachtest: quit-all-nodes failed](https://github.com/cockroachdb/cockroach/issues/98742)
+
+
+ [ci: update bazel builder image](https://github.com/cockroachdb/cockroach/pull/98741)
+
+
+ [geoproj: prevent memory leak](https://github.com/cockroachdb/cockroach/pull/98740)
+
+
+ [sql: simplify V23_1ExternalConnectionsTableHasOwnerIDColumn gating](https://github.com/cockroachdb/cockroach/pull/98739)
+
+
+ [sql: udf expectedLazyRoutineError](https://github.com/cockroachdb/cockroach/issues/98738)
+
+
+ [sql,jobs: add owner_id column to system.scheduled_jobs table](https://github.com/cockroachdb/cockroach/pull/98737)
+
+
+ [ccl/backupccl: TestScheduleChainingEdgeCases failed](https://github.com/cockroachdb/cockroach/issues/98736)
+
+
+ [QA: Confusing error message creating inverted index with TSQuery/TSVector column](https://github.com/cockroachdb/cockroach/issues/98735)
+
+
+ [server: server can drop out of instance table if session recreation fails](https://github.com/cockroachdb/cockroach/issues/98734)
+
+
+ [cloud/gcp: some permission errors returned as `grpc: [code 0/OK]`](https://github.com/cockroachdb/cockroach/issues/98733)
+
+
+ [cloud/gcp_test: add weird code 0/ok error to regex](https://github.com/cockroachdb/cockroach/pull/98732)
+
+
+ [sql: consider prohibiting creation of prepared EXPLAIN ANALYZE statements](https://github.com/cockroachdb/cockroach/issues/98731)
+
+
+  ## gophercloud/gophercloud
+ [Make TestMTUNetworkCRUDL deterministic](https://github.com/gophercloud/gophercloud/pull/2593)
+
+
+ [TestMTUNetworkCRUDL acceptance test is not deterministic](https://github.com/gophercloud/gophercloud/issues/2592)
+
+
+ [Add support for block storage v3 AZs](https://github.com/gophercloud/gophercloud/pull/2591)
+
+
+ [Block Storage V3: List availability zones](https://github.com/gophercloud/gophercloud/issues/2590)
+
+
+ [Bump EmilienM/devstack-action from 0.10 to 0.11](https://github.com/gophercloud/gophercloud/pull/2589)
+
+
+ [Is there an api for event/notification listening?](https://github.com/gophercloud/gophercloud/issues/2588)
+
+
+ [Use ubuntu 20.04 instead of 18.04 for train and ussuri jobs](https://github.com/gophercloud/gophercloud/pull/2585)
+
+
+ [CI: workaround mongodb dependency for messaging and clustering master jobs](https://github.com/gophercloud/gophercloud/pull/2584)
+
+
+ [Bump golang.org/x/crypto from 0.0.0-20220829220503-c86fa9a7ed90 to 0.7.0](https://github.com/gophercloud/gophercloud/pull/2581)
+
+
+ [Add periodic jobs for OpenStack zed release and reduce periodic jobs frequency](https://github.com/gophercloud/gophercloud/pull/2578)
+
+
+ [Remove deprecated services and extensions](https://github.com/gophercloud/gophercloud/issues/2577)
+
+
+ [Add support of Flavors and FlavorProfiles for Octavia](https://github.com/gophercloud/gophercloud/pull/2575)
+
+
+ [Add support of Flavors and FlavorProfiles for Octavia](https://github.com/gophercloud/gophercloud/issues/2574)
+
+
+ [add ext_specs to flavor](https://github.com/gophercloud/gophercloud/pull/2561)
+
+
+ [loadbalancer: Use CreateMemberOpts instead of BatchUpdateMemberOpts in PoolCreateOpts](https://github.com/gophercloud/gophercloud/pull/2560)
+
+
+ [Loadbalancer create fully populated LB broken for empty subnet id in members](https://github.com/gophercloud/gophercloud/issues/2559)
+
+
+ [introduce simple List functions (no details) for services, which support less detailed resource listing](https://github.com/gophercloud/gophercloud/issues/2554)
+
+
+ [Cannot download object if its name contains a % sign](https://github.com/gophercloud/gophercloud/issues/2547)
+
+
+ [AuthOptions should support OS_KEY/OS_CERT/OS_CACERT](https://github.com/gophercloud/gophercloud/issues/2534)
+
+
+ [[wip] Manila: Quotasets](https://github.com/gophercloud/gophercloud/pull/2533)
+
+
+ [Testing dynamically with external project using gophercloud ](https://github.com/gophercloud/gophercloud/issues/2528)
+
+
+ [Bump gopkg.in/yaml to v3](https://github.com/gophercloud/gophercloud/pull/2521)
+
+
+ [objects.BulkDeleteResponse.Errors should probably be, or contain, error interfaces](https://github.com/gophercloud/gophercloud/issues/2520)
+
+
+ [Manila: Quotasets](https://github.com/gophercloud/gophercloud/issues/2518)
+
+
+ [Confusing error messages in acceptance tests](https://github.com/gophercloud/gophercloud/issues/2515)
+
+
+ [Add Github Workflow for checking Go API compatibility on PRs](https://github.com/gophercloud/gophercloud/pull/2508)
+
+
+ [Manila may choke on dates with UTC offset](https://github.com/gophercloud/gophercloud/issues/2507)
+
+
+ [Create Server `hypervisor_hostname` support](https://github.com/gophercloud/gophercloud/issues/2499)
+
+
+ [openstack flavor show [flavorID] properties](https://github.com/gophercloud/gophercloud/issues/2497)
+
+
+ [Add new share-access-rules API for Manila](https://github.com/gophercloud/gophercloud/issues/2495)
+
+
+  ## simplesurance/terraform-provider-bunny
+ [Allow forcing SSL on the default b-cdn.net hostname](https://github.com/simplesurance/terraform-provider-bunny/issues/109)
+
+
+ [resource and field naming inconsistency pull_zone/pullzone, storagezone/storage_zone](https://github.com/simplesurance/terraform-provider-bunny/issues/102)
+
+
+ [feat(bunny_pullzone): add a datasource for pull zones](https://github.com/simplesurance/terraform-provider-bunny/pull/98)
+
+
+ [feat(bunny_videolibrary): add a resource for managing bunny Video Lib…](https://github.com/simplesurance/terraform-provider-bunny/pull/97)
+
+
+ [Feature Request: DNS](https://github.com/simplesurance/terraform-provider-bunny/issues/89)
+
+
+ [Ensure fields in bunny-go struct message are set to nil instead of the types default value](https://github.com/simplesurance/terraform-provider-bunny/issues/76)
+
+
+ [sdk: use the new DiffSuppressOnRefresh functions](https://github.com/simplesurance/terraform-provider-bunny/issues/52)
+
+
+ [convert pull zone integer enums to strings](https://github.com/simplesurance/terraform-provider-bunny/issues/23)
+
+
+ [edgerule: retry looking up guid to fix: edge rule created successfully, looking up its guid failed](https://github.com/simplesurance/terraform-provider-bunny/issues/20)
+
+
+ [edgerule: modifiying trigger generates diff where all are recreated](https://github.com/simplesurance/terraform-provider-bunny/issues/16)
+
+
+ [destroying an non-existing pull-zone fails](https://github.com/simplesurance/terraform-provider-bunny/issues/15)
+
+
+ [handle deleted pull-zones gracefully](https://github.com/simplesurance/terraform-provider-bunny/issues/14)
+
+
+ [Support setting enable_geo_zone_* fields](https://github.com/simplesurance/terraform-provider-bunny/issues/6)
+
+
+ [validate name field value](https://github.com/simplesurance/terraform-provider-bunny/issues/5)
+
+
   ## chef/automate
  [Doc script fix for curl command for automate cli used in automate-ha onprem doc](https://github.com/chef/automate/pull/7781)
 
@@ -184,6 +788,12 @@
 
 
   ## rollkit/rollkit
+ [build(deps): bump github.com/libp2p/go-libp2p-pubsub from 0.8.3 to 0.9.3](https://github.com/rollkit/rollkit/pull/790)
+
+
+ [build(deps): bump google.golang.org/protobuf from 1.29.1 to 1.30.0](https://github.com/rollkit/rollkit/pull/789)
+
+
  [add signatures and keys to signed header along with signature verification in validate method](https://github.com/rollkit/rollkit/pull/788)
 
 
@@ -235,9 +845,6 @@
  [build(deps): bump github.com/celestiaorg/go-cnc from 0.2.0 to 0.3.0](https://github.com/rollkit/rollkit/pull/759)
 
 
- [build(deps): bump github.com/libp2p/go-libp2p-pubsub from 0.8.3 to 0.9.2](https://github.com/rollkit/rollkit/pull/758)
-
-
  [Extract `fraud` package to `libs` directory](https://github.com/rollkit/rollkit/issues/756)
 
 
@@ -271,10 +878,10 @@
  [Consume header exchange service by full/light nodes](https://github.com/rollkit/rollkit/issues/736)
 
 
- [Merge header gossip with header exachange](https://github.com/rollkit/rollkit/issues/735)
-
-
   ## kubernetes-sigs/gateway-api
+ [Add a conformance test that cecks adding and removing listeners.](https://github.com/kubernetes-sigs/gateway-api/pull/1827)
+
+
  [site: fix TLS example](https://github.com/kubernetes-sigs/gateway-api/pull/1825)
 
 
@@ -360,9 +967,6 @@
 
 
  [GEP: Add support for CORS](https://github.com/kubernetes-sigs/gateway-api/issues/1767)
-
-
- [Make listener can expose >1 ports](https://github.com/kubernetes-sigs/gateway-api/issues/1765)
 
 
   ## okteto/okteto
@@ -454,6 +1058,97 @@
 
 
  [endpoint does not work! but it was in the past!](https://github.com/okteto/okteto/issues/3398)
+
+
+  ## devtron-labs/devtron
+ [Feature: Upgrade postgres version to 12.x and above](https://github.com/devtron-labs/devtron/issues/3123)
+
+
+ [Feature: Jobs Feature](https://github.com/devtron-labs/devtron/issues/3122)
+
+
+ [Bug:  Save and Update button for config map or secret is not clickable when passing invalid values .](https://github.com/devtron-labs/devtron/issues/3121)
+
+
+ [feat: Add timer/counter telemetry for GitOps](https://github.com/devtron-labs/devtron/pull/3119)
+
+
+ [Chore: Security Context for pods and container in chart/devtron and manifest/yaml ](https://github.com/devtron-labs/devtron/pull/3117)
+
+
+ [feat: pod manifest edit feature and option to connect session with node debug pod.](https://github.com/devtron-labs/devtron/pull/3116)
+
+
+ [Feature: enable auto deployment trigger post deployment app change](https://github.com/devtron-labs/devtron/issues/3114)
+
+
+ [Sec fix](https://github.com/devtron-labs/devtron/pull/3112)
+
+
+ [feat: enable auto deployment trigger option after deployment app change](https://github.com/devtron-labs/devtron/pull/3110)
+
+
+ [Feature:  Notification to get which steps fail in build process and its metadata as well.](https://github.com/devtron-labs/devtron/issues/3109)
+
+
+ [feat:Sorting applist according to deployed time](https://github.com/devtron-labs/devtron/pull/3108)
+
+
+ [Feature: Sorting according to the deployed time in the applist](https://github.com/devtron-labs/devtron/issues/3106)
+
+
+ [Feature: Refresh Environments by resetting all CI pipelines to a branch](https://github.com/devtron-labs/devtron/issues/3102)
+
+
+ [docs: added jobs section](https://github.com/devtron-labs/devtron/pull/3097)
+
+
+ [Feature: Additional Role with Trigger access + Update CI pipeline access](https://github.com/devtron-labs/devtron/issues/3094)
+
+
+ [feat: #issue 857 extends support for external postgres in devtron helm chart](https://github.com/devtron-labs/devtron/pull/3092)
+
+
+ [Bug: shows commit details only on currently deployed image on deployment history](https://github.com/devtron-labs/devtron/issues/3091)
+
+
+ [Bug: Getting Bad Request  on saving project without name](https://github.com/devtron-labs/devtron/issues/3090)
+
+
+ [Feature:  Secrets Decode](https://github.com/devtron-labs/devtron/issues/3089)
+
+
+ [docs: application groups ](https://github.com/devtron-labs/devtron/pull/3088)
+
+
+ [Feature: Add option to enable terminal access in View and Edit role of helm apps](https://github.com/devtron-labs/devtron/issues/3087)
+
+
+ [Feature: Add gRPC client for git sensor](https://github.com/devtron-labs/devtron/issues/3086)
+
+
+ [feat: add gRPC client for git-sensor](https://github.com/devtron-labs/devtron/pull/3085)
+
+
+ [chore: changes dashboard container port to 8080 in manifest file](https://github.com/devtron-labs/devtron/pull/3084)
+
+
+ [Feature: Added nonroot user changes in dockerfile](https://github.com/devtron-labs/devtron/issues/3083)
+
+
+ [Bug: Job/CronJob getting triggered automatically](https://github.com/devtron-labs/devtron/issues/3080)
+
+
+ [Bug: User Permission not showing when resource name is too long.](https://github.com/devtron-labs/devtron/issues/3078)
+
+
+ [feat: Review config changes before deployment](https://github.com/devtron-labs/devtron/pull/3077)
+
+
+ [feat: jobs feature](https://github.com/devtron-labs/devtron/pull/3074)
+
+
+ [Feature: confirmation before deploying helm charts](https://github.com/devtron-labs/devtron/issues/3070)
 
 
   ## cloudquery/cloudquery
@@ -912,6 +1607,9 @@
 
 
   ## k8stopologyawareschedwg/deployer
+ [gh actions: release: fix the release lane](https://github.com/k8stopologyawareschedwg/deployer/pull/157)
+
+
  [fix release artifacts](https://github.com/k8stopologyawareschedwg/deployer/issues/156)
 
 
@@ -1898,745 +2596,6 @@
  [Allowing filtering on joined entities with guardrails](https://github.com/openziti/ziti/issues/948)
 
 
-  ## deepflowio/deepflow
- [[Agent] fix otel data's wrong ip and timestamp, add tap_type](https://github.com/deepflowio/deepflow/pull/2644)
 
 
- [[Controller] pingan pod label extend](https://github.com/deepflowio/deepflow/pull/2642)
-
-
- [[server] the EPC of OTel l7 flow log needs to be filled according to …](https://github.com/deepflowio/deepflow/pull/2636)
-
-
- [[server] add direction_score field](https://github.com/deepflowio/deepflow/pull/2635)
-
-
- [[Agent] Add direction score](https://github.com/deepflowio/deepflow/pull/2625)
-
-
- [[FR] FR-27: Support L7PerfCache capability and size configurable and monitorable](https://github.com/deepflowio/deepflow/issues/2620)
-
-
- [[Agent] Support mem pool for flow map](https://github.com/deepflowio/deepflow/pull/2619)
-
-
- [[Server] add SubnetIDs and IPs to ResourceEvent](https://github.com/deepflowio/deepflow/pull/2611)
-
-
- [[server] support export l7 flow log with OTLP](https://github.com/deepflowio/deepflow/pull/2606)
-
-
- [[Querier] Support AutoTagging query in prom-metrics](https://github.com/deepflowio/deepflow/pull/2604)
-
-
- [[profile] profile add flame diagram](https://github.com/deepflowio/deepflow/pull/2602)
-
-
- [[BUG] Kernel Not fit](https://github.com/deepflowio/deepflow/issues/2543)
-
-
- [[Agent] Add io event feature](https://github.com/deepflowio/deepflow/pull/2519)
-
-
- [[FR] FR-26: Support masking application-flow's query detail for mysql & redis](https://github.com/deepflowio/deepflow/issues/2516)
-
-
- [[FR] FR-25: Support continue profile based on language lavel](https://github.com/deepflowio/deepflow/issues/2495)
-
-
- [[FR] FR-24: Support continue profile based on ebpf](https://github.com/deepflowio/deepflow/issues/2494)
-
-
- [[CONTROLLER/SERVICE] support resource API cache](https://github.com/deepflowio/deepflow/pull/2433)
-
-
- [[CI] add agent windows check](https://github.com/deepflowio/deepflow/pull/2428)
-
-
- [[FR] FR-23:  Support prometheus for data master selection when connected to deepflow to reduce storage and network overhead](https://github.com/deepflowio/deepflow/issues/2407)
-
-
- [[FR] FR-021:  support replica clickhouse table](https://github.com/deepflowio/deepflow/issues/2403)
-
-
- [[FR] FR-020: add proc io event](https://github.com/deepflowio/deepflow/issues/2399)
-
-
- [[FR] FR-018: add flow direction predict document](https://github.com/deepflowio/deepflow/issues/2337)
-
-
- [[FR] FR-019: Advice on Security](https://github.com/deepflowio/deepflow/issues/2335)
-
-
- [Include the Disk Space requirement in the All-In-One Deployment](https://github.com/deepflowio/deepflow/issues/2332)
-
-
- [[FR] FR-017: Implement full CPU usage limit for deepflow-agent in kernel < 3 environment](https://github.com/deepflowio/deepflow/issues/2325)
-
-
- [[FR] FR-015:  deepflow agent add readiness probe](https://github.com/deepflowio/deepflow/issues/2311)
-
-
- [[FR] FR-016: Clearer eBPF, cBPF documentation](https://github.com/deepflowio/deepflow/issues/2310)
-
-
- [[FR] FR-014: trace data export to OpenTelemetry Collector ](https://github.com/deepflowio/deepflow/issues/2304)
-
-
- [[FR] FR-013: dubbo3 support](https://github.com/deepflowio/deepflow/issues/2303)
-
-
- [[FR] FR-009: Inject process information into TCP Options using a kernel module.](https://github.com/deepflowio/deepflow/issues/2245)
-
-
-  ## kubernetes/kubernetes
- [Add missing unit test for resource resize policy defaulting](https://github.com/kubernetes/kubernetes/pull/116684)
-
-
- [[UT] Increase ut for node_lifecycle_controller.go](https://github.com/kubernetes/kubernetes/pull/116683)
-
-
- [[UT] Increase ut coverage for ipam/sync](https://github.com/kubernetes/kubernetes/pull/116682)
-
-
- [don't ignore UID impersonation in webhook clients](https://github.com/kubernetes/kubernetes/pull/116681)
-
-
- [Override timeout for CSI NodePublishVolume operation](https://github.com/kubernetes/kubernetes/issues/116680)
-
-
- [fix typo in api-resources help text](https://github.com/kubernetes/kubernetes/pull/116678)
-
-
- [TestGetListNonRecursive is flaky](https://github.com/kubernetes/kubernetes/issues/116677)
-
-
- [Pod pending in PodInitializing state after Init container OOMKilled](https://github.com/kubernetes/kubernetes/issues/116676)
-
-
- [deflake: Add retry with timeout to wait for final conditions](https://github.com/kubernetes/kubernetes/pull/116675)
-
-
- [GetNodeHostIPs: one cycle and jump first check](https://github.com/kubernetes/kubernetes/pull/116674)
-
-
- [ImageLocality scored is inaccurate during 4 minutes after scheduler startup](https://github.com/kubernetes/kubernetes/issues/116673)
-
-
- [Add an image for kubectl](https://github.com/kubernetes/kubernetes/pull/116672)
-
-
- [Manifest ](https://github.com/kubernetes/kubernetes/issues/116671)
-
-
- [kmsv2: test enable and disable feature](https://github.com/kubernetes/kubernetes/pull/116670)
-
-
- [Automated cherry pick of #115966: make MixedProtocolNotSupported public](https://github.com/kubernetes/kubernetes/pull/116669)
-
-
- [Automated cherry pick of #115966: make MixedProtocolNotSupported public](https://github.com/kubernetes/kubernetes/pull/116668)
-
-
- [Can we release a simple kubectl image](https://github.com/kubernetes/kubernetes/issues/116667)
-
-
- [Automated cherry pick of #116603: Aggregated discovery resilient to nil GVK](https://github.com/kubernetes/kubernetes/pull/116666)
-
-
- [intstr improvements: constructor from int32, pointer constructors](https://github.com/kubernetes/kubernetes/pull/116665)
-
-
- [Kubernetes Controller is marking detach is sucess without sending request to CSI](https://github.com/kubernetes/kubernetes/issues/116663)
-
-
- [Expose `ownerReferences` via `valueFrom` and downward API](https://github.com/kubernetes/kubernetes/issues/116662)
-
-
- [Testing CI](https://github.com/kubernetes/kubernetes/pull/116661)
-
-
- [[DO-NOT-MERGE] test kms required job](https://github.com/kubernetes/kubernetes/pull/116660)
-
-
- [unit tests: Skip flaky tests on Windows (part 2)](https://github.com/kubernetes/kubernetes/pull/116659)
-
-
- [Add 12 get * V1APIResources to file pending_eligible_endpoints.yaml](https://github.com/kubernetes/kubernetes/pull/116658)
-
-
- [Cleanup fd leaks and file removal cleanup](https://github.com/kubernetes/kubernetes/pull/116656)
-
-
- [add log for kubemark start](https://github.com/kubernetes/kubernetes/pull/116652)
-
-
- [Merge pull request #2 from kubernetes/master](https://github.com/kubernetes/kubernetes/pull/116651)
-
-
- [Update cri-tools to v1.26.1](https://github.com/kubernetes/kubernetes/pull/116649)
-
-
- [admission ApplyTo: take in clients](https://github.com/kubernetes/kubernetes/pull/116648)
-
-
-  ## containers/podman
- [Vendor in latest containers/(storage, common, image)](https://github.com/containers/podman/pull/17815)
-
-
- [build(deps): bump google.golang.org/protobuf from 1.29.0 to 1.30.0](https://github.com/containers/podman/pull/17814)
-
-
- [build(deps): bump github.com/openshift/imagebuilder from 1.2.4-0.20230207193036-6e08c897da73 to 1.2.4](https://github.com/containers/podman/pull/17813)
-
-
- [[v4.4.1-rhel] bump golang.org/x/net to v0.8.0](https://github.com/containers/podman/pull/17810)
-
-
- [Revert "Revert "pasta: Use two connections instead of three in TCP ra…](https://github.com/containers/podman/pull/17808)
-
-
- [Creating a network bridge fails with '/' (forward slash) character in name](https://github.com/containers/podman/issues/17806)
-
-
- [podman machine init apparently ignores ignition file completely](https://github.com/containers/podman/issues/17805)
-
-
- [quay flake: can't talk to a V1 container registry](https://github.com/containers/podman/issues/17804)
-
-
- [kube play --wait test: looks like a race](https://github.com/containers/podman/issues/17803)
-
-
- [quay flake: 502 Bad Gateway](https://github.com/containers/podman/issues/17802)
-
-
- [podman pull -> higher CPU usage than docker pull](https://github.com/containers/podman/issues/17799)
-
-
- [[SKIP CI] buildah treadmill: also run rootless tests](https://github.com/containers/podman/pull/17798)
-
-
- [auto update: return restart error](https://github.com/containers/podman/pull/17796)
-
-
- [Rootless containers with systemd do not start after reboot](https://github.com/containers/podman/issues/17794)
-
-
- [[CI:DOCS] update basic_networking.md](https://github.com/containers/podman/pull/17792)
-
-
- [Portable Docker wrapper](https://github.com/containers/podman/pull/17791)
-
-
- [[v4.4.1-rhel] Use append() to add elements to a slice (restore)](https://github.com/containers/podman/pull/17790)
-
-
- [build http://.../context.tar: Error: no FROM statement found](https://github.com/containers/podman/issues/17788)
-
-
- [incorrect vm image names when using --image-path](https://github.com/containers/podman/issues/17784)
-
-
- [Lack in support in DNAT to `::1`.](https://github.com/containers/podman/issues/17782)
-
-
- [Inspecting a container's exposed ports returns an empty `HostIp`](https://github.com/containers/podman/issues/17780)
-
-
- [Events: image pull event not emitted when building image from Dockerfile with `pull` set to true](https://github.com/containers/podman/issues/17779)
-
-
- [Build image `pull` field type mismatch with Docker](https://github.com/containers/podman/issues/17778)
-
-
- [--health-on-failure=restart doesn't restart container?](https://github.com/containers/podman/issues/17777)
-
-
- [`GET /info` not returning `IndexServerAddress`](https://github.com/containers/podman/issues/17776)
-
-
- [build(deps): bump github.com/onsi/gomega from 1.27.2 to 1.27.4](https://github.com/containers/podman/pull/17775)
-
-
- ['podman commit -f docker -m' WARN:COMMENT is not supported for OCI image format](https://github.com/containers/podman/issues/17773)
-
-
- [REST API: "\u003cmissing\u003e" instead of "<missing>" in returned Id attribute ( /v1.24/images/${img}/history )](https://github.com/containers/podman/issues/17769)
-
-
- [`podman history --format '{{.CreatedAt}}' IMG` prints different output than docker](https://github.com/containers/podman/issues/17768)
-
-
- [`podman history --format '{{.Size}}' IMG` outputs an extra space (compared to docker)](https://github.com/containers/podman/issues/17767)
-
-
-  ## go-task/task
- [Add task section to describe its input arguments](https://github.com/go-task/task/issues/1063)
-
-
- [feat: update the default configuration file name suffix](https://github.com/go-task/task/pull/1062)
-
-
- [Change the suffix of the configuration file generated by initialization to `.yml`.](https://github.com/go-task/task/issues/1061)
-
-
- [build(deps): bump webpack from 5.72.1 to 5.76.1 in /docs](https://github.com/go-task/task/pull/1060)
-
-
- [Add splitArgs template function](https://github.com/go-task/task/pull/1059)
-
-
- [feat: support multiple languages and add Chinese translation](https://github.com/go-task/task/pull/1058)
-
-
- [Help site supports multiple languages.](https://github.com/go-task/task/issues/1057)
-
-
- [feat: add task location data to json output](https://github.com/go-task/task/pull/1056)
-
-
- [Environment definitions in task files should have precedence over predefined environment variables](https://github.com/go-task/task/pull/1053)
-
-
- [Vars order matters when it shouldn't. Maps don't have order.](https://github.com/go-task/task/issues/1051)
-
-
- [Proposal: Migrate `master` to `main`](https://github.com/go-task/task/issues/1049)
-
-
- [chore: update refs from `master` to `main`](https://github.com/go-task/task/pull/1048)
-
-
- [USER_WORKING_DIR creates unexpected directory](https://github.com/go-task/task/issues/1046)
-
-
- [defered tasks and commands cannot be silenced](https://github.com/go-task/task/issues/1044)
-
-
- [Consider migrating from `stretchr/testify/assert` to `alecthomas/assert`](https://github.com/go-task/task/issues/1042)
-
-
- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
-
-
- [Add `splitArgs` template function to allow to reliably get arguments of `CLI_ARGS`](https://github.com/go-task/task/issues/1040)
-
-
- [Environment variables from shell takes precedence over task file definition](https://github.com/go-task/task/issues/1038)
-
-
- [Please consider to implement an equivalent of GNU Make's $^ variable](https://github.com/go-task/task/issues/1032)
-
-
- [Taskfile Scoped Variables](https://github.com/go-task/task/issues/1030)
-
-
- [Allow `:` separator to define multiple paths on a single `sources` entry](https://github.com/go-task/task/issues/1018)
-
-
- [Wrapper script like in Gradle](https://github.com/go-task/task/issues/1015)
-
-
- [Interleaved output with pre/post tasks](https://github.com/go-task/task/issues/1013)
-
-
- [Environment variable are loaded by dotenv before dependency tasks are executed](https://github.com/go-task/task/issues/1008)
-
-
- [Variables provided via command line should override ones set in Taskfile.yaml](https://github.com/go-task/task/pull/1006)
-
-
- [`dir` does not create a directory in some cases](https://github.com/go-task/task/issues/1001)
-
-
- [Make task temp dir configurable within Taskfile](https://github.com/go-task/task/issues/998)
-
-
- [Vars don't get properly propagated with two levels of `included` nesting](https://github.com/go-task/task/issues/996)
-
-
- [Precedence of environment variables not respected in v3.20.0](https://github.com/go-task/task/issues/993)
-
-
- [bash select in task](https://github.com/go-task/task/issues/986)
-
-
-  ## pingcap/tidb
- [unstable unit test dispatcher_test](https://github.com/pingcap/tidb/issues/42332)
-
-
- [ttl: check expire time in scan worker to ensure the deleted rows are right (#42319)](https://github.com/pingcap/tidb/pull/42331)
-
-
- [*: LOAD DATA returns multiple errors in one error message](https://github.com/pingcap/tidb/pull/42330)
-
-
- [restore: refactor pipeline implementation](https://github.com/pingcap/tidb/pull/42329)
-
-
- [ddl: skip exist error when create the default resource group](https://github.com/pingcap/tidb/pull/42327)
-
-
- [ddl: adjust reader and writer size in ingest mode](https://github.com/pingcap/tidb/pull/42326)
-
-
- [*:  Fix TiFlash serverType check in disaggregated mode](https://github.com/pingcap/tidb/pull/42325)
-
-
- [resource_group: could not bootstrap hybrid API TiDBs](https://github.com/pingcap/tidb/issues/42324)
-
-
- [v5.4.3   select statement error on table which partitioned by column with floor func](https://github.com/pingcap/tidb/issues/42323)
-
-
- [Compatible batch copr with load-based replica read](https://github.com/pingcap/tidb/issues/42322)
-
-
- [Query returns wrong result if `tidb_opt_derive_topn` is on](https://github.com/pingcap/tidb/issues/42321)
-
-
- [planner: make plan cache switch can take effect dynamically](https://github.com/pingcap/tidb/pull/42320)
-
-
- [set the default value of tidb_mem_quota_query to min(5GB, 50%*MAX_MEM)](https://github.com/pingcap/tidb/issues/42317)
-
-
- [executor: increase signalCheckpointForJoinMask to reduce the impact on performance](https://github.com/pingcap/tidb/pull/42315)
-
-
- [br: wait more time to wait spitting the region (#42182)](https://github.com/pingcap/tidb/pull/42314)
-
-
- [br: wait more time to wait spitting the region (#42182)](https://github.com/pingcap/tidb/pull/42313)
-
-
- [executor: for global index update partition keys but returns "Duplicate Key" error](https://github.com/pingcap/tidb/issues/42312)
-
-
- [executor: fix update global index and update reorg partition for global index](https://github.com/pingcap/tidb/pull/42311)
-
-
- [executor: add default value for LOAD DATA batch size](https://github.com/pingcap/tidb/pull/42310)
-
-
- [DATA RACE：read/write LocalTemporaryTables in infoschema](https://github.com/pingcap/tidb/issues/42307)
-
-
- [test: fix data race](https://github.com/pingcap/tidb/pull/42306)
-
-
- [*: remove the constraint that auto column must be defined as a key](https://github.com/pingcap/tidb/pull/42305)
-
-
- [interface conversion: interface {} is nil, not *memory.bytesLimits](https://github.com/pingcap/tidb/issues/42302)
-
-
- [DATA RACE at the regionJob.stage](https://github.com/pingcap/tidb/issues/42301)
-
-
- [Need more detailed exection info for point get](https://github.com/pingcap/tidb/issues/42300)
-
-
- [`admin check table` does not need to EnableCollectExecutionInfo](https://github.com/pingcap/tidb/issues/42299)
-
-
- [ADMIN SHOW DDL JOB QUERIES return wrong results](https://github.com/pingcap/tidb/issues/42298)
-
-
- [set signalCheckpointForJoinMask to 1<<19](https://github.com/pingcap/tidb/pull/42297)
-
-
- [*: support to execute CTE on MPP side](https://github.com/pingcap/tidb/pull/42296)
-
-
- [`read_from_storage` doesn't affect](https://github.com/pingcap/tidb/issues/42295)
-
-
-  ## triggermesh/triggermesh
- [(feat/component) Eventing Component Designed for Oversized Payloads (Video, JSON, files) ](https://github.com/triggermesh/triggermesh/issues/1358)
-
-
- [Trigger the artifacts build on dev branches ](https://github.com/triggermesh/triggermesh/issues/1351)
-
-
- [Defining consumer group on the Azure Event Hub source](https://github.com/triggermesh/triggermesh/issues/1344)
-
-
- [Need an mechanism in awssqssource to control parallelism  ](https://github.com/triggermesh/triggermesh/issues/1343)
-
-
- [Publish ARM and PPC images](https://github.com/triggermesh/triggermesh/issues/1341)
-
-
- [Bump go.opentelemetry.io/otel from 1.11.0 to 1.14.0](https://github.com/triggermesh/triggermesh/pull/1338)
-
-
- [build(deps): bump github.com/Azure/azure-sdk-for-go/sdk/storage/azblob from 0.5.1 to 1.0.0](https://github.com/triggermesh/triggermesh/pull/1335)
-
-
- [build(deps): bump go.mongodb.org/mongo-driver from 1.5.1 to 1.11.2](https://github.com/triggermesh/triggermesh/pull/1324)
-
-
- [Proposal: Set GOMAXPROCS in Target/Source Adapters.](https://github.com/triggermesh/triggermesh/issues/1300)
-
-
- [Improve HTTP Poller source log output](https://github.com/triggermesh/triggermesh/issues/1296)
-
-
- [KafkaTarget Should Implement the TM Replier Package](https://github.com/triggermesh/triggermesh/issues/1285)
-
-
- [Add ability to restrict CRDs installed and controllers expected to start](https://github.com/triggermesh/triggermesh/issues/1277)
-
-
- [Azure IoTHubSource stale dependency](https://github.com/triggermesh/triggermesh/issues/1276)
-
-
- [Check if AWSSNS source can support IAM role for service accounts](https://github.com/triggermesh/triggermesh/issues/1265)
-
-
- [Support for assume role](https://github.com/triggermesh/triggermesh/issues/1253)
-
-
- [HTTPTarget stringifies payload](https://github.com/triggermesh/triggermesh/issues/1190)
-
-
- [Support SQS-compatible services](https://github.com/triggermesh/triggermesh/issues/1189)
-
-
- [Add "update" verb](https://github.com/triggermesh/triggermesh/issues/1170)
-
-
- [Move applications logic from controllers to adapters](https://github.com/triggermesh/triggermesh/issues/1166)
-
-
- [Improve event routing capabilities ](https://github.com/triggermesh/triggermesh/issues/1145)
-
-
- [[QUESTION] Including Keptn CloudEvents](https://github.com/triggermesh/triggermesh/issues/1130)
-
-
- [:S3 Target: Removes the Event Source From the File/Naming Structure](https://github.com/triggermesh/triggermesh/pull/1120)
-
-
- [AWS S3 Target Does Not Properly Sanitize Blob Name](https://github.com/triggermesh/triggermesh/issues/1119)
-
-
- [[WebhookSource]Empty response should be 204](https://github.com/triggermesh/triggermesh/issues/992)
-
-
- [[AzureBlobStorageSource]Object stuck deleting](https://github.com/triggermesh/triggermesh/issues/986)
-
-
- [Consider adding dependencies in Function CRDs](https://github.com/triggermesh/triggermesh/issues/962)
-
-
- [`config/500-controller.yaml` Container is running without liveness probe](https://github.com/triggermesh/triggermesh/issues/869)
-
-
- [Enable admission webhook](https://github.com/triggermesh/triggermesh/issues/846)
-
-
- [Allow setting nodeSelector and affinity](https://github.com/triggermesh/triggermesh/issues/768)
-
-
- [Need to re-evaluate how the storage related targets store data](https://github.com/triggermesh/triggermesh/issues/540)
-
-
-  ## cockroachdb/cockroach
- [roachtest: unoptimized-query-oracle/disable-rules=half/seed-multi-region failed](https://github.com/cockroachdb/cockroach/issues/98763)
-
-
- [kvserver: remove below-raft PreIngestDelay during SST application](https://github.com/cockroachdb/cockroach/pull/98762)
-
-
- [sentry: replica_proposal.go:246: log.Fatal: sequence identical for different leases, prevLease=repl=(n1,s1):1 seq=349 start=1678703951.653267401,0 epo=271 pro=1678704079.861808741,0, newLease=repl=(n2,s2):2 s...](https://github.com/cockroachdb/cockroach/issues/98761)
-
-
- [sql,cli: \l shows unknown owner of the system database](https://github.com/cockroachdb/cockroach/issues/98760)
-
-
- [backupccl: create stripped crdb_internal.fingerprint overload](https://github.com/cockroachdb/cockroach/pull/98759)
-
-
- [sqlccl: disable default test tenant for explicit tenant tests](https://github.com/cockroachdb/cockroach/pull/98758)
-
-
- [sentry: error.go:89: unexpected error from the vectorized engine: single entry value with no default column id
-(1) assertion failure
-Wraps: (2) attached stack trace
-  -- stack trace:
-  | github.com/cockroachd...](https://github.com/cockroachdb/cockroach/issues/98757)
-
-
- [sentry: error.go:89: unexpected error from the vectorized engine: single entry value with no default column id
-(1)
-Wraps: (2) assertion failure
-Wraps: (3) attached stack trace
-  -- stack trace:
-  | github.com...](https://github.com/cockroachdb/cockroach/issues/98756)
-
-
- [sentry: error.go:89: unexpected error from the vectorized engine: non-nullable column "×:×" with no value! Index scanned was × with the index key columns (×) and the values (×)
-(1) attached stack trace
-  -- s...](https://github.com/cockroachdb/cockroach/issues/98755)
-
-
- [sentry: error.go:89: unexpected error from the vectorized engine: single entry value with no default column id
-(1) assertion failure
-Wraps: (2) attached stack trace
-  -- stack trace:
-  | github.com/cockroachd...](https://github.com/cockroachdb/cockroach/issues/98754)
-
-
- [pkg/sql/sqlstats/persistedsqlstats/persistedsqlstats_test: TestSQLStatsDataDriven failed](https://github.com/cockroachdb/cockroach/issues/98753)
-
-
- [release-22.2: backupccl: add include_all_secondary_tenants option](https://github.com/cockroachdb/cockroach/pull/98752)
-
-
- [scripts: use pprofme for pprof-post](https://github.com/cockroachdb/cockroach/pull/98751)
-
-
- [sql: the output of `SHOW TENANT system WITH CAPABILITIES` is nonsentical](https://github.com/cockroachdb/cockroach/issues/98749)
-
-
- [sql: TestExplainRedact failed](https://github.com/cockroachdb/cockroach/issues/98746)
-
-
- [metrics: -count metrics in internal tsdb are broken/not useful](https://github.com/cockroachdb/cockroach/issues/98745)
-
-
- [roachtest: alterpk-tpcc-500 failed](https://github.com/cockroachdb/cockroach/issues/98744)
-
-
- [kv/kvserver: TestReplicateRogueRemovedNode failed](https://github.com/cockroachdb/cockroach/issues/98743)
-
-
- [roachtest: quit-all-nodes failed](https://github.com/cockroachdb/cockroach/issues/98742)
-
-
- [ci: update bazel builder image](https://github.com/cockroachdb/cockroach/pull/98741)
-
-
- [geoproj: prevent memory leak](https://github.com/cockroachdb/cockroach/pull/98740)
-
-
- [sql: simplify V23_1ExternalConnectionsTableHasOwnerIDColumn gating](https://github.com/cockroachdb/cockroach/pull/98739)
-
-
- [sql: udf expectedLazyRoutineError](https://github.com/cockroachdb/cockroach/issues/98738)
-
-
- [sql,jobs: add owner_id column to system.scheduled_jobs table](https://github.com/cockroachdb/cockroach/pull/98737)
-
-
- [ccl/backupccl: TestScheduleChainingEdgeCases failed](https://github.com/cockroachdb/cockroach/issues/98736)
-
-
- [QA: Confusing error message creating inverted index with TSQuery/TSVector column](https://github.com/cockroachdb/cockroach/issues/98735)
-
-
- [server: server can drop out of instance table if session recreation fails](https://github.com/cockroachdb/cockroach/issues/98734)
-
-
- [cloud/gcp: some permission errors returned as `grpc: [code 0/OK]`](https://github.com/cockroachdb/cockroach/issues/98733)
-
-
- [cloud/gcp_test: add weird code 0/ok error to regex](https://github.com/cockroachdb/cockroach/pull/98732)
-
-
- [sql: consider prohibiting creation of prepared EXPLAIN ANALYZE statements](https://github.com/cockroachdb/cockroach/issues/98731)
-
-
-  ## mattermost/mattermost-server
- [Mono repo hh upload](https://github.com/mattermost/mattermost-server/pull/22536)
-
-
- [Unable to import the data using mmctl or mattermost into the mattermost server/database (followed as it is in the official docs) reported at mattermost/docs #6285](https://github.com/mattermost/mattermost-server/issues/22535)
-
-
- [[MM-49486]: Option to exclude file count in channel stats](https://github.com/mattermost/mattermost-server/pull/22533)
-
-
- [Fixed MM-51060](https://github.com/mattermost/mattermost-server/pull/22532)
-
-
- [[MM-51401] Add an extra check for the schema](https://github.com/mattermost/mattermost-server/pull/22531)
-
-
- [MM-49564: Drafts upsert in the Store vs App layer](https://github.com/mattermost/mattermost-server/pull/22530)
-
-
- [calls in test mode even if it's on OFF](https://github.com/mattermost/mattermost-server/issues/22529)
-
-
- [GET /v4/posts/{post_id}/thread with perPage returns different number of posts](https://github.com/mattermost/mattermost-server/issues/22528)
-
-
- [[MM-51445] Replace compass-components icon component with compass icons](https://github.com/mattermost/mattermost-server/pull/22527)
-
-
- ["@" mentioning modal going out of screen on small window](https://github.com/mattermost/mattermost-server/issues/22526)
-
-
- [E2E folder structure for mono-repo](https://github.com/mattermost/mattermost-server/pull/22525)
-
-
- [Please: Free version of mattermost doesn't provide any message/attachment retention settings](https://github.com/mattermost/mattermost-server/issues/22524)
-
-
- [[MM-51233] Updates for Trial Requests](https://github.com/mattermost/mattermost-server/pull/22521)
-
-
- [User can´t update their state](https://github.com/mattermost/mattermost-server/issues/22520)
-
-
- [Change channel type dropdown to a button instead of an anchor](https://github.com/mattermost/mattermost-server/pull/22517)
-
-
- [Post texts disappear](https://github.com/mattermost/mattermost-server/issues/22516)
-
-
- [[MM-49751] - Turn off Inactive Server Email](https://github.com/mattermost/mattermost-server/pull/22514)
-
-
- [Optimize FileInfo stats query](https://github.com/mattermost/mattermost-server/pull/22513)
-
-
- [update prepackage boards to v7.8.3](https://github.com/mattermost/mattermost-server/pull/22512)
-
-
- [Minio Connection Problems](https://github.com/mattermost/mattermost-server/issues/22507)
-
-
- [Allowed searching users by substring in admin console](https://github.com/mattermost/mattermost-server/pull/22505)
-
-
- [Test renew](https://github.com/mattermost/mattermost-server/pull/22496)
-
-
- [CI trigger for mono-repo](https://github.com/mattermost/mattermost-server/pull/22495)
-
-
- [[MM-50002] Fix infinite reconnect loop when reconnect handler fails](https://github.com/mattermost/mattermost-server/pull/22494)
-
-
- [Links with nested parenthesis parsed incorrectly](https://github.com/mattermost/mattermost-server/issues/22493)
-
-
- [[MM-51302] Fix scroll to the bottom of editor after pasting long text](https://github.com/mattermost/mattermost-server/pull/22491)
-
-
- [Add MUI and remove compass-component (work in progress)](https://github.com/mattermost/mattermost-server/pull/22490)
-
-
- [[MM-39919] Fix login invalid password message on create user](https://github.com/mattermost/mattermost-server/pull/22487)
-
-
- [Calls dropping on Android, but functional on Desktop / iOS ](https://github.com/mattermost/mattermost-server/issues/22486)
-
-
- [ [MM-21901] Set trigger timeout for Interactive Dialogue dynamically using config instead of const value](https://github.com/mattermost/mattermost-server/pull/22485)
-
+ last updated At 2023-03-16 19:30:28.54821 +0530 IST m=+25.227186876
