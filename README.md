@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 25, 2023 07:10 UTC.</div>
+<div align='center'>Last updated at March 25, 2023 07:12 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.6K ⭐️)</span>
@@ -211,13 +211,6 @@
 ## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
-
-- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
