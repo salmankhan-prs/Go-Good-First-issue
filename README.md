@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at March 25, 2023 06:51 UTC.</div>
+<div align='center'>Last updated at March 25, 2023 07:00 UTC.</div>
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(15.6K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.4K ⭐️)</span>
@@ -41,11 +53,6 @@
 - [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
 
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
-
-
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(96.9K ⭐️)</span>
 
 - [Report event for the cases when probe returned Unknown result](https://github.com/kubernetes/kubernetes/issues/116026)
@@ -79,13 +86,6 @@
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(15.6K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
 ## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.2K ⭐️)</span>
@@ -361,9 +361,4 @@
 - [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
 
 - [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
-
-
-## metallb/metallb <span style='color:#F1C40F'>(5.7K ⭐️)</span>
-
-- [Improve golangci-lint configuration](https://github.com/metallb/metallb/issues/1860)
 
