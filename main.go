@@ -246,8 +246,7 @@ func pushMarkdownToRepo(markdown string) error {
 
 func runCronJobs() {
 	s := gocron.NewScheduler(time.UTC)
-	s.Every(10).Minutes().Do(getGoodFirstIssue)
-
+	s.Every(24).Hour().Do(getGoodFirstIssue)
 	s.StartBlocking()
 }
 func main() {
