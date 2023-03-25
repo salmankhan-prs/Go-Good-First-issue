@@ -4,24 +4,22 @@
 
 
 
-<div align='center'>Last updated at March 25, 2023 07:29 UTC.</div>
+<div align='center'>Last updated at March 25, 2023 07:46 UTC.</div>
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+## kubernetes/kubernetes <span style='color:#F1C40F'>(96.9K ⭐️)</span>
 
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(15.6K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+- [Report event for the cases when probe returned Unknown result](https://github.com/kubernetes/kubernetes/issues/116026)
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.4K ⭐️)</span>
@@ -33,6 +31,13 @@
 - [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
 
 - [show link url by tooltip](https://github.com/terrastruct/d2/issues/888)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(15.6K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
 ## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
@@ -58,11 +63,6 @@
 - [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
 
 - [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(96.9K ⭐️)</span>
-
-- [Report event for the cases when probe returned Unknown result](https://github.com/kubernetes/kubernetes/issues/116026)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.5K ⭐️)</span>
