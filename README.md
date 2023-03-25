@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 25, 2023 07:47 UTC.</div>
+<div align='center'>Last updated at March 25, 2023 07:56 UTC.</div>
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(96.9K ⭐️)</span>
@@ -218,6 +218,11 @@
 ## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.4K ⭐️)</span>
+
+- [Add support for `dolt show`](https://github.com/dolthub/dolt/issues/5425)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
