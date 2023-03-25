@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 25, 2023 07:12 UTC.</div>
+<div align='center'>Last updated at March 25, 2023 07:13 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.6K ⭐️)</span>
@@ -51,6 +51,13 @@
 - [Feature: run clusterfile repeatedly](https://github.com/labring/sealos/issues/2832)
 
 - [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
+
+- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(96.9K ⭐️)</span>
