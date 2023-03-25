@@ -1,10 +1,10 @@
 <h1 align='center'><span style='font-size:36px;'>Go Good First Issue</span></h1>
 
-<div align='center' style='font-size:20px;'>Welcome to Go's good first issue list! These are issues that are great for new contributors to the Go community. It is updated every 24 hours.</div>
+<div align='center' style='font-size:20px;'>Welcome to Go's good first issue list! These are issues that are great for new contributors to the Go community. It is updated every 24 hours.</div> <br>
 
 
 
-<div align='center'>Last updated at March 25, 2023 10:38 IST.</div>
+<div align='center'>Last updated at March 25, 2023 10:45 IST.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
@@ -97,13 +97,4 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(96.9K ⭐️)</span>
 
 - [Report event for the cases when probe returned Unknown result](https://github.com/kubernetes/kubernetes/issues/116026)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
-
-- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
-
-- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
