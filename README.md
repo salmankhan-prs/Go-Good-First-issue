@@ -2,20 +2,22 @@
 
 <div align='center' style='font-size:20px;'>Welcome to Go's good first issue list! These are issues that are great for new contributors to the Go community. It is updated every 24 hours.</div>
 
-<div align='center'>Last updated at March 25, 2023 10:36 IST.</div>
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K stars)</span>
+<div align='center'>Last updated at March 25, 2023 10:38 IST.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K stars)</span>
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
 
 
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.5K stars)</span>
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
 
@@ -40,50 +42,50 @@
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K stars)</span>
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(15.6K stars)</span>
+## milvus-io/milvus <span style='color:#F1C40F'>(15.6K ⭐️)</span>
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
-## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.2K stars)</span>
+## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.2K ⭐️)</span>
 
 - [Looking for OpenTelemetry go tracing example with spans propagating through the gateway](https://github.com/grpc-ecosystem/grpc-gateway/issues/3212)
 
 - [Add example repo to README](https://github.com/grpc-ecosystem/grpc-gateway/issues/3208)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K stars)</span>
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
 
 - [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
 
 
-## tailscale/tailscale <span style='color:#F1C40F'>(11.3K stars)</span>
+## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
 
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
-## opencost/opencost <span style='color:#F1C40F'>(3.5K stars)</span>
+## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
 
 - [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
 - [Incorrect OnDemandRateCodeCn configuration](https://github.com/opencost/opencost/issues/1777)
 
 
-## kubefirst/kubefirst <span style='color:#F1C40F'>(465 stars)</span>
+## kubefirst/kubefirst <span style='color:#F1C40F'>(465 ⭐️)</span>
 
 - [Detect if Docker is running before running `local` commands](https://github.com/kubefirst/kubefirst/issues/1312)
 
 - [Gracefully fail when log cannot be written](https://github.com/kubefirst/kubefirst/issues/1311)
 
 
-## dapr/components-contrib <span style='color:#F1C40F'>(433 stars)</span>
+## dapr/components-contrib <span style='color:#F1C40F'>(433 ⭐️)</span>
 
 - [Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
 
@@ -92,21 +94,16 @@
 - [Azure Storage Queues: make polling interval configurable](https://github.com/dapr/components-contrib/issues/2602)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(96.9K stars)</span>
+## kubernetes/kubernetes <span style='color:#F1C40F'>(96.9K ⭐️)</span>
 
 - [Report event for the cases when probe returned Unknown result](https://github.com/kubernetes/kubernetes/issues/116026)
 
 
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K stars)</span>
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
 
 - [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
 
 - [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
 
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.3K stars)</span>
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
