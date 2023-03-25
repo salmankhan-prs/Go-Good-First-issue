@@ -1,8 +1,8 @@
-# <div align='center'>Go Good First Issue</div>
+<h1 align='center'><span style='font-size:36px;'>Go Good First Issue</span></h1>
 
-<div align='center'>Welcome to Go's good first issue list! These are issues that are great for new contributors to the Go community.</div>
+<div align='center' style='font-size:20px;'>Welcome to Go's good first issue list! These are issues that are great for new contributors to the Go community. It is updated every 24 hours.</div>
 
-<div align='center'>Last updated at March 25, 2023 10:31 IST.</div>
+<div align='center'>Last updated at March 25, 2023 10:36 IST.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K stars)</span>
