@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 12:03 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 12:13 UTC.</div>
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -348,9 +348,4 @@
 ## alexandrevilain/temporal-operator <span style='color:#F1C40F'>(49 ⭐️)</span>
 
 - [Automate build of Temporal worker process example and include in ghr](https://github.com/alexandrevilain/temporal-operator/issues/306)
-
-
-## sigstore/cosign <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [Cosign copy multi arch/platform support](https://github.com/sigstore/cosign/issues/2748)
 
