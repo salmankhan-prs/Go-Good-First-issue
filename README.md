@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 17:43 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 17:53 UTC.</div>
 
 
 ## kubefirst/kubefirst <span style='color:#F1C40F'>(465 ⭐️)</span>
@@ -12,6 +12,15 @@
 - [Detect if Docker is running before running `local` commands](https://github.com/kubefirst/kubefirst/issues/1312)
 
 - [Gracefully fail when log cannot be written](https://github.com/kubefirst/kubefirst/issues/1311)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(11.4K ⭐️)</span>
+
+- [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
+
+- [Interactive elements (like tooltips) should work with touch devices](https://github.com/terrastruct/d2/issues/897)
+
+- [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.7K ⭐️)</span>
