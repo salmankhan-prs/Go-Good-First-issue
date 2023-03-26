@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 18:03 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 18:13 UTC.</div>
 
 
 ## berachain/polaris <span style='color:#F1C40F'>(59 ⭐️)</span>
