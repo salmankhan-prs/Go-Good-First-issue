@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 13:53 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 14:03 UTC.</div>
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -98,7 +98,7 @@
 - [upstream reference closed: github.com/gobuffalo/fizz/issues/104](https://github.com/ory/hydra/issues/3470)
 
 
-## paralus/paralus <span style='color:#F1C40F'>(718 ⭐️)</span>
+## paralus/paralus <span style='color:#F1C40F'>(719 ⭐️)</span>
 
 - [Add Golang linting in CI and remove unreachable code from the repo](https://github.com/paralus/paralus/issues/184)
 
