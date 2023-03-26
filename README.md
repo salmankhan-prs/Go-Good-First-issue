@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 11:43 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 11:53 UTC.</div>
+
+
+## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -235,6 +240,11 @@
 - [[Bug]: Race condition detected in tests](https://github.com/jaegertracing/jaeger/issues/4340)
 
 - [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
+
+
+## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
 
 
 ## stashapp/stash <span style='color:#F1C40F'>(5.6K ⭐️)</span>
