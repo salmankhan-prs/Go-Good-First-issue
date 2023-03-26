@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 19:33 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 19:43 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
+
+- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
 
 
 ## JoshRosner101/EduFor <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -78,6 +83,13 @@
 - [Gracefully fail when log cannot be written](https://github.com/kubefirst/kubefirst/issues/1311)
 
 
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
+
+- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
+
+
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.4K ⭐️)</span>
 
 - [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
@@ -85,11 +97,6 @@
 - [Interactive elements (like tooltips) should work with touch devices](https://github.com/terrastruct/d2/issues/897)
 
 - [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
-
-- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.7K ⭐️)</span>
@@ -343,7 +350,7 @@
 - [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
 
 
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(663 ⭐️)</span>
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(664 ⭐️)</span>
 
 - [(bug) editor: Removing a variation remove all of them](https://github.com/thomaspoignant/go-feature-flag/issues/612)
 
