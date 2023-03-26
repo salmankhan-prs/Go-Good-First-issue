@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 11:11 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 11:21 UTC.</div>
 
 
 ## ory/hydra <span style='color:#F1C40F'>(13.9K ⭐️)</span>
@@ -343,18 +343,4 @@
 ## sigstore/cosign <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [Cosign copy multi arch/platform support](https://github.com/sigstore/cosign/issues/2748)
-
-
-## kubeshop/testkube <span style='color:#F1C40F'>(720 ⭐️)</span>
-
-- [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
-
-
-## kopia/kopia <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
-
-- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
-
-- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
 
