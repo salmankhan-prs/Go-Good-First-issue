@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 21:43 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 21:53 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
@@ -370,9 +370,4 @@
 ## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.2K ⭐️)</span>
 
 - [Looking for OpenTelemetry go tracing example with spans propagating through the gateway](https://github.com/grpc-ecosystem/grpc-gateway/issues/3212)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
 
