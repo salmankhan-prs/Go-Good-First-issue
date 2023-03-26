@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 16:23 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 16:33 UTC.</div>
 
 
 ## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
@@ -30,6 +30,11 @@
 - [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
 
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.3K ⭐️)</span>
@@ -180,11 +185,6 @@
 - [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
 
 - [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
-
-
-## kubernetes-sigs/kwok <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [[kwok] Change the version information of the node](https://github.com/kubernetes-sigs/kwok/issues/395)
 
 
 ## kubernetes-sigs/kwok <span style='color:#F1C40F'>(1.0K ⭐️)</span>
