@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 11:53 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 12:03 UTC.</div>
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
+
+- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
+
+- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
 
 ## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -38,15 +47,6 @@
 ## paralus/paralus <span style='color:#F1C40F'>(718 ⭐️)</span>
 
 - [Add Golang linting in CI and remove unreachable code from the repo](https://github.com/paralus/paralus/issues/184)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
-
-- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
-
-- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
 
 ## kubernetes-sigs/kwok <span style='color:#F1C40F'>(1.0K ⭐️)</span>
