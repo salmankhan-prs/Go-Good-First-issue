@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 11:01 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 11:02 UTC.</div>
 
 
 ## ory/hydra <span style='color:#F1C40F'>(13.9K ⭐️)</span>
@@ -205,31 +205,6 @@
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
 
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
-
-- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
-
-- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
-
-- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
-
-- [[QUESTION]没有卸载面板的脚本](https://github.com/1Panel-dev/1Panel/issues/330)
-
-- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
-
-- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
-
-- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
-
-- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
-
-- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
-
-- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
-
-
 ## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(322 ⭐️)</span>
 
 - [Add EKS security rule: EKS clusters should have encryption of K8s secrets enabled.](https://github.com/Zeus-Labs/ZeusCloud/issues/128)
@@ -309,4 +284,79 @@
 - [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
+
+
+## weaviate/weaviate-go-client <span style='color:#F1C40F'>(8 ⭐️)</span>
+
+- [Add support for API keys](https://github.com/weaviate/weaviate-go-client/issues/136)
+
+- [Support offset parameter in Object List to support pagination](https://github.com/weaviate/weaviate-go-client/issues/129)
+
+- [[Refactor] Build URL query params in a more idiomatic way](https://github.com/weaviate/weaviate-go-client/issues/127)
+
+
+## project-zot/zot <span style='color:#F1C40F'>(329 ⭐️)</span>
+
+- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
+
+- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
+
+
+## JoshRosner101/EduFor <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [DELETE for threads/replies](https://github.com/JoshRosner101/EduFor/issues/19)
+
+- [Decorate threads page](https://github.com/JoshRosner101/EduFor/issues/11)
+
+- [Decorate main page](https://github.com/JoshRosner101/EduFor/issues/10)
+
+
+## redhat-developer/odo <span style='color:#F1C40F'>(693 ⭐️)</span>
+
+- [missing name detection to `odo analyze`](https://github.com/redhat-developer/odo/issues/6649)
+
+
+## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
+
+- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.1K ⭐️)</span>
+
+- [BUG: sealos run --single not untaint master node](https://github.com/labring/sealos/issues/2838)
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+
+- [Feature: run clusterfile repeatedly](https://github.com/labring/sealos/issues/2832)
+
+- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
+
+
+## alexandrevilain/temporal-operator <span style='color:#F1C40F'>(49 ⭐️)</span>
+
+- [Automate build of Temporal worker process example and include in ghr](https://github.com/alexandrevilain/temporal-operator/issues/306)
+
+
+## sigstore/cosign <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [Cosign copy multi arch/platform support](https://github.com/sigstore/cosign/issues/2748)
+
+
+## kubeshop/testkube <span style='color:#F1C40F'>(720 ⭐️)</span>
+
+- [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
+
+
+## kopia/kopia <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
+
+- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
+
+- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
 
