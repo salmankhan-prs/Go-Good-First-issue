@@ -4,12 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 11:21 UTC.</div>
-
-
-## ory/hydra <span style='color:#F1C40F'>(13.9K ⭐️)</span>
-
-- [upstream reference closed: github.com/gobuffalo/fizz/issues/104](https://github.com/ory/hydra/issues/3470)
+<div align='center'>Last updated at March 26, 2023 11:31 UTC.</div>
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -23,6 +18,11 @@
 - [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
+
+
+## ory/hydra <span style='color:#F1C40F'>(13.9K ⭐️)</span>
+
+- [upstream reference closed: github.com/gobuffalo/fizz/issues/104](https://github.com/ory/hydra/issues/3470)
 
 
 ## paralus/paralus <span style='color:#F1C40F'>(718 ⭐️)</span>
