@@ -241,6 +241,7 @@ func pushMarkdownToRepo(markdown string) error {
 
 	_, err = client.Do(pushReq)
 
+	issueCount = 0
 	return nil
 
 }
