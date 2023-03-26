@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 14:03 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 14:13 UTC.</div>
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
+
+- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
+
+- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -54,15 +63,6 @@
 ## grafana-operator/grafana-operator <span style='color:#F1C40F'>(550 ⭐️)</span>
 
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
-
-- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
-
-- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
 
 ## storj/storj <span style='color:#F1C40F'>(2.7K ⭐️)</span>
@@ -304,7 +304,7 @@
 - [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
 
 
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(256 ⭐️)</span>
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(257 ⭐️)</span>
 
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
