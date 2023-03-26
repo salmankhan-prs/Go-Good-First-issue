@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 15:23 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 15:33 UTC.</div>
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -102,6 +102,11 @@
 ## grafana-operator/grafana-operator <span style='color:#F1C40F'>(550 ⭐️)</span>
 
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
 
 
 ## storj/storj <span style='color:#F1C40F'>(2.7K ⭐️)</span>
@@ -354,13 +359,4 @@
 - [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
 
 - [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
-
-
-## weaviate/weaviate-go-client <span style='color:#F1C40F'>(9 ⭐️)</span>
-
-- [Add support for API keys](https://github.com/weaviate/weaviate-go-client/issues/136)
-
-- [Support offset parameter in Object List to support pagination](https://github.com/weaviate/weaviate-go-client/issues/129)
-
-- [[Refactor] Build URL query params in a more idiomatic way](https://github.com/weaviate/weaviate-go-client/issues/127)
 
