@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 22:23 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 22:33 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
@@ -365,9 +365,4 @@
 ## apache/apisix-ingress-controller <span style='color:#F1C40F'>(763 ⭐️)</span>
 
 - [docs: ApisixUpstream reference need to be updated](https://github.com/apache/apisix-ingress-controller/issues/1740)
-
-
-## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.2K ⭐️)</span>
-
-- [Looking for OpenTelemetry go tracing example with spans propagating through the gateway](https://github.com/grpc-ecosystem/grpc-gateway/issues/3212)
 
