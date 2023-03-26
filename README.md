@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 11:10 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 11:11 UTC.</div>
 
 
 ## ory/hydra <span style='color:#F1C40F'>(13.9K ⭐️)</span>
@@ -243,8 +243,6 @@
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.4K ⭐️)</span>
-
-- [show link url by tooltip](https://github.com/terrastruct/d2/issues/888)
 
 - [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
 
