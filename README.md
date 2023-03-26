@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 20:33 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 20:43 UTC.</div>
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -375,11 +375,4 @@
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(546 ⭐️)</span>
-
-- [Docs for the Zarf package schema do not specify that a chart URL can be an OCI registry](https://github.com/defenseunicorns/zarf/issues/1463)
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
