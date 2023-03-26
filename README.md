@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 16:43 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 16:53 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.7K ⭐️)</span>
@@ -12,6 +12,23 @@
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [UI - ToolBar - upgrade button](https://github.com/komodorio/helm-dashboard/issues/264)
+
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [UI - General - Install Modal](https://github.com/komodorio/helm-dashboard/issues/259)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
+
+- [UI - General - Uninstall modal](https://github.com/komodorio/helm-dashboard/issues/257)
+
+- [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
 
 
 ## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
@@ -59,23 +76,6 @@
 ## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [提供专用sug接口提供给编辑服务治理规则场景使用，不要查询全量服务信息](https://github.com/polarismesh/polaris/issues/979)
-
-
-## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [UI - ToolBar - upgrade button](https://github.com/komodorio/helm-dashboard/issues/264)
-
-- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
-
-- [UI - General - Install Modal](https://github.com/komodorio/helm-dashboard/issues/259)
-
-- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
-
-- [UI - General - Uninstall modal](https://github.com/komodorio/helm-dashboard/issues/257)
-
-- [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
-
-- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -354,11 +354,4 @@
 - [Interactive elements (like tooltips) should work with touch devices](https://github.com/terrastruct/d2/issues/897)
 
 - [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(257 ⭐️)</span>
-
-- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
-
-- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
 
