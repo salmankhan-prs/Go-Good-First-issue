@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 11:06 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 11:07 UTC.</div>
 
 
 ## ory/hydra <span style='color:#F1C40F'>(13.9K ⭐️)</span>
