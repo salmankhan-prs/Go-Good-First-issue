@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 13:13 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 13:23 UTC.</div>
+
+
+## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
 
 
 ## oras-project/oras <span style='color:#F1C40F'>(881 ⭐️)</span>
@@ -40,11 +45,6 @@
 ## storj/storj <span style='color:#F1C40F'>(2.7K ⭐️)</span>
 
 - [cmd/uplink: show info on how to enable secure custom domain support while sharing with `--dns`](https://github.com/storj/storj/issues/5623)
-
-
-## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
 
 
 ## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
