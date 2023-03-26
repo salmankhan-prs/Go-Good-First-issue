@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 11:08 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 11:09 UTC.</div>
 
 
 ## ory/hydra <span style='color:#F1C40F'>(13.9K ⭐️)</span>
@@ -286,7 +286,7 @@
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
 
 
-## weaviate/weaviate-go-client <span style='color:#F1C40F'>(8 ⭐️)</span>
+## weaviate/weaviate-go-client <span style='color:#F1C40F'>(9 ⭐️)</span>
 
 - [Add support for API keys](https://github.com/weaviate/weaviate-go-client/issues/136)
 
