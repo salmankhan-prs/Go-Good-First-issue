@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 16:13 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 16:23 UTC.</div>
+
+
+## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
+
+- [X - Large Key-Value Store](https://github.com/synnaxlabs/synnax/issues/240)
 
 
 ## labring/sealos <span style='color:#F1C40F'>(10.1K ⭐️)</span>
@@ -182,6 +187,11 @@
 - [[kwok] Change the version information of the node](https://github.com/kubernetes-sigs/kwok/issues/395)
 
 
+## kubernetes-sigs/kwok <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [[kwok] Change the version information of the node](https://github.com/kubernetes-sigs/kwok/issues/395)
+
+
 ## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
@@ -351,9 +361,4 @@
 - [Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
 
 - [Azure Storage Queues: make polling interval configurable](https://github.com/dapr/components-contrib/issues/2602)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
