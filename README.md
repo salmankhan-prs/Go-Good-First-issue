@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 19:43 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 19:53 UTC.</div>
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
@@ -382,11 +382,4 @@
 - [Docs for the Zarf package schema do not specify that a chart URL can be an OCI registry](https://github.com/defenseunicorns/zarf/issues/1463)
 
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
