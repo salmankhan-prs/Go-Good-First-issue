@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 21:03 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 21:13 UTC.</div>
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -14,6 +14,13 @@
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 - [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [[Bug]: Race condition detected in tests](https://github.com/jaegertracing/jaeger/issues/4340)
+
+- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -305,13 +312,6 @@
 - [Docs for deployment not updated after new release](https://github.com/kubernetes/ingress-nginx/issues/9787)
 
 - [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [[Bug]: Race condition detected in tests](https://github.com/jaegertracing/jaeger/issues/4340)
-
-- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
 
 
 ## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
