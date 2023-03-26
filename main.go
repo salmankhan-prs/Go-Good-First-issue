@@ -27,6 +27,7 @@ var (
 	IssueCount  int
 	NAME        string
 	EMAIl       string
+	CRON_TIME  string
 	repoDetails = RepoDetails{}
 )
 
@@ -246,7 +247,7 @@ func pushMarkdownToRepo(markdown string) error {
 
 func runCronJobs() {
 	s := gocron.NewScheduler(time.UTC)
-	s.Every(24).Hour().Do(getGoodFirstIssue)
+	s.Every(24).minutes().Do(getGoodFirstIssue)
 	s.StartBlocking()
 }
 func main() {
@@ -255,5 +256,6 @@ func main() {
 	IssueCount, _ = strconv.Atoi(os.Getenv("ISSUE_COUNT"))
 	EMAIl = os.Getenv("EMAIL")
 	NAME = os.Getenv("NAME")
+	CRON_TIME = os.Getenv("CRON_TIME")
 	runCronJobs()
 }
