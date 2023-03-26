@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 17:23 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 17:33 UTC.</div>
+
+
+## kubefirst/kubefirst <span style='color:#F1C40F'>(465 ⭐️)</span>
+
+- [Detect if Docker is running before running `local` commands](https://github.com/kubefirst/kubefirst/issues/1312)
+
+- [Gracefully fail when log cannot be written](https://github.com/kubefirst/kubefirst/issues/1311)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.7K ⭐️)</span>
