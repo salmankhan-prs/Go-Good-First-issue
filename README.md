@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 16:03 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 16:13 UTC.</div>
 
 
 ## labring/sealos <span style='color:#F1C40F'>(10.1K ⭐️)</span>
@@ -158,7 +158,7 @@
 - [upstream reference closed: github.com/gobuffalo/fizz/issues/104](https://github.com/ory/hydra/issues/3470)
 
 
-## paralus/paralus <span style='color:#F1C40F'>(719 ⭐️)</span>
+## paralus/paralus <span style='color:#F1C40F'>(720 ⭐️)</span>
 
 - [Add Golang linting in CI and remove unreachable code from the repo](https://github.com/paralus/paralus/issues/184)
 
@@ -356,11 +356,4 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(416 ⭐️)</span>
-
-- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
-
-- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
 
