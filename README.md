@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 23:43 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 23:53 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
@@ -67,6 +67,11 @@
 - [Decorate threads page](https://github.com/JoshRosner101/EduFor/issues/11)
 
 - [Decorate main page](https://github.com/JoshRosner101/EduFor/issues/10)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
