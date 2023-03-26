@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 22:33 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 22:43 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
@@ -360,9 +360,4 @@
 ## vanus-labs/vanus <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [[Good First Issues]: implement function "today" - 4 points](https://github.com/vanus-labs/vanus/issues/462)
-
-
-## apache/apisix-ingress-controller <span style='color:#F1C40F'>(763 ⭐️)</span>
-
-- [docs: ApisixUpstream reference need to be updated](https://github.com/apache/apisix-ingress-controller/issues/1740)
 
