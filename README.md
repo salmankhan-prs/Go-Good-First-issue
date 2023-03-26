@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 18:33 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 18:43 UTC.</div>
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [Enable signed release tracking](https://github.com/kyverno/kyverno/issues/6482)
+
+- [Set tokens to read-only](https://github.com/kyverno/kyverno/issues/6483)
+
+- [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
+
+- [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
 
 
 ## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
@@ -54,6 +69,11 @@
 - [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
 
 
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
+
+- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
+
+
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.7K ⭐️)</span>
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
@@ -90,6 +110,11 @@
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 - [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+
+
+## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
+
+- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
 
 
 ## labring/sealos <span style='color:#F1C40F'>(10.1K ⭐️)</span>
@@ -158,11 +183,6 @@
 - [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
-
-- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
-
-
 ## oras-project/oras <span style='color:#F1C40F'>(881 ⭐️)</span>
 
 - [add OCI layout support in command help doc](https://github.com/oras-project/oras/issues/904)
@@ -190,11 +210,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
