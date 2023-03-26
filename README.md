@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 18:13 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 18:23 UTC.</div>
+
+
+## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
+
+- [X - Large Key-Value Store](https://github.com/synnaxlabs/synnax/issues/240)
 
 
 ## berachain/polaris <span style='color:#F1C40F'>(59 ⭐️)</span>
@@ -73,11 +78,6 @@
 - [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
 
 
-## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
-
-- [X - Large Key-Value Store](https://github.com/synnaxlabs/synnax/issues/240)
-
-
 ## kubernetes-sigs/kind <span style='color:#F1C40F'>(11.3K ⭐️)</span>
 
 - [The default CIDRs for serviceSubnet and podSubnet should be documented.](https://github.com/kubernetes-sigs/kind/issues/3117)
@@ -115,6 +115,11 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## stashapp/stash <span style='color:#F1C40F'>(5.6K ⭐️)</span>
+
+- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.3K ⭐️)</span>
@@ -203,11 +208,6 @@
 - [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
-
-
-## stashapp/stash <span style='color:#F1C40F'>(5.6K ⭐️)</span>
-
-- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
 ## ory/hydra <span style='color:#F1C40F'>(13.9K ⭐️)</span>
@@ -303,9 +303,4 @@
 - [[feature]: Add support for Get TC to display test-cases from yaml	](https://github.com/keploy/keploy/issues/337)
 
 - [[feature]: Creating Sample Java Application using JWT Token](https://github.com/keploy/keploy/issues/424)
-
-
-## anchore/syft <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
 
