@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 13:33 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 13:43 UTC.</div>
+
+
+## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [[Docs]-broken "Build and Release" link](https://github.com/meshery/meshery/issues/7394)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(908 ⭐️)</span>
+
+- [Enable GatewayWithAttachedRoutes test](https://github.com/envoyproxy/gateway/issues/1201)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+- [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
 
 
 ## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -109,15 +127,6 @@
 - [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
 
 - [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [[Docs]-broken "Build and Release" link](https://github.com/meshery/meshery/issues/7394)
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
