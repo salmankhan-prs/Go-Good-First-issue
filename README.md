@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 14:13 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 14:23 UTC.</div>
+
+
+## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [提供专用sug接口提供给编辑服务治理规则场景使用，不要查询全量服务信息](https://github.com/polarismesh/polaris/issues/979)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(15.7K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -32,6 +44,11 @@
 - [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
 
 - [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
+
+
+## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
+
+- [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
 
 
 ## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -283,77 +300,4 @@
 - [Add ECS Security Rule: ECS Container Insights should be enabled](https://github.com/Zeus-Labs/ZeusCloud/issues/119)
 
 - [Set up a way to run ZeusCloud with hardcoded Neo4J data](https://github.com/Zeus-Labs/ZeusCloud/issues/120)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(11.4K ⭐️)</span>
-
-- [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
-
-- [Interactive elements (like tooltips) should work with touch devices](https://github.com/terrastruct/d2/issues/897)
-
-- [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(257 ⭐️)</span>
-
-- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
-
-- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
-
-- [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
-
-
-## dapr/components-contrib <span style='color:#F1C40F'>(434 ⭐️)</span>
-
-- [Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
-
-- [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
-
-- [Azure Storage Queues: make polling interval configurable](https://github.com/dapr/components-contrib/issues/2602)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(416 ⭐️)</span>
-
-- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
-
-- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
-
-- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
-
-
-## weaviate/weaviate-go-client <span style='color:#F1C40F'>(9 ⭐️)</span>
-
-- [Add support for API keys](https://github.com/weaviate/weaviate-go-client/issues/136)
-
-- [Support offset parameter in Object List to support pagination](https://github.com/weaviate/weaviate-go-client/issues/129)
-
-- [[Refactor] Build URL query params in a more idiomatic way](https://github.com/weaviate/weaviate-go-client/issues/127)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(329 ⭐️)</span>
-
-- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
 
