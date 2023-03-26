@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 16:33 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 16:43 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(15.7K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
 ## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
@@ -52,13 +59,6 @@
 ## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [提供专用sug接口提供给编辑服务治理规则场景使用，不要查询全量服务信息](https://github.com/polarismesh/polaris/issues/979)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(15.7K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
 ## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -176,6 +176,15 @@
 ## metallb/metallb <span style='color:#F1C40F'>(5.7K ⭐️)</span>
 
 - [Improve golangci-lint configuration](https://github.com/metallb/metallb/issues/1860)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.3K ⭐️)</span>
@@ -352,13 +361,4 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## dapr/components-contrib <span style='color:#F1C40F'>(434 ⭐️)</span>
-
-- [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
-
-- [Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
-
-- [Azure Storage Queues: make polling interval configurable](https://github.com/dapr/components-contrib/issues/2602)
 
