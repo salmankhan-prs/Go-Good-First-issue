@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 26, 2023 22:53 UTC.</div>
+<div align='center'>Last updated at March 26, 2023 23:03 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
@@ -86,13 +86,13 @@
 
 ## berachain/polaris <span style='color:#F1C40F'>(59 ⭐️)</span>
 
+- [refactor(scripts): Refactor the init.sh script into a genesis builder golang cli tool.](https://github.com/berachain/polaris/issues/474)
+
 - [Marshal/Unmarshal of core Geth types is slow](https://github.com/berachain/polaris/issues/446)
 
 - [chore(geth): Upgrade to v1.11.5](https://github.com/berachain/polaris/issues/507)
 
 - [imp(testing): improve ginkgo testing structure ](https://github.com/berachain/polaris/issues/506)
-
-- [refactor(scripts): Refactor the init.sh script into a genesis builder golang cli tool.](https://github.com/berachain/polaris/issues/474)
 
 - [Chore: give test network a fixed validator.](https://github.com/berachain/polaris/issues/481)
 
