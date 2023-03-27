@@ -4,7 +4,27 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 18:23 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 18:33 UTC.</div>
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(546 ⭐️)</span>
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
+## redhat-developer/odo <span style='color:#F1C40F'>(693 ⭐️)</span>
+
+- [missing name detection to `odo analyze`](https://github.com/redhat-developer/odo/issues/6649)
+
+
+## bluesky-social/indigo <span style='color:#F1C40F'>(79 ⭐️)</span>
+
+- [pds: Passwords stored as raw text](https://github.com/bluesky-social/indigo/issues/59)
+
+
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
+
+- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
 
 
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -61,11 +81,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
 
 - [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(546 ⭐️)</span>
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -238,11 +253,6 @@
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
 
-## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
-
-- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
-
-
 ## abcxyz/lumberjack <span style='color:#F1C40F'>(10 ⭐️)</span>
 
 - [clean Java UT ](https://github.com/abcxyz/lumberjack/issues/392)
@@ -389,14 +399,4 @@
 - [EnvironmentLabels sorted wrong](https://github.com/freiheit-com/kuberpult/issues/539)
 
 - [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
-
-
-## earthly/earthly <span style='color:#F1C40F'>(8.9K ⭐️)</span>
-
-- [EARTHLY_GIT_(REF|BRANCH) built in ARG](https://github.com/earthly/earthly/issues/2735)
-
-
-## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
 
