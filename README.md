@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 03:43 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 03:53 UTC.</div>
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(909 ⭐️)</span>
+
+- [Enable GatewayWithAttachedRoutes test](https://github.com/envoyproxy/gateway/issues/1201)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+- [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -177,6 +186,13 @@
 - [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
 
 - [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [[Bug]: Race condition detected in tests](https://github.com/jaegertracing/jaeger/issues/4340)
+
+- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
