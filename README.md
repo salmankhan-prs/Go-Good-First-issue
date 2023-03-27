@@ -4,7 +4,29 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 18:13 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 18:23 UTC.</div>
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
+
+- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
+
+
+## storj/storj <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [cmd/uplink: show info on how to enable secure custom domain support while sharing with `--dns`](https://github.com/storj/storj/issues/5623)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## sigstore/cosign <span style='color:#F1C40F'>(3.2K ⭐️)</span>
@@ -55,11 +77,6 @@
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
-## open-policy-agent/opa <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
-
-
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
@@ -70,11 +87,6 @@
 ## kubernetes/dashboard <span style='color:#F1C40F'>(12.4K ⭐️)</span>
 
 - [CRD does not show the output like kubectl](https://github.com/kubernetes/dashboard/issues/7633)
-
-
-## storj/storj <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [cmd/uplink: show info on how to enable secure custom domain support while sharing with `--dns`](https://github.com/storj/storj/issues/5623)
 
 
 ## gnolang/gno <span style='color:#F1C40F'>(711 ⭐️)</span>
@@ -203,6 +215,15 @@
 - [Check if signing key exists before building anything](https://github.com/chainguard-dev/melange/issues/303)
 
 
+## dapr/components-contrib <span style='color:#F1C40F'>(435 ⭐️)</span>
+
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+- [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
+
+- [Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
+
+
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
@@ -230,13 +251,6 @@
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
 
 ## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -309,7 +323,7 @@
 - [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
 
 
-## guacsec/guac <span style='color:#F1C40F'>(756 ⭐️)</span>
+## guacsec/guac <span style='color:#F1C40F'>(757 ⭐️)</span>
 
 - [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
 
@@ -385,24 +399,4 @@
 ## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
-
-
-## SiaFoundation/hostd <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
-
-- [Integrated DynDNS](https://github.com/SiaFoundation/hostd/issues/17)
-
-- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
-
-- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
-
-- [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
-
-
-## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
-
-- [user details: clarify permissions around contact methods](https://github.com/target/goalert/issues/2823)
 
