@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 15:23 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 15:33 UTC.</div>
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(469 ⭐️)</span>
@@ -87,6 +101,13 @@
 - [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
 
 
+## padok-team/burrito <span style='color:#F1C40F'>(45 ⭐️)</span>
+
+- [Implement exponential back-off](https://github.com/padok-team/burrito/issues/87)
+
+- [handle custom env variables in runner](https://github.com/padok-team/burrito/issues/93)
+
+
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.7K ⭐️)</span>
 
 - [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
@@ -129,6 +150,11 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(881 ⭐️)</span>
@@ -274,11 +300,6 @@
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
 
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
 ## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
@@ -289,9 +310,4 @@
 ## polarsignals/frostdb <span style='color:#F1C40F'>(975 ⭐️)</span>
 
 - [Fix Release() arrow callbacks](https://github.com/polarsignals/frostdb/issues/403)
-
-
-## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
 
