@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 17:23 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 17:33 UTC.</div>
+
+
+## solo-io/gloo <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
+
+- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
+
+- [[gloo-fed] Support kubeconfig with exec command](https://github.com/solo-io/gloo/issues/7912)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
+
+- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(909 ⭐️)</span>
+
+- [Enable GatewayWithAttachedRoutes test](https://github.com/envoyproxy/gateway/issues/1201)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+- [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
@@ -51,15 +74,6 @@
 - [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
 
-## envoyproxy/gateway <span style='color:#F1C40F'>(909 ⭐️)</span>
-
-- [Enable GatewayWithAttachedRoutes test](https://github.com/envoyproxy/gateway/issues/1201)
-
-- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
-
-- [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
-
-
 ## containers/podman <span style='color:#F1C40F'>(17.3K ⭐️)</span>
 
 - [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
@@ -91,15 +105,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## solo-io/gloo <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
-
-- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
-
-- [[gloo-fed] Support kubeconfig with exec command](https://github.com/solo-io/gloo/issues/7912)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
@@ -150,6 +155,11 @@
 - [Check if signing key exists before building anything](https://github.com/chainguard-dev/melange/issues/303)
 
 
+## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
+
+
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
@@ -184,11 +194,6 @@
 ## storj/storj <span style='color:#F1C40F'>(2.7K ⭐️)</span>
 
 - [cmd/uplink: show info on how to enable secure custom domain support while sharing with `--dns`](https://github.com/storj/storj/issues/5623)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
-
-- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
 
 
 ## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
