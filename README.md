@@ -4,7 +4,59 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 15:53 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 16:03 UTC.</div>
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## kubefirst/kubefirst <span style='color:#F1C40F'>(465 ⭐️)</span>
+
+- [Detect if Docker is running before running `local` commands](https://github.com/kubefirst/kubefirst/issues/1312)
+
+- [Gracefully fail when log cannot be written](https://github.com/kubefirst/kubefirst/issues/1311)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(469 ⭐️)</span>
+
+- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
+
+- [log(throughout codebase): Change log to `DAH.String()` instead of `DAH.Hash()` anywhere where we try to log the hash of the `DataAvailabilityHeader`/ `Root`](https://github.com/celestiaorg/celestia-node/issues/1898)
+
+- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
+
+- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
+
+- [logging: More uniformity around naming for loggers per package](https://github.com/celestiaorg/celestia-node/issues/1888)
+
+- [chore(ci tooling): add command to Makefile to install all lint / fmt deps tools](https://github.com/celestiaorg/celestia-node/issues/1854)
+
+- [lib/header: Add traces to Syncer](https://github.com/celestiaorg/celestia-node/issues/1833)
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## freiheit-com/kuberpult <span style='color:#F1C40F'>(17 ⭐️)</span>
+
+- [Show warning if there's a lot of releases](https://github.com/freiheit-com/kuberpult/issues/533)
+
+- [UI/UX: Precision of timespan in commit detail modal.](https://github.com/freiheit-com/kuberpult/issues/537)
+
+- [EnvironmentLabels sorted wrong](https://github.com/freiheit-com/kuberpult/issues/539)
+
+- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
@@ -25,6 +77,11 @@
 ## storj/storj <span style='color:#F1C40F'>(2.7K ⭐️)</span>
 
 - [cmd/uplink: show info on how to enable secure custom domain support while sharing with `--dns`](https://github.com/storj/storj/issues/5623)
+
+
+## earthly/earthly <span style='color:#F1C40F'>(8.9K ⭐️)</span>
+
+- [EARTHLY_GIT_(REF|BRANCH) built in ARG](https://github.com/earthly/earthly/issues/2735)
 
 
 ## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -103,21 +160,6 @@
 - [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
 
 
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(469 ⭐️)</span>
-
-- [log(throughout codebase): Change log to `DAH.String()` instead of `DAH.Hash()` anywhere where we try to log the hash of the `DataAvailabilityHeader`/ `Root`](https://github.com/celestiaorg/celestia-node/issues/1898)
-
-- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
-
-- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
-
-- [logging: More uniformity around naming for loggers per package](https://github.com/celestiaorg/celestia-node/issues/1888)
-
-- [chore(ci tooling): add command to Makefile to install all lint / fmt deps tools](https://github.com/celestiaorg/celestia-node/issues/1854)
-
-- [lib/header: Add traces to Syncer](https://github.com/celestiaorg/celestia-node/issues/1833)
-
-
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
@@ -186,9 +228,9 @@
 - [RecordModifier is missing some upstream configuration](https://github.com/fluent/fluent-operator/issues/597)
 
 
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+## apache/trafficcontrol <span style='color:#F1C40F'>(881 ⭐️)</span>
 
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(881 ⭐️)</span>
@@ -224,13 +266,6 @@
 - [[BUG]: Validation error in `github_team_membership` when using team slug](https://github.com/integrations/terraform-provider-github/issues/1583)
 
 
-## kubefirst/kubefirst <span style='color:#F1C40F'>(465 ⭐️)</span>
-
-- [Detect if Docker is running before running `local` commands](https://github.com/kubefirst/kubefirst/issues/1312)
-
-- [Gracefully fail when log cannot be written](https://github.com/kubefirst/kubefirst/issues/1311)
-
-
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.7K ⭐️)</span>
 
 - [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
@@ -238,11 +273,6 @@
 - [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
 
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -294,37 +324,4 @@
 - [Contrib: doc source structure](https://github.com/keptn/lifecycle-toolkit/issues/998)
 
 - [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.6K ⭐️)</span>
-
-- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(258 ⭐️)</span>
-
-- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
-
-- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
-
-- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
-
-- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
-
-- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
