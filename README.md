@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 19:03 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 19:13 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
+
+- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(19 ⭐️)</span>
+
+- [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
+
+- [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(546 ⭐️)</span>
@@ -117,11 +134,6 @@
 ## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
 
 - [Break Rule `message` into title and an actual message that supports rich text](https://github.com/konveyor/analyzer-lsp/issues/79)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
-
-- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -330,27 +342,4 @@
 - [Exclude doc files from running PR checks](https://github.com/deislabs/ratify/issues/685)
 
 - [Increase test coverage for authprovider](https://github.com/deislabs/ratify/issues/693)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
-## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
-
-- [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
-
-
-## dvonthenen/enterprise-conversation-plugins <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [Document Statistical Plugin and How To Use](https://github.com/dvonthenen/enterprise-conversation-plugins/issues/11)
-
-- [Document Historical Plugin and How To Use](https://github.com/dvonthenen/enterprise-conversation-plugins/issues/10)
-
-- [Document Creating a Plugin](https://github.com/dvonthenen/enterprise-conversation-plugins/issues/9)
 
