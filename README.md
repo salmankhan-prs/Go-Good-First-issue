@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 10:23 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 10:33 UTC.</div>
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
+
+- [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
@@ -12,6 +19,11 @@
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.6K ⭐️)</span>
@@ -67,6 +79,37 @@
 - [pls chk this repo "gain" for faster tcp stack](https://github.com/cloudwego/hertz/issues/639)
 
 
+## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[feature]: Update Keploy UI with latest server APIs ](https://github.com/keploy/keploy/issues/335)
+
+- [[bug]: Empty response for node-fetch http call](https://github.com/keploy/keploy/issues/376)
+
+- [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
+
+- [[feature]: Shortlist ideas to generate testcases using api schema and response provided](https://github.com/keploy/keploy/issues/338)
+
+- [[feature]: beautify response diff viewer on CLI   ](https://github.com/keploy/keploy/issues/334)
+
+- [[feature]:  Create a sample application and add go-fuzzing to it.](https://github.com/keploy/keploy/issues/413)
+
+- [[bug]: cp cmd in build script not working for windows](https://github.com/keploy/keploy/issues/372)
+
+- [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
+
+- [[test]: add unit tests for octokit module](https://github.com/keploy/keploy/issues/354)
+
+- [[feat]: Increase test coverage of Keploy Server using Keploy](https://github.com/keploy/keploy/issues/333)
+
+- [[feature]: Add/Increase Test coverage for JAVA-SDK by adding unit tests  ](https://github.com/keploy/keploy/issues/348)
+
+- [add a sample unit test for mocking/stubbing calls in unit-tests](https://github.com/keploy/keploy/issues/428)
+
+- [[feature]: Add support for Get TC to display test-cases from yaml	](https://github.com/keploy/keploy/issues/337)
+
+- [[feature]: Creating Sample Java Application using JWT Token](https://github.com/keploy/keploy/issues/424)
+
+
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
@@ -82,6 +125,11 @@
 - [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
 
 - [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
+
+
+## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
 
 
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(452 ⭐️)</span>
@@ -268,22 +316,4 @@
 ## metallb/metallb <span style='color:#F1C40F'>(5.7K ⭐️)</span>
 
 - [Improve golangci-lint configuration](https://github.com/metallb/metallb/issues/1860)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [when asking about the stignore, okteto doesn't accept `Y` ](https://github.com/okteto/okteto/issues/3476)
-
-- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
-
-- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
-
-- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
-
-
-## cloudwego/kitex <span style='color:#F1C40F'>(5.7K ⭐️)</span>
-
-- [[docs]: translate kitex codegen doc based on Chinese doc](https://github.com/cloudwego/kitex/issues/861)
-
-- [[docs]: translate kitex custom template doc based on Chinese doc](https://github.com/cloudwego/kitex/issues/856)
 
