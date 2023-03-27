@@ -4,7 +4,43 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 18:53 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 19:03 UTC.</div>
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(546 ⭐️)</span>
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
+## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
+
+
+## solo-io/gloo <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
+
+- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
+
+- [[gloo-fed] Support kubeconfig with exec command](https://github.com/solo-io/gloo/issues/7912)
+
+
+## storj/storj <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [cmd/uplink: show info on how to enable secure custom domain support while sharing with `--dns`](https://github.com/storj/storj/issues/5623)
+
+
+## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
+
+- [user details: clarify permissions around contact methods](https://github.com/target/goalert/issues/2823)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
 
 
 ## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(142 ⭐️)</span>
@@ -27,11 +63,6 @@
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
-
-
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
@@ -45,11 +76,6 @@
 - [feature: Create behavioral unit tests for mailbox controller](https://github.com/kcp-dev/edge-mc/issues/218)
 
 - [feature: new make target for deploying and configuring kcp and kcp-edge components](https://github.com/kcp-dev/edge-mc/issues/212)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(546 ⭐️)</span>
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
 
 ## redhat-developer/odo <span style='color:#F1C40F'>(693 ⭐️)</span>
@@ -72,11 +98,6 @@
 ## open-policy-agent/opa <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
-
-
-## storj/storj <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [cmd/uplink: show info on how to enable secure custom domain support while sharing with `--dns`](https://github.com/storj/storj/issues/5623)
 
 
 ## sigstore/cosign <span style='color:#F1C40F'>(3.2K ⭐️)</span>
@@ -143,15 +164,6 @@
 - [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
 
 - [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
-
-
-## solo-io/gloo <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
-
-- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
-
-- [[gloo-fed] Support kubeconfig with exec command](https://github.com/solo-io/gloo/issues/7912)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
@@ -341,54 +353,4 @@
 - [Document Historical Plugin and How To Use](https://github.com/dvonthenen/enterprise-conversation-plugins/issues/10)
 
 - [Document Creating a Plugin](https://github.com/dvonthenen/enterprise-conversation-plugins/issues/9)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
-
-
-## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
-
-
-## guacsec/guac <span style='color:#F1C40F'>(757 ⭐️)</span>
-
-- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
-
-- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
-
-- [Add ability to parse identifier strings for PURLs](https://github.com/guacsec/guac/issues/590)
-
-- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
-
-
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(453 ⭐️)</span>
-
-- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
-
-- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(162 ⭐️)</span>
-
-- [Add a testutil function that will fuzz random valid and invalid blocks](https://github.com/celestiaorg/celestia-app/issues/1516)
-
-- [specs: rename `message` => `blob`](https://github.com/celestiaorg/celestia-app/issues/1532)
-
-- [docs: rename `message` => `blob` in ADRs](https://github.com/celestiaorg/celestia-app/issues/1531)
-
-- [Explore enforcing conventional commits](https://github.com/celestiaorg/celestia-app/issues/1539)
-
-- [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
-
-- [Consider removing split-test-files](https://github.com/celestiaorg/celestia-app/issues/1439)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
