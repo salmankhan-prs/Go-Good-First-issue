@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 22:33 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 22:43 UTC.</div>
+
+
+## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -65,13 +72,6 @@
 - [feat: add the ability to pull testnet data from the chain registry](https://github.com/cosmos/relayer/issues/1128)
 
 - [look into http response and provide more understandable logs when a node is inaccessible](https://github.com/cosmos/relayer/issues/1136)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
 
 
 ## cli/cli <span style='color:#F1C40F'>(31.8K ⭐️)</span>
