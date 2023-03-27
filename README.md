@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 19:33 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 19:43 UTC.</div>
+
+
+## chainguard-dev/melange <span style='color:#F1C40F'>(203 ⭐️)</span>
+
+- [Check if signing key exists before building anything](https://github.com/chainguard-dev/melange/issues/303)
 
 
 ## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
@@ -281,11 +286,6 @@
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
-## chainguard-dev/melange <span style='color:#F1C40F'>(203 ⭐️)</span>
-
-- [Check if signing key exists before building anything](https://github.com/chainguard-dev/melange/issues/303)
-
-
 ## dapr/components-contrib <span style='color:#F1C40F'>(435 ⭐️)</span>
 
 - [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
@@ -445,9 +445,4 @@
 - [EnvironmentLabels sorted wrong](https://github.com/freiheit-com/kuberpult/issues/539)
 
 - [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
-
-
-## earthly/earthly <span style='color:#F1C40F'>(8.9K ⭐️)</span>
-
-- [EARTHLY_GIT_(REF|BRANCH) built in ARG](https://github.com/earthly/earthly/issues/2735)
 
