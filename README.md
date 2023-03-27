@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 20:03 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 20:13 UTC.</div>
+
+
+## storj/storj <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [cmd/uplink: show info on how to enable secure custom domain support while sharing with `--dns`](https://github.com/storj/storj/issues/5623)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
 
 ## cosmos/ibc-go <span style='color:#F1C40F'>(349 ⭐️)</span>
@@ -15,11 +29,6 @@
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
 
 - [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
-
-
-## storj/storj <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [cmd/uplink: show info on how to enable secure custom domain support while sharing with `--dns`](https://github.com/storj/storj/issues/5623)
 
 
 ## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -61,11 +70,6 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(330 ⭐️)</span>
-
-- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
 
 
 ## project-zot/zot <span style='color:#F1C40F'>(330 ⭐️)</span>
@@ -201,6 +205,17 @@
 - [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [when asking about the stignore, okteto doesn't accept `Y` ](https://github.com/okteto/okteto/issues/3476)
+
+- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
+
+- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
+
+- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
@@ -387,25 +402,7 @@
 - [Increase test coverage for authprovider](https://github.com/deislabs/ratify/issues/693)
 
 
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
 ## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
 
 - [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
-
-
-## dvonthenen/enterprise-conversation-plugins <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [Document Statistical Plugin and How To Use](https://github.com/dvonthenen/enterprise-conversation-plugins/issues/11)
-
-- [Document Historical Plugin and How To Use](https://github.com/dvonthenen/enterprise-conversation-plugins/issues/10)
-
-- [Document Creating a Plugin](https://github.com/dvonthenen/enterprise-conversation-plugins/issues/9)
 
