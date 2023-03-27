@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 17:43 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 17:53 UTC.</div>
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(546 ⭐️)</span>
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
 
 
 ## kubernetes/dashboard <span style='color:#F1C40F'>(12.4K ⭐️)</span>
@@ -22,6 +41,17 @@
 - [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
 
+## envoyproxy/gateway <span style='color:#F1C40F'>(909 ⭐️)</span>
+
+- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
+
+- [Enable GatewayWithAttachedRoutes test](https://github.com/envoyproxy/gateway/issues/1201)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+- [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
+
+
 ## solo-io/gloo <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
@@ -34,17 +64,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
 
 - [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(909 ⭐️)</span>
-
-- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
-
-- [Enable GatewayWithAttachedRoutes test](https://github.com/envoyproxy/gateway/issues/1201)
-
-- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
-
-- [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
@@ -105,13 +124,6 @@
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(898 ⭐️)</span>
 
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(546 ⭐️)</span>
-
-- [Docs for the Zarf package schema do not specify that a chart URL can be an OCI registry](https://github.com/defenseunicorns/zarf/issues/1463)
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
@@ -314,18 +326,4 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## kubefirst/kubefirst <span style='color:#F1C40F'>(465 ⭐️)</span>
-
-- [Detect if Docker is running before running `local` commands](https://github.com/kubefirst/kubefirst/issues/1312)
-
-- [Gracefully fail when log cannot be written](https://github.com/kubefirst/kubefirst/issues/1311)
-
-
-## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
-
-- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
