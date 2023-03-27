@@ -4,7 +4,27 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 17:13 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 17:23 UTC.</div>
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+
+## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(325 ⭐️)</span>
+
+- [Add EKS security rule: EKS clusters should have encryption of K8s secrets enabled.](https://github.com/Zeus-Labs/ZeusCloud/issues/128)
+
+- [Add EKS security rule: EKS control plane logging should be enabled for all log types](https://github.com/Zeus-Labs/ZeusCloud/issues/125)
+
+- [Add EKS Security Rule: Public access to EKS cluster endpoint should be disabled](https://github.com/Zeus-Labs/ZeusCloud/issues/124)
+
+- [Add ECS Security Rule: ECS container environment variables should not have secrets](https://github.com/Zeus-Labs/ZeusCloud/issues/123)
+
+- [Add ECS Security Rule: ECS Container Insights should be enabled](https://github.com/Zeus-Labs/ZeusCloud/issues/119)
+
+- [Set up a way to run ZeusCloud with hardcoded Neo4J data](https://github.com/Zeus-Labs/ZeusCloud/issues/120)
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -89,7 +109,7 @@
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
-## dominant-strategies/go-quai <span style='color:#F1C40F'>(142 ⭐️)</span>
+## dominant-strategies/go-quai <span style='color:#F1C40F'>(143 ⭐️)</span>
 
 - [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
 
@@ -128,11 +148,6 @@
 ## chainguard-dev/melange <span style='color:#F1C40F'>(203 ⭐️)</span>
 
 - [Check if signing key exists before building anything](https://github.com/chainguard-dev/melange/issues/303)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -317,13 +332,4 @@
 - [EnvironmentLabels sorted wrong](https://github.com/freiheit-com/kuberpult/issues/539)
 
 - [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
