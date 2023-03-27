@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 03:13 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 03:23 UTC.</div>
 
 
 ## Edgenesis/shifu <span style='color:#F1C40F'>(809 ⭐️)</span>
@@ -316,20 +316,4 @@
 - [Interactive elements (like tooltips) should work with touch devices](https://github.com/terrastruct/d2/issues/897)
 
 - [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
-
-
-## labring/sealos <span style='color:#F1C40F'>(10.1K ⭐️)</span>
-
-- [BUG: sealos run --single not untaint master node](https://github.com/labring/sealos/issues/2838)
-
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
-
-- [Feature: run clusterfile repeatedly](https://github.com/labring/sealos/issues/2832)
-
-- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
 
