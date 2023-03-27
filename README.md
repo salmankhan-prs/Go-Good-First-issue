@@ -4,14 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 11:53 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 12:03 UTC.</div>
 
 
-## containers/podman <span style='color:#F1C40F'>(17.3K ⭐️)</span>
+## gnolang/gno <span style='color:#F1C40F'>(711 ⭐️)</span>
 
-- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
+- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -29,6 +27,13 @@
 - [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
 
 - [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.3K ⭐️)</span>
+
+- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -53,11 +58,6 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## gnolang/gno <span style='color:#F1C40F'>(711 ⭐️)</span>
-
-- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -307,13 +307,4 @@
 - [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
 
 - [dendrite_up metric](https://github.com/matrix-org/dendrite/issues/2993)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
