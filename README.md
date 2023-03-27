@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 00:43 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 00:53 UTC.</div>
+
+
+## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
+
+- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -23,11 +28,6 @@
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 - [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
-
-
-## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
@@ -169,7 +169,7 @@
 - [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(15.7K ⭐️)</span>
+## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
