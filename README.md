@@ -4,7 +4,51 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 16:53 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 17:03 UTC.</div>
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(546 ⭐️)</span>
+
+- [Docs for the Zarf package schema do not specify that a chart URL can be an OCI registry](https://github.com/defenseunicorns/zarf/issues/1463)
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## solo-io/gloo <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
+
+- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
+
+- [[gloo-fed] Support kubeconfig with exec command](https://github.com/solo-io/gloo/issues/7912)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(909 ⭐️)</span>
+
+- [Enable GatewayWithAttachedRoutes test](https://github.com/envoyproxy/gateway/issues/1201)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+- [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
+
+
+## dominant-strategies/go-quai <span style='color:#F1C40F'>(142 ⭐️)</span>
+
+- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
+
+- [Make build from source instructions more Windows friendly](https://github.com/dominant-strategies/go-quai/issues/695)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(258 ⭐️)</span>
@@ -48,15 +92,6 @@
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
-## envoyproxy/gateway <span style='color:#F1C40F'>(909 ⭐️)</span>
-
-- [Enable GatewayWithAttachedRoutes test](https://github.com/envoyproxy/gateway/issues/1201)
-
-- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
-
-- [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
-
-
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
@@ -69,13 +104,6 @@
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
 
 - [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(546 ⭐️)</span>
-
-- [Docs for the Zarf package schema do not specify that a chart URL can be an OCI registry](https://github.com/defenseunicorns/zarf/issues/1463)
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
 
 ## abcxyz/lumberjack <span style='color:#F1C40F'>(10 ⭐️)</span>
@@ -164,11 +192,6 @@
 - [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
 ## dvonthenen/enterprise-conversation-plugins <span style='color:#F1C40F'>(0 ⭐️)</span>
 
 - [Document Statistical Plugin and How To Use](https://github.com/dvonthenen/enterprise-conversation-plugins/issues/11)
@@ -221,11 +244,6 @@
 - [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
 
 - [Consider removing split-test-files](https://github.com/celestiaorg/celestia-app/issues/1439)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -312,41 +330,4 @@
 ## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
-
-- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
-
-- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
-
-- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
-
-- [[QUESTION]没有卸载面板的脚本](https://github.com/1Panel-dev/1Panel/issues/330)
-
-- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
-
-- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
-
-- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
-
-- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
-
-- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
-
-- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
-
-
-## cli/cli <span style='color:#F1C40F'>(31.8K ⭐️)</span>
-
-- [`gh repo list ORG` where ORG does not exist, not an error](https://github.com/cli/cli/issues/7231)
-
-
-## dapr/components-contrib <span style='color:#F1C40F'>(435 ⭐️)</span>
-
-- [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
-
-- [Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
 
