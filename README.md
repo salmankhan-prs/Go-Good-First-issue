@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 10:53 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 11:03 UTC.</div>
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.1K ⭐️)</span>
+
+- [BUG: sealos run --single not untaint master node](https://github.com/labring/sealos/issues/2838)
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+
+- [Feature: run clusterfile repeatedly](https://github.com/labring/sealos/issues/2832)
+
+- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
 
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(452 ⭐️)</span>
@@ -239,18 +250,9 @@
 
 ## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
 
+- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
+
 - [`--version` always returns `main`](https://github.com/massalabs/thyra/issues/507)
-
-
-## labring/sealos <span style='color:#F1C40F'>(10.1K ⭐️)</span>
-
-- [BUG: sealos run --single not untaint master node](https://github.com/labring/sealos/issues/2838)
-
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
-
-- [Feature: run clusterfile repeatedly](https://github.com/labring/sealos/issues/2832)
-
-- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
 
 ## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
