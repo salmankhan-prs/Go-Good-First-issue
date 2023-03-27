@@ -4,7 +4,39 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 22:03 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 22:13 UTC.</div>
+
+
+## dapr/components-contrib <span style='color:#F1C40F'>(435 ⭐️)</span>
+
+- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
+
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+- [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(11.4K ⭐️)</span>
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+- [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
+
+- [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
+
+
+## kopia/kopia <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
+
+- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
+
+- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
 
 
 ## zalando/skipper <span style='color:#F1C40F'>(2.8K ⭐️)</span>
@@ -30,6 +62,13 @@
 - [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
 
 
+## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
+
+
 ## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(19 ⭐️)</span>
 
 - [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
@@ -48,9 +87,9 @@
 - [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
 
 
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(899 ⭐️)</span>
@@ -75,11 +114,11 @@
 - [cmd/uplink: show info on how to enable secure custom domain support while sharing with `--dns`](https://github.com/storj/storj/issues/5623)
 
 
-## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
-- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
+- [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
 
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
+- [dendrite_up metric](https://github.com/matrix-org/dendrite/issues/2993)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -128,15 +167,6 @@
 - [Detect if Docker is running before running `local` commands](https://github.com/kubefirst/kubefirst/issues/1312)
 
 - [Gracefully fail when log cannot be written](https://github.com/kubefirst/kubefirst/issues/1311)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(11.4K ⭐️)</span>
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-- [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
-
-- [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
 
 
 ## grafana-operator/grafana-operator <span style='color:#F1C40F'>(550 ⭐️)</span>
@@ -234,15 +264,6 @@
 - [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
 
 
-## kopia/kopia <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
-
-- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
-
-- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
-
-
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
@@ -309,11 +330,4 @@
 ## open-policy-agent/opa <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
-
-- [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
 
