@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 22:43 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 22:53 UTC.</div>
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -12,6 +17,15 @@
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 - [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -24,6 +38,17 @@
 - [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [when asking about the stignore, okteto doesn't accept `Y` ](https://github.com/okteto/okteto/issues/3476)
+
+- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
+
+- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
+
+- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
 
 
 ## dapr/components-contrib <span style='color:#F1C40F'>(435 ⭐️)</span>
@@ -74,18 +99,6 @@
 - [look into http response and provide more understandable logs when a node is inaccessible](https://github.com/cosmos/relayer/issues/1136)
 
 
-## cli/cli <span style='color:#F1C40F'>(31.8K ⭐️)</span>
-
-- [`gh repo list ORG` where ORG does not exist, not an error](https://github.com/cli/cli/issues/7231)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
 ## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(19 ⭐️)</span>
 
 - [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
@@ -112,6 +125,11 @@
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(899 ⭐️)</span>
 
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
+
+
+## chainguard-dev/melange <span style='color:#F1C40F'>(204 ⭐️)</span>
+
+- [Check if signing key exists before building anything](https://github.com/chainguard-dev/melange/issues/303)
 
 
 ## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
@@ -147,9 +165,35 @@
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
 
-## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(469 ⭐️)</span>
 
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
+
+- [log(throughout codebase): Change log to `DAH.String()` instead of `DAH.Hash()` anywhere where we try to log the hash of the `DataAvailabilityHeader`/ `Root`](https://github.com/celestiaorg/celestia-node/issues/1898)
+
+- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
+
+- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
+
+- [logging: More uniformity around naming for loggers per package](https://github.com/celestiaorg/celestia-node/issues/1888)
+
+- [chore(ci tooling): add command to Makefile to install all lint / fmt deps tools](https://github.com/celestiaorg/celestia-node/issues/1854)
+
+- [lib/header: Add traces to Syncer](https://github.com/celestiaorg/celestia-node/issues/1833)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(951 ⭐️)</span>
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(469 ⭐️)</span>
@@ -214,15 +258,6 @@
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
 
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
 ## cosmos/ibc-go <span style='color:#F1C40F'>(349 ⭐️)</span>
 
 - [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
@@ -243,11 +278,6 @@
 - [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
 
 - [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
-
-
-## chainguard-dev/melange <span style='color:#F1C40F'>(203 ⭐️)</span>
-
-- [Check if signing key exists before building anything](https://github.com/chainguard-dev/melange/issues/303)
 
 
 ## berachain/polaris <span style='color:#F1C40F'>(60 ⭐️)</span>
@@ -310,19 +340,4 @@
 ## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(142 ⭐️)</span>
 
 - [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
-
-- [feature: implement WhereResolver in placement translator](https://github.com/kcp-dev/edge-mc/issues/219)
-
-- [feature: short video (no audio needed) that walks through the steps of the quickstart](https://github.com/kcp-dev/edge-mc/issues/208)
-
-- [Need a quickstart for our docs site to welcome our visitors](https://github.com/kcp-dev/edge-mc/issues/207)
-
-- [feature: Create behavioral unit tests for mailbox controller](https://github.com/kcp-dev/edge-mc/issues/218)
-
-- [feature: new make target for deploying and configuring kcp and kcp-edge components](https://github.com/kcp-dev/edge-mc/issues/212)
 
