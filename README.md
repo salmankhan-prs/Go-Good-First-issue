@@ -4,12 +4,46 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 14:33 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 14:43 UTC.</div>
+
+
+## kubefirst/kubefirst <span style='color:#F1C40F'>(465 ⭐️)</span>
+
+- [Detect if Docker is running before running `local` commands](https://github.com/kubefirst/kubefirst/issues/1312)
+
+- [Gracefully fail when log cannot be written](https://github.com/kubefirst/kubefirst/issues/1311)
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(390 ⭐️)</span>
+
+- [RecordModifier is missing some upstream configuration](https://github.com/fluent/fluent-operator/issues/597)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [Enable signed release tracking](https://github.com/kyverno/kyverno/issues/6482)
+
+- [Set tokens to read-only](https://github.com/kyverno/kyverno/issues/6483)
+
+- [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
+
+- [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(469 ⭐️)</span>
@@ -25,11 +59,6 @@
 - [chore(ci tooling): add command to Makefile to install all lint / fmt deps tools](https://github.com/celestiaorg/celestia-node/issues/1854)
 
 - [lib/header: Add traces to Syncer](https://github.com/celestiaorg/celestia-node/issues/1833)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -51,6 +80,11 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## cli/cli <span style='color:#F1C40F'>(31.8K ⭐️)</span>
+
+- [`gh repo list ORG` where ORG does not exist, not an error](https://github.com/cli/cli/issues/7231)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
@@ -113,6 +147,13 @@
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
 
 
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(258 ⭐️)</span>
+
+- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
+
+- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
+
+
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
 
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
@@ -151,23 +192,6 @@
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [Enable signed release tracking](https://github.com/kyverno/kyverno/issues/6482)
-
-- [Set tokens to read-only](https://github.com/kyverno/kyverno/issues/6483)
-
-- [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
-
-- [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
-
-
 ## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
@@ -189,14 +213,23 @@
 - [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
 
 
+## terrastruct/d2 <span style='color:#F1C40F'>(11.4K ⭐️)</span>
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+- [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
+
+- [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
+
+
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
 
 
-## fluent/fluent-operator <span style='color:#F1C40F'>(390 ⭐️)</span>
+## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
 
-- [RecordModifier is missing some upstream configuration](https://github.com/fluent/fluent-operator/issues/597)
+- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -264,6 +297,13 @@
 - [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
 
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
+
+
 ## solo-io/gloo <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
@@ -271,13 +311,6 @@
 - [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
 
 - [[gloo-fed] Support kubeconfig with exec command](https://github.com/solo-io/gloo/issues/7912)
-
-
-## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
-
-- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
 ## gnolang/gno <span style='color:#F1C40F'>(711 ⭐️)</span>
@@ -362,22 +395,4 @@
 ## kubeshop/testkube <span style='color:#F1C40F'>(721 ⭐️)</span>
 
 - [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
-
-
-## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
-
-- [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
-
-
-## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [Purge messages](https://github.com/memphisdev/memphis/issues/793)
-
-- [Consumer prefetch](https://github.com/memphisdev/memphis/issues/766)
-
-- [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
-
-- [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
-
-- [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
 
