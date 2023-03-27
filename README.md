@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 05:13 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 05:23 UTC.</div>
 
 
 ## labring/sealos <span style='color:#F1C40F'>(10.1K ⭐️)</span>
@@ -142,6 +142,15 @@
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
 
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
+
+- [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
+
+- [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
@@ -381,9 +390,4 @@
 - [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
 
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
 
