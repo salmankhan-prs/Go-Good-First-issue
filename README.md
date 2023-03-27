@@ -4,7 +4,37 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 13:23 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 13:33 UTC.</div>
+
+
+## berops/claudie <span style='color:#F1C40F'>(202 ⭐️)</span>
+
+- [Claudie live demo](https://github.com/berops/claudie/issues/651)
+
+- [Feature: Rework how logger is used](https://github.com/berops/claudie/issues/655)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## mosn/layotto <span style='color:#F1C40F'>(714 ⭐️)</span>
+
+- [Some suggestion of go-sdk and components](https://github.com/mosn/layotto/issues/904)
+
+- [Develop Go SDK for Layotto; 为 Layotto 开发 Go SDK](https://github.com/mosn/layotto/issues/900)
+
+- [Implement the Encryption component based on KMS](https://github.com/mosn/layotto/issues/891)
+
+- [support Wasm component](https://github.com/mosn/layotto/issues/890)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.3K ⭐️)</span>
+
+- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
@@ -26,13 +56,6 @@
 ## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.3K ⭐️)</span>
-
-- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -275,14 +298,4 @@
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
-## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
-
-
-## cert-manager/cert-manager <span style='color:#F1C40F'>(10.1K ⭐️)</span>
-
-- [Confusing message when cmctl renew is executed without a Certificate name](https://github.com/cert-manager/cert-manager/issues/5886)
 
