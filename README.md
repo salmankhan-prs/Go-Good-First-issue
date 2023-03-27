@@ -4,7 +4,52 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 13:33 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 13:43 UTC.</div>
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
+
+- [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
+
+- [dendrite_up metric](https://github.com/matrix-org/dendrite/issues/2993)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
+
+
+## aquasecurity/trivy-operator <span style='color:#F1C40F'>(452 ⭐️)</span>
+
+- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
+
+- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## berops/claudie <span style='color:#F1C40F'>(202 ⭐️)</span>
@@ -12,6 +57,11 @@
 - [Claudie live demo](https://github.com/berops/claudie/issues/651)
 
 - [Feature: Rework how logger is used](https://github.com/berops/claudie/issues/655)
+
+
+## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -53,11 +103,6 @@
 - [[gloo-fed] Support kubeconfig with exec command](https://github.com/solo-io/gloo/issues/7912)
 
 
-## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
-
-
 ## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
@@ -81,18 +126,6 @@
 - [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
-
-- [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
 ## gnolang/gno <span style='color:#F1C40F'>(711 ⭐️)</span>
 
 - [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
@@ -101,11 +134,6 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -130,6 +158,17 @@
 - [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
 
 - [pls chk this repo "gain" for faster tcp stack](https://github.com/cloudwego/hertz/issues/639)
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.1K ⭐️)</span>
+
+- [BUG: sealos run --single not untaint master node](https://github.com/labring/sealos/issues/2838)
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+
+- [Feature: run clusterfile repeatedly](https://github.com/labring/sealos/issues/2832)
+
+- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
 
 ## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -179,24 +218,6 @@
 ## kubeshop/testkube <span style='color:#F1C40F'>(721 ⭐️)</span>
 
 - [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
-
-
-## labring/sealos <span style='color:#F1C40F'>(10.1K ⭐️)</span>
-
-- [BUG: sealos run --single not untaint master node](https://github.com/labring/sealos/issues/2838)
-
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
-
-- [Feature: run clusterfile repeatedly](https://github.com/labring/sealos/issues/2832)
-
-- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
-
-
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(452 ⭐️)</span>
-
-- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
-
-- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
 
 
 ## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
@@ -291,11 +312,73 @@
 - [[feature]: Creating Sample Java Application using JWT Token](https://github.com/keploy/keploy/issues/424)
 
 
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
 
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+- [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
 
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
-- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
+## cert-manager/cert-manager <span style='color:#F1C40F'>(10.1K ⭐️)</span>
+
+- [Confusing message when cmctl renew is executed without a Certificate name](https://github.com/cert-manager/cert-manager/issues/5886)
+
+
+## cloudfoundry/korifi <span style='color:#F1C40F'>(173 ⭐️)</span>
+
+- [[Feature]: Korifi API users do not need to pass lifecycle step and bulidpack when creaing an app](https://github.com/cloudfoundry/korifi/issues/2366)
+
+- [[Feature]: Korifi API users can check what app features are enabled](https://github.com/cloudfoundry/korifi/issues/2357)
+
+- [[Feature]: Korifi API users should be able to specify  when creating service instances](https://github.com/cloudfoundry/korifi/issues/2343)
+
+- [[Feature]: Korifi API users should be able to get stats for a process by process type](https://github.com/cloudfoundry/korifi/issues/2340)
+
+- [[Feature]: Korifi API users should be able to list the builds of an app](https://github.com/cloudfoundry/korifi/issues/2335)
+
+- [[Feature]: Korifi API users should be able to get packages for an app](https://github.com/cloudfoundry/korifi/issues/2333)
+
+- [[Feature]: Do not return an error when specifying a page query parameter when listing routes](https://github.com/cloudfoundry/korifi/issues/2329)
+
+- [[Bug]: Korifi default domain guid must be a valid uuid](https://github.com/cloudfoundry/korifi/issues/2328)
+
+- [[Feature]: Koirif API users can update app lifecycle](https://github.com/cloudfoundry/korifi/issues/2327)
+
+- [[Feature]: Koirif API users can check whether ssh for apps is enabled](https://github.com/cloudfoundry/korifi/issues/2326)
+
+- [[Feature]: Do not return error when specifying a page query parameter when listing domains](https://github.com/cloudfoundry/korifi/issues/2324)
+
+- [[Feature]: Korifi API users can filter service bindings via label selectors](https://github.com/cloudfoundry/korifi/issues/2318)
+
+- [[Feature]: Korifi API users can filter apps by label selector](https://github.com/cloudfoundry/korifi/issues/2307)
+
+- [[Feature]: Do not return an error when specifying a page query parameter when listing service bindings](https://github.com/cloudfoundry/korifi/issues/2317)
+
+- [[Feature]: Operators can push manifests with buildpack specified](https://github.com/cloudfoundry/korifi/issues/2315)
+
+- [[Feature]: Do not return an error when specifying page query parameter when listing roles](https://github.com/cloudfoundry/korifi/issues/2308)
+
+- [[Feature]: Korifi API users do not get errors when specifying `page` query parameter when listing service instance](https://github.com/cloudfoundry/korifi/issues/2306)
+
+- [[Feature]: Korifi API users can filter service instances by label selector](https://github.com/cloudfoundry/korifi/issues/2305)
+
+- [[Feature]: Do not return an error when specifying `page` query parameter when listing roles](https://github.com/cloudfoundry/korifi/issues/2301)
+
+- [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
+
+- [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
+
+
+## kopia/kopia <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
+
+- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
+
+- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
+
+
+## cloudwego/kitex <span style='color:#F1C40F'>(5.7K ⭐️)</span>
+
+- [[docs]: translate kitex codegen doc based on Chinese doc](https://github.com/cloudwego/kitex/issues/861)
+
+- [[docs]: translate kitex custom template doc based on Chinese doc](https://github.com/cloudwego/kitex/issues/856)
 
