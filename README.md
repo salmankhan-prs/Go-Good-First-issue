@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 06:53 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 07:03 UTC.</div>
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(63 ⭐️)</span>
@@ -360,6 +365,8 @@
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
 
 - [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
 
