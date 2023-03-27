@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 19:43 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 19:53 UTC.</div>
+
+
+## storj/storj <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [cmd/uplink: show info on how to enable secure custom domain support while sharing with `--dns`](https://github.com/storj/storj/issues/5623)
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
 ## chainguard-dev/melange <span style='color:#F1C40F'>(203 ⭐️)</span>
@@ -80,11 +92,6 @@
 - [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
 
 - [[gloo-fed] Support kubeconfig with exec command](https://github.com/solo-io/gloo/issues/7912)
-
-
-## storj/storj <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [cmd/uplink: show info on how to enable secure custom domain support while sharing with `--dns`](https://github.com/storj/storj/issues/5623)
 
 
 ## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -415,34 +422,4 @@
 - [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
 
 - [Consider removing split-test-files](https://github.com/celestiaorg/celestia-app/issues/1439)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## kubefirst/kubefirst <span style='color:#F1C40F'>(465 ⭐️)</span>
-
-- [Detect if Docker is running before running `local` commands](https://github.com/kubefirst/kubefirst/issues/1312)
-
-- [Gracefully fail when log cannot be written](https://github.com/kubefirst/kubefirst/issues/1311)
-
-
-## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
-
-- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
-
-
-## freiheit-com/kuberpult <span style='color:#F1C40F'>(17 ⭐️)</span>
-
-- [Show warning if there's a lot of releases](https://github.com/freiheit-com/kuberpult/issues/533)
-
-- [UI/UX: Precision of timespan in commit detail modal.](https://github.com/freiheit-com/kuberpult/issues/537)
-
-- [EnvironmentLabels sorted wrong](https://github.com/freiheit-com/kuberpult/issues/539)
-
-- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
 
