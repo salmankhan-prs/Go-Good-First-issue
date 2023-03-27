@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 19:13 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 19:23 UTC.</div>
+
+
+## project-zot/zot <span style='color:#F1C40F'>(330 ⭐️)</span>
+
+- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
@@ -178,11 +188,6 @@
 - [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
 
 
-## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-
 ## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(325 ⭐️)</span>
 
 - [Add EKS security rule: EKS clusters should have encryption of K8s secrets enabled.](https://github.com/Zeus-Labs/ZeusCloud/issues/128)
@@ -342,4 +347,162 @@
 - [Exclude doc files from running PR checks](https://github.com/deislabs/ratify/issues/685)
 
 - [Increase test coverage for authprovider](https://github.com/deislabs/ratify/issues/693)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
+
+
+## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
+
+- [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
+
+
+## dvonthenen/enterprise-conversation-plugins <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [Document Statistical Plugin and How To Use](https://github.com/dvonthenen/enterprise-conversation-plugins/issues/11)
+
+- [Document Historical Plugin and How To Use](https://github.com/dvonthenen/enterprise-conversation-plugins/issues/10)
+
+- [Document Creating a Plugin](https://github.com/dvonthenen/enterprise-conversation-plugins/issues/9)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(757 ⭐️)</span>
+
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
+
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Add ability to parse identifier strings for PURLs](https://github.com/guacsec/guac/issues/590)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
+
+
+## aquasecurity/trivy-operator <span style='color:#F1C40F'>(453 ⭐️)</span>
+
+- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
+
+- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
+
+
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(162 ⭐️)</span>
+
+- [Add a testutil function that will fuzz random valid and invalid blocks](https://github.com/celestiaorg/celestia-app/issues/1516)
+
+- [specs: rename `message` => `blob`](https://github.com/celestiaorg/celestia-app/issues/1532)
+
+- [docs: rename `message` => `blob` in ADRs](https://github.com/celestiaorg/celestia-app/issues/1531)
+
+- [Explore enforcing conventional commits](https://github.com/celestiaorg/celestia-app/issues/1539)
+
+- [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
+
+- [Consider removing split-test-files](https://github.com/celestiaorg/celestia-app/issues/1439)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## kubefirst/kubefirst <span style='color:#F1C40F'>(465 ⭐️)</span>
+
+- [Detect if Docker is running before running `local` commands](https://github.com/kubefirst/kubefirst/issues/1312)
+
+- [Gracefully fail when log cannot be written](https://github.com/kubefirst/kubefirst/issues/1311)
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
+
+
+## freiheit-com/kuberpult <span style='color:#F1C40F'>(17 ⭐️)</span>
+
+- [Show warning if there's a lot of releases](https://github.com/freiheit-com/kuberpult/issues/533)
+
+- [UI/UX: Precision of timespan in commit detail modal.](https://github.com/freiheit-com/kuberpult/issues/537)
+
+- [EnvironmentLabels sorted wrong](https://github.com/freiheit-com/kuberpult/issues/539)
+
+- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
+
+
+## earthly/earthly <span style='color:#F1C40F'>(8.9K ⭐️)</span>
+
+- [EARTHLY_GIT_(REF|BRANCH) built in ARG](https://github.com/earthly/earthly/issues/2735)
+
+
+## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
+
+
+## SiaFoundation/hostd <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
+
+- [Integrated DynDNS](https://github.com/SiaFoundation/hostd/issues/17)
+
+- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
+
+- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
+
+- [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
+
+
+## fluxcd/notification-controller <span style='color:#F1C40F'>(120 ⭐️)</span>
+
+- [Markdown rendering for Matrix notifications](https://github.com/fluxcd/notification-controller/issues/493)
+
+- [Namespace fallback for annotation logs](https://github.com/fluxcd/notification-controller/issues/492)
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
+
+- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
+
+- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
+
+- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
+
+- [[QUESTION]没有卸载面板的脚本](https://github.com/1Panel-dev/1Panel/issues/330)
+
+- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
+
+- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
+
+- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
+
+- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
+
+- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
+
+- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+
+
+## cli/cli <span style='color:#F1C40F'>(31.8K ⭐️)</span>
+
+- [`gh repo list ORG` where ORG does not exist, not an error](https://github.com/cli/cli/issues/7231)
 
