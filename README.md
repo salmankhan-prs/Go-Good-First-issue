@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 03:53 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 04:03 UTC.</div>
+
+
+## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
+
+- [pls chk this repo "gain" for faster tcp stack](https://github.com/cloudwego/hertz/issues/639)
 
 
 ## envoyproxy/gateway <span style='color:#F1C40F'>(909 ⭐️)</span>
@@ -186,13 +193,6 @@
 - [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
 
 - [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [[Bug]: Race condition detected in tests](https://github.com/jaegertracing/jaeger/issues/4340)
-
-- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
