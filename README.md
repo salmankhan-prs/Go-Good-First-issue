@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 04:03 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 04:13 UTC.</div>
 
 
 ## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -323,13 +323,4 @@
 - [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
 
 - [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(11.4K ⭐️)</span>
-
-- [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
-
-- [Interactive elements (like tooltips) should work with touch devices](https://github.com/terrastruct/d2/issues/897)
-
-- [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
 
