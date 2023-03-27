@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 20:13 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 20:23 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## storj/storj <span style='color:#F1C40F'>(2.7K ⭐️)</span>
@@ -128,11 +133,6 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(899 ⭐️)</span>
