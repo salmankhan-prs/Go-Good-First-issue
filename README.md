@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 21:53 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 22:03 UTC.</div>
 
 
 ## zalando/skipper <span style='color:#F1C40F'>(2.8K ⭐️)</span>
@@ -316,9 +316,4 @@
 - [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
 
 - [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
-
-
-## sigstore/cosign <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [Cosign copy multi arch/platform support](https://github.com/sigstore/cosign/issues/2748)
 
