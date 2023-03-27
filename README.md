@@ -4,7 +4,66 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 16:43 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 16:53 UTC.</div>
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(258 ⭐️)</span>
+
+- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
+
+- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(469 ⭐️)</span>
+
+- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
+
+- [log(throughout codebase): Change log to `DAH.String()` instead of `DAH.Hash()` anywhere where we try to log the hash of the `DataAvailabilityHeader`/ `Root`](https://github.com/celestiaorg/celestia-node/issues/1898)
+
+- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
+
+- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
+
+- [logging: More uniformity around naming for loggers per package](https://github.com/celestiaorg/celestia-node/issues/1888)
+
+- [chore(ci tooling): add command to Makefile to install all lint / fmt deps tools](https://github.com/celestiaorg/celestia-node/issues/1854)
+
+- [lib/header: Add traces to Syncer](https://github.com/celestiaorg/celestia-node/issues/1833)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(951 ⭐️)</span>
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## chainguard-dev/melange <span style='color:#F1C40F'>(203 ⭐️)</span>
+
+- [Check if signing key exists before building anything](https://github.com/chainguard-dev/melange/issues/303)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.3K ⭐️)</span>
+
+- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(909 ⭐️)</span>
+
+- [Enable GatewayWithAttachedRoutes test](https://github.com/envoyproxy/gateway/issues/1201)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+- [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
+
+- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
+
+- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
 
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
@@ -29,27 +88,11 @@
 - [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
 
 
-## containers/podman <span style='color:#F1C40F'>(17.3K ⭐️)</span>
-
-- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
 
 - [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
-
-- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
-
-- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
 
 ## storj/storj <span style='color:#F1C40F'>(2.7K ⭐️)</span>
@@ -121,23 +164,6 @@
 - [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
 
 
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(469 ⭐️)</span>
-
-- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
-
-- [log(throughout codebase): Change log to `DAH.String()` instead of `DAH.Hash()` anywhere where we try to log the hash of the `DataAvailabilityHeader`/ `Root`](https://github.com/celestiaorg/celestia-node/issues/1898)
-
-- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
-
-- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
-
-- [logging: More uniformity around naming for loggers per package](https://github.com/celestiaorg/celestia-node/issues/1888)
-
-- [chore(ci tooling): add command to Makefile to install all lint / fmt deps tools](https://github.com/celestiaorg/celestia-node/issues/1854)
-
-- [lib/header: Add traces to Syncer](https://github.com/celestiaorg/celestia-node/issues/1833)
-
-
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
@@ -195,6 +221,11 @@
 - [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
 
 - [Consider removing split-test-files](https://github.com/celestiaorg/celestia-app/issues/1439)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -318,14 +349,4 @@
 - [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
 
 - [Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
-
-
-## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
-
-
-## redhat-developer/odo <span style='color:#F1C40F'>(693 ⭐️)</span>
-
-- [missing name detection to `odo analyze`](https://github.com/redhat-developer/odo/issues/6649)
 
