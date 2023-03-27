@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 11:33 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 11:43 UTC.</div>
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
+
+- [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
+
+
+## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [提供专用sug接口提供给编辑服务治理规则场景使用，不要查询全量服务信息](https://github.com/polarismesh/polaris/issues/979)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
@@ -108,13 +120,6 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
-
-- [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
 
 
 ## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
@@ -311,14 +316,4 @@
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
-## anchore/syft <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
