@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 08:53 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 09:03 UTC.</div>
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
+
+- [dendrite_up metric](https://github.com/matrix-org/dendrite/issues/2993)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
+
+- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
 
 ## apache/apisix-ingress-controller <span style='color:#F1C40F'>(763 ⭐️)</span>
@@ -32,6 +56,11 @@
 - [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
 
 - [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
+
+
+## anchore/syft <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
@@ -71,13 +100,6 @@
 - [Improve CLI feedback on configuration change](https://github.com/chainloop-dev/chainloop/issues/14)
 
 
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
-
-
 ## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
@@ -93,6 +115,11 @@
 ## polarsignals/frostdb <span style='color:#F1C40F'>(975 ⭐️)</span>
 
 - [Fix Release() arrow callbacks](https://github.com/polarsignals/frostdb/issues/403)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
+
+- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -115,11 +142,6 @@
 - [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
 
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
 ## okteto/okteto <span style='color:#F1C40F'>(2.8K ⭐️)</span>
 
 - [when asking about the stignore, okteto doesn't accept `Y` ](https://github.com/okteto/okteto/issues/3476)
@@ -129,11 +151,6 @@
 - [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
 
 - [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
-
-
-## anchore/syft <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
 
 
 ## cloudwego/kitex <span style='color:#F1C40F'>(5.7K ⭐️)</span>
@@ -297,32 +314,4 @@
 ## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
 
 - [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
-
-
-## kopia/kopia <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
-
-- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
-
-- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.6K ⭐️)</span>
-
-- [Docs for deployment not updated after new release](https://github.com/kubernetes/ingress-nginx/issues/9787)
-
-- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
-
-
-## fluent/fluent-operator <span style='color:#F1C40F'>(390 ⭐️)</span>
-
-- [RecordModifier is missing some upstream configuration](https://github.com/fluent/fluent-operator/issues/597)
-
-
-## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [tempodb integer divide by zero error](https://github.com/grafana/tempo/issues/2167)
-
-- [Evaluate `status.code` as virtual tag](https://github.com/grafana/tempo/issues/2155)
 
