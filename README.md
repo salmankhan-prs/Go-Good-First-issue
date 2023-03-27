@@ -4,17 +4,26 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 01:33 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 01:43 UTC.</div>
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
 
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+- [[Docs]-broken "Build and Release" link](https://github.com/meshery/meshery/issues/7394)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
 
 
 ## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
 
 - [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
@@ -33,20 +42,16 @@
 - [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
 
 
-## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [[Docs]-broken "Build and Release" link](https://github.com/meshery/meshery/issues/7394)
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
-
-
 ## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
 
 - [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
 ## etcd-io/bbolt <span style='color:#F1C40F'>(6.3K ⭐️)</span>
