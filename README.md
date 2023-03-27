@@ -4,7 +4,27 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 07:43 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 07:53 UTC.</div>
+
+
+## anchore/syft <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
+
+
+## gnolang/gno <span style='color:#F1C40F'>(711 ⭐️)</span>
+
+- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
+
+
+## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
+
+- [`--version` always returns `main`](https://github.com/massalabs/thyra/issues/507)
+
+
+## cosmos/ibc-go <span style='color:#F1C40F'>(349 ⭐️)</span>
+
+- [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
 
 
 ## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -36,11 +56,6 @@
 - [[feature]: Add support for Get TC to display test-cases from yaml	](https://github.com/keploy/keploy/issues/337)
 
 - [[feature]: Creating Sample Java Application using JWT Token](https://github.com/keploy/keploy/issues/424)
-
-
-## cosmos/ibc-go <span style='color:#F1C40F'>(349 ⭐️)</span>
-
-- [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -139,11 +154,6 @@
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
-
-
-## gnolang/gno <span style='color:#F1C40F'>(711 ⭐️)</span>
-
-- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
 
 ## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -256,6 +266,15 @@
 - [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
 
 
+## envoyproxy/gateway <span style='color:#F1C40F'>(909 ⭐️)</span>
+
+- [Enable GatewayWithAttachedRoutes test](https://github.com/envoyproxy/gateway/issues/1201)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+- [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
+
+
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
@@ -323,32 +342,4 @@
 ## gocrane/crane <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
 - [Should Remove Deprecated Configuration In Example](https://github.com/gocrane/crane/issues/719)
-
-
-## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
-
-- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
-
-- [Incorrect OnDemandRateCodeCn configuration](https://github.com/opencost/opencost/issues/1777)
-
-
-## kopia/kopia <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
-
-- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
-
-- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
-## stashapp/stash <span style='color:#F1C40F'>(5.6K ⭐️)</span>
-
-- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
