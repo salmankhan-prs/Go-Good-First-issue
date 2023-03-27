@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 02:33 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 02:43 UTC.</div>
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
@@ -170,6 +170,11 @@
 - [X - Large Key-Value Store](https://github.com/synnaxlabs/synnax/issues/240)
 
 
+## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
+
+- [X - Large Key-Value Store](https://github.com/synnaxlabs/synnax/issues/240)
+
+
 ## lightningnetwork/lnd <span style='color:#F1C40F'>(6.8K ⭐️)</span>
 
 - [Witness_Type in 2 packages diverged](https://github.com/lightningnetwork/lnd/issues/7460)
@@ -316,9 +321,4 @@
 - [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
 
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
-## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [提供专用sug接口提供给编辑服务治理规则场景使用，不要查询全量服务信息](https://github.com/polarismesh/polaris/issues/979)
 
