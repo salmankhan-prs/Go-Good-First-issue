@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 06:33 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 06:43 UTC.</div>
+
+
+## kubernetes-sigs/kwok <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [[kwok] Change the version information of the node](https://github.com/kubernetes-sigs/kwok/issues/395)
 
 
 ## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
@@ -76,11 +81,6 @@
 - [Contrib: doc source structure](https://github.com/keptn/lifecycle-toolkit/issues/998)
 
 - [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
-
-
-## kubernetes-sigs/kwok <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [[kwok] Change the version information of the node](https://github.com/kubernetes-sigs/kwok/issues/395)
 
 
 ## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -189,6 +189,11 @@
 ## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
+
+
+## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [提供专用sug接口提供给编辑服务治理规则场景使用，不要查询全量服务信息](https://github.com/polarismesh/polaris/issues/979)
 
 
 ## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -362,40 +367,4 @@
 - [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
 
 - [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
-
-
-## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
-
-- [X - Large Key-Value Store](https://github.com/synnaxlabs/synnax/issues/240)
-
-
-## lightningnetwork/lnd <span style='color:#F1C40F'>(6.8K ⭐️)</span>
-
-- [Witness_Type in 2 packages diverged](https://github.com/lightningnetwork/lnd/issues/7460)
-
-
-## berachain/polaris <span style='color:#F1C40F'>(59 ⭐️)</span>
-
-- [refactor(scripts): Refactor the init.sh script into a genesis builder golang cli tool.](https://github.com/berachain/polaris/issues/474)
-
-- [Marshal/Unmarshal of core Geth types is slow](https://github.com/berachain/polaris/issues/446)
-
-- [chore(geth): Upgrade to v1.11.5](https://github.com/berachain/polaris/issues/507)
-
-- [imp(testing): improve ginkgo testing structure ](https://github.com/berachain/polaris/issues/506)
-
-- [Chore: give test network a fixed validator.](https://github.com/berachain/polaris/issues/481)
-
-- [feat(rpc): Enable Graphql](https://github.com/berachain/polaris/issues/359)
-
-- [task(testing): Setup Interchain Test](https://github.com/berachain/polaris/issues/332)
-
-- [chore: Check for precompile module account on startup](https://github.com/berachain/polaris/issues/423)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(417 ⭐️)</span>
-
-- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
-
-- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
 
