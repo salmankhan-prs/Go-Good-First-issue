@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 08:33 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 08:43 UTC.</div>
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(469 ⭐️)</span>
@@ -71,6 +71,15 @@
 ## polarsignals/frostdb <span style='color:#F1C40F'>(975 ⭐️)</span>
 
 - [Fix Release() arrow callbacks](https://github.com/polarsignals/frostdb/issues/403)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -268,4 +277,52 @@
 - [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
+
+
+## kubernetes-sigs/kwok <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [[kwok] Change the version information of the node](https://github.com/kubernetes-sigs/kwok/issues/395)
+
+
+## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
+
+- [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
+
+
+## kopia/kopia <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
+
+- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
+
+- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.6K ⭐️)</span>
+
+- [Docs for deployment not updated after new release](https://github.com/kubernetes/ingress-nginx/issues/9787)
+
+- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(390 ⭐️)</span>
+
+- [RecordModifier is missing some upstream configuration](https://github.com/fluent/fluent-operator/issues/597)
+
+
+## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [tempodb integer divide by zero error](https://github.com/grafana/tempo/issues/2167)
+
+- [Evaluate `status.code` as virtual tag](https://github.com/grafana/tempo/issues/2155)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
+
+- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
 
