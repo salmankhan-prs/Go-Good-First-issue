@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 22:23 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 22:33 UTC.</div>
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -325,9 +325,4 @@
 - [feature: Create behavioral unit tests for mailbox controller](https://github.com/kcp-dev/edge-mc/issues/218)
 
 - [feature: new make target for deploying and configuring kcp and kcp-edge components](https://github.com/kcp-dev/edge-mc/issues/212)
-
-
-## redhat-developer/odo <span style='color:#F1C40F'>(693 ⭐️)</span>
-
-- [missing name detection to `odo analyze`](https://github.com/redhat-developer/odo/issues/6649)
 
