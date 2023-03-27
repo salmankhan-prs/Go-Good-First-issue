@@ -4,12 +4,44 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 12:03 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 12:13 UTC.</div>
+
+
+## solo-io/gloo <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
+
+- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
+
+- [[gloo-fed] Support kubeconfig with exec command](https://github.com/solo-io/gloo/issues/7912)
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [when asking about the stignore, okteto doesn't accept `Y` ](https://github.com/okteto/okteto/issues/3476)
+
+- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
+
+- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
+
+- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
 
 
 ## gnolang/gno <span style='color:#F1C40F'>(711 ⭐️)</span>
 
 - [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -53,11 +85,6 @@
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -106,17 +133,6 @@
 - [Feature: run clusterfile repeatedly](https://github.com/labring/sealos/issues/2832)
 
 - [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [when asking about the stignore, okteto doesn't accept `Y` ](https://github.com/okteto/okteto/issues/3476)
-
-- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
-
-- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
-
-- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
