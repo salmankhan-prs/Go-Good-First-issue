@@ -4,7 +4,20 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 03:03 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 03:13 UTC.</div>
+
+
+## Edgenesis/shifu <span style='color:#F1C40F'>(809 ⭐️)</span>
+
+- [The traffic light FSM implementation for deviceShifu](https://github.com/Edgenesis/shifu/issues/547)
+
+- [OPC UA node ID Browing feature on Shifu .Currently we are providing  NodeID' s Manually by going to the OPC UA server loc.  ](https://github.com/Edgenesis/shifu/issues/545)
+
+- [The simplest FSM implementation of deviceShifu](https://github.com/Edgenesis/shifu/issues/542)
+
+- [convert DeviceShifuBase data structure from single EdgeDevice to a list type of EdgeDevice](https://github.com/Edgenesis/shifu/issues/538)
+
+- [In swarm mode, deviceShifuBase supports multiple EdgeDevices](https://github.com/Edgenesis/shifu/issues/539)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(63 ⭐️)</span>
@@ -42,11 +55,25 @@
 - [The page crashes after click an inaccessible cluster](https://github.com/kubevela/velaux/issues/685)
 
 
+## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
 ## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
 
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 - [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
+
+- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
@@ -62,13 +89,6 @@
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
 
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
@@ -312,18 +332,4 @@
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
-
-- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
-
-- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
