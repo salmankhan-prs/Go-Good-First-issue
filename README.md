@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 27, 2023 01:23 UTC.</div>
+<div align='center'>Last updated at March 27, 2023 01:33 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
@@ -15,6 +15,13 @@
 ## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
 
 - [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
+
+- [Incorrect OnDemandRateCodeCn configuration](https://github.com/opencost/opencost/issues/1777)
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.3K ⭐️)</span>
