@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 02:33 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 02:43 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
@@ -12,6 +12,22 @@
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(11.4K ⭐️)</span>
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+- [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
+
+- [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
 
 
 ## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
@@ -108,6 +124,11 @@
 - [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
 
 
+## googleforgames/agones <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [Add a helm flag to force Agones system components onto dedicated nodes](https://github.com/googleforgames/agones/issues/3009)
+
+
 ## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
 
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
@@ -118,6 +139,11 @@
 ## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
 
 - [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
+
+
+## cli/cli <span style='color:#F1C40F'>(31.8K ⭐️)</span>
+
+- [`gh repo list ORG` where ORG does not exist, not an error](https://github.com/cli/cli/issues/7231)
 
 
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -187,11 +213,6 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## googleforgames/agones <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [Add a helm flag to force Agones system components onto dedicated nodes](https://github.com/googleforgames/agones/issues/3009)
-
-
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
 
 - [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
@@ -215,11 +236,6 @@
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
 ## okteto/okteto <span style='color:#F1C40F'>(2.8K ⭐️)</span>
 
 - [when asking about the stignore, okteto doesn't accept `Y` ](https://github.com/okteto/okteto/issues/3476)
@@ -240,17 +256,6 @@
 - [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
 
 
-## terrastruct/d2 <span style='color:#F1C40F'>(11.4K ⭐️)</span>
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-- [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
-
-- [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
-
-
 ## zalando/skipper <span style='color:#F1C40F'>(2.8K ⭐️)</span>
 
 - [Improve RedisUpdater func](https://github.com/zalando/skipper/issues/2258)
@@ -265,11 +270,6 @@
 - [feat: add the ability to pull testnet data from the chain registry](https://github.com/cosmos/relayer/issues/1128)
 
 - [look into http response and provide more understandable logs when a node is inaccessible](https://github.com/cosmos/relayer/issues/1136)
-
-
-## cli/cli <span style='color:#F1C40F'>(31.8K ⭐️)</span>
-
-- [`gh repo list ORG` where ORG does not exist, not an error](https://github.com/cli/cli/issues/7231)
 
 
 ## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(19 ⭐️)</span>
@@ -335,16 +335,4 @@
 ## kubernetes-sigs/aws-load-balancer-controller <span style='color:#F1C40F'>(3.3K ⭐️)</span>
 
 - [Respects Single AZ Whitelist of ELB in v2](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/3082)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
-
-
-## kubefirst/kubefirst <span style='color:#F1C40F'>(465 ⭐️)</span>
-
-- [Detect if Docker is running before running `local` commands](https://github.com/kubefirst/kubefirst/issues/1312)
-
-- [Gracefully fail when log cannot be written](https://github.com/kubefirst/kubefirst/issues/1311)
 
