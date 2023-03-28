@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 22:33 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 22:42 UTC.</div>
+
+
+## etcd-io/bbolt <span style='color:#F1C40F'>(6.3K ⭐️)</span>
+
+- [Flaky `testDB_Close_PendingTx`](https://github.com/etcd-io/bbolt/issues/441)
+
+- [[1.3] Support injecting failpoints to mimic syscall errors ](https://github.com/etcd-io/bbolt/issues/436)
+
+- [Improve the workflow to check goimport items](https://github.com/etcd-io/bbolt/issues/435)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
 
 
 ## stashapp/stash <span style='color:#F1C40F'>(5.6K ⭐️)</span>
@@ -194,16 +215,14 @@
 - [Break Rule `message` into title and an actual message that supports rich text](https://github.com/konveyor/analyzer-lsp/issues/79)
 
 
+## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
+
+- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
+
+
 ## kubeshop/testkube <span style='color:#F1C40F'>(724 ⭐️)</span>
 
 - [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
 
 
 ## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
@@ -270,59 +289,4 @@
 - [Client - TS - GC and Move Utilities to X](https://github.com/synnaxlabs/synnax/issues/254)
 
 - [X - Large Key-Value Store](https://github.com/synnaxlabs/synnax/issues/240)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
-
-- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-
-## cert-manager/cert-manager <span style='color:#F1C40F'>(10.1K ⭐️)</span>
-
-- [Confusing message when cmctl renew is executed without a Certificate name](https://github.com/cert-manager/cert-manager/issues/5886)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Destroy message has an empty quote if the environment doesn't have a name](https://github.com/okteto/okteto/issues/3487)
-
-- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
-
-- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
-
-- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
-
-
-## mattermost/mattermost-plugin-autolink <span style='color:#F1C40F'>(120 ⭐️)</span>
-
-- [The plugin gives no feedback if the list link is empty](https://github.com/mattermost/mattermost-plugin-autolink/issues/208)
-
-
-## berops/claudie <span style='color:#F1C40F'>(203 ⭐️)</span>
-
-- [Claudie live demo](https://github.com/berops/claudie/issues/651)
-
-- [Feature: Rework how logger is used](https://github.com/berops/claudie/issues/655)
-
-
-## polarsignals/frostdb <span style='color:#F1C40F'>(975 ⭐️)</span>
-
-- [Fix Release() arrow callbacks](https://github.com/polarsignals/frostdb/issues/403)
-
-
-## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
-
-
-## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(143 ⭐️)</span>
-
-- [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
 
