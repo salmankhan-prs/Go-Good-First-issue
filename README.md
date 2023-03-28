@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 02:23 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 02:33 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
@@ -242,6 +242,8 @@
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.4K ⭐️)</span>
 
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 - [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
@@ -345,9 +347,4 @@
 - [Detect if Docker is running before running `local` commands](https://github.com/kubefirst/kubefirst/issues/1312)
 
 - [Gracefully fail when log cannot be written](https://github.com/kubefirst/kubefirst/issues/1311)
-
-
-## grafana-operator/grafana-operator <span style='color:#F1C40F'>(550 ⭐️)</span>
-
-- [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
