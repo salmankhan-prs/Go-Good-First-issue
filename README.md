@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 22:23 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 22:33 UTC.</div>
+
+
+## stashapp/stash <span style='color:#F1C40F'>(5.6K ⭐️)</span>
+
+- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
@@ -255,6 +260,8 @@
 
 
 ## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
+
+- [Delta - Scroll for Horizontal and Vertical Pan](https://github.com/synnaxlabs/synnax/issues/247)
 
 - [Pluto - Fix Artifacting on Multiple Select Input](https://github.com/synnaxlabs/synnax/issues/245)
 
