@@ -4,7 +4,32 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 07:43 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 07:53 UTC.</div>
+
+
+## freiheit-com/kuberpult <span style='color:#F1C40F'>(17 ⭐️)</span>
+
+- [Show warning if there's a lot of releases](https://github.com/freiheit-com/kuberpult/issues/533)
+
+- [UI/UX: Precision of timespan in commit detail modal.](https://github.com/freiheit-com/kuberpult/issues/537)
+
+- [EnvironmentLabels sorted wrong](https://github.com/freiheit-com/kuberpult/issues/539)
+
+- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## gnolang/gno <span style='color:#F1C40F'>(711 ⭐️)</span>
@@ -47,11 +72,6 @@
 - [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
 
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## cloudwego/kitex <span style='color:#F1C40F'>(5.7K ⭐️)</span>
@@ -286,4 +306,67 @@
 - [Feature: run clusterfile repeatedly](https://github.com/labring/sealos/issues/2832)
 
 - [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
+
+
+## gocrane/crane <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Should Remove Deprecated Configuration In Example](https://github.com/gocrane/crane/issues/719)
+
+
+## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [提供专用sug接口提供给编辑服务治理规则场景使用，不要查询全量服务信息](https://github.com/polarismesh/polaris/issues/979)
+
+
+## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
+
+- [Support for MongoDB](https://github.com/secret-telegram/chat/issues/55)
+
+
+## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [add a sample unit test for mocking/stubbing calls in unit-tests](https://github.com/keploy/keploy/issues/428)
+
+- [[feature]: Update Keploy UI with latest server APIs ](https://github.com/keploy/keploy/issues/335)
+
+- [[bug]: Empty response for node-fetch http call](https://github.com/keploy/keploy/issues/376)
+
+- [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
+
+- [[feature]: Shortlist ideas to generate testcases using api schema and response provided](https://github.com/keploy/keploy/issues/338)
+
+- [[feature]: beautify response diff viewer on CLI   ](https://github.com/keploy/keploy/issues/334)
+
+- [[feature]:  Create a sample application and add go-fuzzing to it.](https://github.com/keploy/keploy/issues/413)
+
+- [[bug]: cp cmd in build script not working for windows](https://github.com/keploy/keploy/issues/372)
+
+- [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
+
+- [[test]: add unit tests for octokit module](https://github.com/keploy/keploy/issues/354)
+
+- [[feat]: Increase test coverage of Keploy Server using Keploy](https://github.com/keploy/keploy/issues/333)
+
+- [[feature]: Add/Increase Test coverage for JAVA-SDK by adding unit tests  ](https://github.com/keploy/keploy/issues/348)
+
+- [[feature]: Add support for Get TC to display test-cases from yaml	](https://github.com/keploy/keploy/issues/337)
+
+- [[feature]: Creating Sample Java Application using JWT Token](https://github.com/keploy/keploy/issues/424)
+
+
+## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [Make all the boolean values case insensitive in aws vpc cni environmental variables. ](https://github.com/aws/amazon-vpc-cni-k8s/issues/2311)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
+
+- [Incorrect OnDemandRateCodeCn configuration](https://github.com/opencost/opencost/issues/1777)
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
 
