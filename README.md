@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 03:33 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 03:43 UTC.</div>
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.1K ⭐️)</span>
+
+- [BUG: sealos run --single not untaint master node](https://github.com/labring/sealos/issues/2838)
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+
+- [Feature: run clusterfile repeatedly](https://github.com/labring/sealos/issues/2832)
+
+- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
+
+
+## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [提供专用sug接口提供给编辑服务治理规则场景使用，不要查询全量服务信息](https://github.com/polarismesh/polaris/issues/979)
 
 
 ## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
@@ -295,9 +311,4 @@
 - [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
 
 - [[gloo-fed] Support kubeconfig with exec command](https://github.com/solo-io/gloo/issues/7912)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
