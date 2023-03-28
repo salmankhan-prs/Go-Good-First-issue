@@ -4,7 +4,54 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 16:33 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 16:43 UTC.</div>
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
+
+- [feature: implement WhereResolver in placement translator](https://github.com/kcp-dev/edge-mc/issues/219)
+
+- [feature: short video (no audio needed) that walks through the steps of the quickstart](https://github.com/kcp-dev/edge-mc/issues/208)
+
+- [Need a quickstart for our docs site to welcome our visitors](https://github.com/kcp-dev/edge-mc/issues/207)
+
+- [feature: Create behavioral unit tests for mailbox controller](https://github.com/kcp-dev/edge-mc/issues/218)
+
+- [feature: new make target for deploying and configuring kcp and kcp-edge components](https://github.com/kcp-dev/edge-mc/issues/212)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
+
+
+## deislabs/ratify <span style='color:#F1C40F'>(108 ⭐️)</span>
+
+- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
+
+- [Create a website for Ratify](https://github.com/deislabs/ratify/issues/692)
+
+- [Exclude doc files from running PR checks](https://github.com/deislabs/ratify/issues/685)
+
+- [Increase test coverage for authprovider](https://github.com/deislabs/ratify/issues/693)
+
+
+## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
+
+
+## dapr/components-contrib <span style='color:#F1C40F'>(437 ⭐️)</span>
+
+- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
+
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+- [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -35,44 +82,28 @@
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
-
-- [feature: implement WhereResolver in placement translator](https://github.com/kcp-dev/edge-mc/issues/219)
-
-- [feature: short video (no audio needed) that walks through the steps of the quickstart](https://github.com/kcp-dev/edge-mc/issues/208)
-
-- [Need a quickstart for our docs site to welcome our visitors](https://github.com/kcp-dev/edge-mc/issues/207)
-
-- [feature: Create behavioral unit tests for mailbox controller](https://github.com/kcp-dev/edge-mc/issues/218)
-
-- [feature: new make target for deploying and configuring kcp and kcp-edge components](https://github.com/kcp-dev/edge-mc/issues/212)
-
-
-## deislabs/ratify <span style='color:#F1C40F'>(108 ⭐️)</span>
-
-- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
-
-- [Create a website for Ratify](https://github.com/deislabs/ratify/issues/692)
-
-- [Exclude doc files from running PR checks](https://github.com/deislabs/ratify/issues/685)
-
-- [Increase test coverage for authprovider](https://github.com/deislabs/ratify/issues/693)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
-
-
 ## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
 
 - [user details: clarify permissions around contact methods](https://github.com/target/goalert/issues/2823)
+
+
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [UI - ToolBar - upgrade button](https://github.com/komodorio/helm-dashboard/issues/264)
+
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [UI - General - Install Modal](https://github.com/komodorio/helm-dashboard/issues/259)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
+
+- [UI - General - Uninstall modal](https://github.com/komodorio/helm-dashboard/issues/257)
+
+- [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(259 ⭐️)</span>
@@ -150,21 +181,6 @@
 - [Consider removing split-test-files](https://github.com/celestiaorg/celestia-app/issues/1439)
 
 
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(162 ⭐️)</span>
-
-- [Explore enforcing conventional commits](https://github.com/celestiaorg/celestia-app/issues/1539)
-
-- [Add a testutil function that will fuzz random valid and invalid blocks](https://github.com/celestiaorg/celestia-app/issues/1516)
-
-- [specs: rename `message` => `blob`](https://github.com/celestiaorg/celestia-app/issues/1532)
-
-- [docs: rename `message` => `blob` in ADRs](https://github.com/celestiaorg/celestia-app/issues/1531)
-
-- [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
-
-- [Consider removing split-test-files](https://github.com/celestiaorg/celestia-app/issues/1439)
-
-
 ## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(19 ⭐️)</span>
 
 - [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
@@ -182,7 +198,7 @@
 - [cmd/uplink: show info on how to enable secure custom domain support while sharing with `--dns`](https://github.com/storj/storj/issues/5623)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(92 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(94 ⭐️)</span>
 
 - [Filter by namespace](https://github.com/k8sgpt-ai/k8sgpt/issues/112)
 
@@ -304,28 +320,6 @@
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
-## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
-
-
-## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [UI - ToolBar - upgrade button](https://github.com/komodorio/helm-dashboard/issues/264)
-
-- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
-
-- [UI - General - Install Modal](https://github.com/komodorio/helm-dashboard/issues/259)
-
-- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
-
-- [UI - General - Uninstall modal](https://github.com/komodorio/helm-dashboard/issues/257)
-
-- [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
-
-- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
-
-
 ## earthly/earthly <span style='color:#F1C40F'>(8.9K ⭐️)</span>
 
 - [EARTHLY_GIT_(REF|BRANCH) built in ARG](https://github.com/earthly/earthly/issues/2735)
@@ -341,20 +335,4 @@
 - [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
 
 - [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## guacsec/guac <span style='color:#F1C40F'>(758 ⭐️)</span>
-
-- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
-
-- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
-
-- [Add ability to parse identifier strings for PURLs](https://github.com/guacsec/guac/issues/590)
-
-- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
 
