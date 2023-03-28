@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 22:42 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 22:53 UTC.</div>
 
 
 ## etcd-io/bbolt <span style='color:#F1C40F'>(6.3K ⭐️)</span>
@@ -289,4 +289,49 @@
 - [Client - TS - GC and Move Utilities to X](https://github.com/synnaxlabs/synnax/issues/254)
 
 - [X - Large Key-Value Store](https://github.com/synnaxlabs/synnax/issues/240)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
+
+- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
+
+
+## cert-manager/cert-manager <span style='color:#F1C40F'>(10.1K ⭐️)</span>
+
+- [Confusing message when cmctl renew is executed without a Certificate name](https://github.com/cert-manager/cert-manager/issues/5886)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Destroy message has an empty quote if the environment doesn't have a name](https://github.com/okteto/okteto/issues/3487)
+
+- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
+
+- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
+
+- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
+
+
+## mattermost/mattermost-plugin-autolink <span style='color:#F1C40F'>(120 ⭐️)</span>
+
+- [The plugin gives no feedback if the list link is empty](https://github.com/mattermost/mattermost-plugin-autolink/issues/208)
+
+
+## berops/claudie <span style='color:#F1C40F'>(203 ⭐️)</span>
+
+- [Claudie live demo](https://github.com/berops/claudie/issues/651)
+
+- [Feature: Rework how logger is used](https://github.com/berops/claudie/issues/655)
+
+
+## polarsignals/frostdb <span style='color:#F1C40F'>(975 ⭐️)</span>
+
+- [Fix Release() arrow callbacks](https://github.com/polarsignals/frostdb/issues/403)
+
+
+## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
 
