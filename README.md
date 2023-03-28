@@ -4,7 +4,56 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 13:43 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 13:53 UTC.</div>
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
+
+- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
+
+- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
+
+
+## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(67 ⭐️)</span>
+
+- [Default issue template](https://github.com/k8sgpt-ai/k8sgpt/issues/96)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(758 ⭐️)</span>
+
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
+
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Add ability to parse identifier strings for PURLs](https://github.com/guacsec/guac/issues/590)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
@@ -57,15 +106,6 @@
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(65 ⭐️)</span>
-
-- [Default issue template](https://github.com/k8sgpt-ai/k8sgpt/issues/96)
-
-- [Add installation instructions for installation from releases](https://github.com/k8sgpt-ai/k8sgpt/issues/105)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(13 ⭐️)</span>
 
 - [Improve receiver and sender test coverage](https://github.com/roc-streaming/roc-go/issues/67)
@@ -115,22 +155,6 @@
 - [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
 
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
-
-
-## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
-
-- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
-
-- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
-
-- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
 
 ## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -200,11 +224,6 @@
 - [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
 
 - [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -285,31 +304,4 @@
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
-
-
-## berops/claudie <span style='color:#F1C40F'>(203 ⭐️)</span>
-
-- [Claudie live demo](https://github.com/berops/claudie/issues/651)
-
-- [Feature: Rework how logger is used](https://github.com/berops/claudie/issues/655)
-
-
-## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
-
-- [BUG: sealos run --single not untaint master node](https://github.com/labring/sealos/issues/2838)
-
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
-
-- [Feature: run clusterfile repeatedly](https://github.com/labring/sealos/issues/2832)
-
-- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
-
-
-## etcd-io/bbolt <span style='color:#F1C40F'>(6.3K ⭐️)</span>
-
-- [Flaky `testDB_Close_PendingTx`](https://github.com/etcd-io/bbolt/issues/441)
-
-- [[1.3] Support injecting failpoints to mimic syscall errors ](https://github.com/etcd-io/bbolt/issues/436)
-
-- [Improve the workflow to check goimport items](https://github.com/etcd-io/bbolt/issues/435)
 
