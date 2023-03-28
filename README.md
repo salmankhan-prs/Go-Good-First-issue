@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 01:23 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 01:33 UTC.</div>
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
+
+- [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
+
+- [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
+
+
+## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(142 ⭐️)</span>
+
+- [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
@@ -197,11 +216,6 @@
 - [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.4K ⭐️)</span>
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
@@ -292,6 +306,11 @@
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
+## kubernetes-sigs/aws-load-balancer-controller <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Respects Single AZ Whitelist of ELB in v2](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/3082)
+
+
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
@@ -364,9 +383,4 @@
 ## cosmos/ibc-go <span style='color:#F1C40F'>(349 ⭐️)</span>
 
 - [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
-
-
-## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
-
-- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
 
