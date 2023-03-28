@@ -4,7 +4,32 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 06:03 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 06:13 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## horizoncd/horizon <span style='color:#F1C40F'>(158 ⭐️)</span>
+
+- [The response of /apis/core/v1/clusters/{clusterID}/outputs is incorrect](https://github.com/horizoncd/horizon/issues/64)
+
+- [the log level of "failed to create event" error should be set to "error"](https://github.com/horizoncd/horizon/issues/61)
+
+- [Requests return 200 code when panics occur](https://github.com/horizoncd/horizon/issues/55)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(911 ⭐️)</span>
+
+- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
+
+- [Enable GatewayWithAttachedRoutes test](https://github.com/envoyproxy/gateway/issues/1201)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+- [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -148,11 +173,6 @@
 - [EARTHLY_GIT_(REF|BRANCH) built in ARG](https://github.com/earthly/earthly/issues/2735)
 
 
-## gocrane/crane <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Should Remove Deprecated Configuration In Example](https://github.com/gocrane/crane/issues/719)
-
-
 ## labring/sealos <span style='color:#F1C40F'>(10.1K ⭐️)</span>
 
 - [BUG: sealos run --single not untaint master node](https://github.com/labring/sealos/issues/2838)
@@ -162,6 +182,11 @@
 - [Feature: run clusterfile repeatedly](https://github.com/labring/sealos/issues/2832)
 
 - [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
+
+
+## gocrane/crane <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Should Remove Deprecated Configuration In Example](https://github.com/gocrane/crane/issues/719)
 
 
 ## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -183,9 +208,9 @@
 
 ## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
 
-- [[feature]: Update Keploy UI with latest server APIs ](https://github.com/keploy/keploy/issues/335)
-
 - [add a sample unit test for mocking/stubbing calls in unit-tests](https://github.com/keploy/keploy/issues/428)
+
+- [[feature]: Update Keploy UI with latest server APIs ](https://github.com/keploy/keploy/issues/335)
 
 - [[bug]: Empty response for node-fetch http call](https://github.com/keploy/keploy/issues/376)
 
@@ -215,13 +240,6 @@
 ## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [Make all the boolean values case insensitive in aws vpc cni environmental variables. ](https://github.com/aws/amazon-vpc-cni-k8s/issues/2311)
-
-
-## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
-
-- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
-
-- [Incorrect OnDemandRateCodeCn configuration](https://github.com/opencost/opencost/issues/1777)
 
 
 ## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
@@ -261,17 +279,6 @@
 - [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
 
 
-## envoyproxy/gateway <span style='color:#F1C40F'>(910 ⭐️)</span>
-
-- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
-
-- [Enable GatewayWithAttachedRoutes test](https://github.com/envoyproxy/gateway/issues/1201)
-
-- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
-
-- [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
-
-
 ## kubesphere/kubekey <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [Support adding annotations for nodes](https://github.com/kubesphere/kubekey/issues/1785)
@@ -293,11 +300,6 @@
 - [RecordModifier is missing some upstream configuration](https://github.com/fluent/fluent-operator/issues/597)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(546 ⭐️)</span>
 
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
@@ -311,24 +313,4 @@
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
-
-
-## Edgenesis/shifu <span style='color:#F1C40F'>(812 ⭐️)</span>
-
-- [The traffic light FSM implementation for deviceShifu](https://github.com/Edgenesis/shifu/issues/547)
-
-- [OPC UA node ID Browing feature on Shifu .Currently we are providing  NodeID' s Manually by going to the OPC UA server loc.  ](https://github.com/Edgenesis/shifu/issues/545)
-
-- [The simplest FSM implementation of deviceShifu](https://github.com/Edgenesis/shifu/issues/542)
-
-- [convert DeviceShifuBase data structure from single EdgeDevice to a list type of EdgeDevice](https://github.com/Edgenesis/shifu/issues/538)
-
-- [In swarm mode, deviceShifuBase supports multiple EdgeDevices](https://github.com/Edgenesis/shifu/issues/539)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
