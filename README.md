@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 18:53 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 19:03 UTC.</div>
+
+
+## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
+
+- [user details: clarify permissions around contact methods](https://github.com/target/goalert/issues/2823)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
+
+- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
+
+
+## openshift-kni/numaresources-operator <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [dedupe the internal/wait package](https://github.com/openshift-kni/numaresources-operator/issues/530)
 
 
 ## solo-io/gloo <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -39,15 +60,6 @@
 - [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
 
 
-## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(901 ⭐️)</span>
 
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
@@ -56,8 +68,6 @@
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
-
-- [feature: implement WhereResolver in placement translator](https://github.com/kcp-dev/edge-mc/issues/219)
 
 - [feature: short video (no audio needed) that walks through the steps of the quickstart](https://github.com/kcp-dev/edge-mc/issues/208)
 
@@ -321,13 +331,6 @@
 - [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
 
 
-## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
-
-- [user details: clarify permissions around contact methods](https://github.com/target/goalert/issues/2823)
-
-
 ## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [UI - ToolBar - upgrade button](https://github.com/komodorio/helm-dashboard/issues/264)
@@ -371,24 +374,4 @@
 - [Implement exponential back-off](https://github.com/padok-team/burrito/issues/87)
 
 - [handle custom env variables in runner](https://github.com/padok-team/burrito/issues/93)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(162 ⭐️)</span>
-
-- [Explore enforcing conventional commits](https://github.com/celestiaorg/celestia-app/issues/1539)
-
-- [Add a testutil function that will fuzz random valid and invalid blocks](https://github.com/celestiaorg/celestia-app/issues/1516)
-
-- [specs: rename `message` => `blob`](https://github.com/celestiaorg/celestia-app/issues/1532)
-
-- [docs: rename `message` => `blob` in ADRs](https://github.com/celestiaorg/celestia-app/issues/1531)
-
-- [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
-
-- [Consider removing split-test-files](https://github.com/celestiaorg/celestia-app/issues/1439)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
