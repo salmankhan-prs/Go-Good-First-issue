@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 06:43 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 06:53 UTC.</div>
+
+
+## kubevela/velaux <span style='color:#F1C40F'>(97 ⭐️)</span>
+
+- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
+
+- [The page crashes after click an inaccessible cluster](https://github.com/kubevela/velaux/issues/685)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(63 ⭐️)</span>
@@ -47,13 +66,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
 ## horizoncd/horizon <span style='color:#F1C40F'>(158 ⭐️)</span>
@@ -152,11 +164,6 @@
 - [Add ECS Security Rule: ECS Container Insights should be enabled](https://github.com/Zeus-Labs/ZeusCloud/issues/119)
 
 - [Set up a way to run ZeusCloud with hardcoded Neo4J data](https://github.com/Zeus-Labs/ZeusCloud/issues/120)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## opensearch-project/opensearch-go <span style='color:#F1C40F'>(108 ⭐️)</span>
@@ -293,18 +300,4 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
-
-
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## kubesphere/kubekey <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [Support adding annotations for nodes](https://github.com/kubesphere/kubekey/issues/1785)
-
-- [Support the installation and configuration of cri-docker](https://github.com/kubesphere/kubekey/issues/1786)
-
-- [Initialize operating system process optimization](https://github.com/kubesphere/kubekey/issues/1787)
 
