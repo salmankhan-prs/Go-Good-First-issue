@@ -4,7 +4,35 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 13:53 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 14:03 UTC.</div>
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(951 ⭐️)</span>
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
+
+- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -31,13 +59,6 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(67 ⭐️)</span>
-
-- [Default issue template](https://github.com/k8sgpt-ai/k8sgpt/issues/96)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-
 ## guacsec/guac <span style='color:#F1C40F'>(758 ⭐️)</span>
 
 - [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
@@ -56,18 +77,18 @@
 - [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
-
-
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -87,30 +108,18 @@
 - [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(951 ⭐️)</span>
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(13 ⭐️)</span>
 
 - [Improve receiver and sender test coverage](https://github.com/roc-streaming/roc-go/issues/67)
 
 - [Add test for log message struct](https://github.com/roc-streaming/roc-go/issues/52)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -125,15 +134,6 @@
 ## cli/cli <span style='color:#F1C40F'>(31.8K ⭐️)</span>
 
 - [`gh repo list ORG` where ORG does not exist, not an error](https://github.com/cli/cli/issues/7231)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(259 ⭐️)</span>
@@ -160,13 +160,6 @@
 ## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Include inbound and outbound edges when automatically activating rank in the graph](https://github.com/kiali/kiali/issues/5915)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## freiheit-com/kuberpult <span style='color:#F1C40F'>(17 ⭐️)</span>
@@ -304,4 +297,108 @@
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
+
+
+## berops/claudie <span style='color:#F1C40F'>(203 ⭐️)</span>
+
+- [Claudie live demo](https://github.com/berops/claudie/issues/651)
+
+- [Feature: Rework how logger is used](https://github.com/berops/claudie/issues/655)
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [BUG: sealos run --single not untaint master node](https://github.com/labring/sealos/issues/2838)
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+
+- [Feature: run clusterfile repeatedly](https://github.com/labring/sealos/issues/2832)
+
+- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
+
+
+## etcd-io/bbolt <span style='color:#F1C40F'>(6.3K ⭐️)</span>
+
+- [Flaky `testDB_Close_PendingTx`](https://github.com/etcd-io/bbolt/issues/441)
+
+- [[1.3] Support injecting failpoints to mimic syscall errors ](https://github.com/etcd-io/bbolt/issues/436)
+
+- [Improve the workflow to check goimport items](https://github.com/etcd-io/bbolt/issues/435)
+
+
+## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
+
+- [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
+
+
+## grafana-operator/grafana-operator <span style='color:#F1C40F'>(550 ⭐️)</span>
+
+- [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
+
+
+## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
+
+- [[Good First Issues]: New Source Connector Request: Facebook Page ](https://github.com/vanus-labs/vanus-connect/issues/262)
+
+- [🎯 New Source Connector Request: Twitter](https://github.com/vanus-labs/vanus-connect/issues/251)
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
+
+- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
+
+- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
+
+- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
+
+- [[QUESTION]没有卸载面板的脚本](https://github.com/1Panel-dev/1Panel/issues/330)
+
+- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
+
+- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
+
+- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
+
+- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
+
+- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
+
+- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+
+
+## aquasecurity/trivy-operator <span style='color:#F1C40F'>(456 ⭐️)</span>
+
+- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
+
+- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
+
+
+## RamenDR/ramen <span style='color:#F1C40F'>(51 ⭐️)</span>
+
+- [Fail early if drenv environment file contains invalid script spec](https://github.com/RamenDR/ramen/issues/809)
+
+- [Ramen catalog fails to report healthy in drenv, potentially due to olm installation differences](https://github.com/RamenDR/ramen/issues/745)
+
+- [Filename of sample is mis-spelled: config/samples/ramnedr_v1alpha1_metrodr_drcluster.yaml](https://github.com/RamenDR/ramen/issues/798)
+
+- [Add selt test for minio](https://github.com/RamenDR/ramen/issues/743)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
+
+- [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
+
+
+## apache/apisix-ingress-controller <span style='color:#F1C40F'>(766 ⭐️)</span>
+
+- [docs: ApisixUpstream reference need to be updated](https://github.com/apache/apisix-ingress-controller/issues/1740)
+
+
+## lf-edge/eve <span style='color:#F1C40F'>(395 ⭐️)</span>
+
+- [Add CPU pinning with Xen hypervisor](https://github.com/lf-edge/eve/issues/3071)
 
