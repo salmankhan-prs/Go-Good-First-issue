@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 06:53 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 07:03 UTC.</div>
+
+
+## kubernetes/dashboard <span style='color:#F1C40F'>(12.4K ⭐️)</span>
+
+- [CRD does not show the output like kubectl](https://github.com/kubernetes/dashboard/issues/7633)
 
 
 ## kubevela/velaux <span style='color:#F1C40F'>(97 ⭐️)</span>
