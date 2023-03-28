@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 03:43 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 03:53 UTC.</div>
+
+
+## gocrane/crane <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Should Remove Deprecated Configuration In Example](https://github.com/gocrane/crane/issues/719)
 
 
 ## labring/sealos <span style='color:#F1C40F'>(10.1K ⭐️)</span>
@@ -23,6 +28,15 @@
 - [提供专用sug接口提供给编辑服务治理规则场景使用，不要查询全量服务信息](https://github.com/polarismesh/polaris/issues/979)
 
 
+## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [Pytorch Serve supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2178)
+
+- [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
+
+- [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
+
+
 ## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
 
 - [Support for MongoDB](https://github.com/secret-telegram/chat/issues/55)
@@ -33,11 +47,6 @@
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 - [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
-
-
-## gocrane/crane <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Should Remove Deprecated Configuration In Example](https://github.com/gocrane/crane/issues/719)
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -211,20 +220,21 @@
 - [In swarm mode, deviceShifuBase supports multiple EdgeDevices](https://github.com/Edgenesis/shifu/issues/539)
 
 
-## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [The progress bar on the front end of the installation plugin is still spinning](https://github.com/kubevela/kubevela/issues/5753)
-
-- [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
-
-- [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
-
-- [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
-
-
 ## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(142 ⭐️)</span>
 
 - [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
+
+
+## lf-edge/eve <span style='color:#F1C40F'>(394 ⭐️)</span>
+
+- [Add CPU pinning with Xen hypervisor](https://github.com/lf-edge/eve/issues/3071)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
