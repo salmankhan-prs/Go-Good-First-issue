@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 20:23 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 20:33 UTC.</div>
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
+
+- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
+
+- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
 
 ## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -22,6 +43,11 @@
 - [Claudie live demo](https://github.com/berops/claudie/issues/651)
 
 - [Feature: Rework how logger is used](https://github.com/berops/claudie/issues/655)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## polarsignals/frostdb <span style='color:#F1C40F'>(975 ⭐️)</span>
@@ -72,11 +98,6 @@
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
 
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
 ## RamenDR/ramen <span style='color:#F1C40F'>(51 ⭐️)</span>
 
 - [Fail early if drenv environment file contains invalid script spec](https://github.com/RamenDR/ramen/issues/809)
@@ -98,11 +119,6 @@
 ## cosmos/ibc-go <span style='color:#F1C40F'>(349 ⭐️)</span>
 
 - [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -332,13 +348,4 @@
 - [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
 
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
-
-
-## gavv/httpexpect <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [Refactor Number and String tests to use chain.assertOK](https://github.com/gavv/httpexpect/issues/345)
-
-- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
-
-- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
 
