@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 06:23 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 06:33 UTC.</div>
+
+
+## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
+
+- [dendrite_up metric](https://github.com/matrix-org/dendrite/issues/2993)
 
 
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(453 ⭐️)</span>
@@ -118,6 +125,13 @@
 ## apache/apisix-ingress-controller <span style='color:#F1C40F'>(764 ⭐️)</span>
 
 - [docs: ApisixUpstream reference need to be updated](https://github.com/apache/apisix-ingress-controller/issues/1740)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
+
+- [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
@@ -293,16 +307,4 @@
 - [Support the installation and configuration of cri-docker](https://github.com/kubesphere/kubekey/issues/1786)
 
 - [Initialize operating system process optimization](https://github.com/kubesphere/kubekey/issues/1787)
-
-
-## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
-
-- [[Good First Issues]: New Source Connector Request: Facebook Page ](https://github.com/vanus-labs/vanus-connect/issues/262)
-
-- [🎯 New Source Connector Request: Twitter](https://github.com/vanus-labs/vanus-connect/issues/251)
-
-
-## fluent/fluent-operator <span style='color:#F1C40F'>(392 ⭐️)</span>
-
-- [RecordModifier is missing some upstream configuration](https://github.com/fluent/fluent-operator/issues/597)
 
