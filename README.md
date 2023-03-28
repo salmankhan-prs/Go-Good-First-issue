@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 00:43 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 00:53 UTC.</div>
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -319,6 +319,23 @@
 - [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
 
 - [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [Enable signed release tracking](https://github.com/kyverno/kyverno/issues/6482)
+
+- [Set tokens to read-only](https://github.com/kyverno/kyverno/issues/6483)
+
+- [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
+
+- [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
 
 
 ## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
