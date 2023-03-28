@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 00:33 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 00:43 UTC.</div>
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -247,6 +247,11 @@
 - [cmd/uplink: show info on how to enable secure custom domain support while sharing with `--dns`](https://github.com/storj/storj/issues/5623)
 
 
+## lf-edge/eve <span style='color:#F1C40F'>(394 ⭐️)</span>
+
+- [Add CPU pinning with Xen hypervisor](https://github.com/lf-edge/eve/issues/3071)
+
+
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(469 ⭐️)</span>
 
 - [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
@@ -336,11 +341,4 @@
 - [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
 
 - [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(258 ⭐️)</span>
-
-- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
-
-- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
 
