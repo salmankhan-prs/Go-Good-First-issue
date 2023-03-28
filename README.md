@@ -4,12 +4,25 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 11:13 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 11:23 UTC.</div>
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(27 ⭐️)</span>
 
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+- [Add installation instructions for installation from releases](https://github.com/k8sgpt-ai/k8sgpt/issues/105)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+- [Default issue template](https://github.com/k8sgpt-ai/k8sgpt/issues/96)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
+
+- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
+
+- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
@@ -19,13 +32,9 @@
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(23 ⭐️)</span>
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
 
-- [Add installation instructions for installation from releases](https://github.com/k8sgpt-ai/k8sgpt/issues/105)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-- [Default issue template](https://github.com/k8sgpt-ai/k8sgpt/issues/96)
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## grafana-operator/grafana-operator <span style='color:#F1C40F'>(550 ⭐️)</span>
@@ -114,15 +123,6 @@
 - [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
 
 - [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
-
-- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
-
-- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
 
 ## labring/sealos <span style='color:#F1C40F'>(10.1K ⭐️)</span>
