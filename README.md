@@ -4,12 +4,42 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 22:13 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 22:23 UTC.</div>
 
 
-## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
-- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
+- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [Enable signed release tracking](https://github.com/kyverno/kyverno/issues/6482)
+
+- [Set tokens to read-only](https://github.com/kyverno/kyverno/issues/6483)
+
+- [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
+
+- [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
+
+
+## golang-app/ecommerce <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [When I click on the cart icon, I should see summary of the cart](https://github.com/golang-app/ecommerce/issues/33)
+
+- [The cart icon on the top menu doesn't update when a new item is added to the cart](https://github.com/golang-app/ecommerce/issues/32)
+
+- [When a product changes its name/price in the product catalog, those changes aren't visible in the cart](https://github.com/golang-app/ecommerce/issues/24)
+
+- [Add grafana dashboard with go runtime metrics](https://github.com/golang-app/ecommerce/issues/23)
+
+- [Add codespaces ](https://github.com/golang-app/ecommerce/issues/20)
 
 
 ## envoyproxy/gateway <span style='color:#F1C40F'>(912 ⭐️)</span>
@@ -19,6 +49,11 @@
 - [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
 
 - [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
+
+
+## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -120,11 +155,6 @@
 - [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
-
-
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
 
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
@@ -224,6 +254,17 @@
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
+## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
+
+- [Pluto - Fix Artifacting on Multiple Select Input](https://github.com/synnaxlabs/synnax/issues/245)
+
+- [Pluto - Resize - Allow Drag Out from Collapsed State](https://github.com/synnaxlabs/synnax/issues/249)
+
+- [Client - TS - GC and Move Utilities to X](https://github.com/synnaxlabs/synnax/issues/254)
+
+- [X - Large Key-Value Store](https://github.com/synnaxlabs/synnax/issues/240)
+
+
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
 
 - [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
@@ -277,124 +318,4 @@
 ## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(143 ⭐️)</span>
 
 - [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
-
-
-## RamenDR/ramen <span style='color:#F1C40F'>(51 ⭐️)</span>
-
-- [Fail early if drenv environment file contains invalid script spec](https://github.com/RamenDR/ramen/issues/809)
-
-- [Ramen catalog fails to report healthy in drenv, potentially due to olm installation differences](https://github.com/RamenDR/ramen/issues/745)
-
-- [Filename of sample is mis-spelled: config/samples/ramnedr_v1alpha1_metrodr_drcluster.yaml](https://github.com/RamenDR/ramen/issues/798)
-
-- [Add selt test for minio](https://github.com/RamenDR/ramen/issues/743)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
-
-- [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
-
-
-## cosmos/ibc-go <span style='color:#F1C40F'>(349 ⭐️)</span>
-
-- [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
-
-
-## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
-
-
-## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
-
-- [user details: clarify permissions around contact methods](https://github.com/target/goalert/issues/2823)
-
-
-## openshift-kni/numaresources-operator <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [dedupe the internal/wait package](https://github.com/openshift-kni/numaresources-operator/issues/530)
-
-
-## solo-io/gloo <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
-
-- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
-
-- [[gloo-fed] Support kubeconfig with exec command](https://github.com/solo-io/gloo/issues/7912)
-
-
-## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(902 ⭐️)</span>
-
-- [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
-
-
-## guacsec/guac <span style='color:#F1C40F'>(758 ⭐️)</span>
-
-- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
-
-- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
-
-- [Add ability to parse identifier strings for PURLs](https://github.com/guacsec/guac/issues/590)
-
-- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
-
-
-## in-toto/attestation <span style='color:#F1C40F'>(111 ⭐️)</span>
-
-- [Create test suite for Python bindings](https://github.com/in-toto/attestation/issues/176)
-
-- [Create test suite for Go bindings](https://github.com/in-toto/attestation/issues/175)
-
-- [Create test suite for Rust bindings](https://github.com/in-toto/attestation/issues/178)
-
-- [Create test suite for Java bindings](https://github.com/in-toto/attestation/issues/177)
-
-- [Add pre-generated Java bindings for protobufs](https://github.com/in-toto/attestation/issues/173)
-
-- [Add pre-generated Rust bindings for protobufs](https://github.com/in-toto/attestation/issues/174)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
-
-
-## JoshRosner101/EduFor <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [DELETE for threads/replies](https://github.com/JoshRosner101/EduFor/issues/19)
-
-- [Decorate threads page](https://github.com/JoshRosner101/EduFor/issues/11)
-
-- [Decorate main page](https://github.com/JoshRosner101/EduFor/issues/10)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(419 ⭐️)</span>
-
-- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
-
-- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(547 ⭐️)</span>
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
-## mercy34mercy/bustimer_kic <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [infra層 errハンドリングテスト](https://github.com/mercy34mercy/bustimer_kic/issues/153)
-
-- [適切なvalidateを入れる](https://github.com/mercy34mercy/bustimer_kic/issues/146)
-
-- [buildにキャッシュ導入](https://github.com/mercy34mercy/bustimer_kic/issues/150)
 
