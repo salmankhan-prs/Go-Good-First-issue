@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 23:33 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 23:43 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(19 ⭐️)</span>
@@ -12,11 +17,6 @@
 - [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
 
 - [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## etcd-io/bbolt <span style='color:#F1C40F'>(6.3K ⭐️)</span>
@@ -319,16 +319,4 @@
 - [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
 
 - [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
-
-
-## mattermost/mattermost-plugin-autolink <span style='color:#F1C40F'>(120 ⭐️)</span>
-
-- [The plugin gives no feedback if the list link is empty](https://github.com/mattermost/mattermost-plugin-autolink/issues/208)
-
-
-## berops/claudie <span style='color:#F1C40F'>(203 ⭐️)</span>
-
-- [Claudie live demo](https://github.com/berops/claudie/issues/651)
-
-- [Feature: Rework how logger is used](https://github.com/berops/claudie/issues/655)
 
