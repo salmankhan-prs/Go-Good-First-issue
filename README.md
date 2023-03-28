@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 20:33 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 20:43 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
+
+- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -312,40 +326,7 @@
 - [Increase test coverage for authprovider](https://github.com/deislabs/ratify/issues/693)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
-
-
 ## project-zot/zot <span style='color:#F1C40F'>(330 ⭐️)</span>
 
 - [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
-
-
-## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
-
-- [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
-
-
-## gnolang/gno <span style='color:#F1C40F'>(711 ⭐️)</span>
-
-- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
-
-- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
-
-- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
