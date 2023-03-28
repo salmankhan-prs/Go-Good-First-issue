@@ -4,12 +4,49 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 19:13 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 19:23 UTC.</div>
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## RamenDR/ramen <span style='color:#F1C40F'>(51 ⭐️)</span>
+
+- [Fail early if drenv environment file contains invalid script spec](https://github.com/RamenDR/ramen/issues/809)
+
+- [Ramen catalog fails to report healthy in drenv, potentially due to olm installation differences](https://github.com/RamenDR/ramen/issues/745)
+
+- [Filename of sample is mis-spelled: config/samples/ramnedr_v1alpha1_metrodr_drcluster.yaml](https://github.com/RamenDR/ramen/issues/798)
+
+- [Add selt test for minio](https://github.com/RamenDR/ramen/issues/743)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
+
+- [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
 
 
 ## cosmos/ibc-go <span style='color:#F1C40F'>(349 ⭐️)</span>
 
 - [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -70,7 +107,7 @@
 - [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
 
 
-## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(901 ⭐️)</span>
+## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(902 ⭐️)</span>
 
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
 
@@ -86,11 +123,6 @@
 - [feature: Create behavioral unit tests for mailbox controller](https://github.com/kcp-dev/edge-mc/issues/218)
 
 - [feature: new make target for deploying and configuring kcp and kcp-edge components](https://github.com/kcp-dev/edge-mc/issues/212)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(758 ⭐️)</span>
@@ -144,11 +176,6 @@
 - [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## JoshRosner101/EduFor <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -207,15 +234,6 @@
 - [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
 
 - [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
 
 ## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
@@ -329,33 +347,4 @@
 - [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
 
 - [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
-
-
-## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
-
-- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
-
-
-## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [UI - ToolBar - upgrade button](https://github.com/komodorio/helm-dashboard/issues/264)
-
-- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
-
-- [UI - General - Install Modal](https://github.com/komodorio/helm-dashboard/issues/259)
-
-- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
-
-- [UI - General - Uninstall modal](https://github.com/komodorio/helm-dashboard/issues/257)
-
-- [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
-
-- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(259 ⭐️)</span>
-
-- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
-
-- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
 
