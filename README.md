@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 19:43 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 19:53 UTC.</div>
+
+
+## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
+
+
+## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
 
 
 ## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(143 ⭐️)</span>
@@ -15,11 +25,6 @@
 ## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
-
-
-## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
@@ -338,11 +343,4 @@
 - [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
 
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
