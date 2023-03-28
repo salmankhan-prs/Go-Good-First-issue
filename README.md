@@ -4,12 +4,17 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 16:53 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 17:03 UTC.</div>
 
 
-## cli/cli <span style='color:#F1C40F'>(31.8K ⭐️)</span>
+## gnolang/gno <span style='color:#F1C40F'>(711 ⭐️)</span>
 
-- [`gh repo list ORG` where ORG does not exist, not an error](https://github.com/cli/cli/issues/7231)
+- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(20 ⭐️)</span>
@@ -25,6 +30,32 @@
 - [feature: Create behavioral unit tests for mailbox controller](https://github.com/kcp-dev/edge-mc/issues/218)
 
 - [feature: new make target for deploying and configuring kcp and kcp-edge components](https://github.com/kcp-dev/edge-mc/issues/212)
+
+
+## gavv/httpexpect <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Refactor Number and String tests to use chain.assertOK](https://github.com/gavv/httpexpect/issues/345)
+
+- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
+
+- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(98 ⭐️)</span>
+
+- [Filter by namespace](https://github.com/k8sgpt-ai/k8sgpt/issues/112)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+
+## kubernetes-sigs/aws-load-balancer-controller <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Respects Single AZ Whitelist of ELB in v2](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/3082)
+
+
+## cli/cli <span style='color:#F1C40F'>(31.8K ⭐️)</span>
+
+- [`gh repo list ORG` where ORG does not exist, not an error](https://github.com/cli/cli/issues/7231)
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -87,13 +118,9 @@
 - [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
 
 
-## gavv/httpexpect <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
-- [Refactor Number and String tests to use chain.assertOK](https://github.com/gavv/httpexpect/issues/345)
-
-- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
-
-- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## kairos-io/kairos <span style='color:#F1C40F'>(419 ⭐️)</span>
@@ -221,15 +248,6 @@
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(95 ⭐️)</span>
-
-- [Filter by namespace](https://github.com/k8sgpt-ai/k8sgpt/issues/112)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-- [Default issue template](https://github.com/k8sgpt-ai/k8sgpt/issues/96)
-
-
 ## NibiruChain/nibiru <span style='color:#F1C40F'>(57 ⭐️)</span>
 
 - [feat(oracle): create an exponential moving average of index prices](https://github.com/NibiruChain/nibiru/issues/1235)
@@ -315,21 +333,4 @@
 ## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
 
 - [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## earthly/earthly <span style='color:#F1C40F'>(8.9K ⭐️)</span>
-
-- [EARTHLY_GIT_(REF|BRANCH) built in ARG](https://github.com/earthly/earthly/issues/2735)
 
