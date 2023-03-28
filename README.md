@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 21:43 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 21:53 UTC.</div>
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
@@ -106,6 +113,15 @@
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
@@ -263,15 +279,6 @@
 - [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
 
 
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
 ## JoshRosner101/EduFor <span style='color:#F1C40F'>(0 ⭐️)</span>
 
 - [DELETE for threads/replies](https://github.com/JoshRosner101/EduFor/issues/19)
@@ -346,6 +353,11 @@
 - [Increase test coverage for authprovider](https://github.com/deislabs/ratify/issues/693)
 
 
+## dominant-strategies/go-quai <span style='color:#F1C40F'>(145 ⭐️)</span>
+
+- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
+
+
 ## project-zot/zot <span style='color:#F1C40F'>(330 ⭐️)</span>
 
 - [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
@@ -403,9 +415,4 @@
 - [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
 
 - [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
-
-
-## storj/storj <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [cmd/uplink: show info on how to enable secure custom domain support while sharing with `--dns`](https://github.com/storj/storj/issues/5623)
 
