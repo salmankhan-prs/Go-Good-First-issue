@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 23:23 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 23:33 UTC.</div>
 
 
 ## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(19 ⭐️)</span>
@@ -331,9 +331,4 @@
 - [Claudie live demo](https://github.com/berops/claudie/issues/651)
 
 - [Feature: Rework how logger is used](https://github.com/berops/claudie/issues/655)
-
-
-## polarsignals/frostdb <span style='color:#F1C40F'>(975 ⭐️)</span>
-
-- [Fix Release() arrow callbacks](https://github.com/polarsignals/frostdb/issues/403)
 
