@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 07:53 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 08:03 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
 ## freiheit-com/kuberpult <span style='color:#F1C40F'>(17 ⭐️)</span>
@@ -123,13 +130,6 @@
 - [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
-
-
 ## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
 
 - [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
@@ -145,6 +145,15 @@
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## horizoncd/horizon <span style='color:#F1C40F'>(159 ⭐️)</span>
+
+- [The response of /apis/core/v1/clusters/{clusterID}/outputs is incorrect](https://github.com/horizoncd/horizon/issues/64)
+
+- [the log level of "failed to create event" error should be set to "error"](https://github.com/horizoncd/horizon/issues/61)
+
+- [Requests return 200 code when panics occur](https://github.com/horizoncd/horizon/issues/55)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(63 ⭐️)</span>
@@ -182,15 +191,6 @@
 - [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
 
 - [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
-
-
-## horizoncd/horizon <span style='color:#F1C40F'>(158 ⭐️)</span>
-
-- [The response of /apis/core/v1/clusters/{clusterID}/outputs is incorrect](https://github.com/horizoncd/horizon/issues/64)
-
-- [the log level of "failed to create event" error should be set to "error"](https://github.com/horizoncd/horizon/issues/61)
-
-- [Requests return 200 code when panics occur](https://github.com/horizoncd/horizon/issues/55)
 
 
 ## envoyproxy/gateway <span style='color:#F1C40F'>(911 ⭐️)</span>
@@ -364,9 +364,4 @@
 - [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
 - [Incorrect OnDemandRateCodeCn configuration](https://github.com/opencost/opencost/issues/1777)
-
-
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
 
