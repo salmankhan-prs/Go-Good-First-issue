@@ -4,10 +4,20 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 11:23 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 11:33 UTC.</div>
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(27 ⭐️)</span>
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(32 ⭐️)</span>
 
 - [Add installation instructions for installation from releases](https://github.com/k8sgpt-ai/k8sgpt/issues/105)
 
@@ -30,11 +40,6 @@
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## grafana-operator/grafana-operator <span style='color:#F1C40F'>(550 ⭐️)</span>
@@ -240,11 +245,6 @@
 - [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
 
 
-## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
-
-
 ## cloudwego/kitex <span style='color:#F1C40F'>(5.7K ⭐️)</span>
 
 - [[docs]: translate kitex codegen doc based on Chinese doc](https://github.com/cloudwego/kitex/issues/861)
@@ -308,13 +308,4 @@
 - [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
 
 - [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
