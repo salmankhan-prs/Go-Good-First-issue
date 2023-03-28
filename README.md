@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 17:33 UTC.</div>
+<div align='center'>Last updated at March 28, 2023 17:43 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
+
+- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
+
+- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -110,6 +134,11 @@
 - [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
 
 
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.6K ⭐️)</span>
+
+- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
+
+
 ## kubernetes-sigs/aws-load-balancer-controller <span style='color:#F1C40F'>(3.3K ⭐️)</span>
 
 - [Respects Single AZ Whitelist of ELB in v2](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/3082)
@@ -186,11 +215,6 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
 
 
 ## kairos-io/kairos <span style='color:#F1C40F'>(419 ⭐️)</span>
@@ -302,16 +326,4 @@
 - [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
 
 - [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-
-## NibiruChain/nibiru <span style='color:#F1C40F'>(57 ⭐️)</span>
-
-- [feat(oracle): create an exponential moving average of index prices](https://github.com/NibiruChain/nibiru/issues/1235)
-
-- [feat(vpool): add peg multiplier to vpool](https://github.com/NibiruChain/nibiru/issues/1232)
 
