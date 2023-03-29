@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 22:33 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 22:43 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
+
+- [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
@@ -57,11 +62,6 @@
 - [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
 
 - [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
