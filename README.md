@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 02:23 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 02:33 UTC.</div>
+
+
+## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
+
+- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
+
+- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
+
+- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
 
 
 ## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -210,13 +226,6 @@
 - [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.8K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-- [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
-
-
 ## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
@@ -393,38 +402,4 @@
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-- [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
-
-- [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## solo-io/gloo <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
-
-- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
-
-- [[gloo-fed] Support kubeconfig with exec command](https://github.com/solo-io/gloo/issues/7912)
 
