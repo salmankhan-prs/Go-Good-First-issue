@@ -4,12 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 03:13 UTC.</div>
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+<div align='center'>Last updated at March 29, 2023 03:23 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
@@ -17,6 +12,11 @@
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
 ## techygrrrl/timerrr <span style='color:#F1C40F'>(0 ⭐️)</span>
