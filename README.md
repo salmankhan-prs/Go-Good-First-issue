@@ -4,7 +4,36 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 16:23 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 16:33 UTC.</div>
+
+
+## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+
+
+## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(273 ⭐️)</span>
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -115,6 +144,11 @@
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
+## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
+
+
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
 - [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
@@ -169,15 +203,6 @@
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(271 ⭐️)</span>
-
-- [feature: Create analyzer for ingress resources](https://github.com/k8sgpt-ai/k8sgpt/issues/136)
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.7K ⭐️)</span>
 
 - [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
@@ -203,14 +228,14 @@
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
 
-## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
-
-
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
+
+
+## ory/hydra <span style='color:#F1C40F'>(13.9K ⭐️)</span>
+
+- [upstream reference closed: github.com/gobuffalo/fizz/issues/104](https://github.com/ory/hydra/issues/3470)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.6K ⭐️)</span>
@@ -265,11 +290,6 @@
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
@@ -281,45 +301,4 @@
 - [feature: Create behavioral unit tests for mailbox controller](https://github.com/kcp-dev/edge-mc/issues/218)
 
 - [feature: new make target for deploying and configuring kcp and kcp-edge components](https://github.com/kcp-dev/edge-mc/issues/212)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
-## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
-
-- [BUG: sealos run --single not untaint master node](https://github.com/labring/sealos/issues/2838)
-
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
-
-- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
-
-
-## SiaFoundation/hostd <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
-
-- [Integrated DynDNS](https://github.com/SiaFoundation/hostd/issues/17)
-
-- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
-
-- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
-
-- [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(420 ⭐️)</span>
-
-- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
-
-- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
 
