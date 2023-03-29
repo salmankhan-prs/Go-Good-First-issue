@@ -4,7 +4,60 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 21:33 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 21:43 UTC.</div>
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
+
+- [terminal theme: can't uppercase latex](https://github.com/terrastruct/d2/issues/1102)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+- [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
+
+- [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
+
+
+## chainloop-dev/chainloop <span style='color:#F1C40F'>(142 ⭐️)</span>
+
+- [Handle AWS secret manager empty response ](https://github.com/chainloop-dev/chainloop/issues/56)
+
+- [Extract attestation grpc service to another proto file](https://github.com/chainloop-dev/chainloop/issues/36)
+
+- [CLI: improve UX on attestation downloading](https://github.com/chainloop-dev/chainloop/issues/31)
+
+- [Populate releases footer information](https://github.com/chainloop-dev/chainloop/issues/30)
+
+- [Document authentication config in control plane](https://github.com/chainloop-dev/chainloop/issues/23)
+
+- [Improve CLI feedback on configuration change](https://github.com/chainloop-dev/chainloop/issues/14)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## cosmos/relayer <span style='color:#F1C40F'>(290 ⭐️)</span>
+
+- [add src and dst channel identifiers to send msg logs](https://github.com/cosmos/relayer/issues/1148)
+
+- [Read in hermes config.toml and output relayer config.yaml](https://github.com/cosmos/relayer/issues/1133)
+
+- [feat: add the ability to pull testnet data from the chain registry](https://github.com/cosmos/relayer/issues/1128)
+
+- [look into http response and provide more understandable logs when a node is inaccessible](https://github.com/cosmos/relayer/issues/1136)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
+
+- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
+
+- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
 
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
@@ -29,11 +82,6 @@
 ## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
 
 - [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
@@ -197,11 +245,6 @@
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
 
 
-## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(906 ⭐️)</span>
-
-- [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
-
-
 ## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
 
 - [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
@@ -250,15 +293,6 @@
 - [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
 
 
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
-
-- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
-
-- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Incorrect Error Message: Invalid Deposit Event -> Invalid System Config Update Event](https://github.com/ethereum-optimism/optimism/issues/5272)
@@ -294,118 +328,4 @@
 - [Add ability to parse identifier strings for PURLs](https://github.com/guacsec/guac/issues/590)
 
 - [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [bug: `syncedResources` state should be Pending when APIResourceImport is missing](https://github.com/kcp-dev/kcp/issues/2928)
-
-- [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
-
-
-## kubeshop/testkube <span style='color:#F1C40F'>(725 ⭐️)</span>
-
-- [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
-
-
-## kyma-project/lifecycle-manager <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Kyma Alpha Create Module fails for Docker Hub as Container Registry](https://github.com/kyma-project/lifecycle-manager/issues/439)
-
-- [Limited channels availability per Kyma instance](https://github.com/kyma-project/lifecycle-manager/issues/455)
-
-- [Add issue template to Lifecycle Manager repo](https://github.com/kyma-project/lifecycle-manager/issues/497)
-
-
-## kubearmor/KubeArmor <span style='color:#F1C40F'>(644 ⭐️)</span>
-
-- [Use registry client for updating stabing release workflow](https://github.com/kubearmor/KubeArmor/issues/1169)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(915 ⭐️)</span>
-
-- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
-
-- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
-
-
-## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
-
-
-## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [Consumer prefetch](https://github.com/memphisdev/memphis/issues/766)
-
-- [Purge messages](https://github.com/memphisdev/memphis/issues/793)
-
-- [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
-
-- [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
-
-- [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
-
-- [feature: short video (no audio needed) that walks through the steps of the quickstart](https://github.com/kcp-dev/edge-mc/issues/208)
-
-- [Need a quickstart for our docs site to welcome our visitors](https://github.com/kcp-dev/edge-mc/issues/207)
-
-- [feature: Create behavioral unit tests for mailbox controller](https://github.com/kcp-dev/edge-mc/issues/218)
-
-- [feature: new make target for deploying and configuring kcp and kcp-edge components](https://github.com/kcp-dev/edge-mc/issues/212)
-
-
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(459 ⭐️)</span>
-
-- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
-
-- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
-
-
-## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
-
-- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
-
-
-## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
-
-- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
-
-- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
-
-- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
-
-
-## fluent/fluent-operator <span style='color:#F1C40F'>(393 ⭐️)</span>
-
-- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
-
-- [RecordModifier is missing some upstream configuration](https://github.com/fluent/fluent-operator/issues/597)
-
-
-## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
