@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 22:23 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 22:33 UTC.</div>
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
@@ -308,9 +308,4 @@
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(549 ⭐️)</span>
 
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
-## simpleiot/simpleiot <span style='color:#F1C40F'>(114 ⭐️)</span>
-
-- [Move 1-wire code to client](https://github.com/simpleiot/simpleiot/issues/529)
 
