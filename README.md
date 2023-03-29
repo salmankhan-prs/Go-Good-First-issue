@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 05:13 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 05:23 UTC.</div>
 
 
 ## techygrrrl/timerrr <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -181,6 +181,11 @@
 - [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
 
 - [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
+
+
+## metallb/metallb <span style='color:#F1C40F'>(5.7K ⭐️)</span>
+
+- [Improve golangci-lint configuration](https://github.com/metallb/metallb/issues/1860)
 
 
 ## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
