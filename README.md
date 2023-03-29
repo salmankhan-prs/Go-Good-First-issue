@@ -4,12 +4,17 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 17:33 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 17:43 UTC.</div>
 
 
 ## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -19,16 +24,16 @@
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
 
 - [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
 
 - [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
 ## earthly/earthly <span style='color:#F1C40F'>(8.9K ⭐️)</span>
@@ -48,11 +53,6 @@
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
 
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(951 ⭐️)</span>
@@ -97,6 +97,11 @@
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -145,6 +150,13 @@
 ## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
 
 - [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
+
+
+## aquasecurity/trivy-operator <span style='color:#F1C40F'>(458 ⭐️)</span>
+
+- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
+
+- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
 
 
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -322,22 +334,4 @@
 - [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
 
 - [Consider removing split-test-files](https://github.com/celestiaorg/celestia-app/issues/1439)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(330 ⭐️)</span>
-
-- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
-
-- [feature: short video (no audio needed) that walks through the steps of the quickstart](https://github.com/kcp-dev/edge-mc/issues/208)
-
-- [Need a quickstart for our docs site to welcome our visitors](https://github.com/kcp-dev/edge-mc/issues/207)
-
-- [feature: Create behavioral unit tests for mailbox controller](https://github.com/kcp-dev/edge-mc/issues/218)
-
-- [feature: new make target for deploying and configuring kcp and kcp-edge components](https://github.com/kcp-dev/edge-mc/issues/212)
 
