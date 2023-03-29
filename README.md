@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 05:53 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 06:03 UTC.</div>
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -94,14 +108,14 @@
 - [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
-## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
-
-
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
+
+- [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
@@ -289,9 +303,4 @@
 - [Add ECS Security Rule: ECS Container Insights should be enabled](https://github.com/Zeus-Labs/ZeusCloud/issues/119)
 
 - [Set up a way to run ZeusCloud with hardcoded Neo4J data](https://github.com/Zeus-Labs/ZeusCloud/issues/120)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
 
