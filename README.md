@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 11:03 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 11:13 UTC.</div>
 
 
 ## cloudfoundry/korifi <span style='color:#F1C40F'>(174 ⭐️)</span>
@@ -52,6 +52,11 @@
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
 
 
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
 ## kubeshop/testkube <span style='color:#F1C40F'>(725 ⭐️)</span>
 
 - [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
@@ -88,11 +93,6 @@
 ## gnolang/gno <span style='color:#F1C40F'>(712 ⭐️)</span>
 
 - [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -311,6 +311,11 @@
 ## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
 
 - [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
+
+
+## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
