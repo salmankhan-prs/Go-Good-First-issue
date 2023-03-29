@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 28, 2023 23:53 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 00:03 UTC.</div>
 
 
 ## kairos-io/kairos <span style='color:#F1C40F'>(419 ⭐️)</span>
@@ -315,15 +315,4 @@
 - [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
 
 - [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Destroy message has an empty quote if the environment doesn't have a name](https://github.com/okteto/okteto/issues/3487)
-
-- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
-
-- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
-
-- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
 
