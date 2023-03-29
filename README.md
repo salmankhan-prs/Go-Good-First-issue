@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 06:13 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 06:23 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
