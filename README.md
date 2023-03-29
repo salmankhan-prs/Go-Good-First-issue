@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 17:03 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 17:13 UTC.</div>
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
+
+- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
