@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 23:43 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 23:53 UTC.</div>
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
@@ -131,6 +131,15 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
+
+- [tempodb integer divide by zero error](https://github.com/grafana/tempo/issues/2167)
+
+- [Evaluate `status.code` as virtual tag](https://github.com/grafana/tempo/issues/2155)
 
 
 ## chainloop-dev/chainloop <span style='color:#F1C40F'>(142 ⭐️)</span>
@@ -309,39 +318,4 @@
 ## cortexproject/cortex <span style='color:#F1C40F'>(5.0K ⭐️)</span>
 
 - [setting -distributor.ingestion-tenant-shard-size to 0 throws error](https://github.com/cortexproject/cortex/issues/5189)
-
-
-## solo-io/gloo <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
-
-- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
-
-- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
-
-- [[gloo-fed] Support kubeconfig with exec command](https://github.com/solo-io/gloo/issues/7912)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
-
-- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(163 ⭐️)</span>
-
-- [Explore enforcing conventional commits](https://github.com/celestiaorg/celestia-app/issues/1539)
-
-- [Add a testutil function that will fuzz random valid and invalid blocks](https://github.com/celestiaorg/celestia-app/issues/1516)
-
-- [specs: rename `message` => `blob`](https://github.com/celestiaorg/celestia-app/issues/1532)
-
-- [docs: rename `message` => `blob` in ADRs](https://github.com/celestiaorg/celestia-app/issues/1531)
-
-- [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
-
-- [Consider removing split-test-files](https://github.com/celestiaorg/celestia-app/issues/1439)
 
