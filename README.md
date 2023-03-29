@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 06:23 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 06:33 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
@@ -42,6 +42,11 @@
 - [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
+## apache/apisix-ingress-controller <span style='color:#F1C40F'>(768 ⭐️)</span>
+
+- [docs: ApisixUpstream reference need to be updated](https://github.com/apache/apisix-ingress-controller/issues/1740)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -293,14 +298,4 @@
 - [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
-## gnolang/gno <span style='color:#F1C40F'>(712 ⭐️)</span>
-
-- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
-
-
-## earthly/earthly <span style='color:#F1C40F'>(8.9K ⭐️)</span>
-
-- [EARTHLY_GIT_(REF|BRANCH) built in ARG](https://github.com/earthly/earthly/issues/2735)
 
