@@ -4,12 +4,37 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 19:33 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 19:43 UTC.</div>
+
+
+## simpleiot/simpleiot <span style='color:#F1C40F'>(114 ⭐️)</span>
+
+- [Move 1-wire code to client](https://github.com/simpleiot/simpleiot/issues/529)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(951 ⭐️)</span>
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.5K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## metallb/metallb <span style='color:#F1C40F'>(5.7K ⭐️)</span>
+
+- [Improve golangci-lint configuration](https://github.com/metallb/metallb/issues/1860)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
@@ -22,6 +47,11 @@
 - [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
 
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(549 ⭐️)</span>
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
 
 ## JoshRosner101/EduFor <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -63,11 +93,6 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.5K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
 ## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
 
 - [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
@@ -80,11 +105,6 @@
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -273,6 +293,13 @@
 - [feat(vpool): add peg multiplier to vpool](https://github.com/NibiruChain/nibiru/issues/1232)
 
 
+## fluent/fluent-operator <span style='color:#F1C40F'>(393 ⭐️)</span>
+
+- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
+
+- [RecordModifier is missing some upstream configuration](https://github.com/fluent/fluent-operator/issues/597)
+
+
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
@@ -295,36 +322,4 @@
 - [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
 
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
-
-- [terminal theme: can't uppercase latex](https://github.com/terrastruct/d2/issues/1102)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-- [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
-
-- [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
-
-- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
-
-
-## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Include inbound and outbound edges when automatically activating rank in the graph](https://github.com/kiali/kiali/issues/5915)
 
