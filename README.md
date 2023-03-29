@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 23:03 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 23:13 UTC.</div>
 
 
 ## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(339 ⭐️)</span>
@@ -70,6 +70,11 @@
 ## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
 
 - [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
+
+
+## stashapp/stash <span style='color:#F1C40F'>(5.6K ⭐️)</span>
+
+- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
