@@ -4,7 +4,36 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 19:03 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 19:13 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.5K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
+## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
+
+- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -16,19 +45,9 @@
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.5K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -114,6 +133,11 @@
 - [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
 
 - [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+
+## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
 
 
 ## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -222,11 +246,6 @@
 - [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
 
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
@@ -293,83 +312,4 @@
 ## earthly/earthly <span style='color:#F1C40F'>(8.9K ⭐️)</span>
 
 - [EARTHLY_GIT_(REF|BRANCH) built in ARG](https://github.com/earthly/earthly/issues/2735)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(951 ⭐️)</span>
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(163 ⭐️)</span>
-
-- [Explore enforcing conventional commits](https://github.com/celestiaorg/celestia-app/issues/1539)
-
-- [Add a testutil function that will fuzz random valid and invalid blocks](https://github.com/celestiaorg/celestia-app/issues/1516)
-
-- [specs: rename `message` => `blob`](https://github.com/celestiaorg/celestia-app/issues/1532)
-
-- [docs: rename `message` => `blob` in ADRs](https://github.com/celestiaorg/celestia-app/issues/1531)
-
-- [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
-
-- [Consider removing split-test-files](https://github.com/celestiaorg/celestia-app/issues/1439)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
-
-- [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
-
-
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
-
-
-## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
-## vmware-tanzu/pinniped <span style='color:#F1C40F'>(398 ⭐️)</span>
-
-- [Change path to `pinniped` CLI binary in kubeconfig files generated by `pinniped get kubeconfig`](https://github.com/vmware-tanzu/pinniped/issues/1451)
-
-- [`pinniped get kubeconfig` should check if Supervisor supports `username` and `groups` scopes](https://github.com/vmware-tanzu/pinniped/issues/1450)
 
