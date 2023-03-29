@@ -4,7 +4,51 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 09:23 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 09:33 UTC.</div>
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [Enable signed release tracking](https://github.com/kyverno/kyverno/issues/6482)
+
+- [Set tokens to read-only](https://github.com/kyverno/kyverno/issues/6483)
+
+- [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
+
+- [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
+
+
+## techygrrrl/timerrr <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [Support TTS on Linux with mimic3](https://github.com/techygrrrl/timerrr/issues/2)
+
+- [Support TTS on Linux with espeak](https://github.com/techygrrrl/timerrr/issues/1)
+
+- [Support TTS on Windows](https://github.com/techygrrrl/timerrr/issues/3)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
@@ -118,13 +162,6 @@
 - [RecordModifier is missing some upstream configuration](https://github.com/fluent/fluent-operator/issues/597)
 
 
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
 ## kubeshop/testkube <span style='color:#F1C40F'>(725 ⭐️)</span>
 
 - [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
@@ -153,6 +190,15 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
 
 ## NibiruChain/nibiru <span style='color:#F1C40F'>(57 ⭐️)</span>
@@ -212,6 +258,11 @@
 - [Add CPU pinning with Xen hypervisor](https://github.com/lf-edge/eve/issues/3071)
 
 
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
+
+
 ## oras-project/oras <span style='color:#F1C40F'>(885 ⭐️)</span>
 
 - [add command to get the digest of a tagged manifest without parsing output](https://github.com/oras-project/oras/issues/907)
@@ -247,124 +298,4 @@
 - [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
-
-- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
-
-- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
-
-
-## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
-
-- [[Good First Issues]: New Source Connector Request: Facebook Page ](https://github.com/vanus-labs/vanus-connect/issues/262)
-
-- [🎯 New Source Connector Request: Twitter](https://github.com/vanus-labs/vanus-connect/issues/251)
-
-
-## kubesimplify/ksctl <span style='color:#F1C40F'>(79 ⭐️)</span>
-
-- [[BUG][API] (*) ReadCredential panic](https://github.com/kubesimplify/ksctl/issues/77)
-
-- [[BUG][CLI or API] (Provider) Ksctl Cred](https://github.com/kubesimplify/ksctl/issues/79)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [Enable signed release tracking](https://github.com/kyverno/kyverno/issues/6482)
-
-- [Set tokens to read-only](https://github.com/kyverno/kyverno/issues/6483)
-
-- [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
-
-- [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
-
-
-## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [bug: `syncedResources` state should be Pending when APIResourceImport is missing](https://github.com/kcp-dev/kcp/issues/2928)
-
-- [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
-
-
-## harvester/harvester <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [[Doc] Provide Information On Interactive ISO Install grub.cfg Location](https://github.com/harvester/harvester/issues/3590)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(913 ⭐️)</span>
-
-- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
-
-- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
-
-- [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
-
-
-## techygrrrl/timerrr <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [Support TTS on Linux with mimic3](https://github.com/techygrrrl/timerrr/issues/2)
-
-- [Support TTS on Linux with espeak](https://github.com/techygrrrl/timerrr/issues/1)
-
-- [Support TTS on Windows](https://github.com/techygrrrl/timerrr/issues/3)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
-## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
-
-- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
-
-- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
-
-- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
-
-
-## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
-
-- [BUG: sealos run --single not untaint master node](https://github.com/labring/sealos/issues/2838)
-
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
-
-- [Feature: run clusterfile repeatedly](https://github.com/labring/sealos/issues/2832)
-
-- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
