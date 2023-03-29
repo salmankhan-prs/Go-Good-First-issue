@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 09:03 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 09:13 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
+
+- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## kubevela/velaux <span style='color:#F1C40F'>(99 ⭐️)</span>
@@ -19,16 +38,18 @@
 - [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
-
-
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
+
+
+## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [Pytorch Serve supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2178)
+
+- [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
+
+- [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
@@ -125,11 +146,6 @@
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
 ## NibiruChain/nibiru <span style='color:#F1C40F'>(57 ⭐️)</span>
 
 - [feat(oracle): create an exponential moving average of index prices](https://github.com/NibiruChain/nibiru/issues/1235)
@@ -152,6 +168,11 @@
 - [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
 
 - [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
 
 
 ## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
@@ -289,4 +310,64 @@
 - [bug: `syncedResources` state should be Pending when APIResourceImport is missing](https://github.com/kcp-dev/kcp/issues/2928)
 
 - [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
+
+
+## harvester/harvester <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [[Doc] Provide Information On Interactive ISO Install grub.cfg Location](https://github.com/harvester/harvester/issues/3590)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(913 ⭐️)</span>
+
+- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+- [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
+
+
+## techygrrrl/timerrr <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [Support TTS on Linux with mimic3](https://github.com/techygrrrl/timerrr/issues/2)
+
+- [Support TTS on Linux with espeak](https://github.com/techygrrrl/timerrr/issues/1)
+
+- [Support TTS on Windows](https://github.com/techygrrrl/timerrr/issues/3)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
+
+
+## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
+
+- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
+
+- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
+
+- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
+
+- [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [BUG: sealos run --single not untaint master node](https://github.com/labring/sealos/issues/2838)
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+
+- [Feature: run clusterfile repeatedly](https://github.com/labring/sealos/issues/2832)
+
+- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
+
+
+## apache/apisix-ingress-controller <span style='color:#F1C40F'>(768 ⭐️)</span>
+
+- [docs: ApisixUpstream reference need to be updated](https://github.com/apache/apisix-ingress-controller/issues/1740)
 
