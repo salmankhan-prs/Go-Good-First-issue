@@ -4,7 +4,64 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 21:03 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 21:13 UTC.</div>
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
+
+- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
+## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(339 ⭐️)</span>
+
+- [Add EKS security rule: EKS clusters should have encryption of K8s secrets enabled.](https://github.com/Zeus-Labs/ZeusCloud/issues/128)
+
+- [Add EKS security rule: EKS control plane logging should be enabled for all log types](https://github.com/Zeus-Labs/ZeusCloud/issues/125)
+
+- [Add EKS Security Rule: Public access to EKS cluster endpoint should be disabled](https://github.com/Zeus-Labs/ZeusCloud/issues/124)
+
+- [Add ECS Security Rule: ECS container environment variables should not have secrets](https://github.com/Zeus-Labs/ZeusCloud/issues/123)
+
+- [Add ECS Security Rule: ECS Container Insights should be enabled](https://github.com/Zeus-Labs/ZeusCloud/issues/119)
+
+- [Set up a way to run ZeusCloud with hardcoded Neo4J data](https://github.com/Zeus-Labs/ZeusCloud/issues/120)
+
+
+## JoshRosner101/EduFor <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [DELETE for threads/replies](https://github.com/JoshRosner101/EduFor/issues/19)
+
+- [Decorate threads page](https://github.com/JoshRosner101/EduFor/issues/11)
+
+- [Decorate main page](https://github.com/JoshRosner101/EduFor/issues/10)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
+
+
+## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(143 ⭐️)</span>
+
+- [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
 
 
 ## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -115,23 +172,9 @@
 - [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
 
 
-## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-
 ## superfly/flyctl <span style='color:#F1C40F'>(952 ⭐️)</span>
 
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
-## JoshRosner101/EduFor <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [DELETE for threads/replies](https://github.com/JoshRosner101/EduFor/issues/19)
-
-- [Decorate threads page](https://github.com/JoshRosner101/EduFor/issues/11)
-
-- [Decorate main page](https://github.com/JoshRosner101/EduFor/issues/10)
 
 
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(906 ⭐️)</span>
@@ -158,11 +201,6 @@
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
-
-
 ## simpleiot/simpleiot <span style='color:#F1C40F'>(114 ⭐️)</span>
 
 - [Move 1-wire code to client](https://github.com/simpleiot/simpleiot/issues/529)
@@ -171,11 +209,6 @@
 ## metallb/metallb <span style='color:#F1C40F'>(5.7K ⭐️)</span>
 
 - [Improve golangci-lint configuration](https://github.com/metallb/metallb/issues/1860)
-
-
-## earthly/earthly <span style='color:#F1C40F'>(8.9K ⭐️)</span>
-
-- [EARTHLY_GIT_(REF|BRANCH) built in ARG](https://github.com/earthly/earthly/issues/2735)
 
 
 ## earthly/earthly <span style='color:#F1C40F'>(8.9K ⭐️)</span>
@@ -365,18 +398,4 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
-
-- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
-
-- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
