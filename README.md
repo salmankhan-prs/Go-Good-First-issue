@@ -4,12 +4,42 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 13:53 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 14:03 UTC.</div>
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
+
+- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
+
+
+## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
+
+- [Show warning if there's a lot of releases](https://github.com/freiheit-com/kuberpult/issues/533)
+
+- [UI/UX: Precision of timespan in commit detail modal.](https://github.com/freiheit-com/kuberpult/issues/537)
+
+- [EnvironmentLabels sorted wrong](https://github.com/freiheit-com/kuberpult/issues/539)
+
+- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(468 ⭐️)</span>
@@ -40,15 +70,6 @@
 - [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -111,9 +132,11 @@
 - [The page crashes after click an inaccessible cluster](https://github.com/kubevela/velaux/issues/685)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(261 ⭐️)</span>
 
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
+
+- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -274,4 +297,86 @@
 - [Contrib: doc source structure](https://github.com/keptn/lifecycle-toolkit/issues/998)
 
 - [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Include inbound and outbound edges when automatically activating rank in the graph](https://github.com/kiali/kiali/issues/5915)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
+
+- [dendrite_up metric](https://github.com/matrix-org/dendrite/issues/2993)
+
+
+## mattermost/mattermost-plugin-apps <span style='color:#F1C40F'>(28 ⭐️)</span>
+
+- [If the App stops running I see a whole HTML response as the error](https://github.com/mattermost/mattermost-plugin-apps/issues/462)
+
+- [Test-App Subscribe commands error when trying to add a bot to the channel](https://github.com/mattermost/mattermost-plugin-apps/issues/461)
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
+
+
+## kubernetes/perf-tests <span style='color:#F1C40F'>(767 ⭐️)</span>
+
+- [Migrate ClusterLoader2 from text/template to github.com/google/safetext/yamltemplate](https://github.com/kubernetes/perf-tests/issues/2245)
+
+
+## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
+
+
+## cosmos/ibc-go <span style='color:#F1C40F'>(350 ⭐️)</span>
+
+- [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
+
+
+## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
+
+- [Convert Array tests to table-driven style](https://github.com/gavv/httpexpect/issues/351)
+
+- [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
+
+- [Refactor Environment tests](https://github.com/gavv/httpexpect/issues/358)
+
+- [Refactor Websocket tests](https://github.com/gavv/httpexpect/issues/357)
+
+- [Convert WebsocketMessage tests to table-driven style](https://github.com/gavv/httpexpect/issues/356)
+
+- [Convert Duration tests to table-driven style](https://github.com/gavv/httpexpect/issues/355)
+
+- [Convert DateTime tests to table-driven style](https://github.com/gavv/httpexpect/issues/354)
+
+- [Convert Value tests to table-driven style](https://github.com/gavv/httpexpect/issues/353)
+
+- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/352)
+
+- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
+
+- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
 
