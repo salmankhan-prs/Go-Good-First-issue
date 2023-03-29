@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 01:03 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 01:13 UTC.</div>
 
 
 ## envoyproxy/gateway <span style='color:#F1C40F'>(912 ⭐️)</span>
