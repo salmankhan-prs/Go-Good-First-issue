@@ -4,10 +4,27 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 21:43 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 21:53 UTC.</div>
+
+
+## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
+
+- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
+
+- [center align appendix lines](https://github.com/terrastruct/d2/issues/1104)
 
 - [terminal theme: can't uppercase latex](https://github.com/terrastruct/d2/issues/1102)
 
@@ -72,8 +89,6 @@
 
 ## JoshRosner101/EduFor <span style='color:#F1C40F'>(0 ⭐️)</span>
 
-- [DELETE for threads/replies](https://github.com/JoshRosner101/EduFor/issues/19)
-
 - [Decorate threads page](https://github.com/JoshRosner101/EduFor/issues/11)
 
 - [Decorate main page](https://github.com/JoshRosner101/EduFor/issues/10)
@@ -122,14 +137,21 @@
 - [Set up a way to run ZeusCloud with hardcoded Neo4J data](https://github.com/Zeus-Labs/ZeusCloud/issues/120)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
-
-
 ## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(143 ⭐️)</span>
 
 - [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.5K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -171,11 +193,6 @@
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.5K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -288,44 +305,9 @@
 - [Evaluate `status.code` as virtual tag](https://github.com/grafana/tempo/issues/2155)
 
 
-## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
-
-- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
-
-
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Incorrect Error Message: Invalid Deposit Event -> Invalid System Config Update Event](https://github.com/ethereum-optimism/optimism/issues/5272)
 
 - [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-
-## berachain/polaris <span style='color:#F1C40F'>(61 ⭐️)</span>
-
-- [refactor(scripts): Refactor the init.sh script into a genesis builder golang cli tool.](https://github.com/berachain/polaris/issues/474)
-
-- [Marshal/Unmarshal of core Geth types is slow](https://github.com/berachain/polaris/issues/446)
-
-- [chore(geth): Upgrade to v1.11.5](https://github.com/berachain/polaris/issues/507)
-
-- [imp(testing): improve ginkgo testing structure ](https://github.com/berachain/polaris/issues/506)
-
-- [Chore: give test network a fixed validator.](https://github.com/berachain/polaris/issues/481)
-
-- [feat(rpc): Enable Graphql](https://github.com/berachain/polaris/issues/359)
-
-- [task(testing): Setup Interchain Test](https://github.com/berachain/polaris/issues/332)
-
-- [chore: Check for precompile module account on startup](https://github.com/berachain/polaris/issues/423)
-
-
-## guacsec/guac <span style='color:#F1C40F'>(760 ⭐️)</span>
-
-- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
-
-- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
-
-- [Add ability to parse identifier strings for PURLs](https://github.com/guacsec/guac/issues/590)
-
-- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
 
