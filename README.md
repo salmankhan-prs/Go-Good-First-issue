@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 23:23 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 23:33 UTC.</div>
 
 
 ## googleforgames/agones <span style='color:#F1C40F'>(5.1K ⭐️)</span>
@@ -177,6 +177,15 @@
 - [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
+
+- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
+
+- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
+
+
 ## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
 
 - [[test]: add unit tests for octokit module](https://github.com/keploy/keploy/issues/354)
@@ -335,9 +344,4 @@
 - [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
 
 - [Consider removing split-test-files](https://github.com/celestiaorg/celestia-app/issues/1439)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(331 ⭐️)</span>
-
-- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
 
