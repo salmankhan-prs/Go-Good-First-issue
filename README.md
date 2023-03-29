@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 16:13 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 16:23 UTC.</div>
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -18,6 +18,16 @@
 - [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
+
+
+## earthly/earthly <span style='color:#F1C40F'>(8.9K ⭐️)</span>
+
+- [EARTHLY_GIT_(REF|BRANCH) built in ARG](https://github.com/earthly/earthly/issues/2735)
+
+
+## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
 
 
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -83,6 +93,13 @@
 - [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
 
 
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
 
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
@@ -119,11 +136,6 @@
 - [Add test for log message struct](https://github.com/roc-streaming/roc-go/issues/52)
 
 
-## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
-
-
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
@@ -157,7 +169,7 @@
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(270 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(271 ⭐️)</span>
 
 - [feature: Create analyzer for ingress resources](https://github.com/k8sgpt-ai/k8sgpt/issues/136)
 
@@ -194,8 +206,6 @@
 ## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
-
-- [user details: clarify permissions around contact methods](https://github.com/target/goalert/issues/2823)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
@@ -312,11 +322,4 @@
 - [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
