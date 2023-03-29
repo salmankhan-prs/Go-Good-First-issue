@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 23:33 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 23:43 UTC.</div>
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
 ## googleforgames/agones <span style='color:#F1C40F'>(5.1K ⭐️)</span>
@@ -26,11 +31,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
 ## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(339 ⭐️)</span>
@@ -96,6 +96,11 @@
 ## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
 
 - [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## stashapp/stash <span style='color:#F1C40F'>(5.6K ⭐️)</span>
@@ -280,11 +285,6 @@
 ## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
