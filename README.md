@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 22:53 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 23:03 UTC.</div>
 
 
 ## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(339 ⭐️)</span>
@@ -302,11 +302,4 @@
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(906 ⭐️)</span>
 
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
