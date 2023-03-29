@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 09:13 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 09:23 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
@@ -12,6 +12,33 @@
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## mercy34mercy/bustimer_kic <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [infra層 errハンドリングテスト](https://github.com/mercy34mercy/bustimer_kic/issues/153)
+
+- [適切なvalidateを入れる](https://github.com/mercy34mercy/bustimer_kic/issues/146)
+
+- [buildにキャッシュ導入](https://github.com/mercy34mercy/bustimer_kic/issues/150)
+
+
+## Edgenesis/shifu <span style='color:#F1C40F'>(812 ⭐️)</span>
+
+- [The traffic light FSM implementation for deviceShifu](https://github.com/Edgenesis/shifu/issues/547)
+
+- [OPC UA node ID Browing feature on Shifu .Currently we are providing  NodeID' s Manually by going to the OPC UA server loc.  ](https://github.com/Edgenesis/shifu/issues/545)
+
+- [The simplest FSM implementation of deviceShifu](https://github.com/Edgenesis/shifu/issues/542)
+
+- [convert DeviceShifuBase data structure from single EdgeDevice to a list type of EdgeDevice](https://github.com/Edgenesis/shifu/issues/538)
+
+- [In swarm mode, deviceShifuBase supports multiple EdgeDevices](https://github.com/Edgenesis/shifu/issues/539)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -79,19 +106,6 @@
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
 
 
-## Edgenesis/shifu <span style='color:#F1C40F'>(812 ⭐️)</span>
-
-- [The traffic light FSM implementation for deviceShifu](https://github.com/Edgenesis/shifu/issues/547)
-
-- [OPC UA node ID Browing feature on Shifu .Currently we are providing  NodeID' s Manually by going to the OPC UA server loc.  ](https://github.com/Edgenesis/shifu/issues/545)
-
-- [The simplest FSM implementation of deviceShifu](https://github.com/Edgenesis/shifu/issues/542)
-
-- [convert DeviceShifuBase data structure from single EdgeDevice to a list type of EdgeDevice](https://github.com/Edgenesis/shifu/issues/538)
-
-- [In swarm mode, deviceShifuBase supports multiple EdgeDevices](https://github.com/Edgenesis/shifu/issues/539)
-
-
 ## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
@@ -139,11 +153,6 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## NibiruChain/nibiru <span style='color:#F1C40F'>(57 ⭐️)</span>
@@ -233,15 +242,6 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## mercy34mercy/bustimer_kic <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [infra層 errハンドリングテスト](https://github.com/mercy34mercy/bustimer_kic/issues/153)
-
-- [適切なvalidateを入れる](https://github.com/mercy34mercy/bustimer_kic/issues/146)
-
-- [buildにキャッシュ導入](https://github.com/mercy34mercy/bustimer_kic/issues/150)
-
-
 ## kairos-io/kairos <span style='color:#F1C40F'>(420 ⭐️)</span>
 
 - [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
@@ -250,6 +250,8 @@
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
 
 - [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
 
@@ -365,9 +367,4 @@
 - [Feature: run clusterfile repeatedly](https://github.com/labring/sealos/issues/2832)
 
 - [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
-
-
-## apache/apisix-ingress-controller <span style='color:#F1C40F'>(768 ⭐️)</span>
-
-- [docs: ApisixUpstream reference need to be updated](https://github.com/apache/apisix-ingress-controller/issues/1740)
 
