@@ -4,14 +4,16 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 04:03 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 04:13 UTC.</div>
 
 
-## kubefirst/kubefirst <span style='color:#F1C40F'>(465 ⭐️)</span>
+## dapr/components-contrib <span style='color:#F1C40F'>(437 ⭐️)</span>
 
-- [Detect if Docker is running before running `local` commands](https://github.com/kubefirst/kubefirst/issues/1312)
+- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
 
-- [Gracefully fail when log cannot be written](https://github.com/kubefirst/kubefirst/issues/1311)
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+- [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
 
 
 ## techygrrrl/timerrr <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -21,6 +23,20 @@
 - [Support TTS on Windows](https://github.com/techygrrrl/timerrr/issues/3)
 
 - [Support TTS on Linux with mimic3](https://github.com/techygrrrl/timerrr/issues/2)
+
+
+## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
+
+- [[Good First Issues]: New Source Connector Request: Facebook Page ](https://github.com/vanus-labs/vanus-connect/issues/262)
+
+- [🎯 New Source Connector Request: Twitter](https://github.com/vanus-labs/vanus-connect/issues/251)
+
+
+## kubefirst/kubefirst <span style='color:#F1C40F'>(465 ⭐️)</span>
+
+- [Detect if Docker is running before running `local` commands](https://github.com/kubefirst/kubefirst/issues/1312)
+
+- [Gracefully fail when log cannot be written](https://github.com/kubefirst/kubefirst/issues/1311)
 
 
 ## mercy34mercy/bustimer_kic <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -345,22 +361,4 @@
 - [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
 
 - [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
-
-
-## golang-app/ecommerce <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [When I click on the cart icon, I should see summary of the cart](https://github.com/golang-app/ecommerce/issues/33)
-
-- [The cart icon on the top menu doesn't update when a new item is added to the cart](https://github.com/golang-app/ecommerce/issues/32)
-
-- [When a product changes its name/price in the product catalog, those changes aren't visible in the cart](https://github.com/golang-app/ecommerce/issues/24)
-
-- [Add grafana dashboard with go runtime metrics](https://github.com/golang-app/ecommerce/issues/23)
-
-- [Add codespaces ](https://github.com/golang-app/ecommerce/issues/20)
-
-
-## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
 
