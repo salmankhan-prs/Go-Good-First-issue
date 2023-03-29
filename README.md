@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 04:53 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 05:03 UTC.</div>
+
+
+## stashapp/stash <span style='color:#F1C40F'>(5.6K ⭐️)</span>
+
+- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
 ## techygrrrl/timerrr <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -109,6 +114,13 @@
 - [buildにキャッシュ導入](https://github.com/mercy34mercy/bustimer_kic/issues/150)
 
 
+## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
 
 - [The progress bar on the front end of the installation plugin is still spinning](https://github.com/kubevela/kubevela/issues/5753)
@@ -164,13 +176,6 @@
 - [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
 
 - [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(15.8K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(904 ⭐️)</span>
@@ -263,11 +268,6 @@
 - [Add ECS Security Rule: ECS Container Insights should be enabled](https://github.com/Zeus-Labs/ZeusCloud/issues/119)
 
 - [Set up a way to run ZeusCloud with hardcoded Neo4J data](https://github.com/Zeus-Labs/ZeusCloud/issues/120)
-
-
-## stashapp/stash <span style='color:#F1C40F'>(5.6K ⭐️)</span>
-
-- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
