@@ -4,17 +4,31 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 15:33 UTC.</div>
-
-
-## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
+<div align='center'>Last updated at March 29, 2023 15:43 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
+
+
+## roc-streaming/roc-go <span style='color:#F1C40F'>(13 ⭐️)</span>
+
+- [Add test for log message struct](https://github.com/roc-streaming/roc-go/issues/52)
+
+
+## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
@@ -79,7 +93,7 @@
 - [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(264 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(266 ⭐️)</span>
 
 - [feature: Create analyzer for ingress resources](https://github.com/k8sgpt-ai/k8sgpt/issues/136)
 
@@ -144,6 +158,13 @@
 - [Fragment is lost after redirect if --skip-provider-button is set to true](https://github.com/oauth2-proxy/oauth2-proxy/issues/2068)
 
 - [Go Get deprecation](https://github.com/oauth2-proxy/oauth2-proxy/issues/2033)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
+
+- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(162 ⭐️)</span>
@@ -222,11 +243,11 @@
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(0 ⭐️)</span>
 
-- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
+- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
 
 - [Integrated DynDNS](https://github.com/SiaFoundation/hostd/issues/17)
 
-- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
+- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
 
 - [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
 
