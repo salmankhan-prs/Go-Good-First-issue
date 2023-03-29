@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 22:13 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 22:23 UTC.</div>
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
 ## earthly/earthly <span style='color:#F1C40F'>(8.9K ⭐️)</span>
@@ -57,11 +62,6 @@
 ## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
 
 - [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.3K ⭐️)</span>
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
@@ -129,6 +129,23 @@
 - [Decorate threads page](https://github.com/JoshRosner101/EduFor/issues/11)
 
 - [Decorate main page](https://github.com/JoshRosner101/EduFor/issues/10)
+
+
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [UI - ToolBar - upgrade button](https://github.com/komodorio/helm-dashboard/issues/264)
+
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [UI - General - Install Modal](https://github.com/komodorio/helm-dashboard/issues/259)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
+
+- [UI - General - Uninstall modal](https://github.com/komodorio/helm-dashboard/issues/257)
+
+- [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
 
 
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
@@ -296,18 +313,4 @@
 ## simpleiot/simpleiot <span style='color:#F1C40F'>(114 ⭐️)</span>
 
 - [Move 1-wire code to client](https://github.com/simpleiot/simpleiot/issues/529)
-
-
-## metallb/metallb <span style='color:#F1C40F'>(5.7K ⭐️)</span>
-
-- [Improve golangci-lint configuration](https://github.com/metallb/metallb/issues/1860)
-
-
-## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
-
-- [tempodb integer divide by zero error](https://github.com/grafana/tempo/issues/2167)
-
-- [Evaluate `status.code` as virtual tag](https://github.com/grafana/tempo/issues/2155)
 
