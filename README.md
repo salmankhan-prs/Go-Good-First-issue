@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 01:13 UTC.</div>
+<div align='center'>Last updated at March 29, 2023 01:23 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## stashapp/stash <span style='color:#F1C40F'>(5.6K ⭐️)</span>
+
+- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
 
 
 ## envoyproxy/gateway <span style='color:#F1C40F'>(912 ⭐️)</span>
@@ -14,11 +29,6 @@
 - [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
 
 - [Ensure static xds-cluster has same field values as dynamic cluster](https://github.com/envoyproxy/gateway/issues/1078)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -56,11 +66,6 @@
 - [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.5K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
 ## kairos-io/kairos <span style='color:#F1C40F'>(419 ⭐️)</span>
 
 - [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
@@ -96,11 +101,6 @@
 - [changefeedccl: Do not require `kv.rangefeed.enabled` for `initial_scan=only`](https://github.com/cockroachdb/cockroach/issues/99470)
 
 
-## stashapp/stash <span style='color:#F1C40F'>(5.6K ⭐️)</span>
-
-- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
-
-
 ## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
@@ -123,6 +123,24 @@
 - [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
 
 - [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
+
+
+## golang-app/ecommerce <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [When I click on the cart icon, I should see summary of the cart](https://github.com/golang-app/ecommerce/issues/33)
+
+- [The cart icon on the top menu doesn't update when a new item is added to the cart](https://github.com/golang-app/ecommerce/issues/32)
+
+- [When a product changes its name/price in the product catalog, those changes aren't visible in the cart](https://github.com/golang-app/ecommerce/issues/24)
+
+- [Add grafana dashboard with go runtime metrics](https://github.com/golang-app/ecommerce/issues/23)
+
+- [Add codespaces ](https://github.com/golang-app/ecommerce/issues/20)
+
+
+## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
 
 
 ## golang-app/ecommerce <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -309,22 +327,4 @@
 - [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
 
 - [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
-
-- [Delta - Scroll for Horizontal and Vertical Pan](https://github.com/synnaxlabs/synnax/issues/247)
-
-- [Pluto - Fix Artifacting on Multiple Select Input](https://github.com/synnaxlabs/synnax/issues/245)
-
-- [Pluto - Resize - Allow Drag Out from Collapsed State](https://github.com/synnaxlabs/synnax/issues/249)
-
-- [Client - TS - GC and Move Utilities to X](https://github.com/synnaxlabs/synnax/issues/254)
-
-- [X - Large Key-Value Store](https://github.com/synnaxlabs/synnax/issues/240)
 
