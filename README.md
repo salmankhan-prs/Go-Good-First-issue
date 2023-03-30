@@ -4,12 +4,28 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 02:33 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 02:43 UTC.</div>
+
+
+## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+
+- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
 ## oracle/cluster-api-provider-oci <span style='color:#F1C40F'>(23 ⭐️)</span>
 
 - [Update kubernetes registry](https://github.com/oracle/cluster-api-provider-oci/issues/219)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -141,15 +157,6 @@
 - [Add CPU pinning with Xen hypervisor](https://github.com/lf-edge/eve/issues/3071)
 
 
-## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
-
-- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-
 ## JoshRosner101/EduFor <span style='color:#F1C40F'>(0 ⭐️)</span>
 
 - [Decorate threads page](https://github.com/JoshRosner101/EduFor/issues/11)
@@ -160,13 +167,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
 ## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
