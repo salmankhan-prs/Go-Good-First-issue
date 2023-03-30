@@ -4,12 +4,28 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 03:23 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 03:33 UTC.</div>
 
 
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
 
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+
+- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
@@ -23,6 +39,11 @@
 - [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
 
 - [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -53,11 +74,6 @@
 - [trigger dependabot for nested e2e go module](https://github.com/oras-project/oras/issues/876)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
 
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
@@ -66,22 +82,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
-
-- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
 ## oracle/cluster-api-provider-oci <span style='color:#F1C40F'>(23 ⭐️)</span>
@@ -328,9 +328,4 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## cortexproject/cortex <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [setting -distributor.ingestion-tenant-shard-size to 0 throws error](https://github.com/cortexproject/cortex/issues/5189)
 
