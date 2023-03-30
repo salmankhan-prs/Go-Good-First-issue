@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 01:13 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 01:23 UTC.</div>
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(917 ⭐️)</span>
+
+- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(760 ⭐️)</span>
+
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
+
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Add ability to parse identifier strings for PURLs](https://github.com/guacsec/guac/issues/590)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
 
 
 ## lf-edge/eve <span style='color:#F1C40F'>(397 ⭐️)</span>
@@ -40,11 +63,6 @@
 - [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
 
 - [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
@@ -128,13 +146,6 @@
 - [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
 
 
-## envoyproxy/gateway <span style='color:#F1C40F'>(916 ⭐️)</span>
-
-- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
-
-- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
-
-
 ## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(339 ⭐️)</span>
 
 - [Add EKS security rule: EKS clusters should have encryption of K8s secrets enabled.](https://github.com/Zeus-Labs/ZeusCloud/issues/128)
@@ -210,11 +221,6 @@
 ## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [Make all the boolean values case insensitive in aws vpc cni environmental variables. ](https://github.com/aws/amazon-vpc-cni-k8s/issues/2311)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
@@ -334,21 +340,4 @@
 - [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
 
 - [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
-
-
-## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(143 ⭐️)</span>
-
-- [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
 
