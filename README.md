@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 19:13 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 19:23 UTC.</div>
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(953 ⭐️)</span>
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## minekube/gate <span style='color:#F1C40F'>(291 ⭐️)</span>
+
+- [Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
+
+- [Kubernetes Helm chart](https://github.com/minekube/gate/issues/188)
 
 
 ## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
@@ -14,7 +31,7 @@
 - [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(639 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(642 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -60,11 +77,6 @@
 - [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -402,13 +414,6 @@
 - [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
 
 
-## minekube/gate <span style='color:#F1C40F'>(291 ⭐️)</span>
-
-- [Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
-
-- [Kubernetes Helm chart](https://github.com/minekube/gate/issues/188)
-
-
 ## fluxcd/notification-controller <span style='color:#F1C40F'>(120 ⭐️)</span>
 
 - [Increase ReceiverServer test coverage](https://github.com/fluxcd/notification-controller/issues/496)
@@ -416,25 +421,4 @@
 - [Markdown rendering for Matrix notifications](https://github.com/fluxcd/notification-controller/issues/493)
 
 - [Namespace fallback for annotation logs](https://github.com/fluxcd/notification-controller/issues/492)
-
-
-## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
