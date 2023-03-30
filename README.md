@@ -4,12 +4,42 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 20:13 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 20:23 UTC.</div>
+
+
+## Shabablinchikow/nafanya-bot <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [Агрессивный режим](https://github.com/Shabablinchikow/nafanya-bot/issues/5)
+
+- [Настройка частоты рандомных ответов](https://github.com/Shabablinchikow/nafanya-bot/issues/4)
+
+- [Реакция при реплае на сообщение бота](https://github.com/Shabablinchikow/nafanya-bot/issues/3)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
 
 - [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(648 ⭐️)</span>
+
+- [feature: default filters vs opt-in](https://github.com/k8sgpt-ai/k8sgpt/issues/158)
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -122,15 +152,6 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## Shabablinchikow/nafanya-bot <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [Агрессивный режим](https://github.com/Shabablinchikow/nafanya-bot/issues/5)
-
-- [Настройка частоты рандомных ответов](https://github.com/Shabablinchikow/nafanya-bot/issues/4)
-
-- [Реакция при реплае на сообщение бота](https://github.com/Shabablinchikow/nafanya-bot/issues/3)
-
-
 ## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
 
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
@@ -208,22 +229,6 @@
 - [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
 
 - [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(646 ⭐️)</span>
-
-- [feature: default filters vs opt-in](https://github.com/k8sgpt-ai/k8sgpt/issues/158)
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
