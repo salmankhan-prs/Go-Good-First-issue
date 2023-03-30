@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 10:33 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 10:43 UTC.</div>
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+
+
+## kubeshop/testkube <span style='color:#F1C40F'>(726 ⭐️)</span>
+
+- [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
+
+
+## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
+
+- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
+
+- [`--version` always returns `main`](https://github.com/massalabs/thyra/issues/507)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -24,11 +41,6 @@
 - [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
 
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
-## kubeshop/testkube <span style='color:#F1C40F'>(726 ⭐️)</span>
-
-- [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -53,13 +65,6 @@
 - [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
 
 
-## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
-
-- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
-
-- [`--version` always returns `main`](https://github.com/massalabs/thyra/issues/507)
-
-
 ## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
 
 - [bug: `syncedResources` state should be Pending when APIResourceImport is missing](https://github.com/kcp-dev/kcp/issues/2928)
@@ -81,7 +86,7 @@
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(523 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(525 ⭐️)</span>
 
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
@@ -120,11 +125,6 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
 ## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.2K ⭐️)</span>
@@ -312,15 +312,4 @@
 - [Identify wrong BOM format](https://github.com/jetstack/tally/issues/58)
 
 - [Detect BOM format](https://github.com/jetstack/tally/issues/57)
-
-
-## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
-
-- [Show warning if there's a lot of releases](https://github.com/freiheit-com/kuberpult/issues/533)
-
-- [UI/UX: Precision of timespan in commit detail modal.](https://github.com/freiheit-com/kuberpult/issues/537)
-
-- [EnvironmentLabels sorted wrong](https://github.com/freiheit-com/kuberpult/issues/539)
-
-- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
 
