@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 22:03 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 22:13 UTC.</div>
+
+
+## googleforgames/agones <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [Add a helm flag to force Agones system components onto dedicated nodes](https://github.com/googleforgames/agones/issues/3009)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
