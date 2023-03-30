@@ -4,7 +4,39 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 18:03 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 18:13 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+- [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+
+
+## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.2K ⭐️)</span>
+
+- [Add example repo in Java to README](https://github.com/grpc-ecosystem/grpc-gateway/issues/3262)
+
+
+## chainloop-dev/chainloop <span style='color:#F1C40F'>(142 ⭐️)</span>
+
+- [Handle AWS secret manager empty response ](https://github.com/chainloop-dev/chainloop/issues/56)
+
+- [Extract attestation grpc service to another proto file](https://github.com/chainloop-dev/chainloop/issues/36)
+
+- [CLI: improve UX on attestation downloading](https://github.com/chainloop-dev/chainloop/issues/31)
+
+- [Populate releases footer information](https://github.com/chainloop-dev/chainloop/issues/30)
+
+- [Document authentication config in control plane](https://github.com/chainloop-dev/chainloop/issues/23)
+
+- [Improve CLI feedback on configuration change](https://github.com/chainloop-dev/chainloop/issues/14)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -83,18 +115,13 @@
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(628 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(629 ⭐️)</span>
 
 - [feature: default filters vs opt-in](https://github.com/k8sgpt-ai/k8sgpt/issues/158)
 
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
 ## polarsignals/frostdb <span style='color:#F1C40F'>(976 ⭐️)</span>
@@ -149,11 +176,6 @@
 - [Add a helm flag to force Agones system components onto dedicated nodes](https://github.com/googleforgames/agones/issues/3009)
 
 
-## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.2K ⭐️)</span>
-
-- [Add example repo in Java to README](https://github.com/grpc-ecosystem/grpc-gateway/issues/3262)
-
-
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(2 ⭐️)</span>
 
 - [`turso db inspect` should show more than just space](https://github.com/chiselstrike/turso-cli/issues/303)
@@ -166,11 +188,6 @@
 ## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
-
-
-## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
-
-- [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
 
 
 ## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
@@ -280,48 +297,4 @@
 - [Incorrect Error Message: Invalid Deposit Event -> Invalid System Config Update Event](https://github.com/ethereum-optimism/optimism/issues/5272)
 
 - [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
-
-
-## minekube/gate <span style='color:#F1C40F'>(291 ⭐️)</span>
-
-- [Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
-
-- [Kubernetes Helm chart](https://github.com/minekube/gate/issues/188)
-
-
-## fluxcd/notification-controller <span style='color:#F1C40F'>(120 ⭐️)</span>
-
-- [Increase ReceiverServer test coverage](https://github.com/fluxcd/notification-controller/issues/496)
-
-- [Markdown rendering for Matrix notifications](https://github.com/fluxcd/notification-controller/issues/493)
-
-- [Namespace fallback for annotation logs](https://github.com/fluxcd/notification-controller/issues/492)
-
-
-## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
-
-- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
-
-- [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
