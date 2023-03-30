@@ -4,7 +4,33 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 11:33 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 11:43 UTC.</div>
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(537 ⭐️)</span>
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+- [bug: Cached response when switching kubectl context](https://github.com/k8sgpt-ai/k8sgpt/issues/150)
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(426 ⭐️)</span>
+
+- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
+
+- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
 
 ## replicatedhq/troubleshoot <span style='color:#F1C40F'>(423 ⭐️)</span>
@@ -16,16 +42,38 @@
 - [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
 
 
-## kairos-io/kairos <span style='color:#F1C40F'>(426 ⭐️)</span>
-
-- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
-
-- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
-
-
 ## kubeshop/testkube <span style='color:#F1C40F'>(726 ⭐️)</span>
 
 - [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
+
+- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
+
+
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [UI - ToolBar - upgrade button](https://github.com/komodorio/helm-dashboard/issues/264)
+
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [UI - General - Install Modal](https://github.com/komodorio/helm-dashboard/issues/259)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
+
+- [UI - General - Uninstall modal](https://github.com/komodorio/helm-dashboard/issues/257)
+
+- [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
 
 
 ## RamenDR/ramen <span style='color:#F1C40F'>(51 ⭐️)</span>
@@ -77,15 +125,6 @@
 - [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(535 ⭐️)</span>
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-- [bug: Cached response when switching kubectl context](https://github.com/k8sgpt-ai/k8sgpt/issues/150)
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-
 ## mattermost/mattermost-plugin-github <span style='color:#F1C40F'>(127 ⭐️)</span>
 
 - [Include explanation of `/setup` command in README](https://github.com/mattermost/mattermost-plugin-github/issues/655)
@@ -99,6 +138,11 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(550 ⭐️)</span>
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
@@ -147,11 +191,6 @@
 - [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
 
 
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
@@ -182,6 +221,13 @@
 - [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
 
 - [`--version` always returns `main`](https://github.com/massalabs/thyra/issues/507)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
@@ -271,26 +317,4 @@
 - [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## kyma-project/cli <span style='color:#F1C40F'>(64 ⭐️)</span>
-
-- [The verbose mode should not print out unrelavent infromation](https://github.com/kyma-project/cli/issues/1607)
-
-
-## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
-
-
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(461 ⭐️)</span>
-
-- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
-
-- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
-
-
-## lf-edge/eve <span style='color:#F1C40F'>(397 ⭐️)</span>
-
-- [Add CPU pinning with Xen hypervisor](https://github.com/lf-edge/eve/issues/3071)
 
