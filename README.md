@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 17:33 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 17:43 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -20,7 +25,21 @@
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(625 ⭐️)</span>
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(263 ⭐️)</span>
+
+- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
+
+- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(626 ⭐️)</span>
 
 - [feature: default filters vs opt-in](https://github.com/k8sgpt-ai/k8sgpt/issues/158)
 
@@ -44,16 +63,18 @@
 - [Fix Release() arrow callbacks](https://github.com/polarsignals/frostdb/issues/403)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
 ## kairos-io/kairos <span style='color:#F1C40F'>(427 ⭐️)</span>
 
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
 
 - [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(143 ⭐️)</span>
@@ -99,6 +120,11 @@
 ## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.2K ⭐️)</span>
 
 - [Add example repo in Java to README](https://github.com/grpc-ecosystem/grpc-gateway/issues/3262)
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
 
 
 ## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
@@ -272,13 +298,6 @@
 - [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
 
 
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(263 ⭐️)</span>
-
-- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
-
-- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
@@ -298,48 +317,4 @@
 - [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(953 ⭐️)</span>
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [Enable signed release tracking](https://github.com/kyverno/kyverno/issues/6482)
-
-- [Set tokens to read-only](https://github.com/kyverno/kyverno/issues/6483)
-
-- [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
-
-- [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
-
-
-## chainloop-dev/chainloop <span style='color:#F1C40F'>(142 ⭐️)</span>
-
-- [Handle AWS secret manager empty response ](https://github.com/chainloop-dev/chainloop/issues/56)
-
-- [Extract attestation grpc service to another proto file](https://github.com/chainloop-dev/chainloop/issues/36)
-
-- [CLI: improve UX on attestation downloading](https://github.com/chainloop-dev/chainloop/issues/31)
-
-- [Populate releases footer information](https://github.com/chainloop-dev/chainloop/issues/30)
-
-- [Document authentication config in control plane](https://github.com/chainloop-dev/chainloop/issues/23)
-
-- [Improve CLI feedback on configuration change](https://github.com/chainloop-dev/chainloop/issues/14)
 
