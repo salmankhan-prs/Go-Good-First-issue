@@ -4,7 +4,38 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 16:03 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 16:13 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## minekube/gate <span style='color:#F1C40F'>(291 ⭐️)</span>
+
+- [Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
+
+- [Kubernetes Helm chart](https://github.com/minekube/gate/issues/188)
+
+
+## fluxcd/notification-controller <span style='color:#F1C40F'>(120 ⭐️)</span>
+
+- [Increase ReceiverServer test coverage](https://github.com/fluxcd/notification-controller/issues/496)
+
+- [Markdown rendering for Matrix notifications](https://github.com/fluxcd/notification-controller/issues/493)
+
+- [Namespace fallback for annotation logs](https://github.com/fluxcd/notification-controller/issues/492)
 
 
 ## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
@@ -19,7 +50,7 @@
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
-## guacsec/guac <span style='color:#F1C40F'>(760 ⭐️)</span>
+## guacsec/guac <span style='color:#F1C40F'>(761 ⭐️)</span>
 
 - [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
 
@@ -42,25 +73,11 @@
 - [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
 
 
-## fluxcd/notification-controller <span style='color:#F1C40F'>(120 ⭐️)</span>
-
-- [Increase ReceiverServer test coverage](https://github.com/fluxcd/notification-controller/issues/496)
-
-- [Markdown rendering for Matrix notifications](https://github.com/fluxcd/notification-controller/issues/493)
-
-- [Namespace fallback for annotation logs](https://github.com/fluxcd/notification-controller/issues/492)
-
-
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(263 ⭐️)</span>
 
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
@@ -120,11 +137,6 @@
 - [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
 
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(953 ⭐️)</span>
@@ -208,6 +220,13 @@
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
+## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
 - [Add coveralls.io integration](https://github.com/FerretDB/FerretDB/issues/2106)
@@ -265,13 +284,6 @@
 - [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
 
 - [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
 ## kubevela/velaux <span style='color:#F1C40F'>(99 ⭐️)</span>
