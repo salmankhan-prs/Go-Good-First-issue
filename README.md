@@ -4,12 +4,33 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 18:33 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 18:43 UTC.</div>
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
+
+- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
+
+- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
 
 
 ## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(20 ⭐️)</span>
@@ -90,11 +111,6 @@
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
 
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
@@ -142,6 +158,11 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
@@ -209,6 +230,21 @@
 - [Destroying instances is cumbersome](https://github.com/chiselstrike/turso-cli/issues/283)
 
 
+## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
+
+- [center align appendix lines](https://github.com/terrastruct/d2/issues/1104)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+- [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
+
+
 ## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
@@ -217,6 +253,17 @@
 ## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
 
 - [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Destroy message has an empty quote if the environment doesn't have a name](https://github.com/okteto/okteto/issues/3487)
+
+- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
+
+- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
+
+- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
 
 
 ## cortexproject/cortex <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -272,141 +319,4 @@
 - [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
 
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(468 ⭐️)</span>
-
-- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
-
-- [log(throughout codebase): Change log to `DAH.String()` instead of `DAH.Hash()` anywhere where we try to log the hash of the `DataAvailabilityHeader`/ `Root`](https://github.com/celestiaorg/celestia-node/issues/1898)
-
-- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
-
-- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
-
-- [logging: More uniformity around naming for loggers per package](https://github.com/celestiaorg/celestia-node/issues/1888)
-
-- [chore(ci tooling): add command to Makefile to install all lint / fmt deps tools](https://github.com/celestiaorg/celestia-node/issues/1854)
-
-
-## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
-
-- [Show warning if there's a lot of releases](https://github.com/freiheit-com/kuberpult/issues/533)
-
-- [UI/UX: Precision of timespan in commit detail modal.](https://github.com/freiheit-com/kuberpult/issues/537)
-
-- [EnvironmentLabels sorted wrong](https://github.com/freiheit-com/kuberpult/issues/539)
-
-- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
-
-
-## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [add gator to krew](https://github.com/open-policy-agent/gatekeeper/issues/2653)
-
-
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-- [Incorrect Error Message: Invalid Deposit Event -> Invalid System Config Update Event](https://github.com/ethereum-optimism/optimism/issues/5272)
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
-
-
-## minekube/gate <span style='color:#F1C40F'>(291 ⭐️)</span>
-
-- [Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
-
-- [Kubernetes Helm chart](https://github.com/minekube/gate/issues/188)
-
-
-## fluxcd/notification-controller <span style='color:#F1C40F'>(120 ⭐️)</span>
-
-- [Increase ReceiverServer test coverage](https://github.com/fluxcd/notification-controller/issues/496)
-
-- [Markdown rendering for Matrix notifications](https://github.com/fluxcd/notification-controller/issues/493)
-
-- [Namespace fallback for annotation logs](https://github.com/fluxcd/notification-controller/issues/492)
-
-
-## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
-
-
-## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
-
-- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
-
-- [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(953 ⭐️)</span>
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [Enable signed release tracking](https://github.com/kyverno/kyverno/issues/6482)
-
-- [Set tokens to read-only](https://github.com/kyverno/kyverno/issues/6483)
-
-- [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
-
-- [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
-
-
-## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(907 ⭐️)</span>
-
-- [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
 
