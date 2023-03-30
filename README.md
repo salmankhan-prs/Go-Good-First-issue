@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 00:03 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 00:13 UTC.</div>
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
@@ -299,6 +299,13 @@
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
+
+
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(243 ⭐️)</span>
+
+- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
+
+- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
