@@ -4,7 +4,58 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 05:43 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 05:53 UTC.</div>
+
+
+## kubevela/velaux <span style='color:#F1C40F'>(99 ⭐️)</span>
+
+- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
+
+- [The page crashes after click an inaccessible cluster](https://github.com/kubevela/velaux/issues/685)
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(393 ⭐️)</span>
+
+- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
+
+- [RecordModifier is missing some upstream configuration](https://github.com/fluent/fluent-operator/issues/597)
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
+
+- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
+
+- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
+
+- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
+
+- [[QUESTION]没有卸载面板的脚本](https://github.com/1Panel-dev/1Panel/issues/330)
+
+- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
+
+- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
+
+- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
+
+- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
+
+- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
+
+- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -53,13 +104,6 @@
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
-
-
-## fluent/fluent-operator <span style='color:#F1C40F'>(393 ⭐️)</span>
-
-- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
-
-- [RecordModifier is missing some upstream configuration](https://github.com/fluent/fluent-operator/issues/597)
 
 
 ## kubesimplify/ksctl <span style='color:#F1C40F'>(79 ⭐️)</span>
@@ -123,11 +167,6 @@
 - [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
 
 
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
 
 - [vela show --web not populating ComponentType](https://github.com/kubevela/kubevela/issues/5769)
@@ -171,36 +210,6 @@
 - [Update kubernetes registry](https://github.com/oracle/cluster-api-provider-oci/issues/219)
 
 
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
-
-- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
-
-- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
-
-- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
-
-- [[QUESTION]没有卸载面板的脚本](https://github.com/1Panel-dev/1Panel/issues/330)
-
-- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
-
-- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
-
-- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
-
-- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
-
-- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
-
-- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
@@ -233,13 +242,6 @@
 - [feature: Create behavioral unit tests for mailbox controller](https://github.com/kcp-dev/edge-mc/issues/218)
 
 - [feature: new make target for deploying and configuring kcp and kcp-edge components](https://github.com/kcp-dev/edge-mc/issues/212)
-
-
-## kubevela/velaux <span style='color:#F1C40F'>(99 ⭐️)</span>
-
-- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
-
-- [The page crashes after click an inaccessible cluster](https://github.com/kubevela/velaux/issues/685)
 
 
 ## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -311,11 +313,4 @@
 ## lf-edge/eve <span style='color:#F1C40F'>(397 ⭐️)</span>
 
 - [Add CPU pinning with Xen hypervisor](https://github.com/lf-edge/eve/issues/3071)
-
-
-## JoshRosner101/EduFor <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [Decorate threads page](https://github.com/JoshRosner101/EduFor/issues/11)
-
-- [Decorate main page](https://github.com/JoshRosner101/EduFor/issues/10)
 
