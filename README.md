@@ -4,24 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 23:13 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 23:23 UTC.</div>
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
-
-- [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## dapr/components-contrib <span style='color:#F1C40F'>(438 ⭐️)</span>
@@ -33,6 +21,41 @@
 - [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
 
 - [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## SiaFoundation/hostd <span style='color:#F1C40F'>(1 ⭐️)</span>
+
+- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
+
+- [Integrated DynDNS](https://github.com/SiaFoundation/hostd/issues/17)
+
+- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
+
+- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
+
+- [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
+
+
+## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
+
+- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
+
+- [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
 
 
 ## minekube/gate <span style='color:#F1C40F'>(291 ⭐️)</span>
@@ -59,27 +82,9 @@
 - [Add a helm flag to force Agones system components onto dedicated nodes](https://github.com/googleforgames/agones/issues/3009)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
-
-
-## SiaFoundation/hostd <span style='color:#F1C40F'>(1 ⭐️)</span>
-
-- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
-
-- [Integrated DynDNS](https://github.com/SiaFoundation/hostd/issues/17)
-
-- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
-
-- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
-
-- [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
@@ -327,9 +332,4 @@
 ## cortexproject/cortex <span style='color:#F1C40F'>(5.0K ⭐️)</span>
 
 - [setting -distributor.ingestion-tenant-shard-size to 0 throws error](https://github.com/cortexproject/cortex/issues/5189)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
