@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 13:23 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 13:33 UTC.</div>
+
+
+## kubeshop/testkube <span style='color:#F1C40F'>(727 ⭐️)</span>
+
+- [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
+
+
+## kyma-project/lifecycle-manager <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Kyma Alpha Create Module fails for Docker Hub as Container Registry](https://github.com/kyma-project/lifecycle-manager/issues/439)
+
+- [Limited channels availability per Kyma instance](https://github.com/kyma-project/lifecycle-manager/issues/455)
+
+- [Add issue template to Lifecycle Manager repo](https://github.com/kyma-project/lifecycle-manager/issues/497)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -25,6 +44,13 @@
 ## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(952 ⭐️)</span>
+
+- [Prevent (unintentional) creation of non-Postgres-Flex clusters](https://github.com/superfly/flyctl/issues/1972)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(263 ⭐️)</span>
@@ -131,9 +157,13 @@
 - [chore(ci tooling): add command to Makefile to install all lint / fmt deps tools](https://github.com/celestiaorg/celestia-node/issues/1854)
 
 
-## kubeshop/testkube <span style='color:#F1C40F'>(726 ⭐️)</span>
+## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
-- [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
+- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
+
+- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
@@ -141,9 +171,7 @@
 - [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(568 ⭐️)</span>
-
-- [bug: Cached response when switching kubectl context](https://github.com/k8sgpt-ai/k8sgpt/issues/150)
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(570 ⭐️)</span>
 
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
@@ -165,15 +193,6 @@
 - [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
 
 - [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## simpleiot/simpleiot <span style='color:#F1C40F'>(114 ⭐️)</span>
@@ -277,26 +296,4 @@
 - [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
 
 - [tempodb integer divide by zero error](https://github.com/grafana/tempo/issues/2167)
-
-
-## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(907 ⭐️)</span>
-
-- [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
-
-
-## gnolang/gno <span style='color:#F1C40F'>(712 ⭐️)</span>
-
-- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
