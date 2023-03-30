@@ -4,14 +4,17 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 08:53 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 09:03 UTC.</div>
 
 
-## envoyproxy/gateway <span style='color:#F1C40F'>(920 ⭐️)</span>
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
-- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
-- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+## kyma-project/cli <span style='color:#F1C40F'>(64 ⭐️)</span>
+
+- [The verbose mode should not print out unrelavent infromation](https://github.com/kyma-project/cli/issues/1607)
 
 
 ## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
@@ -19,6 +22,13 @@
 - [[Good First Issues]: New Source Connector Request: Facebook Page ](https://github.com/vanus-labs/vanus-connect/issues/262)
 
 - [🎯 New Source Connector Request: Twitter](https://github.com/vanus-labs/vanus-connect/issues/251)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(920 ⭐️)</span>
+
+- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -44,6 +54,11 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -176,11 +191,6 @@
 - [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
 
 
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
 ## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
 
 - [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
@@ -278,11 +288,6 @@
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
@@ -357,30 +362,4 @@
 - [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
-## harvester/harvester <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [[Doc] Provide Information On Interactive ISO Install grub.cfg Location](https://github.com/harvester/harvester/issues/3590)
-
-
-## stashapp/stash <span style='color:#F1C40F'>(5.6K ⭐️)</span>
-
-- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
-
-
-## apache/apisix-ingress-controller <span style='color:#F1C40F'>(770 ⭐️)</span>
-
-- [docs: ApisixUpstream reference need to be updated](https://github.com/apache/apisix-ingress-controller/issues/1740)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
