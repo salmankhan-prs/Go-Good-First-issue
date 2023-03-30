@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 14:53 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 15:03 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Add coveralls.io integration](https://github.com/FerretDB/FerretDB/issues/2106)
+
+- [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
+
+- [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
 
 
 ## kairos-io/kairos <span style='color:#F1C40F'>(426 ⭐️)</span>
@@ -19,6 +33,11 @@
 - [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
 
 - [`--version` always returns `main`](https://github.com/massalabs/thyra/issues/507)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -37,9 +56,9 @@
 - [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+## stashapp/stash <span style='color:#F1C40F'>(5.6K ⭐️)</span>
 
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
 ## RamenDR/ramen <span style='color:#F1C40F'>(51 ⭐️)</span>
@@ -62,20 +81,6 @@
 - [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
 
 - [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Add coveralls.io integration](https://github.com/FerretDB/FerretDB/issues/2106)
-
-- [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
-
-- [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## fluxcd/notification-controller <span style='color:#F1C40F'>(120 ⭐️)</span>
@@ -304,4 +309,76 @@
 - [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
 
 - [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
+
+
+## apache/apisix-ingress-controller <span style='color:#F1C40F'>(770 ⭐️)</span>
+
+- [docs: ApisixUpstream reference need to be updated](https://github.com/apache/apisix-ingress-controller/issues/1740)
+
+
+## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Include inbound and outbound edges when automatically activating rank in the graph](https://github.com/kiali/kiali/issues/5915)
+
+
+## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(468 ⭐️)</span>
+
+- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
+
+- [log(throughout codebase): Change log to `DAH.String()` instead of `DAH.Hash()` anywhere where we try to log the hash of the `DataAvailabilityHeader`/ `Root`](https://github.com/celestiaorg/celestia-node/issues/1898)
+
+- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
+
+- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
+
+- [logging: More uniformity around naming for loggers per package](https://github.com/celestiaorg/celestia-node/issues/1888)
+
+- [chore(ci tooling): add command to Makefile to install all lint / fmt deps tools](https://github.com/celestiaorg/celestia-node/issues/1854)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
+
+- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
+
+
+## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
+
+- [dendrite_up metric](https://github.com/matrix-org/dendrite/issues/2993)
+
+
+## simpleiot/simpleiot <span style='color:#F1C40F'>(114 ⭐️)</span>
+
+- [Move 1-wire code to client](https://github.com/simpleiot/simpleiot/issues/529)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
+
+- [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
+
+- [center align appendix lines](https://github.com/terrastruct/d2/issues/1104)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+- [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+- [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
 
