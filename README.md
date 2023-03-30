@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 15:03 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 15:13 UTC.</div>
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -374,11 +383,4 @@
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 - [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-- [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
 
