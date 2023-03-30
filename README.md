@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 14:43 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 14:53 UTC.</div>
 
 
 ## kairos-io/kairos <span style='color:#F1C40F'>(426 ⭐️)</span>
@@ -104,6 +104,13 @@
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
+## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
@@ -131,13 +138,6 @@
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
 ## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -219,6 +219,11 @@
 ## gnolang/gno <span style='color:#F1C40F'>(712 ⭐️)</span>
 
 - [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
 
 
 ## lf-edge/eve <span style='color:#F1C40F'>(397 ⭐️)</span>
