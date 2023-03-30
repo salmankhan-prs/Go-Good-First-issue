@@ -4,19 +4,44 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 11:23 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 11:33 UTC.</div>
+
+
+## replicatedhq/troubleshoot <span style='color:#F1C40F'>(423 ⭐️)</span>
+
+- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
+
+- [Allow using kubernetes.io/tls when configuring DB collector TLS secrets](https://github.com/replicatedhq/troubleshoot/issues/1047)
+
+- [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(426 ⭐️)</span>
+
+- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
+
+- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
+
+
+## kubeshop/testkube <span style='color:#F1C40F'>(726 ⭐️)</span>
+
+- [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
+
+
+## RamenDR/ramen <span style='color:#F1C40F'>(51 ⭐️)</span>
+
+- [Fail early if drenv environment file contains invalid script spec](https://github.com/RamenDR/ramen/issues/809)
+
+- [Ramen catalog fails to report healthy in drenv, potentially due to olm installation differences](https://github.com/RamenDR/ramen/issues/745)
+
+- [Filename of sample is mis-spelled: config/samples/ramnedr_v1alpha1_metrodr_drcluster.yaml](https://github.com/RamenDR/ramen/issues/798)
+
+- [Add selt test for minio](https://github.com/RamenDR/ramen/issues/743)
 
 
 ## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
 
 - [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(425 ⭐️)</span>
-
-- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
-
-- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -52,7 +77,7 @@
 - [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(533 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(535 ⭐️)</span>
 
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
@@ -64,11 +89,6 @@
 ## mattermost/mattermost-plugin-github <span style='color:#F1C40F'>(127 ⭐️)</span>
 
 - [Include explanation of `/setup` command in README](https://github.com/mattermost/mattermost-plugin-github/issues/655)
-
-
-## kubeshop/testkube <span style='color:#F1C40F'>(726 ⭐️)</span>
-
-- [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
 
 
 ## zitadel/zitadel <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -273,11 +293,4 @@
 ## lf-edge/eve <span style='color:#F1C40F'>(397 ⭐️)</span>
 
 - [Add CPU pinning with Xen hypervisor](https://github.com/lf-edge/eve/issues/3071)
-
-
-## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
-
-- [[Good First Issues]: New Source Connector Request: Facebook Page ](https://github.com/vanus-labs/vanus-connect/issues/262)
-
-- [🎯 New Source Connector Request: Twitter](https://github.com/vanus-labs/vanus-connect/issues/251)
 
