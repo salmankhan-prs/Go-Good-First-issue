@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 02:53 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 03:03 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## oras-project/oras <span style='color:#F1C40F'>(886 ⭐️)</span>
@@ -37,11 +42,6 @@
 ## oracle/cluster-api-provider-oci <span style='color:#F1C40F'>(23 ⭐️)</span>
 
 - [Update kubernetes registry](https://github.com/oracle/cluster-api-provider-oci/issues/219)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -340,9 +340,4 @@
 ## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
 
 - [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
-
-
-## earthly/earthly <span style='color:#F1C40F'>(8.9K ⭐️)</span>
-
-- [EARTHLY_GIT_(REF|BRANCH) built in ARG](https://github.com/earthly/earthly/issues/2735)
 
