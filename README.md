@@ -4,10 +4,17 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 19:03 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 19:13 UTC.</div>
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(635 ⭐️)</span>
+## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
+
+- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
+
+- [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(639 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -21,13 +28,6 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
-
-- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
-
-- [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
