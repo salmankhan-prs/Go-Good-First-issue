@@ -4,7 +4,36 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 12:03 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 12:13 UTC.</div>
+
+
+## horizoncd/horizon <span style='color:#F1C40F'>(162 ⭐️)</span>
+
+- [The response of /apis/core/v1/clusters/{clusterID}/outputs is incorrect](https://github.com/horizoncd/horizon/issues/64)
+
+- [the log level of "failed to create event" error should be set to "error"](https://github.com/horizoncd/horizon/issues/61)
+
+- [Requests return 200 code when panics occur](https://github.com/horizoncd/horizon/issues/55)
+
+
+## kubeshop/testkube <span style='color:#F1C40F'>(726 ⭐️)</span>
+
+- [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -69,7 +98,7 @@
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(539 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(542 ⭐️)</span>
 
 - [bug: Cached response when switching kubectl context](https://github.com/k8sgpt-ai/k8sgpt/issues/150)
 
@@ -114,14 +143,16 @@
 - [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
 
 
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
+
+- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
+
+- [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -153,11 +184,6 @@
 - [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
 
 
-## kubeshop/testkube <span style='color:#F1C40F'>(726 ⭐️)</span>
-
-- [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
-
-
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
@@ -179,13 +205,6 @@
 - [Filename of sample is mis-spelled: config/samples/ramnedr_v1alpha1_metrodr_drcluster.yaml](https://github.com/RamenDR/ramen/issues/798)
 
 - [Add selt test for minio](https://github.com/RamenDR/ramen/issues/743)
-
-
-## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
-
-- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
-
-- [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(262 ⭐️)</span>
@@ -233,11 +252,6 @@
 - [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
 
 - [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(64 ⭐️)</span>
@@ -293,11 +307,4 @@
 - [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
 
 - [`--version` always returns `main`](https://github.com/massalabs/thyra/issues/507)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
