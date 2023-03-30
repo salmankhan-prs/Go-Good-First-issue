@@ -4,7 +4,32 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 18:43 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 18:53 UTC.</div>
+
+
+## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
+
+- [tempodb integer divide by zero error](https://github.com/grafana/tempo/issues/2167)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(163 ⭐️)</span>
+
+- [Explore enforcing conventional commits](https://github.com/celestiaorg/celestia-app/issues/1539)
+
+- [specs: rename `message` => `blob`](https://github.com/celestiaorg/celestia-app/issues/1532)
+
+- [docs: rename `message` => `blob` in ADRs](https://github.com/celestiaorg/celestia-app/issues/1531)
+
+- [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
+
+- [Consider removing split-test-files](https://github.com/celestiaorg/celestia-app/issues/1439)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
@@ -33,6 +58,11 @@
 - [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
 
 
+## kubeshop/testkube <span style='color:#F1C40F'>(728 ⭐️)</span>
+
+- [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
+
+
 ## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
@@ -50,11 +80,6 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## kubeshop/testkube <span style='color:#F1C40F'>(727 ⭐️)</span>
-
-- [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -155,11 +180,6 @@
 - [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
@@ -174,11 +194,11 @@
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(634 ⭐️)</span>
 
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
 - [feature: default filters vs opt-in](https://github.com/k8sgpt-ai/k8sgpt/issues/158)
 
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
 
 ## polarsignals/frostdb <span style='color:#F1C40F'>(976 ⭐️)</span>
@@ -319,4 +339,107 @@
 - [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
 
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(468 ⭐️)</span>
+
+- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
+
+- [log(throughout codebase): Change log to `DAH.String()` instead of `DAH.Hash()` anywhere where we try to log the hash of the `DataAvailabilityHeader`/ `Root`](https://github.com/celestiaorg/celestia-node/issues/1898)
+
+- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
+
+- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
+
+- [logging: More uniformity around naming for loggers per package](https://github.com/celestiaorg/celestia-node/issues/1888)
+
+- [chore(ci tooling): add command to Makefile to install all lint / fmt deps tools](https://github.com/celestiaorg/celestia-node/issues/1854)
+
+
+## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
+
+- [Show warning if there's a lot of releases](https://github.com/freiheit-com/kuberpult/issues/533)
+
+- [UI/UX: Precision of timespan in commit detail modal.](https://github.com/freiheit-com/kuberpult/issues/537)
+
+- [EnvironmentLabels sorted wrong](https://github.com/freiheit-com/kuberpult/issues/539)
+
+- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
+
+
+## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [add gator to krew](https://github.com/open-policy-agent/gatekeeper/issues/2653)
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+- [Incorrect Error Message: Invalid Deposit Event -> Invalid System Config Update Event](https://github.com/ethereum-optimism/optimism/issues/5272)
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
+
+
+## minekube/gate <span style='color:#F1C40F'>(291 ⭐️)</span>
+
+- [Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
+
+- [Kubernetes Helm chart](https://github.com/minekube/gate/issues/188)
+
+
+## fluxcd/notification-controller <span style='color:#F1C40F'>(120 ⭐️)</span>
+
+- [Increase ReceiverServer test coverage](https://github.com/fluxcd/notification-controller/issues/496)
+
+- [Markdown rendering for Matrix notifications](https://github.com/fluxcd/notification-controller/issues/493)
+
+- [Namespace fallback for annotation logs](https://github.com/fluxcd/notification-controller/issues/492)
+
+
+## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
+
+
+## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
+
+- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
+
+- [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
