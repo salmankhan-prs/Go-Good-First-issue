@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 22:33 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 22:43 UTC.</div>
+
+
+## minekube/gate <span style='color:#F1C40F'>(291 ⭐️)</span>
+
+- [Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
+
+- [Kubernetes Helm chart](https://github.com/minekube/gate/issues/188)
 
 
 ## NibiruChain/nibiru <span style='color:#F1C40F'>(57 ⭐️)</span>
@@ -17,13 +24,6 @@
 ## onflow/cadence <span style='color:#F1C40F'>(461 ⭐️)</span>
 
 - [Return overflowing value when for UInt256 and Int256 ](https://github.com/onflow/cadence/issues/2389)
-
-
-## minekube/gate <span style='color:#F1C40F'>(291 ⭐️)</span>
-
-- [Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
-
-- [Kubernetes Helm chart](https://github.com/minekube/gate/issues/188)
 
 
 ## googleforgames/agones <span style='color:#F1C40F'>(5.1K ⭐️)</span>
@@ -107,7 +107,7 @@
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(662 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(664 ⭐️)</span>
 
 - [feature: default filters vs opt-in](https://github.com/k8sgpt-ai/k8sgpt/issues/158)
 
