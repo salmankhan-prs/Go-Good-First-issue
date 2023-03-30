@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 16:33 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 16:43 UTC.</div>
+
+
+## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
+
+- [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
+
+
+## cortexproject/cortex <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [setting -distributor.ingestion-tenant-shard-size to 0 throws error](https://github.com/cortexproject/cortex/issues/5189)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(612 ⭐️)</span>
+
+- [feature: default filters vs opt-in](https://github.com/k8sgpt-ai/k8sgpt/issues/158)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
 
 ## cloudfoundry/korifi <span style='color:#F1C40F'>(175 ⭐️)</span>
@@ -165,13 +184,6 @@
 - [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
 
 
-## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-- [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
-
-
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(263 ⭐️)</span>
 
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
@@ -288,4 +300,63 @@
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
 
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+
+- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Add coveralls.io integration](https://github.com/FerretDB/FerretDB/issues/2106)
+
+- [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
+
+- [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
+
+
+## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
+
+- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
+
+- [`--version` always returns `main`](https://github.com/massalabs/thyra/issues/507)
+
+
+## stashapp/stash <span style='color:#F1C40F'>(5.6K ⭐️)</span>
+
+- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
+
+
+## RamenDR/ramen <span style='color:#F1C40F'>(51 ⭐️)</span>
+
+- [Fail early if drenv environment file contains invalid script spec](https://github.com/RamenDR/ramen/issues/809)
+
+- [Ramen catalog fails to report healthy in drenv, potentially due to olm installation differences](https://github.com/RamenDR/ramen/issues/745)
+
+- [Filename of sample is mis-spelled: config/samples/ramnedr_v1alpha1_metrodr_drcluster.yaml](https://github.com/RamenDR/ramen/issues/798)
+
+- [Add selt test for minio](https://github.com/RamenDR/ramen/issues/743)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Destroy message has an empty quote if the environment doesn't have a name](https://github.com/okteto/okteto/issues/3487)
+
+- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
+
+- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
+
+- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
 
