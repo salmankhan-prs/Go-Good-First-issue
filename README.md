@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 29, 2023 23:53 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 00:03 UTC.</div>
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
@@ -108,6 +108,11 @@
 - [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
 ## earthly/earthly <span style='color:#F1C40F'>(8.9K ⭐️)</span>
 
 - [EARTHLY_GIT_(REF|BRANCH) built in ARG](https://github.com/earthly/earthly/issues/2735)
@@ -126,11 +131,6 @@
 ## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
 
 - [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
