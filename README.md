@@ -4,7 +4,29 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 16:53 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 17:03 UTC.</div>
+
+
+## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
+
+- [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## googleforgames/agones <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [Add a helm flag to force Agones system components onto dedicated nodes](https://github.com/googleforgames/agones/issues/3009)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -12,7 +34,7 @@
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(613 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(615 ⭐️)</span>
 
 - [feature: default filters vs opt-in](https://github.com/k8sgpt-ai/k8sgpt/issues/158)
 
@@ -173,6 +195,17 @@
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
 ## guacsec/guac <span style='color:#F1C40F'>(761 ⭐️)</span>
 
 - [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
@@ -215,17 +248,6 @@
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
@@ -330,11 +352,4 @@
 - [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
 
 - [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
-
-
-## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
-
-- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
-
-- [`--version` always returns `main`](https://github.com/massalabs/thyra/issues/507)
 
