@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 08:03 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 08:13 UTC.</div>
 
 
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -16,6 +16,22 @@
 - [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
 
 - [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Add coveralls.io integration](https://github.com/FerretDB/FerretDB/issues/2106)
+
+- [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
+
+- [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
+
+
+## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
+
+- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
+
+- [`--version` always returns `main`](https://github.com/massalabs/thyra/issues/507)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -72,6 +88,20 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
+
+- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
 
 
 ## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
@@ -140,6 +170,11 @@
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -301,15 +336,6 @@
 - [handle custom env variables in runner](https://github.com/padok-team/burrito/issues/93)
 
 
-## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
 ## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
@@ -328,23 +354,4 @@
 - [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
 
 - [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
-
-
-## kubesimplify/ksctl <span style='color:#F1C40F'>(79 ⭐️)</span>
-
-- [[BUG][CLI or API] (Provider) Ksctl Cred](https://github.com/kubesimplify/ksctl/issues/79)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.5K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Add coveralls.io integration](https://github.com/FerretDB/FerretDB/issues/2106)
-
-- [Improve fuzzing with recorded seed data](https://github.com/FerretDB/FerretDB/issues/2100)
-
-- [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
 
