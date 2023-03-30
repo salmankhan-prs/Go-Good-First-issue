@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 10:13 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 10:23 UTC.</div>
+
+
+## project-zot/zot <span style='color:#F1C40F'>(331 ⭐️)</span>
+
+- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
 
 
 ## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
@@ -28,7 +33,14 @@
 - [Test-App Subscribe commands error when trying to add a bot to the channel](https://github.com/mattermost/mattermost-plugin-apps/issues/461)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(520 ⭐️)</span>
+## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(522 ⭐️)</span>
 
 - [bug: Cached response when switching kubectl context](https://github.com/k8sgpt-ai/k8sgpt/issues/150)
 
@@ -214,6 +226,17 @@
 - [🎯 New Source Connector Request: Twitter](https://github.com/vanus-labs/vanus-connect/issues/251)
 
 
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Destroy message has an empty quote if the environment doesn't have a name](https://github.com/okteto/okteto/issues/3487)
+
+- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
+
+- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
+
+- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
+
+
 ## envoyproxy/gateway <span style='color:#F1C40F'>(920 ⭐️)</span>
 
 - [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
@@ -310,34 +333,4 @@
 ## kubernetes-sigs/kind <span style='color:#F1C40F'>(11.3K ⭐️)</span>
 
 - [The default CIDRs for serviceSubnet and podSubnet should be documented.](https://github.com/kubernetes-sigs/kind/issues/3117)
-
-
-## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(64 ⭐️)</span>
-
-- [Label metrics-controller instead of metrics-operator](https://github.com/keptn/lifecycle-toolkit/issues/1106)
-
-- [Helm generation checker pipeline](https://github.com/keptn/lifecycle-toolkit/issues/926)
-
-- [Research new base container images](https://github.com/keptn/lifecycle-toolkit/issues/1094)
-
-- [Contrib: linters requirements](https://github.com/keptn/lifecycle-toolkit/issues/999)
-
-- [Contributing: Building docs locally](https://github.com/keptn/lifecycle-toolkit/issues/996)
-
-- [Update all the SLI providers to make use of the timeframe value](https://github.com/keptn/lifecycle-toolkit/issues/1012)
-
-- [KLT architecture diagram](https://github.com/keptn/lifecycle-toolkit/issues/1034)
-
-- [Contrib: Working with github](https://github.com/keptn/lifecycle-toolkit/issues/997)
-
-- [Contributing: general guidelines](https://github.com/keptn/lifecycle-toolkit/issues/995)
-
-- [Contrib: doc source structure](https://github.com/keptn/lifecycle-toolkit/issues/998)
-
-- [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
 
