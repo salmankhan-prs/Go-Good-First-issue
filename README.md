@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 18:23 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 18:33 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
+
+- [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
+
+
+## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [Make all the boolean values case insensitive in aws vpc cni environmental variables. ](https://github.com/aws/amazon-vpc-cni-k8s/issues/2311)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(264 ⭐️)</span>
+
+- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
+
+- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
 
 
 ## kubeshop/testkube <span style='color:#F1C40F'>(727 ⭐️)</span>
@@ -38,7 +62,7 @@
 - [Add example repo in Java to README](https://github.com/grpc-ecosystem/grpc-gateway/issues/3262)
 
 
-## chainloop-dev/chainloop <span style='color:#F1C40F'>(142 ⭐️)</span>
+## chainloop-dev/chainloop <span style='color:#F1C40F'>(143 ⭐️)</span>
 
 - [Handle AWS secret manager empty response ](https://github.com/chainloop-dev/chainloop/issues/56)
 
@@ -120,13 +144,6 @@
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(263 ⭐️)</span>
-
-- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
-
-- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
 ## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
@@ -134,7 +151,7 @@
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(630 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(634 ⭐️)</span>
 
 - [feature: default filters vs opt-in](https://github.com/k8sgpt-ai/k8sgpt/issues/158)
 
@@ -173,21 +190,9 @@
 - [feature: new make target for deploying and configuring kcp and kcp-edge components](https://github.com/kcp-dev/edge-mc/issues/212)
 
 
-## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
-
-- [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
-
-
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## googleforgames/agones <span style='color:#F1C40F'>(5.1K ⭐️)</span>
@@ -293,4 +298,115 @@
 - [EnvironmentLabels sorted wrong](https://github.com/freiheit-com/kuberpult/issues/539)
 
 - [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
+
+
+## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [add gator to krew](https://github.com/open-policy-agent/gatekeeper/issues/2653)
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+- [Incorrect Error Message: Invalid Deposit Event -> Invalid System Config Update Event](https://github.com/ethereum-optimism/optimism/issues/5272)
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
+
+
+## minekube/gate <span style='color:#F1C40F'>(291 ⭐️)</span>
+
+- [Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
+
+- [Kubernetes Helm chart](https://github.com/minekube/gate/issues/188)
+
+
+## fluxcd/notification-controller <span style='color:#F1C40F'>(120 ⭐️)</span>
+
+- [Increase ReceiverServer test coverage](https://github.com/fluxcd/notification-controller/issues/496)
+
+- [Markdown rendering for Matrix notifications](https://github.com/fluxcd/notification-controller/issues/493)
+
+- [Namespace fallback for annotation logs](https://github.com/fluxcd/notification-controller/issues/492)
+
+
+## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
+
+
+## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
+
+- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
+
+- [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(953 ⭐️)</span>
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [Enable signed release tracking](https://github.com/kyverno/kyverno/issues/6482)
+
+- [Set tokens to read-only](https://github.com/kyverno/kyverno/issues/6483)
+
+- [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
+
+- [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
+
+
+## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(907 ⭐️)</span>
+
+- [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
 
