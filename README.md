@@ -4,14 +4,14 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 22:23 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 22:33 UTC.</div>
 
 
-## etcd-io/bbolt <span style='color:#F1C40F'>(6.3K ⭐️)</span>
+## NibiruChain/nibiru <span style='color:#F1C40F'>(57 ⭐️)</span>
 
-- [[1.3] Support injecting failpoints to mimic syscall errors ](https://github.com/etcd-io/bbolt/issues/436)
+- [feat(oracle): create an exponential moving average of index prices](https://github.com/NibiruChain/nibiru/issues/1235)
 
-- [Improve the workflow to check goimport items](https://github.com/etcd-io/bbolt/issues/435)
+- [feat(vpool): add peg multiplier to vpool](https://github.com/NibiruChain/nibiru/issues/1232)
 
 
 ## onflow/cadence <span style='color:#F1C40F'>(461 ⭐️)</span>
@@ -78,6 +78,13 @@
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
 
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
+
+- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
+
+
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
@@ -107,13 +114,6 @@
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -332,13 +332,4 @@
 ## superfly/flyctl <span style='color:#F1C40F'>(953 ⭐️)</span>
 
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
-## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
-
-- [Add missing query for next sequence send](https://github.com/cosmos/ibc-go/issues/3383)
-
-- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
-
-- [Use state in enums in channel handshake logs ](https://github.com/cosmos/ibc-go/issues/3335)
 
