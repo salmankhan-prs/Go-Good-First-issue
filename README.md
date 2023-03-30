@@ -4,12 +4,29 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 06:23 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 06:33 UTC.</div>
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
 ## kubeshop/testkube <span style='color:#F1C40F'>(725 ⭐️)</span>
 
 - [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
+
+
+## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
 
 
 ## deislabs/ratify <span style='color:#F1C40F'>(108 ⭐️)</span>
@@ -26,6 +43,11 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
@@ -65,13 +87,6 @@
 ## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## fluent/fluent-operator <span style='color:#F1C40F'>(393 ⭐️)</span>
@@ -182,6 +197,13 @@
 - [Add tests for ensuring flags for commands are available](https://github.com/alcionai/corso/issues/2975)
 
 
+## envoyproxy/gateway <span style='color:#F1C40F'>(918 ⭐️)</span>
+
+- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+
 ## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
 
 - [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
@@ -198,11 +220,6 @@
 - [tempodb integer divide by zero error](https://github.com/grafana/tempo/issues/2167)
 
 - [Evaluate `status.code` as virtual tag](https://github.com/grafana/tempo/issues/2155)
-
-
-## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
 
 
 ## oras-project/oras <span style='color:#F1C40F'>(886 ⭐️)</span>
@@ -297,9 +314,54 @@
 - [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
 
 
-## envoyproxy/gateway <span style='color:#F1C40F'>(917 ⭐️)</span>
+## guacsec/guac <span style='color:#F1C40F'>(760 ⭐️)</span>
 
-- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
 
-- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Add ability to parse identifier strings for PURLs](https://github.com/guacsec/guac/issues/590)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
+
+
+## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [add gator to krew](https://github.com/open-policy-agent/gatekeeper/issues/2653)
+
+
+## etcd-io/bbolt <span style='color:#F1C40F'>(6.3K ⭐️)</span>
+
+- [Flaky `testDB_Close_PendingTx`](https://github.com/etcd-io/bbolt/issues/441)
+
+- [[1.3] Support injecting failpoints to mimic syscall errors ](https://github.com/etcd-io/bbolt/issues/436)
+
+- [Improve the workflow to check goimport items](https://github.com/etcd-io/bbolt/issues/435)
+
+
+## cortexproject/cortex <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [setting -distributor.ingestion-tenant-shard-size to 0 throws error](https://github.com/cortexproject/cortex/issues/5189)
+
+
+## lf-edge/eve <span style='color:#F1C40F'>(397 ⭐️)</span>
+
+- [Add CPU pinning with Xen hypervisor](https://github.com/lf-edge/eve/issues/3071)
+
+
+## JoshRosner101/EduFor <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [Decorate threads page](https://github.com/JoshRosner101/EduFor/issues/11)
+
+- [Decorate main page](https://github.com/JoshRosner101/EduFor/issues/10)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
+
+
+## cert-manager/cert-manager <span style='color:#F1C40F'>(10.1K ⭐️)</span>
+
+- [Confusing message when cmctl renew is executed without a Certificate name](https://github.com/cert-manager/cert-manager/issues/5886)
 
