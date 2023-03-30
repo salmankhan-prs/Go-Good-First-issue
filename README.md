@@ -4,12 +4,33 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 00:13 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 00:23 UTC.</div>
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
 
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
 
 
 ## googleforgames/agones <span style='color:#F1C40F'>(5.1K ⭐️)</span>
@@ -111,6 +132,11 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.5K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## earthly/earthly <span style='color:#F1C40F'>(8.9K ⭐️)</span>
@@ -263,17 +289,6 @@
 - [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
 
 
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
 ## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(143 ⭐️)</span>
 
 - [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
@@ -284,11 +299,6 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.5K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -302,6 +312,8 @@
 
 
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(243 ⭐️)</span>
+
+- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
 
 - [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
 
@@ -320,9 +332,4 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## cortexproject/cortex <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [setting -distributor.ingestion-tenant-shard-size to 0 throws error](https://github.com/cortexproject/cortex/issues/5189)
 
