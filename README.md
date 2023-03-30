@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 09:33 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 09:43 UTC.</div>
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -94,6 +94,15 @@
 - [[Good First Issues]: New Source Connector Request: Facebook Page ](https://github.com/vanus-labs/vanus-connect/issues/262)
 
 - [🎯 New Source Connector Request: Twitter](https://github.com/vanus-labs/vanus-connect/issues/251)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(512 ⭐️)</span>
+
+- [bug: Cached response when switching kubectl context](https://github.com/k8sgpt-ai/k8sgpt/issues/150)
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 
 ## envoyproxy/gateway <span style='color:#F1C40F'>(920 ⭐️)</span>
@@ -285,6 +294,11 @@
 - [`--version` always returns `main`](https://github.com/massalabs/thyra/issues/507)
 
 
+## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
+
+
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(163 ⭐️)</span>
 
 - [Explore enforcing conventional commits](https://github.com/celestiaorg/celestia-app/issues/1539)
@@ -317,23 +331,4 @@
 ## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
-
-
-## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
-
-- [Support for MongoDB](https://github.com/secret-telegram/chat/issues/55)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
