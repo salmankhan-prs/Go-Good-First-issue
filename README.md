@@ -4,7 +4,32 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 02:13 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 02:23 UTC.</div>
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
+
+- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
+
+- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
+
+- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
+
+- [[QUESTION]没有卸载面板的脚本](https://github.com/1Panel-dev/1Panel/issues/330)
+
+- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
+
+- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
+
+- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
+
+- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
+
+- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
+
+- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -51,6 +76,17 @@
 ## kubernetes-sigs/kind <span style='color:#F1C40F'>(11.3K ⭐️)</span>
 
 - [The default CIDRs for serviceSubnet and podSubnet should be documented.](https://github.com/kubernetes-sigs/kind/issues/3117)
+
+
+## solo-io/gloo <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
+
+- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
+
+- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
+
+- [[gloo-fed] Support kubeconfig with exec command](https://github.com/solo-io/gloo/issues/7912)
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -287,165 +323,4 @@
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
-
-
-## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
-
-- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
-
-
-## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
-
-- [tempodb integer divide by zero error](https://github.com/grafana/tempo/issues/2167)
-
-- [Evaluate `status.code` as virtual tag](https://github.com/grafana/tempo/issues/2155)
-
-
-## chainloop-dev/chainloop <span style='color:#F1C40F'>(142 ⭐️)</span>
-
-- [Handle AWS secret manager empty response ](https://github.com/chainloop-dev/chainloop/issues/56)
-
-- [Extract attestation grpc service to another proto file](https://github.com/chainloop-dev/chainloop/issues/36)
-
-- [CLI: improve UX on attestation downloading](https://github.com/chainloop-dev/chainloop/issues/31)
-
-- [Populate releases footer information](https://github.com/chainloop-dev/chainloop/issues/30)
-
-- [Document authentication config in control plane](https://github.com/chainloop-dev/chainloop/issues/23)
-
-- [Improve CLI feedback on configuration change](https://github.com/chainloop-dev/chainloop/issues/14)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
-## cosmos/relayer <span style='color:#F1C40F'>(290 ⭐️)</span>
-
-- [add src and dst channel identifiers to send msg logs](https://github.com/cosmos/relayer/issues/1148)
-
-- [Read in hermes config.toml and output relayer config.yaml](https://github.com/cosmos/relayer/issues/1133)
-
-- [feat: add the ability to pull testnet data from the chain registry](https://github.com/cosmos/relayer/issues/1128)
-
-- [look into http response and provide more understandable logs when a node is inaccessible](https://github.com/cosmos/relayer/issues/1136)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
-
-- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
-
-- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
-
-
-## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[test]: add unit tests for octokit module](https://github.com/keploy/keploy/issues/354)
-
-- [[feature]: Update Keploy UI with latest server APIs ](https://github.com/keploy/keploy/issues/335)
-
-- [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
-
-- [[feature]: Shortlist ideas to generate testcases using api schema and response provided](https://github.com/keploy/keploy/issues/338)
-
-- [[feature]: beautify response diff viewer on CLI   ](https://github.com/keploy/keploy/issues/334)
-
-- [[feature]:  Create a sample application and add go-fuzzing to it.](https://github.com/keploy/keploy/issues/413)
-
-- [[bug]: cp cmd in build script not working for windows](https://github.com/keploy/keploy/issues/372)
-
-- [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
-
-- [[feat]: Increase test coverage of Keploy Server using Keploy](https://github.com/keploy/keploy/issues/333)
-
-- [[feature]: Add/Increase Test coverage for JAVA-SDK by adding unit tests  ](https://github.com/keploy/keploy/issues/348)
-
-- [[feature]: Add support for Get TC to display test-cases from yaml	](https://github.com/keploy/keploy/issues/337)
-
-- [[feature]: Creating Sample Java Application using JWT Token](https://github.com/keploy/keploy/issues/424)
-
-
-## grafana-operator/grafana-operator <span style='color:#F1C40F'>(550 ⭐️)</span>
-
-- [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
-
-
-## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [UI - ToolBar - upgrade button](https://github.com/komodorio/helm-dashboard/issues/264)
-
-- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
-
-- [UI - General - Install Modal](https://github.com/komodorio/helm-dashboard/issues/259)
-
-- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
-
-- [UI - General - Uninstall modal](https://github.com/komodorio/helm-dashboard/issues/257)
-
-- [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
-
-- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
-
-- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
-
-
-## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(143 ⭐️)</span>
-
-- [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
-
-
-## vmware-tanzu/pinniped <span style='color:#F1C40F'>(400 ⭐️)</span>
-
-- [Change path to `pinniped` CLI binary in kubeconfig files generated by `pinniped get kubeconfig`](https://github.com/vmware-tanzu/pinniped/issues/1451)
-
-- [`pinniped get kubeconfig` should check if Supervisor supports `username` and `groups` scopes](https://github.com/vmware-tanzu/pinniped/issues/1450)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
-
-
-## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(243 ⭐️)</span>
-
-- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
-
-- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
-
-- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
