@@ -4,20 +4,21 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 20:03 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 20:13 UTC.</div>
 
 
-## SiaFoundation/hostd <span style='color:#F1C40F'>(1 ⭐️)</span>
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
 
-- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
-- [Integrated DynDNS](https://github.com/SiaFoundation/hostd/issues/17)
 
-- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
 
-- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
 
-- [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -31,6 +32,56 @@
 - [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
+
+
+## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
+
+- [Delta - Scroll for Horizontal and Vertical Pan](https://github.com/synnaxlabs/synnax/issues/247)
+
+- [Pluto - Fix Artifacting on Multiple Select Input](https://github.com/synnaxlabs/synnax/issues/245)
+
+- [Pluto - Resize - Allow Drag Out from Collapsed State](https://github.com/synnaxlabs/synnax/issues/249)
+
+- [Client - TS - GC and Move Utilities to X](https://github.com/synnaxlabs/synnax/issues/254)
+
+- [X - Large Key-Value Store](https://github.com/synnaxlabs/synnax/issues/240)
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
+
+
+## gnolang/gno <span style='color:#F1C40F'>(712 ⭐️)</span>
+
+- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+- [Incorrect Error Message: Invalid Deposit Event -> Invalid System Config Update Event](https://github.com/ethereum-optimism/optimism/issues/5272)
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+
+## SiaFoundation/hostd <span style='color:#F1C40F'>(1 ⭐️)</span>
+
+- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
+
+- [Integrated DynDNS](https://github.com/SiaFoundation/hostd/issues/17)
+
+- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
+
+- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
+
+- [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
@@ -145,11 +196,6 @@
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
 ## minekube/gate <span style='color:#F1C40F'>(291 ⭐️)</span>
 
 - [Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
@@ -188,6 +234,8 @@
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(163 ⭐️)</span>
+
+- [Consider introducing a type alias for `NamespaceVersion`](https://github.com/celestiaorg/celestia-app/issues/1574)
 
 - [Explore enforcing conventional commits](https://github.com/celestiaorg/celestia-app/issues/1539)
 
@@ -242,11 +290,6 @@
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
 
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
@@ -281,111 +324,4 @@
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
 
 - [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
-
-
-## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
-
-- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(15.9K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
-
-
-## polarsignals/frostdb <span style='color:#F1C40F'>(976 ⭐️)</span>
-
-- [Fix Release() arrow callbacks](https://github.com/polarsignals/frostdb/issues/403)
-
-
-## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(143 ⭐️)</span>
-
-- [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
-
-
-## gnolang/gno <span style='color:#F1C40F'>(712 ⭐️)</span>
-
-- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
-
-- [feature: short video (no audio needed) that walks through the steps of the quickstart](https://github.com/kcp-dev/edge-mc/issues/208)
-
-- [Need a quickstart for our docs site to welcome our visitors](https://github.com/kcp-dev/edge-mc/issues/207)
-
-- [feature: Create behavioral unit tests for mailbox controller](https://github.com/kcp-dev/edge-mc/issues/218)
-
-- [feature: new make target for deploying and configuring kcp and kcp-edge components](https://github.com/kcp-dev/edge-mc/issues/212)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
-
-
-## googleforgames/agones <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [Add a helm flag to force Agones system components onto dedicated nodes](https://github.com/googleforgames/agones/issues/3009)
-
-
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [`turso db inspect` should show more than just space](https://github.com/chiselstrike/turso-cli/issues/303)
-
-- [Add `turso tutorial` command and call it from Homebrew postinstall](https://github.com/chiselstrike/turso-cli/issues/300)
-
-- [Destroying instances is cumbersome](https://github.com/chiselstrike/turso-cli/issues/283)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
-
-- [center align appendix lines](https://github.com/terrastruct/d2/issues/1104)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-- [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
-
-
-## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
-
-- [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Destroy message has an empty quote if the environment doesn't have a name](https://github.com/okteto/okteto/issues/3487)
-
-- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
-
-- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
-
-- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
-
-
-## cortexproject/cortex <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [setting -distributor.ingestion-tenant-shard-size to 0 throws error](https://github.com/cortexproject/cortex/issues/5189)
 
