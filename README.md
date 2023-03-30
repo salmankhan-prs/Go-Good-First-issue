@@ -4,12 +4,30 @@
 
 
 
-<div align='center'>Last updated at March 30, 2023 17:43 UTC.</div>
+<div align='center'>Last updated at March 30, 2023 17:53 UTC.</div>
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+## kairos-io/kairos <span style='color:#F1C40F'>(427 ⭐️)</span>
 
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
+
+- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(550 ⭐️)</span>
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(761 ⭐️)</span>
+
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
+
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Add ability to parse identifier strings for PURLs](https://github.com/guacsec/guac/issues/590)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -23,6 +41,27 @@
 - [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+
+- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(263 ⭐️)</span>
@@ -61,13 +100,6 @@
 ## polarsignals/frostdb <span style='color:#F1C40F'>(976 ⭐️)</span>
 
 - [Fix Release() arrow callbacks](https://github.com/polarsignals/frostdb/issues/403)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(427 ⭐️)</span>
-
-- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
-
-- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -120,6 +152,15 @@
 ## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.2K ⭐️)</span>
 
 - [Add example repo in Java to README](https://github.com/grpc-ecosystem/grpc-gateway/issues/3262)
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [`turso db inspect` should show more than just space](https://github.com/chiselstrike/turso-cli/issues/303)
+
+- [Add `turso tutorial` command and call it from Homebrew postinstall](https://github.com/chiselstrike/turso-cli/issues/300)
+
+- [Destroying instances is cumbersome](https://github.com/chiselstrike/turso-cli/issues/283)
 
 
 ## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -280,17 +321,6 @@
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
-## guacsec/guac <span style='color:#F1C40F'>(761 ⭐️)</span>
-
-- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
-
-- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
-
-- [Add ability to parse identifier strings for PURLs](https://github.com/guacsec/guac/issues/590)
-
-- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
-
-
 ## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
 
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
@@ -310,11 +340,4 @@
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
