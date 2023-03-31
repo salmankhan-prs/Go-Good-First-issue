@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 03:53 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 04:03 UTC.</div>
+
+
+## techygrrrl/timerrr <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [Support TTS on Windows](https://github.com/techygrrrl/timerrr/issues/3)
+
+- [Support TTS on Linux with espeak](https://github.com/techygrrrl/timerrr/issues/1)
+
+- [Support TTS on Linux with mimic3](https://github.com/techygrrrl/timerrr/issues/2)
 
 
 ## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.2K ⭐️)</span>
