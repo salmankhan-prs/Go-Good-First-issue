@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 23:43 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 23:53 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
 ## integrations/terraform-provider-github <span style='color:#F1C40F'>(669 ⭐️)</span>
@@ -12,11 +26,31 @@
 - [[BUG]: Validation error in `github_team_membership` when using team slug](https://github.com/integrations/terraform-provider-github/issues/1583)
 
 
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(243 ⭐️)</span>
+
+- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
+
+- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
+
+- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
+
+
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(554 ⭐️)</span>
 
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
 
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [center align appendix lines](https://github.com/terrastruct/d2/issues/1104)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -35,15 +69,6 @@
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(713 ⭐️)</span>
 
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -69,11 +94,6 @@
 - [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
 
 - [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -160,17 +180,6 @@
 - [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
 
 - [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [center align appendix lines](https://github.com/terrastruct/d2/issues/1104)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(821 ⭐️)</span>
@@ -333,15 +342,6 @@
 - [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
 
 
-## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(243 ⭐️)</span>
-
-- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
-
-- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
-
-- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
-
-
 ## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Include inbound and outbound edges when automatically activating rank in the graph](https://github.com/kiali/kiali/issues/5915)
@@ -428,11 +428,4 @@
 ## superfly/flyctl <span style='color:#F1C40F'>(954 ⭐️)</span>
 
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
