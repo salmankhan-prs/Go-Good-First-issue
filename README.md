@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 22:03 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 22:13 UTC.</div>
 
 
 ## NibiruChain/nibiru <span style='color:#F1C40F'>(58 ⭐️)</span>
@@ -92,7 +92,7 @@
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(819 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(821 ⭐️)</span>
 
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
@@ -344,15 +344,4 @@
 ## kubernetes-sigs/kind <span style='color:#F1C40F'>(11.3K ⭐️)</span>
 
 - [The default CIDRs for serviceSubnet and podSubnet should be documented.](https://github.com/kubernetes-sigs/kind/issues/3117)
-
-
-## dapr/components-contrib <span style='color:#F1C40F'>(438 ⭐️)</span>
-
-- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
-
-- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
-
-- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
-
-- [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
 
