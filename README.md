@@ -4,12 +4,55 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 15:23 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 15:33 UTC.</div>
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(763 ⭐️)</span>
+
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
+
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+
+
+## kyma-project/cli <span style='color:#F1C40F'>(64 ⭐️)</span>
+
+- [The verbose mode should not print out unrelavent infromation](https://github.com/kyma-project/cli/issues/1607)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(468 ⭐️)</span>
@@ -124,16 +167,6 @@
 - [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
 ## chainloop-dev/chainloop <span style='color:#F1C40F'>(144 ⭐️)</span>
 
 - [Handle AWS secret manager empty response ](https://github.com/chainloop-dev/chainloop/issues/56)
@@ -168,7 +201,7 @@
 - [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(785 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(786 ⭐️)</span>
 
 - [feature: analyzer for Pod Disruption Budget](https://github.com/k8sgpt-ai/k8sgpt/issues/163)
 
@@ -179,13 +212,6 @@
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## onflow/cadence <span style='color:#F1C40F'>(461 ⭐️)</span>
@@ -316,36 +342,4 @@
 - [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
 
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
-## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
-
-- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
-
-
-## zitadel/zitadel <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [Use displayname instead of first and lastname](https://github.com/zitadel/zitadel/issues/5344)
-
-
-## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
-
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
-
-- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
-
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
