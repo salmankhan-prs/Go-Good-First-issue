@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 10:03 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 10:13 UTC.</div>
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
 
 
 ## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
@@ -132,12 +137,9 @@
 - [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
 
 
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(740 ⭐️)</span>
 
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(737 ⭐️)</span>
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
 - [feature: default filters vs opt-in](https://github.com/k8sgpt-ai/k8sgpt/issues/158)
 
@@ -337,9 +339,4 @@
 ## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
 
 - [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
 
