@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 05:53 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 06:03 UTC.</div>
 
 
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
@@ -22,6 +22,13 @@
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 - [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -71,6 +78,11 @@
 - [feat(oracle): create an exponential moving average of index prices](https://github.com/NibiruChain/nibiru/issues/1235)
 
 - [feat(vpool): add peg multiplier to vpool](https://github.com/NibiruChain/nibiru/issues/1232)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -311,11 +323,6 @@
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
 
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
