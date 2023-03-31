@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 01:13 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 01:23 UTC.</div>
 
 
 ## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
@@ -23,6 +23,21 @@
 - [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
 
 - [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [increase range for border-radius](https://github.com/terrastruct/d2/issues/948)
+
+- [center align appendix lines](https://github.com/terrastruct/d2/issues/1104)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+- [use 0-1 decimal value as percentages for border-radius](https://github.com/terrastruct/d2/issues/947)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -120,6 +135,19 @@
 - [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
 
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
+
+
+## Edgenesis/shifu <span style='color:#F1C40F'>(822 ⭐️)</span>
+
+- [The traffic light FSM implementation for deviceShifu](https://github.com/Edgenesis/shifu/issues/547)
+
+- [OPC UA node ID Browing feature on Shifu .Currently we are providing  NodeID' s Manually by going to the OPC UA server loc.  ](https://github.com/Edgenesis/shifu/issues/545)
+
+- [The simplest FSM implementation of deviceShifu](https://github.com/Edgenesis/shifu/issues/542)
+
+- [convert DeviceShifuBase data structure from single EdgeDevice to a list type of EdgeDevice](https://github.com/Edgenesis/shifu/issues/538)
+
+- [In swarm mode, deviceShifuBase supports multiple EdgeDevices](https://github.com/Edgenesis/shifu/issues/539)
 
 
 ## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(20 ⭐️)</span>
