@@ -4,17 +4,57 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 10:13 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 10:23 UTC.</div>
 
 
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(64 ⭐️)</span>
+
+- [Label metrics-controller instead of metrics-operator](https://github.com/keptn/lifecycle-toolkit/issues/1106)
+
+- [Research new base container images](https://github.com/keptn/lifecycle-toolkit/issues/1094)
+
+- [Contrib: linters requirements](https://github.com/keptn/lifecycle-toolkit/issues/999)
+
+- [Contributing: Building docs locally](https://github.com/keptn/lifecycle-toolkit/issues/996)
+
+- [Update all the SLI providers to make use of the timeframe value](https://github.com/keptn/lifecycle-toolkit/issues/1012)
+
+- [KLT architecture diagram](https://github.com/keptn/lifecycle-toolkit/issues/1034)
+
+- [Contrib: Working with github](https://github.com/keptn/lifecycle-toolkit/issues/997)
+
+- [Contributing: general guidelines](https://github.com/keptn/lifecycle-toolkit/issues/995)
+
+- [Contrib: doc source structure](https://github.com/keptn/lifecycle-toolkit/issues/998)
+
+- [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
 
 
 ## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
 
 - [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(265 ⭐️)</span>
@@ -137,7 +177,7 @@
 - [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(740 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(742 ⭐️)</span>
 
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
@@ -224,18 +264,6 @@
 - [Improve building with test coverage information](https://github.com/FerretDB/FerretDB/issues/2102)
 
 
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
 ## kairos-io/kairos <span style='color:#F1C40F'>(427 ⭐️)</span>
 
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
@@ -297,46 +325,4 @@
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
-
-
-## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(64 ⭐️)</span>
-
-- [Label metrics-controller instead of metrics-operator](https://github.com/keptn/lifecycle-toolkit/issues/1106)
-
-- [Research new base container images](https://github.com/keptn/lifecycle-toolkit/issues/1094)
-
-- [Contrib: linters requirements](https://github.com/keptn/lifecycle-toolkit/issues/999)
-
-- [Contributing: Building docs locally](https://github.com/keptn/lifecycle-toolkit/issues/996)
-
-- [Update all the SLI providers to make use of the timeframe value](https://github.com/keptn/lifecycle-toolkit/issues/1012)
-
-- [KLT architecture diagram](https://github.com/keptn/lifecycle-toolkit/issues/1034)
-
-- [Contrib: Working with github](https://github.com/keptn/lifecycle-toolkit/issues/997)
-
-- [Contributing: general guidelines](https://github.com/keptn/lifecycle-toolkit/issues/995)
-
-- [Contrib: doc source structure](https://github.com/keptn/lifecycle-toolkit/issues/998)
-
-- [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## kyma-project/lifecycle-manager <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Limited channels availability per Kyma instance](https://github.com/kyma-project/lifecycle-manager/issues/455)
-
-- [Kyma Alpha Create Module fails for Docker Hub as Container Registry](https://github.com/kyma-project/lifecycle-manager/issues/439)
-
-- [Add issue template to Lifecycle Manager repo](https://github.com/kyma-project/lifecycle-manager/issues/497)
-
-
-## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
 
