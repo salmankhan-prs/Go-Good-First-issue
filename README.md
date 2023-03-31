@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 02:13 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 02:23 UTC.</div>
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -32,6 +39,11 @@
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
@@ -104,11 +116,6 @@
 - [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## onflow/cadence <span style='color:#F1C40F'>(461 ⭐️)</span>
@@ -288,20 +295,13 @@
 - [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(687 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(689 ⭐️)</span>
 
 - [feature: default filters vs opt-in](https://github.com/k8sgpt-ai/k8sgpt/issues/158)
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
