@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 00:43 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 00:53 UTC.</div>
 
 
 ## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
@@ -108,6 +108,11 @@
 - [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
 
 
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
@@ -177,11 +182,6 @@
 - [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
 
 - [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(265 ⭐️)</span>
