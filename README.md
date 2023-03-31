@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 01:03 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 01:13 UTC.</div>
+
+
+## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
+
+- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(1 ⭐️)</span>
@@ -27,11 +32,6 @@
 - [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
 
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-
-## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(551 ⭐️)</span>
@@ -215,7 +215,7 @@
 - [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(678 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(679 ⭐️)</span>
 
 - [feature: default filters vs opt-in](https://github.com/k8sgpt-ai/k8sgpt/issues/158)
 
