@@ -4,12 +4,17 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 08:23 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 08:33 UTC.</div>
 
 
 ## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [提供专用sug接口提供给编辑服务治理规则场景使用，不要查询全量服务信息](https://github.com/polarismesh/polaris/issues/979)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -39,7 +44,7 @@
 - [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(726 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(727 ⭐️)</span>
 
 - [feature: default filters vs opt-in](https://github.com/k8sgpt-ai/k8sgpt/issues/158)
 
@@ -103,6 +108,34 @@
 - [Contrib: doc source structure](https://github.com/keptn/lifecycle-toolkit/issues/998)
 
 - [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
+
+
+## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(64 ⭐️)</span>
+
+- [Label metrics-controller instead of metrics-operator](https://github.com/keptn/lifecycle-toolkit/issues/1106)
+
+- [Research new base container images](https://github.com/keptn/lifecycle-toolkit/issues/1094)
+
+- [Contrib: linters requirements](https://github.com/keptn/lifecycle-toolkit/issues/999)
+
+- [Contributing: Building docs locally](https://github.com/keptn/lifecycle-toolkit/issues/996)
+
+- [Update all the SLI providers to make use of the timeframe value](https://github.com/keptn/lifecycle-toolkit/issues/1012)
+
+- [KLT architecture diagram](https://github.com/keptn/lifecycle-toolkit/issues/1034)
+
+- [Contrib: Working with github](https://github.com/keptn/lifecycle-toolkit/issues/997)
+
+- [Contributing: general guidelines](https://github.com/keptn/lifecycle-toolkit/issues/995)
+
+- [Contrib: doc source structure](https://github.com/keptn/lifecycle-toolkit/issues/998)
+
+- [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -199,11 +232,6 @@
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
@@ -242,6 +270,15 @@
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
 
 - [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
+
+
+## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
+
+- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
+
+- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
+
+- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
 
 
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -304,48 +341,12 @@
 - [The verbose mode should not print out unrelavent infromation](https://github.com/kyma-project/cli/issues/1607)
 
 
+## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
+
+- [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
+
+
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
 
 - [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
-
-
-## kubernetes-sigs/kind <span style='color:#F1C40F'>(11.3K ⭐️)</span>
-
-- [The default CIDRs for serviceSubnet and podSubnet should be documented.](https://github.com/kubernetes-sigs/kind/issues/3117)
-
-
-## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
-
-- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
-
-- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
-
-
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(343 ⭐️)</span>
-
-- [Add EKS security rule: EKS clusters should have encryption of K8s secrets enabled.](https://github.com/Zeus-Labs/ZeusCloud/issues/128)
-
-- [Add EKS security rule: EKS control plane logging should be enabled for all log types](https://github.com/Zeus-Labs/ZeusCloud/issues/125)
-
-- [Add EKS Security Rule: Public access to EKS cluster endpoint should be disabled](https://github.com/Zeus-Labs/ZeusCloud/issues/124)
-
-- [Add ECS Security Rule: ECS container environment variables should not have secrets](https://github.com/Zeus-Labs/ZeusCloud/issues/123)
-
-- [Add ECS Security Rule: ECS Container Insights should be enabled](https://github.com/Zeus-Labs/ZeusCloud/issues/119)
-
-- [Set up a way to run ZeusCloud with hardcoded Neo4J data](https://github.com/Zeus-Labs/ZeusCloud/issues/120)
-
-
-## NibiruChain/nibiru <span style='color:#F1C40F'>(57 ⭐️)</span>
-
-- [feat(oracle): create an exponential moving average of index prices](https://github.com/NibiruChain/nibiru/issues/1235)
-
-- [feat(vpool): add peg multiplier to vpool](https://github.com/NibiruChain/nibiru/issues/1232)
 
