@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 01:43 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 01:53 UTC.</div>
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
 ## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
@@ -265,7 +270,7 @@
 - [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(683 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(685 ⭐️)</span>
 
 - [feature: default filters vs opt-in](https://github.com/k8sgpt-ai/k8sgpt/issues/158)
 
@@ -370,11 +375,6 @@
 - [Реакция при реплае на сообщение бота](https://github.com/Shabablinchikow/nafanya-bot/issues/3)
 
 
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
 - [Consumer prefetch](https://github.com/memphisdev/memphis/issues/766)
@@ -386,22 +386,4 @@
 - [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
-
-
-## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
-
-- [Delta - Scroll for Horizontal and Vertical Pan](https://github.com/synnaxlabs/synnax/issues/247)
-
-- [Pluto - Fix Artifacting on Multiple Select Input](https://github.com/synnaxlabs/synnax/issues/245)
-
-- [Pluto - Resize - Allow Drag Out from Collapsed State](https://github.com/synnaxlabs/synnax/issues/249)
-
-- [Client - TS - GC and Move Utilities to X](https://github.com/synnaxlabs/synnax/issues/254)
-
-- [X - Large Key-Value Store](https://github.com/synnaxlabs/synnax/issues/240)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
 
