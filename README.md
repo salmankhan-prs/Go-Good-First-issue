@@ -4,10 +4,42 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 08:13 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 08:23 UTC.</div>
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(724 ⭐️)</span>
+## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [提供专用sug接口提供给编辑服务治理规则场景使用，不要查询全量服务信息](https://github.com/polarismesh/polaris/issues/979)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+
+
+## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
+
+- [dendrite_up metric](https://github.com/matrix-org/dendrite/issues/2993)
+
+
+## kubeshop/testkube <span style='color:#F1C40F'>(729 ⭐️)</span>
+
+- [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(726 ⭐️)</span>
 
 - [feature: default filters vs opt-in](https://github.com/k8sgpt-ai/k8sgpt/issues/158)
 
@@ -135,6 +167,11 @@
 - [Add issue template to Lifecycle Manager repo](https://github.com/kyma-project/lifecycle-manager/issues/497)
 
 
+## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
+
+
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
 - [Add coveralls.io integration](https://github.com/FerretDB/FerretDB/issues/2106)
@@ -160,11 +197,6 @@
 - [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -210,11 +242,6 @@
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
 
 - [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
-
-
-## kubeshop/testkube <span style='color:#F1C40F'>(729 ⭐️)</span>
-
-- [CLI: Deprecate -n for --name](https://github.com/kubeshop/testkube/issues/3306)
 
 
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -265,4 +292,60 @@
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [Add Warning header to all necessary components](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/19172)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(954 ⭐️)</span>
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## kyma-project/cli <span style='color:#F1C40F'>(64 ⭐️)</span>
+
+- [The verbose mode should not print out unrelavent infromation](https://github.com/kyma-project/cli/issues/1607)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
+
+- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
+
+
+## kubernetes-sigs/kind <span style='color:#F1C40F'>(11.3K ⭐️)</span>
+
+- [The default CIDRs for serviceSubnet and podSubnet should be documented.](https://github.com/kubernetes-sigs/kind/issues/3117)
+
+
+## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
+
+- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
+
+- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+
+
+## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(343 ⭐️)</span>
+
+- [Add EKS security rule: EKS clusters should have encryption of K8s secrets enabled.](https://github.com/Zeus-Labs/ZeusCloud/issues/128)
+
+- [Add EKS security rule: EKS control plane logging should be enabled for all log types](https://github.com/Zeus-Labs/ZeusCloud/issues/125)
+
+- [Add EKS Security Rule: Public access to EKS cluster endpoint should be disabled](https://github.com/Zeus-Labs/ZeusCloud/issues/124)
+
+- [Add ECS Security Rule: ECS container environment variables should not have secrets](https://github.com/Zeus-Labs/ZeusCloud/issues/123)
+
+- [Add ECS Security Rule: ECS Container Insights should be enabled](https://github.com/Zeus-Labs/ZeusCloud/issues/119)
+
+- [Set up a way to run ZeusCloud with hardcoded Neo4J data](https://github.com/Zeus-Labs/ZeusCloud/issues/120)
+
+
+## NibiruChain/nibiru <span style='color:#F1C40F'>(57 ⭐️)</span>
+
+- [feat(oracle): create an exponential moving average of index prices](https://github.com/NibiruChain/nibiru/issues/1235)
+
+- [feat(vpool): add peg multiplier to vpool](https://github.com/NibiruChain/nibiru/issues/1232)
 
