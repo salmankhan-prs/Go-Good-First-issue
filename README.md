@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 23:13 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 23:23 UTC.</div>
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -57,6 +57,8 @@
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
 
 - [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
 
@@ -315,9 +317,4 @@
 ## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Include inbound and outbound edges when automatically activating rank in the graph](https://github.com/kiali/kiali/issues/5915)
-
-
-## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
 
