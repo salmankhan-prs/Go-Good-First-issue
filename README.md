@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 22:53 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 23:03 UTC.</div>
+
+
+## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
+
+- [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -94,15 +101,6 @@
 ## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
 
 - [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
-
-
-## replicatedhq/troubleshoot <span style='color:#F1C40F'>(423 ⭐️)</span>
-
-- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
-
-- [Allow using kubernetes.io/tls when configuring DB collector TLS secrets](https://github.com/replicatedhq/troubleshoot/issues/1047)
-
-- [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -331,17 +329,4 @@
 - [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
 
 - [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(21 ⭐️)</span>
-
-- [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
-
-- [feature: short video (no audio needed) that walks through the steps of the quickstart](https://github.com/kcp-dev/edge-mc/issues/208)
-
-- [Need a quickstart for our docs site to welcome our visitors](https://github.com/kcp-dev/edge-mc/issues/207)
-
-- [feature: Create behavioral unit tests for mailbox controller](https://github.com/kcp-dev/edge-mc/issues/218)
-
-- [feature: new make target for deploying and configuring kcp and kcp-edge components](https://github.com/kcp-dev/edge-mc/issues/212)
 
