@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 22:23 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 22:33 UTC.</div>
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -74,6 +74,11 @@
 - [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
 
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+
+## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
+
+- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
 ## replicatedhq/troubleshoot <span style='color:#F1C40F'>(423 ⭐️)</span>
@@ -346,9 +351,4 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## kubernetes-sigs/kind <span style='color:#F1C40F'>(11.3K ⭐️)</span>
-
-- [The default CIDRs for serviceSubnet and podSubnet should be documented.](https://github.com/kubernetes-sigs/kind/issues/3117)
 
