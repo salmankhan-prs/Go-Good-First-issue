@@ -4,7 +4,54 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 14:03 UTC.</div>
+<div align='center'>Last updated at March 31, 2023 14:13 UTC.</div>
+
+
+## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
+
+
+## Shabablinchikow/nafanya-bot <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [Агрессивный режим](https://github.com/Shabablinchikow/nafanya-bot/issues/5)
+
+- [Настройка частоты рандомных ответов](https://github.com/Shabablinchikow/nafanya-bot/issues/4)
+
+- [Реакция при реплае на сообщение бота](https://github.com/Shabablinchikow/nafanya-bot/issues/3)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(772 ⭐️)</span>
+
+- [feature: analyzer for Horizontal Pod Autoscaler](https://github.com/k8sgpt-ai/k8sgpt/issues/162)
+
+- [feature: analyzer for Pod Disruption Budget](https://github.com/k8sgpt-ai/k8sgpt/issues/163)
+
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
+
+
+## dominant-strategies/go-quai <span style='color:#F1C40F'>(152 ⭐️)</span>
+
+- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(954 ⭐️)</span>
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -33,11 +80,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
 
 
 ## weaviate/weaviate-go-client <span style='color:#F1C40F'>(10 ⭐️)</span>
@@ -83,21 +125,6 @@
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(769 ⭐️)</span>
-
-- [feature: analyzer for Horizontal Pod Autoscaler](https://github.com/k8sgpt-ai/k8sgpt/issues/162)
-
-- [feature: analyzer for Pod Disruption Budget](https://github.com/k8sgpt-ai/k8sgpt/issues/163)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-- [feature: default filters vs opt-in](https://github.com/k8sgpt-ai/k8sgpt/issues/158)
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-
 ## golang-app/ecommerce <span style='color:#F1C40F'>(2 ⭐️)</span>
 
 - [When I click on the cart icon, I should see summary of the cart](https://github.com/golang-app/ecommerce/issues/33)
@@ -109,6 +136,15 @@
 - [Add grafana dashboard with go runtime metrics](https://github.com/golang-app/ecommerce/issues/23)
 
 - [Add codespaces ](https://github.com/golang-app/ecommerce/issues/20)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
+
+- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
+
+- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
 
 ## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -168,11 +204,6 @@
 - [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
 
 - [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
-
-
-## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
@@ -275,4 +306,55 @@
 - [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
 
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+
+## wttech/aemc <span style='color:#F1C40F'>(1 ⭐️)</span>
+
+- [Node import command](https://github.com/wttech/aemc/issues/105)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## openshift-kni/numaresources-operator <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [dedupe the internal/wait package](https://github.com/openshift-kni/numaresources-operator/issues/530)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+- [[Enhancement]: Deduplicate mock files](https://github.com/milvus-io/milvus/issues/22562)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(266 ⭐️)</span>
+
+- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
+
+- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [Set tokens to read-only](https://github.com/kyverno/kyverno/issues/6483)
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [Enable signed release tracking](https://github.com/kyverno/kyverno/issues/6482)
+
+- [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
+
+- [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
 
