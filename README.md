@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 00:13 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 00:23 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -30,11 +35,6 @@
 ## integrations/terraform-provider-github <span style='color:#F1C40F'>(669 ⭐️)</span>
 
 - [[BUG]: Validation error in `github_team_membership` when using team slug](https://github.com/integrations/terraform-provider-github/issues/1583)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
