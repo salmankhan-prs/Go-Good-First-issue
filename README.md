@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 05:13 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 05:23 UTC.</div>
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
@@ -322,7 +322,7 @@
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(833 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(834 ⭐️)</span>
 
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
