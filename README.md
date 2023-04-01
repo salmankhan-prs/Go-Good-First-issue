@@ -4,12 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 11:03 UTC.</div>
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.0K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+<div align='center'>Last updated at April 1, 2023 11:13 UTC.</div>
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -17,6 +12,11 @@
 - [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
 
 - [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.0K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## Frontman-Labs/frontman <span style='color:#F1C40F'>(96 ⭐️)</span>
