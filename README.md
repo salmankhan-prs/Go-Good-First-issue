@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 05:53 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 06:03 UTC.</div>
 
 
 ## openreserveio/dwn <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -239,6 +239,11 @@
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
@@ -322,7 +327,7 @@
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(835 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(836 ⭐️)</span>
 
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
@@ -348,9 +353,4 @@
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
 
 - [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
-## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.2K ⭐️)</span>
-
-- [Add example repo in Java to README](https://github.com/grpc-ecosystem/grpc-gateway/issues/3262)
 
