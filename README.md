@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at March 31, 2023 23:53 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 00:03 UTC.</div>
+
+
+## SiaFoundation/hostd <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
+
+- [Integrated DynDNS](https://github.com/SiaFoundation/hostd/issues/17)
+
+- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
+
+- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
+
+- [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
+
+
+## integrations/terraform-provider-github <span style='color:#F1C40F'>(669 ⭐️)</span>
+
+- [[BUG]: Validation error in `github_team_membership` when using team slug](https://github.com/integrations/terraform-provider-github/issues/1583)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -19,11 +37,6 @@
 - [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
 
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
-## integrations/terraform-provider-github <span style='color:#F1C40F'>(669 ⭐️)</span>
-
-- [[BUG]: Validation error in `github_team_membership` when using team slug](https://github.com/integrations/terraform-provider-github/issues/1583)
 
 
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(243 ⭐️)</span>
@@ -51,19 +64,6 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-
-## SiaFoundation/hostd <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
-
-- [Integrated DynDNS](https://github.com/SiaFoundation/hostd/issues/17)
-
-- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
-
-- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
-
-- [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(713 ⭐️)</span>
@@ -109,8 +109,6 @@
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Incorrect Error Message: Invalid Deposit Event -> Invalid System Config Update Event](https://github.com/ethereum-optimism/optimism/issues/5272)
 
 - [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
@@ -182,7 +180,7 @@
 - [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(821 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(822 ⭐️)</span>
 
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
@@ -423,9 +421,4 @@
 ## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(954 ⭐️)</span>
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
