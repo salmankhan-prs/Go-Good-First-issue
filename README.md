@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 15:33 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 15:43 UTC.</div>
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+
+
+## synnaxlabs/synnax <span style='color:#F1C40F'>(6 ⭐️)</span>
+
+- [Delta - Scroll for Horizontal and Vertical Pan](https://github.com/synnaxlabs/synnax/issues/247)
+
+- [Pluto - Fix Artifacting on Multiple Select Input](https://github.com/synnaxlabs/synnax/issues/245)
+
+- [Pluto - Resize - Allow Drag Out from Collapsed State](https://github.com/synnaxlabs/synnax/issues/249)
+
+- [Client - TS - GC and Move Utilities to X](https://github.com/synnaxlabs/synnax/issues/254)
+
+- [X - Large Key-Value Store](https://github.com/synnaxlabs/synnax/issues/240)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(859 ⭐️)</span>
@@ -65,11 +83,6 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
@@ -278,6 +291,8 @@
 
 ## openreserveio/dwn <span style='color:#F1C40F'>(2 ⭐️)</span>
 
+- [Add Helm Charts to Deployment for DWN](https://github.com/openreserveio/dwn/issues/87)
+
 - [Spec Updates to Message Structure](https://github.com/openreserveio/dwn/issues/84)
 
 - [Support ProtocolsConfigure](https://github.com/openreserveio/dwn/issues/79)
@@ -292,15 +307,4 @@
 - [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
 
 - [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [center align appendix lines](https://github.com/terrastruct/d2/issues/1104)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
