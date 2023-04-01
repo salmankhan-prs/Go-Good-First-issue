@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 10:33 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 10:43 UTC.</div>
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.0K ⭐️)</span>
@@ -51,6 +51,11 @@
 - [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
 
 
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
@@ -67,11 +72,11 @@
 
 ## omissis/hyperbuild <span style='color:#F1C40F'>(4 ⭐️)</span>
 
-- [Introduce renovate](https://github.com/omissis/hyperbuild/issues/3)
+- [Introduce goreleaser](https://github.com/omissis/hyperbuild/issues/4)
 
 - [Introduce github actions](https://github.com/omissis/hyperbuild/issues/5)
 
-- [Introduce goreleaser](https://github.com/omissis/hyperbuild/issues/4)
+- [Introduce renovate](https://github.com/omissis/hyperbuild/issues/3)
 
 - [Introduce codecov](https://github.com/omissis/hyperbuild/issues/2)
 
@@ -254,11 +259,6 @@
 - [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
 
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(2 ⭐️)</span>
