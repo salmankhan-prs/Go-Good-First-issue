@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 07:53 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 08:03 UTC.</div>
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.0K ⭐️)</span>
@@ -28,6 +28,31 @@
 ## grafana-operator/grafana-operator <span style='color:#F1C40F'>(551 ⭐️)</span>
 
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
+
+
+## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/352)
+
+- [Convert Array tests to table-driven style](https://github.com/gavv/httpexpect/issues/351)
+
+- [Convert Duration tests to table-driven style](https://github.com/gavv/httpexpect/issues/355)
+
+- [Convert DateTime tests to table-driven style](https://github.com/gavv/httpexpect/issues/354)
+
+- [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
+
+- [Refactor Websocket tests](https://github.com/gavv/httpexpect/issues/357)
+
+- [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
+
+- [Convert WebsocketMessage tests to table-driven style](https://github.com/gavv/httpexpect/issues/356)
+
+- [Convert Value tests to table-driven style](https://github.com/gavv/httpexpect/issues/353)
+
+- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
+
+- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -336,22 +361,4 @@
 - [tempodb integer divide by zero error](https://github.com/grafana/tempo/issues/2167)
 
 - [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(839 ⭐️)</span>
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-- [feature: analyzer for Pod Disruption Budget](https://github.com/k8sgpt-ai/k8sgpt/issues/163)
-
-- [feature: analyzer for Horizontal Pod Autoscaler](https://github.com/k8sgpt-ai/k8sgpt/issues/162)
 
