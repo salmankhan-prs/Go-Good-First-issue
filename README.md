@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 02:13 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 02:23 UTC.</div>
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
@@ -173,6 +180,11 @@
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
 
 
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.0K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
 ## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
@@ -237,7 +249,7 @@
 - [tempodb integer divide by zero error](https://github.com/grafana/tempo/issues/2167)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(824 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(825 ⭐️)</span>
 
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
@@ -325,11 +337,6 @@
 ## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
 
 - [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.0K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
