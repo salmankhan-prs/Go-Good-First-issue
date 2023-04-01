@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 02:53 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 03:03 UTC.</div>
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
 ## horizoncd/horizon <span style='color:#F1C40F'>(162 ⭐️)</span>
@@ -92,13 +99,6 @@
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
-
-- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
 ## envoyproxy/gateway <span style='color:#F1C40F'>(926 ⭐️)</span>
