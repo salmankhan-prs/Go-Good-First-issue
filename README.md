@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 16:43 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 16:53 UTC.</div>
+
+
+## grafana-operator/grafana-operator <span style='color:#F1C40F'>(551 ⭐️)</span>
+
+- [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
+
+
+## kubearmor/KubeArmor <span style='color:#F1C40F'>(649 ⭐️)</span>
+
+- [Use registry client for updating stable release workflow](https://github.com/kubearmor/KubeArmor/issues/1169)
+
+
+## alexandrevilain/temporal-operator <span style='color:#F1C40F'>(49 ⭐️)</span>
+
+- [Automate build of Temporal worker process example and include in ghr](https://github.com/alexandrevilain/temporal-operator/issues/306)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -16,7 +31,7 @@
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(863 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(864 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -131,11 +146,6 @@
 - [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
 
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
-
-
-## alexandrevilain/temporal-operator <span style='color:#F1C40F'>(49 ⭐️)</span>
-
-- [Automate build of Temporal worker process example and include in ghr](https://github.com/alexandrevilain/temporal-operator/issues/306)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -279,11 +289,6 @@
 ## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(144 ⭐️)</span>
 
 - [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
-
-
-## grafana-operator/grafana-operator <span style='color:#F1C40F'>(551 ⭐️)</span>
-
-- [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
 
 ## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
