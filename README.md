@@ -4,7 +4,20 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 22:53 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 23:03 UTC.</div>
+
+
+## SiaFoundation/hostd <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
+
+- [Integrated DynDNS](https://github.com/SiaFoundation/hostd/issues/17)
+
+- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
+
+- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
+
+- [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
@@ -365,15 +378,4 @@
 - [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
 
 - [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(11.6K ⭐️)</span>
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [center align appendix lines](https://github.com/terrastruct/d2/issues/1104)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
