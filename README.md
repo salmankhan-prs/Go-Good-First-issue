@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 14:33 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 14:43 UTC.</div>
+
+
+## alexandrevilain/temporal-operator <span style='color:#F1C40F'>(49 ⭐️)</span>
+
+- [Automate build of Temporal worker process example and include in ghr](https://github.com/alexandrevilain/temporal-operator/issues/306)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(855 ⭐️)</span>
@@ -30,6 +35,15 @@
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
@@ -42,15 +56,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.0K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -198,6 +203,11 @@
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
@@ -245,11 +255,6 @@
 ## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
 
 - [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## openreserveio/dwn <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -361,19 +366,4 @@
 - [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
 
 - [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
-
-
-## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(345 ⭐️)</span>
-
-- [Add EKS security rule: EKS clusters should have encryption of K8s secrets enabled.](https://github.com/Zeus-Labs/ZeusCloud/issues/128)
-
-- [Add EKS security rule: EKS control plane logging should be enabled for all log types](https://github.com/Zeus-Labs/ZeusCloud/issues/125)
-
-- [Add EKS Security Rule: Public access to EKS cluster endpoint should be disabled](https://github.com/Zeus-Labs/ZeusCloud/issues/124)
-
-- [Add ECS Security Rule: ECS container environment variables should not have secrets](https://github.com/Zeus-Labs/ZeusCloud/issues/123)
-
-- [Add ECS Security Rule: ECS Container Insights should be enabled](https://github.com/Zeus-Labs/ZeusCloud/issues/119)
-
-- [Set up a way to run ZeusCloud with hardcoded Neo4J data](https://github.com/Zeus-Labs/ZeusCloud/issues/120)
 
