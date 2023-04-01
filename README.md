@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 23:43 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 23:53 UTC.</div>
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -149,7 +149,7 @@
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(873 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(874 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -369,13 +369,4 @@
 ## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
 
 - [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
-
-
-## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
-
-- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
-
-- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
 
