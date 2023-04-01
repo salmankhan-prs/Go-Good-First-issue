@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 23:23 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 23:33 UTC.</div>
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -20,16 +20,16 @@
 - [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
 
 
-## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
-
-- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
-
-
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(554 ⭐️)</span>
 
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
 
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
+## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
+
+- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
