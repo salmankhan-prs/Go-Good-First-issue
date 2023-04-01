@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 04:33 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 04:43 UTC.</div>
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
@@ -315,7 +315,7 @@
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(830 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(831 ⭐️)</span>
 
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
@@ -358,29 +358,4 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/352)
-
-- [Convert Array tests to table-driven style](https://github.com/gavv/httpexpect/issues/351)
-
-- [Convert Duration tests to table-driven style](https://github.com/gavv/httpexpect/issues/355)
-
-- [Convert DateTime tests to table-driven style](https://github.com/gavv/httpexpect/issues/354)
-
-- [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
-
-- [Refactor Websocket tests](https://github.com/gavv/httpexpect/issues/357)
-
-- [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
-
-- [Convert WebsocketMessage tests to table-driven style](https://github.com/gavv/httpexpect/issues/356)
-
-- [Convert Value tests to table-driven style](https://github.com/gavv/httpexpect/issues/353)
-
-- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
-
-- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
 
