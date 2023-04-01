@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 14:43 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 14:53 UTC.</div>
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Remove unused code from MetaRangeManager](https://github.com/treeverse/lakeFS/issues/5605)
+
+- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
+
+- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
+
+- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
 
 ## alexandrevilain/temporal-operator <span style='color:#F1C40F'>(49 ⭐️)</span>
@@ -12,7 +23,7 @@
 - [Automate build of Temporal worker process example and include in ghr](https://github.com/alexandrevilain/temporal-operator/issues/306)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(855 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(857 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -128,6 +139,15 @@
 - [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
+## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+
+- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+
 ## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
 
 - [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
@@ -208,15 +228,6 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
-
-- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-
 ## omissis/hyperbuild <span style='color:#F1C40F'>(4 ⭐️)</span>
 
 - [Introduce github actions](https://github.com/omissis/hyperbuild/issues/5)
@@ -289,81 +300,4 @@
 ## ossf/allstar <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Monitor/enable GitHub's secret detection feature](https://github.com/ossf/allstar/issues/363)
-
-
-## horizoncd/horizon <span style='color:#F1C40F'>(162 ⭐️)</span>
-
-- [The response of /apis/core/v1/clusters/{clusterID}/outputs is incorrect](https://github.com/horizoncd/horizon/issues/64)
-
-- [the log level of "failed to create event" error should be set to "error"](https://github.com/horizoncd/horizon/issues/61)
-
-- [Requests return 200 code when panics occur](https://github.com/horizoncd/horizon/issues/55)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(21 ⭐️)</span>
-
-- [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
-
-- [feature: short video (no audio needed) that walks through the steps of the quickstart](https://github.com/kcp-dev/edge-mc/issues/208)
-
-- [Need a quickstart for our docs site to welcome our visitors](https://github.com/kcp-dev/edge-mc/issues/207)
-
-- [feature: Create behavioral unit tests for mailbox controller](https://github.com/kcp-dev/edge-mc/issues/218)
-
-- [feature: new make target for deploying and configuring kcp and kcp-edge components](https://github.com/kcp-dev/edge-mc/issues/212)
-
-
-## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [add gator to krew](https://github.com/open-policy-agent/gatekeeper/issues/2653)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(926 ⭐️)</span>
-
-- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
-
-- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
-## SiaFoundation/hostd <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
-
-- [Integrated DynDNS](https://github.com/SiaFoundation/hostd/issues/17)
-
-- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
-
-- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
-
-- [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
 
