@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 12:33 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 12:43 UTC.</div>
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -354,6 +354,11 @@
 - [[BUG]: Validation error in `github_team_membership` when using team slug](https://github.com/integrations/terraform-provider-github/issues/1583)
 
 
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
+
+
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(243 ⭐️)</span>
 
 - [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
@@ -368,9 +373,4 @@
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
 
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(713 ⭐️)</span>
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
