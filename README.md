@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 03:03 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 03:13 UTC.</div>
+
+
+## ossf/allstar <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Monitor/enable GitHub's secret detection feature](https://github.com/ossf/allstar/issues/363)
 
 
 ## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
