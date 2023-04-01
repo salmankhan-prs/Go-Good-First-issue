@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 17:23 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 17:33 UTC.</div>
 
 
 ## grafana-operator/grafana-operator <span style='color:#F1C40F'>(551 ⭐️)</span>
@@ -12,7 +12,7 @@
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.0K ⭐️)</span>
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
@@ -321,9 +321,4 @@
 - [Support ProtocolsConfigure](https://github.com/openreserveio/dwn/issues/79)
 
 - [Support ProtocolsQuery](https://github.com/openreserveio/dwn/issues/80)
-
-
-## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(909 ⭐️)</span>
-
-- [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
 
