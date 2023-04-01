@@ -4,14 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 03:33 UTC.</div>
-
-
-## openreserveio/dwn <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [Support ProtocolsConfigure](https://github.com/openreserveio/dwn/issues/79)
-
-- [Support ProtocolsQuery](https://github.com/openreserveio/dwn/issues/80)
+<div align='center'>Last updated at April 1, 2023 03:43 UTC.</div>
 
 
 ## ossf/allstar <span style='color:#F1C40F'>(1.0K ⭐️)</span>
