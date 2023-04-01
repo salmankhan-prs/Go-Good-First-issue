@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 00:53 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 01:03 UTC.</div>
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(926 ⭐️)</span>
+
+- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -23,6 +37,11 @@
 - [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
 
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -47,16 +66,14 @@
 - [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
 
 
+## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
+
+- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
+
+
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
-
-- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
 ## integrations/terraform-provider-github <span style='color:#F1C40F'>(669 ⭐️)</span>
@@ -212,11 +229,6 @@
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
 ## dominant-strategies/go-quai <span style='color:#F1C40F'>(152 ⭐️)</span>
 
 - [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
@@ -338,21 +350,9 @@
 - [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
 
 
-## envoyproxy/gateway <span style='color:#F1C40F'>(926 ⭐️)</span>
-
-- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
-
-- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
-
-
 ## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Include inbound and outbound edges when automatically activating rank in the graph](https://github.com/kiali/kiali/issues/5915)
-
-
-## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
 
 
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -396,22 +396,4 @@
 ## kubernetes-sigs/kind <span style='color:#F1C40F'>(11.3K ⭐️)</span>
 
 - [The default CIDRs for serviceSubnet and podSubnet should be documented.](https://github.com/kubernetes-sigs/kind/issues/3117)
-
-
-## dapr/components-contrib <span style='color:#F1C40F'>(438 ⭐️)</span>
-
-- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
-
-- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
-
-- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
-
-- [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
-
-
-## kubearmor/kubearmor-client <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [karmor probe should show namespace/host visibility and default posture setting](https://github.com/kubearmor/kubearmor-client/issues/298)
-
-- [`karmor profile` doesn't exit TUI mode on gRPC service connection errors](https://github.com/kubearmor/kubearmor-client/issues/294)
 
