@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 12:53 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 13:03 UTC.</div>
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -367,4 +367,11 @@
 ## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
