@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 04:03 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 04:13 UTC.</div>
 
 
 ## openreserveio/dwn <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -301,7 +301,7 @@
 - [tempodb integer divide by zero error](https://github.com/grafana/tempo/issues/2167)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(825 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(827 ⭐️)</span>
 
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
