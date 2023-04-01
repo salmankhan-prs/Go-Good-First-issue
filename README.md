@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 07:43 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 07:53 UTC.</div>
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.0K ⭐️)</span>
@@ -274,8 +274,6 @@
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
-- [Consumer prefetch](https://github.com/memphisdev/memphis/issues/766)
-
 - [Purge messages](https://github.com/memphisdev/memphis/issues/793)
 
 - [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
@@ -345,7 +343,7 @@
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(838 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(839 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
