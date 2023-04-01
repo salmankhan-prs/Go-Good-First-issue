@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 13:33 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 13:43 UTC.</div>
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
@@ -19,6 +19,15 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.0K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -118,11 +127,11 @@
 
 ## Frontman-Labs/frontman <span style='color:#F1C40F'>(96 ⭐️)</span>
 
+- [Horizontal scalability issue](https://github.com/Frontman-Labs/frontman/issues/81)
+
 - [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
 
 - [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
-
-- [Horizontal scalability issue](https://github.com/Frontman-Labs/frontman/issues/81)
 
 - [Remove redundant lockings if possible ](https://github.com/Frontman-Labs/frontman/issues/82)
 
@@ -277,15 +286,6 @@
 - [the log level of "failed to create event" error should be set to "error"](https://github.com/horizoncd/horizon/issues/61)
 
 - [Requests return 200 code when panics occur](https://github.com/horizoncd/horizon/issues/55)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(21 ⭐️)</span>
