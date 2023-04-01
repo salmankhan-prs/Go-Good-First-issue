@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 13:53 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 14:03 UTC.</div>
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
@@ -116,6 +116,13 @@
 ## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
 
 - [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+
+- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
 
 ## kairos-io/kairos <span style='color:#F1C40F'>(432 ⭐️)</span>
@@ -277,15 +284,6 @@
 ## ossf/allstar <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Monitor/enable GitHub's secret detection feature](https://github.com/ossf/allstar/issues/363)
-
-
-## horizoncd/horizon <span style='color:#F1C40F'>(162 ⭐️)</span>
-
-- [The response of /apis/core/v1/clusters/{clusterID}/outputs is incorrect](https://github.com/horizoncd/horizon/issues/64)
-
-- [the log level of "failed to create event" error should be set to "error"](https://github.com/horizoncd/horizon/issues/61)
-
-- [Requests return 200 code when panics occur](https://github.com/horizoncd/horizon/issues/55)
 
 
 ## horizoncd/horizon <span style='color:#F1C40F'>(162 ⭐️)</span>
