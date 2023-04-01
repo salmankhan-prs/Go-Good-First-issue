@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 21:43 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 21:53 UTC.</div>
+
+
+## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
+
+- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(554 ⭐️)</span>
