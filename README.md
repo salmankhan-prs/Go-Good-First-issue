@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 02:43 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 02:53 UTC.</div>
+
+
+## horizoncd/horizon <span style='color:#F1C40F'>(162 ⭐️)</span>
+
+- [The response of /apis/core/v1/clusters/{clusterID}/outputs is incorrect](https://github.com/horizoncd/horizon/issues/64)
+
+- [the log level of "failed to create event" error should be set to "error"](https://github.com/horizoncd/horizon/issues/61)
+
+- [Requests return 200 code when panics occur](https://github.com/horizoncd/horizon/issues/55)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -17,6 +26,17 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [center align appendix lines](https://github.com/terrastruct/d2/issues/1104)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
@@ -139,17 +159,6 @@
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
 
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [center align appendix lines](https://github.com/terrastruct/d2/issues/1104)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(713 ⭐️)</span>
@@ -366,28 +375,4 @@
 - [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
 
 - [Consider removing split-test-files](https://github.com/celestiaorg/celestia-app/issues/1439)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Feature] Lint Helm charts for Artifact Hub](https://github.com/kyverno/kyverno/issues/6756)
-
-- [Set tokens to read-only](https://github.com/kyverno/kyverno/issues/6483)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [Enable signed release tracking](https://github.com/kyverno/kyverno/issues/6482)
-
-- [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
-
-- [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
-
-
-## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Include inbound and outbound edges when automatically activating rank in the graph](https://github.com/kiali/kiali/issues/5915)
 
