@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 14:53 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 15:03 UTC.</div>
+
+
+## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -23,7 +28,7 @@
 - [Automate build of Temporal worker process example and include in ghr](https://github.com/alexandrevilain/temporal-operator/issues/306)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(857 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(858 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -295,9 +300,4 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-
-## ossf/allstar <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Monitor/enable GitHub's secret detection feature](https://github.com/ossf/allstar/issues/363)
 
