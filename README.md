@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 16:33 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 16:43 UTC.</div>
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -16,7 +16,7 @@
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(862 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(863 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -138,6 +138,11 @@
 - [Automate build of Temporal worker process example and include in ghr](https://github.com/alexandrevilain/temporal-operator/issues/306)
 
 
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
 ## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
 
 - [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
@@ -146,11 +151,6 @@
 ## kubernetes-sigs/kpng <span style='color:#F1C40F'>(196 ⭐️)</span>
 
 - [prototype a dpdk impl](https://github.com/kubernetes-sigs/kpng/issues/473)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
