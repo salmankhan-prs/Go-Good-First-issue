@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 13:43 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 13:53 UTC.</div>
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
@@ -56,7 +56,7 @@
 - [Support for MongoDB](https://github.com/secret-telegram/chat/issues/55)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(851 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(852 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -118,7 +118,7 @@
 - [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
 
 
-## kairos-io/kairos <span style='color:#F1C40F'>(431 ⭐️)</span>
+## kairos-io/kairos <span style='color:#F1C40F'>(432 ⭐️)</span>
 
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
 
@@ -288,6 +288,15 @@
 - [Requests return 200 code when panics occur](https://github.com/horizoncd/horizon/issues/55)
 
 
+## horizoncd/horizon <span style='color:#F1C40F'>(162 ⭐️)</span>
+
+- [The response of /apis/core/v1/clusters/{clusterID}/outputs is incorrect](https://github.com/horizoncd/horizon/issues/64)
+
+- [the log level of "failed to create event" error should be set to "error"](https://github.com/horizoncd/horizon/issues/61)
+
+- [Requests return 200 code when panics occur](https://github.com/horizoncd/horizon/issues/55)
+
+
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(21 ⭐️)</span>
 
 - [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
@@ -369,18 +378,4 @@
 - [Add ECS Security Rule: ECS Container Insights should be enabled](https://github.com/Zeus-Labs/ZeusCloud/issues/119)
 
 - [Set up a way to run ZeusCloud with hardcoded Neo4J data](https://github.com/Zeus-Labs/ZeusCloud/issues/120)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
-
-- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
-
-- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
-## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
 
