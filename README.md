@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 07:23 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 07:33 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.0K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -37,9 +42,9 @@
 - [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.0K ⭐️)</span>
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -98,11 +103,6 @@
 - [the log level of "failed to create event" error should be set to "error"](https://github.com/horizoncd/horizon/issues/61)
 
 - [Requests return 200 code when panics occur](https://github.com/horizoncd/horizon/issues/55)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
