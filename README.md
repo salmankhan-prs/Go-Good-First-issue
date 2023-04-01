@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 21:33 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 21:43 UTC.</div>
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(554 ⭐️)</span>
@@ -371,13 +371,4 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-
-## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [Pytorch Serve supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2178)
-
-- [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
-
-- [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
 
