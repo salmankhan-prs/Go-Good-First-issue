@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 19:03 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 19:13 UTC.</div>
+
+
+## kubearmor/KubeArmor <span style='color:#F1C40F'>(649 ⭐️)</span>
+
+- [Use registry client for updating stable release workflow](https://github.com/kubearmor/KubeArmor/issues/1169)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -53,12 +58,23 @@
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Remove unused code from MetaRangeManager](https://github.com/treeverse/lakeFS/issues/5605)
+
+- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
+
+- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
+
+- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
+
+
 ## grafana-operator/grafana-operator <span style='color:#F1C40F'>(551 ⭐️)</span>
 
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(866 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(867 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -82,11 +98,6 @@
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## kubearmor/KubeArmor <span style='color:#F1C40F'>(649 ⭐️)</span>
-
-- [Use registry client for updating stable release workflow](https://github.com/kubearmor/KubeArmor/issues/1169)
 
 
 ## alexandrevilain/temporal-operator <span style='color:#F1C40F'>(49 ⭐️)</span>
@@ -152,17 +163,6 @@
 - [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
 
 - [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Remove unused code from MetaRangeManager](https://github.com/treeverse/lakeFS/issues/5605)
-
-- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
-
-- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
-
-- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
