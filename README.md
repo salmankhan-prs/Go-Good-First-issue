@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 06:23 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 06:33 UTC.</div>
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -18,6 +18,11 @@
 - [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## openreserveio/dwn <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -257,11 +262,6 @@
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
 ## mattermost/mattermost-plugin-github <span style='color:#F1C40F'>(127 ⭐️)</span>
 
 - [Include explanation of `/setup` command in README](https://github.com/mattermost/mattermost-plugin-github/issues/655)
@@ -361,9 +361,4 @@
 ## dominant-strategies/go-quai <span style='color:#F1C40F'>(152 ⭐️)</span>
 
 - [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
