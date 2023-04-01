@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 06:53 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 07:03 UTC.</div>
 
 
 ## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -12,6 +12,11 @@
 - [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
 
 - [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.0K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -50,11 +55,6 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.0K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## ossf/allstar <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -330,9 +330,9 @@
 
 ## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
-- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
-
 - [tempodb integer divide by zero error](https://github.com/grafana/tempo/issues/2167)
+
+- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
