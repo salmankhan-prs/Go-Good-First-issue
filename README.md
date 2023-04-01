@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 17:43 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 17:53 UTC.</div>
 
 
 ## fairhive-labs/go-pixelart <span style='color:#F1C40F'>(8 ⭐️)</span>
@@ -305,20 +305,14 @@
 - [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
 
 
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
+
+- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
+
+
 ## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
 
 - [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
-
-
-## openreserveio/dwn <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [Add Helm Charts to Deployment for DWN](https://github.com/openreserveio/dwn/issues/87)
-
-- [Spec Updates to Message Structure](https://github.com/openreserveio/dwn/issues/84)
-
-- [Support ProtocolsConfigure](https://github.com/openreserveio/dwn/issues/79)
-
-- [Support ProtocolsQuery](https://github.com/openreserveio/dwn/issues/80)
 
