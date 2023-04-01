@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 11:23 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 11:33 UTC.</div>
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -285,4 +285,87 @@
 - [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
 
 - [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
+
+
+## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(345 ⭐️)</span>
+
+- [Add EKS security rule: EKS clusters should have encryption of K8s secrets enabled.](https://github.com/Zeus-Labs/ZeusCloud/issues/128)
+
+- [Add EKS security rule: EKS control plane logging should be enabled for all log types](https://github.com/Zeus-Labs/ZeusCloud/issues/125)
+
+- [Add EKS Security Rule: Public access to EKS cluster endpoint should be disabled](https://github.com/Zeus-Labs/ZeusCloud/issues/124)
+
+- [Add ECS Security Rule: ECS container environment variables should not have secrets](https://github.com/Zeus-Labs/ZeusCloud/issues/123)
+
+- [Add ECS Security Rule: ECS Container Insights should be enabled](https://github.com/Zeus-Labs/ZeusCloud/issues/119)
+
+- [Set up a way to run ZeusCloud with hardcoded Neo4J data](https://github.com/Zeus-Labs/ZeusCloud/issues/120)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
+
+- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
+
+- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
+
+
+## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
+
+- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
+
+
+## integrations/terraform-provider-github <span style='color:#F1C40F'>(670 ⭐️)</span>
+
+- [[BUG]: Validation error in `github_team_membership` when using team slug](https://github.com/integrations/terraform-provider-github/issues/1583)
+
+
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(243 ⭐️)</span>
+
+- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
+
+- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
+
+- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(554 ⭐️)</span>
+
+- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(713 ⭐️)</span>
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## mattermost/mattermost-plugin-github <span style='color:#F1C40F'>(127 ⭐️)</span>
+
+- [Include explanation of `/setup` command in README](https://github.com/mattermost/mattermost-plugin-github/issues/655)
+
+
+## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [Purge messages](https://github.com/memphisdev/memphis/issues/793)
+
+- [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
+
+- [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
+
+- [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
+
+
+## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
+
+- [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
 
