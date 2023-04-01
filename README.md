@@ -4,16 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 15:23 UTC.</div>
-
-
-## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
-
-- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+<div align='center'>Last updated at April 1, 2023 15:33 UTC.</div>
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(859 ⭐️)</span>
@@ -26,7 +17,14 @@
 
 - [feature: analyzer for Pod Disruption Budget](https://github.com/k8sgpt-ai/k8sgpt/issues/163)
 
-- [feature: analyzer for Horizontal Pod Autoscaler](https://github.com/k8sgpt-ai/k8sgpt/issues/162)
+
+## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+
+- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
