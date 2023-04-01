@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 05:43 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 05:53 UTC.</div>
 
 
 ## openreserveio/dwn <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -322,7 +322,7 @@
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(834 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(835 ⭐️)</span>
 
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
