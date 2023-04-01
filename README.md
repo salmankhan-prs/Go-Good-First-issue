@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 01:13 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 01:23 UTC.</div>
 
 
 ## envoyproxy/gateway <span style='color:#F1C40F'>(926 ⭐️)</span>
@@ -391,9 +391,4 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## kubernetes-sigs/kind <span style='color:#F1C40F'>(11.3K ⭐️)</span>
-
-- [The default CIDRs for serviceSubnet and podSubnet should be documented.](https://github.com/kubernetes-sigs/kind/issues/3117)
 
