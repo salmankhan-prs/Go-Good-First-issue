@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 22:43 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 22:53 UTC.</div>
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
@@ -136,7 +136,7 @@
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(872 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(873 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
