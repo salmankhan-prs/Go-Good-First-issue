@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 12:13 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 12:23 UTC.</div>
+
+
+## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [Purge messages](https://github.com/memphisdev/memphis/issues/793)
+
+- [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
+
+- [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
+
+- [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
@@ -88,7 +99,7 @@
 - [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(848 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(849 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -357,14 +368,4 @@
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(713 ⭐️)</span>
 
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## mattermost/mattermost-plugin-github <span style='color:#F1C40F'>(127 ⭐️)</span>
-
-- [Include explanation of `/setup` command in README](https://github.com/mattermost/mattermost-plugin-github/issues/655)
 
