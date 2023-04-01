@@ -4,19 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 07:13 UTC.</div>
-
-
-## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
-
-- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.0K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+<div align='center'>Last updated at April 1, 2023 07:23 UTC.</div>
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -30,6 +18,28 @@
 - [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
+## grafana-operator/grafana-operator <span style='color:#F1C40F'>(551 ⭐️)</span>
+
+- [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.0K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -252,11 +262,6 @@
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
@@ -340,7 +345,7 @@
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(837 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(838 ⭐️)</span>
 
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
