@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 07:03 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 07:13 UTC.</div>
 
 
 ## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -356,9 +356,4 @@
 ## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
-
-
-## dominant-strategies/go-quai <span style='color:#F1C40F'>(152 ⭐️)</span>
-
-- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
 
