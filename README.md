@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 04:53 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 05:03 UTC.</div>
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.5K ⭐️)</span>
@@ -160,6 +160,13 @@
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
 
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
+
+- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
+
+
 ## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
 
 - [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
@@ -185,6 +192,15 @@
 - [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
 
 - [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
+
+- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
+
+- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
 
 ## go-task/task <span style='color:#F1C40F'>(7.2K ⭐️)</span>
@@ -294,15 +310,6 @@
 - [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
 
 
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
-
-- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
-
-- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
 ## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
@@ -315,7 +322,7 @@
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(831 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(832 ⭐️)</span>
 
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
@@ -353,9 +360,4 @@
 - [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
 
 - [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
