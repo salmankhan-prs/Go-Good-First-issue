@@ -4,16 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 08:23 UTC.</div>
+<div align='center'>Last updated at April 1, 2023 08:33 UTC.</div>
 
 
 ## omissis/hyperbuild <span style='color:#F1C40F'>(4 ⭐️)</span>
 
+- [Introduce renovate](https://github.com/omissis/hyperbuild/issues/3)
+
 - [Introduce github actions](https://github.com/omissis/hyperbuild/issues/5)
 
 - [Introduce goreleaser](https://github.com/omissis/hyperbuild/issues/4)
-
-- [Introduce renovate](https://github.com/omissis/hyperbuild/issues/3)
 
 - [Introduce codecov](https://github.com/omissis/hyperbuild/issues/2)
 
