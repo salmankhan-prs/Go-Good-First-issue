@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 06:43 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 06:53 UTC.</div>
+
+
+## mercy34mercy/bustimer_kic <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [infra層 errハンドリングテスト](https://github.com/mercy34mercy/bustimer_kic/issues/153)
+
+- [適切なvalidateを入れる](https://github.com/mercy34mercy/bustimer_kic/issues/146)
+
+- [buildにキャッシュ導入](https://github.com/mercy34mercy/bustimer_kic/issues/150)
+
+
+## aquasecurity/trivy-operator <span style='color:#F1C40F'>(466 ⭐️)</span>
+
+- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
+
+- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -16,13 +32,6 @@
 - [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
-
-
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(466 ⭐️)</span>
-
-- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
-
-- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
 
 
 ## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
@@ -216,7 +225,7 @@
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(884 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(886 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -233,6 +242,8 @@
 
 
 ## gnolang/gno <span style='color:#F1C40F'>(712 ⭐️)</span>
+
+- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
 
 - [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
@@ -326,11 +337,4 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
-
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
-
-- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
