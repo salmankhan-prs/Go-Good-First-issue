@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 06:03 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 06:13 UTC.</div>
+
+
+## aquasecurity/trivy-operator <span style='color:#F1C40F'>(466 ⭐️)</span>
+
+- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
+
+- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
 
 
 ## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
@@ -181,13 +188,6 @@
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
 
 
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(466 ⭐️)</span>
-
-- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
-
-- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
-
-
 ## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
 
 - [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
@@ -216,7 +216,7 @@
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(881 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(882 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
