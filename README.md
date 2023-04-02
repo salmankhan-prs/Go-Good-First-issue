@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 20:43 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 20:53 UTC.</div>
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
@@ -108,6 +108,11 @@
 - [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
 
 - [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
+
+
+## grafana-operator/grafana-operator <span style='color:#F1C40F'>(552 ⭐️)</span>
+
+- [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
 
 ## openreserveio/dwn <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -285,6 +290,13 @@
 - [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
 
 
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
+
+- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
+
+
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(466 ⭐️)</span>
 
 - [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
@@ -316,11 +328,6 @@
 - [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
 
 
-## grafana-operator/grafana-operator <span style='color:#F1C40F'>(551 ⭐️)</span>
-
-- [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
-
-
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
@@ -341,29 +348,4 @@
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
-
-- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
-
-- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
-
-- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
-
-- [[QUESTION]没有卸载面板的脚本](https://github.com/1Panel-dev/1Panel/issues/330)
-
-- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
-
-- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
-
-- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
-
-- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
-
-- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
-
-- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
