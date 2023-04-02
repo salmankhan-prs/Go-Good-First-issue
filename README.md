@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 15:53 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 16:03 UTC.</div>
+
+
+## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
@@ -89,11 +94,6 @@
 - [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
 
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
-
-
-## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -289,6 +289,11 @@
 ## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
 
 - [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
+
+
+## polarsignals/frostdb <span style='color:#F1C40F'>(979 ⭐️)</span>
+
+- [Fix Release() arrow callbacks](https://github.com/polarsignals/frostdb/issues/403)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(3 ⭐️)</span>
