@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 08:33 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 08:43 UTC.</div>
+
+
+## aquasecurity/trivy-operator <span style='color:#F1C40F'>(466 ⭐️)</span>
+
+- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
+
+- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
@@ -28,13 +35,6 @@
 - [適切なvalidateを入れる](https://github.com/mercy34mercy/bustimer_kic/issues/146)
 
 - [buildにキャッシュ導入](https://github.com/mercy34mercy/bustimer_kic/issues/150)
-
-
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(466 ⭐️)</span>
-
-- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
-
-- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -253,7 +253,7 @@
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(891 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(892 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
