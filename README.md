@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 04:13 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 04:23 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -151,9 +151,9 @@
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
 - [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
 
 
 ## kubearmor/KubeArmor <span style='color:#F1C40F'>(649 ⭐️)</span>
