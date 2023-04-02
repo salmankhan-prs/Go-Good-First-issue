@@ -4,10 +4,19 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 15:13 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 15:23 UTC.</div>
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(914 ⭐️)</span>
+## mercy34mercy/bustimer_kic <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [infra層 errハンドリングテスト](https://github.com/mercy34mercy/bustimer_kic/issues/153)
+
+- [適切なvalidateを入れる](https://github.com/mercy34mercy/bustimer_kic/issues/146)
+
+- [buildにキャッシュ導入](https://github.com/mercy34mercy/bustimer_kic/issues/150)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(916 ⭐️)</span>
 
 - [feature: alias "filter" to filters](https://github.com/k8sgpt-ai/k8sgpt/issues/187)
 
@@ -28,15 +37,6 @@
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
-## mercy34mercy/bustimer_kic <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [infra層 errハンドリングテスト](https://github.com/mercy34mercy/bustimer_kic/issues/153)
-
-- [適切なvalidateを入れる](https://github.com/mercy34mercy/bustimer_kic/issues/146)
-
-- [buildにキャッシュ導入](https://github.com/mercy34mercy/bustimer_kic/issues/150)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
