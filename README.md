@@ -4,7 +4,20 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 09:33 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 09:43 UTC.</div>
+
+
+## golang-app/ecommerce <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [When I click on the cart icon, I should see summary of the cart](https://github.com/golang-app/ecommerce/issues/33)
+
+- [The cart icon on the top menu doesn't update when a new item is added to the cart](https://github.com/golang-app/ecommerce/issues/32)
+
+- [When a product changes its name/price in the product catalog, those changes aren't visible in the cart](https://github.com/golang-app/ecommerce/issues/24)
+
+- [Add grafana dashboard with go runtime metrics](https://github.com/golang-app/ecommerce/issues/23)
+
+- [Add codespaces ](https://github.com/golang-app/ecommerce/issues/20)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -366,9 +379,4 @@
 - [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
 
 - [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
-
-
-## kubernetes-sigs/kpng <span style='color:#F1C40F'>(196 ⭐️)</span>
-
-- [prototype a dpdk impl](https://github.com/kubernetes-sigs/kpng/issues/473)
 
