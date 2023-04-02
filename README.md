@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 19:43 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 19:53 UTC.</div>
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(924 ⭐️)</span>
@@ -46,6 +46,11 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+
+## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
+
+- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
 ## golang-app/ecommerce <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -97,6 +102,11 @@
 - [Add test for log message struct](https://github.com/roc-streaming/roc-go/issues/52)
 
 
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
 ## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
@@ -126,11 +136,6 @@
 - [chore: Check for precompile module account on startup](https://github.com/berachain/polaris/issues/423)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
@@ -141,6 +146,15 @@
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
+## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
+
+- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
+
+- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
+
+- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
+
+
 ## alexandrevilain/temporal-operator <span style='color:#F1C40F'>(49 ⭐️)</span>
 
 - [Automate build of Temporal worker process example and include in ghr](https://github.com/alexandrevilain/temporal-operator/issues/306)
@@ -149,11 +163,6 @@
 ## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
 
 - [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
-
-
-## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
-
-- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
@@ -252,13 +261,6 @@
 - [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
 
 - [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
-
-
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(466 ⭐️)</span>
-
-- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
-
-- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
 
 
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(466 ⭐️)</span>
