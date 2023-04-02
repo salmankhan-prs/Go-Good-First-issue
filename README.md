@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 20:23 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 20:33 UTC.</div>
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(926 ⭐️)</span>
@@ -132,11 +137,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
