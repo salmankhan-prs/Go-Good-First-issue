@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 22:33 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 22:43 UTC.</div>
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -342,9 +342,4 @@
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
 
