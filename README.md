@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 21:23 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 21:33 UTC.</div>
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(926 ⭐️)</span>
@@ -84,6 +84,11 @@
 - [Add grafana dashboard with go runtime metrics](https://github.com/golang-app/ecommerce/issues/23)
 
 - [Add codespaces ](https://github.com/golang-app/ecommerce/issues/20)
+
+
+## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
+
+- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
 
 
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -275,6 +280,8 @@
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
 
 - [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
 
