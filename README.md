@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 05:23 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 05:33 UTC.</div>
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
@@ -216,7 +216,7 @@
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(878 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(879 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -353,14 +353,4 @@
 - [Remove redundant lockings if possible ](https://github.com/Frontman-Labs/frontman/issues/82)
 
 - [Add URL Rewriting Feature to API Gateway](https://github.com/Frontman-Labs/frontman/issues/74)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
