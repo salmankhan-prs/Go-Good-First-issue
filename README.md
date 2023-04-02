@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 13:43 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 13:53 UTC.</div>
 
 
 ## mercy34mercy/bustimer_kic <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -30,6 +30,11 @@
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
