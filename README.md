@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 08:13 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 08:23 UTC.</div>
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
@@ -239,6 +239,13 @@
 - [RecordModifier is missing some upstream configuration](https://github.com/fluent/fluent-operator/issues/597)
 
 
+## fluent/fluent-operator <span style='color:#F1C40F'>(397 ⭐️)</span>
+
+- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
+
+- [RecordModifier is missing some upstream configuration](https://github.com/fluent/fluent-operator/issues/597)
+
+
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
 
 - [Remove unused code from MetaRangeManager](https://github.com/treeverse/lakeFS/issues/5605)
@@ -348,11 +355,4 @@
 ## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
 
 - [Support for MongoDB](https://github.com/secret-telegram/chat/issues/55)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(267 ⭐️)</span>
-
-- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
-
-- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
 
