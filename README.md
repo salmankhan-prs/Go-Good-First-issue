@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 06:23 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 06:33 UTC.</div>
 
 
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(466 ⭐️)</span>
@@ -216,7 +216,7 @@
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(883 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(884 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
