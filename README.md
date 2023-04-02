@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 01:33 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 01:43 UTC.</div>
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -40,6 +40,11 @@
 ## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
 
 - [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
@@ -86,6 +91,11 @@
 ## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
 
 - [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
+
+- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
@@ -215,11 +225,6 @@
 ## gnolang/gno <span style='color:#F1C40F'>(712 ⭐️)</span>
 
 - [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## alexandrevilain/temporal-operator <span style='color:#F1C40F'>(49 ⭐️)</span>
@@ -361,9 +366,4 @@
 ## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(144 ⭐️)</span>
 
 - [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
-
-- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
 
