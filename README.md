@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 23:03 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 23:13 UTC.</div>
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -352,11 +352,4 @@
 - [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
 
 - [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(556 ⭐️)</span>
-
-- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
