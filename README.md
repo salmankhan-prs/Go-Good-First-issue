@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 12:53 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 13:03 UTC.</div>
+
+
+## aquasecurity/trivy-operator <span style='color:#F1C40F'>(466 ⭐️)</span>
+
+- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
+
+- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Remove unused code from MetaRangeManager](https://github.com/treeverse/lakeFS/issues/5605)
+
+- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
+
+- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
+
+- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
@@ -25,6 +43,8 @@
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(906 ⭐️)</span>
+
+- [feature: alias "filter" to filters](https://github.com/k8sgpt-ai/k8sgpt/issues/187)
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -49,17 +69,6 @@
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Remove unused code from MetaRangeManager](https://github.com/treeverse/lakeFS/issues/5605)
-
-- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
-
-- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
-
-- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -106,13 +115,6 @@
 ## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
 
 - [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
-
-
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(466 ⭐️)</span>
-
-- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
-
-- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
 
 
 ## golang-app/ecommerce <span style='color:#F1C40F'>(2 ⭐️)</span>
