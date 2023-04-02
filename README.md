@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 18:33 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 18:43 UTC.</div>
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
+
+- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
+
+
+## openreserveio/dwn <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [PermissionsRevoke](https://github.com/openreserveio/dwn/issues/90)
+
+- [PermissionsQuery](https://github.com/openreserveio/dwn/issues/91)
+
+- [PermissionsRequest](https://github.com/openreserveio/dwn/issues/92)
+
+- [PermissionsGrant](https://github.com/openreserveio/dwn/issues/93)
+
+- [Create sample postman collections for public](https://github.com/openreserveio/dwn/issues/88)
+
+- [Support ProtocolsConfigure](https://github.com/openreserveio/dwn/issues/79)
+
+- [Support ProtocolsQuery](https://github.com/openreserveio/dwn/issues/80)
 
 
 ## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
@@ -38,23 +62,6 @@
 ## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
-
-
-## openreserveio/dwn <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [PermissionsRevoke](https://github.com/openreserveio/dwn/issues/90)
-
-- [PermissionsQuery](https://github.com/openreserveio/dwn/issues/91)
-
-- [PermissionsRequest](https://github.com/openreserveio/dwn/issues/92)
-
-- [PermissionsGrant](https://github.com/openreserveio/dwn/issues/93)
-
-- [Create sample postman collections for public](https://github.com/openreserveio/dwn/issues/88)
-
-- [Support ProtocolsConfigure](https://github.com/openreserveio/dwn/issues/79)
-
-- [Support ProtocolsQuery](https://github.com/openreserveio/dwn/issues/80)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -116,7 +123,7 @@
 - [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(922 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(923 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
