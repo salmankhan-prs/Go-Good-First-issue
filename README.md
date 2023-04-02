@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at April 1, 2023 23:53 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 00:03 UTC.</div>
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(11.6K ⭐️)</span>
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [center align appendix lines](https://github.com/terrastruct/d2/issues/1104)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(2 ⭐️)</span>
