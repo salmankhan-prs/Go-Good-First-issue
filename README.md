@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 01:03 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 01:13 UTC.</div>
 
 
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
