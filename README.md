@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 07:03 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 07:13 UTC.</div>
 
 
 ## mercy34mercy/bustimer_kic <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -32,6 +32,13 @@
 - [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
+
+
+## gnolang/gno <span style='color:#F1C40F'>(712 ⭐️)</span>
+
+- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
+
+- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
 
 ## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
@@ -128,6 +135,11 @@
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
 
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
@@ -308,11 +320,6 @@
 - [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
 
 - [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## kubernetes-sigs/kpng <span style='color:#F1C40F'>(196 ⭐️)</span>
