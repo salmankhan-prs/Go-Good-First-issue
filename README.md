@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 23:43 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 23:53 UTC.</div>
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
@@ -56,7 +56,7 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(931 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(932 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
