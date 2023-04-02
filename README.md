@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 22:53 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 23:03 UTC.</div>
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -37,7 +37,7 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(927 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(928 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -49,6 +49,25 @@
 ## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
 
 - [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Feature] Lint Helm charts for Artifact Hub](https://github.com/kyverno/kyverno/issues/6756)
+
+- [Set tokens to read-only](https://github.com/kyverno/kyverno/issues/6483)
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [Enable signed release tracking](https://github.com/kyverno/kyverno/issues/6482)
+
+- [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
+
+- [Add Analytics](https://github.com/kyverno/kyverno/issues/6480)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
@@ -285,6 +304,11 @@
 - [[API](*) fix for SSH no host key checks](https://github.com/kubesimplify/ksctl/pull/83)
 
 - [[BUG][CLI or API] (Provider) Ksctl Cred](https://github.com/kubesimplify/ksctl/issues/79)
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
