@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 16:03 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 16:13 UTC.</div>
+
+
+## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
 
 
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
@@ -316,14 +321,4 @@
 - [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
 
 - [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
