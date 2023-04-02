@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 20:53 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 21:03 UTC.</div>
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(926 ⭐️)</span>
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
@@ -15,15 +24,6 @@
 ## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(926 ⭐️)</span>
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
