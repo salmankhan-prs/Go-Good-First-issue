@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 07:13 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 07:23 UTC.</div>
 
 
 ## mercy34mercy/bustimer_kic <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -237,7 +237,7 @@
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(888 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(889 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
