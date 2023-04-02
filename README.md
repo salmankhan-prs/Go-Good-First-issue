@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 18:53 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 19:03 UTC.</div>
+
+
+## hauke96/wiki2book <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [Better integration tests](https://github.com/hauke96/wiki2book/issues/48)
 
 
 ## golang-app/ecommerce <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -60,11 +65,6 @@
 - [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
-
-
-## hauke96/wiki2book <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [Better integration tests](https://github.com/hauke96/wiki2book/issues/48)
 
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(14 ⭐️)</span>
