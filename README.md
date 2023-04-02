@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 00:43 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 00:53 UTC.</div>
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -368,15 +368,4 @@
 - [Improve events documentation](https://github.com/aquasecurity/tracee/issues/2809)
 
 - [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
-
-
-## openreserveio/dwn <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [Add Helm Charts to Deployment for DWN](https://github.com/openreserveio/dwn/issues/87)
-
-- [Spec Updates to Message Structure](https://github.com/openreserveio/dwn/issues/84)
-
-- [Support ProtocolsConfigure](https://github.com/openreserveio/dwn/issues/79)
-
-- [Support ProtocolsQuery](https://github.com/openreserveio/dwn/issues/80)
 
