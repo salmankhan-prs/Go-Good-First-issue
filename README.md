@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 10:23 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 10:33 UTC.</div>
+
+
+## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [Purge messages](https://github.com/memphisdev/memphis/issues/793)
+
+- [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
+
+- [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
+
+- [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
 
 
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(466 ⭐️)</span>
@@ -30,17 +41,6 @@
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [Purge messages](https://github.com/memphisdev/memphis/issues/793)
-
-- [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
-
-- [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
-
-- [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -82,7 +82,7 @@
 - [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(896 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(899 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
