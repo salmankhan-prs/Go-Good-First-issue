@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 12:33 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 12:43 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
@@ -298,9 +298,4 @@
 ## apache/trafficcontrol <span style='color:#F1C40F'>(883 ⭐️)</span>
 
 - [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
-
-- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
 
