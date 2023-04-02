@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 14:33 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 14:43 UTC.</div>
+
+
+## dapr/components-contrib <span style='color:#F1C40F'>(438 ⭐️)</span>
+
+- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
+
+- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
+
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+- [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -16,6 +27,16 @@
 - [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -48,7 +69,7 @@
 - [buildにキャッシュ導入](https://github.com/mercy34mercy/bustimer_kic/issues/150)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(910 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(911 ⭐️)</span>
 
 - [feature: alias "filter" to filters](https://github.com/k8sgpt-ai/k8sgpt/issues/187)
 
@@ -74,11 +95,6 @@
 - [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
 
 - [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.6K ⭐️)</span>
@@ -235,15 +251,6 @@
 - [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
 
 - [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
