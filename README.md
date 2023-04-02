@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 17:53 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 18:03 UTC.</div>
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## berachain/polaris <span style='color:#F1C40F'>(62 ⭐️)</span>
+
+- [refactor(scripts): Refactor the init.sh script into a genesis builder golang cli tool.](https://github.com/berachain/polaris/issues/474)
+
+- [Marshal/Unmarshal of core Geth types is slow](https://github.com/berachain/polaris/issues/446)
+
+- [chore(geth): Upgrade to v1.11.5](https://github.com/berachain/polaris/issues/507)
+
+- [imp(testing): improve ginkgo testing structure ](https://github.com/berachain/polaris/issues/506)
+
+- [Chore: give test network a fixed validator.](https://github.com/berachain/polaris/issues/481)
+
+- [chore: Check for precompile module account on startup](https://github.com/berachain/polaris/issues/423)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -61,12 +85,17 @@
 - [Automate build of Temporal worker process example and include in ghr](https://github.com/alexandrevilain/temporal-operator/issues/306)
 
 
+## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
+
+- [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
+
+
 ## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
 
 - [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(920 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(921 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -213,6 +242,11 @@
 - [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
 
 
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
+
+
 ## grafana-operator/grafana-operator <span style='color:#F1C40F'>(551 ⭐️)</span>
 
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
@@ -238,11 +272,6 @@
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
-## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
-
-- [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
 
 
 ## golang-app/ecommerce <span style='color:#F1C40F'>(2 ⭐️)</span>
