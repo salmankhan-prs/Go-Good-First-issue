@@ -4,10 +4,10 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 15:03 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 15:13 UTC.</div>
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(912 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(914 ⭐️)</span>
 
 - [feature: alias "filter" to filters](https://github.com/k8sgpt-ai/k8sgpt/issues/187)
 
