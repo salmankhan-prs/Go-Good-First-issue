@@ -4,7 +4,20 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 18:43 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 18:53 UTC.</div>
+
+
+## golang-app/ecommerce <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [When I click on the cart icon, I should see summary of the cart](https://github.com/golang-app/ecommerce/issues/33)
+
+- [The cart icon on the top menu doesn't update when a new item is added to the cart](https://github.com/golang-app/ecommerce/issues/32)
+
+- [When a product changes its name/price in the product catalog, those changes aren't visible in the cart](https://github.com/golang-app/ecommerce/issues/24)
+
+- [Add grafana dashboard with go runtime metrics](https://github.com/golang-app/ecommerce/issues/23)
+
+- [Add codespaces ](https://github.com/golang-app/ecommerce/issues/20)
 
 
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -248,6 +261,13 @@
 - [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
 
 
+## defenseunicorns/zarf <span style='color:#F1C40F'>(555 ⭐️)</span>
+
+- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
@@ -295,19 +315,6 @@
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
-## golang-app/ecommerce <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [When I click on the cart icon, I should see summary of the cart](https://github.com/golang-app/ecommerce/issues/33)
-
-- [The cart icon on the top menu doesn't update when a new item is added to the cart](https://github.com/golang-app/ecommerce/issues/32)
-
-- [When a product changes its name/price in the product catalog, those changes aren't visible in the cart](https://github.com/golang-app/ecommerce/issues/24)
-
-- [Add grafana dashboard with go runtime metrics](https://github.com/golang-app/ecommerce/issues/23)
-
-- [Add codespaces ](https://github.com/golang-app/ecommerce/issues/20)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.9K ⭐️)</span>
