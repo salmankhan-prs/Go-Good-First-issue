@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 21:33 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 21:43 UTC.</div>
+
+
+## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
+
+- [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(926 ⭐️)</span>
@@ -197,11 +202,6 @@
 - [Automate build of Temporal worker process example and include in ghr](https://github.com/alexandrevilain/temporal-operator/issues/306)
 
 
-## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
-
-- [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
-
-
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
@@ -311,7 +311,7 @@
 - [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
 
 
-## defenseunicorns/zarf <span style='color:#F1C40F'>(555 ⭐️)</span>
+## defenseunicorns/zarf <span style='color:#F1C40F'>(556 ⭐️)</span>
 
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
 
