@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 18:13 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 18:23 UTC.</div>
+
+
+## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [Purge messages](https://github.com/memphisdev/memphis/issues/793)
+
+- [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
+
+- [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
+
+- [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
 
 
 ## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -28,17 +39,6 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [Purge messages](https://github.com/memphisdev/memphis/issues/793)
-
-- [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
-
-- [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
-
-- [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
 
 
 ## berachain/polaris <span style='color:#F1C40F'>(62 ⭐️)</span>
@@ -103,6 +103,11 @@
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.6K ⭐️)</span>
