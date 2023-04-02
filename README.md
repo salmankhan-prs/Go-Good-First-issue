@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 03:33 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 03:43 UTC.</div>
+
+
+## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.6K ⭐️)</span>
@@ -299,9 +304,4 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
 
