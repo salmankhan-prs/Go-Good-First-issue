@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 04:33 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 04:43 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -39,11 +44,6 @@
 - [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
 
 - [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -216,7 +216,7 @@
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(876 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(877 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
