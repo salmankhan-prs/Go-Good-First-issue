@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 20:03 UTC.</div>
+<div align='center'>Last updated at April 2, 2023 20:13 UTC.</div>
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
@@ -17,7 +17,18 @@
 - [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(924 ⭐️)</span>
+## terrastruct/d2 <span style='color:#F1C40F'>(11.6K ⭐️)</span>
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [center align appendix lines](https://github.com/terrastruct/d2/issues/1104)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(925 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -37,20 +48,14 @@
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
 
 
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
 ## hauke96/wiki2book <span style='color:#F1C40F'>(2 ⭐️)</span>
 
 - [Better integration tests](https://github.com/hauke96/wiki2book/issues/48)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(11.6K ⭐️)</span>
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [center align appendix lines](https://github.com/terrastruct/d2/issues/1104)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
@@ -156,11 +161,6 @@
 - [Chore: give test network a fixed validator.](https://github.com/berachain/polaris/issues/481)
 
 - [chore: Check for precompile module account on startup](https://github.com/berachain/polaris/issues/423)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
