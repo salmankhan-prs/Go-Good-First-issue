@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 00:33 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 00:43 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -215,11 +220,6 @@
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(14 ⭐️)</span>
 
 - [Add test for log message struct](https://github.com/roc-streaming/roc-go/issues/52)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
