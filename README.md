@@ -4,10 +4,44 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 12:59 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 13:08 UTC.</div>
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
+
+- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
+
+- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
+
+
+## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(911 ⭐️)</span>
+
+- [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [When destroy an environment, the message says "deploying development environment"](https://github.com/okteto/okteto/issues/3450)
+
+- [Destroy message has an empty quote if the environment doesn't have a name](https://github.com/okteto/okteto/issues/3487)
+
+- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
+
+- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
+
+- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
 
 
 ## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
 
 - [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
 
@@ -26,6 +60,13 @@
 - [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
+## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
+
+- [`gh browse <commit SHA or number>` with `--branch` flag generates invalid URLs](https://github.com/cli/cli/issues/7266)
+
+- [docs: USAE and ARGUMENTS help page of `gh browse` does not have explanations about arg of commit SHA](https://github.com/cli/cli/issues/7264)
+
+
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
@@ -40,6 +81,15 @@
 ## kubernetes-sigs/kpng <span style='color:#F1C40F'>(196 ⭐️)</span>
 
 - [prototype a dpdk impl](https://github.com/kubernetes-sigs/kpng/issues/473)
+
+
+## knative/pkg <span style='color:#F1C40F'>(235 ⭐️)</span>
+
+- [Eventing TLS: Add AddressableFromDestination method on the resolver](https://github.com/knative/pkg/issues/2714)
+
+- [Eventing TLS: Update Destination and KReference](https://github.com/knative/pkg/issues/2712)
+
+- [Eventing TLS: Update Addressable and AddressStatus](https://github.com/knative/pkg/issues/2711)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -63,11 +113,6 @@
 - [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
 
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
@@ -315,20 +360,18 @@
 - [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
 
 
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(267 ⭐️)</span>
+
+- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
+
+- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
+
+
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
 
 - [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
 
 - [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
-
-- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
-
-- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
 
 ## omissis/hyperbuild <span style='color:#F1C40F'>(5 ⭐️)</span>
@@ -342,37 +385,4 @@
 - [Introduce github actions](https://github.com/omissis/hyperbuild/issues/5)
 
 - [Introduce goreleaser](https://github.com/omissis/hyperbuild/issues/4)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(435 ⭐️)</span>
-
-- [:book: Add a link to the blog on the Kairos homepage](https://github.com/kairos-io/kairos/issues/1239)
-
-- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
-
-- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
-
-
-## kubevela/velaux <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
-
-
-## KindlingProject/kindling <span style='color:#F1C40F'>(345 ⭐️)</span>
-
-- [Featutre request:  dynamic turn on / off probes in runtime.](https://github.com/KindlingProject/kindling/issues/481)
-
-
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## replicatedhq/troubleshoot <span style='color:#F1C40F'>(423 ⭐️)</span>
-
-- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
-
-- [Allow using kubernetes.io/tls when configuring DB collector TLS secrets](https://github.com/replicatedhq/troubleshoot/issues/1047)
-
-- [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
 
