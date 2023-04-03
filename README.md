@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 11:28 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 11:38 UTC.</div>
 
 
 ## trendev/ngrok-file-server <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -172,7 +172,7 @@
 - [logging: More uniformity around naming for loggers per package](https://github.com/celestiaorg/celestia-node/issues/1888)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(973 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(975 ⭐️)</span>
 
 - [docs: create documentation for installation via rpm, deb, apk](https://github.com/k8sgpt-ai/k8sgpt/issues/202)
 
