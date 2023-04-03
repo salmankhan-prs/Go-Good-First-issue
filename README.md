@@ -4,12 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 21:18 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 21:28 UTC.</div>
 
 
-## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
+## guacsec/guac <span style='color:#F1C40F'>(765 ⭐️)</span>
 
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
+
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
 
 
 ## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(21 ⭐️)</span>
@@ -19,6 +23,11 @@
 - [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
 
 
+## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+
 ## gnolang/gno <span style='color:#F1C40F'>(712 ⭐️)</span>
 
 - [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
@@ -26,7 +35,7 @@
 - [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
 
-## defenseunicorns/zarf <span style='color:#F1C40F'>(558 ⭐️)</span>
+## defenseunicorns/zarf <span style='color:#F1C40F'>(559 ⭐️)</span>
 
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
 
@@ -71,6 +80,11 @@
 ## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+
+
+## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
+
+- [`gh browse <commit SHA or number>` with `--branch` flag generates invalid URLs](https://github.com/cli/cli/issues/7266)
 
 
 ## solo-io/gloo <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -173,7 +187,7 @@
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(992 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(993 ⭐️)</span>
 
 - [docs: create documentation for installation via rpm, deb, apk](https://github.com/k8sgpt-ai/k8sgpt/issues/202)
 
