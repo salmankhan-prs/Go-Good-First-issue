@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 01:43 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 01:53 UTC.</div>
 
 
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -94,7 +94,7 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(936 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(937 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
