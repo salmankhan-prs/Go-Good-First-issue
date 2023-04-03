@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 09:18 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 09:28 UTC.</div>
 
 
 ## kubesimplify/ksctl <span style='color:#F1C40F'>(79 ⭐️)</span>
@@ -72,6 +72,8 @@
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(966 ⭐️)</span>
 
+- [docs: create documentation for installation via rpm, deb, apk](https://github.com/k8sgpt-ai/k8sgpt/issues/202)
+
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
@@ -86,17 +88,6 @@
 - [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
 
 - [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
-
-
-## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
-
-- [Show warning if there's a lot of releases](https://github.com/freiheit-com/kuberpult/issues/533)
-
-- [UI/UX: Precision of timespan in commit detail modal.](https://github.com/freiheit-com/kuberpult/issues/537)
-
-- [EnvironmentLabels sorted wrong](https://github.com/freiheit-com/kuberpult/issues/539)
-
-- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
@@ -165,13 +156,6 @@
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
-## envoyproxy/gateway <span style='color:#F1C40F'>(926 ⭐️)</span>
-
-- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
-
-- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
-
-
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
 - [env for pipeline name](https://github.com/woodpecker-ci/woodpecker/issues/1681)
@@ -181,13 +165,20 @@
 - [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
 
 
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+## adobe/k8s-shredder <span style='color:#F1C40F'>(9 ⭐️)</span>
 
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+- [Investigate CI e2e flakiness](https://github.com/adobe/k8s-shredder/issues/38)
 
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
 
 
 ## adobe/k8s-shredder <span style='color:#F1C40F'>(9 ⭐️)</span>
