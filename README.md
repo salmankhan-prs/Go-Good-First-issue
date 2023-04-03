@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 01:13 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 01:23 UTC.</div>
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -134,6 +139,11 @@
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
 
 - [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(398 ⭐️)</span>
+
+- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
 
 
 ## hauke96/wiki2book <span style='color:#F1C40F'>(2 ⭐️)</span>
