@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 16:38 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 16:48 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(11.9K ⭐️)</span>
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+
+## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
 
 
 ## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -135,6 +159,11 @@
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
+## helm/helm <span style='color:#F1C40F'>(24.1K ⭐️)</span>
+
+- [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
+
+
 ## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
 
 - [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
@@ -170,6 +199,11 @@
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
+## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
+
+
 ## superfly/flyctl <span style='color:#F1C40F'>(958 ⭐️)</span>
 
 - [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
@@ -180,11 +214,6 @@
 ## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
@@ -260,11 +289,6 @@
 - [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
 
 
-## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
-
-
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(21 ⭐️)</span>
 
 - [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
@@ -318,27 +342,4 @@
 - [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
 
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
-
-
-## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
-
-- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
-
-- [Use state enums in connection handshake log](https://github.com/cosmos/ibc-go/issues/3385)
-
-
-## knative/pkg <span style='color:#F1C40F'>(235 ⭐️)</span>
-
-- [Eventing TLS: Add AddressableFromDestination method on the resolver](https://github.com/knative/pkg/issues/2714)
-
-- [Eventing TLS: Update Destination and KReference](https://github.com/knative/pkg/issues/2712)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
