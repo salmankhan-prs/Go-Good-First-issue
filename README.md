@@ -4,7 +4,40 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 08:08 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 08:18 UTC.</div>
+
+
+## ory/hydra <span style='color:#F1C40F'>(13.9K ⭐️)</span>
+
+- [upstream reference closed: github.com/gobuffalo/fizz/issues/104](https://github.com/ory/hydra/issues/3470)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(963 ⭐️)</span>
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
@@ -47,16 +80,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -136,15 +159,6 @@
 - [bug: doc-gen not generating/updating docs, missing plugin docs](https://github.com/fluent/fluent-operator/issues/666)
 
 - [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(963 ⭐️)</span>
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 
 ## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
@@ -346,7 +360,7 @@
 - [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
 
 
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
 
@@ -369,16 +383,4 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(558 ⭐️)</span>
-
-- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
-## grafana-operator/grafana-operator <span style='color:#F1C40F'>(553 ⭐️)</span>
-
-- [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
