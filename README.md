@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 06:48 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 06:58 UTC.</div>
+
+
+## weaviate/weaviate-go-client <span style='color:#F1C40F'>(10 ⭐️)</span>
+
+- [Add support for API keys](https://github.com/weaviate/weaviate-go-client/issues/136)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
 ## fluent/fluent-operator <span style='color:#F1C40F'>(398 ⭐️)</span>
@@ -133,7 +143,7 @@
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
-## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(349 ⭐️)</span>
+## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(350 ⭐️)</span>
 
 - [Add EKS security rule: EKS clusters should have encryption of K8s secrets enabled.](https://github.com/Zeus-Labs/ZeusCloud/issues/128)
 
@@ -228,6 +238,13 @@
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
+## gnolang/gno <span style='color:#F1C40F'>(712 ⭐️)</span>
+
+- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
+
+- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
+
+
 ## apache/apisix-ingress-controller <span style='color:#F1C40F'>(769 ⭐️)</span>
 
 - [docs: ApisixUpstream reference need to be updated](https://github.com/apache/apisix-ingress-controller/issues/1740)
@@ -299,11 +316,4 @@
 ## grafana-operator/grafana-operator <span style='color:#F1C40F'>(553 ⭐️)</span>
 
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
