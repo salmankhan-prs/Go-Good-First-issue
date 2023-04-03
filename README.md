@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 03:53 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 04:03 UTC.</div>
+
+
+## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
+
+- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
+
+- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
+
+- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
+
+
+## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
+
+- [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.7K ⭐️)</span>
@@ -26,13 +42,6 @@
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
-## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
-
-- [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
-
-
 ## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
@@ -40,13 +49,25 @@
 - [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
 
 
-## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
+## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(20 ⭐️)</span>
 
-- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
+- [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
 
-- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
+- [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
 
-- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
+
+## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [Pytorch Serve supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2178)
+
+- [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
+
+- [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## apache/apisix-ingress-controller <span style='color:#F1C40F'>(769 ⭐️)</span>
@@ -330,4 +351,97 @@
 - [Support ProtocolsConfigure](https://github.com/openreserveio/dwn/issues/79)
 
 - [Support ProtocolsQuery](https://github.com/openreserveio/dwn/issues/80)
+
+
+## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
+
+- [Use state enums in connection handshake log](https://github.com/cosmos/ibc-go/issues/3385)
+
+- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
+
+
+## roc-streaming/roc-go <span style='color:#F1C40F'>(14 ⭐️)</span>
+
+- [Add test for log message struct](https://github.com/roc-streaming/roc-go/issues/52)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## berachain/polaris <span style='color:#F1C40F'>(62 ⭐️)</span>
+
+- [refactor(scripts): Refactor the init.sh script into a genesis builder golang cli tool.](https://github.com/berachain/polaris/issues/474)
+
+- [Marshal/Unmarshal of core Geth types is slow](https://github.com/berachain/polaris/issues/446)
+
+- [chore(geth): Upgrade to v1.11.5](https://github.com/berachain/polaris/issues/507)
+
+- [imp(testing): improve ginkgo testing structure ](https://github.com/berachain/polaris/issues/506)
+
+- [Chore: give test network a fixed validator.](https://github.com/berachain/polaris/issues/481)
+
+- [chore: Check for precompile module account on startup](https://github.com/berachain/polaris/issues/423)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+
+## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
+
+- [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
+
+
+## alexandrevilain/temporal-operator <span style='color:#F1C40F'>(49 ⭐️)</span>
+
+- [Automate build of Temporal worker process example and include in ghr](https://github.com/alexandrevilain/temporal-operator/issues/306)
+
+
+## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
+
+
+## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
+
+
+## dapr/components-contrib <span style='color:#F1C40F'>(438 ⭐️)</span>
+
+- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
+
+- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
+
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+- [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
+
+
+## mercy34mercy/bustimer_kic <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [infra層 errハンドリングテスト](https://github.com/mercy34mercy/bustimer_kic/issues/153)
+
+- [適切なvalidateを入れる](https://github.com/mercy34mercy/bustimer_kic/issues/146)
+
+- [buildにキャッシュ導入](https://github.com/mercy34mercy/bustimer_kic/issues/150)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
+
+
+## kubesimplify/ksctl <span style='color:#F1C40F'>(79 ⭐️)</span>
+
+- [[API](*) fix for SSH no host key checks](https://github.com/kubesimplify/ksctl/pull/83)
+
+- [[BUG][CLI or API] (Provider) Ksctl Cred](https://github.com/kubesimplify/ksctl/issues/79)
 
