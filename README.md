@@ -4,14 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 03:23 UTC.</div>
-
-
-## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
-
-- [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
+<div align='center'>Last updated at April 3, 2023 03:33 UTC.</div>
 
 
 ## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(20 ⭐️)</span>
@@ -19,6 +12,13 @@
 - [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
 
 - [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
+
+
+## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
+
+- [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
@@ -133,6 +133,11 @@
 - [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
 
 - [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
+
+
+## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
 
 
 ## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
