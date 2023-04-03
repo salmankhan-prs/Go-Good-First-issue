@@ -4,12 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 20:08 UTC.</div>
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+<div align='center'>Last updated at April 3, 2023 20:18 UTC.</div>
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.9K ⭐️)</span>
@@ -19,6 +14,21 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+
+
+## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -82,11 +92,6 @@
 ## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(144 ⭐️)</span>
 
 - [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
-
-
-## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -301,11 +306,6 @@
 - [logging: More uniformity around naming for loggers per package](https://github.com/celestiaorg/celestia-node/issues/1888)
 
 
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
@@ -322,16 +322,4 @@
 ## project-zot/zot <span style='color:#F1C40F'>(331 ⭐️)</span>
 
 - [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
-
-- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
-
-
-## opensearch-project/opensearch-go <span style='color:#F1C40F'>(109 ⭐️)</span>
-
-- [[FEATURE] Add a code/markdown linter](https://github.com/opensearch-project/opensearch-go/issues/260)
 
