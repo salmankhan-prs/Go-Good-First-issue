@@ -4,12 +4,33 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 05:38 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 05:48 UTC.</div>
+
+
+## kubearmor/kubearmor-client <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [karmor probe should show namespace/host visibility and default posture setting](https://github.com/kubearmor/kubearmor-client/issues/298)
+
+- [`karmor profile` doesn't exit TUI mode on gRPC service connection errors](https://github.com/kubearmor/kubearmor-client/issues/294)
+
+
+## kubearmor/KubeArmor <span style='color:#F1C40F'>(651 ⭐️)</span>
+
+- [Use registry client for updating stable release workflow](https://github.com/kubearmor/KubeArmor/issues/1169)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
+
+- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## fluent/fluent-operator <span style='color:#F1C40F'>(398 ⭐️)</span>
@@ -40,11 +61,6 @@
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
 
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-
-## kubearmor/KubeArmor <span style='color:#F1C40F'>(651 ⭐️)</span>
-
-- [Use registry client for updating stable release workflow](https://github.com/kubearmor/KubeArmor/issues/1169)
 
 
 ## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -101,15 +117,6 @@
 - [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
 
 - [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -411,14 +418,4 @@
 - [Chore: give test network a fixed validator.](https://github.com/berachain/polaris/issues/481)
 
 - [chore: Check for precompile module account on startup](https://github.com/berachain/polaris/issues/423)
-
-
-## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
-
-- [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
-
-
-## alexandrevilain/temporal-operator <span style='color:#F1C40F'>(49 ⭐️)</span>
-
-- [Automate build of Temporal worker process example and include in ghr](https://github.com/alexandrevilain/temporal-operator/issues/306)
 
