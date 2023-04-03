@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 00:13 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 00:23 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
@@ -66,7 +66,7 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(932 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(933 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
