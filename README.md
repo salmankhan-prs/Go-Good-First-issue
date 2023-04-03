@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 01:33 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 01:43 UTC.</div>
 
 
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -44,7 +44,7 @@
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
-## terrastruct/d2 <span style='color:#F1C40F'>(11.6K ⭐️)</span>
+## terrastruct/d2 <span style='color:#F1C40F'>(11.7K ⭐️)</span>
 
 - [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
 
@@ -149,6 +149,8 @@
 
 
 ## fluent/fluent-operator <span style='color:#F1C40F'>(398 ⭐️)</span>
+
+- [bug: doc-gen not generating/updating docs, missing plugin docs](https://github.com/fluent/fluent-operator/issues/666)
 
 - [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
 
@@ -325,9 +327,4 @@
 - [[API](*) fix for SSH no host key checks](https://github.com/kubesimplify/ksctl/pull/83)
 
 - [[BUG][CLI or API] (Provider) Ksctl Cred](https://github.com/kubesimplify/ksctl/issues/79)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
 
