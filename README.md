@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 11:18 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 11:28 UTC.</div>
 
 
 ## trendev/ngrok-file-server <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -14,6 +14,11 @@
 - [color status code + test](https://github.com/trendev/ngrok-file-server/issues/3)
 
 - [color http method in logs](https://github.com/trendev/ngrok-file-server/issues/1)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.1K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -167,7 +172,7 @@
 - [logging: More uniformity around naming for loggers per package](https://github.com/celestiaorg/celestia-node/issues/1888)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(972 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(973 ⭐️)</span>
 
 - [docs: create documentation for installation via rpm, deb, apk](https://github.com/k8sgpt-ai/k8sgpt/issues/202)
 
@@ -259,16 +264,18 @@
 - [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(16.1K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
 ## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
 
 - [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
 
 ## kubesimplify/ksctl <span style='color:#F1C40F'>(79 ⭐️)</span>
@@ -304,4 +311,58 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+
+## ory/hydra <span style='color:#F1C40F'>(13.9K ⭐️)</span>
+
+- [upstream reference closed: github.com/gobuffalo/fizz/issues/104](https://github.com/ory/hydra/issues/3470)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
+
+- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
+
+
+## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
+
+- [Show warning if there's a lot of releases](https://github.com/freiheit-com/kuberpult/issues/533)
+
+- [UI/UX: Precision of timespan in commit detail modal.](https://github.com/freiheit-com/kuberpult/issues/537)
+
+- [EnvironmentLabels sorted wrong](https://github.com/freiheit-com/kuberpult/issues/539)
+
+- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+
+- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
+
+
+## weaviate/weaviate-go-client <span style='color:#F1C40F'>(10 ⭐️)</span>
+
+- [Add support for API keys](https://github.com/weaviate/weaviate-go-client/issues/136)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(399 ⭐️)</span>
+
+- [bug: doc-gen not generating/updating docs, missing plugin docs](https://github.com/fluent/fluent-operator/issues/666)
+
+- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
 
