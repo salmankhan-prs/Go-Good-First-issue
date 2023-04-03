@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 02:03 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 02:13 UTC.</div>
 
 
 ## grafana-operator/grafana-operator <span style='color:#F1C40F'>(553 ⭐️)</span>
@@ -60,6 +60,13 @@
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
+## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
+
+
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
@@ -99,7 +106,7 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(937 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(939 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -168,6 +175,19 @@
 ## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
 
 - [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
+
+
+## golang-app/ecommerce <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [When I click on the cart icon, I should see summary of the cart](https://github.com/golang-app/ecommerce/issues/33)
+
+- [The cart icon on the top menu doesn't update when a new item is added to the cart](https://github.com/golang-app/ecommerce/issues/32)
+
+- [When a product changes its name/price in the product catalog, those changes aren't visible in the cart](https://github.com/golang-app/ecommerce/issues/24)
+
+- [Add grafana dashboard with go runtime metrics](https://github.com/golang-app/ecommerce/issues/23)
+
+- [Add codespaces ](https://github.com/golang-app/ecommerce/issues/20)
 
 
 ## golang-app/ecommerce <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -315,16 +335,4 @@
 - [適切なvalidateを入れる](https://github.com/mercy34mercy/bustimer_kic/issues/146)
 
 - [buildにキャッシュ導入](https://github.com/mercy34mercy/bustimer_kic/issues/150)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
-
-
-## kubesimplify/ksctl <span style='color:#F1C40F'>(79 ⭐️)</span>
-
-- [[API](*) fix for SSH no host key checks](https://github.com/kubesimplify/ksctl/pull/83)
-
-- [[BUG][CLI or API] (Provider) Ksctl Cred](https://github.com/kubesimplify/ksctl/issues/79)
 
