@@ -4,7 +4,37 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 10:38 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 10:48 UTC.</div>
+
+
+## adobe/k8s-shredder <span style='color:#F1C40F'>(9 ⭐️)</span>
+
+- [Investigate CI e2e flakiness](https://github.com/adobe/k8s-shredder/issues/38)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+
+## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Remove unused code from MetaRangeManager](https://github.com/treeverse/lakeFS/issues/5605)
+
+- [Alert on new lakeFS version](https://github.com/treeverse/lakeFS/issues/5406)
+
+- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
+
+- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -24,6 +54,11 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
+
+- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
 
 
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
@@ -296,11 +331,6 @@
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
-## adobe/k8s-shredder <span style='color:#F1C40F'>(9 ⭐️)</span>
-
-- [Investigate CI e2e flakiness](https://github.com/adobe/k8s-shredder/issues/38)
-
-
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
@@ -315,11 +345,6 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
-
-- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -349,16 +374,4 @@
 ## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
-
-
-## thanos-community/promql-engine <span style='color:#F1C40F'>(81 ⭐️)</span>
-
-- [Add support for timestamp function](https://github.com/thanos-community/promql-engine/issues/206)
-
-
-## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
-
-- [[Good First Issues]: New Source Connector Request: Facebook Page ](https://github.com/vanus-labs/vanus-connect/issues/262)
-
-- [🎯 New Source Connector Request: Twitter](https://github.com/vanus-labs/vanus-connect/issues/251)
 
