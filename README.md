@@ -4,30 +4,42 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 09:38 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 09:48 UTC.</div>
 
 
-## replicatedhq/troubleshoot <span style='color:#F1C40F'>(423 ⭐️)</span>
+## omissis/hyperbuild <span style='color:#F1C40F'>(5 ⭐️)</span>
 
-- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
+- [Introduce a dependency autoupdate tool](https://github.com/omissis/hyperbuild/issues/3)
 
-- [Allow using kubernetes.io/tls when configuring DB collector TLS secrets](https://github.com/replicatedhq/troubleshoot/issues/1047)
+- [Introduce badges](https://github.com/omissis/hyperbuild/issues/1)
 
-- [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
+- [Introduce codecov](https://github.com/omissis/hyperbuild/issues/2)
+
+- [Introduce github actions](https://github.com/omissis/hyperbuild/issues/5)
+
+- [Introduce goreleaser](https://github.com/omissis/hyperbuild/issues/4)
 
 
-## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+## kairos-io/kairos <span style='color:#F1C40F'>(435 ⭐️)</span>
 
-- [env for pipeline name](https://github.com/woodpecker-ci/woodpecker/issues/1681)
+- [:book: Add a link to the blog on the Kairos homepage](https://github.com/kairos-io/kairos/issues/1239)
 
-- [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
+- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
 
-- [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
+- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
+
+
+## kubevela/velaux <span style='color:#F1C40F'>(102 ⭐️)</span>
+
+- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
+
+
+## KindlingProject/kindling <span style='color:#F1C40F'>(345 ⭐️)</span>
+
+- [Featutre request:  dynamic turn on / off probes in runtime.](https://github.com/KindlingProject/kindling/issues/481)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(64 ⭐️)</span>
-
-- [Label metrics-controller instead of metrics-operator](https://github.com/keptn/lifecycle-toolkit/issues/1106)
 
 - [Research new base container images](https://github.com/keptn/lifecycle-toolkit/issues/1094)
 
@@ -48,6 +60,36 @@
 - [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
 
 
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+
+
+## replicatedhq/troubleshoot <span style='color:#F1C40F'>(423 ⭐️)</span>
+
+- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
+
+- [Allow using kubernetes.io/tls when configuring DB collector TLS secrets](https://github.com/replicatedhq/troubleshoot/issues/1047)
+
+- [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
+
+
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [env for pipeline name](https://github.com/woodpecker-ci/woodpecker/issues/1681)
+
+- [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
+
+- [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
+
+
+## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
+
+- [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
+
+
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
@@ -63,15 +105,6 @@
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.1K ⭐️)</span>
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(435 ⭐️)</span>
-
-- [:book: Add a link to the blog on the Kairos homepage](https://github.com/kairos-io/kairos/issues/1239)
-
-- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
-
-- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
 
 ## apache/apisix-ingress-controller <span style='color:#F1C40F'>(770 ⭐️)</span>
@@ -100,7 +133,7 @@
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(967 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(969 ⭐️)</span>
 
 - [docs: create documentation for installation via rpm, deb, apk](https://github.com/k8sgpt-ai/k8sgpt/issues/202)
 
@@ -192,6 +225,11 @@
 - [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
 
 
+## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
+
+
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
@@ -202,13 +240,6 @@
 - [bug: doc-gen not generating/updating docs, missing plugin docs](https://github.com/fluent/fluent-operator/issues/666)
 
 - [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(926 ⭐️)</span>
-
-- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
-
-- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -287,13 +318,6 @@
 - [🎯 New Source Connector Request: Twitter](https://github.com/vanus-labs/vanus-connect/issues/251)
 
 
-## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
-
-- [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
-
-
 ## kubearmor/KubeArmor <span style='color:#F1C40F'>(651 ⭐️)</span>
 
 - [Test KubeArmor on Amazon Linux 2023](https://github.com/kubearmor/KubeArmor/issues/1194)
@@ -333,11 +357,6 @@
 - [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
 
 
-## kubevela/velaux <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
-
-
 ## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [add gator to krew](https://github.com/open-policy-agent/gatekeeper/issues/2653)
@@ -351,14 +370,4 @@
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(911 ⭐️)</span>
 
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
