@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 04:58 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 05:08 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(398 ⭐️)</span>
+
+- [bug: doc-gen not generating/updating docs, missing plugin docs](https://github.com/fluent/fluent-operator/issues/666)
+
+- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -28,6 +40,13 @@
 ## kubearmor/KubeArmor <span style='color:#F1C40F'>(651 ⭐️)</span>
 
 - [Use registry client for updating stable release workflow](https://github.com/kubearmor/KubeArmor/issues/1169)
+
+
+## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
+
+- [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
 
 
 ## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(348 ⭐️)</span>
@@ -107,13 +126,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
-
-- [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
 
 
 ## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(20 ⭐️)</span>
@@ -244,11 +256,6 @@
 - [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
@@ -301,9 +308,4 @@
 - [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 - [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
