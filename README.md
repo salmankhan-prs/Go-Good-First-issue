@@ -4,12 +4,21 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 07:08 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 07:18 UTC.</div>
 
 
 ## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
+
+- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## thanos-community/promql-engine <span style='color:#F1C40F'>(81 ⭐️)</span>
@@ -34,7 +43,7 @@
 - [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(958 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(960 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -99,15 +108,6 @@
 ## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## kubevela/velaux <span style='color:#F1C40F'>(102 ⭐️)</span>
@@ -186,15 +186,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
-
-- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
-
-- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
-
-- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
@@ -303,4 +294,92 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [[Feature] Set up the component/trait definition unit tests framework based on CUE](https://github.com/kubevela/kubevela/issues/5766)
+
+- [vela show --web not populating ComponentType](https://github.com/kubevela/kubevela/issues/5769)
+
+- [The progress bar on the front end of the installation plugin is still spinning](https://github.com/kubevela/kubevela/issues/5753)
+
+- [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
+
+- [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
+
+- [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(558 ⭐️)</span>
+
+- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
+## grafana-operator/grafana-operator <span style='color:#F1C40F'>(553 ⭐️)</span>
+
+- [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
+
+- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
+
+
+## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+
+
+## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
+
+- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
+
+
+## Edgenesis/shifu <span style='color:#F1C40F'>(824 ⭐️)</span>
+
+- [The traffic light FSM implementation for deviceShifu](https://github.com/Edgenesis/shifu/issues/547)
+
+- [OPC UA node ID Browing feature on Shifu .Currently we are providing  NodeID' s Manually by going to the OPC UA server loc.  ](https://github.com/Edgenesis/shifu/issues/545)
+
+- [The simplest FSM implementation of deviceShifu](https://github.com/Edgenesis/shifu/issues/542)
+
+- [convert DeviceShifuBase data structure from single EdgeDevice to a list type of EdgeDevice](https://github.com/Edgenesis/shifu/issues/538)
+
+- [In swarm mode, deviceShifuBase supports multiple EdgeDevices](https://github.com/Edgenesis/shifu/issues/539)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
+## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
+
+- [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
+
+
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [env for pipeline name](https://github.com/woodpecker-ci/woodpecker/issues/1681)
+
+- [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
+
+- [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
 
