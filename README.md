@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 11:08 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 11:18 UTC.</div>
 
 
 ## trendev/ngrok-file-server <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -14,6 +14,11 @@
 - [color status code + test](https://github.com/trendev/ngrok-file-server/issues/3)
 
 - [color http method in logs](https://github.com/trendev/ngrok-file-server/issues/1)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
