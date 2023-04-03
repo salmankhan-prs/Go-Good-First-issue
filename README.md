@@ -4,12 +4,68 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 14:39 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 14:49 UTC.</div>
+
+
+## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+
+
+## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(21 ⭐️)</span>
+
+- [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
+
+- [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
+
+
+## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
+
+- [`gh browse <commit SHA or number>` with `--branch` flag generates invalid URLs](https://github.com/cli/cli/issues/7266)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+
+## trendev/ngrok-file-server <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [detail usage in README](https://github.com/trendev/ngrok-file-server/issues/5)
+
+- [color status code + test](https://github.com/trendev/ngrok-file-server/issues/3)
+
+- [color http method in logs](https://github.com/trendev/ngrok-file-server/issues/1)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.8K ⭐️)</span>
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## dominant-strategies/go-quai <span style='color:#F1C40F'>(152 ⭐️)</span>
@@ -36,13 +92,6 @@
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
-## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(21 ⭐️)</span>
-
-- [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
-
-- [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
-
-
 ## kairos-io/kairos <span style='color:#F1C40F'>(435 ⭐️)</span>
 
 - [:book: Add a link to the blog on the Kairos homepage](https://github.com/kairos-io/kairos/issues/1239)
@@ -52,9 +101,13 @@
 - [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
 
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
 
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -79,17 +132,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
 
 
 ## gnolang/gno <span style='color:#F1C40F'>(712 ⭐️)</span>
@@ -118,21 +160,14 @@
 - [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
 
 
-## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
-
-- [`gh browse <commit SHA or number>` with `--branch` flag generates invalid URLs](https://github.com/cli/cli/issues/7266)
-
-- [docs: USAE and ARGUMENTS help page of `gh browse` does not have explanations about arg of commit SHA](https://github.com/cli/cli/issues/7264)
-
-
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+- [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -182,15 +217,6 @@
 - [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
 
 - [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
-
-
-## trendev/ngrok-file-server <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [detail usage in README](https://github.com/trendev/ngrok-file-server/issues/5)
-
-- [color status code + test](https://github.com/trendev/ngrok-file-server/issues/3)
-
-- [color http method in logs](https://github.com/trendev/ngrok-file-server/issues/1)
 
 
 ## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -361,11 +387,4 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## ipfs-cluster/ipfs-cluster <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [MaxConcurrentCompactions is missing from Pebble json config](https://github.com/ipfs-cluster/ipfs-cluster/issues/1895)
-
-- [healthcheck endpoint without auth](https://github.com/ipfs-cluster/ipfs-cluster/issues/1884)
 
