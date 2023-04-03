@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 04:38 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 04:48 UTC.</div>
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
 ## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(348 ⭐️)</span>
@@ -49,6 +54,15 @@
 - [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
 
 - [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
+
+- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -115,15 +129,6 @@
 - [[docs]: translate kitex custom template doc based on Chinese doc](https://github.com/cloudwego/kitex/issues/856)
 
 - [[docs]: translate kitex codegen doc based on Chinese doc](https://github.com/cloudwego/kitex/issues/861)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
@@ -255,7 +260,7 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(951 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(952 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -296,154 +301,4 @@
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
 
 - [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
-## fluent/fluent-operator <span style='color:#F1C40F'>(398 ⭐️)</span>
-
-- [bug: doc-gen not generating/updating docs, missing plugin docs](https://github.com/fluent/fluent-operator/issues/666)
-
-- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
-
-
-## hauke96/wiki2book <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [Better integration tests](https://github.com/hauke96/wiki2book/issues/48)
-
-
-## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
-
-- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
-
-
-## golang-app/ecommerce <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [When I click on the cart icon, I should see summary of the cart](https://github.com/golang-app/ecommerce/issues/33)
-
-- [The cart icon on the top menu doesn't update when a new item is added to the cart](https://github.com/golang-app/ecommerce/issues/32)
-
-- [When a product changes its name/price in the product catalog, those changes aren't visible in the cart](https://github.com/golang-app/ecommerce/issues/24)
-
-- [Add grafana dashboard with go runtime metrics](https://github.com/golang-app/ecommerce/issues/23)
-
-- [Add codespaces ](https://github.com/golang-app/ecommerce/issues/20)
-
-
-## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
-
-- [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
-
-- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/352)
-
-- [Convert DateTime tests to table-driven style](https://github.com/gavv/httpexpect/issues/354)
-
-- [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
-
-- [Convert WebsocketMessage tests to table-driven style](https://github.com/gavv/httpexpect/issues/356)
-
-- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
-
-
-## openreserveio/dwn <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [PermissionsRevoke](https://github.com/openreserveio/dwn/issues/90)
-
-- [PermissionsQuery](https://github.com/openreserveio/dwn/issues/91)
-
-- [PermissionsRequest](https://github.com/openreserveio/dwn/issues/92)
-
-- [PermissionsGrant](https://github.com/openreserveio/dwn/issues/93)
-
-- [Create sample postman collections for public](https://github.com/openreserveio/dwn/issues/88)
-
-- [Support ProtocolsConfigure](https://github.com/openreserveio/dwn/issues/79)
-
-- [Support ProtocolsQuery](https://github.com/openreserveio/dwn/issues/80)
-
-
-## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
-
-- [Use state enums in connection handshake log](https://github.com/cosmos/ibc-go/issues/3385)
-
-- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
-
-
-## roc-streaming/roc-go <span style='color:#F1C40F'>(14 ⭐️)</span>
-
-- [Add test for log message struct](https://github.com/roc-streaming/roc-go/issues/52)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## berachain/polaris <span style='color:#F1C40F'>(62 ⭐️)</span>
-
-- [refactor(scripts): Refactor the init.sh script into a genesis builder golang cli tool.](https://github.com/berachain/polaris/issues/474)
-
-- [Marshal/Unmarshal of core Geth types is slow](https://github.com/berachain/polaris/issues/446)
-
-- [chore(geth): Upgrade to v1.11.5](https://github.com/berachain/polaris/issues/507)
-
-- [imp(testing): improve ginkgo testing structure ](https://github.com/berachain/polaris/issues/506)
-
-- [Chore: give test network a fixed validator.](https://github.com/berachain/polaris/issues/481)
-
-- [chore: Check for precompile module account on startup](https://github.com/berachain/polaris/issues/423)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-
-## helm/helm <span style='color:#F1C40F'>(24.0K ⭐️)</span>
-
-- [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
-
-
-## alexandrevilain/temporal-operator <span style='color:#F1C40F'>(49 ⭐️)</span>
-
-- [Automate build of Temporal worker process example and include in ghr](https://github.com/alexandrevilain/temporal-operator/issues/306)
-
-
-## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
-
-
-## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
-
-
-## dapr/components-contrib <span style='color:#F1C40F'>(438 ⭐️)</span>
-
-- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
-
-- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
-
-- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
-
-- [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
-
-
-## mercy34mercy/bustimer_kic <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [infra層 errハンドリングテスト](https://github.com/mercy34mercy/bustimer_kic/issues/153)
-
-- [適切なvalidateを入れる](https://github.com/mercy34mercy/bustimer_kic/issues/146)
-
-- [buildにキャッシュ導入](https://github.com/mercy34mercy/bustimer_kic/issues/150)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
 
