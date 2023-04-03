@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 2, 2023 23:53 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 00:03 UTC.</div>
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
