@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 23:48 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 23:58 UTC.</div>
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(12.0K ⭐️)</span>
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
@@ -253,15 +262,6 @@
 - [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
 
 - [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(12.0K ⭐️)</span>
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## gnolang/gno <span style='color:#F1C40F'>(712 ⭐️)</span>
