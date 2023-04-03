@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 06:38 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 06:48 UTC.</div>
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(398 ⭐️)</span>
+
+- [bug: doc-gen not generating/updating docs, missing plugin docs](https://github.com/fluent/fluent-operator/issues/666)
+
+- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(958 ⭐️)</span>
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 
 ## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
@@ -22,6 +38,13 @@
 ## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
+
+
+## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
+
+- [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
 
 
 ## kubearmor/KubeArmor <span style='color:#F1C40F'>(651 ⭐️)</span>
@@ -58,6 +81,11 @@
 - [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
 
 
+## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
+
+
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
@@ -75,13 +103,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## fluent/fluent-operator <span style='color:#F1C40F'>(398 ⭐️)</span>
-
-- [bug: doc-gen not generating/updating docs, missing plugin docs](https://github.com/fluent/fluent-operator/issues/666)
-
-- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -110,13 +131,6 @@
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
 
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-
-## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
-
-- [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
 
 
 ## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(349 ⭐️)</span>
@@ -201,6 +215,19 @@
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
 ## apache/apisix-ingress-controller <span style='color:#F1C40F'>(769 ⭐️)</span>
 
 - [docs: ApisixUpstream reference need to be updated](https://github.com/apache/apisix-ingress-controller/issues/1740)
@@ -279,98 +306,4 @@
 - [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
 
 - [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
-
-
-## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
-
-
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
-
-- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
-
-
-## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
-
-- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
-
-
-## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
-
-- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
-
-- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
-
-
-## Edgenesis/shifu <span style='color:#F1C40F'>(824 ⭐️)</span>
-
-- [The traffic light FSM implementation for deviceShifu](https://github.com/Edgenesis/shifu/issues/547)
-
-- [OPC UA node ID Browing feature on Shifu .Currently we are providing  NodeID' s Manually by going to the OPC UA server loc.  ](https://github.com/Edgenesis/shifu/issues/545)
-
-- [The simplest FSM implementation of deviceShifu](https://github.com/Edgenesis/shifu/issues/542)
-
-- [convert DeviceShifuBase data structure from single EdgeDevice to a list type of EdgeDevice](https://github.com/Edgenesis/shifu/issues/538)
-
-- [In swarm mode, deviceShifuBase supports multiple EdgeDevices](https://github.com/Edgenesis/shifu/issues/539)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
-
-- [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
-
-
-## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [env for pipeline name](https://github.com/woodpecker-ci/woodpecker/issues/1681)
-
-- [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
-
-- [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(957 ⭐️)</span>
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
-
-
-## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [Purge messages](https://github.com/memphisdev/memphis/issues/793)
-
-- [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
-
-- [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
-
-- [Feature: Native support in Cloudevents](https://github.com/memphisdev/memphis/issues/777)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
