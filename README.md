@@ -4,7 +4,47 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 19:58 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 20:08 UTC.</div>
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(11.9K ⭐️)</span>
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
 
 
 ## Frontman-Labs/frontman <span style='color:#F1C40F'>(96 ⭐️)</span>
@@ -18,15 +58,6 @@
 - [Remove redundant lockings if possible ](https://github.com/Frontman-Labs/frontman/issues/82)
 
 - [Add URL Rewriting Feature to API Gateway](https://github.com/Frontman-Labs/frontman/issues/74)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(11.9K ⭐️)</span>
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
@@ -58,18 +89,6 @@
 - [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
@@ -78,15 +97,6 @@
 ## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
 
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(958 ⭐️)</span>
@@ -212,11 +222,6 @@
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
 ## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
@@ -329,13 +334,4 @@
 ## opensearch-project/opensearch-go <span style='color:#F1C40F'>(109 ⭐️)</span>
 
 - [[FEATURE] Add a code/markdown linter](https://github.com/opensearch-project/opensearch-go/issues/260)
-
-
-## solo-io/gloo <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
-
-- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
-
-- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
 
