@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 03:33 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 03:43 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(20 ⭐️)</span>
@@ -28,11 +33,6 @@
 - [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
 
 - [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## apache/apisix-ingress-controller <span style='color:#F1C40F'>(769 ⭐️)</span>
