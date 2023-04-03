@@ -4,7 +4,40 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 19:08 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 19:18 UTC.</div>
+
+
+## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
+
+- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+
+- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
+
+- [UI - ToolBar - upgrade button](https://github.com/komodorio/helm-dashboard/issues/264)
+
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [UI - General - Install Modal](https://github.com/komodorio/helm-dashboard/issues/259)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
+
+- [UI - General - Uninstall modal](https://github.com/komodorio/helm-dashboard/issues/257)
+
+- [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -23,15 +56,9 @@
 - [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
 
 
-## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
-- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
-
-- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
-
-- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.9K ⭐️)</span>
@@ -41,11 +68,6 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## deislabs/ratify <span style='color:#F1C40F'>(109 ⭐️)</span>
@@ -79,6 +101,13 @@
 - [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
 
 - [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(268 ⭐️)</span>
+
+- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
+
+- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
@@ -287,76 +316,4 @@
 ## apache/apisix-ingress-controller <span style='color:#F1C40F'>(770 ⭐️)</span>
 
 - [docs: ApisixUpstream reference need to be updated](https://github.com/apache/apisix-ingress-controller/issues/1740)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(927 ⭐️)</span>
-
-- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
-
-- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
-
-
-## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
-
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
-
-- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
-
-
-## omissis/hyperbuild <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Introduce badges](https://github.com/omissis/hyperbuild/issues/1)
-
-- [Introduce codecov](https://github.com/omissis/hyperbuild/issues/2)
-
-- [Introduce github actions](https://github.com/omissis/hyperbuild/issues/5)
-
-- [Introduce goreleaser](https://github.com/omissis/hyperbuild/issues/4)
-
-
-## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
-
-
-## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [add gator to krew](https://github.com/open-policy-agent/gatekeeper/issues/2653)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
-
-
-## berachain/polaris <span style='color:#F1C40F'>(62 ⭐️)</span>
-
-- [refactor(scripts): Refactor the init.sh script into a genesis builder golang cli tool.](https://github.com/berachain/polaris/issues/474)
-
-- [Marshal/Unmarshal of core Geth types is slow](https://github.com/berachain/polaris/issues/446)
-
-- [chore(geth): Upgrade to v1.11.5](https://github.com/berachain/polaris/issues/507)
-
-- [imp(testing): improve ginkgo testing structure ](https://github.com/berachain/polaris/issues/506)
-
-- [Chore: give test network a fixed validator.](https://github.com/berachain/polaris/issues/481)
-
-- [chore: Check for precompile module account on startup](https://github.com/berachain/polaris/issues/423)
 
