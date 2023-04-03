@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 02:43 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 02:53 UTC.</div>
+
+
+## apache/apisix-ingress-controller <span style='color:#F1C40F'>(769 ⭐️)</span>
+
+- [docs: ApisixUpstream reference need to be updated](https://github.com/apache/apisix-ingress-controller/issues/1740)
 
 
 ## cloudwego/kitex <span style='color:#F1C40F'>(5.8K ⭐️)</span>
@@ -32,6 +37,15 @@
 - [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
 
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
+
+- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
+
+- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
+
+- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -189,7 +203,7 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(944 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(945 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -350,9 +364,4 @@
 ## alexandrevilain/temporal-operator <span style='color:#F1C40F'>(49 ⭐️)</span>
 
 - [Automate build of Temporal worker process example and include in ghr](https://github.com/alexandrevilain/temporal-operator/issues/306)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
 
