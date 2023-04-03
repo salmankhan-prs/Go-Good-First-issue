@@ -4,10 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 05:48 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 05:58 UTC.</div>
 
 
 ## kubearmor/kubearmor-client <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [karmor probe: use config map to fetch data](https://github.com/kubearmor/kubearmor-client/issues/304)
 
 - [karmor probe should show namespace/host visibility and default posture setting](https://github.com/kubearmor/kubearmor-client/issues/298)
 
@@ -53,6 +55,11 @@
 - [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
 
 
+## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
+
+
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.0K ⭐️)</span>
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
@@ -70,7 +77,7 @@
 - [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
 
 
-## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(348 ⭐️)</span>
+## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(349 ⭐️)</span>
 
 - [Add EKS security rule: EKS clusters should have encryption of K8s secrets enabled.](https://github.com/Zeus-Labs/ZeusCloud/issues/128)
 
@@ -386,9 +393,9 @@
 
 ## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
 
-- [Use state enums in connection handshake log](https://github.com/cosmos/ibc-go/issues/3385)
-
 - [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
+
+- [Use state enums in connection handshake log](https://github.com/cosmos/ibc-go/issues/3385)
 
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(14 ⭐️)</span>
@@ -403,19 +410,4 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## berachain/polaris <span style='color:#F1C40F'>(62 ⭐️)</span>
-
-- [refactor(scripts): Refactor the init.sh script into a genesis builder golang cli tool.](https://github.com/berachain/polaris/issues/474)
-
-- [Marshal/Unmarshal of core Geth types is slow](https://github.com/berachain/polaris/issues/446)
-
-- [chore(geth): Upgrade to v1.11.5](https://github.com/berachain/polaris/issues/507)
-
-- [imp(testing): improve ginkgo testing structure ](https://github.com/berachain/polaris/issues/506)
-
-- [Chore: give test network a fixed validator.](https://github.com/berachain/polaris/issues/481)
-
-- [chore: Check for precompile module account on startup](https://github.com/berachain/polaris/issues/423)
 
