@@ -4,7 +4,42 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 20:48 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 20:58 UTC.</div>
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+
+
+## solo-io/gloo <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
+
+- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
+
+- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(11.9K ⭐️)</span>
@@ -23,25 +58,9 @@
 - [`pinniped get kubeconfig` should check if Supervisor supports `username` and `groups` scopes](https://github.com/vmware-tanzu/pinniped/issues/1450)
 
 
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## gnolang/gno <span style='color:#F1C40F'>(712 ⭐️)</span>
@@ -51,13 +70,13 @@
 - [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
 
-## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
 
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
 
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
@@ -78,11 +97,6 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -117,16 +131,7 @@
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
-## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(991 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(992 ⭐️)</span>
 
 - [docs: create documentation for installation via rpm, deb, apk](https://github.com/k8sgpt-ai/k8sgpt/issues/202)
 
@@ -314,15 +319,4 @@
 - [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
 
 - [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
-
-
-## dapr/components-contrib <span style='color:#F1C40F'>(438 ⭐️)</span>
-
-- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
-
-- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
-
-- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
-
-- [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
 
