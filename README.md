@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 08:48 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 08:58 UTC.</div>
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(966 ⭐️)</span>
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 
 ## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
@@ -103,15 +112,6 @@
 - [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
 
 - [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(965 ⭐️)</span>
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
