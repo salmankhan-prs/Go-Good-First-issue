@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 02:33 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 02:43 UTC.</div>
+
+
+## cloudwego/kitex <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [[docs]: translate kitex custom template doc based on Chinese doc](https://github.com/cloudwego/kitex/issues/856)
+
+- [[docs]: translate kitex codegen doc based on Chinese doc](https://github.com/cloudwego/kitex/issues/861)
+
+
+## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
+
+- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
+
+- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
+
+- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -16,15 +32,6 @@
 - [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
 
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-
-## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
-
-- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
-
-- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
-
-- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -65,6 +72,13 @@
 - [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
 
 - [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(558 ⭐️)</span>
+
+- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
 
 ## grafana-operator/grafana-operator <span style='color:#F1C40F'>(553 ⭐️)</span>
@@ -175,7 +189,7 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(942 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(944 ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
@@ -341,14 +355,4 @@
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
-
-
-## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
 
