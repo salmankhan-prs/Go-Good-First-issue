@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 11:58 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 12:08 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -49,6 +54,11 @@
 - [[Tests] kuttl generate tests for Namespaced Policy](https://github.com/kyverno/kyverno/issues/6535)
 
 
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
+
+
 ## trendev/ngrok-file-server <span style='color:#F1C40F'>(0 ⭐️)</span>
 
 - [detail usage in README](https://github.com/trendev/ngrok-file-server/issues/5)
@@ -70,6 +80,11 @@
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 - [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
@@ -201,7 +216,7 @@
 - [logging: More uniformity around naming for loggers per package](https://github.com/celestiaorg/celestia-node/issues/1888)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(975 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(976 ⭐️)</span>
 
 - [docs: create documentation for installation via rpm, deb, apk](https://github.com/k8sgpt-ai/k8sgpt/issues/202)
 
@@ -279,23 +294,4 @@
 - [Contrib: doc source structure](https://github.com/keptn/lifecycle-toolkit/issues/998)
 
 - [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
-
-
-## KindlingProject/kindling <span style='color:#F1C40F'>(345 ⭐️)</span>
-
-- [Featutre request:  dynamic turn on / off probes in runtime.](https://github.com/KindlingProject/kindling/issues/481)
-
-
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## replicatedhq/troubleshoot <span style='color:#F1C40F'>(423 ⭐️)</span>
-
-- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
-
-- [Allow using kubernetes.io/tls when configuring DB collector TLS secrets](https://github.com/replicatedhq/troubleshoot/issues/1047)
-
-- [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
 
