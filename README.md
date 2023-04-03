@@ -4,19 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 3, 2023 15:28 UTC.</div>
+<div align='center'>Last updated at April 3, 2023 15:38 UTC.</div>
 
 
 ## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## trendev/ngrok-file-server <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [detail usage in README](https://github.com/trendev/ngrok-file-server/issues/5)
-
-- [color status code + test](https://github.com/trendev/ngrok-file-server/issues/3)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -85,6 +78,11 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -254,11 +252,6 @@
 - [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
 
 
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
 ## kairos-io/kairos <span style='color:#F1C40F'>(435 ⭐️)</span>
 
 - [:book: Add a link to the blog on the Kairos homepage](https://github.com/kairos-io/kairos/issues/1239)
@@ -283,11 +276,6 @@
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -326,4 +314,80 @@
 - [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
 
 - [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
+
+
+## kubesphere/kubekey <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [Support for installing calicoctl for nodes](https://github.com/kubesphere/kubekey/issues/1788)
+
+- [Initialize operating system process optimization](https://github.com/kubesphere/kubekey/issues/1787)
+
+- [Support the installation and configuration of cri-docker](https://github.com/kubesphere/kubekey/issues/1786)
+
+- [Support adding annotations for nodes](https://github.com/kubesphere/kubekey/issues/1785)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(987 ⭐️)</span>
+
+- [docs: create documentation for installation via rpm, deb, apk](https://github.com/k8sgpt-ai/k8sgpt/issues/202)
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
+
+- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
+
+
+## RamenDR/ramen <span style='color:#F1C40F'>(51 ⭐️)</span>
+
+- [Fail early if drenv environment file contains invalid script spec](https://github.com/RamenDR/ramen/issues/809)
+
+- [Ramen catalog fails to report healthy in drenv, potentially due to olm installation differences](https://github.com/RamenDR/ramen/issues/745)
+
+- [Filename of sample is mis-spelled: config/samples/ramnedr_v1alpha1_metrodr_drcluster.yaml](https://github.com/RamenDR/ramen/issues/798)
+
+- [Add selt test for minio](https://github.com/RamenDR/ramen/issues/743)
+
+
+## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(912 ⭐️)</span>
+
+- [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
+
+
+## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
+
+- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
+
+- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
