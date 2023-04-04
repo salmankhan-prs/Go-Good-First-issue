@@ -4,17 +4,34 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 12:18 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 12:28 UTC.</div>
 
 
-## grafana-operator/grafana-operator <span style='color:#F1C40F'>(554 ⭐️)</span>
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
-- [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+
+## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.2K ⭐️)</span>
+
+- [Add example repo in Java to README](https://github.com/grpc-ecosystem/grpc-gateway/issues/3262)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## grafana-operator/grafana-operator <span style='color:#F1C40F'>(554 ⭐️)</span>
+
+- [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -147,6 +164,13 @@
 - [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
 
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
+
+- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -312,28 +336,4 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
-
-- [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
-
-
-## gnolang/gno <span style='color:#F1C40F'>(713 ⭐️)</span>
-
-- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
-
-- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
