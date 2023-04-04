@@ -4,7 +4,33 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 17:18 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 17:28 UTC.</div>
+
+
+## integrations/terraform-provider-github <span style='color:#F1C40F'>(674 ⭐️)</span>
+
+- [[BUG]: Validation error in `github_team_membership` when using team slug](https://github.com/integrations/terraform-provider-github/issues/1583)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(958 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(771 ⭐️)</span>
+
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
+
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
@@ -31,20 +57,16 @@
 - [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
 
 
-## guacsec/guac <span style='color:#F1C40F'>(771 ⭐️)</span>
-
-- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
-
-- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
-
-- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
-
-
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
 
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -67,11 +89,6 @@
 ## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## in-toto/attestation <span style='color:#F1C40F'>(111 ⭐️)</span>
@@ -114,27 +131,11 @@
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
 - [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
 
 - [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [docs: create documentation for installation via rpm, deb, apk](https://github.com/k8sgpt-ai/k8sgpt/issues/202)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -164,13 +165,6 @@
 - [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(958 ⭐️)</span>
-
-- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -341,16 +335,4 @@
 ## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(472 ⭐️)</span>
-
-- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
-
-- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
-
-
-## vmware-tanzu/pinniped <span style='color:#F1C40F'>(403 ⭐️)</span>
-
-- [Change path to `pinniped` CLI binary in kubeconfig files generated by `pinniped get kubeconfig`](https://github.com/vmware-tanzu/pinniped/issues/1451)
 
