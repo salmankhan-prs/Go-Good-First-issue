@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 00:18 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 00:28 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
 ## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(21 ⭐️)</span>
@@ -177,15 +186,6 @@
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
-## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
 ## defenseunicorns/zarf-package-software-factory <span style='color:#F1C40F'>(24 ⭐️)</span>
 
 - [Remove zarf scripts and replace with actions](https://github.com/defenseunicorns/zarf-package-software-factory/issues/595)
@@ -338,6 +338,8 @@
 
 ## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
 
+- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
+
 - [`gh browse <commit SHA or number>` with `--branch` flag generates invalid URLs](https://github.com/cli/cli/issues/7266)
 
 
@@ -357,9 +359,4 @@
 - [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
 
 - [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-
-## helm/helm <span style='color:#F1C40F'>(24.1K ⭐️)</span>
-
-- [why are  many goroutines got stuck  at batchPerform](https://github.com/helm/helm/issues/11871)
 
