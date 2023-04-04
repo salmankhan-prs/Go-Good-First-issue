@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 23:48 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 23:58 UTC.</div>
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
 
 
 ## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -61,13 +68,6 @@
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [[exporter/splunkhec] Flaky test TestReceiveBatchedMetrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/20664)
-
-
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
 
 
 ## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
@@ -351,9 +351,4 @@
 - [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
 
 - [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
 
