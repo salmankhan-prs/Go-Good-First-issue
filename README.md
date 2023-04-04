@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 07:38 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 07:48 UTC.</div>
+
+
+## polarsignals/frostdb <span style='color:#F1C40F'>(979 ⭐️)</span>
+
+- [Fix Release() arrow callbacks](https://github.com/polarsignals/frostdb/issues/403)
+
+
+## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
@@ -70,11 +85,6 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -187,6 +197,11 @@
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
+## ory/hydra <span style='color:#F1C40F'>(13.9K ⭐️)</span>
+
+- [upstream reference closed: github.com/gobuffalo/fizz/issues/104](https://github.com/ory/hydra/issues/3470)
+
+
 ## kubevela/velaux <span style='color:#F1C40F'>(102 ⭐️)</span>
 
 - [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
@@ -275,6 +290,11 @@
 - [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
 
 
+## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [Make all the boolean values case insensitive in aws vpc cni environmental variables. ](https://github.com/aws/amazon-vpc-cni-k8s/issues/2311)
+
+
 ## Zeus-Labs/ZeusCloud <span style='color:#F1C40F'>(350 ⭐️)</span>
 
 - [Add EKS security rule: EKS clusters should have encryption of K8s secrets enabled.](https://github.com/Zeus-Labs/ZeusCloud/issues/128)
@@ -293,33 +313,4 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## SiaFoundation/hostd <span style='color:#F1C40F'>(3 ⭐️)</span>
-
-- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
-
-- [Integrated DynDNS](https://github.com/SiaFoundation/hostd/issues/17)
-
-- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
-
-- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
-
-- [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
-
-
-## safedep/vet <span style='color:#F1C40F'>(29 ⭐️)</span>
-
-- [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
-
-- [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
