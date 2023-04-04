@@ -4,24 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 10:08 UTC.</div>
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.1K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+<div align='center'>Last updated at April 4, 2023 10:18 UTC.</div>
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
 
 - [Convert WebsocketMessage tests to table-driven style](https://github.com/gavv/httpexpect/issues/356)
 
@@ -36,6 +24,46 @@
 - [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
 
 - [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(268 ⭐️)</span>
+
+- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
+
+- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
+
+
+## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
+
+- [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
+
+
+## gnolang/gno <span style='color:#F1C40F'>(713 ⭐️)</span>
+
+- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
+
+- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
+
+
+## knative/pkg <span style='color:#F1C40F'>(235 ⭐️)</span>
+
+- [Eventing TLS: Add AddressableFromDestination method on the resolver](https://github.com/knative/pkg/issues/2714)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.1K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -108,20 +136,6 @@
 - [Quadlet: Add option key for `--tmpfs`](https://github.com/containers/podman/issues/17907)
 
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
-## gnolang/gno <span style='color:#F1C40F'>(713 ⭐️)</span>
-
-- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
-
-- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
-
-
-## gnolang/gno <span style='color:#F1C40F'>(713 ⭐️)</span>
-
-- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
-
-- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
 
 ## kubevela/velaux <span style='color:#F1C40F'>(102 ⭐️)</span>
@@ -321,4 +335,81 @@
 - [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
 
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
+
+- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+
+- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(14 ⭐️)</span>
+
+- [Add `turso tutorial` command and call it from Homebrew postinstall](https://github.com/chiselstrike/turso-cli/issues/300)
+
+- [`turso db inspect` should show more than just space](https://github.com/chiselstrike/turso-cli/issues/303)
+
+- [Destroying instances is cumbersome](https://github.com/chiselstrike/turso-cli/issues/283)
+
+
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(165 ⭐️)</span>
+
+- [Set bonus proposer reward to 0%](https://github.com/celestiaorg/celestia-app/issues/1589)
+
+- [Consider introducing a type alias for `NamespaceVersion`](https://github.com/celestiaorg/celestia-app/issues/1574)
+
+- [Explore enforcing conventional commits](https://github.com/celestiaorg/celestia-app/issues/1539)
+
+- [specs: rename `message` => `blob`](https://github.com/celestiaorg/celestia-app/issues/1532)
+
+- [docs: rename `message` => `blob` in ADRs](https://github.com/celestiaorg/celestia-app/issues/1531)
+
+- [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
+
+
+## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
+
+
+## aquasecurity/trivy-operator <span style='color:#F1C40F'>(470 ⭐️)</span>
+
+- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
+
+- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
+
+
+## Foxboron/sbctl <span style='color:#F1C40F'>(796 ⭐️)</span>
+
+- [`sbctl verify` returns `failed to find EFI system partition` even though it's there](https://github.com/Foxboron/sbctl/issues/207)
+
+
+## polarsignals/frostdb <span style='color:#F1C40F'>(979 ⭐️)</span>
+
+- [Fix Release() arrow callbacks](https://github.com/polarsignals/frostdb/issues/403)
+
+
+## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
+
+
+## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
+
+- [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
 
