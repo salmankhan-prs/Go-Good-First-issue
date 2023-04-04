@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 11:38 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 11:48 UTC.</div>
+
+
+## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
+
+
+## aquasecurity/trivy-operator <span style='color:#F1C40F'>(470 ⭐️)</span>
+
+- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
+
+- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
 
 
 ## berops/claudie <span style='color:#F1C40F'>(206 ⭐️)</span>
@@ -33,13 +47,6 @@
 - [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
 
 - [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
-
-
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(470 ⭐️)</span>
-
-- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
-
-- [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
 
 
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(914 ⭐️)</span>
@@ -167,13 +174,6 @@
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
-## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.2K ⭐️)</span>
 
 - [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
@@ -190,6 +190,11 @@
 - [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
 
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## jetstack/tally <span style='color:#F1C40F'>(13 ⭐️)</span>
@@ -216,6 +221,11 @@
 ## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
 
 - [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -269,4 +279,68 @@
 ## knative/pkg <span style='color:#F1C40F'>(235 ⭐️)</span>
 
 - [Eventing TLS: Add AddressableFromDestination method on the resolver](https://github.com/knative/pkg/issues/2714)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(268 ⭐️)</span>
+
+- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
+
+- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
+
+
+## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
+
+- [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
+
+
+## gnolang/gno <span style='color:#F1C40F'>(713 ⭐️)</span>
+
+- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
+
+- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
+
+
+## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
+
+- [Support for MongoDB](https://github.com/secret-telegram/chat/issues/55)
+
+
+## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
+
+- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
+
+
+## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
+
+- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
+
+- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
+
+- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
