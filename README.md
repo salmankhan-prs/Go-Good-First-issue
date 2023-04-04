@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 02:28 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 02:38 UTC.</div>
+
+
+## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -343,9 +348,4 @@
 - [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
 
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
-## defenseunicorns/zarf-package-software-factory <span style='color:#F1C40F'>(24 ⭐️)</span>
-
-- [Remove zarf scripts and replace with actions](https://github.com/defenseunicorns/zarf-package-software-factory/issues/595)
 
