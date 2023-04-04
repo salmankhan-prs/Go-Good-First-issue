@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 11:48 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 11:58 UTC.</div>
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+
+## grafana-operator/grafana-operator <span style='color:#F1C40F'>(554 ⭐️)</span>
+
+- [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
@@ -101,6 +125,15 @@
 - [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
 
 
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Remove unused code from MetaRangeManager](https://github.com/treeverse/lakeFS/issues/5605)
+
+- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
+
+- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
+
+
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
@@ -183,18 +216,11 @@
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+## jetstack/tally <span style='color:#F1C40F'>(13 ⭐️)</span>
 
-- [Remove unused code from MetaRangeManager](https://github.com/treeverse/lakeFS/issues/5605)
+- [Identify wrong BOM format](https://github.com/jetstack/tally/issues/58)
 
-- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
-
-- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+- [Detect BOM format](https://github.com/jetstack/tally/issues/57)
 
 
 ## jetstack/tally <span style='color:#F1C40F'>(13 ⭐️)</span>
@@ -221,11 +247,6 @@
 ## tinygo-org/tinygo <span style='color:#F1C40F'>(12.5K ⭐️)</span>
 
 - [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -312,11 +333,6 @@
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
 ## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
 
 - [Support for MongoDB](https://github.com/secret-telegram/chat/issues/55)
@@ -325,22 +341,4 @@
 ## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
 
 - [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
-
-
-## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
-
-- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
-
-- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
-
-- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
