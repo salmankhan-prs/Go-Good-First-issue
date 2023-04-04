@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 11:18 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 11:28 UTC.</div>
+
+
+## berops/claudie <span style='color:#F1C40F'>(206 ⭐️)</span>
+
+- [Chore: Refactor probes](https://github.com/berops/claudie/issues/666)
+
+- [Claudie live demo](https://github.com/berops/claudie/issues/651)
+
+- [Feature: Rework how logger is used](https://github.com/berops/claudie/issues/655)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(769 ⭐️)</span>
@@ -40,6 +49,11 @@
 ## aquasecurity/trivy <span style='color:#F1C40F'>(16.8K ⭐️)</span>
 
 - [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.1K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -81,6 +95,11 @@
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Unify naming in `common.aggregation`](https://github.com/FerretDB/FerretDB/issues/2356)
+
+
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
@@ -104,11 +123,6 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.1K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(64 ⭐️)</span>
@@ -150,7 +164,7 @@
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
-## terrastruct/d2 <span style='color:#F1C40F'>(12.1K ⭐️)</span>
+## terrastruct/d2 <span style='color:#F1C40F'>(12.2K ⭐️)</span>
 
 - [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
 
@@ -276,9 +290,4 @@
 - [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
 
 - [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
