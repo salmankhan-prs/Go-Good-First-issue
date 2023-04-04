@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 21:59 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 22:08 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(959 ⭐️)</span>
+
+- [Make sure that output gets sorted in list-type commands](https://github.com/superfly/flyctl/issues/2006)
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## vmware-tanzu/pinniped <span style='color:#F1C40F'>(403 ⭐️)</span>
@@ -67,11 +81,6 @@
 - [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
 ## defenseunicorns/zarf-package-software-factory <span style='color:#F1C40F'>(24 ⭐️)</span>
 
 - [Remove zarf scripts and replace with actions](https://github.com/defenseunicorns/zarf-package-software-factory/issues/595)
@@ -92,15 +101,6 @@
 - [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 - [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(959 ⭐️)</span>
-
-- [Make sure that output gets sorted in list-type commands](https://github.com/superfly/flyctl/issues/2006)
-
-- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -375,23 +375,4 @@
 - [tracee cmdline output (help, list events, list signatures) should have tabled output](https://github.com/aquasecurity/tracee/issues/2972)
 
 - [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
-
-- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
-
-- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(16.8K ⭐️)</span>
-
-- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
