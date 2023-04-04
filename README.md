@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 03:28 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 03:38 UTC.</div>
 
 
 ## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.2K ⭐️)</span>
@@ -92,6 +92,23 @@
 - [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
 
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+
+## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Convert WebsocketMessage tests to table-driven style](https://github.com/gavv/httpexpect/issues/356)
+
+- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
+
+- [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
+
+- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/352)
+
+- [Convert DateTime tests to table-driven style](https://github.com/gavv/httpexpect/issues/354)
+
+- [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
+
+- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -322,9 +339,4 @@
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
 
 - [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
-## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Include inbound and outbound edges when automatically activating rank in the graph](https://github.com/kiali/kiali/issues/5915)
 
