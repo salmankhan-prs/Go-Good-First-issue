@@ -4,7 +4,52 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 08:38 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 08:48 UTC.</div>
+
+
+## cosmos/ibc-go <span style='color:#F1C40F'>(352 ⭐️)</span>
+
+- [nit: remove "callback" from msg server logging, except where relevant](https://github.com/cosmos/ibc-go/issues/3404)
+
+- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
+
+- [Use state enums in connection handshake log](https://github.com/cosmos/ibc-go/issues/3385)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(928 ⭐️)</span>
+
+- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+
+## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [Unify `workload[s]` names in the tmc `controller.go`](https://github.com/kcp-dev/kcp/issues/2936)
+
+- [bug: `syncedResources` state should be Pending when APIResourceImport is missing](https://github.com/kcp-dev/kcp/issues/2928)
+
+- [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
+
+- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
@@ -38,6 +83,11 @@
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
 - [Unify naming in `common.aggregation`](https://github.com/FerretDB/FerretDB/issues/2356)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
 ## kairos-io/kairos <span style='color:#F1C40F'>(435 ⭐️)</span>
@@ -215,11 +265,6 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
 ## prometheus-msteams/prometheus-msteams <span style='color:#F1C40F'>(462 ⭐️)</span>
 
 - [[FEATURE] Upgrade github.com/go-kit/kit to 0.12.0](https://github.com/prometheus-msteams/prometheus-msteams/issues/313)
@@ -294,29 +339,4 @@
 - [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
 
 - [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## ory/hydra <span style='color:#F1C40F'>(13.9K ⭐️)</span>
-
-- [upstream reference closed: github.com/gobuffalo/fizz/issues/104](https://github.com/ory/hydra/issues/3470)
-
-
-## kubevela/velaux <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
-
-
-## apache/apisix-ingress-controller <span style='color:#F1C40F'>(770 ⭐️)</span>
-
-- [docs: describe how to generate secret from cert file](https://github.com/apache/apisix-ingress-controller/issues/1767)
-
-
-## opensearch-project/opensearch-go <span style='color:#F1C40F'>(109 ⭐️)</span>
-
-- [[FEATURE] Add a code/markdown linter](https://github.com/opensearch-project/opensearch-go/issues/260)
 
