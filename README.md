@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 19:08 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 19:18 UTC.</div>
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
+
+- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
+
+- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
+
+- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -91,7 +114,9 @@
 - [Eventing TLS: Install Cert Manager as part of the test setup phase](https://github.com/knative/eventing/issues/6835)
 
 
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(269 ⭐️)</span>
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(270 ⭐️)</span>
+
+- [Deprecate support for short JobIDs](https://github.com/bacalhau-project/bacalhau/issues/2298)
 
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
@@ -128,13 +153,6 @@
 ## kubearmor/KubeArmor <span style='color:#F1C40F'>(655 ⭐️)</span>
 
 - [Use registry client for updating stable release workflow](https://github.com/kubearmor/KubeArmor/issues/1169)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
-
-- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
 
 
 ## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
@@ -236,11 +254,6 @@
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
 
 - [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
@@ -325,22 +338,4 @@
 - [Create test suite for Java bindings](https://github.com/in-toto/attestation/issues/177)
 
 - [Add pre-generated Rust bindings for protobufs](https://github.com/in-toto/attestation/issues/174)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
