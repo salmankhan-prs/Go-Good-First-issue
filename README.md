@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 05:58 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 06:08 UTC.</div>
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+
+- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.1K ⭐️)</span>
@@ -14,6 +21,11 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.8K ⭐️)</span>
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## kubevela/velaux <span style='color:#F1C40F'>(102 ⭐️)</span>
@@ -93,6 +105,11 @@
 - [Eventing TLS: Install Cert Manager as part of the test setup phase](https://github.com/knative/eventing/issues/6835)
 
 
+## prometheus-msteams/prometheus-msteams <span style='color:#F1C40F'>(462 ⭐️)</span>
+
+- [[FEATURE] Upgrade github.com/go-kit/kit to 0.12.0](https://github.com/prometheus-msteams/prometheus-msteams/issues/313)
+
+
 ## dapr/components-contrib <span style='color:#F1C40F'>(438 ⭐️)</span>
 
 - [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
@@ -104,11 +121,6 @@
 - [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
 
 - [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
-
-
-## prometheus-msteams/prometheus-msteams <span style='color:#F1C40F'>(462 ⭐️)</span>
-
-- [[FEATURE] Upgrade github.com/go-kit/kit to 0.12.0](https://github.com/prometheus-msteams/prometheus-msteams/issues/313)
 
 
 ## cloudwego/kitex <span style='color:#F1C40F'>(5.8K ⭐️)</span>
@@ -205,13 +217,6 @@
 - [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
 
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
-## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
-
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
-
-- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
 
 ## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -364,15 +369,4 @@
 - [feature: Create behavioral unit tests for mailbox controller](https://github.com/kcp-dev/edge-mc/issues/218)
 
 - [feature: new make target for deploying and configuring kcp and kcp-edge components](https://github.com/kcp-dev/edge-mc/issues/212)
-
-
-## cosmos/relayer <span style='color:#F1C40F'>(290 ⭐️)</span>
-
-- [add src and dst channel identifiers to send msg logs](https://github.com/cosmos/relayer/issues/1148)
-
-- [Read in hermes config.toml and output relayer config.yaml](https://github.com/cosmos/relayer/issues/1133)
-
-- [feat: add the ability to pull testnet data from the chain registry](https://github.com/cosmos/relayer/issues/1128)
-
-- [look into http response and provide more understandable logs when a node is inaccessible](https://github.com/cosmos/relayer/issues/1136)
 
