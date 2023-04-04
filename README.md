@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 22:28 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 22:38 UTC.</div>
+
+
+## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
+
+- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
 ## cosmos/relayer <span style='color:#F1C40F'>(291 ⭐️)</span>
@@ -21,6 +31,11 @@
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [[exporter/splunkhec] Flaky test TestReceiveBatchedMetrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/20664)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -100,11 +115,6 @@
 ## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(144 ⭐️)</span>
 
 - [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -324,11 +334,6 @@
 - [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
 
-## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
-
-- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
-
-
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
 - [Eventing TLS: Create Cert-Manager resources](https://github.com/knative/eventing/issues/6837)
@@ -360,16 +365,4 @@
 - [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
 
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-
-## kubearmor/KubeArmor <span style='color:#F1C40F'>(655 ⭐️)</span>
-
-- [Use registry client for updating stable release workflow](https://github.com/kubearmor/KubeArmor/issues/1169)
-
-
-## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [bug: `syncedResources` state should be Pending when APIResourceImport is missing](https://github.com/kcp-dev/kcp/issues/2928)
-
-- [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
 
