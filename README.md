@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 22:18 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 22:28 UTC.</div>
 
 
 ## cosmos/relayer <span style='color:#F1C40F'>(291 ⭐️)</span>
