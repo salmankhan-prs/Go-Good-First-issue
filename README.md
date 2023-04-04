@@ -4,7 +4,29 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 20:28 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 20:38 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
+## defenseunicorns/zarf-package-software-factory <span style='color:#F1C40F'>(24 ⭐️)</span>
+
+- [Remove zarf scripts and replace with actions](https://github.com/defenseunicorns/zarf-package-software-factory/issues/595)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [[exporter/splunkhec] Flaky test TestReceiveBatchedMetrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/20664)
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -61,13 +83,6 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-
 ## dvonthenen/symbl-go-sdk <span style='color:#F1C40F'>(1 ⭐️)</span>
 
 - [Bookmark Summary Example Failure](https://github.com/dvonthenen/symbl-go-sdk/issues/74)
@@ -80,11 +95,6 @@
 - [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
 
 - [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
-
-
-## defenseunicorns/zarf-package-software-factory <span style='color:#F1C40F'>(24 ⭐️)</span>
-
-- [Remove zarf scripts and replace with actions](https://github.com/defenseunicorns/zarf-package-software-factory/issues/595)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -141,11 +151,6 @@
 - [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
 
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
@@ -225,6 +230,30 @@
 - [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
 
 
+## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Eventing TLS: support receiving events to HTTPS endpoints in eventshub](https://github.com/knative/eventing/issues/6842)
+
+- [Eventing TLS: support sending events to HTTPS endpoints in eventshub](https://github.com/knative/eventing/issues/6840)
+
+- [Eventing TLS: Add scheme label to metrics](https://github.com/knative/eventing/issues/6838)
+
+- [Eventing TLS: Create Cert-Manager resources](https://github.com/knative/eventing/issues/6837)
+
+- [Eventing TLS: Add transport-encryption feature flag](https://github.com/knative/eventing/issues/6836)
+
+- [Eventing TLS: Install Cert Manager as part of the test setup phase](https://github.com/knative/eventing/issues/6835)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Remove unused code from MetaRangeManager](https://github.com/treeverse/lakeFS/issues/5605)
+
+- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
+
+- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
+
+
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
 
 - [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
@@ -288,136 +317,15 @@
 - [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
-## kubesimplify/ksctl <span style='color:#F1C40F'>(80 ⭐️)</span>
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(470 ⭐️)</span>
 
-- [[BUG][CLI or API] (Provider) Ksctl Cred](https://github.com/kubesimplify/ksctl/issues/79)
+- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
 
+- [log(throughout codebase): Change log to `DAH.String()` instead of `DAH.Hash()` anywhere where we try to log the hash of the `DataAvailabilityHeader`/ `Root`](https://github.com/celestiaorg/celestia-node/issues/1898)
 
-## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
 
-- [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
+- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
 
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [[exporter/splunkhec] Flaky test TestReceiveBatchedMetrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/20664)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
-## integrations/terraform-provider-github <span style='color:#F1C40F'>(674 ⭐️)</span>
-
-- [[BUG]: Validation error in `github_team_membership` when using team slug](https://github.com/integrations/terraform-provider-github/issues/1583)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [[exporter/splunkhec] Flaky test TestReceiveBatchedMetrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/20664)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
-## integrations/terraform-provider-github <span style='color:#F1C40F'>(674 ⭐️)</span>
-
-- [[BUG]: Validation error in `github_team_membership` when using team slug](https://github.com/integrations/terraform-provider-github/issues/1583)
-
-
-## mattermost/mattermost-plugin-github <span style='color:#F1C40F'>(127 ⭐️)</span>
-
-- [Include explanation of `/setup` command in README](https://github.com/mattermost/mattermost-plugin-github/issues/655)
-
-
-## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
-
-- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Unify naming in `common.aggregation`](https://github.com/FerretDB/FerretDB/issues/2356)
-
-
-## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## opensearch-project/opensearch-go <span style='color:#F1C40F'>(111 ⭐️)</span>
-
-- [[Guide] Bulk](https://github.com/opensearch-project/opensearch-go/issues/278)
-
-- [[Guide] Search](https://github.com/opensearch-project/opensearch-go/issues/277)
-
-- [[Guide] Document Lifecycle](https://github.com/opensearch-project/opensearch-go/issues/276)
-
-- [[Guide] Index Template](https://github.com/opensearch-project/opensearch-go/issues/275)
-
-- [[Guide] Advanced Index Actions](https://github.com/opensearch-project/opensearch-go/issues/274)
-
-- [[Guide] Index Lifecycle](https://github.com/opensearch-project/opensearch-go/issues/273)
-
-- [[FEATURE] Add a code/markdown linter](https://github.com/opensearch-project/opensearch-go/issues/260)
-
-
-## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
-
-
-## in-toto/attestation <span style='color:#F1C40F'>(111 ⭐️)</span>
-
-- [Add pre-generated Java bindings for protobufs](https://github.com/in-toto/attestation/issues/173)
-
-- [Add a ResourceDescriptor predicate](https://github.com/in-toto/attestation/issues/179)
-
-- [Create test suite for Python bindings](https://github.com/in-toto/attestation/issues/176)
-
-- [Create test suite for Go bindings](https://github.com/in-toto/attestation/issues/175)
-
-- [Create test suite for Rust bindings](https://github.com/in-toto/attestation/issues/178)
-
-- [Create test suite for Java bindings](https://github.com/in-toto/attestation/issues/177)
-
-- [Add pre-generated Rust bindings for protobufs](https://github.com/in-toto/attestation/issues/174)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
-
-
-## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
-
-- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
-
-- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
-
-
-## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(914 ⭐️)</span>
-
-- [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
+- [logging: More uniformity around naming for loggers per package](https://github.com/celestiaorg/celestia-node/issues/1888)
 
