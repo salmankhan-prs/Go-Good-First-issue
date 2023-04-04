@@ -4,7 +4,52 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 19:28 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 19:38 UTC.</div>
+
+
+## SiaFoundation/hostd <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
+
+- [Integrated DynDNS](https://github.com/SiaFoundation/hostd/issues/17)
+
+- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
+
+- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
+
+- [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
+
+
+## dapr/components-contrib <span style='color:#F1C40F'>(439 ⭐️)</span>
+
+- [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
+
+- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
+
+- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
+
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+- [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(958 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
+
+- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -81,19 +126,6 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## SiaFoundation/hostd <span style='color:#F1C40F'>(3 ⭐️)</span>
-
-- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
-
-- [Integrated DynDNS](https://github.com/SiaFoundation/hostd/issues/17)
-
-- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
-
-- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
-
-- [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
-
-
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
@@ -113,11 +145,6 @@
 ## oauth2-proxy/oauth2-proxy <span style='color:#F1C40F'>(6.8K ⭐️)</span>
 
 - [Fragment is lost after redirect if --skip-provider-button is set to true](https://github.com/oauth2-proxy/oauth2-proxy/issues/2068)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -181,13 +208,6 @@
 - [Use registry client for updating stable release workflow](https://github.com/kubearmor/KubeArmor/issues/1169)
 
 
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
-
-- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
-
-
 ## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
 
 - [bug: `syncedResources` state should be Pending when APIResourceImport is missing](https://github.com/kcp-dev/kcp/issues/2928)
@@ -226,6 +246,11 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(16.8K ⭐️)</span>
@@ -274,11 +299,6 @@
 - [[exporter/splunkhec] Flaky test TestReceiveBatchedMetrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/20664)
 
 
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
 
 - [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
@@ -306,24 +326,7 @@
 - [Unify naming in `common.aggregation`](https://github.com/FerretDB/FerretDB/issues/2356)
 
 
-## superfly/flyctl <span style='color:#F1C40F'>(958 ⭐️)</span>
-
-- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
 ## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
-
-
-## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
 
