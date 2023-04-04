@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 12:08 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 12:18 UTC.</div>
+
+
+## grafana-operator/grafana-operator <span style='color:#F1C40F'>(554 ⭐️)</span>
+
+- [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -40,9 +45,9 @@
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
-## grafana-operator/grafana-operator <span style='color:#F1C40F'>(554 ⭐️)</span>
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
-- [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
+- [Unify naming in `common.aggregation`](https://github.com/FerretDB/FerretDB/issues/2356)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.4K ⭐️)</span>
@@ -153,11 +158,6 @@
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Unify naming in `common.aggregation`](https://github.com/FerretDB/FerretDB/issues/2356)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -336,9 +336,4 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
-
-- [Support for MongoDB](https://github.com/secret-telegram/chat/issues/55)
 
