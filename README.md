@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 23:18 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 23:28 UTC.</div>
+
+
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
+
+- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
+
+- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
+
+- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
 
 
 ## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -26,6 +35,11 @@
 - [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
 
 
+## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
+
+- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
+
+
 ## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
 
 - [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
@@ -45,11 +59,6 @@
 - [Identify wrong BOM format](https://github.com/jetstack/tally/issues/58)
 
 - [Detect BOM format](https://github.com/jetstack/tally/issues/57)
-
-
-## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
-
-- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
 
 
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
@@ -158,6 +167,13 @@
 ## ory/hydra <span style='color:#F1C40F'>(13.9K ⭐️)</span>
 
 - [upstream reference closed: github.com/gobuffalo/fizz/issues/104](https://github.com/ory/hydra/issues/3470)
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [tracee cmdline output (help, list events, list signatures) should have tabled output](https://github.com/aquasecurity/tracee/issues/2972)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -322,36 +338,4 @@
 ## apache/trafficcontrol <span style='color:#F1C40F'>(885 ⭐️)</span>
 
 - [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
-
-
-## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
-
-- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
-
-- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
-
-- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
-
-
-## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [manifests: scheduler should run in the control plane (default, but overridable)](https://github.com/k8stopologyawareschedwg/deployer/issues/177)
-
-- [mainifests: updaters should NOT run in the control plane](https://github.com/k8stopologyawareschedwg/deployer/issues/176)
-
-- [add option to control the component verbosity](https://github.com/k8stopologyawareschedwg/deployer/issues/175)
-
-
-## solo-io/gloo <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
-
-- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
-
-- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
-
-
-## oauth2-proxy/oauth2-proxy <span style='color:#F1C40F'>(6.8K ⭐️)</span>
-
-- [Fragment is lost after redirect if --skip-provider-button is set to true](https://github.com/oauth2-proxy/oauth2-proxy/issues/2068)
 
