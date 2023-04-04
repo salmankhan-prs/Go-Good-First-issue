@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 22:58 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 23:08 UTC.</div>
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
@@ -14,13 +21,6 @@
 - [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
 
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
 
 
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(914 ⭐️)</span>
@@ -347,11 +347,4 @@
 ## oauth2-proxy/oauth2-proxy <span style='color:#F1C40F'>(6.8K ⭐️)</span>
 
 - [Fragment is lost after redirect if --skip-provider-button is set to true](https://github.com/oauth2-proxy/oauth2-proxy/issues/2068)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
