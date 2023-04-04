@@ -4,7 +4,37 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 13:09 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 13:18 UTC.</div>
+
+
+## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
+
+- [Show warning if there's a lot of releases](https://github.com/freiheit-com/kuberpult/issues/533)
+
+- [UI/UX: Precision of timespan in commit detail modal.](https://github.com/freiheit-com/kuberpult/issues/537)
+
+- [EnvironmentLabels sorted wrong](https://github.com/freiheit-com/kuberpult/issues/539)
+
+- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.8K ⭐️)</span>
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
+
+
+## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [bug: `syncedResources` state should be Pending when APIResourceImport is missing](https://github.com/kcp-dev/kcp/issues/2928)
+
+- [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -77,19 +107,12 @@
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-
 ## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
 
 - [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
 
 
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(470 ⭐️)</span>
+## aquasecurity/trivy-operator <span style='color:#F1C40F'>(471 ⭐️)</span>
 
 - [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
 
@@ -136,6 +159,11 @@
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.1K ⭐️)</span>
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## project-zot/zot <span style='color:#F1C40F'>(333 ⭐️)</span>
+
+- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
@@ -202,11 +230,6 @@
 ## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [The transaction_id within events is not serialised in many endpoints](https://github.com/matrix-org/dendrite/issues/3000)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(16.8K ⭐️)</span>
-
-- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -394,28 +417,4 @@
 - [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
 
 - [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
-
-- [Support for MongoDB](https://github.com/secret-telegram/chat/issues/55)
-
-
-## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
-
-- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
-
-
-## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
-
-- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
-
-- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
-
-- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
 
