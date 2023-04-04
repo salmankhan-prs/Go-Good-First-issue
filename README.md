@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at April 4, 2023 06:58 UTC.</div>
+<div align='center'>Last updated at April 4, 2023 07:08 UTC.</div>
+
+
+## prometheus-msteams/prometheus-msteams <span style='color:#F1C40F'>(462 ⭐️)</span>
+
+- [[FEATURE] Upgrade github.com/go-kit/kit to 0.12.0](https://github.com/prometheus-msteams/prometheus-msteams/issues/313)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(268 ⭐️)</span>
+
+- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
+
+- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(468 ⭐️)</span>
@@ -51,9 +68,9 @@
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
 
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -94,11 +111,6 @@
 - [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.1K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.1K ⭐️)</span>
 
 - [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
@@ -106,6 +118,11 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.1K ⭐️)</span>
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.7K ⭐️)</span>
@@ -135,6 +152,8 @@
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
+- [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
+
 - [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
 
 
@@ -158,11 +177,6 @@
 - [Add example repo in Java to README](https://github.com/grpc-ecosystem/grpc-gateway/issues/3262)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(16.1K ⭐️)</span>
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [docs: create documentation for installation via rpm, deb, apk](https://github.com/k8sgpt-ai/k8sgpt/issues/202)
@@ -183,11 +197,6 @@
 - [Eventing TLS: Add transport-encryption feature flag](https://github.com/knative/eventing/issues/6836)
 
 - [Eventing TLS: Install Cert Manager as part of the test setup phase](https://github.com/knative/eventing/issues/6835)
-
-
-## prometheus-msteams/prometheus-msteams <span style='color:#F1C40F'>(462 ⭐️)</span>
-
-- [[FEATURE] Upgrade github.com/go-kit/kit to 0.12.0](https://github.com/prometheus-msteams/prometheus-msteams/issues/313)
 
 
 ## dapr/components-contrib <span style='color:#F1C40F'>(438 ⭐️)</span>
@@ -321,14 +330,4 @@
 - [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
 
 - [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
-
-
-## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
-
-- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
-
-
-## derailed/k9s <span style='color:#F1C40F'>(20.3K ⭐️)</span>
-
-- [Suspend k9s (i.e., job control) using Ctrl+z like with man, vim, less, ...](https://github.com/derailed/k9s/issues/2013)
 
