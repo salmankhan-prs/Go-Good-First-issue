@@ -4,7 +4,42 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 15:18 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 15:28 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [When destroy an environment, the message says "deploying development environment"](https://github.com/okteto/okteto/issues/3450)
+
+- [Destroy message has an empty quote if the environment doesn't have a name](https://github.com/okteto/okteto/issues/3487)
+
+- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
+
+- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
+
+- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+
+## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
+
+
+## adobe/k8s-shredder <span style='color:#F1C40F'>(10 ⭐️)</span>
+
+- [Investigate CI e2e flakiness](https://github.com/adobe/k8s-shredder/issues/38)
 
 
 ## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -12,9 +47,9 @@
 - [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
 
 
-## adobe/k8s-shredder <span style='color:#F1C40F'>(10 ⭐️)</span>
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
 
-- [Investigate CI e2e flakiness](https://github.com/adobe/k8s-shredder/issues/38)
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
@@ -66,14 +101,14 @@
 - [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## loft-sh/vcluster <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Syncer should handle disabled coredns gracefully](https://github.com/loft-sh/vcluster/issues/992)
 
 
 ## loft-sh/vcluster <span style='color:#F1C40F'>(2.5K ⭐️)</span>
@@ -88,11 +123,6 @@
 - [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
 
 - [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -208,6 +238,8 @@
 
 ## csunibo/informabot <span style='color:#F1C40F'>(4 ⭐️)</span>
 
+- [Rimuovere virtuale, teams, website](https://github.com/csunibo/informabot/issues/86)
+
 - [Prof che mettono le aule come annuncio anziché come aule](https://github.com/csunibo/informabot/issues/84)
 
 - [scrittura test Go](https://github.com/csunibo/informabot/issues/85)
@@ -281,11 +313,6 @@
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
@@ -293,25 +320,4 @@
 - [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
 
 - [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-
-## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [tracee cmdline output (help, list events, list signatures) should have tabled output](https://github.com/aquasecurity/tracee/issues/2972)
-
-- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(14 ⭐️)</span>
-
-- [Add `turso tutorial` command and call it from Homebrew postinstall](https://github.com/chiselstrike/turso-cli/issues/300)
-
-- [`turso db inspect` should show more than just space](https://github.com/chiselstrike/turso-cli/issues/303)
-
-- [Destroying instances is cumbersome](https://github.com/chiselstrike/turso-cli/issues/283)
 
