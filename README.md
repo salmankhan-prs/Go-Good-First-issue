@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 01:59 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 02:09 UTC.</div>
+
+
+## cosmos/relayer <span style='color:#F1C40F'>(291 ⭐️)</span>
+
+- [add src and dst channel identifiers to send msg logs](https://github.com/cosmos/relayer/issues/1148)
+
+- [Read in hermes config.toml and output relayer config.yaml](https://github.com/cosmos/relayer/issues/1133)
+
+- [feat: add the ability to pull testnet data from the chain registry](https://github.com/cosmos/relayer/issues/1128)
+
+- [look into http response and provide more understandable logs when a node is inaccessible](https://github.com/cosmos/relayer/issues/1136)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.2K ⭐️)</span>
@@ -215,17 +226,6 @@
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
 
 - [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
-## cosmos/relayer <span style='color:#F1C40F'>(291 ⭐️)</span>
-
-- [add src and dst channel identifiers to send msg logs](https://github.com/cosmos/relayer/issues/1148)
-
-- [Read in hermes config.toml and output relayer config.yaml](https://github.com/cosmos/relayer/issues/1133)
-
-- [feat: add the ability to pull testnet data from the chain registry](https://github.com/cosmos/relayer/issues/1128)
-
-- [look into http response and provide more understandable logs when a node is inaccessible](https://github.com/cosmos/relayer/issues/1136)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
