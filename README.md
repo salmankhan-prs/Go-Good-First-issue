@@ -4,7 +4,42 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 16:08 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 16:18 UTC.</div>
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+
+## csunibo/informabot <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Rimuovere virtuale, teams, website](https://github.com/csunibo/informabot/issues/86)
+
+- [Prof che mettono le aule come annuncio anziché come aule](https://github.com/csunibo/informabot/issues/84)
+
+- [scrittura test Go](https://github.com/csunibo/informabot/issues/85)
+
+- [/manutenzione o qualcosa di simile](https://github.com/csunibo/informabot/issues/80)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(929 ⭐️)</span>
+
+- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -12,9 +47,11 @@
 - [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
 
 
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
+- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
 
 ## adobe/k8s-shredder <span style='color:#F1C40F'>(11 ⭐️)</span>
@@ -69,6 +106,11 @@
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
 ## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
 
 - [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
@@ -105,11 +147,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -204,13 +241,6 @@
 - [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
 
 
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-
 ## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
 
 - [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
@@ -239,13 +269,6 @@
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(915 ⭐️)</span>
 
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
-
-
-## gnolang/gno <span style='color:#F1C40F'>(718 ⭐️)</span>
-
-- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
-
-- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
 
 ## gnolang/gno <span style='color:#F1C40F'>(718 ⭐️)</span>
@@ -298,36 +321,4 @@
 - [Allow using kubernetes.io/tls when configuring DB collector TLS secrets](https://github.com/replicatedhq/troubleshoot/issues/1047)
 
 - [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
-
-- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(437 ⭐️)</span>
-
-- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
-
-- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.1K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
-## csunibo/informabot <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Rimuovere virtuale, teams, website](https://github.com/csunibo/informabot/issues/86)
-
-- [Prof che mettono le aule come annuncio anziché come aule](https://github.com/csunibo/informabot/issues/84)
-
-- [scrittura test Go](https://github.com/csunibo/informabot/issues/85)
-
-- [/manutenzione o qualcosa di simile](https://github.com/csunibo/informabot/issues/80)
 
