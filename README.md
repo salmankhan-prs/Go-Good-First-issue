@@ -4,12 +4,56 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 05:48 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 05:58 UTC.</div>
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
+
+- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
+
+- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
+
+- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
+
+
+## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(64 ⭐️)</span>
+
+- [Research new base container images](https://github.com/keptn/lifecycle-toolkit/issues/1094)
+
+- [Contrib: linters requirements](https://github.com/keptn/lifecycle-toolkit/issues/999)
+
+- [Contributing: Building docs locally](https://github.com/keptn/lifecycle-toolkit/issues/996)
+
+- [Update all the SLI providers to make use of the timeframe value](https://github.com/keptn/lifecycle-toolkit/issues/1012)
+
+- [KLT architecture diagram](https://github.com/keptn/lifecycle-toolkit/issues/1034)
+
+- [Contrib: Working with github](https://github.com/keptn/lifecycle-toolkit/issues/997)
+
+- [Contributing: general guidelines](https://github.com/keptn/lifecycle-toolkit/issues/995)
+
+- [Contrib: doc source structure](https://github.com/keptn/lifecycle-toolkit/issues/998)
+
+- [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(713 ⭐️)</span>
 
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
 
 
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -114,15 +158,6 @@
 ## aquasecurity/trivy <span style='color:#F1C40F'>(16.8K ⭐️)</span>
 
 - [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -282,37 +317,4 @@
 - [Chore: give test network a fixed validator.](https://github.com/berachain/polaris/issues/481)
 
 - [chore: Check for precompile module account on startup](https://github.com/berachain/polaris/issues/423)
-
-
-## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [feat(service): Add [iMessage] service](https://github.com/nikoksr/notify/issues/564)
-
-- [feat(service): Add IOS web push service](https://github.com/nikoksr/notify/issues/548)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
-
-- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
-
-
-## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
-
-- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [[exporter/splunkhec] Flaky test TestReceiveBatchedMetrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/20664)
-
-
-## jetstack/tally <span style='color:#F1C40F'>(13 ⭐️)</span>
-
-- [Identify wrong BOM format](https://github.com/jetstack/tally/issues/58)
-
-- [Detect BOM format](https://github.com/jetstack/tally/issues/57)
 
