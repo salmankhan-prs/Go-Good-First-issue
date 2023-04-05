@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 21:38 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 21:48 UTC.</div>
+
+
+## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Improve RedisUpdater func](https://github.com/zalando/skipper/issues/2258)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -321,21 +326,4 @@
 ## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
-
-
-## carvel-dev/kapp-controller <span style='color:#F1C40F'>(162 ⭐️)</span>
-
-- [[Doc] Add example of Custom Metrics via Kube-state-metrics CustomResourceStateMetrics](https://github.com/carvel-dev/kapp-controller/issues/1159)
-
-
-## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
-
-- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
-
-- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
 
