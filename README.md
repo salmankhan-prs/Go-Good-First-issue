@@ -4,12 +4,51 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 12:58 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 13:08 UTC.</div>
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+
+## replicatedhq/troubleshoot <span style='color:#F1C40F'>(423 ⭐️)</span>
+
+- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
+
+- [Allow using kubernetes.io/tls when configuring DB collector TLS secrets](https://github.com/replicatedhq/troubleshoot/issues/1047)
+
+- [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(961 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 
 ## open-horizon/anax <span style='color:#F1C40F'>(64 ⭐️)</span>
@@ -43,15 +82,6 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -147,15 +177,6 @@
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(471 ⭐️)</span>
 
 - [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
@@ -181,6 +202,11 @@
 - [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
 
 
+## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Include inbound and outbound edges when automatically activating rank in the graph](https://github.com/kiali/kiali/issues/5915)
+
+
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [When destroy an environment, the message says "deploying development environment"](https://github.com/okteto/okteto/issues/3450)
@@ -192,6 +218,11 @@
 - [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
 
 - [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
+
+
+## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
+
+- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
@@ -296,30 +327,4 @@
 ## carvel-dev/kapp-controller <span style='color:#F1C40F'>(162 ⭐️)</span>
 
 - [[Doc] Add example of Custom Metrics via Kube-state-metrics CustomResourceStateMetrics](https://github.com/carvel-dev/kapp-controller/issues/1159)
-
-
-## replicatedhq/troubleshoot <span style='color:#F1C40F'>(423 ⭐️)</span>
-
-- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
-
-- [Allow using kubernetes.io/tls when configuring DB collector TLS secrets](https://github.com/replicatedhq/troubleshoot/issues/1047)
-
-- [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(16.8K ⭐️)</span>
-
-- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
-
-
-## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(436 ⭐️)</span>
-
-- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
-
-- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
