@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 01:39 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 01:49 UTC.</div>
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
@@ -14,6 +14,15 @@
 - [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
 
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
+
+- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
+
+- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -42,15 +51,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
-
-- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
-
-- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
 ## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -114,6 +114,11 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
+
+- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
 
 
 ## deislabs/ratify <span style='color:#F1C40F'>(109 ⭐️)</span>
@@ -404,9 +409,4 @@
 - [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
 
 - [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
-
-
-## oauth2-proxy/oauth2-proxy <span style='color:#F1C40F'>(6.8K ⭐️)</span>
-
-- [Fragment is lost after redirect if --skip-provider-button is set to true](https://github.com/oauth2-proxy/oauth2-proxy/issues/2068)
 
