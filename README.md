@@ -4,7 +4,72 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 15:48 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 15:58 UTC.</div>
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [[exporter/splunkhec] Flaky test TestReceiveBatchedMetrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/20664)
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(561 ⭐️)</span>
+
+- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(961 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(471 ⭐️)</span>
+
+- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
+
+- [log(throughout codebase): Change log to `DAH.String()` instead of `DAH.Hash()` anywhere where we try to log the hash of the `DataAvailabilityHeader`/ `Root`](https://github.com/celestiaorg/celestia-node/issues/1898)
+
+- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
+
+- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
+
+- [logging: More uniformity around naming for loggers per package](https://github.com/celestiaorg/celestia-node/issues/1888)
+
+
+## adobe/k8s-shredder <span style='color:#F1C40F'>(11 ⭐️)</span>
+
+- [Investigate CI e2e flakiness](https://github.com/adobe/k8s-shredder/issues/38)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [When destroy an environment, the message says "deploying development environment"](https://github.com/okteto/okteto/issues/3450)
+
+- [Destroy message has an empty quote if the environment doesn't have a name](https://github.com/okteto/okteto/issues/3487)
+
+- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
+
+- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
+
+- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
+
+- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -48,6 +113,11 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
 
 
 ## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -114,11 +184,6 @@
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
 
 
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
@@ -142,19 +207,6 @@
 - [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
 
 
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [When destroy an environment, the message says "deploying development environment"](https://github.com/okteto/okteto/issues/3450)
-
-- [Destroy message has an empty quote if the environment doesn't have a name](https://github.com/okteto/okteto/issues/3487)
-
-- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
-
-- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
-
-- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
-
-
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
@@ -167,21 +219,11 @@
 - [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
 
 
-## adobe/k8s-shredder <span style='color:#F1C40F'>(11 ⭐️)</span>
-
-- [Investigate CI e2e flakiness](https://github.com/adobe/k8s-shredder/issues/38)
-
-
 ## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
 
 - [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
 
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [[exporter/splunkhec] Flaky test TestReceiveBatchedMetrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/20664)
 
 
 ## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -230,22 +272,7 @@
 - [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
 
 
-## diggerhq/digger <span style='color:#F1C40F'>(264 ⭐️)</span>
-
-- [Add option for disabling usage data](https://github.com/diggerhq/digger/issues/92)
-
-- [Get rid of hardcoded value of bucket for GCP](https://github.com/diggerhq/digger/issues/94)
-
-- [Add support for aws-vault](https://github.com/diggerhq/digger/issues/97)
-
-- [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
-
-- [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
-
-- [Support multiple Terraform versions](https://github.com/diggerhq/digger/issues/105)
-
-
-## diggerhq/digger <span style='color:#F1C40F'>(264 ⭐️)</span>
+## diggerhq/digger <span style='color:#F1C40F'>(265 ⭐️)</span>
 
 - [Add option for disabling usage data](https://github.com/diggerhq/digger/issues/92)
 
@@ -295,11 +322,6 @@
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
-## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
-
-- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
-
-
 ## csunibo/informabot <span style='color:#F1C40F'>(4 ⭐️)</span>
 
 - [Rimuovere virtuale, teams, website](https://github.com/csunibo/informabot/issues/86)
@@ -309,16 +331,4 @@
 - [scrittura test Go](https://github.com/csunibo/informabot/issues/85)
 
 - [/manutenzione o qualcosa di simile](https://github.com/csunibo/informabot/issues/80)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(961 ⭐️)</span>
-
-- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
