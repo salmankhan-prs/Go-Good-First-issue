@@ -4,7 +4,37 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 22:18 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 22:28 UTC.</div>
+
+
+## dapr/components-contrib <span style='color:#F1C40F'>(439 ⭐️)</span>
+
+- [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
+
+- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
+
+- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
+
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(774 ⭐️)</span>
+
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
+
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -39,11 +69,6 @@
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
 - [Eventing TLS: Create Cert-Manager resources](https://github.com/knative/eventing/issues/6837)
@@ -55,6 +80,15 @@
 - [Eventing TLS: Add scheme label to metrics](https://github.com/knative/eventing/issues/6838)
 
 - [Eventing TLS: Install Cert Manager as part of the test setup phase](https://github.com/knative/eventing/issues/6835)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -192,11 +226,6 @@
 - [Github Action that makes sure our proto files are formatted and generated](https://github.com/provenance-io/provenance/issues/1403)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
 ## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
@@ -205,15 +234,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## guacsec/guac <span style='color:#F1C40F'>(774 ⭐️)</span>
-
-- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
-
-- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
-
-- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
 
 
 ## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -339,9 +359,4 @@
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
 - [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
 
