@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 03:49 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 03:59 UTC.</div>
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -198,6 +198,23 @@
 - [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
 
 
+## berachain/polaris <span style='color:#F1C40F'>(62 ⭐️)</span>
+
+- [feat(magefiles): add `forge install` to contract build process](https://github.com/berachain/polaris/issues/541)
+
+- [refactor(scripts): Refactor the init.sh script into a genesis builder golang cli tool.](https://github.com/berachain/polaris/issues/474)
+
+- [Marshal/Unmarshal of core Geth types is slow](https://github.com/berachain/polaris/issues/446)
+
+- [chore(geth): Upgrade to v1.11.5](https://github.com/berachain/polaris/issues/507)
+
+- [imp(testing): improve ginkgo testing structure ](https://github.com/berachain/polaris/issues/506)
+
+- [Chore: give test network a fixed validator.](https://github.com/berachain/polaris/issues/481)
+
+- [chore: Check for precompile module account on startup](https://github.com/berachain/polaris/issues/423)
+
+
 ## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [feat(service): Add [iMessage] service](https://github.com/nikoksr/notify/issues/564)
@@ -308,6 +325,15 @@
 - [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
 
 
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
+
+
 ## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [Make all the boolean values case insensitive in aws vpc cni environmental variables. ](https://github.com/aws/amazon-vpc-cni-k8s/issues/2311)
@@ -342,15 +368,6 @@
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
 
 - [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
 
 
 ## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
