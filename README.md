@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 03:39 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 03:49 UTC.</div>
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -56,6 +56,15 @@
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+
 ## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [add gator to krew](https://github.com/open-policy-agent/gatekeeper/issues/2653)
@@ -77,6 +86,13 @@
 - [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
 
 - [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
+
+
+## cloudwego/kitex <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [[docs]: translate kitex codegen doc based on Chinese doc](https://github.com/cloudwego/kitex/issues/861)
+
+- [[docs]: translate kitex custom template doc based on Chinese doc](https://github.com/cloudwego/kitex/issues/856)
 
 
 ## cosmos/relayer <span style='color:#F1C40F'>(291 ⭐️)</span>
@@ -180,15 +196,6 @@
 - [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 - [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 
 ## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -354,9 +361,4 @@
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
 
 - [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## GoogleContainerTools/kpt <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [`kpt live` does not support YAML merging arrays ](https://github.com/GoogleContainerTools/kpt/issues/3897)
 
