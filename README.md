@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 11:48 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 11:58 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -25,9 +44,18 @@
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(712 ⭐️)</span>
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(64 ⭐️)</span>
@@ -49,15 +77,6 @@
 - [Contrib: doc source structure](https://github.com/keptn/lifecycle-toolkit/issues/998)
 
 - [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -131,7 +150,7 @@
 
 ## kyma-project/lifecycle-manager <span style='color:#F1C40F'>(5 ⭐️)</span>
 
-- [Limited channels availability per Kyma instance](https://github.com/kyma-project/lifecycle-manager/issues/455)
+- [Limited modules availability per Kyma instance](https://github.com/kyma-project/lifecycle-manager/issues/455)
 
 - [Add issue template to Lifecycle Manager repo](https://github.com/kyma-project/lifecycle-manager/issues/497)
 
@@ -139,15 +158,6 @@
 ## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
 
 - [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(165 ⭐️)</span>
@@ -163,11 +173,6 @@
 - [docs: rename `message` => `blob` in ADRs](https://github.com/celestiaorg/celestia-app/issues/1531)
 
 - [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -221,6 +226,11 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.8K ⭐️)</span>
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -304,22 +314,4 @@
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
-
-
-## berops/claudie <span style='color:#F1C40F'>(206 ⭐️)</span>
-
-- [Chore: Refactor probes](https://github.com/berops/claudie/issues/666)
-
-- [Claudie live demo](https://github.com/berops/claudie/issues/651)
-
-- [Feature: Rework how logger is used](https://github.com/berops/claudie/issues/655)
-
-
-## funlessdev/fl-cli <span style='color:#F1C40F'>(15 ⭐️)</span>
-
-- [Docker down prints warn on secret_key_base](https://github.com/funlessdev/fl-cli/issues/130)
-
-- [Write extended for cfg commands](https://github.com/funlessdev/fl-cli/issues/128)
-
-- [Improve output in `cfg set` when config path is not found](https://github.com/funlessdev/fl-cli/issues/127)
 
