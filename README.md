@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 04:59 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 05:09 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -29,6 +34,8 @@
 
 ## AnalogJ/scrutiny <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
+- [[FEAT] Add indicator for data written to disk](https://github.com/AnalogJ/scrutiny/issues/458)
+
 - [[FEAT] Update Smartctl database](https://github.com/AnalogJ/scrutiny/issues/460)
 
 
@@ -50,11 +57,6 @@
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
 - [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.2K ⭐️)</span>
@@ -382,11 +384,4 @@
 - [UI - General - Uninstall modal](https://github.com/komodorio/helm-dashboard/issues/257)
 
 - [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(436 ⭐️)</span>
-
-- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
-
-- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
