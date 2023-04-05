@@ -4,12 +4,99 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 15:28 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 15:38 UTC.</div>
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
+
+- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
+
+- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
+
+
+## cloudfoundry/korifi <span style='color:#F1C40F'>(177 ⭐️)</span>
+
+- [[Feature]: Korifi api users should be able to get the default domain for an org](https://github.com/cloudfoundry/korifi/issues/2407)
+
+- [[Feature]: Operators can push manifests with buildpack specified](https://github.com/cloudfoundry/korifi/issues/2315)
+
+- [[Feature]: Korifi API users do not need to pass lifecycle step and bulidpack when creaing an app](https://github.com/cloudfoundry/korifi/issues/2366)
+
+- [[Feature]: Korifi API users can check what app features are enabled](https://github.com/cloudfoundry/korifi/issues/2357)
+
+- [[Feature]: Korifi API users should be able to specify  when creating service instances](https://github.com/cloudfoundry/korifi/issues/2343)
+
+- [[Feature]: Korifi API users should be able to get stats for a process by process type](https://github.com/cloudfoundry/korifi/issues/2340)
+
+- [[Feature]: Korifi API users should be able to list the builds of an app](https://github.com/cloudfoundry/korifi/issues/2335)
+
+- [[Feature]: Do not return an error when specifying a page query parameter when listing routes](https://github.com/cloudfoundry/korifi/issues/2329)
+
+- [[Bug]: Korifi default domain guid must be a valid uuid](https://github.com/cloudfoundry/korifi/issues/2328)
+
+- [[Feature]: Koirif API users can update app lifecycle](https://github.com/cloudfoundry/korifi/issues/2327)
+
+- [[Feature]: Koirif API users can check whether ssh for apps is enabled](https://github.com/cloudfoundry/korifi/issues/2326)
+
+- [[Feature]: Do not return error when specifying a page query parameter when listing domains](https://github.com/cloudfoundry/korifi/issues/2324)
+
+- [[Feature]: Korifi API users can filter service bindings via label selectors](https://github.com/cloudfoundry/korifi/issues/2318)
+
+- [[Feature]: Korifi API users can filter apps by label selector](https://github.com/cloudfoundry/korifi/issues/2307)
+
+- [[Feature]: Do not return an error when specifying a page query parameter when listing service bindings](https://github.com/cloudfoundry/korifi/issues/2317)
+
+- [[Feature]: Do not return an error when specifying page query parameter when listing roles](https://github.com/cloudfoundry/korifi/issues/2308)
+
+- [[Feature]: Korifi API users do not get errors when specifying `page` query parameter when listing service instance](https://github.com/cloudfoundry/korifi/issues/2306)
+
+- [[Feature]: Korifi API users can filter service instances by label selector](https://github.com/cloudfoundry/korifi/issues/2305)
+
+- [[Feature]: Do not return an error when specifying `page` query parameter when listing roles](https://github.com/cloudfoundry/korifi/issues/2301)
+
+- [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
+
+- [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+
+- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
+
+- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(401 ⭐️)</span>
+
+- [bug: doc-gen not generating/updating docs, missing plugin docs](https://github.com/fluent/fluent-operator/issues/666)
+
+- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
 
 
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -37,7 +124,7 @@
 - [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
 
 
-## adobe/k8s-shredder <span style='color:#F1C40F'>(10 ⭐️)</span>
+## adobe/k8s-shredder <span style='color:#F1C40F'>(11 ⭐️)</span>
 
 - [Investigate CI e2e flakiness](https://github.com/adobe/k8s-shredder/issues/38)
 
@@ -101,16 +188,6 @@
 - [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
 
 
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## loft-sh/vcluster <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [Syncer should handle disabled coredns gracefully](https://github.com/loft-sh/vcluster/issues/992)
-
-
 ## loft-sh/vcluster <span style='color:#F1C40F'>(2.5K ⭐️)</span>
 
 - [Syncer should handle disabled coredns gracefully](https://github.com/loft-sh/vcluster/issues/992)
@@ -153,6 +230,11 @@
 - [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
 
 
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
+
+- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
+
+
 ## kairos-io/kairos <span style='color:#F1C40F'>(437 ⭐️)</span>
 
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
@@ -165,15 +247,15 @@
 - [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
 
 
-## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+## csunibo/informabot <span style='color:#F1C40F'>(4 ⭐️)</span>
 
-- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+- [Rimuovere virtuale, teams, website](https://github.com/csunibo/informabot/issues/86)
 
-- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
+- [Prof che mettono le aule come annuncio anziché come aule](https://github.com/csunibo/informabot/issues/84)
 
-- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+- [scrittura test Go](https://github.com/csunibo/informabot/issues/85)
 
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+- [/manutenzione o qualcosa di simile](https://github.com/csunibo/informabot/issues/80)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
@@ -236,17 +318,6 @@
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 
-## csunibo/informabot <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Rimuovere virtuale, teams, website](https://github.com/csunibo/informabot/issues/86)
-
-- [Prof che mettono le aule come annuncio anziché come aule](https://github.com/csunibo/informabot/issues/84)
-
-- [scrittura test Go](https://github.com/csunibo/informabot/issues/85)
-
-- [/manutenzione o qualcosa di simile](https://github.com/csunibo/informabot/issues/80)
-
-
 ## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
@@ -266,58 +337,4 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## cloudfoundry/korifi <span style='color:#F1C40F'>(177 ⭐️)</span>
-
-- [[Feature]: Korifi api users should be able to get the default domain for an org](https://github.com/cloudfoundry/korifi/issues/2407)
-
-- [[Feature]: Operators can push manifests with buildpack specified](https://github.com/cloudfoundry/korifi/issues/2315)
-
-- [[Feature]: Korifi API users do not need to pass lifecycle step and bulidpack when creaing an app](https://github.com/cloudfoundry/korifi/issues/2366)
-
-- [[Feature]: Korifi API users can check what app features are enabled](https://github.com/cloudfoundry/korifi/issues/2357)
-
-- [[Feature]: Korifi API users should be able to specify  when creating service instances](https://github.com/cloudfoundry/korifi/issues/2343)
-
-- [[Feature]: Korifi API users should be able to get stats for a process by process type](https://github.com/cloudfoundry/korifi/issues/2340)
-
-- [[Feature]: Korifi API users should be able to list the builds of an app](https://github.com/cloudfoundry/korifi/issues/2335)
-
-- [[Feature]: Do not return an error when specifying a page query parameter when listing routes](https://github.com/cloudfoundry/korifi/issues/2329)
-
-- [[Bug]: Korifi default domain guid must be a valid uuid](https://github.com/cloudfoundry/korifi/issues/2328)
-
-- [[Feature]: Koirif API users can update app lifecycle](https://github.com/cloudfoundry/korifi/issues/2327)
-
-- [[Feature]: Koirif API users can check whether ssh for apps is enabled](https://github.com/cloudfoundry/korifi/issues/2326)
-
-- [[Feature]: Do not return error when specifying a page query parameter when listing domains](https://github.com/cloudfoundry/korifi/issues/2324)
-
-- [[Feature]: Korifi API users can filter service bindings via label selectors](https://github.com/cloudfoundry/korifi/issues/2318)
-
-- [[Feature]: Korifi API users can filter apps by label selector](https://github.com/cloudfoundry/korifi/issues/2307)
-
-- [[Feature]: Do not return an error when specifying a page query parameter when listing service bindings](https://github.com/cloudfoundry/korifi/issues/2317)
-
-- [[Feature]: Do not return an error when specifying page query parameter when listing roles](https://github.com/cloudfoundry/korifi/issues/2308)
-
-- [[Feature]: Korifi API users do not get errors when specifying `page` query parameter when listing service instance](https://github.com/cloudfoundry/korifi/issues/2306)
-
-- [[Feature]: Korifi API users can filter service instances by label selector](https://github.com/cloudfoundry/korifi/issues/2305)
-
-- [[Feature]: Do not return an error when specifying `page` query parameter when listing roles](https://github.com/cloudfoundry/korifi/issues/2301)
-
-- [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
-
-- [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
 
