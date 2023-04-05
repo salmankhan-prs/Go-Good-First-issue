@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 17:38 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 17:48 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(774 ⭐️)</span>
@@ -134,15 +143,6 @@
 ## onflow/flow-core-contracts <span style='color:#F1C40F'>(81 ⭐️)</span>
 
 - [Add support to Staking contract to separate operational from financial capabilities ](https://github.com/onflow/flow-core-contracts/issues/358)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
