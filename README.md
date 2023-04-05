@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 06:48 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 06:58 UTC.</div>
+
+
+## replicatedhq/troubleshoot <span style='color:#F1C40F'>(423 ⭐️)</span>
+
+- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
+
+- [Allow using kubernetes.io/tls when configuring DB collector TLS secrets](https://github.com/replicatedhq/troubleshoot/issues/1047)
+
+- [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -358,11 +367,4 @@
 - [Chore: give test network a fixed validator.](https://github.com/berachain/polaris/issues/481)
 
 - [chore: Check for precompile module account on startup](https://github.com/berachain/polaris/issues/423)
-
-
-## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [feat(service): Add [iMessage] service](https://github.com/nikoksr/notify/issues/564)
-
-- [feat(service): Add IOS web push service](https://github.com/nikoksr/notify/issues/548)
 
