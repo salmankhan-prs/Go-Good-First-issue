@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 01:29 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 01:39 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+
+## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
+
+- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
+
+- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -35,15 +53,6 @@
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
-## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
-
-- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
-
-- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
-
-
 ## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [add gator to krew](https://github.com/open-policy-agent/gatekeeper/issues/2653)
@@ -54,15 +63,6 @@
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
 
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(914 ⭐️)</span>
