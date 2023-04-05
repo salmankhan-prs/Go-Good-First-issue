@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 09:48 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 09:58 UTC.</div>
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+
+
+## celestiaorg/test-infra <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [[cleanup]: use constants where applicable](https://github.com/celestiaorg/test-infra/issues/195)
 
 
 ## replicatedhq/troubleshoot <span style='color:#F1C40F'>(423 ⭐️)</span>
@@ -245,13 +255,6 @@
 - [Add issue template to Lifecycle Manager repo](https://github.com/kyma-project/lifecycle-manager/issues/497)
 
 
-## kyma-project/lifecycle-manager <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Limited channels availability per Kyma instance](https://github.com/kyma-project/lifecycle-manager/issues/455)
-
-- [Add issue template to Lifecycle Manager repo](https://github.com/kyma-project/lifecycle-manager/issues/497)
-
-
 ## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
 
 - [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
@@ -288,11 +291,6 @@
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
 ## safedep/vet <span style='color:#F1C40F'>(33 ⭐️)</span>
