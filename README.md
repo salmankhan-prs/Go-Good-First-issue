@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 05:58 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 06:08 UTC.</div>
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -14,6 +14,18 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+
+- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
+
+
+## turbot/steampipe <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [Improve error message when running steampipe dashboard outside a mod](https://github.com/turbot/steampipe/issues/3215)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
@@ -44,6 +56,11 @@
 - [Contrib: doc source structure](https://github.com/keptn/lifecycle-toolkit/issues/998)
 
 - [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(713 ⭐️)</span>
@@ -99,6 +116,16 @@
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
 ## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
 
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
@@ -120,16 +147,6 @@
 - [[FEAT] Add indicator for data written to disk](https://github.com/AnalogJ/scrutiny/issues/458)
 
 - [[FEAT] Update Smartctl database](https://github.com/AnalogJ/scrutiny/issues/460)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -230,15 +247,6 @@
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
-## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(559 ⭐️)</span>
 
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
@@ -317,4 +325,37 @@
 - [Chore: give test network a fixed validator.](https://github.com/berachain/polaris/issues/481)
 
 - [chore: Check for precompile module account on startup](https://github.com/berachain/polaris/issues/423)
+
+
+## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [feat(service): Add [iMessage] service](https://github.com/nikoksr/notify/issues/564)
+
+- [feat(service): Add IOS web push service](https://github.com/nikoksr/notify/issues/548)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
+
+- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [[exporter/splunkhec] Flaky test TestReceiveBatchedMetrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/20664)
+
+
+## jetstack/tally <span style='color:#F1C40F'>(13 ⭐️)</span>
+
+- [Identify wrong BOM format](https://github.com/jetstack/tally/issues/58)
+
+- [Detect BOM format](https://github.com/jetstack/tally/issues/57)
 
