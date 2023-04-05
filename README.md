@@ -4,7 +4,41 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 00:09 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 00:18 UTC.</div>
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(559 ⭐️)</span>
+
+- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.1K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
+
+- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
+
+- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+
+## deislabs/ratify <span style='color:#F1C40F'>(109 ⭐️)</span>
+
+- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
+
+- [Create a website for Ratify](https://github.com/deislabs/ratify/issues/692)
+
+- [Increase test coverage for authprovider](https://github.com/deislabs/ratify/issues/693)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -41,27 +75,11 @@
 - [feat(service): Add IOS web push service](https://github.com/nikoksr/notify/issues/548)
 
 
-## defenseunicorns/zarf <span style='color:#F1C40F'>(559 ⭐️)</span>
-
-- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
 ## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
 
 - [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
 
 - [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
-
-- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
-
-- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
@@ -204,9 +222,15 @@
 - [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
 
 
-## ory/hydra <span style='color:#F1C40F'>(13.9K ⭐️)</span>
+## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
-- [upstream reference closed: github.com/gobuffalo/fizz/issues/104](https://github.com/ory/hydra/issues/3470)
+- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
+
+- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+
+- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
 ## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -284,17 +308,6 @@
 - [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
 
 
-## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
-
-- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
-
-- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
@@ -330,106 +343,4 @@
 - [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
-
-- [Integrated DynDNS](https://github.com/SiaFoundation/hostd/issues/17)
-
-- [Improve Test Coverage](https://github.com/SiaFoundation/hostd/issues/19)
-
-- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
-
-- [Cache commonly used sectors in memory](https://github.com/SiaFoundation/hostd/issues/18)
-
-
-## dapr/components-contrib <span style='color:#F1C40F'>(439 ⭐️)</span>
-
-- [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
-
-- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
-
-- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
-
-- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
-
-- [Oauth2 Middleware control over redirect at end of auth code grant flow](https://github.com/dapr/components-contrib/issues/2634)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
-
-
-## apache/trafficcontrol <span style='color:#F1C40F'>(885 ⭐️)</span>
-
-- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
-
-
-## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [manifests: scheduler should run in the control plane (default, but overridable)](https://github.com/k8stopologyawareschedwg/deployer/issues/177)
-
-- [mainifests: updaters should NOT run in the control plane](https://github.com/k8stopologyawareschedwg/deployer/issues/176)
-
-- [add option to control the component verbosity](https://github.com/k8stopologyawareschedwg/deployer/issues/175)
-
-
-## solo-io/gloo <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
-
-- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
-
-- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
-
-
-## oauth2-proxy/oauth2-proxy <span style='color:#F1C40F'>(6.8K ⭐️)</span>
-
-- [Fragment is lost after redirect if --skip-provider-button is set to true](https://github.com/oauth2-proxy/oauth2-proxy/issues/2068)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
-
-
-## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Eventing TLS: Create Cert-Manager resources](https://github.com/knative/eventing/issues/6837)
-
-- [Eventing TLS: support receiving events to HTTPS endpoints in eventshub](https://github.com/knative/eventing/issues/6842)
-
-- [Eventing TLS: support sending events to HTTPS endpoints in eventshub](https://github.com/knative/eventing/issues/6840)
-
-- [Eventing TLS: Add scheme label to metrics](https://github.com/knative/eventing/issues/6838)
-
-- [Eventing TLS: Add transport-encryption feature flag](https://github.com/knative/eventing/issues/6836)
-
-- [Eventing TLS: Install Cert Manager as part of the test setup phase](https://github.com/knative/eventing/issues/6835)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Remove unused code from MetaRangeManager](https://github.com/treeverse/lakeFS/issues/5605)
-
-- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
-
-- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
-
-
-## kubearmor/KubeArmor <span style='color:#F1C40F'>(655 ⭐️)</span>
-
-- [Use registry client for updating stable release workflow](https://github.com/kubearmor/KubeArmor/issues/1169)
-
-
-## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [bug: `syncedResources` state should be Pending when APIResourceImport is missing](https://github.com/kcp-dev/kcp/issues/2928)
-
-- [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
 
