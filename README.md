@@ -4,12 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 06:18 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 06:28 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(474 ⭐️)</span>
@@ -108,6 +113,11 @@
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(713 ⭐️)</span>
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+
+
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
 - [Eventing TLS: Create Cert-Manager resources](https://github.com/knative/eventing/issues/6837)
@@ -145,11 +155,6 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
 ## dapr/components-contrib <span style='color:#F1C40F'>(439 ⭐️)</span>
@@ -302,6 +307,25 @@
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
+## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
+
+- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
+
+
+## deislabs/ratify <span style='color:#F1C40F'>(109 ⭐️)</span>
+
+- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
+
+- [Create a website for Ratify](https://github.com/deislabs/ratify/issues/692)
+
+- [Increase test coverage for authprovider](https://github.com/deislabs/ratify/issues/693)
+
+
+## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
+
+- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
+
+
 ## kubevela/velaux <span style='color:#F1C40F'>(102 ⭐️)</span>
 
 - [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
@@ -348,22 +372,4 @@
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [[exporter/splunkhec] Flaky test TestReceiveBatchedMetrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/20664)
-
-
-## kubearmor/kubearmor-client <span style='color:#F1C40F'>(21 ⭐️)</span>
-
-- [Add `karmor probe` as a part of `karmor sysdump`](https://github.com/kubearmor/kubearmor-client/issues/305)
-
-- [karmor probe: use config map to fetch data](https://github.com/kubearmor/kubearmor-client/issues/304)
-
-- [karmor probe should show namespace/host visibility and default posture setting](https://github.com/kubearmor/kubearmor-client/issues/298)
-
-- [`karmor profile` doesn't exit TUI mode on gRPC service connection errors](https://github.com/kubearmor/kubearmor-client/issues/294)
-
-
-## jetstack/tally <span style='color:#F1C40F'>(13 ⭐️)</span>
-
-- [Identify wrong BOM format](https://github.com/jetstack/tally/issues/58)
-
-- [Detect BOM format](https://github.com/jetstack/tally/issues/57)
 
