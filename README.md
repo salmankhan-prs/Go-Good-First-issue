@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 04:29 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 04:39 UTC.</div>
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -308,7 +308,7 @@
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
-## gnolang/gno <span style='color:#F1C40F'>(714 ⭐️)</span>
+## gnolang/gno <span style='color:#F1C40F'>(715 ⭐️)</span>
 
 - [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
 
