@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 10:58 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 11:08 UTC.</div>
+
+
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(165 ⭐️)</span>
+
+- [Set bonus proposer reward to 0%](https://github.com/celestiaorg/celestia-app/issues/1589)
+
+- [Consider introducing a type alias for `NamespaceVersion`](https://github.com/celestiaorg/celestia-app/issues/1574)
+
+- [Explore enforcing conventional commits](https://github.com/celestiaorg/celestia-app/issues/1539)
+
+- [specs: rename `message` => `blob`](https://github.com/celestiaorg/celestia-app/issues/1532)
+
+- [docs: rename `message` => `blob` in ADRs](https://github.com/celestiaorg/celestia-app/issues/1531)
+
+- [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -315,20 +330,4 @@
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-- [Enable k8s discovery support in go-discover](https://github.com/hashicorp/nomad/issues/16351)
-
-
-## kyma-project/lifecycle-manager <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Limited channels availability per Kyma instance](https://github.com/kyma-project/lifecycle-manager/issues/455)
-
-- [Add issue template to Lifecycle Manager repo](https://github.com/kyma-project/lifecycle-manager/issues/497)
 
