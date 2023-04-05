@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 04:19 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 04:29 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.2K ⭐️)</span>
@@ -14,6 +19,11 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.8K ⭐️)</span>
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -38,11 +48,6 @@
 ## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.2K ⭐️)</span>
 
 - [Add example repo in Java to README](https://github.com/grpc-ecosystem/grpc-gateway/issues/3262)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(959 ⭐️)</span>
@@ -114,11 +119,6 @@
 - [feat: add the ability to pull testnet data from the chain registry](https://github.com/cosmos/relayer/issues/1128)
 
 - [look into http response and provide more understandable logs when a node is inaccessible](https://github.com/cosmos/relayer/issues/1136)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Unify naming in `common.aggregation`](https://github.com/FerretDB/FerretDB/issues/2356)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
@@ -368,14 +368,4 @@
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
 
 - [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
-
-
-## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
 
