@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 13:38 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 13:48 UTC.</div>
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(14 ⭐️)</span>
+
+- [Add `turso tutorial` command and call it from Homebrew postinstall](https://github.com/chiselstrike/turso-cli/issues/300)
+
+- [`turso db inspect` should show more than just space](https://github.com/chiselstrike/turso-cli/issues/303)
+
+- [Destroying instances is cumbersome](https://github.com/chiselstrike/turso-cli/issues/283)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [[exporter/splunkhec] Flaky test TestReceiveBatchedMetrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/20664)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
+
+- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## matrix-org/dendrite <span style='color:#F1C40F'>(4.5K ⭐️)</span>
@@ -45,21 +66,14 @@
 - [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
-
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
