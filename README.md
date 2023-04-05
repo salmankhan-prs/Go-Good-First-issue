@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 19:08 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 19:18 UTC.</div>
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
+
+- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
+
+
+## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
+
+- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -32,6 +56,20 @@
 - [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(929 ⭐️)</span>
+
+- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+
+## gnolang/gno <span style='color:#F1C40F'>(719 ⭐️)</span>
+
+- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
+
+- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(961 ⭐️)</span>
@@ -138,18 +176,6 @@
 - [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
 
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
-
-- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
@@ -308,29 +334,4 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## csunibo/informabot <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Rimuovere virtuale, teams, website](https://github.com/csunibo/informabot/issues/86)
-
-- [Prof che mettono le aule come annuncio anziché come aule](https://github.com/csunibo/informabot/issues/84)
-
-- [scrittura test Go](https://github.com/csunibo/informabot/issues/85)
-
-- [/manutenzione o qualcosa di simile](https://github.com/csunibo/informabot/issues/80)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(929 ⭐️)</span>
-
-- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
-
-- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
 
