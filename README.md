@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 08:38 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 08:48 UTC.</div>
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
+
+- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
+
+
+## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Improve RedisUpdater func](https://github.com/zalando/skipper/issues/2258)
 
 
 ## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -94,9 +106,19 @@
 - [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
 
 
+## project-zot/zot <span style='color:#F1C40F'>(336 ⭐️)</span>
+
+- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
+
+
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## kairos-io/kairos <span style='color:#F1C40F'>(436 ⭐️)</span>
@@ -111,18 +133,6 @@
 - [Limited channels availability per Kyma instance](https://github.com/kyma-project/lifecycle-manager/issues/455)
 
 - [Add issue template to Lifecycle Manager repo](https://github.com/kyma-project/lifecycle-manager/issues/497)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
-
-- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -237,9 +247,9 @@
 - [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
 
 
-## project-zot/zot <span style='color:#F1C40F'>(335 ⭐️)</span>
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.8K ⭐️)</span>
 
-- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
@@ -298,9 +308,4 @@
 - [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
 
 - [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(713 ⭐️)</span>
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
