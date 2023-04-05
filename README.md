@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 17:08 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 17:18 UTC.</div>
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
+
+- [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(562 ⭐️)</span>
+
+- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
+## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(916 ⭐️)</span>
+
+- [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -70,11 +94,9 @@
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
-## defenseunicorns/zarf <span style='color:#F1C40F'>(561 ⭐️)</span>
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
 
-- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## berops/claudie <span style='color:#F1C40F'>(206 ⭐️)</span>
@@ -223,11 +245,6 @@
 - [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
 
 
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
 ## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
 
 - [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
@@ -250,11 +267,6 @@
 - [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
 
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -323,4 +335,62 @@
 - [bug: doc-gen not generating/updating docs, missing plugin docs](https://github.com/fluent/fluent-operator/issues/666)
 
 - [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
+
+
+## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [add gator to krew](https://github.com/open-policy-agent/gatekeeper/issues/2653)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
+## gnolang/gno <span style='color:#F1C40F'>(718 ⭐️)</span>
+
+- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
+
+- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
+
+- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
+
+
+## solo-io/gloo <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
+
+- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
+
+- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
+
+
+## diggerhq/digger <span style='color:#F1C40F'>(268 ⭐️)</span>
+
+- [dissplay a warning if plan requested ](https://github.com/diggerhq/digger/issues/52)
+
+- [Add option for disabling usage data](https://github.com/diggerhq/digger/issues/92)
+
+- [Get rid of hardcoded value of bucket for GCP](https://github.com/diggerhq/digger/issues/94)
+
+- [Add support for aws-vault](https://github.com/diggerhq/digger/issues/97)
+
+- [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
+
+- [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
+
+- [Support multiple Terraform versions](https://github.com/diggerhq/digger/issues/105)
 
