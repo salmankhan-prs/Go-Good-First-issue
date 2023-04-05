@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 12:38 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 12:48 UTC.</div>
+
+
+## open-horizon/anax <span style='color:#F1C40F'>(64 ⭐️)</span>
+
+- [Feature Request: Add --applies-to for deployment policies](https://github.com/open-horizon/anax/issues/3743)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -106,7 +129,7 @@
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 
-## gnolang/gno <span style='color:#F1C40F'>(717 ⭐️)</span>
+## gnolang/gno <span style='color:#F1C40F'>(718 ⭐️)</span>
 
 - [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
 
@@ -172,19 +195,6 @@
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
-
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(712 ⭐️)</span>
@@ -261,11 +271,6 @@
 - [[Doc] Add example of Custom Metrics via Kube-state-metrics CustomResourceStateMetrics](https://github.com/carvel-dev/kapp-controller/issues/1159)
 
 
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
 ## replicatedhq/troubleshoot <span style='color:#F1C40F'>(423 ⭐️)</span>
 
 - [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
@@ -324,31 +329,4 @@
 - [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
 
 - [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
-
-
-## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
-
-- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
-
-
-## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Eventing TLS: Create Cert-Manager resources](https://github.com/knative/eventing/issues/6837)
-
-- [Eventing TLS: support receiving events to HTTPS endpoints in eventshub](https://github.com/knative/eventing/issues/6842)
-
-- [Eventing TLS: support sending events to HTTPS endpoints in eventshub](https://github.com/knative/eventing/issues/6840)
-
-- [Eventing TLS: Add scheme label to metrics](https://github.com/knative/eventing/issues/6838)
-
-- [Eventing TLS: Add transport-encryption feature flag](https://github.com/knative/eventing/issues/6836)
-
-- [Eventing TLS: Install Cert Manager as part of the test setup phase](https://github.com/knative/eventing/issues/6835)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(961 ⭐️)</span>
-
-- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
