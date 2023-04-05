@@ -4,7 +4,32 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 04:49 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 04:59 UTC.</div>
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+
+## dapr/components-contrib <span style='color:#F1C40F'>(439 ⭐️)</span>
+
+- [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
+
+- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
+
+- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
+
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+
+## AnalogJ/scrutiny <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [[FEAT] Update Smartctl database](https://github.com/AnalogJ/scrutiny/issues/460)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
@@ -17,9 +42,14 @@
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+
+
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
-- [get `TCP/UNIX/TLS listener's address` may cause "goroutines are asleep - deadlock"](https://github.com/FerretDB/FerretDB/issues/2326)
+- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -76,15 +106,6 @@
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-
 ## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [add gator to krew](https://github.com/open-policy-agent/gatekeeper/issues/2653)
@@ -124,6 +145,13 @@
 - [feat: add the ability to pull testnet data from the chain registry](https://github.com/cosmos/relayer/issues/1128)
 
 - [look into http response and provide more understandable logs when a node is inaccessible](https://github.com/cosmos/relayer/issues/1136)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
+
+- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
@@ -255,11 +283,6 @@
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
 
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
 ## jetstack/tally <span style='color:#F1C40F'>(13 ⭐️)</span>
 
 - [Identify wrong BOM format](https://github.com/jetstack/tally/issues/58)
@@ -306,14 +329,7 @@
 - [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
 
 
-## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
-
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
-## gnolang/gno <span style='color:#F1C40F'>(715 ⭐️)</span>
+## gnolang/gno <span style='color:#F1C40F'>(716 ⭐️)</span>
 
 - [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
 
