@@ -4,7 +4,45 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 11:58 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 12:08 UTC.</div>
+
+
+## gnolang/gno <span style='color:#F1C40F'>(717 ⭐️)</span>
+
+- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
+
+- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
+
+- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(470 ⭐️)</span>
+
+- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
+
+- [log(throughout codebase): Change log to `DAH.String()` instead of `DAH.Hash()` anywhere where we try to log the hash of the `DataAvailabilityHeader`/ `Root`](https://github.com/celestiaorg/celestia-node/issues/1898)
+
+- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
+
+- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
+
+- [logging: More uniformity around naming for loggers per package](https://github.com/celestiaorg/celestia-node/issues/1888)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [When destroy an environment, the message says "deploying development environment"](https://github.com/okteto/okteto/issues/3450)
+
+- [Destroy message has an empty quote if the environment doesn't have a name](https://github.com/okteto/okteto/issues/3487)
+
+- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
+
+- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
+
+- [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -245,6 +283,13 @@
 - [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
 
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
+
+- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
+
+
 ## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
 
 - [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
@@ -265,11 +310,11 @@
 - [Eventing TLS: Install Cert Manager as part of the test setup phase](https://github.com/knative/eventing/issues/6835)
 
 
-## gnolang/gno <span style='color:#F1C40F'>(717 ⭐️)</span>
+## superfly/flyctl <span style='color:#F1C40F'>(961 ⭐️)</span>
 
-- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
 
-- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
@@ -300,18 +345,4 @@
 - [Remove redundant lockings if possible ](https://github.com/Frontman-Labs/frontman/issues/82)
 
 - [Add URL Rewriting Feature to API Gateway](https://github.com/Frontman-Labs/frontman/issues/74)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
-
-- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
-
-- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
 
