@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 12:18 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 12:28 UTC.</div>
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
@@ -73,6 +92,15 @@
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
 
 
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+
 ## gnolang/gno <span style='color:#F1C40F'>(717 ⭐️)</span>
 
 - [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
@@ -111,23 +139,20 @@
 - [Return and error if using `services` and disabling the okteto persistent volume](https://github.com/okteto/okteto/issues/3437)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
+## berops/claudie <span style='color:#F1C40F'>(206 ⭐️)</span>
+
+- [Rework manifest labels](https://github.com/berops/claudie/issues/695)
+
+- [Chore: Refactor probes](https://github.com/berops/claudie/issues/666)
+
+- [Claudie live demo](https://github.com/berops/claudie/issues/651)
+
+- [Feature: Rework how logger is used](https://github.com/berops/claudie/issues/655)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -146,15 +171,6 @@
 - [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(712 ⭐️)</span>
@@ -197,6 +213,8 @@
 
 ## kyma-project/lifecycle-manager <span style='color:#F1C40F'>(5 ⭐️)</span>
 
+- [Increase workqueue workers in KCP](https://github.com/kyma-project/lifecycle-manager/issues/515)
+
 - [Limited modules availability per Kyma instance](https://github.com/kyma-project/lifecycle-manager/issues/455)
 
 - [Add issue template to Lifecycle Manager repo](https://github.com/kyma-project/lifecycle-manager/issues/497)
@@ -229,14 +247,14 @@
 - [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
 
 
+## carvel-dev/kapp-controller <span style='color:#F1C40F'>(162 ⭐️)</span>
+
+- [[Doc] Add example of Custom Metrics via Kube-state-metrics CustomResourceStateMetrics](https://github.com/carvel-dev/kapp-controller/issues/1159)
+
+
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## replicatedhq/troubleshoot <span style='color:#F1C40F'>(423 ⭐️)</span>
@@ -336,9 +354,4 @@
 - [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
 
 - [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
-
-
-## celestiaorg/test-infra <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [[cleanup]: use constants where applicable](https://github.com/celestiaorg/test-infra/issues/195)
 
