@@ -4,7 +4,40 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 07:28 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 07:38 UTC.</div>
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+
+
+## safedep/vet <span style='color:#F1C40F'>(33 ⭐️)</span>
+
+- [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
+
+- [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
+
+
+## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(64 ⭐️)</span>
+
+- [Research new base container images](https://github.com/keptn/lifecycle-toolkit/issues/1094)
+
+- [Contrib: linters requirements](https://github.com/keptn/lifecycle-toolkit/issues/999)
+
+- [Contributing: Building docs locally](https://github.com/keptn/lifecycle-toolkit/issues/996)
+
+- [Update all the SLI providers to make use of the timeframe value](https://github.com/keptn/lifecycle-toolkit/issues/1012)
+
+- [KLT architecture diagram](https://github.com/keptn/lifecycle-toolkit/issues/1034)
+
+- [Contrib: Working with github](https://github.com/keptn/lifecycle-toolkit/issues/997)
+
+- [Contributing: general guidelines](https://github.com/keptn/lifecycle-toolkit/issues/995)
+
+- [Contrib: doc source structure](https://github.com/keptn/lifecycle-toolkit/issues/998)
+
+- [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -90,11 +123,6 @@
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(560 ⭐️)</span>
 
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
@@ -130,27 +158,6 @@
 - [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
 
 - [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
-
-
-## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(64 ⭐️)</span>
-
-- [Research new base container images](https://github.com/keptn/lifecycle-toolkit/issues/1094)
-
-- [Contrib: linters requirements](https://github.com/keptn/lifecycle-toolkit/issues/999)
-
-- [Contributing: Building docs locally](https://github.com/keptn/lifecycle-toolkit/issues/996)
-
-- [Update all the SLI providers to make use of the timeframe value](https://github.com/keptn/lifecycle-toolkit/issues/1012)
-
-- [KLT architecture diagram](https://github.com/keptn/lifecycle-toolkit/issues/1034)
-
-- [Contrib: Working with github](https://github.com/keptn/lifecycle-toolkit/issues/997)
-
-- [Contributing: general guidelines](https://github.com/keptn/lifecycle-toolkit/issues/995)
-
-- [Contrib: doc source structure](https://github.com/keptn/lifecycle-toolkit/issues/998)
-
-- [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(713 ⭐️)</span>
