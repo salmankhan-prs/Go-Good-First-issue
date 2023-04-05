@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 06:28 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 06:38 UTC.</div>
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -22,11 +27,6 @@
 - [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
 
 - [Missing some data on `trivy_vulnerability_id` metric](https://github.com/aquasecurity/trivy-operator/issues/1035)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(102 ⭐️)</span>
@@ -106,11 +106,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(713 ⭐️)</span>
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(713 ⭐️)</span>
