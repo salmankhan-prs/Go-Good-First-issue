@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 01:09 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 01:19 UTC.</div>
+
+
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
+
+- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
+
+- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
+
+- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
@@ -168,15 +177,6 @@
 - [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
 
 - [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
-
-
-## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
-
-- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
-
-- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
-
-- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
 
 
 ## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
