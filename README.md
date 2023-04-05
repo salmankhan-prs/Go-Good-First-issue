@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 05:38 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 05:48 UTC.</div>
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(713 ⭐️)</span>
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -43,11 +48,6 @@
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(713 ⭐️)</span>
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -315,9 +315,4 @@
 - [Identify wrong BOM format](https://github.com/jetstack/tally/issues/58)
 
 - [Detect BOM format](https://github.com/jetstack/tally/issues/57)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
