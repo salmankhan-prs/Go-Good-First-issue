@@ -4,7 +4,42 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 13:48 UTC.</div>
+<div align='center'>Last updated at April 5, 2023 13:58 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## replicatedhq/troubleshoot <span style='color:#F1C40F'>(423 ⭐️)</span>
+
+- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
+
+- [Allow using kubernetes.io/tls when configuring DB collector TLS secrets](https://github.com/replicatedhq/troubleshoot/issues/1047)
+
+- [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [tracee cmdline output (help, list events, list signatures) should have tabled output](https://github.com/aquasecurity/tracee/issues/2972)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(14 ⭐️)</span>
@@ -97,24 +132,6 @@
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-
-## replicatedhq/troubleshoot <span style='color:#F1C40F'>(423 ⭐️)</span>
-
-- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
-
-- [Allow using kubernetes.io/tls when configuring DB collector TLS secrets](https://github.com/replicatedhq/troubleshoot/issues/1047)
-
-- [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
-
-
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [Release notes for patch releases are wrong](https://github.com/cri-o/cri-o/issues/6774)
@@ -148,11 +165,6 @@
 - [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -292,34 +304,4 @@
 ## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
 
 - [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
-
-
-## berops/claudie <span style='color:#F1C40F'>(206 ⭐️)</span>
-
-- [Rework manifest labels](https://github.com/berops/claudie/issues/695)
-
-- [Chore: Refactor probes](https://github.com/berops/claudie/issues/666)
-
-- [Claudie live demo](https://github.com/berops/claudie/issues/651)
-
-- [Feature: Rework how logger is used](https://github.com/berops/claudie/issues/655)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(712 ⭐️)</span>
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
