@@ -4,19 +4,18 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 14:48 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 14:58 UTC.</div>
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+## PuremlHQ/PureML <span style='color:#F1C40F'>(109 ⭐️)</span>
 
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+- [Incorrect navlinks in changelog](https://github.com/PuremlHQ/PureML/issues/163)
 
+- [Incorrect Changelog link in landing page footer](https://github.com/PuremlHQ/PureML/issues/161)
 
-## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
+- [Less articles in changelog page shows default 404 pg when clicked Next button](https://github.com/PuremlHQ/PureML/issues/138)
 
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
+- [PureML logo not redirecting to pureml.com in changelog](https://github.com/PuremlHQ/PureML/issues/137)
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -40,11 +39,45 @@
 - [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
 
 
+## guacsec/guac <span style='color:#F1C40F'>(774 ⭐️)</span>
+
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
+
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
 ## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
 
 - [冰哥，最新更新消息丢给责任链这个源码，看不懂，能不能开个教程啊！](https://github.com/aceld/zinx/issues/185)
 
 - [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
+
+- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -119,17 +152,15 @@
 - [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
 
 
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+## terrastruct/d2 <span style='color:#F1C40F'>(12.7K ⭐️)</span>
 
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+- [Feature Request: Lifeline should inherit Actor border styles](https://github.com/terrastruct/d2/issues/1137)
 
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
 
-- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -219,17 +250,6 @@
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
-## PuremlHQ/PureML <span style='color:#F1C40F'>(109 ⭐️)</span>
-
-- [Incorrect navlinks in changelog](https://github.com/PuremlHQ/PureML/issues/163)
-
-- [Incorrect Changelog link in landing page footer](https://github.com/PuremlHQ/PureML/issues/161)
-
-- [Less articles in changelog page shows default 404 pg when clicked Next button](https://github.com/PuremlHQ/PureML/issues/138)
-
-- [PureML logo not redirecting to pureml.com in changelog](https://github.com/PuremlHQ/PureML/issues/137)
-
-
 ## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.2K ⭐️)</span>
 
 - [Add example repo in Java to README](https://github.com/grpc-ecosystem/grpc-gateway/issues/3262)
@@ -242,92 +262,4 @@
 - [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
 
 - [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
-
-- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(274 ⭐️)</span>
-
-- [Deprecate support for short JobIDs](https://github.com/bacalhau-project/bacalhau/issues/2298)
-
-- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
-
-- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(438 ⭐️)</span>
-
-- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
-
-- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [[Feature] Set up the component/trait definition unit tests framework based on CUE](https://github.com/kubevela/kubevela/issues/5766)
-
-- [vela show --web not populating ComponentType](https://github.com/kubevela/kubevela/issues/5769)
-
-- [The progress bar on the front end of the installation plugin is still spinning](https://github.com/kubevela/kubevela/issues/5753)
-
-- [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
-
-- [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
-
-- [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
-
-
-## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(919 ⭐️)</span>
-
-- [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
-
-
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-
-## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
-
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
-
-- [Feature: sealos apply -f Clusterfile support --single](https://github.com/labring/sealos/issues/2888)
-
-- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
-
-- [Indirection use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
 
