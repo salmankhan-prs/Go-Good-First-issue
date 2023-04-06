@@ -4,10 +4,26 @@
 
 
 
-<div align='center'>Last updated at April 5, 2023 23:58 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 00:08 UTC.</div>
 
 
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(712 ⭐️)</span>
+## terrastruct/d2 <span style='color:#F1C40F'>(12.5K ⭐️)</span>
+
+- [Feature Request: Lifeline should inherit Actor border styles](https://github.com/terrastruct/d2/issues/1137)
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+
+## onflow/cadence <span style='color:#F1C40F'>(461 ⭐️)</span>
+
+- [Return overflowing value when for UInt256 and Int256 ](https://github.com/onflow/cadence/issues/2389)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(711 ⭐️)</span>
 
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
@@ -31,7 +47,7 @@
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
-## dapr/dapr <span style='color:#F1C40F'>(20.8K ⭐️)</span>
+## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
 
 - [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
@@ -53,11 +69,6 @@
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
 
 
-## onflow/cadence <span style='color:#F1C40F'>(461 ⭐️)</span>
-
-- [Return overflowing value when for UInt256 and Int256 ](https://github.com/onflow/cadence/issues/2389)
-
-
 ## deislabs/ratify <span style='color:#F1C40F'>(110 ⭐️)</span>
 
 - [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
@@ -72,17 +83,6 @@
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
 
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(12.5K ⭐️)</span>
-
-- [Feature Request: Lifeline should inherit Actor border styles](https://github.com/terrastruct/d2/issues/1137)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
