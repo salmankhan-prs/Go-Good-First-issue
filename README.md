@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 01:08 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 01:18 UTC.</div>
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -301,6 +301,11 @@
 ## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Improve RedisUpdater func](https://github.com/zalando/skipper/issues/2258)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
+
+- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
 
 
 ## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
