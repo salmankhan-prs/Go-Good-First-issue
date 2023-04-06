@@ -4,7 +4,73 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 09:28 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 09:38 UTC.</div>
+
+
+## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [create common options, remove intermediate layers](https://github.com/k8stopologyawareschedwg/deployer/issues/182)
+
+- [manifests: updaters should NOT run in the control plane](https://github.com/k8stopologyawareschedwg/deployer/issues/176)
+
+- [add option to control the component verbosity](https://github.com/k8stopologyawareschedwg/deployer/issues/175)
+
+- [manifests: add top-level option to control the notification](https://github.com/k8stopologyawareschedwg/deployer/issues/181)
+
+- [manifests: scheduler should run in the control plane (default, but overridable)](https://github.com/k8stopologyawareschedwg/deployer/issues/177)
+
+
+## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
+
+- [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
+
+- [Convert WebsocketMessage tests to table-driven style](https://github.com/gavv/httpexpect/issues/356)
+
+- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
+
+- [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
+
+- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/352)
+
+- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(12.7K ⭐️)</span>
+
+- [Feature Request: Lifeline should inherit Actor border styles](https://github.com/terrastruct/d2/issues/1137)
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## kubesphere/kubekey <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -29,15 +95,6 @@
 - [invalid `--distribution-spec` flag returns wrong error information](https://github.com/oras-project/oras/issues/897)
 
 - [trigger dependabot for nested e2e go module](https://github.com/oras-project/oras/issues/876)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(14 ⭐️)</span>
@@ -86,19 +143,6 @@
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
 
-## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [create common options, remove intermediate layers](https://github.com/k8stopologyawareschedwg/deployer/issues/182)
-
-- [manifests: updaters should NOT run in the control plane](https://github.com/k8stopologyawareschedwg/deployer/issues/176)
-
-- [add option to control the component verbosity](https://github.com/k8stopologyawareschedwg/deployer/issues/175)
-
-- [manifests: add top-level option to control the notification](https://github.com/k8stopologyawareschedwg/deployer/issues/181)
-
-- [manifests: scheduler should run in the control plane (default, but overridable)](https://github.com/k8stopologyawareschedwg/deployer/issues/177)
-
-
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
@@ -118,7 +162,7 @@
 - [Fix Release() arrow callbacks](https://github.com/polarsignals/frostdb/issues/403)
 
 
-## safedep/vet <span style='color:#F1C40F'>(37 ⭐️)</span>
+## safedep/vet <span style='color:#F1C40F'>(38 ⭐️)</span>
 
 - [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
 
@@ -169,15 +213,6 @@
 ## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(64 ⭐️)</span>
@@ -278,4 +313,52 @@
 - [Allow using kubernetes.io/tls when configuring DB collector TLS secrets](https://github.com/replicatedhq/troubleshoot/issues/1047)
 
 - [Capture Endpoints in Support Bundles (for Services etc)](https://github.com/replicatedhq/troubleshoot/issues/1046)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+
+- [Feature: sealos apply -f Clusterfile support --single](https://github.com/labring/sealos/issues/2888)
+
+- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
+## project-zot/zot <span style='color:#F1C40F'>(337 ⭐️)</span>
+
+- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+
+## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [bug: `syncedResources` state should be Pending when APIResourceImport is missing](https://github.com/kcp-dev/kcp/issues/2928)
+
+- [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
 
