@@ -4,15 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 23:38 UTC.</div>
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Use of FQIN in Dockerfile FROM instructions.](https://github.com/go-gitea/gitea/issues/23954)
+<div align='center'>Last updated at April 6, 2023 23:48 UTC.</div>
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Convert Array tests to table-driven style](https://github.com/gavv/httpexpect/issues/387)
+
+- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/386)
 
 - [Split TestValue_Schema into subtests](https://github.com/gavv/httpexpect/issues/385)
 
@@ -33,6 +32,11 @@
 - [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
 
 - [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Use of FQIN in Dockerfile FROM instructions.](https://github.com/go-gitea/gitea/issues/23954)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -391,18 +395,4 @@
 - [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
 
 - [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Explore moving `readFile` to `host_id_bsd.go`](https://github.com/open-telemetry/opentelemetry-go/issues/3972)
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
-
-- [Indirection use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
