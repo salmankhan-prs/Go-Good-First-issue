@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 01:38 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 01:48 UTC.</div>
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -72,6 +72,13 @@
 ## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
 
 - [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
+
+- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
@@ -333,9 +340,4 @@
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
 
 - [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
-
-
-## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
 
