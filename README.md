@@ -4,10 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 23:08 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 23:18 UTC.</div>
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Convert TestRequest_Conflicts to table-driven style](https://github.com/gavv/httpexpect/issues/383)
 
 - [Improve bodyWrapper GetBody test](https://github.com/gavv/httpexpect/issues/378)
 
@@ -26,6 +28,22 @@
 - [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/352)
 
 - [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(22 ⭐️)</span>
+
+- [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
+
+- [feature: Create behavioral unit tests for mailbox controller](https://github.com/kcp-dev/edge-mc/issues/218)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -61,6 +79,15 @@
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Helm - Provide good securityContext by default](https://github.com/external-secrets/external-secrets/issues/2207)
+
+- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
+
+- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
+
+
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
@@ -89,15 +116,6 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
 
 - [Use of FQIN in Dockerfile FROM instructions.](https://github.com/go-gitea/gitea/issues/23954)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
-
-- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
-
-- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -148,15 +166,6 @@
 - [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(715 ⭐️)</span>
 
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
@@ -176,6 +185,15 @@
 - [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
 
 
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
 ## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
@@ -191,6 +209,18 @@
 ## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
 
 - [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
+
+
+## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
+
+- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
 
 
 ## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
