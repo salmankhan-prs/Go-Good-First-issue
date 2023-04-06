@@ -4,7 +4,52 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 08:28 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 08:38 UTC.</div>
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(64 ⭐️)</span>
+
+- [Research new base container images](https://github.com/keptn/lifecycle-toolkit/issues/1094)
+
+- [Contrib: linters requirements](https://github.com/keptn/lifecycle-toolkit/issues/999)
+
+- [Contributing: Building docs locally](https://github.com/keptn/lifecycle-toolkit/issues/996)
+
+- [Update all the SLI providers to make use of the timeframe value](https://github.com/keptn/lifecycle-toolkit/issues/1012)
+
+- [KLT architecture diagram](https://github.com/keptn/lifecycle-toolkit/issues/1034)
+
+- [Contrib: Working with github](https://github.com/keptn/lifecycle-toolkit/issues/997)
+
+- [Contributing: general guidelines](https://github.com/keptn/lifecycle-toolkit/issues/995)
+
+- [Contrib: doc source structure](https://github.com/keptn/lifecycle-toolkit/issues/998)
+
+- [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(401 ⭐️)</span>
+
+- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
 
 
 ## Frontman-Labs/frontman <span style='color:#F1C40F'>(96 ⭐️)</span>
@@ -182,15 +227,6 @@
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
 
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
 ## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
 
 - [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
@@ -203,27 +239,6 @@
 - [bug: `syncedResources` state should be Pending when APIResourceImport is missing](https://github.com/kcp-dev/kcp/issues/2928)
 
 - [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
-
-
-## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(64 ⭐️)</span>
-
-- [Research new base container images](https://github.com/keptn/lifecycle-toolkit/issues/1094)
-
-- [Contrib: linters requirements](https://github.com/keptn/lifecycle-toolkit/issues/999)
-
-- [Contributing: Building docs locally](https://github.com/keptn/lifecycle-toolkit/issues/996)
-
-- [Update all the SLI providers to make use of the timeframe value](https://github.com/keptn/lifecycle-toolkit/issues/1012)
-
-- [KLT architecture diagram](https://github.com/keptn/lifecycle-toolkit/issues/1034)
-
-- [Contrib: Working with github](https://github.com/keptn/lifecycle-toolkit/issues/997)
-
-- [Contributing: general guidelines](https://github.com/keptn/lifecycle-toolkit/issues/995)
-
-- [Contrib: doc source structure](https://github.com/keptn/lifecycle-toolkit/issues/998)
-
-- [Contribute: Prerequisite technologies](https://github.com/keptn/lifecycle-toolkit/issues/1000)
 
 
 ## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
@@ -253,4 +268,90 @@
 - [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
 
 - [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.8K ⭐️)</span>
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
+
+
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [env for pipeline name](https://github.com/woodpecker-ci/woodpecker/issues/1681)
+
+- [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
+
+- [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
+
+
+## AnalogJ/scrutiny <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [[FEAT] Add indicator for data written to disk](https://github.com/AnalogJ/scrutiny/issues/458)
+
+- [[FEAT] Update Smartctl database](https://github.com/AnalogJ/scrutiny/issues/460)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+
+## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [Pytorch Serve supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2178)
+
+- [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
+
+- [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
+
+
+## apache/incubator-devlake <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [[Doc][Dashboard] Outdated links to Grafana doc](https://github.com/apache/incubator-devlake/issues/4861)
+
+
+## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(919 ⭐️)</span>
+
+- [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+
+- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
+
+- [[UI] Header settings when creating new design should be dark mode compatible](https://github.com/meshery/meshery/issues/7298)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
