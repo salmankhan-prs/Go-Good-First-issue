@@ -4,7 +4,42 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 16:58 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 17:08 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
+
+- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
+
+- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
+
+
+## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Improve bodyWrapper GetBody test](https://github.com/gavv/httpexpect/issues/378)
+
+- [Improve bodyWrapper Rewind test](https://github.com/gavv/httpexpect/issues/377)
+
+- [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
+
+- [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
+
+- [Convert WebsocketMessage tests to table-driven style](https://github.com/gavv/httpexpect/issues/356)
+
+- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
+
+- [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
+
+- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/352)
+
+- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -90,16 +125,39 @@
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
+## diggerhq/digger <span style='color:#F1C40F'>(284 ⭐️)</span>
+
+- [Only run apply if PR is mergeable](https://github.com/diggerhq/digger/issues/118)
+
+- [Support multiple Terraform versions](https://github.com/diggerhq/digger/issues/105)
+
+- [dissplay a warning if plan requested ](https://github.com/diggerhq/digger/issues/52)
+
+- [Add option for disabling usage data](https://github.com/diggerhq/digger/issues/92)
+
+- [Get rid of hardcoded value of bucket for GCP](https://github.com/diggerhq/digger/issues/94)
+
+- [Add support for aws-vault](https://github.com/diggerhq/digger/issues/97)
+
+- [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
+
+- [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
 ## envoyproxy/gateway <span style='color:#F1C40F'>(929 ⭐️)</span>
 
 - [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
 
 - [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -184,17 +242,14 @@
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
 ## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Include inbound and outbound edges when automatically activating rank in the graph](https://github.com/kiali/kiali/issues/5915)
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(670 ⭐️)</span>
+
+- [(feature) relay-proxy: Using notifier to add prometheus metrics when flag change](https://github.com/thomaspoignant/go-feature-flag/issues/665)
 
 - [(feature) Implement Open-feature web provider.](https://github.com/thomaspoignant/go-feature-flag/issues/662)
 
@@ -258,54 +313,4 @@
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [[test]: CI fails on current Go tip (upcoming 1.21)](https://github.com/jaegertracing/jaeger/issues/4327)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-
-## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [Improve bodyWrapper GetBody test](https://github.com/gavv/httpexpect/issues/378)
-
-- [Improve bodyWrapper Rewind test](https://github.com/gavv/httpexpect/issues/377)
-
-- [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
-
-- [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
-
-- [Convert WebsocketMessage tests to table-driven style](https://github.com/gavv/httpexpect/issues/356)
-
-- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
-
-- [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
-
-- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/352)
-
-- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
-
-
-## guacsec/guac <span style='color:#F1C40F'>(774 ⭐️)</span>
-
-- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
-
-- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
-
-- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
-
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
