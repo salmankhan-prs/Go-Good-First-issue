@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 04:38 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 04:48 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## cybozu-go/neco <span style='color:#F1C40F'>(218 ⭐️)</span>
@@ -56,6 +61,15 @@
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
+## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
 
 - [[Feature] Set up the component/trait definition unit tests framework based on CUE](https://github.com/kubevela/kubevela/issues/5766)
@@ -74,11 +88,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## oras-project/oras <span style='color:#F1C40F'>(889 ⭐️)</span>
@@ -342,9 +351,4 @@
 - [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
 
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
 
