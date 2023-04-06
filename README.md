@@ -4,7 +4,50 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 03:18 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 03:28 UTC.</div>
+
+
+## oras-project/oras <span style='color:#F1C40F'>(889 ⭐️)</span>
+
+- [Avoid requiring passing --plain-http when specifying --insecure](https://github.com/oras-project/oras/issues/914)
+
+- [add command to get the digest of a tagged manifest without parsing output](https://github.com/oras-project/oras/issues/907)
+
+- [add OCI layout support in command help doc](https://github.com/oras-project/oras/issues/904)
+
+- [invalid `--distribution-spec` flag returns wrong error information](https://github.com/oras-project/oras/issues/897)
+
+- [trigger dependabot for nested e2e go module](https://github.com/oras-project/oras/issues/876)
+
+
+## dapr/components-contrib <span style='color:#F1C40F'>(439 ⭐️)</span>
+
+- [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
+
+- [Issues with SQL Server state store and MSI auth](https://github.com/dapr/components-contrib/issues/2726)
+
+- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
+
+- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
+
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+
+## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(22 ⭐️)</span>
+
+- [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
+
+- [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(401 ⭐️)</span>
+
+- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -30,13 +73,6 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
-
-
-## shared-recruiting-co/shared-recruiting-co <span style='color:#F1C40F'>(22 ⭐️)</span>
-
-- [[Candidate] Allow Candidates to Remove Misattributed Jobs](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/177)
-
-- [[Web] Pagination Refactor](https://github.com/shared-recruiting-co/shared-recruiting-co/issues/202)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -115,16 +151,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## fluent/fluent-operator <span style='color:#F1C40F'>(401 ⭐️)</span>
-
-- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
@@ -207,6 +233,23 @@
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
+## diggerhq/digger <span style='color:#F1C40F'>(274 ⭐️)</span>
+
+- [dissplay a warning if plan requested ](https://github.com/diggerhq/digger/issues/52)
+
+- [Add option for disabling usage data](https://github.com/diggerhq/digger/issues/92)
+
+- [Get rid of hardcoded value of bucket for GCP](https://github.com/diggerhq/digger/issues/94)
+
+- [Add support for aws-vault](https://github.com/diggerhq/digger/issues/97)
+
+- [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
+
+- [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
+
+- [Support multiple Terraform versions](https://github.com/diggerhq/digger/issues/105)
+
+
 ## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
 
 - [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
@@ -248,23 +291,6 @@
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
-
-
-## diggerhq/digger <span style='color:#F1C40F'>(273 ⭐️)</span>
-
-- [dissplay a warning if plan requested ](https://github.com/diggerhq/digger/issues/52)
-
-- [Add option for disabling usage data](https://github.com/diggerhq/digger/issues/92)
-
-- [Get rid of hardcoded value of bucket for GCP](https://github.com/diggerhq/digger/issues/94)
-
-- [Add support for aws-vault](https://github.com/diggerhq/digger/issues/97)
-
-- [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
-
-- [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
-
-- [Support multiple Terraform versions](https://github.com/diggerhq/digger/issues/105)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(711 ⭐️)</span>
