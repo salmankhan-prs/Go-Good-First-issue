@@ -4,7 +4,35 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 08:48 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 08:58 UTC.</div>
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
+
+
+## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
+
+- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
+
+
+## deislabs/ratify <span style='color:#F1C40F'>(110 ⭐️)</span>
+
+- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
+
+
+## oras-project/oras <span style='color:#F1C40F'>(890 ⭐️)</span>
+
+- [Avoid requiring passing --plain-http when specifying --insecure](https://github.com/oras-project/oras/issues/914)
+
+- [add command to get the digest of a tagged manifest without parsing output](https://github.com/oras-project/oras/issues/907)
+
+- [add OCI layout support in command help doc](https://github.com/oras-project/oras/issues/904)
+
+- [invalid `--distribution-spec` flag returns wrong error information](https://github.com/oras-project/oras/issues/897)
+
+- [trigger dependabot for nested e2e go module](https://github.com/oras-project/oras/issues/876)
 
 
 ## vanus-labs/vanus <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -131,14 +159,9 @@
 - [manifests: scheduler should run in the control plane (default, but overridable)](https://github.com/k8stopologyawareschedwg/deployer/issues/177)
 
 
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
-## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
-
-- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## apache/apisix-ingress-controller <span style='color:#F1C40F'>(774 ⭐️)</span>
@@ -244,96 +267,4 @@
 ## project-zot/zot <span style='color:#F1C40F'>(337 ⭐️)</span>
 
 - [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-
-## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [bug: `syncedResources` state should be Pending when APIResourceImport is missing](https://github.com/kcp-dev/kcp/issues/2928)
-
-- [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
-
-- [Rename `internal/util/ssa` util functions for better naming consistency ](https://github.com/kubernetes-sigs/cluster-api/issues/8396)
-
-
-## cloudwego/kitex <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [[docs]: translate kitex codegen doc based on Chinese doc](https://github.com/cloudwego/kitex/issues/861)
-
-- [[docs]: translate kitex custom template doc based on Chinese doc](https://github.com/cloudwego/kitex/issues/856)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [[Feature] Set up the component/trait definition unit tests framework based on CUE](https://github.com/kubevela/kubevela/issues/5766)
-
-- [vela show --web not populating ComponentType](https://github.com/kubevela/kubevela/issues/5769)
-
-- [The progress bar on the front end of the installation plugin is still spinning](https://github.com/kubevela/kubevela/issues/5753)
-
-- [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
-
-- [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
-
-- [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(16.8K ⭐️)</span>
-
-- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
-
-
-## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [env for pipeline name](https://github.com/woodpecker-ci/woodpecker/issues/1681)
-
-- [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
-
-- [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
-## AnalogJ/scrutiny <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [[FEAT] Add indicator for data written to disk](https://github.com/AnalogJ/scrutiny/issues/458)
-
-- [[FEAT] Update Smartctl database](https://github.com/AnalogJ/scrutiny/issues/460)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
