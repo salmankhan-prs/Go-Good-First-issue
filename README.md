@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 01:58 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 02:08 UTC.</div>
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(401 ⭐️)</span>
+
+- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
@@ -14,6 +19,20 @@
 - [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
+
+- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
+
+- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -97,15 +116,6 @@
 - [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
 
 
-## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
-
-- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
-
-- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
@@ -159,9 +169,9 @@
 - [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.5K ⭐️)</span>
@@ -348,9 +358,4 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Improve RedisUpdater func](https://github.com/zalando/skipper/issues/2258)
 
