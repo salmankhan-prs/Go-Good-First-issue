@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 17:58 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 18:08 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -25,15 +39,6 @@
 - [update installer.sh to download the complete testdata directory recursively](https://github.com/labdao/plex/issues/179)
 
 - [test release on Windows](https://github.com/labdao/plex/issues/148)
-
-
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -59,14 +64,21 @@
 - [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
 
 
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
 
 - [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+## gnolang/gno <span style='color:#F1C40F'>(721 ⭐️)</span>
 
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
+
+- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
 
 ## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -274,13 +286,6 @@
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
 
 
-## gnolang/gno <span style='color:#F1C40F'>(720 ⭐️)</span>
-
-- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
-
-- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
-
-
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
@@ -313,9 +318,4 @@
 - [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
 
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
-## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
-
-- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
