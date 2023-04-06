@@ -4,7 +4,29 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 01:18 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 01:28 UTC.</div>
+
+
+## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
+
+- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
+
+
+## berachain/polaris <span style='color:#F1C40F'>(62 ⭐️)</span>
+
+- [feat(magefiles): add `forge install` to contract build process](https://github.com/berachain/polaris/issues/541)
+
+- [refactor(scripts): Refactor the init.sh script into a genesis builder golang cli tool.](https://github.com/berachain/polaris/issues/474)
+
+- [Marshal/Unmarshal of core Geth types is slow](https://github.com/berachain/polaris/issues/446)
+
+- [chore(geth): Upgrade to v1.11.5](https://github.com/berachain/polaris/issues/507)
+
+- [imp(testing): improve ginkgo testing structure ](https://github.com/berachain/polaris/issues/506)
+
+- [Chore: give test network a fixed validator.](https://github.com/berachain/polaris/issues/481)
+
+- [chore: Check for precompile module account on startup](https://github.com/berachain/polaris/issues/423)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -37,11 +59,6 @@
 - [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
 
 - [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
-
-
-## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
-
-- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.4K ⭐️)</span>
