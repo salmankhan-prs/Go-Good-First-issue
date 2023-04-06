@@ -4,7 +4,46 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 19:28 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 19:38 UTC.</div>
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+
+## solo-io/gloo <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
+
+- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
+
+- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
+
+
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
+
+- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
+
+- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
+
+- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -37,7 +76,7 @@
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
-## defenseunicorns/zarf <span style='color:#F1C40F'>(566 ⭐️)</span>
+## defenseunicorns/zarf <span style='color:#F1C40F'>(567 ⭐️)</span>
 
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
 
@@ -91,6 +130,11 @@
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
 
 
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Use of FQIN in Dockerfile FROM instructions.](https://github.com/go-gitea/gitea/issues/23954)
+
+
 ## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
@@ -136,27 +180,11 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
 - [Indirection use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
@@ -184,11 +212,6 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## kubesimplify/ksctl <span style='color:#F1C40F'>(83 ⭐️)</span>
@@ -271,15 +294,6 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
-
-- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
-
-- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
-
-- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
