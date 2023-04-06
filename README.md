@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 20:38 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 20:48 UTC.</div>
+
+
+## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
+
+- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [tracee cmdline output (help, list events, list signatures) should have tabled output](https://github.com/aquasecurity/tracee/issues/2972)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(774 ⭐️)</span>
+
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
+
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(22 ⭐️)</span>
@@ -188,6 +209,11 @@
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
 ## kubernetes-sigs/kpng <span style='color:#F1C40F'>(197 ⭐️)</span>
 
 - [prototype a dpdk impl](https://github.com/kubernetes-sigs/kpng/issues/473)
@@ -270,17 +296,6 @@
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
-## terrastruct/d2 <span style='color:#F1C40F'>(12.7K ⭐️)</span>
-
-- [Feature Request: Lifeline should inherit Actor border styles](https://github.com/terrastruct/d2/issues/1137)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-
 ## kubesimplify/ksctl <span style='color:#F1C40F'>(85 ⭐️)</span>
 
 - [[BUG][CLI or API] (Provider) Ksctl Cred](https://github.com/kubesimplify/ksctl/issues/79)
@@ -307,13 +322,6 @@
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
 
 - [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
-
-
-## gnolang/gno <span style='color:#F1C40F'>(721 ⭐️)</span>
-
-- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
-
-- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -344,4 +352,39 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
+
+
+## provenance-io/provenance <span style='color:#F1C40F'>(71 ⭐️)</span>
+
+- [Update table driven unit tests to use named fields.](https://github.com/provenance-io/provenance/issues/1436)
+
+- [Archive our cosmovisor repo](https://github.com/provenance-io/provenance/issues/1420)
+
+
+## diggerhq/digger <span style='color:#F1C40F'>(287 ⭐️)</span>
+
+- [Only run apply if PR is mergeable](https://github.com/diggerhq/digger/issues/118)
+
+- [Support multiple Terraform versions](https://github.com/diggerhq/digger/issues/105)
+
+- [dissplay a warning if plan requested ](https://github.com/diggerhq/digger/issues/52)
+
+- [Add option for disabling usage data](https://github.com/diggerhq/digger/issues/92)
+
+- [Get rid of hardcoded value of bucket for GCP](https://github.com/diggerhq/digger/issues/94)
+
+- [Add support for aws-vault](https://github.com/diggerhq/digger/issues/97)
+
+- [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
+
+- [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
