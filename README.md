@@ -4,7 +4,44 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 10:28 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 10:38 UTC.</div>
+
+
+## project-zot/zot <span style='color:#F1C40F'>(337 ⭐️)</span>
+
+- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
+
+- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
+
+- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
+
+- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
+
+- [[QUESTION]没有卸载面板的脚本](https://github.com/1Panel-dev/1Panel/issues/330)
+
+- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
+
+- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
+
+- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
+
+- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
+
+- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
+
+- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
+
+- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
 
 ## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -30,13 +67,6 @@
 ## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
 
 - [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
 
 ## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.2K ⭐️)</span>
@@ -130,6 +160,11 @@
 - [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
 
 
+## fluent/fluent-operator <span style='color:#F1C40F'>(401 ⭐️)</span>
+
+- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
+
+
 ## PuremlHQ/PureML <span style='color:#F1C40F'>(108 ⭐️)</span>
 
 - [Incorrect navlinks in changelog](https://github.com/PuremlHQ/PureML/issues/163)
@@ -146,31 +181,6 @@
 - [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
 
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
-
-- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
-
-- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
-
-- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
-
-- [[QUESTION]没有卸载面板的脚本](https://github.com/1Panel-dev/1Panel/issues/330)
-
-- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
-
-- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
-
-- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
-
-- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
-
-- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
-
-- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
 
 ## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
@@ -277,4 +287,62 @@
 ## carvel-dev/kapp-controller <span style='color:#F1C40F'>(162 ⭐️)</span>
 
 - [[Doc] Add example of Custom Metrics via Kube-state-metrics CustomResourceStateMetrics](https://github.com/carvel-dev/kapp-controller/issues/1159)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
+## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
+
+- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
+
+- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
+
+- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
+
+
+## polarsignals/frostdb <span style='color:#F1C40F'>(983 ⭐️)</span>
+
+- [Fix Release() arrow callbacks](https://github.com/polarsignals/frostdb/issues/403)
+
+
+## safedep/vet <span style='color:#F1C40F'>(38 ⭐️)</span>
+
+- [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
+
+- [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
+
+
+## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
+
+- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
+
+
+## deislabs/ratify <span style='color:#F1C40F'>(110 ⭐️)</span>
+
+- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## vanus-labs/vanus <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [[Good First Issues]: implement function "extract_pattern" - 7 points](https://github.com/vanus-labs/vanus/issues/587)
+
+- [[Good First Issues]: implement function "split_from_end" - 7 points](https://github.com/vanus-labs/vanus/issues/588)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
