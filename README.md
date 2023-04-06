@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 21:38 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 21:48 UTC.</div>
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -66,13 +73,6 @@
 - [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
 
 - [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(774 ⭐️)</span>
