@@ -4,12 +4,27 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 11:08 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 11:18 UTC.</div>
 
 
-## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
 
-- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## kubesphere/kubekey <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [Support for installing calicoctl for nodes](https://github.com/kubesphere/kubekey/issues/1788)
+
+- [Initialize operating system process optimization](https://github.com/kubesphere/kubekey/issues/1787)
+
+- [Support the installation and configuration of cri-docker](https://github.com/kubesphere/kubekey/issues/1786)
+
+- [Support adding annotations for nodes](https://github.com/kubesphere/kubekey/issues/1785)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
@@ -19,6 +34,28 @@
 - [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
+
+- [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
+
+- [Convert WebsocketMessage tests to table-driven style](https://github.com/gavv/httpexpect/issues/356)
+
+- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
+
+- [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
+
+- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/352)
+
+- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
+
+
+## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
+
+- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
 
 
 ## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -66,11 +103,9 @@
 
 ## minekube/gate <span style='color:#F1C40F'>(296 ⭐️)</span>
 
-- [restoring online skins for cracked](https://github.com/minekube/gate/issues/195)
+- [docs: Restoring online skins for offline/cracked players](https://github.com/minekube/gate/issues/195)
 
 - [Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
-
-- [Kubernetes Helm chart](https://github.com/minekube/gate/issues/188)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -220,6 +255,13 @@
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
 
 
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
+
+- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
+
+
 ## Frontman-Labs/frontman <span style='color:#F1C40F'>(96 ⭐️)</span>
 
 - [Horizontal scalability issue](https://github.com/Frontman-Labs/frontman/issues/81)
@@ -233,132 +275,7 @@
 - [Add URL Rewriting Feature to API Gateway](https://github.com/Frontman-Labs/frontman/issues/74)
 
 
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
-
-- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
-
-
 ## fluent/fluent-operator <span style='color:#F1C40F'>(401 ⭐️)</span>
 
 - [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
-
-
-## PuremlHQ/PureML <span style='color:#F1C40F'>(108 ⭐️)</span>
-
-- [Incorrect navlinks in changelog](https://github.com/PuremlHQ/PureML/issues/163)
-
-- [Incorrect Changelog link in landing page footer](https://github.com/PuremlHQ/PureML/issues/161)
-
-- [Less articles in changelog page shows default 404 pg when clicked Next button](https://github.com/PuremlHQ/PureML/issues/138)
-
-- [PureML logo not redirecting to pureml.com in changelog](https://github.com/PuremlHQ/PureML/issues/137)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
-
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
-## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
-
-- [Support for MongoDB](https://github.com/secret-telegram/chat/issues/55)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-
-## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
-
-- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
-
-- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
-
-- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(12.7K ⭐️)</span>
-
-- [Feature Request: Lifeline should inherit Actor border styles](https://github.com/terrastruct/d2/issues/1137)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(712 ⭐️)</span>
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## kubesphere/kubekey <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [Support for installing calicoctl for nodes](https://github.com/kubesphere/kubekey/issues/1788)
-
-- [Initialize operating system process optimization](https://github.com/kubesphere/kubekey/issues/1787)
-
-- [Support the installation and configuration of cri-docker](https://github.com/kubesphere/kubekey/issues/1786)
-
-- [Support adding annotations for nodes](https://github.com/kubesphere/kubekey/issues/1785)
-
-
-## oras-project/oras <span style='color:#F1C40F'>(891 ⭐️)</span>
-
-- [Avoid requiring passing --plain-http when specifying --insecure](https://github.com/oras-project/oras/issues/914)
-
-- [add command to get the digest of a tagged manifest without parsing output](https://github.com/oras-project/oras/issues/907)
-
-- [add OCI layout support in command help doc](https://github.com/oras-project/oras/issues/904)
-
-- [invalid `--distribution-spec` flag returns wrong error information](https://github.com/oras-project/oras/issues/897)
-
-- [trigger dependabot for nested e2e go module](https://github.com/oras-project/oras/issues/876)
-
-
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(14 ⭐️)</span>
-
-- [Native Windows support](https://github.com/chiselstrike/turso-cli/issues/318)
-
-- [Add `turso tutorial` command and call it from Homebrew postinstall](https://github.com/chiselstrike/turso-cli/issues/300)
-
-- [`turso db inspect` should show more than just space](https://github.com/chiselstrike/turso-cli/issues/303)
-
-- [Destroying instances is cumbersome](https://github.com/chiselstrike/turso-cli/issues/283)
-
-
-## carvel-dev/kapp-controller <span style='color:#F1C40F'>(162 ⭐️)</span>
-
-- [[Doc] Add example of Custom Metrics via Kube-state-metrics CustomResourceStateMetrics](https://github.com/carvel-dev/kapp-controller/issues/1159)
 
