@@ -4,12 +4,28 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 19:58 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 20:08 UTC.</div>
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
 
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
+
+- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Use of FQIN in Dockerfile FROM instructions.](https://github.com/go-gitea/gitea/issues/23954)
+
+
+## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
+
+- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
+
+- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -17,9 +33,9 @@
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
-- [Use of FQIN in Dockerfile FROM instructions.](https://github.com/go-gitea/gitea/issues/23954)
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
@@ -182,13 +198,6 @@
 - [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
 
 
-## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
-
-- [e2e: play kube symlink: missing hello](https://github.com/containers/podman/issues/17958)
-
-- [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
@@ -242,7 +251,7 @@
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
-## kubesimplify/ksctl <span style='color:#F1C40F'>(83 ⭐️)</span>
+## kubesimplify/ksctl <span style='color:#F1C40F'>(84 ⭐️)</span>
 
 - [[BUG][CLI or API] (Provider) Ksctl Cred](https://github.com/kubesimplify/ksctl/issues/79)
 
@@ -356,18 +365,4 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [bug: `syncedResources` state should be Pending when APIResourceImport is missing](https://github.com/kcp-dev/kcp/issues/2928)
-
-- [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
-
-
-## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
-
-- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
