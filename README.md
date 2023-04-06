@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 05:18 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 05:28 UTC.</div>
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
@@ -19,6 +24,13 @@
 - [[FEAT] Update Smartctl database](https://github.com/AnalogJ/scrutiny/issues/460)
 
 
+## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
+
+- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
+
+
 ## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
 
 - [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
@@ -31,11 +43,6 @@
 ## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [add gator to krew](https://github.com/open-policy-agent/gatekeeper/issues/2653)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
@@ -81,13 +88,6 @@
 ## fluent/fluent-operator <span style='color:#F1C40F'>(401 ⭐️)</span>
 
 - [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-- [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.6K ⭐️)</span>
@@ -358,9 +358,4 @@
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(711 ⭐️)</span>
 
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [emit more data in prom metrics ](https://github.com/cosmos/cosmos-sdk/issues/15593)
 
