@@ -4,12 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 10:38 UTC.</div>
-
-
-## project-zot/zot <span style='color:#F1C40F'>(337 ⭐️)</span>
-
-- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
+<div align='center'>Last updated at April 6, 2023 10:48 UTC.</div>
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -37,11 +32,35 @@
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
 
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## project-zot/zot <span style='color:#F1C40F'>(337 ⭐️)</span>
+
+- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
+
+
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
 
 - [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -64,11 +83,6 @@
 - [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
-## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
-
-- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
-
-
 ## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.2K ⭐️)</span>
 
 - [Pytorch Serve supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2178)
@@ -78,11 +92,21 @@
 - [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
 
 
+## go-task/task <span style='color:#F1C40F'>(7.3K ⭐️)</span>
+
+- [Documentation: Add a "template funcs" section to the API reference page](https://github.com/go-task/task/issues/1041)
+
+
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
 - [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
 
 - [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## cloudfoundry/korifi <span style='color:#F1C40F'>(177 ⭐️)</span>
@@ -160,11 +184,6 @@
 - [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
 
 
-## fluent/fluent-operator <span style='color:#F1C40F'>(401 ⭐️)</span>
-
-- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
-
-
 ## PuremlHQ/PureML <span style='color:#F1C40F'>(108 ⭐️)</span>
 
 - [Incorrect navlinks in changelog](https://github.com/PuremlHQ/PureML/issues/163)
@@ -214,15 +233,6 @@
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(712 ⭐️)</span>
 
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -289,11 +299,6 @@
 - [[Doc] Add example of Custom Metrics via Kube-state-metrics CustomResourceStateMetrics](https://github.com/carvel-dev/kapp-controller/issues/1159)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
@@ -328,21 +333,4 @@
 ## deislabs/ratify <span style='color:#F1C40F'>(110 ⭐️)</span>
 
 - [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## vanus-labs/vanus <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [[Good First Issues]: implement function "extract_pattern" - 7 points](https://github.com/vanus-labs/vanus/issues/587)
-
-- [[Good First Issues]: implement function "split_from_end" - 7 points](https://github.com/vanus-labs/vanus/issues/588)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
