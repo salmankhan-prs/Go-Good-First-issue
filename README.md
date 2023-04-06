@@ -4,7 +4,43 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 10:48 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 10:58 UTC.</div>
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(471 ⭐️)</span>
+
+- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
+
+- [log(throughout codebase): Change log to `DAH.String()` instead of `DAH.Hash()` anywhere where we try to log the hash of the `DataAvailabilityHeader`/ `Root`](https://github.com/celestiaorg/celestia-node/issues/1898)
+
+- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
+
+- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
+
+- [logging: More uniformity around naming for loggers per package](https://github.com/celestiaorg/celestia-node/issues/1888)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
+
+
+## kyma-project/lifecycle-manager <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Increase workqueue workers in KCP](https://github.com/kyma-project/lifecycle-manager/issues/515)
+
+- [Limited modules availability per Kyma instance](https://github.com/kyma-project/lifecycle-manager/issues/455)
+
+- [Add issue template to Lifecycle Manager repo](https://github.com/kyma-project/lifecycle-manager/issues/497)
+
+
+## minekube/gate <span style='color:#F1C40F'>(296 ⭐️)</span>
+
+- [restoring online skins for cracked](https://github.com/minekube/gate/issues/195)
+
+- [Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
+
+- [Kubernetes Helm chart](https://github.com/minekube/gate/issues/188)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -54,6 +90,11 @@
 - [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
 
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
 
 - [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
@@ -72,6 +113,11 @@
 - [create common options, remove intermediate layers](https://github.com/k8stopologyawareschedwg/deployer/issues/182)
 
 - [manifests: updaters should NOT run in the control plane](https://github.com/k8stopologyawareschedwg/deployer/issues/176)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -154,11 +200,6 @@
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
 ## Frontman-Labs/frontman <span style='color:#F1C40F'>(96 ⭐️)</span>
 
 - [Horizontal scalability issue](https://github.com/Frontman-Labs/frontman/issues/81)
@@ -212,6 +253,15 @@
 - [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
 - [Emit metrics for Actor reminder and timer](https://github.com/dapr/dapr/issues/6032)
+
+
+## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
+
+- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
+
+- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
+
+- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.7K ⭐️)</span>
@@ -287,6 +337,8 @@
 
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(14 ⭐️)</span>
 
+- [Native Windows support](https://github.com/chiselstrike/turso-cli/issues/318)
+
 - [Add `turso tutorial` command and call it from Homebrew postinstall](https://github.com/chiselstrike/turso-cli/issues/300)
 
 - [`turso db inspect` should show more than just space](https://github.com/chiselstrike/turso-cli/issues/303)
@@ -302,35 +354,4 @@
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
-
-- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
-
-- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
-
-- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
-
-
-## polarsignals/frostdb <span style='color:#F1C40F'>(983 ⭐️)</span>
-
-- [Fix Release() arrow callbacks](https://github.com/polarsignals/frostdb/issues/403)
-
-
-## safedep/vet <span style='color:#F1C40F'>(38 ⭐️)</span>
-
-- [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
-
-- [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
-
-
-## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
-
-- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
-
-
-## deislabs/ratify <span style='color:#F1C40F'>(110 ⭐️)</span>
-
-- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
 
