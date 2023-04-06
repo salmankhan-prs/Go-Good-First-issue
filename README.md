@@ -4,10 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 23:18 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 23:28 UTC.</div>
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Split TestValue_Schema into subtests](https://github.com/gavv/httpexpect/issues/385)
+
+- [Convert TestValue_Getters to table-driven style](https://github.com/gavv/httpexpect/issues/384)
 
 - [Convert TestRequest_Conflicts to table-driven style](https://github.com/gavv/httpexpect/issues/383)
 
@@ -118,6 +122,15 @@
 - [Use of FQIN in Dockerfile FROM instructions.](https://github.com/go-gitea/gitea/issues/23954)
 
 
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
+
+- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
+
+- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
+
+
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
@@ -166,6 +179,15 @@
 - [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
+
+
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(715 ⭐️)</span>
 
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
@@ -192,23 +214,6 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
-
-- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
-
-
-## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
-
-- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
-
-
-## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
-
-- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
 ## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
