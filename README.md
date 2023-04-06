@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 13:18 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 13:28 UTC.</div>
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(438 ⭐️)</span>
+
+- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
+
+- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -17,6 +24,8 @@
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Improve bodyWrapper Rewind test](https://github.com/gavv/httpexpect/issues/377)
 
 - [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
 
@@ -56,13 +65,6 @@
 - [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
 
-## kairos-io/kairos <span style='color:#F1C40F'>(438 ⭐️)</span>
-
-- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
-
-- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
-
-
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
@@ -71,6 +73,11 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
@@ -282,25 +289,4 @@
 - [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(337 ⭐️)</span>
-
-- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
-
-
-## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [Pytorch Serve supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2178)
-
-- [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
-
-- [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
 
