@@ -4,16 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 6, 2023 13:08 UTC.</div>
+<div align='center'>Last updated at April 6, 2023 13:18 UTC.</div>
 
 
-## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
 
-- [Feature: sealos apply -f Clusterfile support --single](https://github.com/labring/sealos/issues/2888)
+- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
 
-- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -33,6 +33,29 @@
 - [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
 
 
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+
+## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [冰哥，最新更新消息丢给责任链这个源码，看不懂，能不能开个教程啊！](https://github.com/aceld/zinx/issues/185)
+
+- [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+
+- [Feature: sealos apply -f Clusterfile support --single](https://github.com/labring/sealos/issues/2888)
+
+- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
+
+
 ## kairos-io/kairos <span style='color:#F1C40F'>(438 ⭐️)</span>
 
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
@@ -43,6 +66,11 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
@@ -165,11 +193,6 @@
 - [Use state enums in connection handshake log](https://github.com/cosmos/ibc-go/issues/3385)
 
 
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
 ## kubesphere/kubekey <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [Support for installing calicoctl for nodes](https://github.com/kubesphere/kubekey/issues/1788)
@@ -273,15 +296,6 @@
 - [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
 
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-
 ## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.2K ⭐️)</span>
 
 - [Pytorch Serve supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2178)
@@ -289,18 +303,4 @@
 - [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
 
 - [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
-
-
-## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [冰哥，最新更新消息丢给责任链这个源码，看不懂，能不能开个教程啊！](https://github.com/aceld/zinx/issues/185)
-
-- [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
-
-
-## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
-
-- [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
 
