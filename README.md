@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 08:18 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 08:28 UTC.</div>
+
+
+## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
+
+- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## fluent/fluent-operator <span style='color:#F1C40F'>(401 ⭐️)</span>
@@ -58,15 +72,6 @@
 - [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
 
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
@@ -284,6 +289,13 @@
 - [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
 
 
+## envoyproxy/gateway <span style='color:#F1C40F'>(929 ⭐️)</span>
+
+- [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
+
+- [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+
 ## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
 
 - [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
@@ -323,4 +335,112 @@
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(23 ⭐️)</span>
 
 - [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
+
+- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
+
+- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
+
+- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
+
+
+## cloudfoundry/korifi <span style='color:#F1C40F'>(180 ⭐️)</span>
+
+- [[Feature]: Korifi api users should be able to get the default domain for an org](https://github.com/cloudfoundry/korifi/issues/2407)
+
+- [[Feature]: Operators can push manifests with buildpack specified](https://github.com/cloudfoundry/korifi/issues/2315)
+
+- [[Feature]: Korifi API users do not need to pass lifecycle step and bulidpack when creaing an app](https://github.com/cloudfoundry/korifi/issues/2366)
+
+- [[Feature]: Korifi API users can check what app features are enabled](https://github.com/cloudfoundry/korifi/issues/2357)
+
+- [[Feature]: Korifi API users should be able to specify  when creating service instances](https://github.com/cloudfoundry/korifi/issues/2343)
+
+- [[Feature]: Korifi API users should be able to get stats for a process by process type](https://github.com/cloudfoundry/korifi/issues/2340)
+
+- [[Feature]: Korifi API users should be able to list the builds of an app](https://github.com/cloudfoundry/korifi/issues/2335)
+
+- [[Feature]: Do not return an error when specifying a page query parameter when listing routes](https://github.com/cloudfoundry/korifi/issues/2329)
+
+- [[Bug]: Korifi default domain guid must be a valid uuid](https://github.com/cloudfoundry/korifi/issues/2328)
+
+- [[Feature]: Koirif API users can update app lifecycle](https://github.com/cloudfoundry/korifi/issues/2327)
+
+- [[Feature]: Koirif API users can check whether ssh for apps is enabled](https://github.com/cloudfoundry/korifi/issues/2326)
+
+- [[Feature]: Do not return error when specifying a page query parameter when listing domains](https://github.com/cloudfoundry/korifi/issues/2324)
+
+- [[Feature]: Korifi API users can filter service bindings via label selectors](https://github.com/cloudfoundry/korifi/issues/2318)
+
+- [[Feature]: Korifi API users can filter apps by label selector](https://github.com/cloudfoundry/korifi/issues/2307)
+
+- [[Feature]: Do not return an error when specifying a page query parameter when listing service bindings](https://github.com/cloudfoundry/korifi/issues/2317)
+
+- [[Feature]: Do not return an error when specifying page query parameter when listing roles](https://github.com/cloudfoundry/korifi/issues/2308)
+
+- [[Feature]: Korifi API users do not get errors when specifying `page` query parameter when listing service instance](https://github.com/cloudfoundry/korifi/issues/2306)
+
+- [[Feature]: Korifi API users can filter service instances by label selector](https://github.com/cloudfoundry/korifi/issues/2305)
+
+- [[Feature]: Do not return an error when specifying `page` query parameter when listing roles](https://github.com/cloudfoundry/korifi/issues/2301)
+
+- [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
+
+- [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
+
+
+## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
+
+- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Update NPM dependencies and Dependabot should be configured for OpenCost UI](https://github.com/opencost/opencost/issues/1848)
+
+- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
+
+
+## solo-io/gloo <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
+
+- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
+
+- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
+
+
+## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
