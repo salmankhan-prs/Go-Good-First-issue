@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 17:48 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 17:59 UTC.</div>
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
+
+- [Feature Request: Lifeline should inherit Actor border styles](https://github.com/terrastruct/d2/issues/1137)
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+
+## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
+
+- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -44,6 +60,11 @@
 - [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
 
 
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
 ## GoogleContainerTools/kpt <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
 - [`kpt live` does not support YAML merging arrays ](https://github.com/GoogleContainerTools/kpt/issues/3897)
@@ -70,17 +91,6 @@
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
-## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
-
-- [Feature Request: Lifeline should inherit Actor border styles](https://github.com/terrastruct/d2/issues/1137)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
 - [Indirection use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
@@ -96,6 +106,15 @@
 ## envoyproxy/gateway <span style='color:#F1C40F'>(931 ⭐️)</span>
 
 - [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
 ## project-zot/zot <span style='color:#F1C40F'>(338 ⭐️)</span>
@@ -151,11 +170,6 @@
 - [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
@@ -168,15 +182,6 @@
 - [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
 
 - [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
-
-
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -335,4 +340,88 @@
 - [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
 
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+
+## safedep/vet <span style='color:#F1C40F'>(46 ⭐️)</span>
+
+- [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
+
+- [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.3K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
+
+
+## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
+
+- [Create a Quick Start Guide for Frontman API Gateway](https://github.com/Frontman-Labs/frontman/issues/99)
+
+- [Horizontal scalability issue](https://github.com/Frontman-Labs/frontman/issues/81)
+
+- [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
+
+- [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
+
+- [Remove redundant lockings if possible ](https://github.com/Frontman-Labs/frontman/issues/82)
+
+
+## hay-kot/homebox <span style='color:#F1C40F'>(840 ⭐️)</span>
+
+- [Field Search API Doesn't Return Values](https://github.com/hay-kot/homebox/issues/391)
+
+- [Reset Search Button Does Not Reset All Fields](https://github.com/hay-kot/homebox/issues/392)
+
+
+## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(923 ⭐️)</span>
+
+- [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
+
+
+## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
+
+- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
+
+- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
+
+- [Cannot Sort Projects by repo_count or owner_name](https://github.com/goharbor/harbor/issues/18329)
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
+
+- [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
+
+
+## prometheus/node_exporter <span style='color:#F1C40F'>(8.7K ⭐️)</span>
+
+- [ci: build riscv64 binaries](https://github.com/prometheus/node_exporter/issues/2645)
+
+
+## oauth2-proxy/oauth2-proxy <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+
+- [Fragment is lost after redirect if --skip-provider-button is set to true](https://github.com/oauth2-proxy/oauth2-proxy/issues/2068)
 
