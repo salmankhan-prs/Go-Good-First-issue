@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 11:58 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 12:08 UTC.</div>
+
+
+## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(922 ⭐️)</span>
+
+- [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
@@ -258,6 +263,11 @@
 - [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
 
 
+## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
+
+
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
 - [Indirection use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
@@ -361,9 +371,4 @@
 - [invalid `--distribution-spec` flag returns wrong error information](https://github.com/oras-project/oras/issues/897)
 
 - [trigger dependabot for nested e2e go module](https://github.com/oras-project/oras/issues/876)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(338 ⭐️)</span>
-
-- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
 
