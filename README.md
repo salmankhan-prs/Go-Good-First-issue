@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 07:38 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 07:48 UTC.</div>
+
+
+## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
+
+- [🎯New Source Connector Request: Google Analytics Source Connector](https://github.com/vanus-labs/vanus-connect/issues/317)
+
+- [🎯 New Sink Connector Request: APITable](https://github.com/vanus-labs/vanus-connect/issues/314)
+
+- [🎯New Source Connector Request: Facebook Marketing Source Connector](https://github.com/vanus-labs/vanus-connect/issues/315)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
@@ -14,6 +23,33 @@
 - [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
+
+- [Horizontal scalability issue](https://github.com/Frontman-Labs/frontman/issues/81)
+
+- [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
+
+- [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
+
+- [Remove redundant lockings if possible ](https://github.com/Frontman-Labs/frontman/issues/82)
+
+- [Add URL Rewriting Feature to API Gateway](https://github.com/Frontman-Labs/frontman/issues/74)
+
+
+## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
+
+- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
 
 
 ## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.2K ⭐️)</span>
@@ -33,19 +69,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
-
-- [Horizontal scalability issue](https://github.com/Frontman-Labs/frontman/issues/81)
-
-- [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
-
-- [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
-
-- [Remove redundant lockings if possible ](https://github.com/Frontman-Labs/frontman/issues/82)
-
-- [Add URL Rewriting Feature to API Gateway](https://github.com/Frontman-Labs/frontman/issues/74)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
@@ -88,6 +111,19 @@
 - [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
 
 
+## oras-project/oras <span style='color:#F1C40F'>(894 ⭐️)</span>
+
+- [Avoid requiring passing --plain-http when specifying --insecure](https://github.com/oras-project/oras/issues/914)
+
+- [add command to get the digest of a tagged manifest without parsing output](https://github.com/oras-project/oras/issues/907)
+
+- [add OCI layout support in command help doc](https://github.com/oras-project/oras/issues/904)
+
+- [invalid `--distribution-spec` flag returns wrong error information](https://github.com/oras-project/oras/issues/897)
+
+- [trigger dependabot for nested e2e go module](https://github.com/oras-project/oras/issues/876)
+
+
 ## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
 
 - [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
@@ -109,11 +145,6 @@
 - [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
 
 
-## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
-
-
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
 
 - [[Feature] Set up the component/trait definition unit tests framework based on CUE](https://github.com/kubevela/kubevela/issues/5766)
@@ -127,6 +158,11 @@
 - [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
 
 - [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
+
+
+## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
 
 
 ## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -208,15 +244,6 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
 - [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
@@ -234,11 +261,6 @@
 - [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
 
 - [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
-
-
-## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
-
-- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
@@ -307,59 +329,4 @@
 - [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
 
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## cloudfoundry/korifi <span style='color:#F1C40F'>(180 ⭐️)</span>
-
-- [[Feature]: Korifi api users should be able to get the default domain for an org](https://github.com/cloudfoundry/korifi/issues/2407)
-
-- [[Feature]: Operators can push manifests with buildpack specified](https://github.com/cloudfoundry/korifi/issues/2315)
-
-- [[Feature]: Korifi API users do not need to pass lifecycle step and bulidpack when creaing an app](https://github.com/cloudfoundry/korifi/issues/2366)
-
-- [[Feature]: Korifi API users can check what app features are enabled](https://github.com/cloudfoundry/korifi/issues/2357)
-
-- [[Feature]: Korifi API users should be able to specify  when creating service instances](https://github.com/cloudfoundry/korifi/issues/2343)
-
-- [[Feature]: Korifi API users should be able to get stats for a process by process type](https://github.com/cloudfoundry/korifi/issues/2340)
-
-- [[Feature]: Korifi API users should be able to list the builds of an app](https://github.com/cloudfoundry/korifi/issues/2335)
-
-- [[Feature]: Do not return an error when specifying a page query parameter when listing routes](https://github.com/cloudfoundry/korifi/issues/2329)
-
-- [[Bug]: Korifi default domain guid must be a valid uuid](https://github.com/cloudfoundry/korifi/issues/2328)
-
-- [[Feature]: Koirif API users can update app lifecycle](https://github.com/cloudfoundry/korifi/issues/2327)
-
-- [[Feature]: Koirif API users can check whether ssh for apps is enabled](https://github.com/cloudfoundry/korifi/issues/2326)
-
-- [[Feature]: Do not return error when specifying a page query parameter when listing domains](https://github.com/cloudfoundry/korifi/issues/2324)
-
-- [[Feature]: Korifi API users can filter service bindings via label selectors](https://github.com/cloudfoundry/korifi/issues/2318)
-
-- [[Feature]: Korifi API users can filter apps by label selector](https://github.com/cloudfoundry/korifi/issues/2307)
-
-- [[Feature]: Do not return an error when specifying a page query parameter when listing service bindings](https://github.com/cloudfoundry/korifi/issues/2317)
-
-- [[Feature]: Do not return an error when specifying page query parameter when listing roles](https://github.com/cloudfoundry/korifi/issues/2308)
-
-- [[Feature]: Korifi API users do not get errors when specifying `page` query parameter when listing service instance](https://github.com/cloudfoundry/korifi/issues/2306)
-
-- [[Feature]: Korifi API users can filter service instances by label selector](https://github.com/cloudfoundry/korifi/issues/2305)
-
-- [[Feature]: Do not return an error when specifying `page` query parameter when listing roles](https://github.com/cloudfoundry/korifi/issues/2301)
-
-- [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
-
-- [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
-
-
-## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
-
-- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
