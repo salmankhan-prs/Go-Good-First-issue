@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 14:48 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 14:58 UTC.</div>
+
+
+## NibiruChain/nibiru <span style='color:#F1C40F'>(59 ⭐️)</span>
+
+- [feat(oracle): create an exponential moving average of index prices](https://github.com/NibiruChain/nibiru/issues/1235)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(774 ⭐️)</span>
@@ -217,11 +222,9 @@
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
-- [Indirection use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
@@ -360,18 +363,4 @@
 - [bug: apisix restarts, ingress controller unavailable](https://github.com/apache/apisix-ingress-controller/issues/1760)
 
 - [docs: describe how to generate secret from cert file](https://github.com/apache/apisix-ingress-controller/issues/1767)
-
-
-## gocrane/crane <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Should Remove Deprecated Configuration In Example](https://github.com/gocrane/crane/issues/719)
-
-
-## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
-
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
-
-- [Feature: sealos apply -f Clusterfile support --single](https://github.com/labring/sealos/issues/2888)
-
-- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
