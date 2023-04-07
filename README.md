@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 01:58 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 02:08 UTC.</div>
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Use of FQIN in Dockerfile FROM instructions.](https://github.com/go-gitea/gitea/issues/23954)
 
 
 ## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
@@ -21,9 +35,13 @@
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
 
-- [Use of FQIN in Dockerfile FROM instructions.](https://github.com/go-gitea/gitea/issues/23954)
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -131,15 +149,6 @@
 - [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.7K ⭐️)</span>
 
 - [Feature Request: Lifeline should inherit Actor border styles](https://github.com/terrastruct/d2/issues/1137)
@@ -216,15 +225,6 @@
 - [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
 
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-
 ## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
@@ -266,6 +266,13 @@
 - [imp(testing): improve ginkgo testing structure ](https://github.com/berachain/polaris/issues/506)
 
 - [Chore: give test network a fixed validator.](https://github.com/berachain/polaris/issues/481)
+
+
+## safedep/vet <span style='color:#F1C40F'>(44 ⭐️)</span>
+
+- [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
+
+- [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -323,13 +330,4 @@
 ## target/goalert <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [dev: move slow tests to playwright](https://github.com/target/goalert/issues/2847)
-
-
-## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(244 ⭐️)</span>
-
-- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
-
-- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
-
-- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
 
