@@ -4,7 +4,42 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 08:08 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 08:18 UTC.</div>
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(401 ⭐️)</span>
+
+- [Add influxdb output plugin](https://github.com/fluent/fluent-operator/issues/645)
+
+
+## apache/incubator-devlake <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [[Doc][Dashboard] Outdated links to Grafana doc](https://github.com/apache/incubator-devlake/issues/4861)
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
+
+- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
+
+- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
+
+- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
+
+- [[QUESTION]没有卸载面板的脚本](https://github.com/1Panel-dev/1Panel/issues/330)
+
+- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
+
+- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
+
+- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
+
+- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
+
+- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
+
+- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
@@ -97,31 +132,6 @@
 ## kubesimplify/ksctl <span style='color:#F1C40F'>(87 ⭐️)</span>
 
 - [[BUG][CLI or API] (Provider) Ksctl Cred](https://github.com/kubesimplify/ksctl/issues/79)
-
-
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
-
-- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
-
-- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
-
-- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
-
-- [[QUESTION]没有卸载面板的脚本](https://github.com/1Panel-dev/1Panel/issues/330)
-
-- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
-
-- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
-
-- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
-
-- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
-
-- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
-
-- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -313,11 +323,4 @@
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(23 ⭐️)</span>
 
 - [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
