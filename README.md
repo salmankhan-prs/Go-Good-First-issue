@@ -4,7 +4,36 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 16:08 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 16:18 UTC.</div>
+
+
+## apache/trafficcontrol <span style='color:#F1C40F'>(886 ⭐️)</span>
+
+- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(715 ⭐️)</span>
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+
+
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [env for pipeline name](https://github.com/woodpecker-ci/woodpecker/issues/1681)
+
+- [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
+
+- [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -23,6 +52,17 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
+
+- [Feature Request: Lifeline should inherit Actor border styles](https://github.com/terrastruct/d2/issues/1137)
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## prometheus-msteams/prometheus-msteams <span style='color:#F1C40F'>(463 ⭐️)</span>
@@ -50,11 +90,6 @@
 - [Allowlist "standard fields" for all request-unknown-fields rules](https://github.com/googleapis/api-linter/issues/1128)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
 ## envoyproxy/gateway <span style='color:#F1C40F'>(931 ⭐️)</span>
 
 - [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
@@ -70,11 +105,6 @@
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
 - [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -100,11 +130,6 @@
 ## OpenSLO/oslo <span style='color:#F1C40F'>(165 ⭐️)</span>
 
 - [Support passing URL as an argument to flag --file](https://github.com/OpenSLO/oslo/issues/225)
-
-
-## apache/trafficcontrol <span style='color:#F1C40F'>(886 ⭐️)</span>
-
-- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
 
 
 ## kairos-io/kairos <span style='color:#F1C40F'>(440 ⭐️)</span>
@@ -178,24 +203,6 @@
 - [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
 
 
-## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [Pytorch Serve supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2178)
-
-- [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
-
-- [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
-
-
-## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [env for pipeline name](https://github.com/woodpecker-ci/woodpecker/issues/1681)
-
-- [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
-
-- [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
-
-
 ## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [Support for nars?](https://github.com/anchore/syft/issues/1701)
@@ -210,17 +217,6 @@
 - [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
 
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
-
-- [Feature Request: Lifeline should inherit Actor border styles](https://github.com/terrastruct/d2/issues/1137)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
@@ -345,11 +341,4 @@
 ## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
 
 - [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Explore moving `readFile` to `host_id_bsd.go`](https://github.com/open-telemetry/opentelemetry-go/issues/3972)
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
 
