@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 11:28 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 11:38 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## prometheus/node_exporter <span style='color:#F1C40F'>(8.7K ⭐️)</span>
+
+- [ci: build riscv64 binaries](https://github.com/prometheus/node_exporter/issues/2645)
+
+
+## oauth2-proxy/oauth2-proxy <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+
+- [Fragment is lost after redirect if --skip-provider-button is set to true](https://github.com/oauth2-proxy/oauth2-proxy/issues/2068)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
@@ -24,11 +39,6 @@
 ## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
 
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -260,6 +270,11 @@
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
 ## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
 
 - [🎯New Source Connector Request: Google Analytics Source Connector](https://github.com/vanus-labs/vanus-connect/issues/317)
@@ -366,18 +381,4 @@
 ## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Improve RedisUpdater func](https://github.com/zalando/skipper/issues/2258)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
-## cybozu-go/neco <span style='color:#F1C40F'>(218 ⭐️)</span>
-
-- [Add an alert for Argo CD performance issue](https://github.com/cybozu-go/neco/issues/2251)
 
