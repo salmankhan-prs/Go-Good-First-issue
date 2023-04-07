@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 17:28 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 17:38 UTC.</div>
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+
+## solo-io/gloo <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
+
+- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
+
+- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
 
 
 ## GoogleContainerTools/kpt <span style='color:#F1C40F'>(1.4K ⭐️)</span>
@@ -42,6 +60,11 @@
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
 
 - [Feature Request: Lifeline should inherit Actor border styles](https://github.com/terrastruct/d2/issues/1137)
@@ -51,11 +74,6 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
@@ -85,6 +103,15 @@
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(111 ⭐️)</span>
 
 - [Show statistics even if host is 100% unreachable](https://github.com/pouriyajamshidi/tcping/issues/61)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Remove unused code from MetaRangeManager](https://github.com/treeverse/lakeFS/issues/5605)
+
+- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
+
+- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -212,15 +239,6 @@
 - [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
 
 
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(672 ⭐️)</span>
 
 - [(feature) Implement Open-feature web provider.](https://github.com/thomaspoignant/go-feature-flag/issues/662)
@@ -337,31 +355,4 @@
 - [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
 
 - [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
-## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
-
-
-## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
-
-- [Create a Quick Start Guide for Frontman API Gateway](https://github.com/Frontman-Labs/frontman/issues/99)
-
-- [Horizontal scalability issue](https://github.com/Frontman-Labs/frontman/issues/81)
-
-- [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
-
-- [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
-
-- [Remove redundant lockings if possible ](https://github.com/Frontman-Labs/frontman/issues/82)
 
