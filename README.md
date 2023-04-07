@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 05:58 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 06:08 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+
+## cybozu-go/neco <span style='color:#F1C40F'>(218 ⭐️)</span>
+
+- [Add an alert for Argo CD performance issue](https://github.com/cybozu-go/neco/issues/2251)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.7K ⭐️)</span>
@@ -16,20 +30,6 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-
-## cybozu-go/neco <span style='color:#F1C40F'>(218 ⭐️)</span>
-
-- [Add an alert for Argo CD performance issue](https://github.com/cybozu-go/neco/issues/2251)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
