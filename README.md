@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 17:59 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 18:09 UTC.</div>
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
@@ -254,7 +259,7 @@
 - [Support passing URL as an argument to flag --file](https://github.com/OpenSLO/oslo/issues/225)
 
 
-## kairos-io/kairos <span style='color:#F1C40F'>(440 ⭐️)</span>
+## kairos-io/kairos <span style='color:#F1C40F'>(441 ⭐️)</span>
 
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
 
@@ -393,11 +398,6 @@
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(923 ⭐️)</span>
 
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [docs: type checking document should demonstrate new inline schema option](https://github.com/open-policy-agent/opa/issues/5744)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
