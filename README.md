@@ -4,17 +4,19 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 22:38 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 22:48 UTC.</div>
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(962 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Allow users to specify a path prefix for OTLP HTTP receiver](https://github.com/open-telemetry/opentelemetry-collector/issues/7511)
-
-
-## alpstable/gidari <span style='color:#F1C40F'>(28 ⭐️)</span>
-
-- [HTTPService.Requests() method should overwrite HTTPService.req](https://github.com/alpstable/gidari/issues/412)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
@@ -95,13 +97,6 @@
 ## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
 
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(962 ⭐️)</span>
-
-- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## NibiruChain/nibiru <span style='color:#F1C40F'>(59 ⭐️)</span>
