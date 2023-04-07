@@ -4,16 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 07:48 UTC.</div>
-
-
-## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
-
-- [🎯New Source Connector Request: Google Analytics Source Connector](https://github.com/vanus-labs/vanus-connect/issues/317)
-
-- [🎯 New Sink Connector Request: APITable](https://github.com/vanus-labs/vanus-connect/issues/314)
-
-- [🎯New Source Connector Request: Facebook Marketing Source Connector](https://github.com/vanus-labs/vanus-connect/issues/315)
+<div align='center'>Last updated at April 7, 2023 07:58 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
@@ -23,6 +14,15 @@
 - [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
+
+- [🎯New Source Connector Request: Google Analytics Source Connector](https://github.com/vanus-labs/vanus-connect/issues/317)
+
+- [🎯 New Sink Connector Request: APITable](https://github.com/vanus-labs/vanus-connect/issues/314)
+
+- [🎯New Source Connector Request: Facebook Marketing Source Connector](https://github.com/vanus-labs/vanus-connect/issues/315)
 
 
 ## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
@@ -223,7 +223,7 @@
 - [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
 
-## apache/apisix-ingress-controller <span style='color:#F1C40F'>(774 ⭐️)</span>
+## apache/apisix-ingress-controller <span style='color:#F1C40F'>(775 ⭐️)</span>
 
 - [bug: apisix restarts, ingress controller unavailable](https://github.com/apache/apisix-ingress-controller/issues/1760)
 
@@ -320,13 +320,4 @@
 - [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
 
 - [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
-
-- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
-
-- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
