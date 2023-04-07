@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 06:28 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 06:38 UTC.</div>
+
+
+## project-zot/zot <span style='color:#F1C40F'>(338 ⭐️)</span>
+
+- [Cleanup: move pkg/extensions/search/common/oci_layout.go under pkg/test/](https://github.com/project-zot/zot/issues/1270)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
@@ -14,6 +29,15 @@
 - [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+
+- [Feature: sealos apply -f Clusterfile support --single](https://github.com/labring/sealos/issues/2888)
+
+- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -213,9 +237,9 @@
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
-- [[Docs] Wrap words around images in readme.md](https://github.com/meshery/meshery/issues/7496)
-
 - [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+
+- [[Docs] Wrap words around images in readme.md](https://github.com/meshery/meshery/issues/7496)
 
 - [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
 
@@ -248,15 +272,6 @@
 - [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
 
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
-## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
-
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
-
-- [Feature: sealos apply -f Clusterfile support --single](https://github.com/labring/sealos/issues/2888)
-
-- [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.2K ⭐️)</span>
@@ -342,11 +357,6 @@
 - [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
 ## aquasecurity/trivy <span style='color:#F1C40F'>(16.8K ⭐️)</span>
 
 - [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
@@ -355,11 +365,4 @@
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(715 ⭐️)</span>
 
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
-
-
-## AnalogJ/scrutiny <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [[FEAT] Add indicator for data written to disk](https://github.com/AnalogJ/scrutiny/issues/458)
-
-- [[FEAT] Update Smartctl database](https://github.com/AnalogJ/scrutiny/issues/460)
 
