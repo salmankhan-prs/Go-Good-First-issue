@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 01:28 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 01:38 UTC.</div>
+
+
+## solo-io/gloo <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
+
+- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
+
+- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -49,6 +58,11 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -311,11 +325,4 @@
 - [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
 
 - [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
-
-
-## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
-
-- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
