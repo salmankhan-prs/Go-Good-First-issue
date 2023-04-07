@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 03:48 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 03:58 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.2K ⭐️)</span>
@@ -231,6 +231,11 @@
 - [Distribution API seems missing](https://github.com/containers/podman/issues/17726)
 
 
+## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
+
+
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [Convert Array tests to table-driven style](https://github.com/gavv/httpexpect/issues/387)
@@ -310,13 +315,4 @@
 ## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
 
