@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 01:48 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 01:58 UTC.</div>
+
+
+## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
+
+- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -81,11 +86,6 @@
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
-## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
-
-- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
-
-
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(715 ⭐️)</span>
 
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
@@ -96,6 +96,13 @@
 - [should we setup fullpath log format.](https://github.com/envoyproxy/gateway/issues/1216)
 
 - [Allow the user to not have to specify all K8s resources in `egctl x translate --to=xds`](https://github.com/envoyproxy/gateway/issues/1122)
+
+
+## AnalogJ/scrutiny <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [[FEAT] Add indicator for data written to disk](https://github.com/AnalogJ/scrutiny/issues/458)
+
+- [[FEAT] Update Smartctl database](https://github.com/AnalogJ/scrutiny/issues/460)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
