@@ -4,12 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 7, 2023 16:28 UTC.</div>
+<div align='center'>Last updated at April 7, 2023 16:38 UTC.</div>
 
 
-## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+## defenseunicorns/zarf <span style='color:#F1C40F'>(569 ⭐️)</span>
 
-- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
+- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
 
 ## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -17,6 +19,11 @@
 - [tracee cmdline output (help, list events, list signatures) should have tabled output](https://github.com/aquasecurity/tracee/issues/2972)
 
 - [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+
+- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(886 ⭐️)</span>
@@ -90,6 +97,11 @@
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
 
 - [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
@@ -252,11 +264,6 @@
 - [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
 
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## safedep/vet <span style='color:#F1C40F'>(46 ⭐️)</span>
