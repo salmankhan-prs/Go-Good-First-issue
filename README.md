@@ -4,7 +4,20 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 21:28 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 21:38 UTC.</div>
+
+
+## omissis/go-jsonschema <span style='color:#F1C40F'>(310 ⭐️)</span>
+
+- [Introduce goreleaser](https://github.com/omissis/go-jsonschema/issues/60)
+
+- [Introduce renovate or dependabot](https://github.com/omissis/go-jsonschema/issues/59)
+
+- [Introduce codecov](https://github.com/omissis/go-jsonschema/issues/58)
+
+- [Update github actions](https://github.com/omissis/go-jsonschema/issues/57)
+
+- [Introduce badges](https://github.com/omissis/go-jsonschema/issues/56)
 
 
 ## KonstantinGasser/scotty <span style='color:#F1C40F'>(3 ⭐️)</span>
@@ -60,19 +73,6 @@
 - [Docker compose settings up should pull latest image](https://github.com/PuremlHQ/PureML/issues/181)
 
 - [CLI Documentation for Self-Hosting Usage](https://github.com/PuremlHQ/PureML/issues/179)
-
-
-## omissis/go-jsonschema <span style='color:#F1C40F'>(310 ⭐️)</span>
-
-- [Introduce goreleaser](https://github.com/omissis/go-jsonschema/issues/60)
-
-- [Introduce renovate or dependabot](https://github.com/omissis/go-jsonschema/issues/59)
-
-- [Introduce codecov](https://github.com/omissis/go-jsonschema/issues/58)
-
-- [Update github actions](https://github.com/omissis/go-jsonschema/issues/57)
-
-- [Introduce badges](https://github.com/omissis/go-jsonschema/issues/56)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
