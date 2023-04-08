@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 05:18 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 05:28 UTC.</div>
 
 
 ## kubesimplify/ksctl <span style='color:#F1C40F'>(88 ⭐️)</span>
@@ -345,9 +345,4 @@
 - [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
 
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
-## dominant-strategies/go-quai <span style='color:#F1C40F'>(152 ⭐️)</span>
-
-- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
 
