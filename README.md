@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 06:28 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 06:38 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -68,6 +68,11 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
 
 
 ## kubesimplify/ksctl <span style='color:#F1C40F'>(88 ⭐️)</span>
