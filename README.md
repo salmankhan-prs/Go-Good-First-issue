@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 19:48 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 19:58 UTC.</div>
 
 
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
