@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 08:48 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 08:58 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -152,9 +152,9 @@
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
-- [Convert Array tests to table-driven style](https://github.com/gavv/httpexpect/issues/387)
-
 - [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/386)
+
+- [Convert Array tests to table-driven style](https://github.com/gavv/httpexpect/issues/387)
 
 - [Split TestValue_Schema into subtests](https://github.com/gavv/httpexpect/issues/385)
 
@@ -286,6 +286,19 @@
 - [In swarm mode, deviceShifuBase supports multiple EdgeDevices](https://github.com/Edgenesis/shifu/issues/539)
 
 
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
 ## superfly/flyctl <span style='color:#F1C40F'>(962 ⭐️)</span>
 
 - [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
@@ -326,9 +339,4 @@
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(23 ⭐️)</span>
 
 - [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
