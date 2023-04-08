@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 04:08 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 04:18 UTC.</div>
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
@@ -361,9 +361,4 @@
 - [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(715 ⭐️)</span>
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
