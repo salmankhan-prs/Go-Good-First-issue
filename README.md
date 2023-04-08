@@ -4,12 +4,20 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 13:28 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 13:38 UTC.</div>
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+- [Feature: Log compaction](https://github.com/memphisdev/memphis/issues/861)
+
+- [Ability to set infinite retention](https://github.com/memphisdev/memphis/issues/858)
+
+- [Purge messages](https://github.com/memphisdev/memphis/issues/793)
+
+- [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
+
+- [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -23,6 +31,11 @@
 - [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
 
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## PuremlHQ/PureML <span style='color:#F1C40F'>(112 ⭐️)</span>
@@ -296,7 +309,7 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## apache/trafficcontrol <span style='color:#F1C40F'>(887 ⭐️)</span>
+## apache/trafficcontrol <span style='color:#F1C40F'>(888 ⭐️)</span>
 
 - [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
 
@@ -316,9 +329,4 @@
 ## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
