@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 15:58 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 16:08 UTC.</div>
 
 
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(16 ⭐️)</span>
@@ -121,6 +121,19 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
 
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
 ## cilium/cilium-cli <span style='color:#F1C40F'>(213 ⭐️)</span>
