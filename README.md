@@ -4,7 +4,33 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 12:28 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 12:38 UTC.</div>
+
+
+## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
+
+- [Optimize regex compilation by reusing compiled regex](https://github.com/Frontman-Labs/frontman/issues/101)
+
+- [Remove unnecessary refreshClients function](https://github.com/Frontman-Labs/frontman/issues/100)
+
+- [Remove redundant lockings if possible ](https://github.com/Frontman-Labs/frontman/issues/82)
+
+- [Horizontal scalability issue](https://github.com/Frontman-Labs/frontman/issues/81)
+
+- [Create a Quick Start Guide for Frontman API Gateway](https://github.com/Frontman-Labs/frontman/issues/99)
+
+- [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
+
+- [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.3K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## PuremlHQ/PureML <span style='color:#F1C40F'>(112 ⭐️)</span>
@@ -53,15 +79,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.3K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
