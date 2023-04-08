@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 15:18 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 15:28 UTC.</div>
+
+
+## open-telemetry/opentelemetry-go-contrib <span style='color:#F1C40F'>(710 ⭐️)</span>
+
+- [otelgrpc: add WithSpanOptions](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/3683)
+
+- [Remove `semver:` prefix from instrumentation version](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/3681)
 
 
 ## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
@@ -67,6 +74,11 @@
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
@@ -94,6 +106,33 @@
 ## cilium/cilium-cli <span style='color:#F1C40F'>(213 ⭐️)</span>
 
 - [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
+
+
+## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/386)
+
+- [Convert Array tests to table-driven style](https://github.com/gavv/httpexpect/issues/387)
+
+- [Split TestValue_Schema into subtests](https://github.com/gavv/httpexpect/issues/385)
+
+- [Convert TestValue_Getters to table-driven style](https://github.com/gavv/httpexpect/issues/384)
+
+- [Convert TestRequest_Conflicts to table-driven style](https://github.com/gavv/httpexpect/issues/383)
+
+- [Improve bodyWrapper GetBody test](https://github.com/gavv/httpexpect/issues/378)
+
+- [Improve bodyWrapper Rewind test](https://github.com/gavv/httpexpect/issues/377)
+
+- [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
+
+- [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
+
+- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
+
+- [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
+
+- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -215,11 +254,6 @@
 - [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
 - [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
@@ -297,33 +331,6 @@
 ## kubesimplify/ksctl <span style='color:#F1C40F'>(88 ⭐️)</span>
 
 - [[BUG][CLI or API] (Provider) Ksctl Cred](https://github.com/kubesimplify/ksctl/issues/79)
-
-
-## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/386)
-
-- [Convert Array tests to table-driven style](https://github.com/gavv/httpexpect/issues/387)
-
-- [Split TestValue_Schema into subtests](https://github.com/gavv/httpexpect/issues/385)
-
-- [Convert TestValue_Getters to table-driven style](https://github.com/gavv/httpexpect/issues/384)
-
-- [Convert TestRequest_Conflicts to table-driven style](https://github.com/gavv/httpexpect/issues/383)
-
-- [Improve bodyWrapper GetBody test](https://github.com/gavv/httpexpect/issues/378)
-
-- [Improve bodyWrapper Rewind test](https://github.com/gavv/httpexpect/issues/377)
-
-- [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
-
-- [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
-
-- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
-
-- [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
-
-- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
