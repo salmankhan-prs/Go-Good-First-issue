@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 22:38 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 22:48 UTC.</div>
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(572 ⭐️)</span>
@@ -30,6 +30,15 @@
 - [Update github actions](https://github.com/omissis/go-jsonschema/issues/57)
 
 - [Introduce badges](https://github.com/omissis/go-jsonschema/issues/56)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -356,15 +365,6 @@
 - [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
 
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
 
 ## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
