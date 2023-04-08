@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 15:38 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 15:48 UTC.</div>
 
 
 ## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
@@ -316,14 +316,4 @@
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
 
 - [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
-
-
-## kubesimplify/ksctl <span style='color:#F1C40F'>(88 ⭐️)</span>
-
-- [[BUG][CLI or API] (Provider) Ksctl Cred](https://github.com/kubesimplify/ksctl/issues/79)
 
