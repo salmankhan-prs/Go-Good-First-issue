@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 09:18 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 09:28 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -127,13 +127,13 @@
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
-## PuremlHQ/PureML <span style='color:#F1C40F'>(110 ⭐️)</span>
+## PuremlHQ/PureML <span style='color:#F1C40F'>(112 ⭐️)</span>
 
 - [Incorrect redirection of approved reviews in models & datasets](https://github.com/PuremlHQ/PureML/issues/183)
 
-- [Incorrect font of changelog page](https://github.com/PuremlHQ/PureML/issues/169)
-
 - [Replace the 'github star' btn with custom github star btn](https://github.com/PuremlHQ/PureML/issues/173)
+
+- [Incorrect font of changelog page](https://github.com/PuremlHQ/PureML/issues/169)
 
 - [selected tab 'Data Lineage' should be highlighted in datasets version](https://github.com/PuremlHQ/PureML/issues/182)
 
