@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 03:48 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 03:58 UTC.</div>
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
@@ -302,6 +302,19 @@
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(923 ⭐️)</span>
 
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(16 ⭐️)</span>
+
+- [Implement `turso db hints` command](https://github.com/chiselstrike/turso-cli/issues/319)
+
+- [Native Windows support](https://github.com/chiselstrike/turso-cli/issues/318)
+
+- [Add `turso tutorial` command and call it from Homebrew postinstall](https://github.com/chiselstrike/turso-cli/issues/300)
+
+- [`turso db inspect` should show more than just space](https://github.com/chiselstrike/turso-cli/issues/303)
+
+- [Destroying instances is cumbersome](https://github.com/chiselstrike/turso-cli/issues/283)
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(886 ⭐️)</span>
