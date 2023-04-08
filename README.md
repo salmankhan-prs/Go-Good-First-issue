@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 18:48 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 18:58 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## PuremlHQ/PureML <span style='color:#F1C40F'>(112 ⭐️)</span>
@@ -16,6 +21,19 @@
 - [Docker compose settings up should pull latest image](https://github.com/PuremlHQ/PureML/issues/181)
 
 - [CLI Documentation for Self-Hosting Usage](https://github.com/PuremlHQ/PureML/issues/179)
+
+
+## omissis/go-jsonschema <span style='color:#F1C40F'>(310 ⭐️)</span>
+
+- [Introduce goreleaser](https://github.com/omissis/go-jsonschema/issues/60)
+
+- [Introduce renovate or dependabot](https://github.com/omissis/go-jsonschema/issues/59)
+
+- [Introduce codecov](https://github.com/omissis/go-jsonschema/issues/58)
+
+- [Update github actions](https://github.com/omissis/go-jsonschema/issues/57)
+
+- [Introduce badges](https://github.com/omissis/go-jsonschema/issues/56)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
@@ -38,11 +56,6 @@
 - [(feature) relay-proxy: Using notifier to add prometheus metrics when flag change](https://github.com/thomaspoignant/go-feature-flag/issues/665)
 
 - [(documentation) Explain better how data export is working and why we have it](https://github.com/thomaspoignant/go-feature-flag/issues/661)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
