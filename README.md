@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 03:08 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 03:18 UTC.</div>
+
+
+## NibiruChain/nibiru <span style='color:#F1C40F'>(59 ⭐️)</span>
+
+- [feat(oracle): create an exponential moving average of index prices](https://github.com/NibiruChain/nibiru/issues/1235)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
@@ -211,11 +216,6 @@
 ## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [Make all the boolean values case insensitive in aws vpc cni environmental variables. ](https://github.com/aws/amazon-vpc-cni-k8s/issues/2311)
-
-
-## NibiruChain/nibiru <span style='color:#F1C40F'>(59 ⭐️)</span>
-
-- [feat(oracle): create an exponential moving average of index prices](https://github.com/NibiruChain/nibiru/issues/1235)
 
 
 ## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
