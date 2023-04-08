@@ -4,17 +4,20 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 20:28 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 20:38 UTC.</div>
 
 
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+## oras-project/oras <span style='color:#F1C40F'>(896 ⭐️)</span>
 
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+- [Avoid requiring passing --plain-http when specifying --insecure](https://github.com/oras-project/oras/issues/914)
 
+- [add command to get the digest of a tagged manifest without parsing output](https://github.com/oras-project/oras/issues/907)
 
-## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+- [add OCI layout support in command help doc](https://github.com/oras-project/oras/issues/904)
 
-- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
+- [invalid `--distribution-spec` flag returns wrong error information](https://github.com/oras-project/oras/issues/897)
+
+- [trigger dependabot for nested e2e go module](https://github.com/oras-project/oras/issues/876)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
@@ -26,6 +29,16 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+
+- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
