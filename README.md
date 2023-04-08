@@ -4,17 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 09:58 UTC.</div>
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(715 ⭐️)</span>
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+<div align='center'>Last updated at April 8, 2023 10:08 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
 
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(715 ⭐️)</span>
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
 ## vmware-tanzu/pinniped <span style='color:#F1C40F'>(404 ⭐️)</span>
@@ -344,11 +344,4 @@
 - [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
 
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(571 ⭐️)</span>
-
-- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
