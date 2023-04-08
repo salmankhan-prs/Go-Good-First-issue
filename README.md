@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 07:58 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 08:08 UTC.</div>
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.5K ⭐️)</span>
@@ -30,6 +30,15 @@
 - [(feature) relay-proxy: Using notifier to add prometheus metrics when flag change](https://github.com/thomaspoignant/go-feature-flag/issues/665)
 
 - [(documentation) Explain better how data export is working and why we have it](https://github.com/thomaspoignant/go-feature-flag/issues/661)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.3K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
@@ -99,15 +108,6 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.3K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
