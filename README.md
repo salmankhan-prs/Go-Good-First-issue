@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 04:58 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 05:08 UTC.</div>
 
 
 ## kubesimplify/ksctl <span style='color:#F1C40F'>(88 ⭐️)</span>
@@ -42,6 +42,16 @@
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
 ## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
 
 - [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
@@ -73,11 +83,6 @@
 - [🎯New Source Connector Request: Facebook Marketing Source Connector](https://github.com/vanus-labs/vanus-connect/issues/315)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
-
-
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.3K ⭐️)</span>
 
 - [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
@@ -90,11 +95,6 @@
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
 
 - [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
