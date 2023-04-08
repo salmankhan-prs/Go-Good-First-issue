@@ -4,12 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 02:08 UTC.</div>
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+<div align='center'>Last updated at April 8, 2023 02:18 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.3K ⭐️)</span>
@@ -19,6 +14,11 @@
 - [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
