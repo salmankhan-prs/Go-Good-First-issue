@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 21:58 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 22:08 UTC.</div>
 
 
 ## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -23,6 +23,11 @@
 - [Update github actions](https://github.com/omissis/go-jsonschema/issues/57)
 
 - [Introduce badges](https://github.com/omissis/go-jsonschema/issues/56)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## KonstantinGasser/scotty <span style='color:#F1C40F'>(3 ⭐️)</span>
@@ -64,9 +69,9 @@
 - [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
 
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
@@ -137,11 +142,6 @@
 ## cilium/cilium-cli <span style='color:#F1C40F'>(213 ⭐️)</span>
 
 - [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
@@ -377,16 +377,4 @@
 - [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
-## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [add gator to krew](https://github.com/open-policy-agent/gatekeeper/issues/2653)
-
-
-## hay-kot/homebox <span style='color:#F1C40F'>(844 ⭐️)</span>
-
-- [Field Search API Doesn't Return Values](https://github.com/hay-kot/homebox/issues/391)
-
-- [Reset Search Button Does Not Reset All Fields](https://github.com/hay-kot/homebox/issues/392)
 
