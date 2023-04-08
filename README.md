@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 02:28 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 02:38 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.3K ⭐️)</span>
@@ -107,6 +107,13 @@
 - [feat(service): Add IOS web push service](https://github.com/nikoksr/notify/issues/548)
 
 
+## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
+
+- [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
+
+
 ## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
 
 - [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
@@ -195,15 +202,6 @@
 ## NibiruChain/nibiru <span style='color:#F1C40F'>(59 ⭐️)</span>
 
 - [feat(oracle): create an exponential moving average of index prices](https://github.com/NibiruChain/nibiru/issues/1235)
-
-
-## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Update NPM dependencies and Dependabot should be configured for OpenCost UI](https://github.com/opencost/opencost/issues/1848)
-
-- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
-
-- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
 
 ## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
