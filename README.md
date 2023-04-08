@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 07:28 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 07:38 UTC.</div>
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(672 ⭐️)</span>
+
+- [(feature) Implement Open-feature web provider.](https://github.com/thomaspoignant/go-feature-flag/issues/662)
+
+- [ (feature) Implement open-feature provider cache for the Javascript provider ](https://github.com/thomaspoignant/go-feature-flag/issues/659)
+
+- [(feature) relay-proxy: Using notifier to add prometheus metrics when flag change](https://github.com/thomaspoignant/go-feature-flag/issues/665)
+
+- [(documentation) Explain better how data export is working and why we have it](https://github.com/thomaspoignant/go-feature-flag/issues/661)
 
 
 ## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
