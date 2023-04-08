@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 17:58 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 18:08 UTC.</div>
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(672 ⭐️)</span>
@@ -98,7 +98,7 @@
 - [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
 
 
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(16 ⭐️)</span>
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(17 ⭐️)</span>
 
 - [Implement `turso db hints` command](https://github.com/chiselstrike/turso-cli/issues/319)
 
@@ -280,13 +280,4 @@
 - [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
 
 - [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.3K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
