@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 01:58 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 02:08 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
@@ -349,9 +349,4 @@
 ## oauth2-proxy/oauth2-proxy <span style='color:#F1C40F'>(6.8K ⭐️)</span>
 
 - [Fragment is lost after redirect if --skip-provider-button is set to true](https://github.com/oauth2-proxy/oauth2-proxy/issues/2068)
-
-
-## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
-
-- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
 
