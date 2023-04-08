@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 10:08 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 10:18 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -335,13 +335,4 @@
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Allow users to specify a path prefix for OTLP HTTP receiver](https://github.com/open-telemetry/opentelemetry-collector/issues/7511)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
