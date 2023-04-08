@@ -4,7 +4,27 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 15:48 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 15:58 UTC.</div>
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(16 ⭐️)</span>
+
+- [Implement `turso db hints` command](https://github.com/chiselstrike/turso-cli/issues/319)
+
+- [Native Windows support](https://github.com/chiselstrike/turso-cli/issues/318)
+
+- [Add `turso tutorial` command and call it from Homebrew postinstall](https://github.com/chiselstrike/turso-cli/issues/300)
+
+- [`turso db inspect` should show more than just space](https://github.com/chiselstrike/turso-cli/issues/303)
+
+- [Destroying instances is cumbersome](https://github.com/chiselstrike/turso-cli/issues/283)
+
+
+## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
+
+- [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
 
 
 ## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
@@ -249,7 +269,7 @@
 - [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
 
 - [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
 
@@ -311,9 +331,4 @@
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 - [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
-
-- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
 
