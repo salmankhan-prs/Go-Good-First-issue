@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 18:58 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 19:08 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -23,6 +23,17 @@
 - [CLI Documentation for Self-Hosting Usage](https://github.com/PuremlHQ/PureML/issues/179)
 
 
+## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
+
+- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+
 ## omissis/go-jsonschema <span style='color:#F1C40F'>(310 ⭐️)</span>
 
 - [Introduce goreleaser](https://github.com/omissis/go-jsonschema/issues/60)
@@ -34,17 +45,6 @@
 - [Update github actions](https://github.com/omissis/go-jsonschema/issues/57)
 
 - [Introduce badges](https://github.com/omissis/go-jsonschema/issues/56)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
-
-- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(672 ⭐️)</span>
