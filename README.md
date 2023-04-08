@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 20:58 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 21:08 UTC.</div>
+
+
+## KonstantinGasser/scotty <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [implement new network interface (tcp:ip) to beam logs to scotty](https://github.com/KonstantinGasser/scotty/issues/12)
 
 
 ## oras-project/oras <span style='color:#F1C40F'>(896 ⭐️)</span>
@@ -377,9 +382,4 @@
 ## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
 
 - [Support for MongoDB](https://github.com/secret-telegram/chat/issues/55)
-
-
-## grafana-operator/grafana-operator <span style='color:#F1C40F'>(555 ⭐️)</span>
-
-- [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
 
