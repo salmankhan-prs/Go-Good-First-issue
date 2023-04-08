@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 19:38 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 19:48 UTC.</div>
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+
+- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
