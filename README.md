@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 19:08 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 19:18 UTC.</div>
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
+
+- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -21,17 +32,6 @@
 - [Docker compose settings up should pull latest image](https://github.com/PuremlHQ/PureML/issues/181)
 
 - [CLI Documentation for Self-Hosting Usage](https://github.com/PuremlHQ/PureML/issues/179)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
-
-- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## omissis/go-jsonschema <span style='color:#F1C40F'>(310 ⭐️)</span>
@@ -348,4 +348,11 @@
 - [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
+## safedep/vet <span style='color:#F1C40F'>(51 ⭐️)</span>
+
+- [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
+
+- [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
 
