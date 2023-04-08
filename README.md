@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 22:28 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 22:38 UTC.</div>
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(572 ⭐️)</span>
@@ -154,6 +154,11 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
+## GoogleContainerTools/kpt <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [`kpt live` does not support YAML merging arrays ](https://github.com/GoogleContainerTools/kpt/issues/3897)
 
 
 ## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -375,13 +380,4 @@
 - [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
 
 - [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
