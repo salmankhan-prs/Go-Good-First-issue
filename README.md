@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 10:38 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 10:48 UTC.</div>
 
 
 ## PuremlHQ/PureML <span style='color:#F1C40F'>(112 ⭐️)</span>
@@ -295,7 +295,7 @@
 - [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
 
 
-## Edgenesis/shifu <span style='color:#F1C40F'>(828 ⭐️)</span>
+## Edgenesis/shifu <span style='color:#F1C40F'>(829 ⭐️)</span>
 
 - [The traffic light FSM implementation for deviceShifu](https://github.com/Edgenesis/shifu/issues/547)
 
