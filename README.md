@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 21:18 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 21:28 UTC.</div>
 
 
 ## KonstantinGasser/scotty <span style='color:#F1C40F'>(3 ⭐️)</span>
@@ -204,6 +204,13 @@
 ## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
 
 - [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(964 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
