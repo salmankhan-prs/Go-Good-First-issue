@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 20:08 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 20:18 UTC.</div>
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
 
 
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
@@ -50,6 +55,15 @@
 - [Update github actions](https://github.com/omissis/go-jsonschema/issues/57)
 
 - [Introduce badges](https://github.com/omissis/go-jsonschema/issues/56)
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(672 ⭐️)</span>
@@ -346,18 +360,4 @@
 ## grafana-operator/grafana-operator <span style='color:#F1C40F'>(555 ⭐️)</span>
 
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
-
-- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## safedep/vet <span style='color:#F1C40F'>(51 ⭐️)</span>
-
-- [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
-
-- [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
 
