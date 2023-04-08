@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 22:58 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 23:08 UTC.</div>
+
+
+## AnalogJ/scrutiny <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [[FEAT] Update Smartctl database](https://github.com/AnalogJ/scrutiny/issues/460)
+
+- [[FEAT] Add indicator for data written to disk](https://github.com/AnalogJ/scrutiny/issues/458)
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(572 ⭐️)</span>
@@ -365,19 +372,4 @@
 - [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
 
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
-## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
-
-- [Simplify client handling and reduce concurrency latency by embedding the client in the BackendService struct](https://github.com/Frontman-Labs/frontman/issues/103)
-
-- [Optimize regex compilation by reusing compiled regex](https://github.com/Frontman-Labs/frontman/issues/101)
-
-- [Remove redundant lockings if possible ](https://github.com/Frontman-Labs/frontman/issues/82)
-
-- [Create a Quick Start Guide for Frontman API Gateway](https://github.com/Frontman-Labs/frontman/issues/99)
-
-- [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
-
-- [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
 
