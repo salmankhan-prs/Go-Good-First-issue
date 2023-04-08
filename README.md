@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 04:38 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 04:48 UTC.</div>
 
 
 ## kubesimplify/ksctl <span style='color:#F1C40F'>(88 ⭐️)</span>
@@ -350,17 +350,4 @@
 ## dominant-strategies/go-quai <span style='color:#F1C40F'>(152 ⭐️)</span>
 
 - [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
-
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
