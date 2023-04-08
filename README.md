@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 11:08 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 11:18 UTC.</div>
+
+
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
+
+- [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.3K ⭐️)</span>
@@ -277,15 +284,6 @@
 - [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
 
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-
-## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [env for pipeline name](https://github.com/woodpecker-ci/woodpecker/issues/1681)
-
-- [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
-
-- [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
