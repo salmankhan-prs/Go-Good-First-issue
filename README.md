@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 17:48 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 17:58 UTC.</div>
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(672 ⭐️)</span>
+
+- [(feature) Implement Open-feature web provider.](https://github.com/thomaspoignant/go-feature-flag/issues/662)
+
+- [ (feature) Implement open-feature provider cache for the Javascript provider ](https://github.com/thomaspoignant/go-feature-flag/issues/659)
+
+- [(feature) relay-proxy: Using notifier to add prometheus metrics when flag change](https://github.com/thomaspoignant/go-feature-flag/issues/665)
+
+- [(documentation) Explain better how data export is working and why we have it](https://github.com/thomaspoignant/go-feature-flag/issues/661)
 
 
 ## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
@@ -110,6 +121,11 @@
 ## oauth2-proxy/oauth2-proxy <span style='color:#F1C40F'>(6.8K ⭐️)</span>
 
 - [Fragment is lost after redirect if --skip-provider-button is set to true](https://github.com/oauth2-proxy/oauth2-proxy/issues/2068)
+
+
+## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
+
+- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
 ## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
@@ -266,17 +282,6 @@
 - [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
 
 
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(672 ⭐️)</span>
-
-- [(feature) Implement Open-feature web provider.](https://github.com/thomaspoignant/go-feature-flag/issues/662)
-
-- [ (feature) Implement open-feature provider cache for the Javascript provider ](https://github.com/thomaspoignant/go-feature-flag/issues/659)
-
-- [(feature) relay-proxy: Using notifier to add prometheus metrics when flag change](https://github.com/thomaspoignant/go-feature-flag/issues/665)
-
-- [(documentation) Explain better how data export is working and why we have it](https://github.com/thomaspoignant/go-feature-flag/issues/661)
-
-
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.3K ⭐️)</span>
 
 - [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
@@ -284,9 +289,4 @@
 - [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
