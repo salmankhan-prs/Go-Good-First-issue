@@ -4,7 +4,39 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 05:58 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 06:08 UTC.</div>
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
+
+- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
+
+- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
+
+- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
+
+- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
+
+- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
+
+- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
+
+- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
+
+- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
+
+- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.3K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
@@ -92,15 +124,6 @@
 - [🎯New Source Connector Request: Facebook Marketing Source Connector](https://github.com/vanus-labs/vanus-connect/issues/315)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(16.3K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
 
 - [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
@@ -159,6 +182,11 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Allow users to specify a path prefix for OTLP HTTP receiver](https://github.com/open-telemetry/opentelemetry-collector/issues/7511)
 
 
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -274,13 +302,6 @@
 - [[Doc][Dashboard] Outdated links to Grafana doc](https://github.com/apache/incubator-devlake/issues/4861)
 
 
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-
 ## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [Support for nars?](https://github.com/anchore/syft/issues/1701)
@@ -336,13 +357,4 @@
 - [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
 
 - [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
-
-- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
-
-- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
