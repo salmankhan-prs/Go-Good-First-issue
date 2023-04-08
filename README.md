@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 06:18 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 06:28 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## NibiruChain/nibiru <span style='color:#F1C40F'>(59 ⭐️)</span>
@@ -46,7 +51,7 @@
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
-- [Indirection use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
+- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
@@ -58,6 +63,11 @@
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 - [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## kubesimplify/ksctl <span style='color:#F1C40F'>(88 ⭐️)</span>
@@ -72,11 +82,6 @@
 - [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
 
 - [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
@@ -98,11 +103,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
@@ -309,11 +309,6 @@
 - [Support for nars?](https://github.com/anchore/syft/issues/1701)
 
 - [Syft missing direct dependencies from the gemfile.lock](https://github.com/anchore/syft/issues/1660)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
 
 
 ## dapr/components-contrib <span style='color:#F1C40F'>(439 ⭐️)</span>
