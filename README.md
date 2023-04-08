@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 03:18 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 03:28 UTC.</div>
+
+
+## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
+
+- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
 
 
 ## NibiruChain/nibiru <span style='color:#F1C40F'>(59 ⭐️)</span>
@@ -112,7 +117,7 @@
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
-## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.5K ⭐️)</span>
 
 - [env for pipeline name](https://github.com/woodpecker-ci/woodpecker/issues/1681)
 
@@ -131,11 +136,6 @@
 - [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
 
 - [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
-
-
-## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
-
-- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(962 ⭐️)</span>
