@@ -4,12 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 14:58 UTC.</div>
-
-
-## NibiruChain/nibiru <span style='color:#F1C40F'>(59 ⭐️)</span>
-
-- [feat(oracle): create an exponential moving average of index prices](https://github.com/NibiruChain/nibiru/issues/1235)
+<div align='center'>Last updated at April 8, 2023 15:08 UTC.</div>
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -33,6 +28,11 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+
+
+## NibiruChain/nibiru <span style='color:#F1C40F'>(59 ⭐️)</span>
+
+- [feat(oracle): create an exponential moving average of index prices](https://github.com/NibiruChain/nibiru/issues/1235)
 
 
 ## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
