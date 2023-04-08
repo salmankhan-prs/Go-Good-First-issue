@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 18:38 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 18:48 UTC.</div>
 
 
 ## PuremlHQ/PureML <span style='color:#F1C40F'>(112 ⭐️)</span>
@@ -77,6 +77,11 @@
 ## cilium/cilium-cli <span style='color:#F1C40F'>(213 ⭐️)</span>
 
 - [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
@@ -308,7 +313,7 @@
 - [add gator to krew](https://github.com/open-policy-agent/gatekeeper/issues/2653)
 
 
-## hay-kot/homebox <span style='color:#F1C40F'>(843 ⭐️)</span>
+## hay-kot/homebox <span style='color:#F1C40F'>(844 ⭐️)</span>
 
 - [Field Search API Doesn't Return Values](https://github.com/hay-kot/homebox/issues/391)
 
