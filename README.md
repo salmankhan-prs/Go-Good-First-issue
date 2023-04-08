@@ -4,17 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 11:28 UTC.</div>
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+<div align='center'>Last updated at April 8, 2023 11:38 UTC.</div>
 
 
 ## grafana-operator/grafana-operator <span style='color:#F1C40F'>(555 ⭐️)</span>
 
 - [[hugo] Check for broken internal links (maybe external)](https://github.com/grafana-operator/grafana-operator/issues/956)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.5K ⭐️)</span>
