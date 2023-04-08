@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 21:48 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 21:58 UTC.</div>
+
+
+## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
 
 
 ## omissis/go-jsonschema <span style='color:#F1C40F'>(310 ⭐️)</span>
@@ -384,9 +389,4 @@
 - [Field Search API Doesn't Return Values](https://github.com/hay-kot/homebox/issues/391)
 
 - [Reset Search Button Does Not Reset All Fields](https://github.com/hay-kot/homebox/issues/392)
-
-
-## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
-
-- [Support for MongoDB](https://github.com/secret-telegram/chat/issues/55)
 
