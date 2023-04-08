@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 04:48 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 04:58 UTC.</div>
 
 
 ## kubesimplify/ksctl <span style='color:#F1C40F'>(88 ⭐️)</span>
