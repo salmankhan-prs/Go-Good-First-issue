@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 04:28 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 04:38 UTC.</div>
 
 
 ## kubesimplify/ksctl <span style='color:#F1C40F'>(88 ⭐️)</span>
@@ -12,7 +12,18 @@
 - [[BUG][CLI or API] (Provider) Ksctl Cred](https://github.com/kubesimplify/ksctl/issues/79)
 
 
+## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
+
+- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
+
+- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
+
+
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
+
+- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
 
 - [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
 
@@ -84,15 +95,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
-
-- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
-
-- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
