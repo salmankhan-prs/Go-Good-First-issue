@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 08:38 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 08:48 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -331,11 +331,4 @@
 ## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
 
 - [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-
-## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [Update log messages to refer to Gnosis Chain / Gnosis and not Ethereum](https://github.com/ethersphere/bee/issues/3980)
-
-- [For "redistributionstate" endpoint, change "lastPlayedRound" to actually show last round played, and add "lastSelectedRound" so show if the node's neighborhood was selected](https://github.com/ethersphere/bee/issues/3979)
 
