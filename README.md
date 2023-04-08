@@ -4,7 +4,27 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 06:38 UTC.</div>
+<div align='center'>Last updated at April 8, 2023 06:48 UTC.</div>
+
+
+## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [create common options, remove intermediate layers](https://github.com/k8stopologyawareschedwg/deployer/issues/182)
+
+- [add option to control the scheduler verbosity](https://github.com/k8stopologyawareschedwg/deployer/issues/189)
+
+- [manifests: scheduler should run in the control plane (default, but overridable)](https://github.com/k8stopologyawareschedwg/deployer/issues/177)
+
+- [manifests: updaters should NOT run in the control plane](https://github.com/k8stopologyawareschedwg/deployer/issues/176)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
+
+- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -54,15 +74,6 @@
 - [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
-
-- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
@@ -154,14 +165,14 @@
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
-## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
-
-- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
-
-
 ## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
+
+- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
