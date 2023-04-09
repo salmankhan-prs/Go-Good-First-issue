@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 04:28 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 04:38 UTC.</div>
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -333,9 +333,4 @@
 - [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
 
 - [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
-
-
-## oauth2-proxy/oauth2-proxy <span style='color:#F1C40F'>(6.8K ⭐️)</span>
-
-- [Fragment is lost after redirect if --skip-provider-button is set to true](https://github.com/oauth2-proxy/oauth2-proxy/issues/2068)
 
