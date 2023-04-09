@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 09:08 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 09:18 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -283,11 +283,4 @@
 ## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## gnolang/gno <span style='color:#F1C40F'>(722 ⭐️)</span>
-
-- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
-
-- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
 
