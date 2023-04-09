@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 07:38 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 07:48 UTC.</div>
 
 
 ## omissis/go-jsonschema <span style='color:#F1C40F'>(310 ⭐️)</span>
