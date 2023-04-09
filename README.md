@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 01:58 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 02:08 UTC.</div>
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -119,6 +119,11 @@
 - [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
 
 
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
 ## omissis/go-jsonschema <span style='color:#F1C40F'>(310 ⭐️)</span>
 
 - [Introduce goreleaser](https://github.com/omissis/go-jsonschema/issues/60)
@@ -221,11 +226,6 @@
 - [(documentation) Explain better how data export is working and why we have it](https://github.com/thomaspoignant/go-feature-flag/issues/661)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
 ## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
 
 - [UI - ToolBar - upgrade button](https://github.com/komodorio/helm-dashboard/issues/264)
@@ -256,6 +256,17 @@
 ## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [优化项目内的测试用例，使得测试用例之间可以并行执行，减少CI执行时间](https://github.com/polarismesh/polaris/issues/1073)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Docs seem wrong about installCRDs](https://github.com/external-secrets/external-secrets/issues/2209)
+
+- [Helm - Provide good securityContext by default](https://github.com/external-secrets/external-secrets/issues/2207)
+
+- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
+
+- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
