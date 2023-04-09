@@ -4,12 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 17:48 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 17:58 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
 
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -104,11 +109,6 @@
 ## rsteube/carapace-bin <span style='color:#F1C40F'>(193 ⭐️)</span>
 
 - [tea](https://github.com/rsteube/carapace-bin/issues/1643)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
