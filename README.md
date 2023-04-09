@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 10:18 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 10:28 UTC.</div>
+
+
+## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
+
+- [Simplify client handling and reduce concurrency latency by embedding the client in the BackendService struct](https://github.com/Frontman-Labs/frontman/issues/103)
+
+- [Optimize regex compilation by reusing compiled regex](https://github.com/Frontman-Labs/frontman/issues/101)
+
+- [Remove redundant lockings if possible ](https://github.com/Frontman-Labs/frontman/issues/82)
+
+- [Create a Quick Start Guide for Frontman API Gateway](https://github.com/Frontman-Labs/frontman/issues/99)
+
+- [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
+
+- [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -244,8 +259,6 @@
 
 - [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
 
-- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
-
 - [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
 
 - [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
@@ -286,22 +299,4 @@
 ## KonstantinGasser/scotty <span style='color:#F1C40F'>(3 ⭐️)</span>
 
 - [implement new network interface (tcp:ip) to beam logs to scotty](https://github.com/KonstantinGasser/scotty/issues/12)
-
-
-## oras-project/oras <span style='color:#F1C40F'>(896 ⭐️)</span>
-
-- [Avoid requiring passing --plain-http when specifying --insecure](https://github.com/oras-project/oras/issues/914)
-
-- [add command to get the digest of a tagged manifest without parsing output](https://github.com/oras-project/oras/issues/907)
-
-- [add OCI layout support in command help doc](https://github.com/oras-project/oras/issues/904)
-
-- [invalid `--distribution-spec` flag returns wrong error information](https://github.com/oras-project/oras/issues/897)
-
-- [trigger dependabot for nested e2e go module](https://github.com/oras-project/oras/issues/876)
-
-
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
 
