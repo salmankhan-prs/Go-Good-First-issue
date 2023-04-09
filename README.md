@@ -4,7 +4,41 @@
 
 
 
-<div align='center'>Last updated at April 8, 2023 23:58 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 00:08 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Check for extra arguments in WebsocketMessage constructor](https://github.com/gavv/httpexpect/issues/392)
+
+- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/386)
+
+- [Convert Array tests to table-driven style](https://github.com/gavv/httpexpect/issues/387)
+
+- [Split TestValue_Schema into subtests](https://github.com/gavv/httpexpect/issues/385)
+
+- [Convert TestValue_Getters to table-driven style](https://github.com/gavv/httpexpect/issues/384)
+
+- [Convert TestRequest_Conflicts to table-driven style](https://github.com/gavv/httpexpect/issues/383)
+
+- [Improve bodyWrapper GetBody test](https://github.com/gavv/httpexpect/issues/378)
+
+- [Improve bodyWrapper Rewind test](https://github.com/gavv/httpexpect/issues/377)
+
+- [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
+
+- [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
+
+- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
+
+- [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
+
+- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
 
 
 ## AnalogJ/scrutiny <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -46,11 +80,6 @@
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## KonstantinGasser/scotty <span style='color:#F1C40F'>(3 ⭐️)</span>
@@ -310,33 +339,6 @@
 - [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/386)
-
-- [Convert Array tests to table-driven style](https://github.com/gavv/httpexpect/issues/387)
-
-- [Split TestValue_Schema into subtests](https://github.com/gavv/httpexpect/issues/385)
-
-- [Convert TestValue_Getters to table-driven style](https://github.com/gavv/httpexpect/issues/384)
-
-- [Convert TestRequest_Conflicts to table-driven style](https://github.com/gavv/httpexpect/issues/383)
-
-- [Improve bodyWrapper GetBody test](https://github.com/gavv/httpexpect/issues/378)
-
-- [Improve bodyWrapper Rewind test](https://github.com/gavv/httpexpect/issues/377)
-
-- [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
-
-- [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
-
-- [Colorize json values](https://github.com/gavv/httpexpect/issues/334)
-
-- [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
-
-- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
