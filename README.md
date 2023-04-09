@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 07:28 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 07:38 UTC.</div>
+
+
+## omissis/go-jsonschema <span style='color:#F1C40F'>(310 ⭐️)</span>
+
+- [Introduce goreleaser](https://github.com/omissis/go-jsonschema/issues/60)
+
+- [Introduce renovate or dependabot](https://github.com/omissis/go-jsonschema/issues/59)
+
+- [Introduce codecov](https://github.com/omissis/go-jsonschema/issues/58)
+
+- [Update github actions](https://github.com/omissis/go-jsonschema/issues/57)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -219,19 +230,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## omissis/go-jsonschema <span style='color:#F1C40F'>(310 ⭐️)</span>
-
-- [Introduce goreleaser](https://github.com/omissis/go-jsonschema/issues/60)
-
-- [Introduce renovate or dependabot](https://github.com/omissis/go-jsonschema/issues/59)
-
-- [Introduce codecov](https://github.com/omissis/go-jsonschema/issues/58)
-
-- [Update github actions](https://github.com/omissis/go-jsonschema/issues/57)
-
-- [Introduce badges](https://github.com/omissis/go-jsonschema/issues/56)
 
 
 ## KonstantinGasser/scotty <span style='color:#F1C40F'>(3 ⭐️)</span>
