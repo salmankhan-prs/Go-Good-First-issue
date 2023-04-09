@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 17:38 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 17:48 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -48,22 +53,17 @@
 
 ## safedep/vet <span style='color:#F1C40F'>(53 ⭐️)</span>
 
+- [Fix Linter Issues and Enable `golint` Guard Rail](https://github.com/safedep/vet/issues/55)
+
 - [Support PURL Data Source for Single Package Scanning](https://github.com/safedep/vet/issues/57)
 
 - [Use vet to Implement Safe Consumption of OSS Components for vet](https://github.com/safedep/vet/issues/56)
-
-- [Fix Linter Issues and Enable `golint` Guard Rail](https://github.com/safedep/vet/issues/55)
 
 - [Show Ecosystem Name in Summary Report](https://github.com/safedep/vet/issues/54)
 
 - [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
 
 - [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
