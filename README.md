@@ -4,12 +4,40 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 11:48 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 11:58 UTC.</div>
+
+
+## safedep/vet <span style='color:#F1C40F'>(52 ⭐️)</span>
+
+- [Show Ecosystem Name in Summary Report](https://github.com/safedep/vet/issues/54)
+
+- [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
+
+- [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
 
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [UI - ToolBar - upgrade button](https://github.com/komodorio/helm-dashboard/issues/264)
+
+- [Add link to the v1.3.0 badge in README](https://github.com/komodorio/helm-dashboard/issues/318)
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
+
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [UI - General - Install Modal](https://github.com/komodorio/helm-dashboard/issues/259)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
+
+- [UI - General - Uninstall modal](https://github.com/komodorio/helm-dashboard/issues/257)
+
+- [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
 
 
 ## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
@@ -156,15 +184,6 @@
 - [优化项目内的测试用例，使得测试用例之间可以并行执行，减少CI执行时间](https://github.com/polarismesh/polaris/issues/1073)
 
 
-## safedep/vet <span style='color:#F1C40F'>(52 ⭐️)</span>
-
-- [Show Ecosystem Name in Summary Report](https://github.com/safedep/vet/issues/54)
-
-- [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
-
-- [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
-
-
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
@@ -283,8 +302,6 @@
 - [Feature: Log compaction](https://github.com/memphisdev/memphis/issues/861)
 
 - [Ability to set infinite retention](https://github.com/memphisdev/memphis/issues/858)
-
-- [Purge messages](https://github.com/memphisdev/memphis/issues/793)
 
 - [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
 
