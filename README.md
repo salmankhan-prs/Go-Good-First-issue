@@ -4,25 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 13:58 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 14:08 UTC.</div>
 
 
-## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
 
-- [UI - ToolBar - upgrade button](https://github.com/komodorio/helm-dashboard/issues/264)
-
-- [Add link to the v1.3.0 badge in README](https://github.com/komodorio/helm-dashboard/issues/318)
-
-- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
-
-- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
-
-- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## drorIvry/rego <span style='color:#F1C40F'>(7 ⭐️)</span>
@@ -38,9 +25,20 @@
 - [docker deployment](https://github.com/drorIvry/rego/issues/12)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
 
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [Add link to the v1.3.0 badge in README](https://github.com/komodorio/helm-dashboard/issues/318)
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## rsteube/carapace-bin <span style='color:#F1C40F'>(193 ⭐️)</span>
@@ -217,6 +215,11 @@
 - [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
 
 - [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
+
+
+## apache/dubbo-go-pixiu <span style='color:#F1C40F'>(431 ⭐️)</span>
+
+- [Http proxy connection can not reuse between pixiu and upstream](https://github.com/apache/dubbo-go-pixiu/issues/558)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(716 ⭐️)</span>
