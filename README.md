@@ -4,12 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 13:18 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 13:28 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
 
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## rsteube/carapace-bin <span style='color:#F1C40F'>(193 ⭐️)</span>
+
+- [tea](https://github.com/rsteube/carapace-bin/issues/1643)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -49,6 +54,8 @@
 
 ## safedep/vet <span style='color:#F1C40F'>(53 ⭐️)</span>
 
+- [Use vet to Implement Safe Consumption of OSS Components for vet](https://github.com/safedep/vet/issues/56)
+
 - [Fix Linter Issues and Enable `golint` Guard Rail](https://github.com/safedep/vet/issues/55)
 
 - [Show Ecosystem Name in Summary Report](https://github.com/safedep/vet/issues/54)
@@ -58,6 +65,11 @@
 - [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
 
 
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
 
 - [Remove unused code from MetaRangeManager](https://github.com/treeverse/lakeFS/issues/5605)
@@ -65,11 +77,6 @@
 - [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
 
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -101,11 +108,6 @@
 - [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
 
 
-## rsteube/carapace-bin <span style='color:#F1C40F'>(193 ⭐️)</span>
-
-- [tea](https://github.com/rsteube/carapace-bin/issues/1643)
-
-
 ## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
 
 - [Simplify client handling and reduce concurrency latency by embedding the client in the BackendService struct](https://github.com/Frontman-Labs/frontman/issues/103)
@@ -119,6 +121,13 @@
 - [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
 
 - [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 
 ## minekube/gate <span style='color:#F1C40F'>(296 ⭐️)</span>
@@ -182,6 +191,11 @@
 - [feat(service): Add [iMessage] service](https://github.com/nikoksr/notify/issues/564)
 
 - [feat(service): Add IOS web push service](https://github.com/nikoksr/notify/issues/548)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
@@ -319,15 +333,4 @@
 - [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
 
 - [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
-
-
-## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [Feature: Log compaction](https://github.com/memphisdev/memphis/issues/861)
-
-- [Ability to set infinite retention](https://github.com/memphisdev/memphis/issues/858)
-
-- [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
-
-- [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
