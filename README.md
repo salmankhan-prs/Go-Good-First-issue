@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 08:18 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 08:28 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
@@ -103,6 +103,13 @@
 ## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [优化项目内的测试用例，使得测试用例之间可以并行执行，减少CI执行时间](https://github.com/polarismesh/polaris/issues/1073)
+
+
+## safedep/vet <span style='color:#F1C40F'>(52 ⭐️)</span>
+
+- [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
+
+- [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -286,13 +293,4 @@
 - [Docker compose settings up should pull latest image](https://github.com/PuremlHQ/PureML/issues/181)
 
 - [CLI Documentation for Self-Hosting Usage](https://github.com/PuremlHQ/PureML/issues/179)
-
-
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
