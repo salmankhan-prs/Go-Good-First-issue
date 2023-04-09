@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 19:48 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 19:58 UTC.</div>
+
+
+## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [Feature: Log compaction](https://github.com/memphisdev/memphis/issues/861)
+
+- [Ability to set infinite retention](https://github.com/memphisdev/memphis/issues/858)
+
+- [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
+
+- [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 
 ## kubernetes-sigs/kpng <span style='color:#F1C40F'>(197 ⭐️)</span>
@@ -127,13 +138,13 @@
 
 ## safedep/vet <span style='color:#F1C40F'>(53 ⭐️)</span>
 
+- [Show Ecosystem Name in Summary Report](https://github.com/safedep/vet/issues/54)
+
 - [Fix Linter Issues and Enable `golint` Guard Rail](https://github.com/safedep/vet/issues/55)
 
 - [Support PURL Data Source for Single Package Scanning](https://github.com/safedep/vet/issues/57)
 
 - [Use vet to Implement Safe Consumption of OSS Components for vet](https://github.com/safedep/vet/issues/56)
-
-- [Show Ecosystem Name in Summary Report](https://github.com/safedep/vet/issues/54)
 
 - [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
 
@@ -202,22 +213,18 @@
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
 
-## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [Feature: Log compaction](https://github.com/memphisdev/memphis/issues/861)
-
-- [Ability to set infinite retention](https://github.com/memphisdev/memphis/issues/858)
-
-- [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
-
-- [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
-
-
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
 
 - [Explore moving `readFile` to `host_id_bsd.go`](https://github.com/open-telemetry/opentelemetry-go/issues/3972)
 
 - [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
+
+- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -366,9 +373,4 @@
 - [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
 
 - [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
-
-
-## apache/dubbo-go-pixiu <span style='color:#F1C40F'>(431 ⭐️)</span>
-
-- [Http proxy connection can not reuse between pixiu and upstream](https://github.com/apache/dubbo-go-pixiu/issues/558)
 
