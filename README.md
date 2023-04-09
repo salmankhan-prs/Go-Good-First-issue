@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 20:38 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 20:48 UTC.</div>
+
+
+## open-telemetry/opentelemetry-go-contrib <span style='color:#F1C40F'>(712 ⭐️)</span>
+
+- [otelgrpc: add WithSpanOptions](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/3683)
+
+- [Remove `semver:` prefix from instrumentation version](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/3681)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
