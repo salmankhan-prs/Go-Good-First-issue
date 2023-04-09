@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 03:38 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 03:48 UTC.</div>
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
@@ -223,26 +223,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## PuremlHQ/PureML <span style='color:#F1C40F'>(112 ⭐️)</span>
-
-- [Replace the 'github star' btn with custom github star btn](https://github.com/PuremlHQ/PureML/issues/173)
-
-- [selected tab 'Data Lineage' should be highlighted in datasets version](https://github.com/PuremlHQ/PureML/issues/182)
-
-- [Docker compose settings up should pull latest image](https://github.com/PuremlHQ/PureML/issues/181)
-
-- [CLI Documentation for Self-Hosting Usage](https://github.com/PuremlHQ/PureML/issues/179)
-
-
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
 ## PuremlHQ/PureML <span style='color:#F1C40F'>(112 ⭐️)</span>
