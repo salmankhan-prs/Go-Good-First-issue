@@ -4,7 +4,20 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 14:58 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 15:08 UTC.</div>
+
+
+## drorIvry/rego <span style='color:#F1C40F'>(7 ⭐️)</span>
+
+- [Add an actual CI/CD](https://github.com/drorIvry/rego/issues/14)
+
+- [support external DBs](https://github.com/drorIvry/rego/issues/10)
+
+- [add a workflow option](https://github.com/drorIvry/rego/issues/11)
+
+- [Implement a CLI](https://github.com/drorIvry/rego/issues/13)
+
+- [docker deployment](https://github.com/drorIvry/rego/issues/12)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -63,19 +76,6 @@
 - [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
 
 - [冰哥，最新更新消息丢给责任链这个源码，看不懂，能不能开个教程啊！](https://github.com/aceld/zinx/issues/185)
-
-
-## drorIvry/rego <span style='color:#F1C40F'>(7 ⭐️)</span>
-
-- [Add an actual CI/CD](https://github.com/drorIvry/rego/issues/14)
-
-- [support external DBs](https://github.com/drorIvry/rego/issues/10)
-
-- [add a workflow option](https://github.com/drorIvry/rego/issues/11)
-
-- [Implement a CLI](https://github.com/drorIvry/rego/issues/13)
-
-- [docker deployment](https://github.com/drorIvry/rego/issues/12)
 
 
 ## cloudwego/hertz <span style='color:#F1C40F'>(3.4K ⭐️)</span>
