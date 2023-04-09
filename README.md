@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 16:18 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 16:28 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -49,11 +54,6 @@
 - [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
 
 - [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## drorIvry/rego <span style='color:#F1C40F'>(7 ⭐️)</span>
