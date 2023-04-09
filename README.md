@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 04:48 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 04:58 UTC.</div>
+
+
+## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [优化项目内的测试用例，使得测试用例之间可以并行执行，减少CI执行时间](https://github.com/polarismesh/polaris/issues/1073)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -288,11 +293,6 @@
 ## GoogleContainerTools/kpt <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
 - [`kpt live` does not support YAML merging arrays ](https://github.com/GoogleContainerTools/kpt/issues/3897)
-
-
-## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [优化项目内的测试用例，使得测试用例之间可以并行执行，减少CI执行时间](https://github.com/polarismesh/polaris/issues/1073)
 
 
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
