@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 02:28 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 02:38 UTC.</div>
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
+
+- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -185,17 +196,6 @@
 - [invalid `--distribution-spec` flag returns wrong error information](https://github.com/oras-project/oras/issues/897)
 
 - [trigger dependabot for nested e2e go module](https://github.com/oras-project/oras/issues/876)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
-
-- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
