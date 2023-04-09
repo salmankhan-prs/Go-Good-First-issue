@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 06:28 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 06:38 UTC.</div>
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
@@ -299,21 +299,4 @@
 - [(feature) relay-proxy: Using notifier to add prometheus metrics when flag change](https://github.com/thomaspoignant/go-feature-flag/issues/665)
 
 - [(documentation) Explain better how data export is working and why we have it](https://github.com/thomaspoignant/go-feature-flag/issues/661)
-
-
-## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [UI - ToolBar - upgrade button](https://github.com/komodorio/helm-dashboard/issues/264)
-
-- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
-
-- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
-
-- [UI - General - Install Modal](https://github.com/komodorio/helm-dashboard/issues/259)
-
-- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
-
-- [UI - General - Uninstall modal](https://github.com/komodorio/helm-dashboard/issues/257)
-
-- [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
 
