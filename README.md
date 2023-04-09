@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 13:38 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 13:48 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## drorIvry/rego <span style='color:#F1C40F'>(7 ⭐️)</span>
@@ -78,11 +83,6 @@
 - [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
 
 - [Remove unused code from MetaRangeManager](https://github.com/treeverse/lakeFS/issues/5605)
@@ -112,11 +112,7 @@
 
 - [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
 
-- [UI - General - Install Modal](https://github.com/komodorio/helm-dashboard/issues/259)
-
 - [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
-
-- [UI - General - Uninstall modal](https://github.com/komodorio/helm-dashboard/issues/257)
 
 - [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
 
