@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 18:38 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 18:48 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## hay-kot/homebox <span style='color:#F1C40F'>(846 ⭐️)</span>
+
+- [Field Search API Doesn't Return Values](https://github.com/hay-kot/homebox/issues/391)
+
+- [Reset Search Button Does Not Reset All Fields](https://github.com/hay-kot/homebox/issues/392)
 
 
 ## dapr/components-contrib <span style='color:#F1C40F'>(439 ⭐️)</span>
@@ -18,11 +30,6 @@
 - [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
 
 - [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
