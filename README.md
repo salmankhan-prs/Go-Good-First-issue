@@ -4,12 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 12:08 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 12:18 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
 
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
+
+- [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
 
 
 ## safedep/vet <span style='color:#F1C40F'>(52 ⭐️)</span>
@@ -149,11 +154,6 @@
 - [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
 
 - [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
-
-
-## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
-
-- [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(716 ⭐️)</span>
@@ -313,9 +313,4 @@
 - [[FEAT] Update Smartctl database](https://github.com/AnalogJ/scrutiny/issues/460)
 
 - [[FEAT] Add indicator for data written to disk](https://github.com/AnalogJ/scrutiny/issues/458)
-
-
-## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
 
