@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 19:18 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 19:28 UTC.</div>
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -217,11 +222,6 @@
 - [docs: describe how to generate secret from cert file](https://github.com/apache/apisix-ingress-controller/issues/1767)
 
 
-## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
-
-- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
-
-
 ## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [tracee cmdline output (help, list events, list signatures) should have tabled output](https://github.com/aquasecurity/tracee/issues/2972)
@@ -276,11 +276,4 @@
 - [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
 
 - [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
