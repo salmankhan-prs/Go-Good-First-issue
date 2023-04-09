@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 10:48 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 10:58 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -86,6 +86,11 @@
 - [Introduce codecov](https://github.com/omissis/go-jsonschema/issues/58)
 
 - [Update github actions](https://github.com/omissis/go-jsonschema/issues/57)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
 
 ## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -294,9 +299,4 @@
 ## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
-
-
-## KonstantinGasser/scotty <span style='color:#F1C40F'>(3 ⭐️)</span>
-
-- [implement new network interface (tcp:ip) to beam logs to scotty](https://github.com/KonstantinGasser/scotty/issues/12)
 
