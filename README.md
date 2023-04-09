@@ -4,12 +4,19 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 09:28 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 09:38 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
 
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## minekube/gate <span style='color:#F1C40F'>(296 ⭐️)</span>
+
+- [feat: Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
+
+- [docs: Restoring online skins for offline/cracked players](https://github.com/minekube/gate/issues/195)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
@@ -73,6 +80,13 @@
 - [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
 
 - [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
+
+
+## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
+
+- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
+
+- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
 
 
 ## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
