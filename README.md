@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 18:08 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 18:18 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -18,6 +18,8 @@
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
 
 - [Check for extra arguments in WebsocketMessage constructor](https://github.com/gavv/httpexpect/issues/392)
 
@@ -34,8 +36,6 @@
 - [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
 
 - [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
-
-- [Convert canon tests to table-driven style](https://github.com/gavv/httpexpect/issues/360)
 
 - [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
 
@@ -140,6 +140,17 @@
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
+
+
+## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [Feature: Log compaction](https://github.com/memphisdev/memphis/issues/861)
+
+- [Ability to set infinite retention](https://github.com/memphisdev/memphis/issues/858)
+
+- [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
+
+- [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
@@ -271,76 +282,4 @@
 ## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
 
 - [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
-
-
-## cilium/cilium-cli <span style='color:#F1C40F'>(215 ⭐️)</span>
-
-- [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
-
-
-## omissis/go-jsonschema <span style='color:#F1C40F'>(310 ⭐️)</span>
-
-- [Introduce goreleaser](https://github.com/omissis/go-jsonschema/issues/60)
-
-- [Introduce renovate or dependabot](https://github.com/omissis/go-jsonschema/issues/59)
-
-- [Introduce codecov](https://github.com/omissis/go-jsonschema/issues/58)
-
-- [Update github actions](https://github.com/omissis/go-jsonschema/issues/57)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-
-## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [feat(service): Add [iMessage] service](https://github.com/nikoksr/notify/issues/564)
-
-- [feat(service): Add IOS web push service](https://github.com/nikoksr/notify/issues/548)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
-
-- [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
-
-
-## apache/dubbo-go-pixiu <span style='color:#F1C40F'>(431 ⭐️)</span>
-
-- [Http proxy connection can not reuse between pixiu and upstream](https://github.com/apache/dubbo-go-pixiu/issues/558)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(716 ⭐️)</span>
-
-- [Remove wasmEnabledProposals []wasm.ProposalType from NewOsmosisApp](https://github.com/osmosis-labs/osmosis/issues/4865)
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
-
-- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
-
-- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
