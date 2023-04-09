@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 18:58 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 19:08 UTC.</div>
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -283,11 +283,4 @@
 - [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
 
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-
-## minekube/gate <span style='color:#F1C40F'>(296 ⭐️)</span>
-
-- [feat: Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
-
-- [docs: Restoring online skins for offline/cracked players](https://github.com/minekube/gate/issues/195)
 
