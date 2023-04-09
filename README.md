@@ -4,12 +4,30 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 19:28 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 19:38 UTC.</div>
+
+
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
 
 - [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
+
+
+## jatalocks/terracove <span style='color:#F1C40F'>(1 ⭐️)</span>
+
+- [✨  Github Action](https://github.com/jatalocks/terracove/issues/5)
+
+- [⚠️ Warn on missing terraform/terragrunt binaries](https://github.com/jatalocks/terracove/issues/7)
+
+- [🔊 Refactor logging mechanism](https://github.com/jatalocks/terracove/issues/6)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -42,6 +60,11 @@
 - [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
 
 - [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+
+- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -141,15 +164,6 @@
 ## rsteube/carapace-bin <span style='color:#F1C40F'>(193 ⭐️)</span>
 
 - [tea](https://github.com/rsteube/carapace-bin/issues/1643)
-
-
-## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
-
-- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
-
-- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
 
 
 ## drorIvry/rego <span style='color:#F1C40F'>(7 ⭐️)</span>
@@ -276,4 +290,80 @@
 - [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
 
 - [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+
+## minekube/gate <span style='color:#F1C40F'>(296 ⭐️)</span>
+
+- [feat: Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
+
+- [docs: Restoring online skins for offline/cracked players](https://github.com/minekube/gate/issues/195)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
+
+- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
+
+
+## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
+
+- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
+
+
+## cilium/cilium-cli <span style='color:#F1C40F'>(215 ⭐️)</span>
+
+- [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
+
+
+## omissis/go-jsonschema <span style='color:#F1C40F'>(310 ⭐️)</span>
+
+- [Introduce goreleaser](https://github.com/omissis/go-jsonschema/issues/60)
+
+- [Introduce renovate or dependabot](https://github.com/omissis/go-jsonschema/issues/59)
+
+- [Introduce codecov](https://github.com/omissis/go-jsonschema/issues/58)
+
+- [Update github actions](https://github.com/omissis/go-jsonschema/issues/57)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
+
+
+## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [feat(service): Add [iMessage] service](https://github.com/nikoksr/notify/issues/564)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
+
+- [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
+
+
+## apache/dubbo-go-pixiu <span style='color:#F1C40F'>(431 ⭐️)</span>
+
+- [Http proxy connection can not reuse between pixiu and upstream](https://github.com/apache/dubbo-go-pixiu/issues/558)
 
