@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 08:28 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 08:38 UTC.</div>
+
+
+## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
+
+- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
@@ -33,11 +43,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## omissis/go-jsonschema <span style='color:#F1C40F'>(310 ⭐️)</span>
@@ -293,4 +298,108 @@
 - [Docker compose settings up should pull latest image](https://github.com/PuremlHQ/PureML/issues/181)
 
 - [CLI Documentation for Self-Hosting Usage](https://github.com/PuremlHQ/PureML/issues/179)
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(672 ⭐️)</span>
+
+- [(feature) Implement Open-feature web provider.](https://github.com/thomaspoignant/go-feature-flag/issues/662)
+
+- [ (feature) Implement open-feature provider cache for the Javascript provider ](https://github.com/thomaspoignant/go-feature-flag/issues/659)
+
+- [(feature) relay-proxy: Using notifier to add prometheus metrics when flag change](https://github.com/thomaspoignant/go-feature-flag/issues/665)
+
+- [(documentation) Explain better how data export is working and why we have it](https://github.com/thomaspoignant/go-feature-flag/issues/661)
+
+
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [UI - ToolBar - upgrade button](https://github.com/komodorio/helm-dashboard/issues/264)
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
+
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [UI - General - Install Modal](https://github.com/komodorio/helm-dashboard/issues/259)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
+
+- [UI - General - Uninstall modal](https://github.com/komodorio/helm-dashboard/issues/257)
+
+- [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
+
+
+## cilium/cilium-cli <span style='color:#F1C40F'>(213 ⭐️)</span>
+
+- [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
+
+
+## GoogleContainerTools/kpt <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [`kpt live` does not support YAML merging arrays ](https://github.com/GoogleContainerTools/kpt/issues/3897)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Docs seem wrong about installCRDs](https://github.com/external-secrets/external-secrets/issues/2209)
+
+- [Helm - Provide good securityContext by default](https://github.com/external-secrets/external-secrets/issues/2207)
+
+- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
+
+- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(776 ⭐️)</span>
+
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
+
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(17 ⭐️)</span>
+
+- [Implement `turso db hints` command](https://github.com/chiselstrike/turso-cli/issues/319)
+
+- [Native Windows support](https://github.com/chiselstrike/turso-cli/issues/318)
+
+- [Add `turso tutorial` command and call it from Homebrew postinstall](https://github.com/chiselstrike/turso-cli/issues/300)
+
+- [`turso db inspect` should show more than just space](https://github.com/chiselstrike/turso-cli/issues/303)
+
+- [Destroying instances is cumbersome](https://github.com/chiselstrike/turso-cli/issues/283)
+
+
+## oauth2-proxy/oauth2-proxy <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+
+- [Fragment is lost after redirect if --skip-provider-button is set to true](https://github.com/oauth2-proxy/oauth2-proxy/issues/2068)
+
+
+## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
+
+- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(964 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## open-telemetry/opentelemetry-go-contrib <span style='color:#F1C40F'>(710 ⭐️)</span>
+
+- [otelgrpc: add WithSpanOptions](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/3683)
+
+- [Remove `semver:` prefix from instrumentation version](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/3681)
 
