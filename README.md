@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 18:48 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 18:58 UTC.</div>
+
+
+## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
+
+- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
