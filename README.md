@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 06:08 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 06:18 UTC.</div>
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
@@ -311,9 +316,4 @@
 - [UI - General - Uninstall modal](https://github.com/komodorio/helm-dashboard/issues/257)
 
 - [UI - General - Modal Popup](https://github.com/komodorio/helm-dashboard/issues/243)
-
-
-## cilium/cilium-cli <span style='color:#F1C40F'>(213 ⭐️)</span>
-
-- [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
 
