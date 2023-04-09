@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 16:58 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 17:08 UTC.</div>
+
+
+## guacsec/guac <span style='color:#F1C40F'>(776 ⭐️)</span>
+
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
+
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -73,6 +82,11 @@
 ## rsteube/carapace-bin <span style='color:#F1C40F'>(193 ⭐️)</span>
 
 - [tea](https://github.com/rsteube/carapace-bin/issues/1643)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
@@ -171,11 +185,6 @@
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
 
 - [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
@@ -325,13 +334,4 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-
-## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
-
-- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
-
-- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
 
