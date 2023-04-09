@@ -4,7 +4,20 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 18:28 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 18:38 UTC.</div>
+
+
+## dapr/components-contrib <span style='color:#F1C40F'>(439 ⭐️)</span>
+
+- [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
+
+- [Issues with SQL Server state store and MSI auth](https://github.com/dapr/components-contrib/issues/2726)
+
+- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
+
+- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
+
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -263,18 +276,4 @@
 - [feat: Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
 
 - [docs: Restoring online skins for offline/cracked players](https://github.com/minekube/gate/issues/195)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
-## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
-
-- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
 
