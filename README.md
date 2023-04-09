@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 15:28 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 15:38 UTC.</div>
+
+
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
 
 
 ## drorIvry/rego <span style='color:#F1C40F'>(7 ⭐️)</span>
@@ -83,17 +92,6 @@
 - [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
 
 - [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
-
-
-## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
-
-- [Add link to the v1.3.0 badge in README](https://github.com/komodorio/helm-dashboard/issues/318)
-
-- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
-
-- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
