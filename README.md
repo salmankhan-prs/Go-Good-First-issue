@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 02:58 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 03:08 UTC.</div>
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
@@ -343,11 +343,4 @@
 - [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
 
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
-## open-telemetry/opentelemetry-go-contrib <span style='color:#F1C40F'>(710 ⭐️)</span>
-
-- [otelgrpc: add WithSpanOptions](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/3683)
-
-- [Remove `semver:` prefix from instrumentation version](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/3681)
 
