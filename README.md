@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 01:18 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 01:28 UTC.</div>
 
 
 ## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
@@ -84,6 +84,11 @@
 - [[FEAT] Update Smartctl database](https://github.com/AnalogJ/scrutiny/issues/460)
 
 - [[FEAT] Add indicator for data written to disk](https://github.com/AnalogJ/scrutiny/issues/458)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(572 ⭐️)</span>
@@ -227,11 +232,6 @@
 - [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
 ## GoogleContainerTools/kpt <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
 - [`kpt live` does not support YAML merging arrays ](https://github.com/GoogleContainerTools/kpt/issues/3897)
@@ -347,9 +347,4 @@
 ## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
 
 - [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
