@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 09:58 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 10:08 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -71,6 +71,13 @@
 - [Introduce codecov](https://github.com/omissis/go-jsonschema/issues/58)
 
 - [Update github actions](https://github.com/omissis/go-jsonschema/issues/57)
+
+
+## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [feat(service): Add [iMessage] service](https://github.com/nikoksr/notify/issues/564)
+
+- [feat(service): Add IOS web push service](https://github.com/nikoksr/notify/issues/548)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
