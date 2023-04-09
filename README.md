@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 21:28 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 21:38 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -373,9 +373,4 @@
 - [Introduce codecov](https://github.com/omissis/go-jsonschema/issues/58)
 
 - [Update github actions](https://github.com/omissis/go-jsonschema/issues/57)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
