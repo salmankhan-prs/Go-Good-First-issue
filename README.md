@@ -4,14 +4,23 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 22:48 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 22:58 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.2K ⭐️)</span>
 
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
 - [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
@@ -353,18 +362,4 @@
 - [feat: Kubernetes service discovery](https://github.com/minekube/gate/issues/187)
 
 - [docs: Restoring online skins for offline/cracked players](https://github.com/minekube/gate/issues/195)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
-## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
-
-- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
 
