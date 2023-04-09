@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 04:08 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 04:18 UTC.</div>
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -338,9 +338,4 @@
 ## oauth2-proxy/oauth2-proxy <span style='color:#F1C40F'>(6.8K ⭐️)</span>
 
 - [Fragment is lost after redirect if --skip-provider-button is set to true](https://github.com/oauth2-proxy/oauth2-proxy/issues/2068)
-
-
-## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
-
-- [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
 
