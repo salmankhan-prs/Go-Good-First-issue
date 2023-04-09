@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 12:28 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 12:38 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -218,15 +218,6 @@
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
-## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
-
-- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
-
-- [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
-
-
 ## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
 
 - [🎯New Source Connector Request: Google Analytics Source Connector](https://github.com/vanus-labs/vanus-connect/issues/317)
@@ -313,4 +304,27 @@
 - [[FEAT] Update Smartctl database](https://github.com/AnalogJ/scrutiny/issues/460)
 
 - [[FEAT] Add indicator for data written to disk](https://github.com/AnalogJ/scrutiny/issues/458)
+
+
+## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
+
+
+## KonstantinGasser/scotty <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [implement new network interface (tcp:ip) to beam logs to scotty](https://github.com/KonstantinGasser/scotty/issues/12)
+
+
+## oras-project/oras <span style='color:#F1C40F'>(896 ⭐️)</span>
+
+- [Avoid requiring passing --plain-http when specifying --insecure](https://github.com/oras-project/oras/issues/914)
+
+- [add command to get the digest of a tagged manifest without parsing output](https://github.com/oras-project/oras/issues/907)
+
+- [add OCI layout support in command help doc](https://github.com/oras-project/oras/issues/904)
+
+- [invalid `--distribution-spec` flag returns wrong error information](https://github.com/oras-project/oras/issues/897)
+
+- [trigger dependabot for nested e2e go module](https://github.com/oras-project/oras/issues/876)
 
