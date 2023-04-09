@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 11:38 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 11:48 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -157,6 +157,8 @@
 
 
 ## safedep/vet <span style='color:#F1C40F'>(52 ⭐️)</span>
+
+- [Show Ecosystem Name in Summary Report](https://github.com/safedep/vet/issues/54)
 
 - [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
 
