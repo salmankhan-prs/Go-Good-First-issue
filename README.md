@@ -4,7 +4,20 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 13:28 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 13:38 UTC.</div>
+
+
+## drorIvry/rego <span style='color:#F1C40F'>(7 ⭐️)</span>
+
+- [Add an actual CI/CD](https://github.com/drorIvry/rego/issues/14)
+
+- [support external DBs](https://github.com/drorIvry/rego/issues/10)
+
+- [add a workflow option](https://github.com/drorIvry/rego/issues/11)
+
+- [Implement a CLI](https://github.com/drorIvry/rego/issues/13)
+
+- [docker deployment](https://github.com/drorIvry/rego/issues/12)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
