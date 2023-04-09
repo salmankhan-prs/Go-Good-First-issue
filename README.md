@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 21:38 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 21:48 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -362,15 +362,4 @@
 ## cilium/cilium-cli <span style='color:#F1C40F'>(215 ⭐️)</span>
 
 - [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
-
-
-## omissis/go-jsonschema <span style='color:#F1C40F'>(310 ⭐️)</span>
-
-- [Introduce goreleaser](https://github.com/omissis/go-jsonschema/issues/60)
-
-- [Introduce renovate or dependabot](https://github.com/omissis/go-jsonschema/issues/59)
-
-- [Introduce codecov](https://github.com/omissis/go-jsonschema/issues/58)
-
-- [Update github actions](https://github.com/omissis/go-jsonschema/issues/57)
 
