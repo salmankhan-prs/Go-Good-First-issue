@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 16:48 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 16:58 UTC.</div>
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -14,8 +14,6 @@
 - [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/386)
 
 - [Split TestValue_Schema into subtests](https://github.com/gavv/httpexpect/issues/385)
-
-- [Convert TestValue_Getters to table-driven style](https://github.com/gavv/httpexpect/issues/384)
 
 - [Convert TestRequest_Conflicts to table-driven style](https://github.com/gavv/httpexpect/issues/383)
 
