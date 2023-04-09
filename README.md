@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 11:08 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 11:18 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -67,6 +67,11 @@
 - [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
 
 
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
@@ -109,13 +114,6 @@
 - [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
 
 - [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
-
-
-## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
-
-- [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
 
 
 ## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
