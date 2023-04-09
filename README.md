@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 21:08 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 21:18 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## hauke96/wiki2book <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -17,6 +22,11 @@
 - [otelgrpc: add WithSpanOptions](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/3683)
 
 - [Remove `semver:` prefix from instrumentation version](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/3681)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -58,11 +68,6 @@
 - [🔊 Refactor logging mechanism](https://github.com/jatalocks/terracove/issues/6)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
 
 - [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
@@ -77,11 +82,6 @@
 - [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
 
 - [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## hay-kot/homebox <span style='color:#F1C40F'>(846 ⭐️)</span>
