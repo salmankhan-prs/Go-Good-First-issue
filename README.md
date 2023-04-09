@@ -4,7 +4,20 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 00:28 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 00:38 UTC.</div>
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [[UI] Use white Helm logo in Applications for source type in dark mode](https://github.com/meshery/meshery/issues/7506)
+
+- [[Docs] Wrap words around images in readme.md](https://github.com/meshery/meshery/issues/7496)
+
+- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+
+- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
