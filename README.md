@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 12:48 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 12:58 UTC.</div>
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [tracee cmdline output (help, list events, list signatures) should have tabled output](https://github.com/aquasecurity/tracee/issues/2972)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -31,7 +38,9 @@
 - [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
 
 
-## safedep/vet <span style='color:#F1C40F'>(52 ⭐️)</span>
+## safedep/vet <span style='color:#F1C40F'>(53 ⭐️)</span>
+
+- [Fix Linter Issues and Enable `golint` Guard Rail](https://github.com/safedep/vet/issues/55)
 
 - [Show Ecosystem Name in Summary Report](https://github.com/safedep/vet/issues/54)
 
