@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 11:58 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 12:08 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## safedep/vet <span style='color:#F1C40F'>(52 ⭐️)</span>
@@ -14,11 +19,6 @@
 - [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
 
 - [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
