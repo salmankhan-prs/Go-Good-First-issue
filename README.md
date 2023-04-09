@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 10:28 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 10:38 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
@@ -20,11 +25,6 @@
 - [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
 
 - [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## minekube/gate <span style='color:#F1C40F'>(296 ⭐️)</span>
@@ -237,6 +237,13 @@
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
+## defenseunicorns/zarf <span style='color:#F1C40F'>(573 ⭐️)</span>
+
+- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [Check for extra arguments in WebsocketMessage constructor](https://github.com/gavv/httpexpect/issues/392)
@@ -282,13 +289,6 @@
 - [[FEAT] Update Smartctl database](https://github.com/AnalogJ/scrutiny/issues/460)
 
 - [[FEAT] Add indicator for data written to disk](https://github.com/AnalogJ/scrutiny/issues/458)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(572 ⭐️)</span>
-
-- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
 
 ## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
