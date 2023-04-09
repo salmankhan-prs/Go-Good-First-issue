@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 21:58 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 22:08 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## rsteube/carapace-bin <span style='color:#F1C40F'>(193 ⭐️)</span>
@@ -27,11 +32,6 @@
 - [otelgrpc: add WithSpanOptions](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/3683)
 
 - [Remove `semver:` prefix from instrumentation version](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/3681)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
