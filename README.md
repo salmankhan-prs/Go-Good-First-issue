@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 9, 2023 19:58 UTC.</div>
+<div align='center'>Last updated at April 9, 2023 20:08 UTC.</div>
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -292,8 +292,6 @@
 ## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
 
 - [Simplify client handling and reduce concurrency latency by embedding the client in the BackendService struct](https://github.com/Frontman-Labs/frontman/issues/103)
-
-- [Optimize regex compilation by reusing compiled regex](https://github.com/Frontman-Labs/frontman/issues/101)
 
 - [Remove redundant lockings if possible ](https://github.com/Frontman-Labs/frontman/issues/82)
 
