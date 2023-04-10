@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 22:18 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 22:28 UTC.</div>
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
+
+- [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(776 ⭐️)</span>
@@ -14,6 +21,18 @@
 - [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
 
 - [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(967 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -26,13 +45,6 @@
 ## cli/cli <span style='color:#F1C40F'>(32.0K ⭐️)</span>
 
 - [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(967 ⭐️)</span>
-
-- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -288,11 +300,6 @@
 - [docker deployment](https://github.com/drorIvry/rego/issues/12)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(276 ⭐️)</span>
 
 - [Deprecate support for short JobIDs](https://github.com/bacalhau-project/bacalhau/issues/2298)
@@ -300,13 +307,6 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
-
-- [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
 
 
 ## cosmos/ibc-go <span style='color:#F1C40F'>(354 ⭐️)</span>
@@ -337,13 +337,4 @@
 - [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
 
 - [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
-
-
-## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(245 ⭐️)</span>
-
-- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
-
-- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
-
-- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
 
