@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 04:18 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 04:28 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
@@ -51,6 +51,13 @@
 - [优化项目内的测试用例，使得测试用例之间可以并行执行，减少CI执行时间](https://github.com/polarismesh/polaris/issues/1073)
 
 - [windows添加一键启动](https://github.com/polarismesh/polaris/issues/1072)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
+
+- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -305,9 +312,4 @@
 - [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
 
 - [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
-
-
-## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
-
-- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
 
