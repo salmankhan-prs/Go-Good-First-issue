@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 18:48 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 18:58 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## roc-streaming/roc-go <span style='color:#F1C40F'>(14 ⭐️)</span>
+
+- [Add version checking](https://github.com/roc-streaming/roc-go/issues/71)
+
+- [Add debug logging](https://github.com/roc-streaming/roc-go/issues/70)
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+
+- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(716 ⭐️)</span>
@@ -12,13 +29,6 @@
 - [Remove wasmEnabledProposals []wasm.ProposalType from NewOsmosisApp](https://github.com/osmosis-labs/osmosis/issues/4865)
 
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.9K ⭐️)</span>
@@ -46,16 +56,6 @@
 - [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
 
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
-
-- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -352,14 +352,4 @@
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
 
 - [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
-
-
-## adobe/k8s-shredder <span style='color:#F1C40F'>(11 ⭐️)</span>
-
-- [Investigate CI e2e flakiness](https://github.com/adobe/k8s-shredder/issues/38)
-
-
-## onflow/flow-core-contracts <span style='color:#F1C40F'>(81 ⭐️)</span>
-
-- [Add support to Staking contract to separate operational from financial capabilities ](https://github.com/onflow/flow-core-contracts/issues/358)
 
