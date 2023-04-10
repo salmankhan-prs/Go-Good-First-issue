@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 03:38 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 03:48 UTC.</div>
+
+
+## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [优化项目内的测试用例，使得测试用例之间可以并行执行，减少CI执行时间](https://github.com/polarismesh/polaris/issues/1073)
+
+- [windows添加一键启动](https://github.com/polarismesh/polaris/issues/1072)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -54,18 +61,24 @@
 - [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
 
 
-## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [优化项目内的测试用例，使得测试用例之间可以并行执行，减少CI执行时间](https://github.com/polarismesh/polaris/issues/1073)
-
-- [windows添加一键启动](https://github.com/polarismesh/polaris/issues/1072)
-
-
 ## cloudwego/hertz <span style='color:#F1C40F'>(3.5K ⭐️)</span>
 
 - [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
 
 - [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -313,18 +326,4 @@
 - [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
 
 - [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
-
-
-## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
-
-- [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
-
-
-## keploy/keploy <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
-
-- [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
 
