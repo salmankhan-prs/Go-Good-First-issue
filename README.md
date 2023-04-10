@@ -4,12 +4,42 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 15:28 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 15:38 UTC.</div>
+
+
+## csunibo/informabot <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Rimuovere virtuale, teams, website](https://github.com/csunibo/informabot/issues/86)
+
+- [Prof che mettono le aule come annuncio anziché come aule](https://github.com/csunibo/informabot/issues/84)
+
+- [scrittura test Go](https://github.com/csunibo/informabot/issues/85)
+
+- [/manutenzione o qualcosa di simile](https://github.com/csunibo/informabot/issues/80)
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(886 ⭐️)</span>
 
 - [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
+
+
+## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
+
+- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
+
+- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
+
+
+## celestiaorg/celestia-core <span style='color:#F1C40F'>(292 ⭐️)</span>
+
+- [Add a local config for blocksize for block proposers](https://github.com/celestiaorg/celestia-core/issues/993)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -240,6 +270,11 @@
 - [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
 
 
+## drand/drand <span style='color:#F1C40F'>(600 ⭐️)</span>
+
+- [API returns 500 instead of 4xx if no beacon handler for chain hash](https://github.com/drand/drand/issues/1207)
+
+
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(927 ⭐️)</span>
 
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
@@ -307,24 +342,4 @@
 - [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
 
 - [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [[UI] Use white Helm logo in Applications for source type in dark mode](https://github.com/meshery/meshery/issues/7506)
-
-- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
-
-- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-
-## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Update NPM dependencies and Dependabot should be configured for OpenCost UI](https://github.com/opencost/opencost/issues/1848)
-
-- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
-
-- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
