@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 14:38 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 14:48 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## adobe/k8s-shredder <span style='color:#F1C40F'>(11 ⭐️)</span>
@@ -24,11 +29,6 @@
 ## onflow/flow-core-contracts <span style='color:#F1C40F'>(81 ⭐️)</span>
 
 - [Add support to Staking contract to separate operational from financial capabilities ](https://github.com/onflow/flow-core-contracts/issues/358)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
@@ -207,6 +207,17 @@
 - [For "redistributionstate" endpoint, change "lastPlayedRound" to actually show last round played, and add "lastSelectedRound" so show if the node's neighborhood was selected](https://github.com/ethersphere/bee/issues/3979)
 
 
+## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [Feature: Log compaction](https://github.com/memphisdev/memphis/issues/861)
+
+- [Ability to set infinite retention](https://github.com/memphisdev/memphis/issues/858)
+
+- [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
+
+- [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
+
+
 ## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
 
 - [feature: support pulling multiple images at the same time](https://github.com/labring/sealos/issues/2921)
@@ -327,40 +338,4 @@
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
 
 - [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
-
-
-## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [create common options, remove intermediate layers](https://github.com/k8stopologyawareschedwg/deployer/issues/182)
-
-- [add option to control the scheduler verbosity](https://github.com/k8stopologyawareschedwg/deployer/issues/189)
-
-- [manifests: scheduler should run in the control plane (default, but overridable)](https://github.com/k8stopologyawareschedwg/deployer/issues/177)
-
-- [manifests: updaters should NOT run in the control plane](https://github.com/k8stopologyawareschedwg/deployer/issues/176)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Remove unused code from MetaRangeManager](https://github.com/treeverse/lakeFS/issues/5605)
-
-- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
-
-- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(674 ⭐️)</span>
-
-- [(feature) Implement Open-feature web provider.](https://github.com/thomaspoignant/go-feature-flag/issues/662)
-
-- [ (feature) Implement open-feature provider cache for the Javascript provider ](https://github.com/thomaspoignant/go-feature-flag/issues/659)
-
-- [(feature) relay-proxy: Using notifier to add prometheus metrics when flag change](https://github.com/thomaspoignant/go-feature-flag/issues/665)
-
-- [(documentation) Explain better how data export is working and why we have it](https://github.com/thomaspoignant/go-feature-flag/issues/661)
-
-
-## gruntwork-io/terragrunt <span style='color:#F1C40F'>(6.7K ⭐️)</span>
-
-- [help message missing --terragrunt-source-map](https://github.com/gruntwork-io/terragrunt/issues/2521)
 
