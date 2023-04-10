@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 11:28 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 11:38 UTC.</div>
+
+
+## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
+
+- [🎯New Source Connector Request: Google Analytics Source Connector](https://github.com/vanus-labs/vanus-connect/issues/317)
+
+- [🎯 New Sink Connector Request: APITable](https://github.com/vanus-labs/vanus-connect/issues/314)
+
+- [🎯New Source Connector Request: Facebook Marketing Source Connector](https://github.com/vanus-labs/vanus-connect/issues/315)
+
+
+## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
+
+- [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
 
 
 ## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -222,11 +236,6 @@
 - [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
 
 
-## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
-
-- [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
-
-
 ## oras-project/oras <span style='color:#F1C40F'>(897 ⭐️)</span>
 
 - [Avoid requiring passing --plain-http when specifying --insecure](https://github.com/oras-project/oras/issues/914)
@@ -325,9 +334,4 @@
 ## cli/cli <span style='color:#F1C40F'>(32.0K ⭐️)</span>
 
 - [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
-
-
-## adobe/k8s-shredder <span style='color:#F1C40F'>(11 ⭐️)</span>
-
-- [Investigate CI e2e flakiness](https://github.com/adobe/k8s-shredder/issues/38)
 
