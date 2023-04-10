@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 17:38 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 17:48 UTC.</div>
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(966 ⭐️)</span>
@@ -12,6 +12,16 @@
 - [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
 
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## knative/pkg <span style='color:#F1C40F'>(236 ⭐️)</span>
+
+- [Eventing TLS: Add AddressableFromDestination method on the resolver](https://github.com/knative/pkg/issues/2714)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
@@ -185,11 +195,6 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(245 ⭐️)</span>
