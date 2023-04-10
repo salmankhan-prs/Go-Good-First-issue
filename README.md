@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 00:28 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 00:38 UTC.</div>
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
