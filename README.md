@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 17:48 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 17:58 UTC.</div>
+
+
+## guacsec/guac <span style='color:#F1C40F'>(776 ⭐️)</span>
+
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
+
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(966 ⭐️)</span>
@@ -17,6 +26,21 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## safedep/vet <span style='color:#F1C40F'>(56 ⭐️)</span>
+
+- [Use vet to Implement Safe Consumption of OSS Components for vet](https://github.com/safedep/vet/issues/56)
+
+- [Show Ecosystem Name in Summary Report](https://github.com/safedep/vet/issues/54)
+
+- [Fix Linter Issues and Enable `golint` Guard Rail](https://github.com/safedep/vet/issues/55)
+
+- [Support PURL Data Source for Single Package Scanning](https://github.com/safedep/vet/issues/57)
+
+- [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
+
+- [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
 
 
 ## knative/pkg <span style='color:#F1C40F'>(236 ⭐️)</span>
@@ -81,15 +105,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## guacsec/guac <span style='color:#F1C40F'>(776 ⭐️)</span>
-
-- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
-
-- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
-
-- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
 
 
 ## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.3K ⭐️)</span>
@@ -254,6 +269,11 @@
 - [Add a local config for blocksize for block proposers](https://github.com/celestiaorg/celestia-core/issues/993)
 
 
+## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
+
+- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
+
+
 ## kcp-dev/kcp <span style='color:#F1C40F'>(1.9K ⭐️)</span>
 
 - [bug: `syncedResources` state should be Pending when APIResourceImport is missing](https://github.com/kcp-dev/kcp/issues/2928)
@@ -328,13 +348,4 @@
 - [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Span sets returned by TraceQL should return the number of all matching spans](https://github.com/grafana/tempo/issues/2307)
-
-- [Add query parameter to Search API to configure the spans per span set](https://github.com/grafana/tempo/issues/2308)
-
-- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
 
