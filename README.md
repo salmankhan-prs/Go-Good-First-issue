@@ -4,12 +4,27 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 14:48 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 14:58 UTC.</div>
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
+
+- [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
 
 
 ## adobe/k8s-shredder <span style='color:#F1C40F'>(11 ⭐️)</span>
@@ -52,14 +67,13 @@
 - [Use state enums in connection handshake log](https://github.com/cosmos/ibc-go/issues/3385)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.2K ⭐️)</span>
 
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
 
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -88,6 +102,13 @@
 ## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
+
+- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
 ## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -305,15 +326,6 @@
 - [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [Missing newline after progress bar](https://github.com/k8sgpt-ai/k8sgpt/issues/99)
-
-- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
-
-- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-
 ## mainflux/mainflux <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [Improve path parameters naming](https://github.com/mainflux/mainflux/issues/1761)
@@ -324,18 +336,4 @@
 - [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
 
 - [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
-
-
-## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
-
-- [🎯New Source Connector Request: Google Analytics Source Connector](https://github.com/vanus-labs/vanus-connect/issues/317)
-
-- [🎯 New Sink Connector Request: APITable](https://github.com/vanus-labs/vanus-connect/issues/314)
-
-- [🎯New Source Connector Request: Facebook Marketing Source Connector](https://github.com/vanus-labs/vanus-connect/issues/315)
-
-
-## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
-
-- [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
 
