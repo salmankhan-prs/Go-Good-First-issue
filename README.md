@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 22:58 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 23:08 UTC.</div>
+
+
+## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
+
+- [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
+
+
+## dapr/components-contrib <span style='color:#F1C40F'>(439 ⭐️)</span>
+
+- [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
+
+- [Issues with SQL Server state store and MSI auth](https://github.com/dapr/components-contrib/issues/2726)
+
+- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
+
+- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
+
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -38,11 +56,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
-
-- [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
