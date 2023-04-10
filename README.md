@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 18:08 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 18:18 UTC.</div>
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
+
+- [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Update NPM dependencies and Dependabot should be configured for OpenCost UI](https://github.com/opencost/opencost/issues/1848)
+
+- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
 
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
