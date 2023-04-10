@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 20:18 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 20:28 UTC.</div>
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+
+- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
+
+
+## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(12.9K ⭐️)</span>
+
+- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
+
+- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
@@ -67,11 +90,6 @@
 - [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
 
 
-## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
-
-- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
-
-
 ## cosmos/ibc-go <span style='color:#F1C40F'>(354 ⭐️)</span>
 
 - [nit: remove "callback" from msg server logging, except where relevant](https://github.com/cosmos/ibc-go/issues/3404)
@@ -129,19 +147,6 @@
 - [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
 
 - [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
-
-- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -229,11 +234,6 @@
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
 
 - [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
-
-
-## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(776 ⭐️)</span>
