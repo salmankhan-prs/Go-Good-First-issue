@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 20:48 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 20:58 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## provenance-io/provenance <span style='color:#F1C40F'>(72 ⭐️)</span>
+
+- [Update table driven unit tests to use named fields.](https://github.com/provenance-io/provenance/issues/1436)
+
+- [Archive our cosmovisor repo](https://github.com/provenance-io/provenance/issues/1420)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [[UI] Use white Helm logo in Applications for source type in dark mode](https://github.com/meshery/meshery/issues/7506)
+
+- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+
+- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -23,13 +46,6 @@
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
 
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
-## provenance-io/provenance <span style='color:#F1C40F'>(72 ⭐️)</span>
-
-- [Update table driven unit tests to use named fields.](https://github.com/provenance-io/provenance/issues/1436)
-
-- [Archive our cosmovisor repo](https://github.com/provenance-io/provenance/issues/1420)
 
 
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -112,9 +128,9 @@
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
 
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
@@ -207,17 +223,6 @@
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
-## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [[UI] Use white Helm logo in Applications for source type in dark mode](https://github.com/meshery/meshery/issues/7506)
-
-- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
-
-- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
 
 - [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
@@ -286,9 +291,4 @@
 - [⚠️ Warn on missing terraform/terragrunt binaries](https://github.com/jatalocks/terracove/issues/7)
 
 - [🔊 Refactor logging mechanism](https://github.com/jatalocks/terracove/issues/6)
-
-
-## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(929 ⭐️)</span>
-
-- [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
 
