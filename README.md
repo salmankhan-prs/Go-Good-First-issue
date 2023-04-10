@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 15:38 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 15:48 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(245 ⭐️)</span>
+
+- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
+
+- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
+
+- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
 
 
 ## csunibo/informabot <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -79,11 +93,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
@@ -196,6 +205,11 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
 
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -316,30 +330,4 @@
 - [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
 
 - [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
-
-- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
-
-
-## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [Check for extra arguments in WebsocketMessage constructor](https://github.com/gavv/httpexpect/issues/392)
-
-- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/386)
-
-- [Split TestValue_Schema into subtests](https://github.com/gavv/httpexpect/issues/385)
-
-- [Convert TestRequest_Conflicts to table-driven style](https://github.com/gavv/httpexpect/issues/383)
-
-- [Improve bodyWrapper GetBody test](https://github.com/gavv/httpexpect/issues/378)
-
-- [Improve bodyWrapper Rewind test](https://github.com/gavv/httpexpect/issues/377)
-
-- [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
-
-- [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
-
-- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
 
