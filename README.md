@@ -4,7 +4,35 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 18:18 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 18:28 UTC.</div>
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(716 ⭐️)</span>
+
+- [Remove wasmEnabledProposals []wasm.ProposalType from NewOsmosisApp](https://github.com/osmosis-labs/osmosis/issues/4865)
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [[UI] Use white Helm logo in Applications for source type in dark mode](https://github.com/meshery/meshery/issues/7506)
+
+- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+
+- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
@@ -49,11 +77,6 @@
 - [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
 
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## safedep/vet <span style='color:#F1C40F'>(56 ⭐️)</span>
@@ -112,22 +135,6 @@
 ## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [Support for nars?](https://github.com/anchore/syft/issues/1701)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [[UI] Use white Helm logo in Applications for source type in dark mode](https://github.com/meshery/meshery/issues/7506)
-
-- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
-
-- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
@@ -203,13 +210,6 @@
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(23 ⭐️)</span>
 
 - [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(716 ⭐️)</span>
-
-- [Remove wasmEnabledProposals []wasm.ProposalType from NewOsmosisApp](https://github.com/osmosis-labs/osmosis/issues/4865)
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
