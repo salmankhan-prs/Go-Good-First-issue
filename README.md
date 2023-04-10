@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 05:18 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 05:28 UTC.</div>
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(672 ⭐️)</span>
@@ -46,6 +51,15 @@
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
 
+## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
 ## adobe/k8s-shredder <span style='color:#F1C40F'>(11 ⭐️)</span>
 
 - [Investigate why goreleaser gh action is failing on arm64 build](https://github.com/adobe/k8s-shredder/issues/41)
@@ -72,15 +86,6 @@
 ## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
 
 - [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -314,11 +319,6 @@
 ## kubernetes-sigs/kpng <span style='color:#F1C40F'>(197 ⭐️)</span>
 
 - [prototype a dpdk impl](https://github.com/kubernetes-sigs/kpng/issues/473)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
-
-- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## jatalocks/terracove <span style='color:#F1C40F'>(3 ⭐️)</span>
