@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 11:18 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 11:28 UTC.</div>
+
+
+## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [create common options, remove intermediate layers](https://github.com/k8stopologyawareschedwg/deployer/issues/182)
+
+- [add option to control the scheduler verbosity](https://github.com/k8stopologyawareschedwg/deployer/issues/189)
+
+- [manifests: scheduler should run in the control plane (default, but overridable)](https://github.com/k8stopologyawareschedwg/deployer/issues/177)
+
+- [manifests: updaters should NOT run in the control plane](https://github.com/k8stopologyawareschedwg/deployer/issues/176)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## cloudwego/hertz <span style='color:#F1C40F'>(3.5K ⭐️)</span>
@@ -28,11 +44,6 @@
 - [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -272,17 +283,6 @@
 - [Add an alert for Argo CD performance issue](https://github.com/cybozu-go/neco/issues/2251)
 
 
-## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [create common options, remove intermediate layers](https://github.com/k8stopologyawareschedwg/deployer/issues/182)
-
-- [add option to control the scheduler verbosity](https://github.com/k8stopologyawareschedwg/deployer/issues/189)
-
-- [manifests: scheduler should run in the control plane (default, but overridable)](https://github.com/k8stopologyawareschedwg/deployer/issues/177)
-
-- [manifests: updaters should NOT run in the control plane](https://github.com/k8stopologyawareschedwg/deployer/issues/176)
-
-
 ## vanus-labs/vanus <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [[Good First Issues]: implement function "extract_pattern" - 7 points](https://github.com/vanus-labs/vanus/issues/587)
@@ -322,7 +322,7 @@
 - [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
-## cli/cli <span style='color:#F1C40F'>(31.9K ⭐️)</span>
+## cli/cli <span style='color:#F1C40F'>(32.0K ⭐️)</span>
 
 - [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
 
