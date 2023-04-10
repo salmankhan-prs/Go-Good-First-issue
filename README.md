@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 20:58 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 21:08 UTC.</div>
+
+
+## opensearch-project/opensearch-go <span style='color:#F1C40F'>(113 ⭐️)</span>
+
+- [[Guide] Bulk](https://github.com/opensearch-project/opensearch-go/issues/278)
+
+- [[Guide] Search](https://github.com/opensearch-project/opensearch-go/issues/277)
+
+- [[Guide] Document Lifecycle](https://github.com/opensearch-project/opensearch-go/issues/276)
+
+- [[Guide] Index Template](https://github.com/opensearch-project/opensearch-go/issues/275)
+
+- [[Guide] Advanced Index Actions](https://github.com/opensearch-project/opensearch-go/issues/274)
+
+- [[Guide] Index Lifecycle](https://github.com/opensearch-project/opensearch-go/issues/273)
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -207,15 +231,6 @@
 - [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
 
 
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(716 ⭐️)</span>
 
 - [Remove wasmEnabledProposals []wasm.ProposalType from NewOsmosisApp](https://github.com/osmosis-labs/osmosis/issues/4865)
@@ -282,13 +297,4 @@
 ## knative/pkg <span style='color:#F1C40F'>(236 ⭐️)</span>
 
 - [Eventing TLS: Add AddressableFromDestination method on the resolver](https://github.com/knative/pkg/issues/2714)
-
-
-## jatalocks/terracove <span style='color:#F1C40F'>(10 ⭐️)</span>
-
-- [✨  Github Action](https://github.com/jatalocks/terracove/issues/5)
-
-- [⚠️ Warn on missing terraform/terragrunt binaries](https://github.com/jatalocks/terracove/issues/7)
-
-- [🔊 Refactor logging mechanism](https://github.com/jatalocks/terracove/issues/6)
 
