@@ -4,14 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 20:38 UTC.</div>
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
+<div align='center'>Last updated at April 10, 2023 20:48 UTC.</div>
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -25,11 +18,25 @@
 - [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
 
 
+## defenseunicorns/zarf <span style='color:#F1C40F'>(574 ⭐️)</span>
+
+- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
 ## provenance-io/provenance <span style='color:#F1C40F'>(72 ⭐️)</span>
 
 - [Update table driven unit tests to use named fields.](https://github.com/provenance-io/provenance/issues/1436)
 
 - [Archive our cosmovisor repo](https://github.com/provenance-io/provenance/issues/1420)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
+
+- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -76,13 +83,6 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
 
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(574 ⭐️)</span>
-
-- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
 
 ## drorIvry/rego <span style='color:#F1C40F'>(8 ⭐️)</span>
@@ -279,7 +279,7 @@
 - [Eventing TLS: Add AddressableFromDestination method on the resolver](https://github.com/knative/pkg/issues/2714)
 
 
-## jatalocks/terracove <span style='color:#F1C40F'>(9 ⭐️)</span>
+## jatalocks/terracove <span style='color:#F1C40F'>(10 ⭐️)</span>
 
 - [✨  Github Action](https://github.com/jatalocks/terracove/issues/5)
 
