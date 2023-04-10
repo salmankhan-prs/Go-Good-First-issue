@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 17:08 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 17:18 UTC.</div>
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Support for nars?](https://github.com/anchore/syft/issues/1701)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
@@ -330,62 +335,4 @@
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
 - [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
-
-- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-
-## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [优化项目内的测试用例，使得测试用例之间可以并行执行，减少CI执行时间](https://github.com/polarismesh/polaris/issues/1073)
-
-- [windows添加一键启动](https://github.com/polarismesh/polaris/issues/1072)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
-
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Version to install options should be sorted semantically](https://github.com/komodorio/helm-dashboard/issues/326)
-
-- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
-
-- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
-
-- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
-
-
-## drand/drand <span style='color:#F1C40F'>(600 ⭐️)</span>
-
-- [API returns 500 instead of 4xx if no beacon handler for chain hash](https://github.com/drand/drand/issues/1207)
 
