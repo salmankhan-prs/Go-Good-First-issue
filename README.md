@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 12:38 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 12:48 UTC.</div>
+
+
+## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Span sets returned by TraceQL should return the number of all matching spans](https://github.com/grafana/tempo/issues/2307)
+
+- [Add query parameter to Search API to configure the spans per span set](https://github.com/grafana/tempo/issues/2308)
+
+- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
+
+
+## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Pytorch Serve supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2178)
+
+- [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
+
+- [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
@@ -12,16 +30,25 @@
 - [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
 ## vanus-labs/vanus <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [[Good First Issues]: implement function "extract_pattern" - 7 points](https://github.com/vanus-labs/vanus/issues/587)
 
 - [[Good First Issues]: implement function "split_from_end" - 7 points](https://github.com/vanus-labs/vanus/issues/588)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -47,15 +74,6 @@
 - [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
 
 - [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.2K ⭐️)</span>
@@ -255,22 +273,13 @@
 - [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
 
 
-## jatalocks/terracove <span style='color:#F1C40F'>(5 ⭐️)</span>
+## jatalocks/terracove <span style='color:#F1C40F'>(6 ⭐️)</span>
 
 - [✨  Github Action](https://github.com/jatalocks/terracove/issues/5)
 
 - [⚠️ Warn on missing terraform/terragrunt binaries](https://github.com/jatalocks/terracove/issues/7)
 
 - [🔊 Refactor logging mechanism](https://github.com/jatalocks/terracove/issues/6)
-
-
-## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Pytorch Serve supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2178)
-
-- [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
-
-- [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -308,17 +317,4 @@
 ## deislabs/ratify <span style='color:#F1C40F'>(111 ⭐️)</span>
 
 - [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
-
-
-## oras-project/oras <span style='color:#F1C40F'>(897 ⭐️)</span>
-
-- [Avoid requiring passing --plain-http when specifying --insecure](https://github.com/oras-project/oras/issues/914)
-
-- [add command to get the digest of a tagged manifest without parsing output](https://github.com/oras-project/oras/issues/907)
-
-- [add OCI layout support in command help doc](https://github.com/oras-project/oras/issues/904)
-
-- [invalid `--distribution-spec` flag returns wrong error information](https://github.com/oras-project/oras/issues/897)
-
-- [trigger dependabot for nested e2e go module](https://github.com/oras-project/oras/issues/876)
 
