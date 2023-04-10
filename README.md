@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 06:48 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 06:58 UTC.</div>
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(442 ⭐️)</span>
+
+- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
+
+- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
 
 ## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
