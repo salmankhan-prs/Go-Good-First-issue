@@ -4,7 +4,34 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 16:28 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 16:38 UTC.</div>
+
+
+## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
+
+- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
+
+
+## teshimafu/lazyPM <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [ユーザー作成画面を作る](https://github.com/teshimafu/lazyPM/issues/6)
+
+- [ユーザー参照画面を作る](https://github.com/teshimafu/lazyPM/issues/7)
+
+- [Nuxtのテンプレートを実装する](https://github.com/teshimafu/lazyPM/issues/5)
+
+- [バックエンド環境構築](https://github.com/teshimafu/lazyPM/issues/1)
+
+- [post /users APIを実装する](https://github.com/teshimafu/lazyPM/issues/3)
+
+- [get /users/{id}のAPIを実装する](https://github.com/teshimafu/lazyPM/issues/2)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
@@ -47,16 +74,11 @@
 - [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
 
 
-## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(716 ⭐️)</span>
 
-- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
+- [Remove wasmEnabledProposals []wasm.ProposalType from NewOsmosisApp](https://github.com/osmosis-labs/osmosis/issues/4865)
 
-- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -386,33 +408,4 @@
 - [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
 
 - [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [[UI] Use white Helm logo in Applications for source type in dark mode](https://github.com/meshery/meshery/issues/7506)
-
-- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
-
-- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-
-## berops/claudie <span style='color:#F1C40F'>(213 ⭐️)</span>
-
-- [Rework manifest labels](https://github.com/berops/claudie/issues/695)
-
-- [Claudie live demo](https://github.com/berops/claudie/issues/651)
-
-- [Feature: Rework how logger is used](https://github.com/berops/claudie/issues/655)
-
-
-## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Update NPM dependencies and Dependabot should be configured for OpenCost UI](https://github.com/opencost/opencost/issues/1848)
-
-- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
-
-- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
