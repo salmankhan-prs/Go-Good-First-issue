@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 22:28 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 22:38 UTC.</div>
+
+
+## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
+
+- [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
@@ -57,16 +67,6 @@
 ## rsteube/carapace-bin <span style='color:#F1C40F'>(194 ⭐️)</span>
 
 - [tea](https://github.com/rsteube/carapace-bin/issues/1643)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
-
-- [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
 
 
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
