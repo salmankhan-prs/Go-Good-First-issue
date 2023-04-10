@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 15:18 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 15:28 UTC.</div>
+
+
+## apache/trafficcontrol <span style='color:#F1C40F'>(886 ⭐️)</span>
+
+- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -17,6 +27,13 @@
 - [bug: `syncedResources` state should be Pending when APIResourceImport is missing](https://github.com/kcp-dev/kcp/issues/2928)
 
 - [bug: Report detailed compatibility errors on incompatible `SyncTarget.Status.ResourcesToSync`  ](https://github.com/kcp-dev/kcp/issues/2911)
+
+
+## vanus-labs/vanus <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [[Good First Issues]: implement function "extract_pattern" - 7 points](https://github.com/vanus-labs/vanus/issues/587)
+
+- [[Good First Issues]: implement function "split_from_end" - 7 points](https://github.com/vanus-labs/vanus/issues/588)
 
 
 ## apache/incubator-devlake <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -34,11 +51,6 @@
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
@@ -47,6 +59,15 @@
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
 
 - [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## adobe/k8s-shredder <span style='color:#F1C40F'>(11 ⭐️)</span>
@@ -147,11 +168,6 @@
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
-## apache/trafficcontrol <span style='color:#F1C40F'>(886 ⭐️)</span>
-
-- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
-
-
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
 
 - [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
@@ -164,15 +180,6 @@
 - [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
 
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -300,13 +307,6 @@
 - [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
 
 - [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
-
-
-## vanus-labs/vanus <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [[Good First Issues]: implement function "extract_pattern" - 7 points](https://github.com/vanus-labs/vanus/issues/587)
-
-- [[Good First Issues]: implement function "split_from_end" - 7 points](https://github.com/vanus-labs/vanus/issues/588)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
