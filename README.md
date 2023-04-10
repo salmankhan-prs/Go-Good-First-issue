@@ -4,25 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 14:08 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 14:18 UTC.</div>
 
 
-## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
-- [Span sets returned by TraceQL should return the number of all matching spans](https://github.com/grafana/tempo/issues/2307)
-
-- [Add query parameter to Search API to configure the spans per span set](https://github.com/grafana/tempo/issues/2308)
-
-- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
 
-- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
-
-- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
-
-- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -48,9 +40,23 @@
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
 
-## apache/trafficcontrol <span style='color:#F1C40F'>(887 ⭐️)</span>
+## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
-- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
+- [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Span sets returned by TraceQL should return the number of all matching spans](https://github.com/grafana/tempo/issues/2307)
+
+- [Add query parameter to Search API to configure the spans per span set](https://github.com/grafana/tempo/issues/2308)
+
+- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -58,9 +64,18 @@
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
+
+- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
+
+- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
+
+
+## apache/trafficcontrol <span style='color:#F1C40F'>(887 ⭐️)</span>
+
+- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -75,6 +90,15 @@
 - [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
 
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
@@ -120,11 +144,6 @@
 - [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
@@ -136,6 +155,17 @@
 - [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [Version to install options should be sorted semantically](https://github.com/komodorio/helm-dashboard/issues/326)
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
@@ -176,17 +206,6 @@
 - [Include inbound and outbound edges when automatically activating rank in the graph](https://github.com/kiali/kiali/issues/5915)
 
 
-## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
-
-- [Version to install options should be sorted semantically](https://github.com/komodorio/helm-dashboard/issues/326)
-
-- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
-
-- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
-
-
 ## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
 - [Pytorch Serve supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2178)
@@ -199,6 +218,27 @@
 ## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
 
 - [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
+
+
+## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Check for extra arguments in WebsocketMessage constructor](https://github.com/gavv/httpexpect/issues/392)
+
+- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/386)
+
+- [Split TestValue_Schema into subtests](https://github.com/gavv/httpexpect/issues/385)
+
+- [Convert TestRequest_Conflicts to table-driven style](https://github.com/gavv/httpexpect/issues/383)
+
+- [Improve bodyWrapper GetBody test](https://github.com/gavv/httpexpect/issues/378)
+
+- [Improve bodyWrapper Rewind test](https://github.com/gavv/httpexpect/issues/377)
+
+- [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
+
+- [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
+
+- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
 
 
 ## vanus-labs/vanus <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -320,25 +360,4 @@
 - [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
 
 - [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-
-## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [Check for extra arguments in WebsocketMessage constructor](https://github.com/gavv/httpexpect/issues/392)
-
-- [Convert Object tests to table-driven style](https://github.com/gavv/httpexpect/issues/386)
-
-- [Split TestValue_Schema into subtests](https://github.com/gavv/httpexpect/issues/385)
-
-- [Convert TestRequest_Conflicts to table-driven style](https://github.com/gavv/httpexpect/issues/383)
-
-- [Improve bodyWrapper GetBody test](https://github.com/gavv/httpexpect/issues/378)
-
-- [Improve bodyWrapper Rewind test](https://github.com/gavv/httpexpect/issues/377)
-
-- [Refactor json path and json schema tests](https://github.com/gavv/httpexpect/issues/359)
-
-- [Update iris example to 12.2.0](https://github.com/gavv/httpexpect/issues/374)
-
-- [Colorize http requests and responses](https://github.com/gavv/httpexpect/issues/343)
 
