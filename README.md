@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 23:28 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 23:38 UTC.</div>
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 
 ## cilium/cilium-cli <span style='color:#F1C40F'>(215 ⭐️)</span>
@@ -90,13 +97,6 @@
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(929 ⭐️)</span>
 
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 
 ## cli/cli <span style='color:#F1C40F'>(32.0K ⭐️)</span>
