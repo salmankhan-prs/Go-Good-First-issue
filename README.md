@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 04:28 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 04:38 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
@@ -191,6 +191,11 @@
 ## cybozu-go/neco <span style='color:#F1C40F'>(218 ⭐️)</span>
 
 - [Add an alert for Argo CD performance issue](https://github.com/cybozu-go/neco/issues/2251)
+
+
+## tinygo-org/tinygo <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
