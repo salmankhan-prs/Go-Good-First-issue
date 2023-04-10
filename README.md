@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 23:48 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 23:58 UTC.</div>
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -12,6 +12,15 @@
 - [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
 
 - [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
+
+
+## solo-io/gloo <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
+
+- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
+
+- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -336,22 +345,4 @@
 - [Implement a CLI](https://github.com/drorIvry/rego/issues/13)
 
 - [docker deployment](https://github.com/drorIvry/rego/issues/12)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(276 ⭐️)</span>
-
-- [Deprecate support for short JobIDs](https://github.com/bacalhau-project/bacalhau/issues/2298)
-
-- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
-
-- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## cosmos/ibc-go <span style='color:#F1C40F'>(354 ⭐️)</span>
-
-- [nit: remove "callback" from msg server logging, except where relevant](https://github.com/cosmos/ibc-go/issues/3404)
-
-- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
-
-- [Use state enums in connection handshake log](https://github.com/cosmos/ibc-go/issues/3385)
 
