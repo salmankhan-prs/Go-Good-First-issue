@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 02:48 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 02:58 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.9K ⭐️)</span>
@@ -45,9 +59,9 @@
 
 ## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
-- [windows添加一键启动](https://github.com/polarismesh/polaris/issues/1072)
-
 - [优化项目内的测试用例，使得测试用例之间可以并行执行，减少CI执行时间](https://github.com/polarismesh/polaris/issues/1073)
+
+- [windows添加一键启动](https://github.com/polarismesh/polaris/issues/1072)
 
 
 ## apache/incubator-devlake <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -55,18 +69,16 @@
 - [[Doc][Dashboard] Outdated links to Grafana doc](https://github.com/apache/incubator-devlake/issues/4861)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
 
 - [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
+
+
+## cloudwego/hertz <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
+
+- [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -76,11 +88,6 @@
 - [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
 
 - [What is Kopia?](https://github.com/kopia/kopia/issues/2803)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
@@ -344,17 +351,4 @@
 - [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
 
 - [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
-
-
-## drorIvry/rego <span style='color:#F1C40F'>(7 ⭐️)</span>
-
-- [Add an actual CI/CD](https://github.com/drorIvry/rego/issues/14)
-
-- [support external DBs](https://github.com/drorIvry/rego/issues/10)
-
-- [add a workflow option](https://github.com/drorIvry/rego/issues/11)
-
-- [Implement a CLI](https://github.com/drorIvry/rego/issues/13)
-
-- [docker deployment](https://github.com/drorIvry/rego/issues/12)
 
