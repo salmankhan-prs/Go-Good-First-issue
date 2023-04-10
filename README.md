@@ -4,12 +4,48 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 18:38 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 18:48 UTC.</div>
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(716 ⭐️)</span>
+
+- [Remove wasmEnabledProposals []wasm.ProposalType from NewOsmosisApp](https://github.com/osmosis-labs/osmosis/issues/4865)
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
+
+- [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(12.9K ⭐️)</span>
+
+- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
+
+- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
@@ -20,13 +56,6 @@
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
 
 - [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(716 ⭐️)</span>
-
-- [Remove wasmEnabledProposals []wasm.ProposalType from NewOsmosisApp](https://github.com/osmosis-labs/osmosis/issues/4865)
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -102,6 +131,15 @@
 ## knative/pkg <span style='color:#F1C40F'>(236 ⭐️)</span>
 
 - [Eventing TLS: Add AddressableFromDestination method on the resolver](https://github.com/knative/pkg/issues/2714)
+
+
+## jatalocks/terracove <span style='color:#F1C40F'>(9 ⭐️)</span>
+
+- [✨  Github Action](https://github.com/jatalocks/terracove/issues/5)
+
+- [⚠️ Warn on missing terraform/terragrunt binaries](https://github.com/jatalocks/terracove/issues/7)
+
+- [🔊 Refactor logging mechanism](https://github.com/jatalocks/terracove/issues/6)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
@@ -300,6 +338,17 @@
 - [Include inbound and outbound edges when automatically activating rank in the graph](https://github.com/kiali/kiali/issues/5915)
 
 
+## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [Feature: Log compaction](https://github.com/memphisdev/memphis/issues/861)
+
+- [Ability to set infinite retention](https://github.com/memphisdev/memphis/issues/858)
+
+- [Customized tip within "station overview" or "Dashboard"](https://github.com/memphisdev/memphis/issues/799)
+
+- [Feature: Anonymous login](https://github.com/memphisdev/memphis/issues/787)
+
+
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
 
 - [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
@@ -313,25 +362,4 @@
 ## onflow/flow-core-contracts <span style='color:#F1C40F'>(81 ⭐️)</span>
 
 - [Add support to Staking contract to separate operational from financial capabilities ](https://github.com/onflow/flow-core-contracts/issues/358)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Explore moving `readFile` to `host_id_bsd.go`](https://github.com/open-telemetry/opentelemetry-go/issues/3972)
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## cosmos/ibc-go <span style='color:#F1C40F'>(354 ⭐️)</span>
-
-- [nit: remove "callback" from msg server logging, except where relevant](https://github.com/cosmos/ibc-go/issues/3404)
-
-- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
-
-- [Use state enums in connection handshake log](https://github.com/cosmos/ibc-go/issues/3385)
 
