@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 04:38 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 04:48 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
@@ -14,13 +14,6 @@
 - [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
-## cloudwego/hertz <span style='color:#F1C40F'>(3.5K ⭐️)</span>
-
-- [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
-
-- [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -44,6 +37,13 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+
+
+## cloudwego/hertz <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
+
+- [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
 
 
 ## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
