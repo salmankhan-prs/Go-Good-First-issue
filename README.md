@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 23:38 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 23:48 UTC.</div>
+
+
+## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
+
+- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -107,13 +114,6 @@
 ## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
 
 - [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
-
-
-## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
-
-- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
 
 
 ## rsteube/carapace-bin <span style='color:#F1C40F'>(194 ⭐️)</span>
@@ -354,11 +354,4 @@
 - [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
 
 - [Use state enums in connection handshake log](https://github.com/cosmos/ibc-go/issues/3385)
-
-
-## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [tracee cmdline output (help, list events, list signatures) should have tabled output](https://github.com/aquasecurity/tracee/issues/2972)
-
-- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
