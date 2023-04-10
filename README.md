@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 11:58 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 12:08 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(1.2K ⭐️)</span>
@@ -79,18 +93,16 @@
 - [For "redistributionstate" endpoint, change "lastPlayedRound" to actually show last round played, and add "lastSelectedRound" so show if the node's neighborhood was selected](https://github.com/ethersphere/bee/issues/3979)
 
 
+## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [Update log messages to refer to Gnosis Chain / Gnosis and not Ethereum](https://github.com/ethersphere/bee/issues/3980)
+
+- [For "redistributionstate" endpoint, change "lastPlayedRound" to actually show last round played, and add "lastSelectedRound" so show if the node's neighborhood was selected](https://github.com/ethersphere/bee/issues/3979)
+
+
 ## gruntwork-io/terragrunt <span style='color:#F1C40F'>(6.7K ⭐️)</span>
 
 - [help message missing --terragrunt-source-map](https://github.com/gruntwork-io/terragrunt/issues/2521)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -139,11 +151,6 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -323,26 +330,4 @@
 ## cybozu-go/neco <span style='color:#F1C40F'>(218 ⭐️)</span>
 
 - [Add an alert for Argo CD performance issue](https://github.com/cybozu-go/neco/issues/2251)
-
-
-## vanus-labs/vanus <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [[Good First Issues]: implement function "extract_pattern" - 7 points](https://github.com/vanus-labs/vanus/issues/587)
-
-- [[Good First Issues]: implement function "split_from_end" - 7 points](https://github.com/vanus-labs/vanus/issues/588)
-
-
-## safedep/vet <span style='color:#F1C40F'>(54 ⭐️)</span>
-
-- [Use vet to Implement Safe Consumption of OSS Components for vet](https://github.com/safedep/vet/issues/56)
-
-- [Show Ecosystem Name in Summary Report](https://github.com/safedep/vet/issues/54)
-
-- [Fix Linter Issues and Enable `golint` Guard Rail](https://github.com/safedep/vet/issues/55)
-
-- [Support PURL Data Source for Single Package Scanning](https://github.com/safedep/vet/issues/57)
-
-- [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
-
-- [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
 
