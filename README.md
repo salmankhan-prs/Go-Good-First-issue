@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 17:58 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 18:08 UTC.</div>
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
+
+- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
+
+
+## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(776 ⭐️)</span>
@@ -67,7 +79,7 @@
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
-## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(928 ⭐️)</span>
+## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(929 ⭐️)</span>
 
 - [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
 
@@ -110,11 +122,6 @@
 ## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.3K ⭐️)</span>
 
 - [Add example repo in Java to README](https://github.com/grpc-ecosystem/grpc-gateway/issues/3262)
-
-
-## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(886 ⭐️)</span>
@@ -257,13 +264,6 @@
 - [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
 
 
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
-
-- [PG Certificates - configurable values for threshold \ certificateDuration](https://github.com/cloudnative-pg/cloudnative-pg/issues/1691)
-
-
 ## celestiaorg/celestia-core <span style='color:#F1C40F'>(292 ⭐️)</span>
 
 - [Add a local config for blocksize for block proposers](https://github.com/celestiaorg/celestia-core/issues/993)
@@ -336,16 +336,4 @@
 - [GitHub action for K8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/137)
 
 - [feature: analyzer for network policies](https://github.com/k8sgpt-ai/k8sgpt/issues/157)
-
-
-## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
-
-- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
