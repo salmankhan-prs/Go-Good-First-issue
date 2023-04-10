@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 03:18 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 03:28 UTC.</div>
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [[Feature] Set up the component/trait definition unit tests framework based on CUE](https://github.com/kubevela/kubevela/issues/5766)
+
+- [vela show --web not populating ComponentType](https://github.com/kubevela/kubevela/issues/5769)
+
+- [The progress bar on the front end of the installation plugin is still spinning](https://github.com/kubevela/kubevela/issues/5753)
+
+- [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
+
+- [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
+
+- [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
 
 
 ## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -19,11 +34,6 @@
 - [Proposal: add sse extension](https://github.com/cloudwego/hertz/issues/688)
 
 - [docs: add more examples for FS](https://github.com/cloudwego/hertz/issues/699)
-
-
-## KindlingProject/kindling <span style='color:#F1C40F'>(347 ⭐️)</span>
-
-- [Featutre request:  dynamic turn on / off probes in runtime.](https://github.com/KindlingProject/kindling/issues/481)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
