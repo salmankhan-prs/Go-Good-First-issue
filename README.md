@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 22:48 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 22:58 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(23 ⭐️)</span>
+
+- [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(776 ⭐️)</span>
@@ -23,6 +33,11 @@
 - [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
 
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
@@ -69,6 +84,11 @@
 ## cli/cli <span style='color:#F1C40F'>(32.0K ⭐️)</span>
 
 - [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -287,11 +307,6 @@
 - [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
-
-
 ## drorIvry/rego <span style='color:#F1C40F'>(8 ⭐️)</span>
 
 - [Add an actual CI/CD](https://github.com/drorIvry/rego/issues/14)
@@ -321,11 +336,6 @@
 - [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
 
 - [Use state enums in connection handshake log](https://github.com/cosmos/ibc-go/issues/3385)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
