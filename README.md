@@ -4,7 +4,29 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 01:58 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 02:08 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
+
+- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
+
+- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
@@ -24,6 +46,11 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
 
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
+
+- [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
@@ -60,13 +87,9 @@
 - [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(16.4K ⭐️)</span>
+## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
 
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
 
 ## cybozu-go/neco <span style='color:#F1C40F'>(218 ⭐️)</span>
@@ -82,19 +105,6 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(12.8K ⭐️)</span>
-
-- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
-
-- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
@@ -145,11 +155,6 @@
 ## stashapp/stash <span style='color:#F1C40F'>(5.7K ⭐️)</span>
 
 - [[Feature] Throw warning in log when generated folder overlaps a library](https://github.com/stashapp/stash/issues/3538)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -352,11 +357,4 @@
 - [Explore moving `readFile` to `host_id_bsd.go`](https://github.com/open-telemetry/opentelemetry-go/issues/3972)
 
 - [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
-
-- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
