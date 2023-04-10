@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 10:38 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 10:48 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [Update log messages to refer to Gnosis Chain / Gnosis and not Ethereum](https://github.com/ethersphere/bee/issues/3980)
+
+- [For "redistributionstate" endpoint, change "lastPlayedRound" to actually show last round played, and add "lastSelectedRound" so show if the node's neighborhood was selected](https://github.com/ethersphere/bee/issues/3979)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -119,22 +140,6 @@
 - [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
-## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [Update log messages to refer to Gnosis Chain / Gnosis and not Ethereum](https://github.com/ethersphere/bee/issues/3980)
-
-- [For "redistributionstate" endpoint, change "lastPlayedRound" to actually show last round played, and add "lastSelectedRound" so show if the node's neighborhood was selected](https://github.com/ethersphere/bee/issues/3979)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
 ## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
 - [Pytorch Serve supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2178)
@@ -142,11 +147,6 @@
 - [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
 
 - [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -247,6 +247,24 @@
 - [Add an alert for Argo CD performance issue](https://github.com/cybozu-go/neco/issues/2251)
 
 
+## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [create common options, remove intermediate layers](https://github.com/k8stopologyawareschedwg/deployer/issues/182)
+
+- [add option to control the scheduler verbosity](https://github.com/k8stopologyawareschedwg/deployer/issues/189)
+
+- [manifests: scheduler should run in the control plane (default, but overridable)](https://github.com/k8stopologyawareschedwg/deployer/issues/177)
+
+- [manifests: updaters should NOT run in the control plane](https://github.com/k8stopologyawareschedwg/deployer/issues/176)
+
+
+## vanus-labs/vanus <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [[Good First Issues]: implement function "extract_pattern" - 7 points](https://github.com/vanus-labs/vanus/issues/587)
+
+- [[Good First Issues]: implement function "split_from_end" - 7 points](https://github.com/vanus-labs/vanus/issues/588)
+
+
 ## safedep/vet <span style='color:#F1C40F'>(54 ⭐️)</span>
 
 - [Use vet to Implement Safe Consumption of OSS Components for vet](https://github.com/safedep/vet/issues/56)
@@ -331,51 +349,4 @@
 - [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
 
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
-
-- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
-
-- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(673 ⭐️)</span>
-
-- [(feature) Implement Open-feature web provider.](https://github.com/thomaspoignant/go-feature-flag/issues/662)
-
-- [ (feature) Implement open-feature provider cache for the Javascript provider ](https://github.com/thomaspoignant/go-feature-flag/issues/659)
-
-- [(feature) relay-proxy: Using notifier to add prometheus metrics when flag change](https://github.com/thomaspoignant/go-feature-flag/issues/665)
-
-- [(documentation) Explain better how data export is working and why we have it](https://github.com/thomaspoignant/go-feature-flag/issues/661)
-
-
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-
-## tinygo-org/tinygo <span style='color:#F1C40F'>(12.6K ⭐️)</span>
-
-- [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
-
-- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
