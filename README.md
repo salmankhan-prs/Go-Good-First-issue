@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 21:48 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 21:58 UTC.</div>
+
+
+## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
+
+- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
