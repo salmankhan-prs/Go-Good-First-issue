@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 08:28 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 08:38 UTC.</div>
+
+
+## oras-project/oras <span style='color:#F1C40F'>(897 ⭐️)</span>
+
+- [Avoid requiring passing --plain-http when specifying --insecure](https://github.com/oras-project/oras/issues/914)
+
+- [add command to get the digest of a tagged manifest without parsing output](https://github.com/oras-project/oras/issues/907)
+
+- [add OCI layout support in command help doc](https://github.com/oras-project/oras/issues/904)
+
+- [invalid `--distribution-spec` flag returns wrong error information](https://github.com/oras-project/oras/issues/897)
+
+- [trigger dependabot for nested e2e go module](https://github.com/oras-project/oras/issues/876)
+
+
+## deislabs/ratify <span style='color:#F1C40F'>(111 ⭐️)</span>
+
+- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -68,6 +86,15 @@
 - [CLI Documentation for Self-Hosting Usage](https://github.com/PuremlHQ/PureML/issues/179)
 
 
+## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
 ## cybozu-go/neco <span style='color:#F1C40F'>(218 ⭐️)</span>
 
 - [Add an alert for Argo CD performance issue](https://github.com/cybozu-go/neco/issues/2251)
@@ -84,13 +111,9 @@
 - [manifests: updaters should NOT run in the control plane](https://github.com/k8stopologyawareschedwg/deployer/issues/176)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
+## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
 
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
 
 ## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
@@ -111,16 +134,16 @@
 - [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
 
 
+## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
+
+- [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
+
+
 ## vanus-labs/vanus <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [[Good First Issues]: implement function "extract_pattern" - 7 points](https://github.com/vanus-labs/vanus/issues/587)
 
 - [[Good First Issues]: implement function "split_from_end" - 7 points](https://github.com/vanus-labs/vanus/issues/588)
-
-
-## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
-
-- [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -176,11 +199,6 @@
 ## adobe/k8s-shredder <span style='color:#F1C40F'>(11 ⭐️)</span>
 
 - [Investigate CI e2e flakiness](https://github.com/adobe/k8s-shredder/issues/38)
-
-
-## deislabs/ratify <span style='color:#F1C40F'>(111 ⭐️)</span>
-
-- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
 
 
 ## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
@@ -264,12 +282,7 @@
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
 
-## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(672 ⭐️)</span>
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(673 ⭐️)</span>
 
 - [(feature) Implement Open-feature web provider.](https://github.com/thomaspoignant/go-feature-flag/issues/662)
 
