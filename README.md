@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 00:38 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 00:48 UTC.</div>
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -348,24 +348,4 @@
 - [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
 
 - [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
-
-
-## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
-
-- [Simplify client handling and reduce concurrency latency by embedding the client in the BackendService struct](https://github.com/Frontman-Labs/frontman/issues/103)
-
-- [Remove redundant lockings if possible ](https://github.com/Frontman-Labs/frontman/issues/82)
-
-- [Create a Quick Start Guide for Frontman API Gateway](https://github.com/Frontman-Labs/frontman/issues/99)
-
-- [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
-
-- [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
