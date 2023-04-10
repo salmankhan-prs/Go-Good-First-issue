@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 21:28 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 21:38 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(776 ⭐️)</span>
@@ -139,11 +144,6 @@
 - [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
 
 - [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
