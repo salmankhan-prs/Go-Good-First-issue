@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at April 10, 2023 13:18 UTC.</div>
+<div align='center'>Last updated at April 10, 2023 13:28 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [优化项目内的测试用例，使得测试用例之间可以并行执行，减少CI执行时间](https://github.com/polarismesh/polaris/issues/1073)
+
+- [windows添加一键启动](https://github.com/polarismesh/polaris/issues/1072)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(927 ⭐️)</span>
@@ -52,11 +69,6 @@
 ## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Include inbound and outbound edges when automatically activating rank in the graph](https://github.com/kiali/kiali/issues/5915)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
@@ -235,13 +247,6 @@
 - [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
 
 
-## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [优化项目内的测试用例，使得测试用例之间可以并行执行，减少CI执行时间](https://github.com/polarismesh/polaris/issues/1073)
-
-- [windows添加一键启动](https://github.com/polarismesh/polaris/issues/1072)
-
-
 ## gavv/httpexpect <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [Check for extra arguments in WebsocketMessage constructor](https://github.com/gavv/httpexpect/issues/392)
@@ -307,9 +312,4 @@
 - [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
 
 - [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
 
