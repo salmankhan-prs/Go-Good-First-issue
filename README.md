@@ -4,12 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 16:38 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 16:48 UTC.</div>
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
 
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(719 ⭐️)</span>
@@ -22,6 +26,11 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
 
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## jatalocks/terracove <span style='color:#F1C40F'>(11 ⭐️)</span>
@@ -63,6 +72,11 @@
 - [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
 
 
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
+
+
 ## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
 
 - [display kuberpults version number in UI](https://github.com/freiheit-com/kuberpult/issues/610)
@@ -102,15 +116,6 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
 ## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
@@ -266,37 +271,4 @@
 - [Add query parameter to Search API to configure the spans per span set](https://github.com/grafana/tempo/issues/2308)
 
 - [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
-
-
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## provenance-io/provenance <span style='color:#F1C40F'>(72 ⭐️)</span>
-
-- [Update table driven unit tests to use named fields.](https://github.com/provenance-io/provenance/issues/1436)
-
-- [Archive our cosmovisor repo](https://github.com/provenance-io/provenance/issues/1420)
-
-
-## diggerhq/digger <span style='color:#F1C40F'>(302 ⭐️)</span>
-
-- [Fail with better error message if no terraform files exist in default location](https://github.com/diggerhq/digger/issues/121)
-
-- [Only run apply if PR is mergeable](https://github.com/diggerhq/digger/issues/118)
-
-- [Support multiple Terraform versions](https://github.com/diggerhq/digger/issues/105)
-
-- [dissplay a warning if plan requested ](https://github.com/diggerhq/digger/issues/52)
-
-- [Add option for disabling usage data](https://github.com/diggerhq/digger/issues/92)
-
-- [Get rid of hardcoded value of bucket for GCP](https://github.com/diggerhq/digger/issues/94)
-
-- [Add support for aws-vault](https://github.com/diggerhq/digger/issues/97)
-
-- [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
-
-- [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
 
