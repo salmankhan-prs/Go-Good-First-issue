@@ -4,7 +4,45 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 16:28 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 16:38 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(719 ⭐️)</span>
+
+- [Remove wasmEnabledProposals []wasm.ProposalType from NewOsmosisApp](https://github.com/osmosis-labs/osmosis/issues/4865)
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## jatalocks/terracove <span style='color:#F1C40F'>(11 ⭐️)</span>
+
+- [✨  Github Action](https://github.com/jatalocks/terracove/issues/5)
+
+- [⚠️ Warn on missing terraform/terragrunt binaries](https://github.com/jatalocks/terracove/issues/7)
+
+- [🔊 Refactor logging mechanism](https://github.com/jatalocks/terracove/issues/6)
+
+
+## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
+
+- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(967 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -25,11 +63,6 @@
 - [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
 
 
-## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
-
-- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
-
-
 ## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
 
 - [display kuberpults version number in UI](https://github.com/freiheit-com/kuberpult/issues/610)
@@ -37,15 +70,6 @@
 - [Env labels should have tooltips](https://github.com/freiheit-com/kuberpult/issues/588)
 
 - [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
-
-
-## jatalocks/terracove <span style='color:#F1C40F'>(11 ⭐️)</span>
-
-- [✨  Github Action](https://github.com/jatalocks/terracove/issues/5)
-
-- [⚠️ Warn on missing terraform/terragrunt binaries](https://github.com/jatalocks/terracove/issues/7)
-
-- [🔊 Refactor logging mechanism](https://github.com/jatalocks/terracove/issues/6)
 
 
 ## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -64,13 +88,6 @@
 - [Implement a CLI](https://github.com/drorIvry/rego/issues/13)
 
 - [docker deployment](https://github.com/drorIvry/rego/issues/12)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(967 ⭐️)</span>
-
-- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
@@ -282,41 +299,4 @@
 - [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
 
 - [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
-
-- [Gitlab template uses deprecated json schema](https://github.com/aquasecurity/trivy/issues/4033)
-
-- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(165 ⭐️)</span>
-
-- [typo: `RowsRoots`](https://github.com/celestiaorg/celestia-app/issues/1609)
-
-- [Organize ADR assets](https://github.com/celestiaorg/celestia-app/issues/1602)
-
-- [Improve documentation of `PayForBlobs` CLI](https://github.com/celestiaorg/celestia-app/issues/1600)
-
-- [Set bonus proposer reward to 0%](https://github.com/celestiaorg/celestia-app/issues/1589)
-
-- [Consider introducing a type alias for `NamespaceVersion`](https://github.com/celestiaorg/celestia-app/issues/1574)
-
-- [Explore enforcing conventional commits](https://github.com/celestiaorg/celestia-app/issues/1539)
-
-- [specs: rename `message` => `blob`](https://github.com/celestiaorg/celestia-app/issues/1532)
-
-- [docs: rename `message` => `blob` in ADRs](https://github.com/celestiaorg/celestia-app/issues/1531)
-
-- [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
-
-
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
