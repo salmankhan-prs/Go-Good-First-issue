@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 05:38 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 05:48 UTC.</div>
+
+
+## teshimafu/lazyPM <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [ユーザー作成画面を作る](https://github.com/teshimafu/lazyPM/issues/6)
+
+- [ユーザー参照画面を作る](https://github.com/teshimafu/lazyPM/issues/7)
+
+- [バックエンド環境構築](https://github.com/teshimafu/lazyPM/issues/1)
+
+- [get /users/{id}のAPIを実装する](https://github.com/teshimafu/lazyPM/issues/2)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(66 ⭐️)</span>
@@ -289,19 +300,6 @@
 - [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
 
-## teshimafu/lazyPM <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [ユーザー作成画面を作る](https://github.com/teshimafu/lazyPM/issues/6)
-
-- [ユーザー参照画面を作る](https://github.com/teshimafu/lazyPM/issues/7)
-
-- [Nuxtのテンプレートを実装する](https://github.com/teshimafu/lazyPM/issues/5)
-
-- [バックエンド環境構築](https://github.com/teshimafu/lazyPM/issues/1)
-
-- [get /users/{id}のAPIを実装する](https://github.com/teshimafu/lazyPM/issues/2)
-
-
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
@@ -350,9 +348,4 @@
 - [bug: apisix restarts, ingress controller unavailable](https://github.com/apache/apisix-ingress-controller/issues/1760)
 
 - [docs: describe how to generate secret from cert file](https://github.com/apache/apisix-ingress-controller/issues/1767)
-
-
-## cli/cli <span style='color:#F1C40F'>(32.0K ⭐️)</span>
-
-- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
 
