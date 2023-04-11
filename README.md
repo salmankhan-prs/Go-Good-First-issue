@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 22:08 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 22:18 UTC.</div>
+
+
+## deislabs/ratify <span style='color:#F1C40F'>(111 ⭐️)</span>
+
+- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
+
+
+## cosmos/relayer <span style='color:#F1C40F'>(290 ⭐️)</span>
+
+- [feat: add the ability to pull testnet data from the chain registry](https://github.com/cosmos/relayer/issues/1128)
+
+- [add src and dst channel identifiers to send msg logs](https://github.com/cosmos/relayer/issues/1148)
+
+- [Read in hermes config.toml and output relayer config.yaml](https://github.com/cosmos/relayer/issues/1133)
+
+- [look into http response and provide more understandable logs when a node is inaccessible](https://github.com/cosmos/relayer/issues/1136)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -45,11 +61,6 @@
 - [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
 
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-
-## deislabs/ratify <span style='color:#F1C40F'>(111 ⭐️)</span>
-
-- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
@@ -111,7 +122,7 @@
 - [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
 
 
-## dapr/components-contrib <span style='color:#F1C40F'>(440 ⭐️)</span>
+## dapr/components-contrib <span style='color:#F1C40F'>(441 ⭐️)</span>
 
 - [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
 
