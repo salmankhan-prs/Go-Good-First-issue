@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 01:08 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 01:18 UTC.</div>
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(473 ⭐️)</span>
@@ -340,19 +340,4 @@
 - [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
 
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
-
-
-## PuremlHQ/PureML <span style='color:#F1C40F'>(114 ⭐️)</span>
-
-- [update frontend readme with requirements, installation & usage](https://github.com/PuremlHQ/PureML/issues/193)
-
-- [Docker compose settings up should pull latest image](https://github.com/PuremlHQ/PureML/issues/181)
-
-- [update the font size & weight of navbar in changelog](https://github.com/PuremlHQ/PureML/issues/194)
-
-- [Replace the 'github star' btn with custom github star btn](https://github.com/PuremlHQ/PureML/issues/173)
-
-- [selected tab 'Data Lineage' should be highlighted in datasets version](https://github.com/PuremlHQ/PureML/issues/182)
-
-- [CLI Documentation for Self-Hosting Usage](https://github.com/PuremlHQ/PureML/issues/179)
 
