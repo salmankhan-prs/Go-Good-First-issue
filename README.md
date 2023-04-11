@@ -4,12 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 05:18 UTC.</div>
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+<div align='center'>Last updated at April 11, 2023 05:28 UTC.</div>
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -17,6 +12,11 @@
 - [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
 
 - [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
