@@ -4,7 +4,39 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 10:28 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 10:38 UTC.</div>
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
+
+- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
+
+- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(17 ⭐️)</span>
+
+- [Implement `turso db hints` command](https://github.com/chiselstrike/turso-cli/issues/319)
+
+- [Native Windows support](https://github.com/chiselstrike/turso-cli/issues/318)
+
+- [Add `turso tutorial` command and call it from Homebrew postinstall](https://github.com/chiselstrike/turso-cli/issues/300)
+
+- [`turso db inspect` should show more than just space](https://github.com/chiselstrike/turso-cli/issues/303)
+
+- [Destroying instances is cumbersome](https://github.com/chiselstrike/turso-cli/issues/283)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -21,6 +53,11 @@
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
@@ -28,6 +65,11 @@
 - [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
 
 - [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
 
 
 ## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
@@ -39,19 +81,9 @@
 - [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
-
-
 ## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
 
 - [Support for MongoDB](https://github.com/secret-telegram/chat/issues/55)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -159,11 +191,6 @@
 - [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
 
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -336,11 +363,4 @@
 ## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
 
 - [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
-
-- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
