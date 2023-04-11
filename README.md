@@ -4,7 +4,40 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 13:08 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 13:18 UTC.</div>
+
+
+## drorIvry/rego <span style='color:#F1C40F'>(8 ⭐️)</span>
+
+- [Add an actual CI/CD](https://github.com/drorIvry/rego/issues/14)
+
+- [support external DBs](https://github.com/drorIvry/rego/issues/10)
+
+- [add a workflow option](https://github.com/drorIvry/rego/issues/11)
+
+- [Implement a CLI](https://github.com/drorIvry/rego/issues/13)
+
+- [docker deployment](https://github.com/drorIvry/rego/issues/12)
+
+
+## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Eventing TLS: Install Cert Manager as part of the test setup phase](https://github.com/knative/eventing/issues/6835)
+
+- [Eventing TLS: support sending events to HTTPS endpoints in eventshub](https://github.com/knative/eventing/issues/6840)
+
+- [Eventing TLS: Add scheme label to metrics](https://github.com/knative/eventing/issues/6838)
+
+- [Eventing TLS: Create Cert-Manager resources](https://github.com/knative/eventing/issues/6837)
+
+- [Eventing TLS: support receiving events to HTTPS endpoints in eventshub](https://github.com/knative/eventing/issues/6842)
+
+
+## l7mp/stunner-gateway-operator <span style='color:#F1C40F'>(7 ⭐️)</span>
+
+- [Automatically expose health-check ports on LBs](https://github.com/l7mp/stunner-gateway-operator/issues/22)
+
+- [Support mixed-protocol (UDP/TCP) LBs for exposing Gateways](https://github.com/l7mp/stunner-gateway-operator/issues/21)
 
 
 ## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -24,19 +57,6 @@
 - [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
 
 - [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-
-## drorIvry/rego <span style='color:#F1C40F'>(8 ⭐️)</span>
-
-- [Add an actual CI/CD](https://github.com/drorIvry/rego/issues/14)
-
-- [support external DBs](https://github.com/drorIvry/rego/issues/10)
-
-- [add a workflow option](https://github.com/drorIvry/rego/issues/11)
-
-- [Implement a CLI](https://github.com/drorIvry/rego/issues/13)
-
-- [docker deployment](https://github.com/drorIvry/rego/issues/12)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -321,20 +341,4 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Explore moving `readFile` to `host_id_bsd.go`](https://github.com/open-telemetry/opentelemetry-go/issues/3972)
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
-
-- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
-
-- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
 
