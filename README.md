@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 04:18 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 04:28 UTC.</div>
+
+
+## replicatedhq/troubleshoot <span style='color:#F1C40F'>(424 ⭐️)</span>
+
+- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
+
+
+## mattermost/mattermost-plugin-github <span style='color:#F1C40F'>(127 ⭐️)</span>
+
+- [Include explanation of `/setup` command in README](https://github.com/mattermost/mattermost-plugin-github/issues/655)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
