@@ -4,7 +4,49 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 10:18 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 10:28 UTC.</div>
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+
+## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
+
+- [display kuberpults version number in UI](https://github.com/freiheit-com/kuberpult/issues/610)
+
+- [Env labels should have tooltips](https://github.com/freiheit-com/kuberpult/issues/588)
+
+- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
+
+- [Support for MongoDB](https://github.com/secret-telegram/chat/issues/55)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
@@ -60,29 +102,6 @@
 - [[BUG] CIS AWS Rule 4.1 - Correctly defined metric and filter for unauthorized API calls is evaluated as failure.](https://github.com/elastic/cloudbeat/issues/823)
 
 - [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
-## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
-
-- [display kuberpults version number in UI](https://github.com/freiheit-com/kuberpult/issues/610)
-
-- [Env labels should have tooltips](https://github.com/freiheit-com/kuberpult/issues/588)
-
-- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## apache/incubator-devlake <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -239,13 +258,6 @@
 - [For "redistributionstate" endpoint, change "lastPlayedRound" to actually show last round played, and add "lastSelectedRound" so show if the node's neighborhood was selected](https://github.com/ethersphere/bee/issues/3979)
 
 
-## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [Update log messages to refer to Gnosis Chain / Gnosis and not Ethereum](https://github.com/ethersphere/bee/issues/3980)
-
-- [For "redistributionstate" endpoint, change "lastPlayedRound" to actually show last round played, and add "lastSelectedRound" so show if the node's neighborhood was selected](https://github.com/ethersphere/bee/issues/3979)
-
-
 ## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
 - [Pytorch Serve supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2178)
@@ -331,16 +343,4 @@
 - [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
