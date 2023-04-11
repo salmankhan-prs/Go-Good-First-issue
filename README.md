@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 05:48 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 05:58 UTC.</div>
 
 
 ## teshimafu/lazyPM <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -16,6 +16,29 @@
 - [バックエンド環境構築](https://github.com/teshimafu/lazyPM/issues/1)
 
 - [get /users/{id}のAPIを実装する](https://github.com/teshimafu/lazyPM/issues/2)
+
+
+## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
+
+
+## oras-project/oras <span style='color:#F1C40F'>(897 ⭐️)</span>
+
+- [Avoid requiring passing --plain-http when specifying --insecure](https://github.com/oras-project/oras/issues/914)
+
+- [add command to get the digest of a tagged manifest without parsing output](https://github.com/oras-project/oras/issues/907)
+
+- [add OCI layout support in command help doc](https://github.com/oras-project/oras/issues/904)
+
+- [invalid `--distribution-spec` flag returns wrong error information](https://github.com/oras-project/oras/issues/897)
+
+- [trigger dependabot for nested e2e go module](https://github.com/oras-project/oras/issues/876)
+
+
+## cilium/cilium-cli <span style='color:#F1C40F'>(215 ⭐️)</span>
+
+- [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(66 ⭐️)</span>
@@ -286,11 +309,6 @@
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
-## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
-
-
 ## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Update NPM dependencies and Dependabot should be configured for OpenCost UI](https://github.com/opencost/opencost/issues/1848)
@@ -341,11 +359,4 @@
 ## knative/pkg <span style='color:#F1C40F'>(236 ⭐️)</span>
 
 - [Eventing TLS: Add AddressableFromDestination method on the resolver](https://github.com/knative/pkg/issues/2714)
-
-
-## apache/apisix-ingress-controller <span style='color:#F1C40F'>(781 ⭐️)</span>
-
-- [bug: apisix restarts, ingress controller unavailable](https://github.com/apache/apisix-ingress-controller/issues/1760)
-
-- [docs: describe how to generate secret from cert file](https://github.com/apache/apisix-ingress-controller/issues/1767)
 
