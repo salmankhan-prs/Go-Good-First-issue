@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 20:08 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 20:18 UTC.</div>
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -21,6 +21,13 @@
 - [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
 
 
+## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
+
+- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
+
+
 ## jatalocks/terracove <span style='color:#F1C40F'>(11 ⭐️)</span>
 
 - [✨  Github Action](https://github.com/jatalocks/terracove/issues/5)
@@ -35,13 +42,6 @@
 - [Add version checking](https://github.com/roc-streaming/roc-go/issues/71)
 
 - [Add debug logging](https://github.com/roc-streaming/roc-go/issues/70)
-
-
-## l7mp/stunner-gateway-operator <span style='color:#F1C40F'>(7 ⭐️)</span>
-
-- [Automatically expose health-check ports on LBs](https://github.com/l7mp/stunner-gateway-operator/issues/22)
-
-- [Support mixed-protocol (UDP/TCP) LBs for exposing Gateways](https://github.com/l7mp/stunner-gateway-operator/issues/21)
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -76,6 +76,13 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [x509: certificate is valid for docker internal address, not advirtisedAddress](https://github.com/kumahq/kuma/issues/6498)
+
+- [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
@@ -308,4 +315,84 @@
 ## open-horizon/anax <span style='color:#F1C40F'>(64 ⭐️)</span>
 
 - [Feature Request: Add --applies-to for deployment policies](https://github.com/open-horizon/anax/issues/3743)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+
+## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
+
+- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
+
+
+## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(147 ⭐️)</span>
+
+- [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
+
+
+## hay-kot/homebox <span style='color:#F1C40F'>(860 ⭐️)</span>
+
+- [Field Search API Doesn't Return Values](https://github.com/hay-kot/homebox/issues/391)
+
+- [Reset Search Button Does Not Reset All Fields](https://github.com/hay-kot/homebox/issues/392)
+
+
+## PuremlHQ/PureML <span style='color:#F1C40F'>(115 ⭐️)</span>
+
+- [update frontend readme with requirements, installation & usage](https://github.com/PuremlHQ/PureML/issues/193)
+
+- [Docker compose settings up should pull latest image](https://github.com/PuremlHQ/PureML/issues/181)
+
+- [Replace the 'github star' btn with custom github star btn](https://github.com/PuremlHQ/PureML/issues/173)
+
+- [selected tab 'Data Lineage' should be highlighted in datasets version](https://github.com/PuremlHQ/PureML/issues/182)
+
+- [CLI Documentation for Self-Hosting Usage](https://github.com/PuremlHQ/PureML/issues/179)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(967 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [add gator to krew](https://github.com/open-policy-agent/gatekeeper/issues/2653)
+
+
+## drorIvry/rego <span style='color:#F1C40F'>(9 ⭐️)</span>
+
+- [Add an actual CI/CD](https://github.com/drorIvry/rego/issues/14)
+
+- [support external DBs](https://github.com/drorIvry/rego/issues/10)
+
+- [add a workflow option](https://github.com/drorIvry/rego/issues/11)
+
+- [Implement a CLI](https://github.com/drorIvry/rego/issues/13)
+
+- [docker deployment](https://github.com/drorIvry/rego/issues/12)
+
+
+## solo-io/gloo <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
+
+- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
+
+- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(443 ⭐️)</span>
+
+- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
+
+- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
