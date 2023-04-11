@@ -4,7 +4,32 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 00:18 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 00:28 UTC.</div>
+
+
+## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
+
+- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
+
+
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(245 ⭐️)</span>
+
+- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
+
+- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
+
+- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(12.9K ⭐️)</span>
@@ -344,14 +369,4 @@
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
 
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
-## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
-
-- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
-
-
-## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
 
