@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 08:28 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 08:38 UTC.</div>
+
+
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Version to install options should be sorted semantically](https://github.com/komodorio/helm-dashboard/issues/326)
+
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## cilium/cilium-cli <span style='color:#F1C40F'>(215 ⭐️)</span>
+
+- [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
 
 
 ## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
@@ -14,6 +35,11 @@
 - [Env labels should have tooltips](https://github.com/freiheit-com/kuberpult/issues/588)
 
 - [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## drorIvry/rego <span style='color:#F1C40F'>(8 ⭐️)</span>
@@ -93,11 +119,6 @@
 - [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## cybozu-go/neco <span style='color:#F1C40F'>(218 ⭐️)</span>
@@ -279,27 +300,4 @@
 ## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
 
 - [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
-
-
-## cli/cli <span style='color:#F1C40F'>(32.0K ⭐️)</span>
-
-- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
-
-
-## oras-project/oras <span style='color:#F1C40F'>(897 ⭐️)</span>
-
-- [Avoid requiring passing --plain-http when specifying --insecure](https://github.com/oras-project/oras/issues/914)
-
-- [add command to get the digest of a tagged manifest without parsing output](https://github.com/oras-project/oras/issues/907)
-
-- [add OCI layout support in command help doc](https://github.com/oras-project/oras/issues/904)
-
-- [invalid `--distribution-spec` flag returns wrong error information](https://github.com/oras-project/oras/issues/897)
-
-- [trigger dependabot for nested e2e go module](https://github.com/oras-project/oras/issues/876)
-
-
-## cilium/cilium-cli <span style='color:#F1C40F'>(215 ⭐️)</span>
-
-- [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
 
