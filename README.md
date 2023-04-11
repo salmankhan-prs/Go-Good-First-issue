@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 03:48 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 03:58 UTC.</div>
+
+
+## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [优化项目内的测试用例，使得测试用例之间可以并行执行，减少CI执行时间](https://github.com/polarismesh/polaris/issues/1073)
+
+- [windows添加一键启动](https://github.com/polarismesh/polaris/issues/1072)
+
+
+## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
+
+- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
+
+- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
 
 
 ## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
@@ -36,13 +50,6 @@
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
-## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
-
-- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
-
-- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
-
-
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
 - [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
@@ -69,6 +76,11 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
 
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -315,11 +327,6 @@
 - [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
 
 
-## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
 ## oras-project/oras <span style='color:#F1C40F'>(897 ⭐️)</span>
 
 - [Avoid requiring passing --plain-http when specifying --insecure](https://github.com/oras-project/oras/issues/914)
@@ -345,11 +352,4 @@
 - [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
 
 - [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
