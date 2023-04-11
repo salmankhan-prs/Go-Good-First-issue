@@ -4,7 +4,47 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 15:28 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 15:38 UTC.</div>
+
+
+## diggerhq/digger <span style='color:#F1C40F'>(302 ⭐️)</span>
+
+- [Only run apply if PR is mergeable](https://github.com/diggerhq/digger/issues/118)
+
+- [Support multiple Terraform versions](https://github.com/diggerhq/digger/issues/105)
+
+- [dissplay a warning if plan requested ](https://github.com/diggerhq/digger/issues/52)
+
+- [Add option for disabling usage data](https://github.com/diggerhq/digger/issues/92)
+
+- [Get rid of hardcoded value of bucket for GCP](https://github.com/diggerhq/digger/issues/94)
+
+- [Add support for aws-vault](https://github.com/diggerhq/digger/issues/97)
+
+- [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
+
+- [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
+
+
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(165 ⭐️)</span>
+
+- [typo: `RowsRoots`](https://github.com/celestiaorg/celestia-app/issues/1609)
+
+- [Organize ADR assets](https://github.com/celestiaorg/celestia-app/issues/1602)
+
+- [Improve documentation of `PayForBlobs` CLI](https://github.com/celestiaorg/celestia-app/issues/1600)
+
+- [Set bonus proposer reward to 0%](https://github.com/celestiaorg/celestia-app/issues/1589)
+
+- [Consider introducing a type alias for `NamespaceVersion`](https://github.com/celestiaorg/celestia-app/issues/1574)
+
+- [Explore enforcing conventional commits](https://github.com/celestiaorg/celestia-app/issues/1539)
+
+- [specs: rename `message` => `blob`](https://github.com/celestiaorg/celestia-app/issues/1532)
+
+- [docs: rename `message` => `blob` in ADRs](https://github.com/celestiaorg/celestia-app/issues/1531)
+
+- [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
@@ -20,6 +60,11 @@
 ## mainflux/mainflux <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [Improve path parameters naming](https://github.com/mainflux/mainflux/issues/1761)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
@@ -132,6 +177,11 @@
 - [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
 
 
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
+
+
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.1K ⭐️)</span>
 
 - [[Feature] Set up the component/trait definition unit tests framework based on CUE](https://github.com/kubevela/kubevela/issues/5766)
@@ -152,11 +202,6 @@
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
 
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## l7mp/stunner-gateway-operator <span style='color:#F1C40F'>(7 ⭐️)</span>
@@ -282,11 +327,6 @@
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
 
 
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
-
-
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
 - [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
@@ -310,18 +350,4 @@
 - [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
 
 - [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
