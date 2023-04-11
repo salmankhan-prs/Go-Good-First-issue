@@ -4,7 +4,33 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 13:58 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 14:08 UTC.</div>
+
+
+## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
+
+- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
+
+- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
@@ -37,20 +63,6 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -293,16 +305,4 @@
 - [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
 
 - [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## elastic/cloudbeat <span style='color:#F1C40F'>(19 ⭐️)</span>
-
-- [[BUG] CIS AWS Rule 4.4 - Correctly defined metric and filter for IAM policy changes is evaluated as failure.](https://github.com/elastic/cloudbeat/issues/827)
-
-- [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
 
