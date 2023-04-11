@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 06:28 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 06:38 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
@@ -74,6 +79,11 @@
 - [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
 
 
+## cli/cli <span style='color:#F1C40F'>(32.0K ⭐️)</span>
+
+- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
+
+
 ## oras-project/oras <span style='color:#F1C40F'>(897 ⭐️)</span>
 
 - [Avoid requiring passing --plain-http when specifying --insecure](https://github.com/oras-project/oras/issues/914)
@@ -104,11 +114,6 @@
 - [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
 
 - [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
@@ -338,17 +343,4 @@
 - [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
 
 - [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-
-## Edgenesis/shifu <span style='color:#F1C40F'>(831 ⭐️)</span>
-
-- [The traffic light FSM implementation for deviceShifu](https://github.com/Edgenesis/shifu/issues/547)
-
-- [OPC UA node ID Browing feature on Shifu .Currently we are providing  NodeID' s Manually by going to the OPC UA server loc.  ](https://github.com/Edgenesis/shifu/issues/545)
-
-- [The simplest FSM implementation of deviceShifu](https://github.com/Edgenesis/shifu/issues/542)
-
-- [convert DeviceShifuBase data structure from single EdgeDevice to a list type of EdgeDevice](https://github.com/Edgenesis/shifu/issues/538)
-
-- [In swarm mode, deviceShifuBase supports multiple EdgeDevices](https://github.com/Edgenesis/shifu/issues/539)
 
