@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 18:28 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 18:38 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
@@ -61,11 +78,6 @@
 - [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
 
 - [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -172,11 +184,6 @@
 - [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
 
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -449,32 +456,4 @@
 - [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
 
 - [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
-
-- [Gitlab template uses deprecated json schema](https://github.com/aquasecurity/trivy/issues/4033)
-
-- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(165 ⭐️)</span>
-
-- [typo: `RowsRoots`](https://github.com/celestiaorg/celestia-app/issues/1609)
-
-- [Organize ADR assets](https://github.com/celestiaorg/celestia-app/issues/1602)
-
-- [Improve documentation of `PayForBlobs` CLI](https://github.com/celestiaorg/celestia-app/issues/1600)
-
-- [Set bonus proposer reward to 0%](https://github.com/celestiaorg/celestia-app/issues/1589)
-
-- [Consider introducing a type alias for `NamespaceVersion`](https://github.com/celestiaorg/celestia-app/issues/1574)
-
-- [Explore enforcing conventional commits](https://github.com/celestiaorg/celestia-app/issues/1539)
-
-- [specs: rename `message` => `blob`](https://github.com/celestiaorg/celestia-app/issues/1532)
-
-- [docs: rename `message` => `blob` in ADRs](https://github.com/celestiaorg/celestia-app/issues/1531)
-
-- [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
 
