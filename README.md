@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 03:28 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 03:38 UTC.</div>
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
@@ -82,15 +100,6 @@
 - [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
 
 - [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
@@ -327,7 +336,7 @@
 - [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
 
 
-## hashicorp/nomad <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
 
 - [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
 
