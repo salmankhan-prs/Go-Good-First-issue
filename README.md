@@ -4,7 +4,40 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 20:58 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 21:08 UTC.</div>
+
+
+## deislabs/ratify <span style='color:#F1C40F'>(111 ⭐️)</span>
+
+- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
+
+
+## dapr/components-contrib <span style='color:#F1C40F'>(440 ⭐️)</span>
+
+- [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
+
+- [Issues with SQL Server state store and MSI auth](https://github.com/dapr/components-contrib/issues/2726)
+
+- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
+
+- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
+
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+
+## opensearch-project/opensearch-go <span style='color:#F1C40F'>(114 ⭐️)</span>
+
+- [[Guide] Bulk](https://github.com/opensearch-project/opensearch-go/issues/278)
+
+- [[Guide] Search](https://github.com/opensearch-project/opensearch-go/issues/277)
+
+- [[Guide] Document Lifecycle](https://github.com/opensearch-project/opensearch-go/issues/276)
+
+- [[Guide] Index Template](https://github.com/opensearch-project/opensearch-go/issues/275)
+
+- [[Guide] Advanced Index Actions](https://github.com/opensearch-project/opensearch-go/issues/274)
+
+- [[Guide] Index Lifecycle](https://github.com/opensearch-project/opensearch-go/issues/273)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -91,6 +124,15 @@
 - [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
 
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
@@ -180,7 +222,7 @@
 - [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
 
 
-## diggerhq/digger <span style='color:#F1C40F'>(303 ⭐️)</span>
+## diggerhq/digger <span style='color:#F1C40F'>(304 ⭐️)</span>
 
 - [Fail with better error message if no terraform files exist in default location](https://github.com/diggerhq/digger/issues/121)
 
@@ -230,15 +272,6 @@
 - [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
 
 
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.4K ⭐️)</span>
 
 - [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
@@ -282,118 +315,4 @@
 - [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
 
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
-
-- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(277 ⭐️)</span>
-
-- [Deprecate support for short JobIDs](https://github.com/bacalhau-project/bacalhau/issues/2298)
-
-- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
-
-- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## deislabs/ratify <span style='color:#F1C40F'>(111 ⭐️)</span>
-
-- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
-
-
-## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [Support parallel image building on Linux and Windows nodes during image delivery process](https://github.com/antrea-io/antrea/issues/4805)
-
-- [Update Jenkins job description for windows containerd jobs](https://github.com/antrea-io/antrea/issues/4806)
-
-
-## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Span sets returned by TraceQL should return the number of all matching spans](https://github.com/grafana/tempo/issues/2307)
-
-- [Add query parameter to Search API to configure the spans per span set](https://github.com/grafana/tempo/issues/2308)
-
-- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
-
-- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
-
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## open-horizon/anax <span style='color:#F1C40F'>(64 ⭐️)</span>
-
-- [Feature Request: Add --applies-to for deployment policies](https://github.com/open-horizon/anax/issues/3743)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-
-## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
-
-- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
-
-
-## web-platform-tests/wpt.fyi <span style='color:#F1C40F'>(147 ⭐️)</span>
-
-- [Write web tests for Interop Dashboard components](https://github.com/web-platform-tests/wpt.fyi/issues/3228)
-
-
-## hay-kot/homebox <span style='color:#F1C40F'>(860 ⭐️)</span>
-
-- [Field Search API Doesn't Return Values](https://github.com/hay-kot/homebox/issues/391)
-
-- [Reset Search Button Does Not Reset All Fields](https://github.com/hay-kot/homebox/issues/392)
-
-
-## PuremlHQ/PureML <span style='color:#F1C40F'>(115 ⭐️)</span>
-
-- [update frontend readme with requirements, installation & usage](https://github.com/PuremlHQ/PureML/issues/193)
-
-- [Docker compose settings up should pull latest image](https://github.com/PuremlHQ/PureML/issues/181)
-
-- [Replace the 'github star' btn with custom github star btn](https://github.com/PuremlHQ/PureML/issues/173)
-
-- [selected tab 'Data Lineage' should be highlighted in datasets version](https://github.com/PuremlHQ/PureML/issues/182)
-
-- [CLI Documentation for Self-Hosting Usage](https://github.com/PuremlHQ/PureML/issues/179)
 
