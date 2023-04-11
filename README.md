@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 17:38 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 17:48 UTC.</div>
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(719 ⭐️)</span>
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+
+
+## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
+
+- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -47,11 +66,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(719 ⭐️)</span>
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(276 ⭐️)</span>
@@ -154,11 +168,29 @@
 - [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
 
+## solo-io/gloo <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
+
+- [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
+
+- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
+
+
 ## kairos-io/kairos <span style='color:#F1C40F'>(443 ⭐️)</span>
 
 - [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
 
 - [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
+
+- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
 
 
 ## jatalocks/terracove <span style='color:#F1C40F'>(11 ⭐️)</span>
@@ -177,11 +209,6 @@
 - [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
 
 - [Use state enums in connection handshake log](https://github.com/cosmos/ibc-go/issues/3385)
-
-
-## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
-
-- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
 
 
 ## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
@@ -225,15 +252,6 @@
 - [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
 
 - [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
-
-- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
 
 
 ## in-toto/attestation <span style='color:#F1C40F'>(111 ⭐️)</span>
@@ -347,53 +365,4 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Span sets returned by TraceQL should return the number of all matching spans](https://github.com/grafana/tempo/issues/2307)
-
-- [Add query parameter to Search API to configure the spans per span set](https://github.com/grafana/tempo/issues/2308)
-
-- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
-
-
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## provenance-io/provenance <span style='color:#F1C40F'>(72 ⭐️)</span>
-
-- [Update table driven unit tests to use named fields.](https://github.com/provenance-io/provenance/issues/1436)
-
-- [Archive our cosmovisor repo](https://github.com/provenance-io/provenance/issues/1420)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
-
-- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## diggerhq/digger <span style='color:#F1C40F'>(302 ⭐️)</span>
-
-- [Fail with better error message if no terraform files exist in default location](https://github.com/diggerhq/digger/issues/121)
-
-- [Only run apply if PR is mergeable](https://github.com/diggerhq/digger/issues/118)
-
-- [Support multiple Terraform versions](https://github.com/diggerhq/digger/issues/105)
-
-- [dissplay a warning if plan requested ](https://github.com/diggerhq/digger/issues/52)
-
-- [Add option for disabling usage data](https://github.com/diggerhq/digger/issues/92)
-
-- [Get rid of hardcoded value of bucket for GCP](https://github.com/diggerhq/digger/issues/94)
-
-- [Add support for aws-vault](https://github.com/diggerhq/digger/issues/97)
-
-- [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
-
-- [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
 
