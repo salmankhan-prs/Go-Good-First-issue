@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 00:38 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 00:48 UTC.</div>
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -105,6 +105,11 @@
 - [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
 
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Support for nars?](https://github.com/anchore/syft/issues/1701)
 
 
 ## cilium/cilium-cli <span style='color:#F1C40F'>(215 ⭐️)</span>
@@ -314,7 +319,7 @@
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
 
 
-## PuremlHQ/PureML <span style='color:#F1C40F'>(113 ⭐️)</span>
+## PuremlHQ/PureML <span style='color:#F1C40F'>(114 ⭐️)</span>
 
 - [update frontend readme with requirements, installation & usage](https://github.com/PuremlHQ/PureML/issues/193)
 
