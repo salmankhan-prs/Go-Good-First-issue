@@ -4,7 +4,34 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 08:18 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 08:28 UTC.</div>
+
+
+## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
+
+- [display kuberpults version number in UI](https://github.com/freiheit-com/kuberpult/issues/610)
+
+- [Env labels should have tooltips](https://github.com/freiheit-com/kuberpult/issues/588)
+
+- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
+
+
+## drorIvry/rego <span style='color:#F1C40F'>(8 ⭐️)</span>
+
+- [Add an actual CI/CD](https://github.com/drorIvry/rego/issues/14)
+
+- [support external DBs](https://github.com/drorIvry/rego/issues/10)
+
+- [add a workflow option](https://github.com/drorIvry/rego/issues/11)
+
+- [Implement a CLI](https://github.com/drorIvry/rego/issues/13)
+
+- [docker deployment](https://github.com/drorIvry/rego/issues/12)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -30,15 +57,6 @@
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
-## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
-
-- [display kuberpults version number in UI](https://github.com/freiheit-com/kuberpult/issues/610)
-
-- [Env labels should have tooltips](https://github.com/freiheit-com/kuberpult/issues/588)
-
-- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
-
-
 ## superfly/flyctl <span style='color:#F1C40F'>(967 ⭐️)</span>
 
 - [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
@@ -53,9 +71,9 @@
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+## anchore/syft <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+- [Support for nars?](https://github.com/anchore/syft/issues/1701)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
@@ -75,6 +93,11 @@
 - [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## cybozu-go/neco <span style='color:#F1C40F'>(218 ⭐️)</span>
@@ -117,11 +140,6 @@
 - [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
 
 
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.5K ⭐️)</span>
 
 - [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
@@ -139,11 +157,6 @@
 ## apache/incubator-devlake <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [[Doc][Dashboard] Outdated links to Grafana doc](https://github.com/apache/incubator-devlake/issues/4861)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
@@ -289,18 +302,4 @@
 ## cilium/cilium-cli <span style='color:#F1C40F'>(215 ⭐️)</span>
 
 - [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
-
-
-## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(66 ⭐️)</span>
-
-- [typo: getting started "informatio"](https://github.com/keptn/lifecycle-toolkit/issues/1195)
-
-- [Research new base container images](https://github.com/keptn/lifecycle-toolkit/issues/1094)
-
-
-## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
-
-- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
 
