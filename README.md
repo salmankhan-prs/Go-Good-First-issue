@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 18:08 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 18:18 UTC.</div>
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(719 ⭐️)</span>
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+
+
+## deislabs/ratify <span style='color:#F1C40F'>(111 ⭐️)</span>
+
+- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
+
+
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(245 ⭐️)</span>
+
+- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
+
+- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
+
+- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.4K ⭐️)</span>
@@ -26,20 +50,6 @@
 - [Add query parameter to Search API to configure the spans per span set](https://github.com/grafana/tempo/issues/2308)
 
 - [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
-
-
-## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(245 ⭐️)</span>
-
-- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
-
-- [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
-
-- [Add missing test coverage for azuremachine_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3373)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(782 ⭐️)</span>
@@ -86,11 +96,6 @@
 - [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
 
 - [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(719 ⭐️)</span>
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
 ## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
@@ -308,4 +313,194 @@
 - [Create test suite for Java bindings](https://github.com/in-toto/attestation/issues/177)
 
 - [Add pre-generated Rust bindings for protobufs](https://github.com/in-toto/attestation/issues/174)
+
+
+## onflow/cadence <span style='color:#F1C40F'>(461 ⭐️)</span>
+
+- [Add HashableStruct type](https://github.com/onflow/cadence/issues/2428)
+
+- [Return overflowing value when for UInt256 and Int256 ](https://github.com/onflow/cadence/issues/2389)
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
+
+- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
+
+- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
+
+- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
+
+- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
+
+- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
+
+- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
+
+- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
+
+- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
+
+- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+
+
+## cloudfoundry/korifi <span style='color:#F1C40F'>(182 ⭐️)</span>
+
+- [[Feature]: Korifi api users should be able to use long API/workloads URLs](https://github.com/cloudfoundry/korifi/issues/2425)
+
+- [[Feature]: Korifi api users should be able to get the default domain for an org](https://github.com/cloudfoundry/korifi/issues/2407)
+
+- [[Feature]: Operators can push manifests with buildpack specified](https://github.com/cloudfoundry/korifi/issues/2315)
+
+- [[Feature]: Korifi API users do not need to pass lifecycle step and bulidpack when creaing an app](https://github.com/cloudfoundry/korifi/issues/2366)
+
+- [[Feature]: Korifi API users can check what app features are enabled](https://github.com/cloudfoundry/korifi/issues/2357)
+
+- [[Feature]: Korifi API users should be able to specify  when creating service instances](https://github.com/cloudfoundry/korifi/issues/2343)
+
+- [[Feature]: Korifi API users should be able to get stats for a process by process type](https://github.com/cloudfoundry/korifi/issues/2340)
+
+- [[Feature]: Korifi API users should be able to list the builds of an app](https://github.com/cloudfoundry/korifi/issues/2335)
+
+- [[Feature]: Do not return an error when specifying a page query parameter when listing routes](https://github.com/cloudfoundry/korifi/issues/2329)
+
+- [[Bug]: Korifi default domain guid must be a valid uuid](https://github.com/cloudfoundry/korifi/issues/2328)
+
+- [[Feature]: Koirif API users can update app lifecycle](https://github.com/cloudfoundry/korifi/issues/2327)
+
+- [[Feature]: Koirif API users can check whether ssh for apps is enabled](https://github.com/cloudfoundry/korifi/issues/2326)
+
+- [[Feature]: Do not return error when specifying a page query parameter when listing domains](https://github.com/cloudfoundry/korifi/issues/2324)
+
+- [[Feature]: Korifi API users can filter service bindings via label selectors](https://github.com/cloudfoundry/korifi/issues/2318)
+
+- [[Feature]: Korifi API users can filter apps by label selector](https://github.com/cloudfoundry/korifi/issues/2307)
+
+- [[Feature]: Do not return an error when specifying a page query parameter when listing service bindings](https://github.com/cloudfoundry/korifi/issues/2317)
+
+- [[Feature]: Do not return an error when specifying page query parameter when listing roles](https://github.com/cloudfoundry/korifi/issues/2308)
+
+- [[Feature]: Korifi API users do not get errors when specifying `page` query parameter when listing service instance](https://github.com/cloudfoundry/korifi/issues/2306)
+
+- [[Feature]: Korifi API users can filter service instances by label selector](https://github.com/cloudfoundry/korifi/issues/2305)
+
+- [[Feature]: Do not return an error when specifying `page` query parameter when listing roles](https://github.com/cloudfoundry/korifi/issues/2301)
+
+- [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
+
+- [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## cli/cli <span style='color:#F1C40F'>(32.0K ⭐️)</span>
+
+- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
+
+
+## provenance-io/provenance <span style='color:#F1C40F'>(72 ⭐️)</span>
+
+- [Update table driven unit tests to use named fields.](https://github.com/provenance-io/provenance/issues/1436)
+
+- [Archive our cosmovisor repo](https://github.com/provenance-io/provenance/issues/1420)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
+
+- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
+## diggerhq/digger <span style='color:#F1C40F'>(302 ⭐️)</span>
+
+- [Fail with better error message if no terraform files exist in default location](https://github.com/diggerhq/digger/issues/121)
+
+- [Only run apply if PR is mergeable](https://github.com/diggerhq/digger/issues/118)
+
+- [Support multiple Terraform versions](https://github.com/diggerhq/digger/issues/105)
+
+- [dissplay a warning if plan requested ](https://github.com/diggerhq/digger/issues/52)
+
+- [Add option for disabling usage data](https://github.com/diggerhq/digger/issues/92)
+
+- [Get rid of hardcoded value of bucket for GCP](https://github.com/diggerhq/digger/issues/94)
+
+- [Add support for aws-vault](https://github.com/diggerhq/digger/issues/97)
+
+- [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
+
+- [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
+
+- [Gitlab template uses deprecated json schema](https://github.com/aquasecurity/trivy/issues/4033)
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
+
+
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(165 ⭐️)</span>
+
+- [typo: `RowsRoots`](https://github.com/celestiaorg/celestia-app/issues/1609)
+
+- [Organize ADR assets](https://github.com/celestiaorg/celestia-app/issues/1602)
+
+- [Improve documentation of `PayForBlobs` CLI](https://github.com/celestiaorg/celestia-app/issues/1600)
+
+- [Set bonus proposer reward to 0%](https://github.com/celestiaorg/celestia-app/issues/1589)
+
+- [Consider introducing a type alias for `NamespaceVersion`](https://github.com/celestiaorg/celestia-app/issues/1574)
+
+- [Explore enforcing conventional commits](https://github.com/celestiaorg/celestia-app/issues/1539)
+
+- [specs: rename `message` => `blob`](https://github.com/celestiaorg/celestia-app/issues/1532)
+
+- [docs: rename `message` => `blob` in ADRs](https://github.com/celestiaorg/celestia-app/issues/1531)
+
+- [Add a func to determine if `Data` is the minimum square](https://github.com/celestiaorg/celestia-app/issues/1517)
+
+
+## mainflux/mainflux <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [Improve path parameters naming](https://github.com/mainflux/mainflux/issues/1761)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Support for variable interpolation in `workspace.*` (in `PipelineRun` and `TaskRun`)](https://github.com/tektoncd/pipeline/issues/6384)
+
+- [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
+
+- [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
+
+
+## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [优化项目内的测试用例，使得测试用例之间可以并行执行，减少CI执行时间](https://github.com/polarismesh/polaris/issues/1073)
+
+- [windows添加一键启动](https://github.com/polarismesh/polaris/issues/1072)
+
+
+## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
 
