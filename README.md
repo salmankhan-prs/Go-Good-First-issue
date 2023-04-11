@@ -4,7 +4,41 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 21:48 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 21:58 UTC.</div>
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
+
+
+## opensearch-project/opensearch-go <span style='color:#F1C40F'>(114 ⭐️)</span>
+
+- [[Guide] Bulk](https://github.com/opensearch-project/opensearch-go/issues/278)
+
+- [[Guide] Search](https://github.com/opensearch-project/opensearch-go/issues/277)
+
+- [[Guide] Document Lifecycle](https://github.com/opensearch-project/opensearch-go/issues/276)
+
+- [[Guide] Index Template](https://github.com/opensearch-project/opensearch-go/issues/275)
+
+- [[Guide] Advanced Index Actions](https://github.com/opensearch-project/opensearch-go/issues/274)
+
+- [[Guide] Index Lifecycle](https://github.com/opensearch-project/opensearch-go/issues/273)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.4K ⭐️)</span>
+
+- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
+
+
+## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
+
+- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
 
 
 ## gnolang/gno <span style='color:#F1C40F'>(721 ⭐️)</span>
@@ -12,6 +46,11 @@
 - [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
 
 - [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -74,33 +113,11 @@
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
-## opensearch-project/opensearch-go <span style='color:#F1C40F'>(114 ⭐️)</span>
-
-- [[Guide] Bulk](https://github.com/opensearch-project/opensearch-go/issues/278)
-
-- [[Guide] Search](https://github.com/opensearch-project/opensearch-go/issues/277)
-
-- [[Guide] Document Lifecycle](https://github.com/opensearch-project/opensearch-go/issues/276)
-
-- [[Guide] Index Template](https://github.com/opensearch-project/opensearch-go/issues/275)
-
-- [[Guide] Advanced Index Actions](https://github.com/opensearch-project/opensearch-go/issues/274)
-
-- [[Guide] Index Lifecycle](https://github.com/opensearch-project/opensearch-go/issues/273)
-
-
 ## superfly/flyctl <span style='color:#F1C40F'>(968 ⭐️)</span>
 
 - [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
 
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
-## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [tracee cmdline output (help, list events, list signatures) should have tabled output](https://github.com/aquasecurity/tracee/issues/2972)
-
-- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
 
 ## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -180,25 +197,11 @@
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
 
 - [Explore moving `readFile` to `host_id_bsd.go`](https://github.com/open-telemetry/opentelemetry-go/issues/3972)
 
 - [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
-
-- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -294,19 +297,9 @@
 - [Return overflowing value when for UInt256 and Int256 ](https://github.com/onflow/cadence/issues/2389)
 
 
-## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-
 ## replicatedhq/troubleshoot <span style='color:#F1C40F'>(424 ⭐️)</span>
 
 - [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.4K ⭐️)</span>
-
-- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
 
 
 ## GoogleContainerTools/kpt <span style='color:#F1C40F'>(1.4K ⭐️)</span>
