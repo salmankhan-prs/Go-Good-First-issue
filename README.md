@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 00:48 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 00:58 UTC.</div>
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+
+- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -347,13 +352,4 @@
 - [[Guide] Advanced Index Actions](https://github.com/opensearch-project/opensearch-go/issues/274)
 
 - [[Guide] Index Lifecycle](https://github.com/opensearch-project/opensearch-go/issues/273)
-
-
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
