@@ -4,7 +4,35 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 11:28 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 11:38 UTC.</div>
+
+
+## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [Update log messages to refer to Gnosis Chain / Gnosis and not Ethereum](https://github.com/ethersphere/bee/issues/3980)
+
+- [For "redistributionstate" endpoint, change "lastPlayedRound" to actually show last round played, and add "lastSelectedRound" so show if the node's neighborhood was selected](https://github.com/ethersphere/bee/issues/3979)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(967 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
+
+- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(473 ⭐️)</span>
+
+- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
+
+- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
+
+- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(276 ⭐️)</span>
@@ -77,6 +105,15 @@
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
+## cosmos/ibc-go <span style='color:#F1C40F'>(355 ⭐️)</span>
+
+- [nit: remove "callback" from msg server logging, except where relevant](https://github.com/cosmos/ibc-go/issues/3404)
+
+- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
+
+- [Use state enums in connection handshake log](https://github.com/cosmos/ibc-go/issues/3385)
+
+
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
 
 - [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
@@ -93,11 +130,6 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
-
-- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -323,22 +355,4 @@
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(479 ⭐️)</span>
 
 - [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
-
-- [Kubernetes clusters should disable automounting API credentials](https://github.com/kubernetes/ingress-nginx/issues/9735)
-
-
-## PuremlHQ/PureML <span style='color:#F1C40F'>(115 ⭐️)</span>
-
-- [update frontend readme with requirements, installation & usage](https://github.com/PuremlHQ/PureML/issues/193)
-
-- [Docker compose settings up should pull latest image](https://github.com/PuremlHQ/PureML/issues/181)
-
-- [Replace the 'github star' btn with custom github star btn](https://github.com/PuremlHQ/PureML/issues/173)
-
-- [selected tab 'Data Lineage' should be highlighted in datasets version](https://github.com/PuremlHQ/PureML/issues/182)
-
-- [CLI Documentation for Self-Hosting Usage](https://github.com/PuremlHQ/PureML/issues/179)
 
