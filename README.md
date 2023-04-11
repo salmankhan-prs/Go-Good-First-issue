@@ -4,7 +4,124 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 15:48 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 15:58 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(276 ⭐️)</span>
+
+- [Deprecate support for short JobIDs](https://github.com/bacalhau-project/bacalhau/issues/2298)
+
+- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
+
+- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
+
+
+## in-toto/attestation <span style='color:#F1C40F'>(111 ⭐️)</span>
+
+- [Add pre-generated Java bindings for protobufs](https://github.com/in-toto/attestation/issues/173)
+
+- [Add a ResourceDescriptor predicate](https://github.com/in-toto/attestation/issues/179)
+
+- [Create test suite for Python bindings](https://github.com/in-toto/attestation/issues/176)
+
+- [Create test suite for Go bindings](https://github.com/in-toto/attestation/issues/175)
+
+- [Create test suite for Rust bindings](https://github.com/in-toto/attestation/issues/178)
+
+- [Create test suite for Java bindings](https://github.com/in-toto/attestation/issues/177)
+
+- [Add pre-generated Rust bindings for protobufs](https://github.com/in-toto/attestation/issues/174)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
+
+- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
+
+
+## onflow/cadence <span style='color:#F1C40F'>(461 ⭐️)</span>
+
+- [Add HashableStruct type](https://github.com/onflow/cadence/issues/2428)
+
+- [Return overflowing value when for UInt256 and Int256 ](https://github.com/onflow/cadence/issues/2389)
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
+
+- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
+
+- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
+
+- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
+
+- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
+
+- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
+
+- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
+
+- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
+
+- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
+
+- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+
+
+## cloudfoundry/korifi <span style='color:#F1C40F'>(182 ⭐️)</span>
+
+- [[Feature]: Korifi api users should be able to use long API/workloads URLs](https://github.com/cloudfoundry/korifi/issues/2425)
+
+- [[Feature]: Korifi api users should be able to get the default domain for an org](https://github.com/cloudfoundry/korifi/issues/2407)
+
+- [[Feature]: Operators can push manifests with buildpack specified](https://github.com/cloudfoundry/korifi/issues/2315)
+
+- [[Feature]: Korifi API users do not need to pass lifecycle step and bulidpack when creaing an app](https://github.com/cloudfoundry/korifi/issues/2366)
+
+- [[Feature]: Korifi API users can check what app features are enabled](https://github.com/cloudfoundry/korifi/issues/2357)
+
+- [[Feature]: Korifi API users should be able to specify  when creating service instances](https://github.com/cloudfoundry/korifi/issues/2343)
+
+- [[Feature]: Korifi API users should be able to get stats for a process by process type](https://github.com/cloudfoundry/korifi/issues/2340)
+
+- [[Feature]: Korifi API users should be able to list the builds of an app](https://github.com/cloudfoundry/korifi/issues/2335)
+
+- [[Feature]: Do not return an error when specifying a page query parameter when listing routes](https://github.com/cloudfoundry/korifi/issues/2329)
+
+- [[Bug]: Korifi default domain guid must be a valid uuid](https://github.com/cloudfoundry/korifi/issues/2328)
+
+- [[Feature]: Koirif API users can update app lifecycle](https://github.com/cloudfoundry/korifi/issues/2327)
+
+- [[Feature]: Koirif API users can check whether ssh for apps is enabled](https://github.com/cloudfoundry/korifi/issues/2326)
+
+- [[Feature]: Do not return error when specifying a page query parameter when listing domains](https://github.com/cloudfoundry/korifi/issues/2324)
+
+- [[Feature]: Korifi API users can filter service bindings via label selectors](https://github.com/cloudfoundry/korifi/issues/2318)
+
+- [[Feature]: Korifi API users can filter apps by label selector](https://github.com/cloudfoundry/korifi/issues/2307)
+
+- [[Feature]: Do not return an error when specifying a page query parameter when listing service bindings](https://github.com/cloudfoundry/korifi/issues/2317)
+
+- [[Feature]: Do not return an error when specifying page query parameter when listing roles](https://github.com/cloudfoundry/korifi/issues/2308)
+
+- [[Feature]: Korifi API users do not get errors when specifying `page` query parameter when listing service instance](https://github.com/cloudfoundry/korifi/issues/2306)
+
+- [[Feature]: Korifi API users can filter service instances by label selector](https://github.com/cloudfoundry/korifi/issues/2305)
+
+- [[Feature]: Do not return an error when specifying `page` query parameter when listing roles](https://github.com/cloudfoundry/korifi/issues/2301)
+
+- [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
+
+- [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -49,6 +166,8 @@
 
 ## diggerhq/digger <span style='color:#F1C40F'>(302 ⭐️)</span>
 
+- [Fail with better error message if no terraform files exist in default location](https://github.com/diggerhq/digger/issues/121)
+
 - [Only run apply if PR is mergeable](https://github.com/diggerhq/digger/issues/118)
 
 - [Support multiple Terraform versions](https://github.com/diggerhq/digger/issues/105)
@@ -64,6 +183,13 @@
 - [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
 
 - [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
+
+- [Gitlab template uses deprecated json schema](https://github.com/aquasecurity/trivy/issues/4033)
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(165 ⭐️)</span>
@@ -119,11 +245,6 @@
 ## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
 
 - [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
-
-
-## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Include inbound and outbound edges when automatically activating rank in the graph](https://github.com/kiali/kiali/issues/5915)
 
 
 ## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -217,147 +338,4 @@
 - [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
 
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [[Feature] Set up the component/trait definition unit tests framework based on CUE](https://github.com/kubevela/kubevela/issues/5766)
-
-- [vela show --web not populating ComponentType](https://github.com/kubevela/kubevela/issues/5769)
-
-- [The progress bar on the front end of the installation plugin is still spinning](https://github.com/kubevela/kubevela/issues/5753)
-
-- [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
-
-- [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
-
-- [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(575 ⭐️)</span>
-
-- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
-## l7mp/stunner-gateway-operator <span style='color:#F1C40F'>(7 ⭐️)</span>
-
-- [Automatically expose health-check ports on LBs](https://github.com/l7mp/stunner-gateway-operator/issues/22)
-
-- [Support mixed-protocol (UDP/TCP) LBs for exposing Gateways](https://github.com/l7mp/stunner-gateway-operator/issues/21)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
-
-
-## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
-
-- [🎯New Source Connector Request: Google Analytics Source Connector](https://github.com/vanus-labs/vanus-connect/issues/317)
-
-- [🎯 New Sink Connector Request: APITable](https://github.com/vanus-labs/vanus-connect/issues/314)
-
-- [🎯New Source Connector Request: Facebook Marketing Source Connector](https://github.com/vanus-labs/vanus-connect/issues/315)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Explore moving `readFile` to `host_id_bsd.go`](https://github.com/open-telemetry/opentelemetry-go/issues/3972)
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
-
-- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
-
-- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
-
-- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
-
-- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
-
-- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
-
-- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
-
-- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
-
-- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
-
-- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
-
-
-## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Eventing TLS: support sending events to HTTPS endpoints in eventshub](https://github.com/knative/eventing/issues/6840)
-
-- [Eventing TLS: Add scheme label to metrics](https://github.com/knative/eventing/issues/6838)
-
-- [Eventing TLS: Create Cert-Manager resources](https://github.com/knative/eventing/issues/6837)
-
-- [Eventing TLS: support receiving events to HTTPS endpoints in eventshub](https://github.com/knative/eventing/issues/6842)
-
-
-## kyma-project/lifecycle-manager <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Remove CPU limit for lifecycle manager](https://github.com/kyma-project/lifecycle-manager/issues/518)
-
-- [Add issue template to Lifecycle Manager repo](https://github.com/kyma-project/lifecycle-manager/issues/497)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(719 ⭐️)</span>
-
-- [Remove wasmEnabledProposals []wasm.ProposalType from NewOsmosisApp](https://github.com/osmosis-labs/osmosis/issues/4865)
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
-
-- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(276 ⭐️)</span>
-
-- [Deprecate support for short JobIDs](https://github.com/bacalhau-project/bacalhau/issues/2298)
-
-- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
-
-- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
 
