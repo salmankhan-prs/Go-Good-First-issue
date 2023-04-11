@@ -4,28 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 16:48 UTC.</div>
-
-
-## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+<div align='center'>Last updated at April 11, 2023 16:58 UTC.</div>
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(719 ⭐️)</span>
 
-- [Remove wasmEnabledProposals []wasm.ProposalType from NewOsmosisApp](https://github.com/osmosis-labs/osmosis/issues/4865)
-
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
@@ -33,13 +17,11 @@
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
-## jatalocks/terracove <span style='color:#F1C40F'>(11 ⭐️)</span>
+## kairos-io/kairos <span style='color:#F1C40F'>(443 ⭐️)</span>
 
-- [✨  Github Action](https://github.com/jatalocks/terracove/issues/5)
+- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
 
-- [⚠️ Warn on missing terraform/terragrunt binaries](https://github.com/jatalocks/terracove/issues/7)
-
-- [🔊 Refactor logging mechanism](https://github.com/jatalocks/terracove/issues/6)
+- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
 
 ## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
@@ -52,6 +34,29 @@
 - [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
 
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## jatalocks/terracove <span style='color:#F1C40F'>(11 ⭐️)</span>
+
+- [✨  Github Action](https://github.com/jatalocks/terracove/issues/5)
+
+- [⚠️ Warn on missing terraform/terragrunt binaries](https://github.com/jatalocks/terracove/issues/7)
+
+- [🔊 Refactor logging mechanism](https://github.com/jatalocks/terracove/issues/6)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -84,6 +89,17 @@
 - [Env labels should have tooltips](https://github.com/freiheit-com/kuberpult/issues/588)
 
 - [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(781 ⭐️)</span>
+
+- [SPDX parser top level heuristic change to check "DESCRIBES" relationship](https://github.com/guacsec/guac/issues/708)
+
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
+
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
 
 
 ## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -250,25 +266,7 @@
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
 
 
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
 
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
-
-
-## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Span sets returned by TraceQL should return the number of all matching spans](https://github.com/grafana/tempo/issues/2307)
-
-- [Add query parameter to Search API to configure the spans per span set](https://github.com/grafana/tempo/issues/2308)
-
-- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
