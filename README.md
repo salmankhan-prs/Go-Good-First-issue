@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 05:08 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 05:18 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
+
+- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -22,14 +34,7 @@
 - [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
 
 
-## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
-
-- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
-
-
-## ossf/package-analysis <span style='color:#F1C40F'>(602 ⭐️)</span>
+## ossf/package-analysis <span style='color:#F1C40F'>(603 ⭐️)</span>
 
 - [Copy local archives into sandbox rather than mounting](https://github.com/ossf/package-analysis/issues/686)
 
@@ -103,9 +108,11 @@
 - [Include explanation of `/setup` command in README](https://github.com/mattermost/mattermost-plugin-github/issues/655)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(717 ⭐️)</span>
 
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+- [Remove wasmEnabledProposals []wasm.ProposalType from NewOsmosisApp](https://github.com/osmosis-labs/osmosis/issues/4865)
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
 ## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -297,13 +304,6 @@
 - [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(716 ⭐️)</span>
-
-- [Remove wasmEnabledProposals []wasm.ProposalType from NewOsmosisApp](https://github.com/osmosis-labs/osmosis/issues/4865)
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
-
-
 ## berops/claudie <span style='color:#F1C40F'>(213 ⭐️)</span>
 
 - [Chore: Example Claudie manifest file doesn't demonstrate configuration for creating static node-pools](https://github.com/berops/claudie/issues/704)
@@ -353,13 +353,4 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(473 ⭐️)</span>
-
-- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
-
-- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
-
-- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
 
