@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 12:08 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 12:18 UTC.</div>
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(474 ⭐️)</span>
+
+- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
+
+- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
+
+- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -75,11 +94,6 @@
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
-
-
 ## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
 
 - [Use the same method for parsing YAML manifest as `kubectl apply` does](https://github.com/komodorio/helm-dashboard/issues/328)
@@ -143,15 +157,6 @@
 ## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
 
 - [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(473 ⭐️)</span>
-
-- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
-
-- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
-
-- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(276 ⭐️)</span>
@@ -260,6 +265,13 @@
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
+## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Explore moving `readFile` to `host_id_bsd.go`](https://github.com/open-telemetry/opentelemetry-go/issues/3972)
+
+- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
+
+
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
@@ -359,11 +371,6 @@
 - [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
 
 - [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
 ## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
