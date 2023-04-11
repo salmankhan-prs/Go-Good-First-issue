@@ -4,12 +4,56 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 09:48 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 09:58 UTC.</div>
+
+
+## elastic/cloudbeat <span style='color:#F1C40F'>(19 ⭐️)</span>
+
+- [[BUG] CIS AWS Rule 4.4 - Correctly defined metric and filter for IAM policy changes is evaluated as failure.](https://github.com/elastic/cloudbeat/issues/827)
+
+- [[BUG] CIS AWS Rule 4.1 - Correctly defined metric and filter for unauthorized API calls is evaluated as failure.](https://github.com/elastic/cloudbeat/issues/823)
+
+- [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
+
+- [display kuberpults version number in UI](https://github.com/freiheit-com/kuberpult/issues/610)
+
+- [Env labels should have tooltips](https://github.com/freiheit-com/kuberpult/issues/588)
+
+- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
+
+
+## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
+
+- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## apache/incubator-devlake <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [[Doc][Dashboard] Outdated links to Grafana doc](https://github.com/apache/incubator-devlake/issues/4861)
+
+
+## vanus-labs/vanus <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [[Good First Issues]: implement function "extract_pattern" - 7 points](https://github.com/vanus-labs/vanus/issues/587)
+
+- [[Good First Issues]: implement function "split_from_end" - 7 points](https://github.com/vanus-labs/vanus/issues/588)
 
 
 ## cloudfoundry/korifi <span style='color:#F1C40F'>(181 ⭐️)</span>
@@ -71,15 +115,6 @@
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
-## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
-
-- [display kuberpults version number in UI](https://github.com/freiheit-com/kuberpult/issues/610)
-
-- [Env labels should have tooltips](https://github.com/freiheit-com/kuberpult/issues/588)
-
-- [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
-
-
 ## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
@@ -88,11 +123,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
-
-- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
 
 
 ## rsteube/carapace-bin <span style='color:#F1C40F'>(194 ⭐️)</span>
@@ -190,15 +220,6 @@
 - [docker deployment](https://github.com/drorIvry/rego/issues/12)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
 ## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
 
 - [Simplify client handling and reduce concurrency latency by embedding the client in the BackendService struct](https://github.com/Frontman-Labs/frontman/issues/103)
@@ -210,6 +231,17 @@
 - [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
 
 - [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
+
+
+## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [create common options, remove intermediate layers](https://github.com/k8stopologyawareschedwg/deployer/issues/182)
+
+- [add option to control the scheduler verbosity](https://github.com/k8stopologyawareschedwg/deployer/issues/189)
+
+- [manifests: scheduler should run in the control plane (default, but overridable)](https://github.com/k8stopologyawareschedwg/deployer/issues/177)
+
+- [manifests: updaters should NOT run in the control plane](https://github.com/k8stopologyawareschedwg/deployer/issues/176)
 
 
 ## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
@@ -294,32 +326,4 @@
 ## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
 
 - [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
-
-- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
-
-
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [Make code consistent when deleting to return 404 status if not found](https://github.com/woodpecker-ci/woodpecker/issues/1675)
-
-- [Display 404 page if api-client return 404 on requested resource](https://github.com/woodpecker-ci/woodpecker/issues/1637)
-
-
-## apache/apisix-ingress-controller <span style='color:#F1C40F'>(781 ⭐️)</span>
-
-- [bug: apisix restarts, ingress controller unavailable](https://github.com/apache/apisix-ingress-controller/issues/1760)
-
-- [docs: describe how to generate secret from cert file](https://github.com/apache/apisix-ingress-controller/issues/1767)
 
