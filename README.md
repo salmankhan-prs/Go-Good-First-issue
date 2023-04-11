@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 13:48 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 13:58 UTC.</div>
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(780 ⭐️)</span>
@@ -23,11 +28,6 @@
 - [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
 
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
-
-- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -123,19 +123,6 @@
 ## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
 
 - [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
-
-
-## drorIvry/rego <span style='color:#F1C40F'>(9 ⭐️)</span>
-
-- [Add an actual CI/CD](https://github.com/drorIvry/rego/issues/14)
-
-- [support external DBs](https://github.com/drorIvry/rego/issues/10)
-
-- [add a workflow option](https://github.com/drorIvry/rego/issues/11)
-
-- [Implement a CLI](https://github.com/drorIvry/rego/issues/13)
-
-- [docker deployment](https://github.com/drorIvry/rego/issues/12)
 
 
 ## drorIvry/rego <span style='color:#F1C40F'>(9 ⭐️)</span>
@@ -318,11 +305,4 @@
 - [[BUG] CIS AWS Rule 4.4 - Correctly defined metric and filter for IAM policy changes is evaluated as failure.](https://github.com/elastic/cloudbeat/issues/827)
 
 - [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
-
-
-## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [Update log messages to refer to Gnosis Chain / Gnosis and not Ethereum](https://github.com/ethersphere/bee/issues/3980)
-
-- [For "redistributionstate" endpoint, change "lastPlayedRound" to actually show last round played, and add "lastSelectedRound" so show if the node's neighborhood was selected](https://github.com/ethersphere/bee/issues/3979)
 
