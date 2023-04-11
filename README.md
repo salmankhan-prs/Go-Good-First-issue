@@ -4,14 +4,30 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 01:28 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 01:38 UTC.</div>
 
 
-## apache/apisix-ingress-controller <span style='color:#F1C40F'>(781 ⭐️)</span>
+## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
 
-- [bug: apisix restarts, ingress controller unavailable](https://github.com/apache/apisix-ingress-controller/issues/1760)
+- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
 
-- [docs: describe how to generate secret from cert file](https://github.com/apache/apisix-ingress-controller/issues/1767)
+
+## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Eventing TLS: Install Cert Manager as part of the test setup phase](https://github.com/knative/eventing/issues/6835)
+
+- [Eventing TLS: support sending events to HTTPS endpoints in eventshub](https://github.com/knative/eventing/issues/6840)
+
+- [Eventing TLS: Add scheme label to metrics](https://github.com/knative/eventing/issues/6838)
+
+- [Eventing TLS: Create Cert-Manager resources](https://github.com/knative/eventing/issues/6837)
+
+- [Eventing TLS: support receiving events to HTTPS endpoints in eventshub](https://github.com/knative/eventing/issues/6842)
+
+
+## knative/pkg <span style='color:#F1C40F'>(236 ⭐️)</span>
+
+- [Eventing TLS: Add AddressableFromDestination method on the resolver](https://github.com/knative/pkg/issues/2714)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -23,6 +39,20 @@
 - [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
+## superfly/flyctl <span style='color:#F1C40F'>(967 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## apache/apisix-ingress-controller <span style='color:#F1C40F'>(781 ⭐️)</span>
+
+- [bug: apisix restarts, ingress controller unavailable](https://github.com/apache/apisix-ingress-controller/issues/1760)
+
+- [docs: describe how to generate secret from cert file](https://github.com/apache/apisix-ingress-controller/issues/1767)
+
+
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(473 ⭐️)</span>
 
 - [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
@@ -30,13 +60,6 @@
 - [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
 
 - [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(967 ⭐️)</span>
-
-- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
@@ -59,9 +82,9 @@
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
-## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
 
-- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
+- [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -180,11 +203,6 @@
 - [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
 
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
-## etcd-io/etcd <span style='color:#F1C40F'>(43.1K ⭐️)</span>
-
-- [Fix link for maintainers role and responsibilities in readme](https://github.com/etcd-io/etcd/issues/15671)
 
 
 ## dapr/components-contrib <span style='color:#F1C40F'>(439 ⭐️)</span>
@@ -431,11 +449,4 @@
 - [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
 
 - [Use state enums in connection handshake log](https://github.com/cosmos/ibc-go/issues/3385)
-
-
-## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [tracee cmdline output (help, list events, list signatures) should have tabled output](https://github.com/aquasecurity/tracee/issues/2972)
-
-- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
 
