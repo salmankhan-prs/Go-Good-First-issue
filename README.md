@@ -4,7 +4,44 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 20:48 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 20:58 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Docs]: Data Source: aws_vpc_endpoint_service](https://github.com/hashicorp/terraform-provider-aws/issues/30649)
+
+- [[Docs]: Mention that orgunit needs to be the id](https://github.com/hashicorp/terraform-provider-aws/issues/30464)
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [tracee cmdline output (help, list events, list signatures) should have tabled output](https://github.com/aquasecurity/tracee/issues/2972)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(719 ⭐️)</span>
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(782 ⭐️)</span>
+
+- [SPDX parser top level heuristic change to check "DESCRIBES" relationship](https://github.com/guacsec/guac/issues/708)
+
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
+
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## rsteube/carapace-bin <span style='color:#F1C40F'>(194 ⭐️)</span>
@@ -17,17 +54,6 @@
 - [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## guacsec/guac <span style='color:#F1C40F'>(782 ⭐️)</span>
-
-- [SPDX parser top level heuristic change to check "DESCRIBES" relationship](https://github.com/guacsec/guac/issues/708)
-
-- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
-
-- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
-
-- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
 
 
 ## mattermost/mattermost-plugin-apps <span style='color:#F1C40F'>(28 ⭐️)</span>
@@ -74,15 +100,6 @@
 - [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Docs]: Data Source: aws_vpc_endpoint_service](https://github.com/hashicorp/terraform-provider-aws/issues/30649)
-
-- [[Docs]: Mention that orgunit needs to be the id](https://github.com/hashicorp/terraform-provider-aws/issues/30464)
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
 ## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
 
 - [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
@@ -93,6 +110,15 @@
 - [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
 
 - [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
+
+
+## jatalocks/terracove <span style='color:#F1C40F'>(11 ⭐️)</span>
+
+- [✨  Github Action](https://github.com/jatalocks/terracove/issues/5)
+
+- [⚠️ Warn on missing terraform/terragrunt binaries](https://github.com/jatalocks/terracove/issues/7)
+
+- [🔊 Refactor logging mechanism](https://github.com/jatalocks/terracove/issues/6)
 
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(14 ⭐️)</span>
@@ -114,6 +140,17 @@
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Version to install options should be sorted semantically](https://github.com/komodorio/helm-dashboard/issues/326)
+
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
+
+
 ## in-toto/attestation <span style='color:#F1C40F'>(111 ⭐️)</span>
 
 - [Add pre-generated Java bindings for protobufs](https://github.com/in-toto/attestation/issues/173)
@@ -131,11 +168,6 @@
 - [Add pre-generated Rust bindings for protobufs](https://github.com/in-toto/attestation/issues/174)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
@@ -148,9 +180,35 @@
 - [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
 
 
+## diggerhq/digger <span style='color:#F1C40F'>(303 ⭐️)</span>
+
+- [Fail with better error message if no terraform files exist in default location](https://github.com/diggerhq/digger/issues/121)
+
+- [Only run apply if PR is mergeable](https://github.com/diggerhq/digger/issues/118)
+
+- [Support multiple Terraform versions](https://github.com/diggerhq/digger/issues/105)
+
+- [dissplay a warning if plan requested ](https://github.com/diggerhq/digger/issues/52)
+
+- [Add option for disabling usage data](https://github.com/diggerhq/digger/issues/92)
+
+- [Get rid of hardcoded value of bucket for GCP](https://github.com/diggerhq/digger/issues/94)
+
+- [Add support for aws-vault](https://github.com/diggerhq/digger/issues/97)
+
+- [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
+
+- [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
+
+
 ## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## cilium/cilium-cli <span style='color:#F1C40F'>(215 ⭐️)</span>
+
+- [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
 
 
 ## onflow/cadence <span style='color:#F1C40F'>(461 ⭐️)</span>
@@ -170,30 +228,6 @@
 ## replicatedhq/troubleshoot <span style='color:#F1C40F'>(424 ⭐️)</span>
 
 - [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
-
-
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.4K ⭐️)</span>
-
-- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
-
-
-## GoogleContainerTools/kpt <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [`kpt live` does not support YAML merging arrays ](https://github.com/GoogleContainerTools/kpt/issues/3897)
-
-
-## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [feat(service): Add [iMessage] service](https://github.com/nikoksr/notify/issues/564)
 
 
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -266,11 +300,6 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(719 ⭐️)</span>
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
 ## deislabs/ratify <span style='color:#F1C40F'>(111 ⭐️)</span>
@@ -367,16 +396,4 @@
 - [selected tab 'Data Lineage' should be highlighted in datasets version](https://github.com/PuremlHQ/PureML/issues/182)
 
 - [CLI Documentation for Self-Hosting Usage](https://github.com/PuremlHQ/PureML/issues/179)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(967 ⭐️)</span>
-
-- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
-## open-policy-agent/gatekeeper <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [add gator to krew](https://github.com/open-policy-agent/gatekeeper/issues/2653)
 
