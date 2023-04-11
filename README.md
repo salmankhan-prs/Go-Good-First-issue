@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 19:28 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 19:38 UTC.</div>
 
 
 ## cilium/cilium-cli <span style='color:#F1C40F'>(215 ⭐️)</span>
