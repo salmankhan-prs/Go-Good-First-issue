@@ -4,7 +4,33 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 11:38 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 11:48 UTC.</div>
+
+
+## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [tracee cmdline output (help, list events, list signatures) should have tabled output](https://github.com/aquasecurity/tracee/issues/2972)
+
+- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
+
+
+## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(66 ⭐️)</span>
+
+- [typo: getting started "informatio"](https://github.com/keptn/lifecycle-toolkit/issues/1195)
+
+- [Research new base container images](https://github.com/keptn/lifecycle-toolkit/issues/1094)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(442 ⭐️)</span>
+
+- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
+
+- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
@@ -33,6 +59,19 @@
 - [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
 
 - [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
+
+
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Use the same method for parsing YAML manifest as `kubectl apply` does](https://github.com/komodorio/helm-dashboard/issues/328)
+
+- [Version to install options should be sorted semantically](https://github.com/komodorio/helm-dashboard/issues/326)
+
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(276 ⭐️)</span>
@@ -74,19 +113,6 @@
 - [[BUG] CIS AWS Rule 4.1 - Correctly defined metric and filter for unauthorized API calls is evaluated as failure.](https://github.com/elastic/cloudbeat/issues/823)
 
 - [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
-
-
-## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Use the same method for parsing YAML manifest as `kubectl apply` does](https://github.com/komodorio/helm-dashboard/issues/328)
-
-- [Version to install options should be sorted semantically](https://github.com/komodorio/helm-dashboard/issues/326)
-
-- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
-
-- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
-
-- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
 
 
 ## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -140,11 +166,6 @@
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -345,14 +366,4 @@
 - [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
 
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
-
-
-## rsteube/carapace-bin <span style='color:#F1C40F'>(194 ⭐️)</span>
-
-- [tea](https://github.com/rsteube/carapace-bin/issues/1643)
-
-
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(479 ⭐️)</span>
-
-- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
 
