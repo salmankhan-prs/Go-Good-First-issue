@@ -4,7 +4,41 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 15:58 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 16:08 UTC.</div>
+
+
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Version to install options should be sorted semantically](https://github.com/komodorio/helm-dashboard/issues/326)
+
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
+
+- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Update NPM dependencies and Dependabot should be configured for OpenCost UI](https://github.com/opencost/opencost/issues/1848)
+
+- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
+
+
+## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
+
+- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -36,15 +70,6 @@
 - [Create test suite for Java bindings](https://github.com/in-toto/attestation/issues/177)
 
 - [Add pre-generated Rust bindings for protobufs](https://github.com/in-toto/attestation/issues/174)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
-
-- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
-
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
-
-- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
 
 
 ## onflow/cadence <span style='color:#F1C40F'>(461 ⭐️)</span>
@@ -242,11 +267,6 @@
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
-## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
-
-- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
-
-
 ## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Include inbound and outbound edges when automatically activating rank in the graph](https://github.com/kiali/kiali/issues/5915)
@@ -313,29 +333,4 @@
 - [K8s/Deployment: Stand-alone deployment](https://github.com/opencurve/curve-operator/issues/25)
 
 - [K8s/Deployment: Feature optimization](https://github.com/opencurve/curve-operator/issues/24)
-
-
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Allow users to specify a path prefix for OTLP HTTP receiver](https://github.com/open-telemetry/opentelemetry-collector/issues/7511)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
-
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
