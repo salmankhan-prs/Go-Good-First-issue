@@ -4,7 +4,54 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 14:48 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 14:58 UTC.</div>
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [[Feature] Set up the component/trait definition unit tests framework based on CUE](https://github.com/kubevela/kubevela/issues/5766)
+
+- [vela show --web not populating ComponentType](https://github.com/kubevela/kubevela/issues/5769)
+
+- [The progress bar on the front end of the installation plugin is still spinning](https://github.com/kubevela/kubevela/issues/5753)
+
+- [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
+
+- [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
+
+- [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(575 ⭐️)</span>
+
+- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
@@ -185,6 +232,15 @@
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
+## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
 
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
@@ -214,13 +270,6 @@
 - [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
 
 - [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 
 ## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -283,22 +332,4 @@
 - [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
 
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
-
-
-## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
-
-- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
-
-
-## drorIvry/rego <span style='color:#F1C40F'>(9 ⭐️)</span>
-
-- [Add an actual CI/CD](https://github.com/drorIvry/rego/issues/14)
-
-- [support external DBs](https://github.com/drorIvry/rego/issues/10)
-
-- [add a workflow option](https://github.com/drorIvry/rego/issues/11)
-
-- [Implement a CLI](https://github.com/drorIvry/rego/issues/13)
-
-- [docker deployment](https://github.com/drorIvry/rego/issues/12)
 
