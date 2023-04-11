@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 22:58 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 23:08 UTC.</div>
+
+
+## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
+
+- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
+
+
+## deislabs/ratify <span style='color:#F1C40F'>(111 ⭐️)</span>
+
+- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
 
 
 ## gnolang/gno <span style='color:#F1C40F'>(721 ⭐️)</span>
@@ -87,11 +97,6 @@
 - [[Guide] Index Lifecycle](https://github.com/opensearch-project/opensearch-go/issues/273)
 
 
-## deislabs/ratify <span style='color:#F1C40F'>(111 ⭐️)</span>
-
-- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
-
-
 ## cosmos/relayer <span style='color:#F1C40F'>(290 ⭐️)</span>
 
 - [feat: add the ability to pull testnet data from the chain registry](https://github.com/cosmos/relayer/issues/1128)
@@ -117,6 +122,11 @@
 - [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
 
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.4K ⭐️)</span>
+
+- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
 
 
 ## dominant-strategies/go-quai <span style='color:#F1C40F'>(153 ⭐️)</span>
@@ -211,13 +221,6 @@
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
-
-- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
 ## rsteube/carapace-bin <span style='color:#F1C40F'>(194 ⭐️)</span>
 
 - [tea](https://github.com/rsteube/carapace-bin/issues/1643)
@@ -270,6 +273,13 @@
 - [⚠️ Warn on missing terraform/terragrunt binaries](https://github.com/jatalocks/terracove/issues/7)
 
 - [🔊 Refactor logging mechanism](https://github.com/jatalocks/terracove/issues/6)
+
+
+## roc-streaming/roc-go <span style='color:#F1C40F'>(14 ⭐️)</span>
+
+- [Add version checking](https://github.com/roc-streaming/roc-go/issues/71)
+
+- [Add debug logging](https://github.com/roc-streaming/roc-go/issues/70)
 
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(14 ⭐️)</span>
@@ -357,24 +367,4 @@
 ## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [feat(service): Add [iMessage] service](https://github.com/nikoksr/notify/issues/564)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(578 ⭐️)</span>
-
-- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
-
-- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
