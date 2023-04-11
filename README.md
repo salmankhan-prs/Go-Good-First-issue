@@ -4,7 +4,46 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 14:08 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 14:18 UTC.</div>
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(276 ⭐️)</span>
+
+- [Deprecate support for short JobIDs](https://github.com/bacalhau-project/bacalhau/issues/2298)
+
+- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
+
+- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(719 ⭐️)</span>
+
+- [Remove wasmEnabledProposals []wasm.ProposalType from NewOsmosisApp](https://github.com/osmosis-labs/osmosis/issues/4865)
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+
+
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Use the same method for parsing YAML manifest as `kubectl apply` does](https://github.com/komodorio/helm-dashboard/issues/328)
+
+- [Version to install options should be sorted semantically](https://github.com/komodorio/helm-dashboard/issues/326)
+
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -12,6 +51,11 @@
 - [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
 
 - [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.7K ⭐️)</span>
@@ -150,11 +194,6 @@
 - [docker deployment](https://github.com/drorIvry/rego/issues/12)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
-
-
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
 - [Eventing TLS: Install Cert Manager as part of the test setup phase](https://github.com/knative/eventing/issues/6835)
@@ -255,54 +294,4 @@
 - [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
 
 - [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
-
-
-## vanus-labs/vanus <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [[Good First Issues]: implement function "extract_pattern" - 7 points](https://github.com/vanus-labs/vanus/issues/587)
-
-- [[Good First Issues]: implement function "split_from_end" - 7 points](https://github.com/vanus-labs/vanus/issues/588)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Use the same method for parsing YAML manifest as `kubectl apply` does](https://github.com/komodorio/helm-dashboard/issues/328)
-
-- [Version to install options should be sorted semantically](https://github.com/komodorio/helm-dashboard/issues/326)
-
-- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
-
-- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
-
-- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
-
-
-## aquasecurity/tracee <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [tracee cmdline output (help, list events, list signatures) should have tabled output](https://github.com/aquasecurity/tracee/issues/2972)
-
-- [Document missing events](https://github.com/aquasecurity/tracee/issues/2901)
-
-
-## omissis/go-jsonschema <span style='color:#F1C40F'>(311 ⭐️)</span>
-
-- [Introduce goreleaser](https://github.com/omissis/go-jsonschema/issues/60)
-
-- [Introduce renovate or dependabot](https://github.com/omissis/go-jsonschema/issues/59)
-
-- [Introduce codecov](https://github.com/omissis/go-jsonschema/issues/58)
-
-- [Update github actions](https://github.com/omissis/go-jsonschema/issues/57)
-
-
-## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
-
-- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
-
-- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
 
