@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 22:28 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 22:38 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -14,6 +37,13 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## derailed/k9s <span style='color:#F1C40F'>(20.4K ⭐️)</span>
+
+- [Add visual hint that current list is filtered by 'faults'](https://github.com/derailed/k9s/issues/2052)
+
+- [Suspend k9s (i.e., job control) using Ctrl+z like with man, vim, less, ...](https://github.com/derailed/k9s/issues/2013)
 
 
 ## opensearch-project/opensearch-go <span style='color:#F1C40F'>(114 ⭐️)</span>
@@ -56,34 +86,11 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
 
 - [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
 
 - [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.4K ⭐️)</span>
@@ -124,6 +131,13 @@
 - [Include explanation of `/setup` command in README](https://github.com/mattermost/mattermost-plugin-github/issues/655)
 
 
+## mattermost/mattermost-plugin-github <span style='color:#F1C40F'>(127 ⭐️)</span>
+
+- [Improve performance of Create Issue modal repository selector](https://github.com/mattermost/mattermost-plugin-github/issues/669)
+
+- [Include explanation of `/setup` command in README](https://github.com/mattermost/mattermost-plugin-github/issues/655)
+
+
 ## elastic/cloudbeat <span style='color:#F1C40F'>(19 ⭐️)</span>
 
 - [[BUG] CIS AWS Rule 4.4 - Correctly defined metric and filter for IAM policy changes is evaluated as failure.](https://github.com/elastic/cloudbeat/issues/827)
@@ -147,13 +161,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## derailed/k9s <span style='color:#F1C40F'>(20.4K ⭐️)</span>
-
-- [Add visual hint that current list is filtered by 'faults'](https://github.com/derailed/k9s/issues/2052)
-
-- [Suspend k9s (i.e., job control) using Ctrl+z like with man, vim, less, ...](https://github.com/derailed/k9s/issues/2013)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(968 ⭐️)</span>
@@ -308,4 +315,71 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## cilium/cilium-cli <span style='color:#F1C40F'>(215 ⭐️)</span>
+
+- [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
+
+
+## onflow/cadence <span style='color:#F1C40F'>(461 ⭐️)</span>
+
+- [Language support to create Address from [UInt8] byte array](https://github.com/onflow/cadence/issues/2433)
+
+- [Add HashableStruct type](https://github.com/onflow/cadence/issues/2428)
+
+- [Return overflowing value when for UInt256 and Int256 ](https://github.com/onflow/cadence/issues/2389)
+
+
+## replicatedhq/troubleshoot <span style='color:#F1C40F'>(424 ⭐️)</span>
+
+- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
+
+
+## GoogleContainerTools/kpt <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [`kpt live` does not support YAML merging arrays ](https://github.com/GoogleContainerTools/kpt/issues/3897)
+
+
+## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [feat(service): Add [iMessage] service](https://github.com/nikoksr/notify/issues/564)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Update NPM dependencies and Dependabot should be configured for OpenCost UI](https://github.com/opencost/opencost/issues/1848)
+
+- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(578 ⭐️)</span>
+
+- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(12.9K ⭐️)</span>
+
+- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
+
+- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
+
+- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
 
