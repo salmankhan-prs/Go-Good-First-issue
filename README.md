@@ -4,7 +4,54 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 23:38 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 23:48 UTC.</div>
+
+
+## cloudfoundry/korifi <span style='color:#F1C40F'>(182 ⭐️)</span>
+
+- [[Feature]: Korifi api users should be able to use long API/workloads URLs](https://github.com/cloudfoundry/korifi/issues/2425)
+
+- [[Feature]: Korifi api users should be able to get the default domain for an org](https://github.com/cloudfoundry/korifi/issues/2407)
+
+- [[Feature]: Operators can push manifests with buildpack specified](https://github.com/cloudfoundry/korifi/issues/2315)
+
+- [[Feature]: Korifi API users do not need to pass lifecycle step and bulidpack when creaing an app](https://github.com/cloudfoundry/korifi/issues/2366)
+
+- [[Feature]: Korifi API users can check what app features are enabled](https://github.com/cloudfoundry/korifi/issues/2357)
+
+- [[Feature]: Korifi API users should be able to specify  when creating service instances](https://github.com/cloudfoundry/korifi/issues/2343)
+
+- [[Feature]: Korifi API users should be able to get stats for a process by process type](https://github.com/cloudfoundry/korifi/issues/2340)
+
+- [[Feature]: Korifi API users should be able to list the builds of an app](https://github.com/cloudfoundry/korifi/issues/2335)
+
+- [[Feature]: Do not return an error when specifying a page query parameter when listing routes](https://github.com/cloudfoundry/korifi/issues/2329)
+
+- [[Bug]: Korifi default domain guid must be a valid uuid](https://github.com/cloudfoundry/korifi/issues/2328)
+
+- [[Feature]: Koirif API users can update app lifecycle](https://github.com/cloudfoundry/korifi/issues/2327)
+
+- [[Feature]: Koirif API users can check whether ssh for apps is enabled](https://github.com/cloudfoundry/korifi/issues/2326)
+
+- [[Feature]: Do not return error when specifying a page query parameter when listing domains](https://github.com/cloudfoundry/korifi/issues/2324)
+
+- [[Feature]: Korifi API users can filter service bindings via label selectors](https://github.com/cloudfoundry/korifi/issues/2318)
+
+- [[Feature]: Korifi API users can filter apps by label selector](https://github.com/cloudfoundry/korifi/issues/2307)
+
+- [[Feature]: Do not return an error when specifying a page query parameter when listing service bindings](https://github.com/cloudfoundry/korifi/issues/2317)
+
+- [[Feature]: Do not return an error when specifying page query parameter when listing roles](https://github.com/cloudfoundry/korifi/issues/2308)
+
+- [[Feature]: Korifi API users do not get errors when specifying `page` query parameter when listing service instance](https://github.com/cloudfoundry/korifi/issues/2306)
+
+- [[Feature]: Korifi API users can filter service instances by label selector](https://github.com/cloudfoundry/korifi/issues/2305)
+
+- [[Feature]: Do not return an error when specifying `page` query parameter when listing roles](https://github.com/cloudfoundry/korifi/issues/2301)
+
+- [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
+
+- [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
@@ -166,6 +213,17 @@
 - [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
 
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Version to install options should be sorted semantically](https://github.com/komodorio/helm-dashboard/issues/326)
+
+- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
+
+- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
+
+- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
+
+
 ## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
 
 - [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
@@ -280,100 +338,4 @@
 - [Explore moving `readFile` to `host_id_bsd.go`](https://github.com/open-telemetry/opentelemetry-go/issues/3972)
 
 - [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
-
-- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
-
-
-## jatalocks/terracove <span style='color:#F1C40F'>(11 ⭐️)</span>
-
-- [✨  Github Action](https://github.com/jatalocks/terracove/issues/5)
-
-- [⚠️ Warn on missing terraform/terragrunt binaries](https://github.com/jatalocks/terracove/issues/7)
-
-- [🔊 Refactor logging mechanism](https://github.com/jatalocks/terracove/issues/6)
-
-
-## roc-streaming/roc-go <span style='color:#F1C40F'>(14 ⭐️)</span>
-
-- [Add version checking](https://github.com/roc-streaming/roc-go/issues/71)
-
-- [Add debug logging](https://github.com/roc-streaming/roc-go/issues/70)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
-
-
-## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Version to install options should be sorted semantically](https://github.com/komodorio/helm-dashboard/issues/326)
-
-- [UI - General - Shutdown modal](https://github.com/komodorio/helm-dashboard/issues/260)
-
-- [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
-
-- [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [x509: certificate is valid for docker internal address, not advirtisedAddress](https://github.com/kumahq/kuma/issues/6498)
-
-- [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
-
-
-## diggerhq/digger <span style='color:#F1C40F'>(304 ⭐️)</span>
-
-- [Fail with better error message if no terraform files exist in default location](https://github.com/diggerhq/digger/issues/121)
-
-- [Only run apply if PR is mergeable](https://github.com/diggerhq/digger/issues/118)
-
-- [Support multiple Terraform versions](https://github.com/diggerhq/digger/issues/105)
-
-- [dissplay a warning if plan requested ](https://github.com/diggerhq/digger/issues/52)
-
-- [Add option for disabling usage data](https://github.com/diggerhq/digger/issues/92)
-
-- [Get rid of hardcoded value of bucket for GCP](https://github.com/diggerhq/digger/issues/94)
-
-- [Add support for aws-vault](https://github.com/diggerhq/digger/issues/97)
-
-- [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
-
-- [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## onflow/cadence <span style='color:#F1C40F'>(461 ⭐️)</span>
-
-- [Language support to create Address from [UInt8] byte array](https://github.com/onflow/cadence/issues/2433)
-
-- [Add HashableStruct type](https://github.com/onflow/cadence/issues/2428)
-
-- [Return overflowing value when for UInt256 and Int256 ](https://github.com/onflow/cadence/issues/2389)
-
-
-## replicatedhq/troubleshoot <span style='color:#F1C40F'>(424 ⭐️)</span>
-
-- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
-
-
-## GoogleContainerTools/kpt <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [`kpt live` does not support YAML merging arrays ](https://github.com/GoogleContainerTools/kpt/issues/3897)
-
-
-## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [feat(service): Add [iMessage] service](https://github.com/nikoksr/notify/issues/564)
 
