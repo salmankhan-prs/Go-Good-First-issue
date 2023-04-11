@@ -4,7 +4,44 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 10:58 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 11:08 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
+
+- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -19,6 +56,11 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## elastic/cloudbeat <span style='color:#F1C40F'>(19 ⭐️)</span>
@@ -90,18 +132,22 @@
 - [Destroying instances is cumbersome](https://github.com/chiselstrike/turso-cli/issues/283)
 
 
+## dapr/components-contrib <span style='color:#F1C40F'>(440 ⭐️)</span>
+
+- [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
+
+- [Issues with SQL Server state store and MSI auth](https://github.com/dapr/components-contrib/issues/2726)
+
+- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
+
+- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
+
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
 - [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.5K ⭐️)</span>
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -122,9 +168,27 @@
 - [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
 
 
+## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
+
+- [Simplify client handling and reduce concurrency latency by embedding the client in the BackendService struct](https://github.com/Frontman-Labs/frontman/issues/103)
+
+- [Remove redundant lockings if possible ](https://github.com/Frontman-Labs/frontman/issues/82)
+
+- [Create a Quick Start Guide for Frontman API Gateway](https://github.com/Frontman-Labs/frontman/issues/99)
+
+- [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
+
+- [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
+
+
 ## secret-telegram/chat <span style='color:#F1C40F'>(10 ⭐️)</span>
 
 - [Support for MongoDB](https://github.com/secret-telegram/chat/issues/55)
+
+
+## tinygo-org/tinygo <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [-test.v should be unbuffered](https://github.com/tinygo-org/tinygo/issues/3579)
 
 
 ## apache/incubator-devlake <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -166,11 +230,6 @@
 - [Add query parameter to Search API to configure the spans per span set](https://github.com/grafana/tempo/issues/2308)
 
 - [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
-
-
-## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
-
-- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
 
 
 ## vanus-labs/vanus <span style='color:#F1C40F'>(1.6K ⭐️)</span>
@@ -223,25 +282,6 @@
 - [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
 
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
-
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
-
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.3K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## rsteube/carapace-bin <span style='color:#F1C40F'>(194 ⭐️)</span>
@@ -319,17 +359,4 @@
 - [Implement a CLI](https://github.com/drorIvry/rego/issues/13)
 
 - [docker deployment](https://github.com/drorIvry/rego/issues/12)
-
-
-## Frontman-Labs/frontman <span style='color:#F1C40F'>(97 ⭐️)</span>
-
-- [Simplify client handling and reduce concurrency latency by embedding the client in the BackendService struct](https://github.com/Frontman-Labs/frontman/issues/103)
-
-- [Remove redundant lockings if possible ](https://github.com/Frontman-Labs/frontman/issues/82)
-
-- [Create a Quick Start Guide for Frontman API Gateway](https://github.com/Frontman-Labs/frontman/issues/99)
-
-- [Improve logs ](https://github.com/Frontman-Labs/frontman/issues/84)
-
-- [UI for the management API](https://github.com/Frontman-Labs/frontman/issues/79)
 
