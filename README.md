@@ -4,7 +4,34 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 09:58 UTC.</div>
+<div align='center'>Last updated at April 11, 2023 10:08 UTC.</div>
+
+
+## vanus-labs/vanus-connect <span style='color:#F1C40F'>(13 ⭐️)</span>
+
+- [🎯New Source Connector Request: Google Analytics Source Connector](https://github.com/vanus-labs/vanus-connect/issues/317)
+
+- [🎯 New Sink Connector Request: APITable](https://github.com/vanus-labs/vanus-connect/issues/314)
+
+- [🎯New Source Connector Request: Facebook Marketing Source Connector](https://github.com/vanus-labs/vanus-connect/issues/315)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
+
+
+## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
+
+- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
 
 
 ## elastic/cloudbeat <span style='color:#F1C40F'>(19 ⭐️)</span>
@@ -32,11 +59,6 @@
 - [Env labels should have tooltips](https://github.com/freiheit-com/kuberpult/issues/588)
 
 - [Simpler Deployment](https://github.com/freiheit-com/kuberpult/issues/565)
-
-
-## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
-
-- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.8K ⭐️)</span>
@@ -207,6 +229,15 @@
 - [For "redistributionstate" endpoint, change "lastPlayedRound" to actually show last round played, and add "lastSelectedRound" so show if the node's neighborhood was selected](https://github.com/ethersphere/bee/issues/3979)
 
 
+## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Pytorch Serve supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2178)
+
+- [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
+
+- [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
+
+
 ## drorIvry/rego <span style='color:#F1C40F'>(8 ⭐️)</span>
 
 - [Add an actual CI/CD](https://github.com/drorIvry/rego/issues/14)
@@ -244,15 +275,17 @@
 - [manifests: updaters should NOT run in the control plane](https://github.com/k8stopologyawareschedwg/deployer/issues/176)
 
 
-## k8stopologyawareschedwg/deployer <span style='color:#F1C40F'>(0 ⭐️)</span>
+## chainloop-dev/chainloop <span style='color:#F1C40F'>(158 ⭐️)</span>
 
-- [create common options, remove intermediate layers](https://github.com/k8stopologyawareschedwg/deployer/issues/182)
+- [replace inline secret_prefix option](https://github.com/chainloop-dev/chainloop/issues/62)
 
-- [add option to control the scheduler verbosity](https://github.com/k8stopologyawareschedwg/deployer/issues/189)
+- [Handle AWS secret manager empty response ](https://github.com/chainloop-dev/chainloop/issues/56)
 
-- [manifests: scheduler should run in the control plane (default, but overridable)](https://github.com/k8stopologyawareschedwg/deployer/issues/177)
+- [Extract attestation grpc service to another proto file](https://github.com/chainloop-dev/chainloop/issues/36)
 
-- [manifests: updaters should NOT run in the control plane](https://github.com/k8stopologyawareschedwg/deployer/issues/176)
+- [CLI: improve UX on attestation downloading](https://github.com/chainloop-dev/chainloop/issues/31)
+
+- [Populate releases footer information](https://github.com/chainloop-dev/chainloop/issues/30)
 
 
 ## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.8K ⭐️)</span>
@@ -316,14 +349,4 @@
 - [Feature: sealos apply -f Clusterfile support --single](https://github.com/labring/sealos/issues/2888)
 
 - [Feature: Add a check for the expected state of a non-odd master](https://github.com/labring/sealos/issues/2829)
-
-
-## cybozu-go/neco <span style='color:#F1C40F'>(218 ⭐️)</span>
-
-- [Add an alert for Argo CD performance issue](https://github.com/cybozu-go/neco/issues/2251)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
 
