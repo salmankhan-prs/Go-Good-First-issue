@@ -4,12 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 11, 2023 23:18 UTC.</div>
-
-
-## deislabs/ratify <span style='color:#F1C40F'>(111 ⭐️)</span>
-
-- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
+<div align='center'>Last updated at April 11, 2023 23:28 UTC.</div>
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -22,6 +17,22 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [When destroy an environment, the message says "deploying development environment"](https://github.com/okteto/okteto/issues/3450)
+
+- [Destroy message has an empty quote if the environment doesn't have a name](https://github.com/okteto/okteto/issues/3487)
+
+- [Support for `okteto namespace sleep|wake`](https://github.com/okteto/okteto/issues/3470)
+
+- [Support for sharing a preview with other member in `okteto preview deploy`](https://github.com/okteto/okteto/issues/3453)
+
+
+## deislabs/ratify <span style='color:#F1C40F'>(111 ⭐️)</span>
+
+- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
 
 
 ## cli/cli <span style='color:#F1C40F'>(32.0K ⭐️)</span>
@@ -269,6 +280,13 @@
 - [Explore moving `readFile` to `host_id_bsd.go`](https://github.com/open-telemetry/opentelemetry-go/issues/3972)
 
 - [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
+
+
+## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
+
+- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
