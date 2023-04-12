@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 20:38 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 20:48 UTC.</div>
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(720 ⭐️)</span>
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.5K ⭐️)</span>
+
+- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
 
 
 ## solo-io/gloo <span style='color:#F1C40F'>(3.8K ⭐️)</span>
@@ -12,8 +22,6 @@
 - [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
 
 - [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
-
-- [Add option to set redis db](https://github.com/solo-io/gloo/issues/7959)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(969 ⭐️)</span>
@@ -30,11 +38,6 @@
 - [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
 
 - [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.5K ⭐️)</span>
-
-- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
@@ -317,9 +320,4 @@
 - [Add HashableStruct type](https://github.com/onflow/cadence/issues/2428)
 
 - [Return overflowing value when for UInt256 and Int256 ](https://github.com/onflow/cadence/issues/2389)
-
-
-## deislabs/ratify <span style='color:#F1C40F'>(111 ⭐️)</span>
-
-- [Ratify should have a BOT to prefix our pull request so titles are consistent](https://github.com/deislabs/ratify/issues/734)
 
