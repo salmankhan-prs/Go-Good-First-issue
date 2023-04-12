@@ -4,7 +4,44 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 16:38 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 16:48 UTC.</div>
+
+
+## sigstore/cosign <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [Cleanup cosign help text with a custom printer](https://github.com/sigstore/cosign/issues/2887)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [Feature: sealos apply -f Clusterfile support --single](https://github.com/labring/sealos/issues/2888)
+
+- [feature: support pulling multiple images at the same time](https://github.com/labring/sealos/issues/2921)
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
+
+- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
+
+- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
+
+- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
+
+- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
 
 
 ## kairos-io/kairos <span style='color:#F1C40F'>(443 ⭐️)</span>
@@ -109,11 +146,6 @@
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.5K ⭐️)</span>
 
 - [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
@@ -147,11 +179,6 @@
 ## mainflux/mainflux <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [Improve path parameters naming](https://github.com/mainflux/mainflux/issues/1761)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## jatalocks/terracove <span style='color:#F1C40F'>(13 ⭐️)</span>
@@ -271,15 +298,6 @@
 - [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
 
 
-## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
-
-- [Feature: sealos apply -f Clusterfile support --single](https://github.com/labring/sealos/issues/2888)
-
-- [feature: support pulling multiple images at the same time](https://github.com/labring/sealos/issues/2921)
-
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
-
-
 ## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
@@ -325,13 +343,4 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Docs]: Data Source: aws_vpc_endpoint_service](https://github.com/hashicorp/terraform-provider-aws/issues/30649)
-
-- [[Docs]: Mention that orgunit needs to be the id](https://github.com/hashicorp/terraform-provider-aws/issues/30464)
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
