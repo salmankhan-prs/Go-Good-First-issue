@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 06:28 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 06:38 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
@@ -204,11 +209,6 @@
 - [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
-
-
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
 
 - [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
@@ -247,6 +247,11 @@
 - [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
 
 - [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [The `pg_replication_slots` metric fails on a replica](https://github.com/cloudnative-pg/cloudnative-pg/issues/1794)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(719 ⭐️)</span>
@@ -321,7 +326,7 @@
 
 ## filecoin-project/mir <span style='color:#F1C40F'>(27 ⭐️)</span>
 
-- [Serialization of `StableCheckpoint` inefficient](https://github.com/filecoin-project/mir/issues/400)
+- [Serialization of `StableCheckpoint` and `Certificate` inefficient](https://github.com/filecoin-project/mir/issues/400)
 
 
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -343,16 +348,4 @@
 - [Feature request: need lint](https://github.com/argoproj-labs/rollouts-contour-trafficrouter-plugin/issues/4)
 
 - [Feature request: need issue template](https://github.com/argoproj-labs/rollouts-contour-trafficrouter-plugin/issues/3)
-
-
-## knative/pkg <span style='color:#F1C40F'>(236 ⭐️)</span>
-
-- [Eventing TLS: Add AddressableFromDestination method on the resolver](https://github.com/knative/pkg/issues/2714)
-
-
-## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
-
-- [冰哥，最新更新消息丢给责任链这个源码，看不懂，能不能开个教程啊！](https://github.com/aceld/zinx/issues/185)
 
