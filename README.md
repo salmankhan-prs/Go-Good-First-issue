@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 05:38 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 05:48 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -14,6 +23,11 @@
 - [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
 
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
@@ -95,15 +109,6 @@
 - [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
 
 - [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
@@ -235,6 +240,19 @@
 - [Add ability to define tolerations and security contexts in the operator chart ](https://github.com/fluent/fluent-operator/issues/695)
 
 
+## dapr/components-contrib <span style='color:#F1C40F'>(442 ⭐️)</span>
+
+- [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
+
+- [Issues with SQL Server state store and MSI auth](https://github.com/dapr/components-contrib/issues/2726)
+
+- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
+
+- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
+
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+
 ## replicatedhq/troubleshoot <span style='color:#F1C40F'>(424 ⭐️)</span>
 
 - [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
@@ -282,11 +300,6 @@
 - [Feature request: need lint](https://github.com/argoproj-labs/rollouts-contour-trafficrouter-plugin/issues/4)
 
 - [Feature request: need issue template](https://github.com/argoproj-labs/rollouts-contour-trafficrouter-plugin/issues/3)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## knative/pkg <span style='color:#F1C40F'>(236 ⭐️)</span>
