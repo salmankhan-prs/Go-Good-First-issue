@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 19:28 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 19:38 UTC.</div>
+
+
+## gnolang/gno <span style='color:#F1C40F'>(721 ⭐️)</span>
+
+- [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
+
+- [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
+
+
+## apache/trafficcontrol <span style='color:#F1C40F'>(886 ⭐️)</span>
+
+- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
@@ -74,6 +86,19 @@
 - [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
 
 - [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
+
+- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
@@ -347,20 +372,4 @@
 - [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
 
 - [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [Docs seem wrong about installCRDs](https://github.com/external-secrets/external-secrets/issues/2209)
-
-- [Helm - Provide good securityContext by default](https://github.com/external-secrets/external-secrets/issues/2207)
-
-- [Controller attempts to process a PushSecret managed by another store](https://github.com/external-secrets/external-secrets/issues/2164)
-
-- [Add SecretStore and ClusterSecretStore status metrics ](https://github.com/external-secrets/external-secrets/issues/2151)
-
-
-## kubernetes-sigs/kpng <span style='color:#F1C40F'>(197 ⭐️)</span>
-
-- [prototype a dpdk impl](https://github.com/kubernetes-sigs/kpng/issues/473)
 
