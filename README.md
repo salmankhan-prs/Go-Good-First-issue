@@ -4,7 +4,51 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 13:18 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 13:28 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Span sets returned by TraceQL should return the number of all matching spans](https://github.com/grafana/tempo/issues/2307)
+
+- [Add query parameter to Search API to configure the spans per span set](https://github.com/grafana/tempo/issues/2308)
+
+- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(969 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Docs]: Data Source: aws_vpc_endpoint_service](https://github.com/hashicorp/terraform-provider-aws/issues/30649)
+
+- [[Docs]: Mention that orgunit needs to be the id](https://github.com/hashicorp/terraform-provider-aws/issues/30464)
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(674 ⭐️)</span>
@@ -42,6 +86,13 @@
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
+
+- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
 
 - [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
@@ -56,16 +107,6 @@
 - [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
 
 - [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
-
-
-## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
-
-- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
@@ -84,18 +125,6 @@
 - [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
-
-- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
-
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## mainflux/mainflux <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [Improve path parameters naming](https://github.com/mainflux/mainflux/issues/1761)
-
-
 ## mainflux/mainflux <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [Improve path parameters naming](https://github.com/mainflux/mainflux/issues/1761)
@@ -106,6 +135,11 @@
 - [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
 
 - [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.6K ⭐️)</span>
+
+- [Use Partial Response should be enabled by default](https://github.com/thanos-io/thanos/issues/6270)
 
 
 ## drorIvry/rego <span style='color:#F1C40F'>(10 ⭐️)</span>
@@ -121,6 +155,15 @@
 - [support external DBs](https://github.com/drorIvry/rego/issues/10)
 
 - [add a workflow option](https://github.com/drorIvry/rego/issues/11)
+
+
+## cosmos/ibc-go <span style='color:#F1C40F'>(357 ⭐️)</span>
+
+- [nit: remove "callback" from msg server logging, except where relevant](https://github.com/cosmos/ibc-go/issues/3404)
+
+- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
+
+- [Use state enums in connection handshake log](https://github.com/cosmos/ibc-go/issues/3385)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.1K ⭐️)</span>
@@ -145,13 +188,38 @@
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
 
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
 
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
 
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(787 ⭐️)</span>
+
+- [SPDX parser top level heuristic change to check "DESCRIBES" relationship](https://github.com/guacsec/guac/issues/708)
+
+- [Update parsers to emit Identifier strings](https://github.com/guacsec/guac/issues/592)
+
+- [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
+
+- [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
+
+
+## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(933 ⭐️)</span>
+
+- [[Umbrella Issue] Add version clarifications throughout docs](https://github.com/kubernetes-sigs/gateway-api/issues/1823)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(281 ⭐️)</span>
+
+- [Deprecate support for short JobIDs](https://github.com/bacalhau-project/bacalhau/issues/2298)
+
+- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
+
+- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
@@ -200,11 +268,6 @@
 - [[Good First Issues]: implement function "extract_pattern" - 7 points](https://github.com/vanus-labs/vanus/issues/587)
 
 - [[Good First Issues]: implement function "split_from_end" - 7 points](https://github.com/vanus-labs/vanus/issues/588)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## cloudfoundry/korifi <span style='color:#F1C40F'>(183 ⭐️)</span>
@@ -289,13 +352,6 @@
 - [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
 
 
-## superfly/flyctl <span style='color:#F1C40F'>(969 ⭐️)</span>
-
-- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
-
-
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [x509: certificate is valid for docker internal address, not advirtisedAddress](https://github.com/kumahq/kuma/issues/6498)
@@ -329,11 +385,4 @@
 ## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
-
-
-## derailed/k9s <span style='color:#F1C40F'>(20.4K ⭐️)</span>
-
-- [Add visual hint that current list is filtered by 'faults'](https://github.com/derailed/k9s/issues/2052)
-
-- [Suspend k9s (i.e., job control) using Ctrl+z like with man, vim, less, ...](https://github.com/derailed/k9s/issues/2013)
 
