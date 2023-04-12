@@ -4,12 +4,36 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 10:08 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 10:18 UTC.</div>
 
 
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.6K ⭐️)</span>
 
 - [Use Partial Response should be enabled by default](https://github.com/thanos-io/thanos/issues/6270)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(474 ⭐️)</span>
@@ -31,6 +55,24 @@
 - [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
 
 
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
+## chainloop-dev/chainloop <span style='color:#F1C40F'>(160 ⭐️)</span>
+
+- [replace inline secret_prefix option](https://github.com/chainloop-dev/chainloop/issues/62)
+
+- [Handle AWS secret manager empty response ](https://github.com/chainloop-dev/chainloop/issues/56)
+
+- [Extract attestation grpc service to another proto file](https://github.com/chainloop-dev/chainloop/issues/36)
+
+- [CLI: improve UX on attestation downloading](https://github.com/chainloop-dev/chainloop/issues/31)
+
+- [Populate releases footer information](https://github.com/chainloop-dev/chainloop/issues/30)
+
+
 ## cilium/cilium-cli <span style='color:#F1C40F'>(216 ⭐️)</span>
 
 - [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
@@ -39,11 +81,6 @@
 ## rsteube/carapace-bin <span style='color:#F1C40F'>(195 ⭐️)</span>
 
 - [tea](https://github.com/rsteube/carapace-bin/issues/1643)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(281 ⭐️)</span>
@@ -76,11 +113,6 @@
 - [Research new base container images](https://github.com/keptn/lifecycle-toolkit/issues/1094)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
 ## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
@@ -88,15 +120,6 @@
 - [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
 
 - [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-
-## argoproj-labs/rollouts-contour-trafficrouter-plugin <span style='color:#F1C40F'>(1 ⭐️)</span>
-
-- [Feature request: need CI process](https://github.com/argoproj-labs/rollouts-contour-trafficrouter-plugin/issues/2)
-
-- [Feature request: need lint](https://github.com/argoproj-labs/rollouts-contour-trafficrouter-plugin/issues/4)
-
-- [Feature request: need issue template](https://github.com/argoproj-labs/rollouts-contour-trafficrouter-plugin/issues/3)
 
 
 ## apache/apisix-ingress-controller <span style='color:#F1C40F'>(781 ⭐️)</span>
@@ -138,23 +161,11 @@
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
-
-
 ## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
 
 - [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
 
 - [冰哥，最新更新消息丢给责任链这个源码，看不懂，能不能开个教程啊！](https://github.com/aceld/zinx/issues/185)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [x509: certificate is valid for docker internal address, not advirtisedAddress](https://github.com/kumahq/kuma/issues/6498)
-
-- [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
 
 
 ## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -237,13 +248,49 @@
 - [K8s/Deployment: Feature optimization](https://github.com/opencurve/curve-operator/issues/24)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
+## kubevela/kubevela <span style='color:#F1C40F'>(5.1K ⭐️)</span>
 
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+- [[Feature] Set up the component/trait definition unit tests framework based on CUE](https://github.com/kubevela/kubevela/issues/5766)
 
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+- [vela show --web not populating ComponentType](https://github.com/kubevela/kubevela/issues/5769)
 
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+- [The progress bar on the front end of the installation plugin is still spinning](https://github.com/kubevela/kubevela/issues/5753)
+
+- [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
+
+- [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
+
+
+## safedep/vet <span style='color:#F1C40F'>(59 ⭐️)</span>
+
+- [Use vet to Implement Safe Consumption of OSS Components for vet](https://github.com/safedep/vet/issues/56)
+
+- [Show Ecosystem Name in Summary Report](https://github.com/safedep/vet/issues/54)
+
+- [Fix Linter Issues and Enable `golint` Guard Rail](https://github.com/safedep/vet/issues/55)
+
+- [Support PURL Data Source for Single Package Scanning](https://github.com/safedep/vet/issues/57)
+
+- [Evaluate ko for Building vet Container Image](https://github.com/safedep/vet/issues/39)
+
+- [Implement E2E Behavior Testing](https://github.com/safedep/vet/issues/38)
+
+
+## opencurve/curve-operator <span style='color:#F1C40F'>(7 ⭐️)</span>
+
+- [K8s/Deployment: Code clean](https://github.com/opencurve/curve-operator/issues/28)
+
+- [K8s/Deployment: Formatting progress show](https://github.com/opencurve/curve-operator/issues/30)
+
+- [K8s/Deployment: Update cluster](https://github.com/opencurve/curve-operator/issues/29)
+
+- [K8s/Deployment: Disk discovery](https://github.com/opencurve/curve-operator/issues/27)
+
+- [K8s/Deployment: Monitor deployment](https://github.com/opencurve/curve-operator/issues/26)
+
+- [K8s/Deployment: Stand-alone deployment](https://github.com/opencurve/curve-operator/issues/25)
+
+- [K8s/Deployment: Feature optimization](https://github.com/opencurve/curve-operator/issues/24)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.1K ⭐️)</span>
@@ -335,18 +382,4 @@
 - [convert DeviceShifuBase data structure from single EdgeDevice to a list type of EdgeDevice](https://github.com/Edgenesis/shifu/issues/538)
 
 - [In swarm mode, deviceShifuBase supports multiple EdgeDevices](https://github.com/Edgenesis/shifu/issues/539)
-
-
-## roc-streaming/roc-go <span style='color:#F1C40F'>(14 ⭐️)</span>
-
-- [Add version checking](https://github.com/roc-streaming/roc-go/issues/71)
-
-- [Add debug logging](https://github.com/roc-streaming/roc-go/issues/70)
-
-
-## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
-
-- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
-
-- [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
 
