@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 04:28 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 04:38 UTC.</div>
 
 
 ## safedep/vet <span style='color:#F1C40F'>(58 ⭐️)</span>
@@ -50,6 +50,11 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
 
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+
+- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
 
 
 ## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.8K ⭐️)</span>
