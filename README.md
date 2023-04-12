@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 12:38 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 12:48 UTC.</div>
+
+
+## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
+
+- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## drorIvry/rego <span style='color:#F1C40F'>(10 ⭐️)</span>
@@ -57,16 +74,6 @@
 - [Gitlab template uses deprecated json schema](https://github.com/aquasecurity/trivy/issues/4033)
 
 - [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
-
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -271,4 +278,73 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Remove link to roadmap discussion from the book](https://github.com/kubernetes-sigs/cluster-api/issues/8451)
+
+
+## derailed/k9s <span style='color:#F1C40F'>(20.4K ⭐️)</span>
+
+- [Add visual hint that current list is filtered by 'faults'](https://github.com/derailed/k9s/issues/2052)
+
+- [Suspend k9s (i.e., job control) using Ctrl+z like with man, vim, less, ...](https://github.com/derailed/k9s/issues/2013)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
+
+- [[Docs]: Data Source: aws_vpc_endpoint_service](https://github.com/hashicorp/terraform-provider-aws/issues/30649)
+
+- [[Docs]: Mention that orgunit needs to be the id](https://github.com/hashicorp/terraform-provider-aws/issues/30464)
+
+- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.6K ⭐️)</span>
+
+- [Use Partial Response should be enabled by default](https://github.com/thanos-io/thanos/issues/6270)
+
+
+## cli/cli <span style='color:#F1C40F'>(32.0K ⭐️)</span>
+
+- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
+
+
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Allow users to specify a path prefix for OTLP HTTP receiver](https://github.com/open-telemetry/opentelemetry-collector/issues/7511)
+
+
+## argoproj-labs/rollouts-contour-trafficrouter-plugin <span style='color:#F1C40F'>(1 ⭐️)</span>
+
+- [Feature request: need CI process](https://github.com/argoproj-labs/rollouts-contour-trafficrouter-plugin/issues/2)
+
+- [Feature request: need lint](https://github.com/argoproj-labs/rollouts-contour-trafficrouter-plugin/issues/4)
+
+- [Feature request: need issue template](https://github.com/argoproj-labs/rollouts-contour-trafficrouter-plugin/issues/3)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(720 ⭐️)</span>
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+
+
+## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
+
+- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(474 ⭐️)</span>
+
+- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
+
+- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
+
+- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
+
+
+## ceph/ceph-csi <span style='color:#F1C40F'>(935 ⭐️)</span>
+
+- [ceph name and version not matching in readme support matrix](https://github.com/ceph/ceph-csi/issues/3737)
 
