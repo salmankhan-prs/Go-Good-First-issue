@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 22:38 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 22:48 UTC.</div>
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
@@ -26,7 +26,7 @@
 - [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.5K ⭐️)</span>
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.6K ⭐️)</span>
 
 - [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
 
