@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 23:18 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 23:28 UTC.</div>
+
+
+## filecoin-project/mir <span style='color:#F1C40F'>(27 ⭐️)</span>
+
+- [Serialization of `StableCheckpoint` and `Certificate` inefficient](https://github.com/filecoin-project/mir/issues/400)
+
+
+## GoogleContainerTools/kpt <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [`kpt live` does not support YAML merging arrays ](https://github.com/GoogleContainerTools/kpt/issues/3897)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.6K ⭐️)</span>
+
+- [Use Partial Response should be enabled by default](https://github.com/thanos-io/thanos/issues/6270)
+
+
+## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
+
+- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
+
+- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -53,15 +77,6 @@
 ## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [feat(service): Add [iMessage] service](https://github.com/nikoksr/notify/issues/564)
-
-
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
 
 
 ## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -215,6 +230,13 @@
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
+
+- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Fetch withdrawals from a parent state](https://github.com/prysmaticlabs/prysm/issues/12261)
@@ -240,8 +262,6 @@
 
 
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(246 ⭐️)</span>
-
-- [Add unit tests for azure/converters/rules.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3290)
 
 - [Add missing test coverage for azuremachine_default.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3372)
 
