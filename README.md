@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 01:28 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 01:38 UTC.</div>
+
+
+## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Eventing TLS: support sending events to HTTPS endpoints in eventshub](https://github.com/knative/eventing/issues/6840)
+
+- [Eventing TLS: Add scheme label to metrics](https://github.com/knative/eventing/issues/6838)
+
+- [Eventing TLS: Create Cert-Manager resources](https://github.com/knative/eventing/issues/6837)
+
+- [Eventing TLS: support receiving events to HTTPS endpoints in eventshub](https://github.com/knative/eventing/issues/6842)
 
 
 ## knative/pkg <span style='color:#F1C40F'>(236 ⭐️)</span>
@@ -49,7 +60,7 @@
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(277 ⭐️)</span>
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(278 ⭐️)</span>
 
 - [Deprecate support for short JobIDs](https://github.com/bacalhau-project/bacalhau/issues/2298)
 
@@ -207,6 +218,13 @@
 - [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
 
 
+## derailed/k9s <span style='color:#F1C40F'>(20.4K ⭐️)</span>
+
+- [Add visual hint that current list is filtered by 'faults'](https://github.com/derailed/k9s/issues/2052)
+
+- [Suspend k9s (i.e., job control) using Ctrl+z like with man, vim, less, ...](https://github.com/derailed/k9s/issues/2013)
+
+
 ## gnolang/gno <span style='color:#F1C40F'>(721 ⭐️)</span>
 
 - [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
@@ -253,13 +271,6 @@
 - [Add ability to parse identifier strings for  Github Release URLs](https://github.com/guacsec/guac/issues/591)
 
 - [Abstract away VCS URI parsing for code deduplication](https://github.com/guacsec/guac/issues/572)
-
-
-## derailed/k9s <span style='color:#F1C40F'>(20.4K ⭐️)</span>
-
-- [Add visual hint that current list is filtered by 'faults'](https://github.com/derailed/k9s/issues/2052)
-
-- [Suspend k9s (i.e., job control) using Ctrl+z like with man, vim, less, ...](https://github.com/derailed/k9s/issues/2013)
 
 
 ## opensearch-project/opensearch-go <span style='color:#F1C40F'>(114 ⭐️)</span>
