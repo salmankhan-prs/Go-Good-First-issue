@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 04:58 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 05:08 UTC.</div>
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.4K ⭐️)</span>
@@ -330,11 +330,4 @@
 ## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Explore moving `readFile` to `host_id_bsd.go`](https://github.com/open-telemetry/opentelemetry-go/issues/3972)
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
 
