@@ -4,7 +4,46 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 12:48 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 12:58 UTC.</div>
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(674 ⭐️)</span>
+
+- [(feature) Implement Open-feature web provider.](https://github.com/thomaspoignant/go-feature-flag/issues/662)
+
+- [ (feature) Implement open-feature provider cache for the Javascript provider ](https://github.com/thomaspoignant/go-feature-flag/issues/659)
+
+- [(feature) relay-proxy: Using notifier to add prometheus metrics when flag change](https://github.com/thomaspoignant/go-feature-flag/issues/665)
+
+- [(documentation) Explain better how data export is working and why we have it](https://github.com/thomaspoignant/go-feature-flag/issues/661)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
+
+- [Gitlab template uses deprecated json schema](https://github.com/aquasecurity/trivy/issues/4033)
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
+
+- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
+
+- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
+
+- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
+
+- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
@@ -14,11 +53,6 @@
 - [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
 
 - [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
@@ -26,15 +60,17 @@
 
 ## drorIvry/rego <span style='color:#F1C40F'>(10 ⭐️)</span>
 
+- [Build a UI to view, trigger, query and troubleshoot tasks](https://github.com/drorIvry/rego/issues/17)
+
+- [Implement a CLI](https://github.com/drorIvry/rego/issues/13)
+
+- [Add an API to get a run history (executions) of a given task definitions](https://github.com/drorIvry/rego/issues/16)
+
 - [Add an actual CI/CD](https://github.com/drorIvry/rego/issues/14)
 
 - [support external DBs](https://github.com/drorIvry/rego/issues/10)
 
 - [add a workflow option](https://github.com/drorIvry/rego/issues/11)
-
-- [Implement a CLI](https://github.com/drorIvry/rego/issues/13)
-
-- [docker deployment](https://github.com/drorIvry/rego/issues/12)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.4K ⭐️)</span>
@@ -67,13 +103,6 @@
 - [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
 
 - [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
-
-- [Gitlab template uses deprecated json schema](https://github.com/aquasecurity/trivy/issues/4033)
-
-- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -199,15 +228,6 @@
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
 
 
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-
 ## grafana/k6-operator <span style='color:#F1C40F'>(338 ⭐️)</span>
 
 - [Rename CRD fields to have standard naming](https://github.com/grafana/k6-operator/issues/206)
@@ -328,23 +348,4 @@
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(720 ⭐️)</span>
 
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(474 ⭐️)</span>
-
-- [nodebuilder/share: Make fx.Invoke(share.EnsureEmptySquareExists) part of baseComponents](https://github.com/celestiaorg/celestia-node/issues/1975)
-
-- [header: Remove dangling `ctx` param in ConstructFn](https://github.com/celestiaorg/celestia-node/issues/1960)
-
-- [feat(share/p2p/peer-manager): use LRU cache for  peer-manager blacklisted hashes](https://github.com/celestiaorg/celestia-node/issues/1926)
-
-
-## ceph/ceph-csi <span style='color:#F1C40F'>(935 ⭐️)</span>
-
-- [ceph name and version not matching in readme support matrix](https://github.com/ceph/ceph-csi/issues/3737)
 
