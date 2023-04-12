@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 18:08 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 18:19 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
 ## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -51,7 +60,7 @@
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(284 ⭐️)</span>
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(285 ⭐️)</span>
 
 - [Deprecate support for short JobIDs](https://github.com/bacalhau-project/bacalhau/issues/2298)
 
@@ -98,20 +107,6 @@
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 - [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
-
-
-## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
-
-- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
 ## kairos-io/kairos <span style='color:#F1C40F'>(443 ⭐️)</span>
@@ -165,11 +160,6 @@
 - [Add HashableStruct type](https://github.com/onflow/cadence/issues/2428)
 
 - [Return overflowing value when for UInt256 and Int256 ](https://github.com/onflow/cadence/issues/2389)
-
-
-## apache/trafficcontrol <span style='color:#F1C40F'>(886 ⭐️)</span>
-
-- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(886 ⭐️)</span>
@@ -416,29 +406,4 @@
 ## labdao/plex <span style='color:#F1C40F'>(13 ⭐️)</span>
 
 - [update installer.sh to download the complete testdata directory recursively](https://github.com/labdao/plex/issues/179)
-
-
-## diggerhq/digger <span style='color:#F1C40F'>(305 ⭐️)</span>
-
-- [If apply fails we shouldn't unlock a project](https://github.com/diggerhq/digger/issues/130)
-
-- [Terragrunt should be running without requiring input from user](https://github.com/diggerhq/digger/issues/129)
-
-- [Fail with better error message if no terraform files exist in default location](https://github.com/diggerhq/digger/issues/121)
-
-- [Only run apply if PR is mergeable](https://github.com/diggerhq/digger/issues/118)
-
-- [Support multiple Terraform versions](https://github.com/diggerhq/digger/issues/105)
-
-- [dissplay a warning if plan requested ](https://github.com/diggerhq/digger/issues/52)
-
-- [Add option for disabling usage data](https://github.com/diggerhq/digger/issues/92)
-
-- [Get rid of hardcoded value of bucket for GCP](https://github.com/diggerhq/digger/issues/94)
-
-- [Add support for aws-vault](https://github.com/diggerhq/digger/issues/97)
-
-- [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
-
-- [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
 
