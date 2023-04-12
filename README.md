@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 01:38 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 01:48 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -26,15 +35,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
 ## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -343,18 +343,4 @@
 - [switch `release-pipeline` to use remote resolution](https://github.com/tektoncd/pipeline/issues/6379)
 
 - [All exported functions must have unit test](https://github.com/tektoncd/pipeline/issues/6364)
-
-
-## mattermost/mattermost-plugin-github <span style='color:#F1C40F'>(127 ⭐️)</span>
-
-- [Improve performance of Create Issue modal repository selector](https://github.com/mattermost/mattermost-plugin-github/issues/669)
-
-- [Include explanation of `/setup` command in README](https://github.com/mattermost/mattermost-plugin-github/issues/655)
-
-
-## elastic/cloudbeat <span style='color:#F1C40F'>(19 ⭐️)</span>
-
-- [[BUG] CIS AWS Rule 4.4 - Correctly defined metric and filter for IAM policy changes is evaluated as failure.](https://github.com/elastic/cloudbeat/issues/827)
-
-- [CSPM config on standalone agent shows secrets in plaintext](https://github.com/elastic/cloudbeat/issues/808)
 
