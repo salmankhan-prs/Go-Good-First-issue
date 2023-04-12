@@ -4,7 +4,40 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 17:18 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 17:28 UTC.</div>
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
+
+- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
+
+- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+
+- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(283 ⭐️)</span>
+
+- [Deprecate support for short JobIDs](https://github.com/bacalhau-project/bacalhau/issues/2298)
+
+- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
+
+- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+
+- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.5K ⭐️)</span>
+
+- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
@@ -130,11 +163,6 @@
 - [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
 ## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
 
 - [Feature: sealos apply -f Clusterfile support --single](https://github.com/labring/sealos/issues/2888)
@@ -147,15 +175,6 @@
 ## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
 
 - [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(282 ⭐️)</span>
-
-- [Deprecate support for short JobIDs](https://github.com/bacalhau-project/bacalhau/issues/2298)
-
-- [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
-
-- [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
 
 
 ## tinygo-org/tinygo <span style='color:#F1C40F'>(12.6K ⭐️)</span>
@@ -203,11 +222,6 @@
 - [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
 
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.5K ⭐️)</span>
-
-- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
 
 
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.5K ⭐️)</span>
@@ -334,29 +348,4 @@
 ## labdao/plex <span style='color:#F1C40F'>(13 ⭐️)</span>
 
 - [update installer.sh to download the complete testdata directory recursively](https://github.com/labdao/plex/issues/179)
-
-
-## diggerhq/digger <span style='color:#F1C40F'>(305 ⭐️)</span>
-
-- [Terragrunt should be running without requiring input from user](https://github.com/diggerhq/digger/issues/129)
-
-- [If apply fails we shouldn't unlock a project](https://github.com/diggerhq/digger/issues/130)
-
-- [Fail with better error message if no terraform files exist in default location](https://github.com/diggerhq/digger/issues/121)
-
-- [Only run apply if PR is mergeable](https://github.com/diggerhq/digger/issues/118)
-
-- [Support multiple Terraform versions](https://github.com/diggerhq/digger/issues/105)
-
-- [dissplay a warning if plan requested ](https://github.com/diggerhq/digger/issues/52)
-
-- [Add option for disabling usage data](https://github.com/diggerhq/digger/issues/92)
-
-- [Get rid of hardcoded value of bucket for GCP](https://github.com/diggerhq/digger/issues/94)
-
-- [Add support for aws-vault](https://github.com/diggerhq/digger/issues/97)
-
-- [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
-
-- [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
 
