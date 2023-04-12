@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 18:38 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 18:49 UTC.</div>
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(969 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(788 ⭐️)</span>
@@ -147,11 +159,6 @@
 - [Allow users to specify a path prefix for OTLP HTTP receiver](https://github.com/open-telemetry/opentelemetry-collector/issues/7511)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
-
-
 ## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
 
 - [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
@@ -220,13 +227,6 @@
 ## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
 
 - [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(969 ⭐️)</span>
-
-- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
@@ -393,18 +393,4 @@
 - [[Feature]: Korifi API users can get spaces by space guids](https://github.com/cloudfoundry/korifi/issues/2303)
 
 - [[Feature]: Korifi API users can get orgs by org guid](https://github.com/cloudfoundry/korifi/issues/2304)
-
-
-## cilium/cilium-cli <span style='color:#F1C40F'>(216 ⭐️)</span>
-
-- [Can't run connectivity tests on latest Cilium](https://github.com/cilium/cilium-cli/issues/1507)
-
-- [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
-
-- [Gitlab template uses deprecated json schema](https://github.com/aquasecurity/trivy/issues/4033)
-
-- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
 
