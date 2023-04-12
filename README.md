@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 08:28 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 08:38 UTC.</div>
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -28,6 +28,20 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+
+
+## rsteube/carapace-bin <span style='color:#F1C40F'>(195 ⭐️)</span>
+
+- [tea](https://github.com/rsteube/carapace-bin/issues/1643)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.4K ⭐️)</span>
@@ -92,6 +106,13 @@
 - [Add code abstraction to ensure envoy router filter is added last](https://github.com/kumahq/kuma/issues/6332)
 
 
+## keploy/keploy <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [[feature]: add a sample for express/mongoose app](https://github.com/keploy/keploy/issues/490)
+
+- [[feature]: Behaviour of Telemetry Events and installationIds when Keploy is used in pipelines](https://github.com/keploy/keploy/issues/474)
+
+
 ## Edgenesis/shifu <span style='color:#F1C40F'>(832 ⭐️)</span>
 
 - [The traffic light FSM implementation for deviceShifu](https://github.com/Edgenesis/shifu/issues/547)
@@ -112,20 +133,20 @@
 - [Add debug logging](https://github.com/roc-streaming/roc-go/issues/70)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
 ## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
 
 - [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
 
 - [Show Raw yaml File on UI under Helm Vales Tab](https://github.com/goharbor/harbor/issues/18340)
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [Feature: sealos apply -f Clusterfile support --single](https://github.com/labring/sealos/issues/2888)
+
+- [feature: support pulling multiple images at the same time](https://github.com/labring/sealos/issues/2921)
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
 
 
 ## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -187,11 +208,6 @@
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Allow users to specify a path prefix for OTLP HTTP receiver](https://github.com/open-telemetry/opentelemetry-collector/issues/7511)
-
-
-## rsteube/carapace-bin <span style='color:#F1C40F'>(195 ⭐️)</span>
-
-- [tea](https://github.com/rsteube/carapace-bin/issues/1643)
 
 
 ## gnolang/gno <span style='color:#F1C40F'>(721 ⭐️)</span>
@@ -323,33 +339,4 @@
 - [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
 
 - [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
-
-
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(481 ⭐️)</span>
-
-- [Mirror for short image reference](https://github.com/aquasecurity/trivy-operator/issues/1069)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [[Feature] Set up the component/trait definition unit tests framework based on CUE](https://github.com/kubevela/kubevela/issues/5766)
-
-- [vela show --web not populating ComponentType](https://github.com/kubevela/kubevela/issues/5769)
-
-- [The progress bar on the front end of the installation plugin is still spinning](https://github.com/kubevela/kubevela/issues/5753)
-
-- [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
-
-- [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
-
-- [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Remove unused code from MetaRangeManager](https://github.com/treeverse/lakeFS/issues/5605)
-
-- [User-Friendly Hooks Error](https://github.com/treeverse/lakeFS/issues/5489)
-
-- [Allow overriding defaults in Revert/Cherry-Pick](https://github.com/treeverse/lakeFS/issues/5505)
 
