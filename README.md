@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 22:18 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 22:28 UTC.</div>
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
+
+- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
+
+- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
@@ -73,21 +88,6 @@
 - [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
 
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.0K ⭐️)</span>
-
-- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
-
-- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
-
-- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## rsteube/carapace-bin <span style='color:#F1C40F'>(196 ⭐️)</span>
