@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 23:08 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 23:18 UTC.</div>
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -18,9 +18,36 @@
 - [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
+## dapr/components-contrib <span style='color:#F1C40F'>(442 ⭐️)</span>
+
+- [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
+
+- [Issues with SQL Server state store and MSI auth](https://github.com/dapr/components-contrib/issues/2726)
+
+- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
+
+- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
+
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.6K ⭐️)</span>
 
 - [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
 ## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -44,11 +71,6 @@
 - [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
 
 - [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -145,19 +167,6 @@
 - [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
 
 
-## dapr/components-contrib <span style='color:#F1C40F'>(442 ⭐️)</span>
-
-- [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
-
-- [Issues with SQL Server state store and MSI auth](https://github.com/dapr/components-contrib/issues/2726)
-
-- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
-
-- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
-
-- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
-
-
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(720 ⭐️)</span>
 
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
@@ -178,15 +187,6 @@
 - [nit: remove "callback" from msg server logging, except where relevant](https://github.com/cosmos/ibc-go/issues/3404)
 
 - [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
