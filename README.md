@@ -4,7 +4,38 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 05:58 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 06:08 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
+
+- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
+
+- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
+
+
+## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
+
+- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [[Feature] Set up the component/trait definition unit tests framework based on CUE](https://github.com/kubevela/kubevela/issues/5766)
+
+- [vela show --web not populating ComponentType](https://github.com/kubevela/kubevela/issues/5769)
+
+- [The progress bar on the front end of the installation plugin is still spinning](https://github.com/kubevela/kubevela/issues/5753)
+
+- [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
+
+- [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
+
+- [vela ls -A isn't well format](https://github.com/kubevela/kubevela/issues/5662)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -28,6 +59,17 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [[UI] Use white Helm logo in Applications for source type in dark mode](https://github.com/meshery/meshery/issues/7506)
+
+- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+
+- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
+
+- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
@@ -211,15 +253,6 @@
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
 
 
-## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [Add misc typo fixes](https://github.com/alcionai/corso/pull/3006)
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
 ## fluent/fluent-operator <span style='color:#F1C40F'>(402 ⭐️)</span>
 
 - [Add ability to define tolerations and security contexts in the operator chart ](https://github.com/fluent/fluent-operator/issues/695)
@@ -241,13 +274,6 @@
 ## replicatedhq/troubleshoot <span style='color:#F1C40F'>(424 ⭐️)</span>
 
 - [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
-
-
-## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
-
-- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
 
 
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -331,17 +357,6 @@
 - [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
 
 - [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [[UI] Use white Helm logo in Applications for source type in dark mode](https://github.com/meshery/meshery/issues/7506)
-
-- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
-
-- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
-
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(279 ⭐️)</span>
