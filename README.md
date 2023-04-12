@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 19:18 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 19:28 UTC.</div>
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
+
+- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
+
+- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
+
+
+## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Update NPM dependencies and Dependabot should be configured for OpenCost UI](https://github.com/opencost/opencost/issues/1848)
+
+- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
+
+- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -14,13 +30,6 @@
 - [[Docs]: Mention that orgunit needs to be the id](https://github.com/hashicorp/terraform-provider-aws/issues/30464)
 
 - [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
 
 ## jatalocks/terracove <span style='color:#F1C40F'>(13 ⭐️)</span>
@@ -96,15 +105,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Update NPM dependencies and Dependabot should be configured for OpenCost UI](https://github.com/opencost/opencost/issues/1848)
-
-- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
-
-- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(578 ⭐️)</span>
@@ -254,11 +254,6 @@
 - [Add HashableStruct type](https://github.com/onflow/cadence/issues/2428)
 
 - [Return overflowing value when for UInt256 and Int256 ](https://github.com/onflow/cadence/issues/2389)
-
-
-## apache/trafficcontrol <span style='color:#F1C40F'>(886 ⭐️)</span>
-
-- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
 
 
 ## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
