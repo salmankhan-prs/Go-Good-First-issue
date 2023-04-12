@@ -4,12 +4,24 @@
 
 
 
-<div align='center'>Last updated at April 12, 2023 15:48 UTC.</div>
+<div align='center'>Last updated at April 12, 2023 15:58 UTC.</div>
+
+
+## kubernetes-sigs/kpng <span style='color:#F1C40F'>(197 ⭐️)</span>
+
+- [prototype a dpdk impl](https://github.com/kubernetes-sigs/kpng/issues/473)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(969 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## mainflux/mainflux <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -88,9 +100,25 @@
 - [CiliumEndpointSlice CRD missing from sysdump](https://github.com/cilium/cilium-cli/issues/1486)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.4K ⭐️)</span>
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.5K ⭐️)</span>
 
 - [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(16.9K ⭐️)</span>
+
+- [Gitlab template uses deprecated json schema](https://github.com/aquasecurity/trivy/issues/4033)
+
+- [Detect old default Symfony secret key ThisTokenIsNotSoSecretChangeIt](https://github.com/aquasecurity/trivy/issues/3910)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## kiali/kiali <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -122,9 +150,29 @@
 - [update installer.sh to download the complete testdata directory recursively](https://github.com/labdao/plex/issues/179)
 
 
-## labdao/plex <span style='color:#F1C40F'>(13 ⭐️)</span>
+## diggerhq/digger <span style='color:#F1C40F'>(305 ⭐️)</span>
 
-- [update installer.sh to download the complete testdata directory recursively](https://github.com/labdao/plex/issues/179)
+- [If apply fails we shouldn't unlock a project](https://github.com/diggerhq/digger/issues/130)
+
+- [Terragrunt should be running without requiring input from user](https://github.com/diggerhq/digger/issues/129)
+
+- [Fail with better error message if no terraform files exist in default location](https://github.com/diggerhq/digger/issues/121)
+
+- [Only run apply if PR is mergeable](https://github.com/diggerhq/digger/issues/118)
+
+- [Support multiple Terraform versions](https://github.com/diggerhq/digger/issues/105)
+
+- [dissplay a warning if plan requested ](https://github.com/diggerhq/digger/issues/52)
+
+- [Add option for disabling usage data](https://github.com/diggerhq/digger/issues/92)
+
+- [Get rid of hardcoded value of bucket for GCP](https://github.com/diggerhq/digger/issues/94)
+
+- [Add support for aws-vault](https://github.com/diggerhq/digger/issues/97)
+
+- [Making supply of Keys optional by making locking optional](https://github.com/diggerhq/digger/issues/99)
+
+- [Document how to properly use GCP Workload Identity for authentication with digger](https://github.com/diggerhq/digger/issues/107)
 
 
 ## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
@@ -201,15 +249,6 @@
 - [NodeType doesn't capture the case when node is both requester & compute ](https://github.com/bacalhau-project/bacalhau/issues/2178)
 
 - [serve/devstack commands don't warn CP when executors are not available](https://github.com/bacalhau-project/bacalhau/issues/2177)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
