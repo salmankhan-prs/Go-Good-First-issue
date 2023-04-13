@@ -4,7 +4,62 @@
 
 
 
-<div align='center'>Last updated at April 13, 2023 03:28 UTC.</div>
+<div align='center'>Last updated at April 13, 2023 03:38 UTC.</div>
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
+
+- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
+
+- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
+
+
+## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
+
+- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
+
+
+## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [Feature: sealos apply -f Clusterfile support --single](https://github.com/labring/sealos/issues/2888)
+
+- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [[Feature] Set up the component/trait definition unit tests framework based on CUE](https://github.com/kubevela/kubevela/issues/5766)
+
+- [vela show --web not populating ComponentType](https://github.com/kubevela/kubevela/issues/5769)
+
+- [The progress bar on the front end of the installation plugin is still spinning](https://github.com/kubevela/kubevela/issues/5753)
+
+- [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
+
+- [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
+
+
+## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
+
+- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(720 ⭐️)</span>
@@ -12,7 +67,7 @@
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
-## opencurve/curve-operator <span style='color:#F1C40F'>(7 ⭐️)</span>
+## opencurve/curve-operator <span style='color:#F1C40F'>(8 ⭐️)</span>
 
 - [K8s/Deployment: Code clean](https://github.com/opencurve/curve-operator/issues/28)
 
@@ -41,16 +96,6 @@
 - [Fetch withdrawals from a parent state](https://github.com/prysmaticlabs/prysm/issues/12261)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
-
-- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
-
-
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
@@ -74,11 +119,6 @@
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
 ## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
 
 - [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
@@ -91,19 +131,6 @@
 - [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
 
 
-## kubevela/kubevela <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [[Feature] Set up the component/trait definition unit tests framework based on CUE](https://github.com/kubevela/kubevela/issues/5766)
-
-- [vela show --web not populating ComponentType](https://github.com/kubevela/kubevela/issues/5769)
-
-- [The progress bar on the front end of the installation plugin is still spinning](https://github.com/kubevela/kubevela/issues/5753)
-
-- [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
-
-- [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
-
-
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
 
 - [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
@@ -113,16 +140,14 @@
 - [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
-## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
-
-- [Feature: sealos apply -f Clusterfile support --single](https://github.com/labring/sealos/issues/2888)
-
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
-
-
 ## envoyproxy/gateway <span style='color:#F1C40F'>(945 ⭐️)</span>
 
 - [Add Gateway API webhook validation functions to egctl translate](https://github.com/envoyproxy/gateway/issues/1295)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(23 ⭐️)</span>
@@ -142,11 +167,6 @@
 - [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
 
 - [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
 
 
 ## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -210,21 +230,6 @@
 - [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
 
 - [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.0K ⭐️)</span>
-
-- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
-
-- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
-
-- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(579 ⭐️)</span>
