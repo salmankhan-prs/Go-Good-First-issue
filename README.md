@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 13, 2023 00:08 UTC.</div>
+<div align='center'>Last updated at April 13, 2023 00:18 UTC.</div>
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(579 ⭐️)</span>
+
+- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
+
+- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
@@ -307,13 +314,6 @@
 ## apache/trafficcontrol <span style='color:#F1C40F'>(886 ⭐️)</span>
 
 - [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(579 ⭐️)</span>
-
-- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
 
 ## labdao/plex <span style='color:#F1C40F'>(14 ⭐️)</span>
