@@ -4,12 +4,19 @@
 
 
 
-<div align='center'>Last updated at April 13, 2023 04:28 UTC.</div>
+<div align='center'>Last updated at April 13, 2023 04:38 UTC.</div>
 
 
-## replicatedhq/troubleshoot <span style='color:#F1C40F'>(424 ⭐️)</span>
+## superfly/flyctl <span style='color:#F1C40F'>(970 ⭐️)</span>
 
-- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## dapr/components-contrib <span style='color:#F1C40F'>(442 ⭐️)</span>
@@ -23,6 +30,11 @@
 - [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
 
 - [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+
+## replicatedhq/troubleshoot <span style='color:#F1C40F'>(424 ⭐️)</span>
+
+- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(720 ⭐️)</span>
@@ -51,11 +63,6 @@
 - [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
 ## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
 
 - [Feature: sealos apply -f Clusterfile support --single](https://github.com/labring/sealos/issues/2888)
@@ -75,13 +82,6 @@
 - [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
 
 - [冰哥，最新更新消息丢给责任链这个源码，看不懂，能不能开个教程啊！](https://github.com/aceld/zinx/issues/185)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(970 ⭐️)</span>
-
-- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
