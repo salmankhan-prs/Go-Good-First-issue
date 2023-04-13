@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at April 13, 2023 03:58 UTC.</div>
+<div align='center'>Last updated at April 13, 2023 04:08 UTC.</div>
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(720 ⭐️)</span>
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
+
+- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
 
 
 ## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
@@ -72,11 +89,6 @@
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
 
 - [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
@@ -103,11 +115,6 @@
 ## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
 
 - [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(720 ⭐️)</span>
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
 ## opencurve/curve-operator <span style='color:#F1C40F'>(8 ⭐️)</span>
@@ -219,6 +226,17 @@
 - [chore: update Go tool chain to v1.20](https://github.com/apache/apisix-ingress-controller/issues/1786)
 
 - [bug: apisix restarts, ingress controller unavailable](https://github.com/apache/apisix-ingress-controller/issues/1760)
+
+
+## kubesphere/kubekey <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [Support for installing calicoctl for nodes](https://github.com/kubesphere/kubekey/issues/1788)
+
+- [Initialize operating system process optimization](https://github.com/kubesphere/kubekey/issues/1787)
+
+- [Support the installation and configuration of cri-docker](https://github.com/kubesphere/kubekey/issues/1786)
+
+- [Support adding annotations for nodes](https://github.com/kubesphere/kubekey/issues/1785)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -334,11 +352,4 @@
 - [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
 
 - [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(444 ⭐️)</span>
-
-- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
-
-- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
