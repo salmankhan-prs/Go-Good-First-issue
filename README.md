@@ -4,12 +4,24 @@
 
 
 
-<div align='center'>Last updated at April 13, 2023 02:28 UTC.</div>
+<div align='center'>Last updated at April 13, 2023 02:38 UTC.</div>
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(970 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(23 ⭐️)</span>
 
 - [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
+
+- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
@@ -47,13 +59,6 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(970 ⭐️)</span>
-
-- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
@@ -96,14 +101,14 @@
 - [bug: apisix restarts, ingress controller unavailable](https://github.com/apache/apisix-ingress-controller/issues/1760)
 
 
+## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
+
+- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
+
+
 ## envoyproxy/gateway <span style='color:#F1C40F'>(945 ⭐️)</span>
 
 - [Add Gateway API webhook validation functions to egctl translate](https://github.com/envoyproxy/gateway/issues/1295)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
-
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
