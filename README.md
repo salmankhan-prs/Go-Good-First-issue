@@ -4,7 +4,29 @@
 
 
 
-<div align='center'>Last updated at April 13, 2023 03:18 UTC.</div>
+<div align='center'>Last updated at April 13, 2023 03:28 UTC.</div>
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(720 ⭐️)</span>
+
+- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+
+
+## opencurve/curve-operator <span style='color:#F1C40F'>(7 ⭐️)</span>
+
+- [K8s/Deployment: Code clean](https://github.com/opencurve/curve-operator/issues/28)
+
+- [K8s/Deployment: Formatting progress show](https://github.com/opencurve/curve-operator/issues/30)
+
+- [K8s/Deployment: Update cluster](https://github.com/opencurve/curve-operator/issues/29)
+
+- [K8s/Deployment: Disk discovery](https://github.com/opencurve/curve-operator/issues/27)
+
+- [K8s/Deployment: Monitor deployment](https://github.com/opencurve/curve-operator/issues/26)
+
+- [K8s/Deployment: Stand-alone deployment](https://github.com/opencurve/curve-operator/issues/25)
+
+- [K8s/Deployment: Feature optimization](https://github.com/opencurve/curve-operator/issues/24)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(970 ⭐️)</span>
@@ -27,18 +49,6 @@
 ## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
 
 - [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
-
-- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -64,6 +74,18 @@
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
 
 
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
+
+- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
+
+
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.6K ⭐️)</span>
 
 - [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
@@ -80,6 +102,15 @@
 - [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
 
 - [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
+
+- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+
+- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
 
 
 ## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
@@ -290,35 +321,20 @@
 - [feat(service): Add [iMessage] service](https://github.com/nikoksr/notify/issues/564)
 
 
+## Edgenesis/shifu <span style='color:#F1C40F'>(836 ⭐️)</span>
+
+- [The traffic light FSM implementation for deviceShifu](https://github.com/Edgenesis/shifu/issues/547)
+
+- [OPC UA node ID Browing feature on Shifu .Currently we are providing  NodeID' s Manually by going to the OPC UA server loc.  ](https://github.com/Edgenesis/shifu/issues/545)
+
+- [The simplest FSM implementation of deviceShifu](https://github.com/Edgenesis/shifu/issues/542)
+
+- [convert DeviceShifuBase data structure from single EdgeDevice to a list type of EdgeDevice](https://github.com/Edgenesis/shifu/issues/538)
+
+- [In swarm mode, deviceShifuBase supports multiple EdgeDevices](https://github.com/Edgenesis/shifu/issues/539)
+
+
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
 
 - [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
-
-
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Explore moving `readFile` to `host_id_bsd.go`](https://github.com/open-telemetry/opentelemetry-go/issues/3972)
-
-- [Use `cache-dependency-path` in `actions/setup-go`](https://github.com/open-telemetry/opentelemetry-go/issues/3911)
-
-
-## opencost/opencost <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Update NPM dependencies and Dependabot should be configured for OpenCost UI](https://github.com/opencost/opencost/issues/1848)
-
-- [Opencost-ui container uses root user.](https://github.com/opencost/opencost/issues/1824)
-
-- [How to convert dollars into CNY(China Yuan)](https://github.com/opencost/opencost/issues/1800)
-
-
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Allow users to specify a path prefix for OTLP HTTP receiver](https://github.com/open-telemetry/opentelemetry-collector/issues/7511)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
-
-- [[CLI] - Json format option with nomad job status](https://github.com/hashicorp/nomad/issues/16566)
-
-- [Fingerprint Windows Build Number](https://github.com/hashicorp/nomad/issues/16591)
 
