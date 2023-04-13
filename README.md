@@ -4,7 +4,35 @@
 
 
 
-<div align='center'>Last updated at April 13, 2023 00:28 UTC.</div>
+<div align='center'>Last updated at April 13, 2023 00:38 UTC.</div>
+
+
+## dapr/components-contrib <span style='color:#F1C40F'>(442 ⭐️)</span>
+
+- [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
+
+- [Issues with SQL Server state store and MSI auth](https://github.com/dapr/components-contrib/issues/2726)
+
+- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
+
+- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
+
+- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
+
+- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
+
+- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
+
+- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+
+- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
+
+- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -56,6 +84,13 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
 
 - [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(970 ⭐️)</span>
+
+- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+
+- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
@@ -120,19 +155,6 @@
 - [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
 
 
-## dapr/components-contrib <span style='color:#F1C40F'>(442 ⭐️)</span>
-
-- [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
-
-- [Issues with SQL Server state store and MSI auth](https://github.com/dapr/components-contrib/issues/2726)
-
-- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
-
-- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
-
-- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
-
-
 ## komodorio/helm-dashboard <span style='color:#F1C40F'>(3.9K ⭐️)</span>
 
 - [Version to install options should be sorted semantically](https://github.com/komodorio/helm-dashboard/issues/326)
@@ -183,21 +205,6 @@
 ## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.0K ⭐️)</span>
-
-- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
-
-- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
-
-- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
-
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
-
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
-
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
 
 
 ## cli/cli <span style='color:#F1C40F'>(32.0K ⭐️)</span>
@@ -297,13 +304,6 @@
 - [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
 
 - [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(969 ⭐️)</span>
-
-- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
-
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
