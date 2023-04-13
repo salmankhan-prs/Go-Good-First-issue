@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at April 13, 2023 00:58 UTC.</div>
+<div align='center'>Last updated at April 13, 2023 01:08 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
+
+- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## apache/apisix-ingress-controller <span style='color:#F1C40F'>(781 ⭐️)</span>
+
+- [bug: apisix restarts, ingress controller unavailable](https://github.com/apache/apisix-ingress-controller/issues/1760)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
@@ -96,11 +111,6 @@
 - [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
-
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
-
-
 ## superfly/flyctl <span style='color:#F1C40F'>(970 ⭐️)</span>
 
 - [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
@@ -174,11 +184,6 @@
 - [Document application capabilities](https://github.com/komodorio/helm-dashboard/issues/255)
 
 - [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(5.6K ⭐️)</span>
@@ -352,14 +357,4 @@
 - [Use a CI workflow to streamline code reviews.](https://github.com/gnolang/gno/issues/687)
 
 - [Package calls + deployments cost a fixed number of `ugnot`](https://github.com/gnolang/gno/issues/649)
-
-
-## apache/trafficcontrol <span style='color:#F1C40F'>(886 ⭐️)</span>
-
-- [Role permissions are unsorted](https://github.com/apache/trafficcontrol/issues/7403)
-
-
-## labdao/plex <span style='color:#F1C40F'>(14 ⭐️)</span>
-
-- [update installer.sh to download the complete testdata directory recursively](https://github.com/labdao/plex/issues/179)
 
