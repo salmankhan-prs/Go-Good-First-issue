@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at April 13, 2023 02:18 UTC.</div>
+<div align='center'>Last updated at April 13, 2023 02:28 UTC.</div>
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(23 ⭐️)</span>
+
+- [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -61,11 +80,6 @@
 - [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
 
 - [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## storj/gateway-mt <span style='color:#F1C40F'>(34 ⭐️)</span>
@@ -219,6 +233,11 @@
 - [feat(service): Add [iMessage] service](https://github.com/nikoksr/notify/issues/564)
 
 
+## linkerd/linkerd2 <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+
+- [Add missing label `linkerd.io/extension`](https://github.com/linkerd/linkerd2/issues/10705)
+
+
 ## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(3.8K ⭐️)</span>
 
 - [Explore moving `readFile` to `host_id_bsd.go`](https://github.com/open-telemetry/opentelemetry-go/issues/3972)
@@ -295,14 +314,18 @@
 - [tea](https://github.com/rsteube/carapace-bin/issues/1643)
 
 
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(23 ⭐️)</span>
-
-- [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
-
-
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(720 ⭐️)</span>
 
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
+
+
+## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Span sets returned by TraceQL should return the number of all matching spans](https://github.com/grafana/tempo/issues/2307)
+
+- [Add query parameter to Search API to configure the spans per span set](https://github.com/grafana/tempo/issues/2308)
+
+- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
 
 
 ## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -349,9 +372,4 @@
 - [Gloo-EE Validating Webhook for Secrets Doesn't Work](https://github.com/solo-io/gloo/issues/8001)
 
 - [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
-
-
-## sigstore/cosign <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [Cleanup cosign help text with a custom printer](https://github.com/sigstore/cosign/issues/2887)
 
