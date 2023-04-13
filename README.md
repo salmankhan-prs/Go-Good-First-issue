@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at April 13, 2023 02:58 UTC.</div>
+<div align='center'>Last updated at April 13, 2023 03:08 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+
+- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
+
+
+## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
+
+- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -28,6 +40,24 @@
 - [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
 - [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(5.6K ⭐️)</span>
+
+- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [[Feature] Set up the component/trait definition unit tests framework based on CUE](https://github.com/kubevela/kubevela/issues/5766)
+
+- [vela show --web not populating ComponentType](https://github.com/kubevela/kubevela/issues/5769)
+
+- [The progress bar on the front end of the installation plugin is still spinning](https://github.com/kubevela/kubevela/issues/5753)
+
+- [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
+
+- [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
 
 
 ## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
@@ -116,11 +146,6 @@
 ## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
 
 - [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -253,9 +278,11 @@
 - [UI - General - Upgrade modal](https://github.com/komodorio/helm-dashboard/issues/258)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.6K ⭐️)</span>
+## kairos-io/kairos <span style='color:#F1C40F'>(444 ⭐️)</span>
 
-- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
+- [:bug: :hedgehog: Order the bind mounts/custom mounts by size so root paths are mounted before others](https://github.com/kairos-io/kairos/issues/1176)
+
+- [🌱 provider-kairos +iso target should work with just BASE_IMAGE (no FLAVOR)](https://github.com/kairos-io/kairos/issues/1181)
 
 
 ## nikoksr/notify <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -299,69 +326,4 @@
 ## buildpacks/pack <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [pack buildpack downloader should support extension packages](https://github.com/buildpacks/pack/issues/1684)
-
-
-## cli/cli <span style='color:#F1C40F'>(32.0K ⭐️)</span>
-
-- [Add support for "--web" to "gh cs {list,create}"](https://github.com/cli/cli/issues/7261)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Test] New kuttl test for the background policy](https://github.com/kyverno/kyverno/issues/6605)
-
-- [[Feature] Add kuttl tests for manifest signing verification](https://github.com/kyverno/kyverno/issues/6688)
-
-- [[Feature] Add kuttl tests for background only policies](https://github.com/kyverno/kyverno/issues/6667)
-
-
-## dominant-strategies/go-quai <span style='color:#F1C40F'>(154 ⭐️)</span>
-
-- [Consensus.SealHash() is largely a duplicate of Header.EncodeRLP -- remove the duplication](https://github.com/dominant-strategies/go-quai/issues/713)
-
-
-## grafana/loki <span style='color:#F1C40F'>(18.8K ⭐️)</span>
-
-- [Helm chart should enable ruler sharding](https://github.com/grafana/loki/issues/8843)
-
-
-## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
-
-- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
-
-
-## rsteube/carapace-bin <span style='color:#F1C40F'>(196 ⭐️)</span>
-
-- [tea](https://github.com/rsteube/carapace-bin/issues/1643)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(720 ⭐️)</span>
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
-
-
-## grafana/tempo <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Span sets returned by TraceQL should return the number of all matching spans](https://github.com/grafana/tempo/issues/2307)
-
-- [Add query parameter to Search API to configure the spans per span set](https://github.com/grafana/tempo/issues/2308)
-
-- [panic: non-positive interval for NewTicker](https://github.com/grafana/tempo/issues/2263)
-
-
-## elastic/apm-server <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Service target is not considered in service destination aggregation](https://github.com/elastic/apm-server/issues/10531)
-
-
-## massalabs/thyra <span style='color:#F1C40F'>(12 ⭐️)</span>
-
-- [Add missing endpoints to the Postman collection](https://github.com/massalabs/thyra/issues/558)
-
-
-## cosmos/ibc-go <span style='color:#F1C40F'>(358 ⭐️)</span>
-
-- [nit: remove "callback" from msg server logging, except where relevant](https://github.com/cosmos/ibc-go/issues/3404)
-
-- [Prefer declaration over initialization in grpc query handlers](https://github.com/cosmos/ibc-go/issues/3376)
 
