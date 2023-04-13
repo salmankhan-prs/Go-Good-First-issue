@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 13, 2023 04:18 UTC.</div>
+<div align='center'>Last updated at April 13, 2023 04:28 UTC.</div>
 
 
 ## replicatedhq/troubleshoot <span style='color:#F1C40F'>(424 ⭐️)</span>
@@ -30,6 +30,15 @@
 - [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
 
 
+## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
+
+- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
+
+- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
+
+- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
+
+
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
 - [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
@@ -40,6 +49,11 @@
 - [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
 
 - [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
+
+- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
@@ -70,15 +84,6 @@
 - [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
 ## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
@@ -105,11 +110,6 @@
 - [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
 - [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
 
 
 ## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
@@ -341,9 +341,4 @@
 - [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
 
 - [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
-
-
-## filecoin-project/lotus <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Snapshot import occasionally fails with "..failed to read from underlying reader.."](https://github.com/filecoin-project/lotus/issues/10618)
 
