@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at April 13, 2023 00:38 UTC.</div>
+<div align='center'>Last updated at April 13, 2023 00:48 UTC.</div>
 
 
 ## dapr/components-contrib <span style='color:#F1C40F'>(442 ⭐️)</span>
@@ -18,6 +18,16 @@
 - [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
 
 - [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(944 ⭐️)</span>
+
+- [Add Gateway API webhook validation functions to egctl translate](https://github.com/envoyproxy/gateway/issues/1295)
+
+
+## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Fetch withdrawals from a parent state](https://github.com/prysmaticlabs/prysm/issues/12261)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(13.0K ⭐️)</span>
@@ -306,11 +316,6 @@
 - [To much ext-auth warnings on "log ignoring key that's not used for signing"](https://github.com/solo-io/gloo/issues/7977)
 
 
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Fetch withdrawals from a parent state](https://github.com/prysmaticlabs/prysm/issues/12261)
-
-
 ## sigstore/cosign <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [Cleanup cosign help text with a custom printer](https://github.com/sigstore/cosign/issues/2887)
@@ -357,13 +362,4 @@
 ## labdao/plex <span style='color:#F1C40F'>(14 ⭐️)</span>
 
 - [update installer.sh to download the complete testdata directory recursively](https://github.com/labdao/plex/issues/179)
-
-
-## jatalocks/terracove <span style='color:#F1C40F'>(13 ⭐️)</span>
-
-- [✨  Github Action](https://github.com/jatalocks/terracove/issues/5)
-
-- [⚠️ Warn on missing terraform/terragrunt binaries](https://github.com/jatalocks/terracove/issues/7)
-
-- [🔊 Refactor logging mechanism](https://github.com/jatalocks/terracove/issues/6)
 
