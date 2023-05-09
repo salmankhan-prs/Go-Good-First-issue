@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 05:02 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 05:13 UTC.</div>
+
+
+## storj/gateway-mt <span style='color:#F1C40F'>(34 ⭐️)</span>
+
+- [Force HTTPS for Custom Domains (Pro accounts)](https://github.com/storj/gateway-mt/issues/328)
 
 
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(34 ⭐️)</span>
@@ -65,26 +70,6 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
-## kubevela/velaux <span style='color:#F1C40F'>(109 ⭐️)</span>
-
-- [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
-
-
-## opencurve/curve-operator <span style='color:#F1C40F'>(13 ⭐️)</span>
-
-- [K8s/Deployment: Monitor deployment](https://github.com/opencurve/curve-operator/issues/26)
-
-- [K8s/Deployment: Stand-alone deployment](https://github.com/opencurve/curve-operator/issues/25)
-
-- [K8s/Deployment: Disk discovery](https://github.com/opencurve/curve-operator/issues/27)
-
-- [K8s/Deployment: Formatting progress show](https://github.com/opencurve/curve-operator/issues/30)
-
-- [K8s/Deployment: Code clean](https://github.com/opencurve/curve-operator/issues/28)
-
-- [K8s/Deployment: Update cluster](https://github.com/opencurve/curve-operator/issues/29)
-
-
 ## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(6.4K ⭐️)</span>
 
 - [(kustomize/v2) - Remove the deprecation ](https://github.com/kubernetes-sigs/kubebuilder/issues/3372)
@@ -116,6 +101,22 @@
 - [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -203,6 +204,11 @@
 - [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
 
 
+## cometbft/cometbft <span style='color:#F1C40F'>(262 ⭐️)</span>
+
+- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
+
+
 ## cloudfoundry/korifi <span style='color:#F1C40F'>(196 ⭐️)</span>
 
 - [[Feature]: Korifi api users should be able to use long API/workloads URLs](https://github.com/cloudfoundry/korifi/issues/2425)
@@ -211,6 +217,11 @@
 ## Jguer/yay <span style='color:#F1C40F'>(9.1K ⭐️)</span>
 
 - [Mutual blocking of processes](https://github.com/Jguer/yay/issues/2123)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
 ## cilium/cilium-cli <span style='color:#F1C40F'>(231 ⭐️)</span>
@@ -281,11 +292,6 @@
 - [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
 
 
-## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
@@ -349,4 +355,62 @@
 - [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
 
 - [Eventing TLS: Support `K_CA_CERTS` env variable injection for SinkBinding subjects](https://github.com/knative/eventing/issues/6915)
+
+
+## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Cleanup cosign help text with a custom printer](https://github.com/sigstore/cosign/issues/2887)
+
+- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
+
+- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
+
+- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
+
+- [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
+
+
+## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
+
+- [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[GC] Output failed-to-delete objects rather than deleted](https://github.com/treeverse/lakeFS/issues/5716)
+
+- [[lakeFSFS] Add retries and configurable timeouts to lakeFS API calls](https://github.com/treeverse/lakeFS/issues/5664)
+
+- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+- [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
+
+
+## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
+
+- [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
+
+
+## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
+
+- [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
+
+
+## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [feat(plugin): scaffold github workflow to test plugin](https://github.com/ignite/cli/issues/3495)
+
+
+## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
+
+- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(513 ⭐️)</span>
+
+- [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
 
