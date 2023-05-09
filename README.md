@@ -4,12 +4,26 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 14:02 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 14:12 UTC.</div>
 
 
-## buildpacks/lifecycle <span style='color:#F1C40F'>(163 ⭐️)</span>
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
 
-- [Upgrade api version in acceptance tests to non-deprecated version](https://github.com/buildpacks/lifecycle/issues/1079)
+- [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -23,6 +37,18 @@
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
+## buildpacks/lifecycle <span style='color:#F1C40F'>(163 ⭐️)</span>
+
+- [Upgrade api version in acceptance tests to non-deprecated version](https://github.com/buildpacks/lifecycle/issues/1079)
+
+
+## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
+
+- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
+
+
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
 
 - [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
@@ -33,11 +59,6 @@
 ## tigera/operator <span style='color:#F1C40F'>(127 ⭐️)</span>
 
 - [Typha autoscaler should exclude Fargate Nodes in node count](https://github.com/tigera/operator/issues/2592)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
@@ -173,9 +194,20 @@
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
+## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
 
-- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
+- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
+
+- [[eval] Update profile-sort flag to show valid options](https://github.com/open-policy-agent/opa/issues/5862)
+
+- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
+
+- [OPA debug logs expose X-AMZ-SECURITY-TOKEN header](https://github.com/open-policy-agent/opa/issues/5848)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
@@ -221,6 +253,11 @@
 - [CI: auto-assign author if PR created without assignee](https://github.com/gnolang/gno/issues/796)
 
 
+## gnolang/gno <span style='color:#F1C40F'>(733 ⭐️)</span>
+
+- [CI: auto-assign author if PR created without assignee](https://github.com/gnolang/gno/issues/796)
+
+
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.5K ⭐️)</span>
 
 - [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
@@ -230,15 +267,6 @@
 - [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
 
 - [Feature: GUI - Version upgrade changes](https://github.com/memphisdev/memphis/issues/905)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
-
-- [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
 ## cilium/cilium-cli <span style='color:#F1C40F'>(231 ⭐️)</span>
@@ -285,66 +313,4 @@
 - [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
 
 - [Use Partial Response should be enabled by default](https://github.com/thanos-io/thanos/issues/6270)
-
-
-## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
-
-- [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
-
-
-## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
-
-- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
-
-
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.5K ⭐️)</span>
-
-- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
-
-
-## derailed/k9s <span style='color:#F1C40F'>(20.7K ⭐️)</span>
-
-- [Add visual hint that current list is filtered by 'faults'](https://github.com/derailed/k9s/issues/2052)
-
-
-## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
-
-- [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
-
-
-## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
-
-- [Eventing TLS: Test ContainerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6937)
-
-- [Eventing TLS: Test ApiServerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6913)
-
-- [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
-
-- [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
-
-- [Eventing TLS: Test PingSource with Broker as sink](https://github.com/knative/eventing/issues/6932)
-
-- [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
-
-
-## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [Split `fetching` package constants to distinct types](https://github.com/elastic/cloudbeat/issues/867)
-
-
-## cometbft/cometbft <span style='color:#F1C40F'>(262 ⭐️)</span>
-
-- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
-
-
-## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
-
-- [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
 
