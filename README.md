@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 18:42 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 18:52 UTC.</div>
+
+
+## onflow/flow-go <span style='color:#F1C40F'>(490 ⭐️)</span>
+
+- [Differentiate between consensus `Headers` and cluster `Headers`](https://github.com/onflow/flow-go/issues/4204)
+
+
+## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
+
+- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -27,11 +48,6 @@
 - [site: add syntax highlighting support for toml snippets](https://github.com/scriptnull/waymond/issues/18)
 
 - [config: validate if config is a DAG](https://github.com/scriptnull/waymond/issues/15)
-
-
-## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
-
-- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
@@ -92,11 +108,6 @@
 - [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
 
 - [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
-
-
-## onflow/flow-go <span style='color:#F1C40F'>(490 ⭐️)</span>
-
-- [Differentiate between consensus `Headers` and cluster `Headers`](https://github.com/onflow/flow-go/issues/4204)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
@@ -272,17 +283,6 @@
 - [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
 ## openfga/openfga <span style='color:#F1C40F'>(974 ⭐️)</span>
 
 - [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
@@ -353,9 +353,4 @@
 ## loft-sh/vcluster <span style='color:#F1C40F'>(2.5K ⭐️)</span>
 
 - [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
 
