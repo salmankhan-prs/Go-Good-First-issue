@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 12:42 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 12:52 UTC.</div>
+
+
+## aquasecurity/trivy-operator <span style='color:#F1C40F'>(529 ⭐️)</span>
+
+- [Helm Chart: Missing quotes around cron expressions](https://github.com/aquasecurity/trivy-operator/issues/1190)
+
+
+## l7mp/stunner <span style='color:#F1C40F'>(492 ⭐️)</span>
+
+- [Rewrite `stunnerctl` in Go](https://github.com/l7mp/stunner/issues/81)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -20,21 +30,9 @@
 - [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
 
 
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Figure out capabilities necessary for the CNI](https://github.com/kumahq/kuma/issues/6569)
-
-- [x509: certificate is valid for docker internal address, not advirtisedAddress](https://github.com/kumahq/kuma/issues/6498)
-
-
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(529 ⭐️)</span>
-
-- [Helm Chart: Missing quotes around cron expressions](https://github.com/aquasecurity/trivy-operator/issues/1190)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
@@ -376,11 +374,4 @@
 - [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
 
 - [Remove pkg/service](https://github.com/kube-vip/kube-vip/issues/548)
-
-
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(34 ⭐️)</span>
-
-- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
-
-- [The different access tokens are confusing](https://github.com/chiselstrike/turso-cli/issues/325)
 
