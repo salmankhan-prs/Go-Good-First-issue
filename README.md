@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 23:12 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 23:22 UTC.</div>
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
+
+- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
+
+- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
+
+- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
@@ -49,17 +60,6 @@
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
-
-- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
-
-- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
-
-- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
 
 
 ## kubernetes-sigs/network-policy-api <span style='color:#F1C40F'>(22 ⭐️)</span>
