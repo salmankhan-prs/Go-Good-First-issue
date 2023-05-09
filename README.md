@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 01:08 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 01:18 UTC.</div>
 
 
 ## openfga/openfga <span style='color:#F1C40F'>(971 ⭐️)</span>
@@ -327,6 +327,24 @@
 - [The different access tokens are confusing](https://github.com/chiselstrike/turso-cli/issues/325)
 
 
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[GC] Output failed-to-delete objects rather than deleted](https://github.com/treeverse/lakeFS/issues/5716)
+
+- [[lakeFSFS] Add retries and configurable timeouts to lakeFS API calls](https://github.com/treeverse/lakeFS/issues/5664)
+
+- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+- [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
+
+
+## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
+
+- [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
+
+
 ## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
 
 - [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
@@ -354,39 +372,4 @@
 - [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
 
 - [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
-
-
-## NethermindEth/juno <span style='color:#F1C40F'>(169 ⭐️)</span>
-
-- [Use `json.Decoder` in `feeder` to avoid reading the entire response body in to memory](https://github.com/NethermindEth/juno/issues/747)
-
-
-## PuremlHQ/PureML <span style='color:#F1C40F'>(169 ⭐️)</span>
-
-- [Adding function documentation for DAOs](https://github.com/PuremlHQ/PureML/issues/227)
-
-- [API Tests: Dataset/Model Review API tests](https://github.com/PuremlHQ/PureML/issues/226)
-
-- [API Tests: Dataset/Model Readme API tests](https://github.com/PuremlHQ/PureML/issues/225)
-
-- [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
-
-- [Incorrect message displayed in CLI after new user signs up](https://github.com/PuremlHQ/PureML/issues/216)
-
-
-## cometbft/cometbft <span style='color:#F1C40F'>(261 ⭐️)</span>
-
-- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
-
-
-## loft-sh/vcluster <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Figure out capabilities necessary for the CNI](https://github.com/kumahq/kuma/issues/6569)
-
-- [x509: certificate is valid for docker internal address, not advirtisedAddress](https://github.com/kumahq/kuma/issues/6498)
 
