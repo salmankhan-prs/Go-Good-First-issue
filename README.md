@@ -4,12 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 06:23 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 06:33 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
 
 
 ## tikv/pd <span style='color:#F1C40F'>(961 ⭐️)</span>
