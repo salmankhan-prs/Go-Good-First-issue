@@ -4,12 +4,48 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 13:02 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 13:12 UTC.</div>
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
+
+- [[eval] Update profile-sort flag to show valid options](https://github.com/open-policy-agent/opa/issues/5862)
+
+- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
+
+- [OPA debug logs expose X-AMZ-SECURITY-TOKEN header](https://github.com/open-policy-agent/opa/issues/5848)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## chainloop-dev/chainloop <span style='color:#F1C40F'>(179 ⭐️)</span>
+
+- [deployment: split sentry configuration](https://github.com/chainloop-dev/chainloop/issues/104)
+
+- [chart: improve installation output (notes.md) ](https://github.com/chainloop-dev/chainloop/issues/97)
+
+- [Create first robot-account during workflow creation](https://github.com/chainloop-dev/chainloop/issues/90)
+
+- [Jenkins runner support](https://github.com/chainloop-dev/chainloop/issues/88)
+
+- [replace inline secret_prefix option](https://github.com/chainloop-dev/chainloop/issues/62)
+
+
+## NethermindEth/juno <span style='color:#F1C40F'>(169 ⭐️)</span>
+
+- [Make block hash calculation compatible with 0.11.1](https://github.com/NethermindEth/juno/issues/757)
+
+- [Use `json.Decoder` in `feeder` to avoid reading the entire response body in to memory](https://github.com/NethermindEth/juno/issues/747)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
@@ -25,6 +61,16 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [feat(plugin): scaffold github workflow to test plugin](https://github.com/ignite/cli/issues/3495)
 
 
 ## l7mp/stunner <span style='color:#F1C40F'>(492 ⭐️)</span>
@@ -48,11 +94,6 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.5K ⭐️)</span>
@@ -160,21 +201,9 @@
 - [Use Partial Response should be enabled by default](https://github.com/thanos-io/thanos/issues/6270)
 
 
-## NethermindEth/juno <span style='color:#F1C40F'>(169 ⭐️)</span>
-
-- [Make block hash calculation compatible with 0.11.1](https://github.com/NethermindEth/juno/issues/757)
-
-- [Use `json.Decoder` in `feeder` to avoid reading the entire response body in to memory](https://github.com/NethermindEth/juno/issues/747)
-
-
 ## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
 
 - [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
-
-
-## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
-
-- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.5K ⭐️)</span>
@@ -259,6 +288,36 @@
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
 
+## celestiaorg/orchestrator-relayer <span style='color:#F1C40F'>(8 ⭐️)</span>
+
+- [Remove the `--passphrase` flag from `evm list` command](https://github.com/celestiaorg/orchestrator-relayer/issues/286)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(173 ⭐️)</span>
+
+- [Use unique error codes for `x/qgb` module](https://github.com/celestiaorg/celestia-app/issues/1669)
+
+- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
+
+- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
+
+
+## project-zot/zot <span style='color:#F1C40F'>(362 ⭐️)</span>
+
+- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
+
+
 ## loft-sh/vcluster <span style='color:#F1C40F'>(2.5K ⭐️)</span>
 
 - [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
@@ -291,87 +350,4 @@
 ## gnolang/gno <span style='color:#F1C40F'>(732 ⭐️)</span>
 
 - [CI: auto-assign author if PR created without assignee](https://github.com/gnolang/gno/issues/796)
-
-
-## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(6.4K ⭐️)</span>
-
-- [(kustomize/v2) - Remove the deprecation ](https://github.com/kubernetes-sigs/kubebuilder/issues/3372)
-
-
-## apache/apisix-ingress-controller <span style='color:#F1C40F'>(793 ⭐️)</span>
-
-- [e2e: check if the controller is restarted](https://github.com/apache/apisix-ingress-controller/issues/1792)
-
-- [chore: update Go tool chain to v1.20](https://github.com/apache/apisix-ingress-controller/issues/1786)
-
-
-## berops/claudie <span style='color:#F1C40F'>(232 ⭐️)</span>
-
-- [Getting started docs: Make it clear to use the releases rather than the master branch](https://github.com/berops/claudie/issues/716)
-
-- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
-
-
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Fetch withdrawals from a parent state](https://github.com/prysmaticlabs/prysm/issues/12261)
-
-
-## crytic/medusa <span style='color:#F1C40F'>(91 ⭐️)</span>
-
-- [Extend assertion-testing with different panic codes](https://github.com/crytic/medusa/issues/142)
-
-- [Improve config option parity between medusa and echidna](https://github.com/crytic/medusa/issues/140)
-
-- [Add to support for fork selection to TestChainConfig](https://github.com/crytic/medusa/issues/138)
-
-
-## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(73 ⭐️)</span>
-
-- [Apps Page Text needs tweaked](https://github.com/keptn/lifecycle-toolkit/issues/1311)
-
-- [readme should point to website not repo](https://github.com/keptn/lifecycle-toolkit/issues/1327)
-
-- [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
-
-- [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
-
-- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
-
-- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
-
-- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
-
-
-## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(14.7K ⭐️)</span>
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
-
-- [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
-
-
-## storj/gateway-mt <span style='color:#F1C40F'>(34 ⭐️)</span>
-
-- [Force HTTPS for Custom Domains (Pro accounts)](https://github.com/storj/gateway-mt/issues/328)
-
-
-## kube-vip/kube-vip <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [BGP metrics support](https://github.com/kube-vip/kube-vip/issues/547)
-
-- [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
-
-- [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
-
-- [Remove pkg/service](https://github.com/kube-vip/kube-vip/issues/548)
 
