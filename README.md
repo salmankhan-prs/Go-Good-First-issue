@@ -4,7 +4,27 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 07:32 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 07:42 UTC.</div>
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [question: Support for gke-gcloud-auth-plugin in k8sgpt docker image](https://github.com/k8sgpt-ai/k8sgpt/issues/275)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -50,6 +70,15 @@
 - [(kustomize/v2) - Remove the deprecation ](https://github.com/kubernetes-sigs/kubebuilder/issues/3372)
 
 
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+- [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+
 ## apache/apisix-ingress-controller <span style='color:#F1C40F'>(793 ⭐️)</span>
 
 - [e2e: check if the controller is restarted](https://github.com/apache/apisix-ingress-controller/issues/1792)
@@ -69,11 +98,6 @@
 - [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Fetch withdrawals from a parent state](https://github.com/prysmaticlabs/prysm/issues/12261)
@@ -87,15 +111,6 @@
 ## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
 
 - [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-- [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -301,81 +316,4 @@
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
 
 - [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
-
-- [Change custom-default-backend manifest to use new image](https://github.com/kubernetes/ingress-nginx/issues/9934)
-
-
-## guacsec/guac <span style='color:#F1C40F'>(819 ⭐️)</span>
-
-- [SPDX parser top level heuristic change to check "DESCRIBES" relationship](https://github.com/guacsec/guac/issues/708)
-
-- [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
-
-
-## onflow/cadence <span style='color:#F1C40F'>(466 ⭐️)</span>
-
-- [Add `fromBigEndianBytes` conversion function to `Number` types](https://github.com/onflow/cadence/issues/2448)
-
-- [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
-
-
-## ConsenSys/gnark <span style='color:#F1C40F'>(917 ⭐️)</span>
-
-- [fix: test engine does not differentiate between constants and variables](https://github.com/ConsenSys/gnark/issues/650)
-
-- [Detect under-constrained circuits / wires](https://github.com/ConsenSys/gnark/issues/649)
-
-- [Pre compute an optimal parallel solving strategy](https://github.com/ConsenSys/gnark/issues/646)
-
-- [feat: hash to curve](https://github.com/ConsenSys/gnark/issues/648)
-
-- [feat: G2 arithmetic in-circuit](https://github.com/ConsenSys/gnark/issues/647)
-
-
-## cometbft/cometbft <span style='color:#F1C40F'>(262 ⭐️)</span>
-
-- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
-
-
-## cloudfoundry/korifi <span style='color:#F1C40F'>(196 ⭐️)</span>
-
-- [[Feature]: Korifi api users should be able to use long API/workloads URLs](https://github.com/cloudfoundry/korifi/issues/2425)
-
-
-## Jguer/yay <span style='color:#F1C40F'>(9.1K ⭐️)</span>
-
-- [Mutual blocking of processes](https://github.com/Jguer/yay/issues/2123)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
-## cilium/cilium-cli <span style='color:#F1C40F'>(231 ⭐️)</span>
-
-- [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
-
-
-## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [IP Deallocation delay when multiple enis attached to host](https://github.com/aws/amazon-vpc-cni-k8s/issues/2363)
-
-
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
-
-
-## acorn-io/acorn <span style='color:#F1C40F'>(989 ⭐️)</span>
-
-- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
-
-
-## l7mp/stunner <span style='color:#F1C40F'>(492 ⭐️)</span>
-
-- [Rewrite `stunnerctl` in Go](https://github.com/l7mp/stunner/issues/81)
 
