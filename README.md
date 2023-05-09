@@ -4,12 +4,32 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 14:22 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 14:32 UTC.</div>
+
+
+## cloudfoundry/korifi <span style='color:#F1C40F'>(196 ⭐️)</span>
+
+- [[Feature]: Korifi api users should be able to use long API/workloads URLs](https://github.com/cloudfoundry/korifi/issues/2425)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
+
+
+## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Fetch withdrawals from a parent state](https://github.com/prysmaticlabs/prysm/issues/12261)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -26,6 +46,11 @@
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 - [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
+
+- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
@@ -50,11 +75,6 @@
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -130,19 +150,6 @@
 - [Make block hash calculation compatible with 0.11.1](https://github.com/NethermindEth/juno/issues/757)
 
 - [Use `json.Decoder` in `feeder` to avoid reading the entire response body in to memory](https://github.com/NethermindEth/juno/issues/747)
-
-
-## chainloop-dev/chainloop <span style='color:#F1C40F'>(179 ⭐️)</span>
-
-- [deployment: split sentry configuration](https://github.com/chainloop-dev/chainloop/issues/104)
-
-- [chart: improve installation output (notes.md) ](https://github.com/chainloop-dev/chainloop/issues/97)
-
-- [Create first robot-account during workflow creation](https://github.com/chainloop-dev/chainloop/issues/90)
-
-- [Jenkins runner support](https://github.com/chainloop-dev/chainloop/issues/88)
-
-- [replace inline secret_prefix option](https://github.com/chainloop-dev/chainloop/issues/62)
 
 
 ## chainloop-dev/chainloop <span style='color:#F1C40F'>(179 ⭐️)</span>
@@ -332,14 +339,4 @@
 ## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
 
 - [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
-
-
-## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
-
-- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
-
-
-## derailed/k9s <span style='color:#F1C40F'>(20.7K ⭐️)</span>
-
-- [Add visual hint that current list is filtered by 'faults'](https://github.com/derailed/k9s/issues/2052)
 
