@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 08:52 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 09:02 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## celestiaorg/orchestrator-relayer <span style='color:#F1C40F'>(8 ⭐️)</span>
+
+- [Remove the `--passphrase` flag from `evm list` command](https://github.com/celestiaorg/orchestrator-relayer/issues/286)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -16,11 +26,6 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(173 ⭐️)</span>
@@ -117,6 +122,11 @@
 - [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
 
 
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.5K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
@@ -125,16 +135,6 @@
 ## gnolang/gno <span style='color:#F1C40F'>(732 ⭐️)</span>
 
 - [CI: auto-assign author if PR created without assignee](https://github.com/gnolang/gno/issues/796)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(729 ⭐️)</span>
-
-- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
@@ -205,6 +205,8 @@
 
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
+- [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
+
 - [Eventing TLS: Test ContainerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6937)
 
 - [Eventing TLS: Test ApiServerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6913)
@@ -252,6 +254,13 @@
 - [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
 
 
+## dolthub/dolt <span style='color:#F1C40F'>(14.7K ⭐️)</span>
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+- [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
+
+
 ## storj/gateway-mt <span style='color:#F1C40F'>(34 ⭐️)</span>
 
 - [Force HTTPS for Custom Domains (Pro accounts)](https://github.com/storj/gateway-mt/issues/328)
@@ -273,13 +282,6 @@
 - [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
 
 - [The different access tokens are confusing](https://github.com/chiselstrike/turso-cli/issues/325)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(14.7K ⭐️)</span>
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
-
-- [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
@@ -332,21 +334,4 @@
 - [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
 
 - [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
-
-
-## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(264 ⭐️)</span>
-
-- [only perform contract code check if non-hardcoded address is used](https://github.com/AthanorLabs/atomic-swap/issues/416)
-
-- [enable/disable rpc namespaces](https://github.com/AthanorLabs/atomic-swap/issues/384)
-
-
-## openfga/openfga <span style='color:#F1C40F'>(971 ⭐️)</span>
-
-- [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
-
-
-## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
 
