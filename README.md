@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 18:12 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 18:22 UTC.</div>
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -67,6 +67,11 @@
 - [Differentiate between consensus `Headers` and cluster `Headers`](https://github.com/onflow/flow-go/issues/4204)
 
 
+## cilium/cilium-cli <span style='color:#F1C40F'>(232 ⭐️)</span>
+
+- [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
+
+
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
 
 - [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
@@ -92,11 +97,6 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## cilium/cilium-cli <span style='color:#F1C40F'>(231 ⭐️)</span>
-
-- [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
@@ -269,11 +269,6 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
-## openfga/openfga <span style='color:#F1C40F'>(974 ⭐️)</span>
-
-- [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
 
 
 ## openfga/openfga <span style='color:#F1C40F'>(974 ⭐️)</span>
