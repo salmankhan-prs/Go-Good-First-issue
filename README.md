@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 23:22 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 23:32 UTC.</div>
+
+
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
+
+- [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -16,6 +21,11 @@
 - [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
 
 - [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
@@ -76,11 +86,6 @@
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
-## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
-
-- [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
-
-
 ## openfga/openfga <span style='color:#F1C40F'>(976 ⭐️)</span>
 
 - [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
@@ -107,11 +112,6 @@
 ## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [IP Deallocation delay when multiple enis attached to host](https://github.com/aws/amazon-vpc-cni-k8s/issues/2363)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
