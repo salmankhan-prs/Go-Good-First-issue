@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 05:13 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 05:22 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## storj/gateway-mt <span style='color:#F1C40F'>(34 ⭐️)</span>
@@ -17,11 +22,6 @@
 - [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
 
 - [The different access tokens are confusing](https://github.com/chiselstrike/turso-cli/issues/325)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## tikv/pd <span style='color:#F1C40F'>(961 ⭐️)</span>
@@ -70,6 +70,26 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
+## kubevela/velaux <span style='color:#F1C40F'>(109 ⭐️)</span>
+
+- [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
+
+
+## opencurve/curve-operator <span style='color:#F1C40F'>(13 ⭐️)</span>
+
+- [K8s/Deployment: Monitor deployment](https://github.com/opencurve/curve-operator/issues/26)
+
+- [K8s/Deployment: Stand-alone deployment](https://github.com/opencurve/curve-operator/issues/25)
+
+- [K8s/Deployment: Disk discovery](https://github.com/opencurve/curve-operator/issues/27)
+
+- [K8s/Deployment: Formatting progress show](https://github.com/opencurve/curve-operator/issues/30)
+
+- [K8s/Deployment: Code clean](https://github.com/opencurve/curve-operator/issues/28)
+
+- [K8s/Deployment: Update cluster](https://github.com/opencurve/curve-operator/issues/29)
+
+
 ## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(6.4K ⭐️)</span>
 
 - [(kustomize/v2) - Remove the deprecation ](https://github.com/kubernetes-sigs/kubebuilder/issues/3372)
@@ -103,22 +123,6 @@
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
 
 - [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
@@ -128,6 +132,19 @@
 - [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
 
 - [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
+
+
+## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Cleanup cosign help text with a custom printer](https://github.com/sigstore/cosign/issues/2887)
+
+- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
+
+- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
+
+- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
+
+- [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -335,82 +352,4 @@
 ## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [Ignore empty with no validation causes invalid python to be generated via the jinja template](https://github.com/bufbuild/protoc-gen-validate/issues/843)
-
-
-## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
-
-
-## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Eventing TLS: Test ApiServerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6913)
-
-- [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
-
-- [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
-
-- [Eventing TLS: Test PingSource with Broker as sink](https://github.com/knative/eventing/issues/6932)
-
-- [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
-
-- [Eventing TLS: Support `K_CA_CERTS` env variable injection for SinkBinding subjects](https://github.com/knative/eventing/issues/6915)
-
-
-## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Cleanup cosign help text with a custom printer](https://github.com/sigstore/cosign/issues/2887)
-
-- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
-
-- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
-
-- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
-
-- [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
-
-
-## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
-
-- [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[GC] Output failed-to-delete objects rather than deleted](https://github.com/treeverse/lakeFS/issues/5716)
-
-- [[lakeFSFS] Add retries and configurable timeouts to lakeFS API calls](https://github.com/treeverse/lakeFS/issues/5664)
-
-- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
-
-- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
-
-- [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
-
-
-## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
-
-- [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
-
-
-## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
-
-- [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
-
-
-## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [feat(plugin): scaffold github workflow to test plugin](https://github.com/ignite/cli/issues/3495)
-
-
-## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
-
-- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(513 ⭐️)</span>
-
-- [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
 
