@@ -4,7 +4,32 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 12:32 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 12:42 UTC.</div>
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[GC] Output failed-to-delete objects rather than deleted](https://github.com/treeverse/lakeFS/issues/5716)
+
+- [[lakeFSFS] Add retries and configurable timeouts to lakeFS API calls](https://github.com/treeverse/lakeFS/issues/5664)
+
+- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+- [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Figure out capabilities necessary for the CNI](https://github.com/kumahq/kuma/issues/6569)
+
+- [x509: certificate is valid for docker internal address, not advirtisedAddress](https://github.com/kumahq/kuma/issues/6498)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(529 ⭐️)</span>
@@ -23,6 +48,8 @@
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
 
 - [Feature: GUI - Adding a label in Schemaverse page](https://github.com/memphisdev/memphis/issues/906)
 
@@ -43,13 +70,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Figure out capabilities necessary for the CNI](https://github.com/kumahq/kuma/issues/6569)
-
-- [x509: certificate is valid for docker internal address, not advirtisedAddress](https://github.com/kumahq/kuma/issues/6498)
 
 
 ## cilium/cilium-cli <span style='color:#F1C40F'>(231 ⭐️)</span>
@@ -84,19 +104,6 @@
 ## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[GC] Output failed-to-delete objects rather than deleted](https://github.com/treeverse/lakeFS/issues/5716)
-
-- [[lakeFSFS] Add retries and configurable timeouts to lakeFS API calls](https://github.com/treeverse/lakeFS/issues/5664)
-
-- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
-
-- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
-
-- [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -137,11 +144,6 @@
 - [[feature]: There is lot of empty space is left at  the footer in the doc page ](https://github.com/keploy/keploy/issues/552)
 
 - [[bug]: Wide Footer Padding on main page and Multiple Footer on GSoC Page ](https://github.com/keploy/keploy/issues/549)
-
-
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
