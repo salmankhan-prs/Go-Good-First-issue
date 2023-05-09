@@ -4,7 +4,33 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 14:12 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 14:22 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.7K ⭐️)</span>
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+- [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
+
+- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
@@ -16,14 +42,19 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.5K ⭐️)</span>
 
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
 
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
 
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -35,6 +66,11 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
 ## buildpacks/lifecycle <span style='color:#F1C40F'>(163 ⭐️)</span>
@@ -61,11 +97,6 @@
 - [Typha autoscaler should exclude Fargate Nodes in node count](https://github.com/tigera/operator/issues/2592)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
@@ -89,6 +120,11 @@
 - [Support percentage values in CPU/memory limit flags](https://github.com/bacalhau-project/bacalhau/issues/2367)
 
 
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
 ## NethermindEth/juno <span style='color:#F1C40F'>(169 ⭐️)</span>
 
 - [Make block hash calculation compatible with 0.11.1](https://github.com/NethermindEth/juno/issues/757)
@@ -109,9 +145,27 @@
 - [replace inline secret_prefix option](https://github.com/chainloop-dev/chainloop/issues/62)
 
 
+## chainloop-dev/chainloop <span style='color:#F1C40F'>(179 ⭐️)</span>
+
+- [deployment: split sentry configuration](https://github.com/chainloop-dev/chainloop/issues/104)
+
+- [chart: improve installation output (notes.md) ](https://github.com/chainloop-dev/chainloop/issues/97)
+
+- [Create first robot-account during workflow creation](https://github.com/chainloop-dev/chainloop/issues/90)
+
+- [Jenkins runner support](https://github.com/chainloop-dev/chainloop/issues/88)
+
+- [replace inline secret_prefix option](https://github.com/chainloop-dev/chainloop/issues/62)
+
+
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
 
 
 ## infracost/infracost <span style='color:#F1C40F'>(9.0K ⭐️)</span>
@@ -130,15 +184,6 @@
 - [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
 
 - [Incorrect message displayed in CLI after new user signs up](https://github.com/PuremlHQ/PureML/issues/216)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -163,16 +208,6 @@
 - [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
-
-
 ## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
@@ -194,25 +229,9 @@
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
-## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
-- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
-
-- [[eval] Update profile-sort flag to show valid options](https://github.com/open-policy-agent/opa/issues/5862)
-
-- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
-
-- [OPA debug logs expose X-AMZ-SECURITY-TOKEN header](https://github.com/open-policy-agent/opa/issues/5848)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
-
-- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
 
 
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(529 ⭐️)</span>
@@ -246,11 +265,6 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## gnolang/gno <span style='color:#F1C40F'>(733 ⭐️)</span>
-
-- [CI: auto-assign author if PR created without assignee](https://github.com/gnolang/gno/issues/796)
 
 
 ## gnolang/gno <span style='color:#F1C40F'>(733 ⭐️)</span>
@@ -313,4 +327,19 @@
 - [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
 
 - [Use Partial Response should be enabled by default](https://github.com/thanos-io/thanos/issues/6270)
+
+
+## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
+
+- [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
+
+
+## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
+
+- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
+
+
+## derailed/k9s <span style='color:#F1C40F'>(20.7K ⭐️)</span>
+
+- [Add visual hint that current list is filtered by 'faults'](https://github.com/derailed/k9s/issues/2052)
 
