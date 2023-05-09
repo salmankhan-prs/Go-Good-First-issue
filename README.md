@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 10:32 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 10:42 UTC.</div>
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
@@ -243,11 +248,6 @@
 - [CI: auto-assign author if PR created without assignee](https://github.com/gnolang/gno/issues/796)
 
 
-## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
 ## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(6.4K ⭐️)</span>
 
 - [(kustomize/v2) - Remove the deprecation ](https://github.com/kubernetes-sigs/kubebuilder/issues/3372)
@@ -328,4 +328,52 @@
 ## storj/gateway-mt <span style='color:#F1C40F'>(34 ⭐️)</span>
 
 - [Force HTTPS for Custom Domains (Pro accounts)](https://github.com/storj/gateway-mt/issues/328)
+
+
+## kube-vip/kube-vip <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [BGP metrics support](https://github.com/kube-vip/kube-vip/issues/547)
+
+- [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
+
+- [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
+
+- [Remove pkg/service](https://github.com/kube-vip/kube-vip/issues/548)
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(34 ⭐️)</span>
+
+- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
+
+- [The different access tokens are confusing](https://github.com/chiselstrike/turso-cli/issues/325)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
+
+
+## kubevela/velaux <span style='color:#F1C40F'>(109 ⭐️)</span>
+
+- [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
+
+
+## opencurve/curve-operator <span style='color:#F1C40F'>(13 ⭐️)</span>
+
+- [K8s/Deployment: Monitor deployment](https://github.com/opencurve/curve-operator/issues/26)
+
+- [K8s/Deployment: Stand-alone deployment](https://github.com/opencurve/curve-operator/issues/25)
+
+- [K8s/Deployment: Disk discovery](https://github.com/opencurve/curve-operator/issues/27)
+
+- [K8s/Deployment: Formatting progress show](https://github.com/opencurve/curve-operator/issues/30)
+
+- [K8s/Deployment: Code clean](https://github.com/opencurve/curve-operator/issues/28)
+
+- [K8s/Deployment: Update cluster](https://github.com/opencurve/curve-operator/issues/29)
 
