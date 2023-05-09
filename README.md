@@ -4,7 +4,48 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 13:32 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 13:42 UTC.</div>
+
+
+## LinuxSuRen/api-testing <span style='color:#F1C40F'>(14 ⭐️)</span>
+
+- [Provide a gRPC endpoint to getting the version](https://github.com/LinuxSuRen/api-testing/issues/54)
+
+- [Support to install atest as a Windows service](https://github.com/LinuxSuRen/api-testing/issues/52)
+
+- [Add authentication support in the gRPC server](https://github.com/LinuxSuRen/api-testing/issues/55)
+
+- [Support to install atest as a macOS service](https://github.com/LinuxSuRen/api-testing/issues/53)
+
+
+## NethermindEth/juno <span style='color:#F1C40F'>(169 ⭐️)</span>
+
+- [Make block hash calculation compatible with 0.11.1](https://github.com/NethermindEth/juno/issues/757)
+
+- [Use `json.Decoder` in `feeder` to avoid reading the entire response body in to memory](https://github.com/NethermindEth/juno/issues/747)
+
+
+## chainloop-dev/chainloop <span style='color:#F1C40F'>(179 ⭐️)</span>
+
+- [deployment: split sentry configuration](https://github.com/chainloop-dev/chainloop/issues/104)
+
+- [chart: improve installation output (notes.md) ](https://github.com/chainloop-dev/chainloop/issues/97)
+
+- [Create first robot-account during workflow creation](https://github.com/chainloop-dev/chainloop/issues/90)
+
+- [Jenkins runner support](https://github.com/chainloop-dev/chainloop/issues/88)
+
+- [replace inline secret_prefix option](https://github.com/chainloop-dev/chainloop/issues/62)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## infracost/infracost <span style='color:#F1C40F'>(9.0K ⭐️)</span>
+
+- [Infracost uses Premium disk for AKS even though it's not available for given VM family](https://github.com/infracost/infracost/issues/2407)
 
 
 ## PuremlHQ/PureML <span style='color:#F1C40F'>(169 ⭐️)</span>
@@ -56,6 +97,11 @@
 - [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
 
 
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
 ## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
@@ -70,6 +116,11 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
 
 
 ## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
@@ -93,34 +144,14 @@
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
-## chainloop-dev/chainloop <span style='color:#F1C40F'>(179 ⭐️)</span>
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
 
-- [deployment: split sentry configuration](https://github.com/chainloop-dev/chainloop/issues/104)
-
-- [chart: improve installation output (notes.md) ](https://github.com/chainloop-dev/chainloop/issues/97)
-
-- [Create first robot-account during workflow creation](https://github.com/chainloop-dev/chainloop/issues/90)
-
-- [Jenkins runner support](https://github.com/chainloop-dev/chainloop/issues/88)
-
-- [replace inline secret_prefix option](https://github.com/chainloop-dev/chainloop/issues/62)
-
-
-## NethermindEth/juno <span style='color:#F1C40F'>(169 ⭐️)</span>
-
-- [Make block hash calculation compatible with 0.11.1](https://github.com/NethermindEth/juno/issues/757)
-
-- [Use `json.Decoder` in `feeder` to avoid reading the entire response body in to memory](https://github.com/NethermindEth/juno/issues/747)
+- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
 
 
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(529 ⭐️)</span>
 
 - [Helm Chart: Missing quotes around cron expressions](https://github.com/aquasecurity/trivy-operator/issues/1190)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
@@ -156,6 +187,11 @@
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
+## gnolang/gno <span style='color:#F1C40F'>(733 ⭐️)</span>
+
+- [CI: auto-assign author if PR created without assignee](https://github.com/gnolang/gno/issues/796)
+
+
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.5K ⭐️)</span>
 
 - [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
@@ -181,19 +217,9 @@
 - [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
 
 
-## cilium/cilium-cli <span style='color:#F1C40F'>(231 ⭐️)</span>
-
-- [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
-
-
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -294,11 +320,6 @@
 - [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
 
 
-## infracost/infracost <span style='color:#F1C40F'>(9.0K ⭐️)</span>
-
-- [Infracost uses Premium disk for AKS even though it's not available for given VM family](https://github.com/infracost/infracost/issues/2407)
-
-
 ## celestiaorg/orchestrator-relayer <span style='color:#F1C40F'>(8 ⭐️)</span>
 
 - [Remove the `--passphrase` flag from `evm list` command](https://github.com/celestiaorg/orchestrator-relayer/issues/286)
@@ -328,14 +349,4 @@
 - [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
 
 - [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
-## komodorio/helm-dashboard <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Version to install options should be sorted semantically](https://github.com/komodorio/helm-dashboard/issues/326)
 
