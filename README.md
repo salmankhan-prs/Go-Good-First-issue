@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 02:18 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 02:28 UTC.</div>
+
+
+## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
+
+- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
+
+- [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
@@ -66,13 +73,6 @@
 ## openfga/openfga <span style='color:#F1C40F'>(971 ⭐️)</span>
 
 - [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
-
-
-## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
-
-- [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
