@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 09:42 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 09:52 UTC.</div>
+
+
+## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
+
+- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
+
+
+## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
+
+- [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -102,11 +117,6 @@
 - [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## infracost/infracost <span style='color:#F1C40F'>(9.0K ⭐️)</span>
 
 - [Infracost uses Premium disk for AKS even though it's not available for given VM family](https://github.com/infracost/infracost/issues/2407)
@@ -162,6 +172,11 @@
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
 
 
+## project-zot/zot <span style='color:#F1C40F'>(362 ⭐️)</span>
+
+- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
+
+
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
 
 - [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
@@ -208,11 +223,6 @@
 - [chore: update Go tool chain to v1.20](https://github.com/apache/apisix-ingress-controller/issues/1786)
 
 
-## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
-
-- [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
-
-
 ## berops/claudie <span style='color:#F1C40F'>(232 ⭐️)</span>
 
 - [Getting started docs: Make it clear to use the releases rather than the master branch](https://github.com/berops/claudie/issues/716)
@@ -237,22 +247,6 @@
 ## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
-
-
-## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
-
-- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
-
-
-## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(73 ⭐️)</span>
-
-- [Apps Page Text needs tweaked](https://github.com/keptn/lifecycle-toolkit/issues/1311)
-
-- [readme should point to website not repo](https://github.com/keptn/lifecycle-toolkit/issues/1327)
-
-- [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
-
-- [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(73 ⭐️)</span>
@@ -325,4 +319,58 @@
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
+
+
+## kubevela/velaux <span style='color:#F1C40F'>(109 ⭐️)</span>
+
+- [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
+
+
+## opencurve/curve-operator <span style='color:#F1C40F'>(13 ⭐️)</span>
+
+- [K8s/Deployment: Monitor deployment](https://github.com/opencurve/curve-operator/issues/26)
+
+- [K8s/Deployment: Stand-alone deployment](https://github.com/opencurve/curve-operator/issues/25)
+
+- [K8s/Deployment: Disk discovery](https://github.com/opencurve/curve-operator/issues/27)
+
+- [K8s/Deployment: Formatting progress show](https://github.com/opencurve/curve-operator/issues/30)
+
+- [K8s/Deployment: Code clean](https://github.com/opencurve/curve-operator/issues/28)
+
+- [K8s/Deployment: Update cluster](https://github.com/opencurve/curve-operator/issues/29)
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(412 ⭐️)</span>
+
+- [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
+
+- [bug: es.logstashPrefixKey doesn't work](https://github.com/fluent/fluent-operator/issues/696)
+
+- [bug: OpenSearchErrorHandler - 400](https://github.com/fluent/fluent-operator/issues/702)
+
+
+## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Cleanup cosign help text with a custom printer](https://github.com/sigstore/cosign/issues/2887)
+
+- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
+
+- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
+
+- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
+
+- [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
+
+
+## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(264 ⭐️)</span>
+
+- [only perform contract code check if non-hardcoded address is used](https://github.com/AthanorLabs/atomic-swap/issues/416)
+
+- [enable/disable rpc namespaces](https://github.com/AthanorLabs/atomic-swap/issues/384)
+
+
+## openfga/openfga <span style='color:#F1C40F'>(972 ⭐️)</span>
+
+- [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
 
