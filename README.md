@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 07:42 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 07:52 UTC.</div>
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
+
+
+## gnolang/gno <span style='color:#F1C40F'>(731 ⭐️)</span>
+
+- [CI: auto-assign author if PR created without assignee](https://github.com/gnolang/gno/issues/796)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -40,11 +50,6 @@
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(729 ⭐️)</span>
 
 - [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
-
-
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.5K ⭐️)</span>
-
-- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
@@ -316,4 +321,51 @@
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
 
 - [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [Change custom-default-backend manifest to use new image](https://github.com/kubernetes/ingress-nginx/issues/9934)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(819 ⭐️)</span>
+
+- [SPDX parser top level heuristic change to check "DESCRIBES" relationship](https://github.com/guacsec/guac/issues/708)
+
+- [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
+
+
+## onflow/cadence <span style='color:#F1C40F'>(466 ⭐️)</span>
+
+- [Add `fromBigEndianBytes` conversion function to `Number` types](https://github.com/onflow/cadence/issues/2448)
+
+- [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
+
+
+## ConsenSys/gnark <span style='color:#F1C40F'>(917 ⭐️)</span>
+
+- [fix: test engine does not differentiate between constants and variables](https://github.com/ConsenSys/gnark/issues/650)
+
+- [Detect under-constrained circuits / wires](https://github.com/ConsenSys/gnark/issues/649)
+
+- [Pre compute an optimal parallel solving strategy](https://github.com/ConsenSys/gnark/issues/646)
+
+- [feat: hash to curve](https://github.com/ConsenSys/gnark/issues/648)
+
+- [feat: G2 arithmetic in-circuit](https://github.com/ConsenSys/gnark/issues/647)
+
+
+## cometbft/cometbft <span style='color:#F1C40F'>(262 ⭐️)</span>
+
+- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
+
+
+## cloudfoundry/korifi <span style='color:#F1C40F'>(196 ⭐️)</span>
+
+- [[Feature]: Korifi api users should be able to use long API/workloads URLs](https://github.com/cloudfoundry/korifi/issues/2425)
+
+
+## Jguer/yay <span style='color:#F1C40F'>(9.1K ⭐️)</span>
+
+- [Mutual blocking of processes](https://github.com/Jguer/yay/issues/2123)
 
