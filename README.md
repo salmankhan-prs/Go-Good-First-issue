@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 23:32 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 23:42 UTC.</div>
+
+
+## replicatedhq/troubleshoot <span style='color:#F1C40F'>(430 ⭐️)</span>
+
+- [strings.TrimLeft is used instead of TrimPrefix](https://github.com/replicatedhq/troubleshoot/issues/1129)
+
+- [Collect DaemonSets cluster resource](https://github.com/replicatedhq/troubleshoot/issues/1120)
 
 
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
@@ -91,17 +98,6 @@
 - [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
 
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
@@ -121,6 +117,21 @@
 - [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
 
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+
+## kserve/modelmesh-serving <span style='color:#F1C40F'>(134 ⭐️)</span>
+
+- [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
 ## kserve/modelmesh-serving <span style='color:#F1C40F'>(134 ⭐️)</span>
