@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 02:38 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 02:48 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
@@ -43,7 +43,7 @@
 - [bug: OpenSearchErrorHandler - 400](https://github.com/fluent/fluent-operator/issues/702)
 
 
-## kubevela/velaux <span style='color:#F1C40F'>(107 ⭐️)</span>
+## kubevela/velaux <span style='color:#F1C40F'>(108 ⭐️)</span>
 
 - [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
 
@@ -367,16 +367,4 @@
 ## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
 
 - [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
-
-
-## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [feat(plugin): scaffold github workflow to test plugin](https://github.com/ignite/cli/issues/3495)
-
-
-## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
-
-- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
 
