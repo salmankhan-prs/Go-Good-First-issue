@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 04:42 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 04:52 UTC.</div>
 
 
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(34 ⭐️)</span>
@@ -22,6 +22,11 @@
 ## tikv/pd <span style='color:#F1C40F'>(961 ⭐️)</span>
 
 - [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.7K ⭐️)</span>
@@ -344,17 +349,4 @@
 - [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
 
 - [Eventing TLS: Support `K_CA_CERTS` env variable injection for SinkBinding subjects](https://github.com/knative/eventing/issues/6915)
-
-
-## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Cleanup cosign help text with a custom printer](https://github.com/sigstore/cosign/issues/2887)
-
-- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
-
-- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
-
-- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
-
-- [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
 
