@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 20:02 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 20:12 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
+## vmware-tanzu/pinniped <span style='color:#F1C40F'>(413 ⭐️)</span>
+
+- [Add requirement for kube-apiserver not including `--anonymous-auth=false` flag to Concierge docs (when impersonation proxy is not being used)](https://github.com/vmware-tanzu/pinniped/issues/1512)
+
+- [Add docs for how to use the Pinniped Supervisor and CLI without using the Concierge (using the Kube API server flags instead of Concierge)](https://github.com/vmware-tanzu/pinniped/issues/1506)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.3K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
@@ -35,6 +56,18 @@
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
+## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
 ## acorn-io/acorn <span style='color:#F1C40F'>(989 ⭐️)</span>
 
 - [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
@@ -45,25 +78,11 @@
 - [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.3K ⭐️)</span>
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-
 ## berops/claudie <span style='color:#F1C40F'>(232 ⭐️)</span>
 
 - [Getting started docs: Make it clear to use the releases rather than the master branch](https://github.com/berops/claudie/issues/716)
 
 - [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## Jguer/yay <span style='color:#F1C40F'>(9.1K ⭐️)</span>
@@ -134,16 +153,16 @@
 - [Remove the `--passphrase` flag from `evm list` command](https://github.com/celestiaorg/orchestrator-relayer/issues/286)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
 ## scriptnull/waymond <span style='color:#F1C40F'>(10 ⭐️)</span>
 
 - [site: add syntax highlighting support for toml snippets](https://github.com/scriptnull/waymond/issues/18)
 
 - [config: validate if config is a DAG](https://github.com/scriptnull/waymond/issues/15)
+
+
+## gnolang/gno <span style='color:#F1C40F'>(734 ⭐️)</span>
+
+- [CI: auto-assign author if PR created without assignee](https://github.com/gnolang/gno/issues/796)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
@@ -217,7 +236,7 @@
 - [Deprecate `github.com/pkg/errors` in favor of stdlib](https://github.com/helm/helm/issues/11994)
 
 
-## l7mp/stunner <span style='color:#F1C40F'>(492 ⭐️)</span>
+## l7mp/stunner <span style='color:#F1C40F'>(493 ⭐️)</span>
 
 - [Rewrite `stunnerctl` in Go](https://github.com/l7mp/stunner/issues/81)
 
@@ -237,11 +256,6 @@
 - [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
 
 
-## gnolang/gno <span style='color:#F1C40F'>(733 ⭐️)</span>
-
-- [CI: auto-assign author if PR created without assignee](https://github.com/gnolang/gno/issues/796)
-
-
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
@@ -249,6 +263,13 @@
 - [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
 
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+
+## NethermindEth/juno <span style='color:#F1C40F'>(170 ⭐️)</span>
+
+- [Make block hash calculation compatible with 0.11.1](https://github.com/NethermindEth/juno/issues/757)
+
+- [Use `json.Decoder` in `feeder` to avoid reading the entire response body in to memory](https://github.com/NethermindEth/juno/issues/747)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.5K ⭐️)</span>
