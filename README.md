@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 17:12 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 17:22 UTC.</div>
+
+
+## cilium/cilium-cli <span style='color:#F1C40F'>(231 ⭐️)</span>
+
+- [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
 
 
 ## l7mp/stunner <span style='color:#F1C40F'>(492 ⭐️)</span>
@@ -22,6 +27,11 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
+## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
+
+
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
@@ -30,6 +40,11 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -109,11 +124,6 @@
 ## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
 
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
-## cilium/cilium-cli <span style='color:#F1C40F'>(231 ⭐️)</span>
-
-- [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
 
 
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
@@ -331,11 +341,6 @@
 - [Typha autoscaler should exclude Fargate Nodes in node count](https://github.com/tigera/operator/issues/2592)
 
 
-## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
-
-
 ## LinuxSuRen/api-testing <span style='color:#F1C40F'>(14 ⭐️)</span>
 
 - [Provide a gRPC endpoint to getting the version](https://github.com/LinuxSuRen/api-testing/issues/54)
@@ -403,9 +408,4 @@
 - [SPDX parser top level heuristic change to check "DESCRIBES" relationship](https://github.com/guacsec/guac/issues/708)
 
 - [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
-
-
-## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
 
