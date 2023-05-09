@@ -4,341 +4,385 @@
 
 
 
-<div align='center'>Last updated at April 13, 2023 04:38 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 00:58 UTC.</div>
 
 
-## superfly/flyctl <span style='color:#F1C40F'>(970 ⭐️)</span>
+## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
 
-- [Make `fly pg failover` work for Postgres Flex](https://github.com/superfly/flyctl/issues/1965)
+- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
 
-- [Version update fails on non-standard SHELL](https://github.com/superfly/flyctl/issues/1901)
+- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
 
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(97.4K ⭐️)</span>
-
-- [Remove SeccompProfilePath](https://github.com/kubernetes/kubernetes/issues/117045)
-
-
-## dapr/components-contrib <span style='color:#F1C40F'>(442 ⭐️)</span>
-
-- [Azure Servicebus - Allow to configure message headers](https://github.com/dapr/components-contrib/issues/2745)
-
-- [Issues with SQL Server state store and MSI auth](https://github.com/dapr/components-contrib/issues/2726)
-
-- [[azure openai] support chatgpt as binding](https://github.com/dapr/components-contrib/issues/2716)
-
-- [HTTP Output binding error message for status != 200](https://github.com/dapr/components-contrib/issues/2706)
-
-- [[AWS DynamoDB] Support for transaction](https://github.com/dapr/components-contrib/issues/2712)
-
-
-## replicatedhq/troubleshoot <span style='color:#F1C40F'>(424 ⭐️)</span>
-
-- [http collector timeouts](https://github.com/replicatedhq/troubleshoot/issues/1064)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(720 ⭐️)</span>
-
-- [Duplicate `denom-authority-metadata` query command](https://github.com/osmosis-labs/osmosis/issues/4784)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(16.6K ⭐️)</span>
-
-- [[Feature]: Support cosine similarity](https://github.com/milvus-io/milvus/issues/23206)
-
-- [[Feature]: Support HNSW SQ/PQ](https://github.com/milvus-io/milvus/issues/23232)
-
-- [[Feature]: Support Double, Float16 and BF16 vectors](https://github.com/milvus-io/milvus/issues/22837)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(26.9K ⭐️)</span>
-
-- [kv: acquire latches during READ_UNCOMMITTED scans](https://github.com/cockroachdb/cockroach/issues/98862)
-
-
-## SiaFoundation/hostd <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Expose log over API](https://github.com/SiaFoundation/hostd/issues/28)
-
-- [Add Sector blocklist](https://github.com/SiaFoundation/hostd/issues/26)
-
-
-## labring/sealos <span style='color:#F1C40F'>(10.2K ⭐️)</span>
-
-- [Feature: sealos apply -f Clusterfile support --single](https://github.com/labring/sealos/issues/2888)
-
-- [BUG: Add back master failed if svcsubnet modified](https://github.com/labring/sealos/issues/2854)
-
-
-## kubevela/velaux <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
-
-- [[Feature] Add badges into README along with code coverage configuration (codecov.yml) into the repo ](https://github.com/kubevela/velaux/issues/710)
-
-
-## aceld/zinx <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [加入Zinx Issue讨论社区](https://github.com/aceld/zinx/issues/191)
-
-- [冰哥，最新更新消息丢给责任链这个源码，看不懂，能不能开个教程啊！](https://github.com/aceld/zinx/issues/185)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [store-gateway: merged series from different blocks concurrently](https://github.com/grafana/mimir/issues/4596)
-
-- [store-gateway: record request metrics for LabelValues & LabelNames calls](https://github.com/grafana/mimir/issues/4595)
-
-- [Track number of optimised regexp label matchers](https://github.com/grafana/mimir/issues/4638)
-
-- [Add CI validation for Helm chart version](https://github.com/grafana/mimir/issues/4611)
-
-- [Helm: set shutdown delay on distributors and query-frontends](https://github.com/grafana/mimir/issues/4579)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
 
 - [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
 
-- [elk self edges need to have enough space for labels](https://github.com/terrastruct/d2/issues/1170)
 
-- [shadow is cut off when 0 padding](https://github.com/terrastruct/d2/issues/1154)
+## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
-- [fix corner of person shape path](https://github.com/terrastruct/d2/issues/1085)
+- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
-- [Feature Request: Sketch Support for border-radius](https://github.com/terrastruct/d2/issues/1098)
 
-- [theme color code off for dark_mauve?](https://github.com/terrastruct/d2/issues/1092)
+## dolthub/dolt <span style='color:#F1C40F'>(14.7K ⭐️)</span>
 
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
-## goharbor/harbor <span style='color:#F1C40F'>(19.8K ⭐️)</span>
+- [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
 
-- [Adding or deleting user events are not registered](https://github.com/goharbor/harbor/issues/18351)
 
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
-## kubevela/kubevela <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
-- [[Feature] Set up the component/trait definition unit tests framework based on CUE](https://github.com/kubevela/kubevela/issues/5766)
 
-- [vela show --web not populating ComponentType](https://github.com/kubevela/kubevela/issues/5769)
+## helm/helm <span style='color:#F1C40F'>(24.3K ⭐️)</span>
 
-- [The progress bar on the front end of the installation plugin is still spinning](https://github.com/kubevela/kubevela/issues/5753)
+- [Deprecate `github.com/pkg/errors` in favor of stdlib](https://github.com/helm/helm/issues/11994)
 
-- [[Feature] application_controller should be responsible for deleting application revision](https://github.com/kubevela/kubevela/issues/5710)
 
-- [[Feature] The link to pod details in KubeVela System dashboard should inherit the time range ](https://github.com/kubevela/kubevela/issues/5717)
+## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
 
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
-## pingcap/tidb <span style='color:#F1C40F'>(33.8K ⭐️)</span>
 
-- [Panic triggered at expression.(*builtinRpadUTF8Sig).evalString (expression/builtin_string.go:2278)](https://github.com/pingcap/tidb/issues/42770)
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
 
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
-## opencurve/curve-operator <span style='color:#F1C40F'>(8 ⭐️)</span>
 
-- [K8s/Deployment: Code clean](https://github.com/opencurve/curve-operator/issues/28)
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
-- [K8s/Deployment: Formatting progress show](https://github.com/opencurve/curve-operator/issues/30)
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
-- [K8s/Deployment: Update cluster](https://github.com/opencurve/curve-operator/issues/29)
 
-- [K8s/Deployment: Disk discovery](https://github.com/opencurve/curve-operator/issues/27)
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
-- [K8s/Deployment: Monitor deployment](https://github.com/opencurve/curve-operator/issues/26)
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
-- [K8s/Deployment: Stand-alone deployment](https://github.com/opencurve/curve-operator/issues/25)
 
-- [K8s/Deployment: Feature optimization](https://github.com/opencurve/curve-operator/issues/24)
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(729 ⭐️)</span>
 
+- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
 
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
-- [Fetch withdrawals from a parent state](https://github.com/prysmaticlabs/prysm/issues/12261)
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
 
+- [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
 
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
-- [应用商店：收集大家的需求](https://github.com/1Panel-dev/1Panel/issues/250)
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
 
-- [[FEATURE]文件搜索需要添加 包含子目录](https://github.com/1Panel-dev/1Panel/issues/329)
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
-- [离线安装包](https://github.com/1Panel-dev/1Panel/issues/261)
 
-- [[FEATURE]希望反向代理网站可以增加修改反向代理地址的功能不需要再在nginx配置文件中修改了](https://github.com/1Panel-dev/1Panel/issues/324)
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
 
-- [文件编辑器希望支持python语言[FEATURE]](https://github.com/1Panel-dev/1Panel/issues/302)
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
 
-- [希望终端能够提供颜色渲染，更改字体大小功能](https://github.com/1Panel-dev/1Panel/issues/284)
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
 
-- [[FEATURE] QEMU 管理支持](https://github.com/1Panel-dev/1Panel/issues/311)
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
-- [希望备份账号功能下第三方账号功能可以多支持一些云存储厂商](https://github.com/1Panel-dev/1Panel/issues/227)
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
-- [[FEATURE] 建议加入防火墙功能](https://github.com/1Panel-dev/1Panel/issues/221)
 
-- [希望官方考虑增加多主机管理](https://github.com/1Panel-dev/1Panel/issues/308)
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
 
+- [Change custom-default-backend manifest to use new image](https://github.com/kubernetes/ingress-nginx/issues/9934)
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(5.6K ⭐️)</span>
 
-- [Improve embedded package documentation](https://github.com/FerretDB/FerretDB/issues/2326)
+## guacsec/guac <span style='color:#F1C40F'>(819 ⭐️)</span>
 
+- [SPDX parser top level heuristic change to check "DESCRIBES" relationship](https://github.com/guacsec/guac/issues/708)
 
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+- [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
 
-- [azurerm_container_app - Support for using system assigned managed identity in registry block](https://github.com/hashicorp/terraform-provider-azurerm/issues/21242)
 
-- [Removing identity block from azurerm_mysql_flexible_server does not remove the respective managed identity](https://github.com/hashicorp/terraform-provider-azurerm/issues/21164)
+## openfga/openfga <span style='color:#F1C40F'>(971 ⭐️)</span>
 
-- [SPELLING MISTAKE || azurerm_automation_software_update_configuration || V3.33.0](https://github.com/hashicorp/terraform-provider-azurerm/issues/20931)
+- [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
 
 
-## envoyproxy/gateway <span style='color:#F1C40F'>(945 ⭐️)</span>
+## onflow/cadence <span style='color:#F1C40F'>(466 ⭐️)</span>
 
-- [Add Gateway API webhook validation functions to egctl translate](https://github.com/envoyproxy/gateway/issues/1295)
+- [Add `fromBigEndianBytes` conversion function to `Number` types](https://github.com/onflow/cadence/issues/2448)
 
+- [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
 
-## go-gitea/gitea <span style='color:#F1C40F'>(35.9K ⭐️)</span>
 
-- [Upgrade script should inform users that gitea service has to be running in order to upgrade it](https://github.com/go-gitea/gitea/issues/23949)
+## cloudfoundry/korifi <span style='color:#F1C40F'>(196 ⭐️)</span>
 
+- [[Feature]: Korifi api users should be able to use long API/workloads URLs](https://github.com/cloudfoundry/korifi/issues/2425)
 
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(23 ⭐️)</span>
 
-- [feature: Automate the deployment of KCP-Edge using Ansible (cloud-env)](https://github.com/kcp-dev/edge-mc/issues/260)
+## Jguer/yay <span style='color:#F1C40F'>(9.1K ⭐️)</span>
 
+- [Mutual blocking of processes](https://github.com/Jguer/yay/issues/2123)
 
-## dapr/dapr <span style='color:#F1C40F'>(20.9K ⭐️)</span>
 
-- [Method invocation not forwarding multiple "Set-Cookie" headers from response](https://github.com/dapr/dapr/issues/6104)
+## cilium/cilium-cli <span style='color:#F1C40F'>(231 ⭐️)</span>
 
+- [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
 
-## polarismesh/polaris <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
-- [优化项目内的测试用例，使得测试用例之间可以并行执行，减少CI执行时间](https://github.com/polarismesh/polaris/issues/1073)
+## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
-- [windows添加一键启动](https://github.com/polarismesh/polaris/issues/1072)
+- [IP Deallocation delay when multiple enis attached to host](https://github.com/aws/amazon-vpc-cni-k8s/issues/2363)
 
 
-## tailscale/tailscale <span style='color:#F1C40F'>(11.5K ⭐️)</span>
+## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
 
-- [Update `tailscale up --help` to recommend --authkey instead of --auth-key](https://github.com/tailscale/tailscale/issues/7750)
+- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
 
-- [Make depaware output patch compatible](https://github.com/tailscale/tailscale/issues/7677)
+- [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
 
-- [large numbers in `tailscale status -json` output can't be parsed in some languages](https://github.com/tailscale/tailscale/issues/7576)
 
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
-## storj/gateway-mt <span style='color:#F1C40F'>(34 ⭐️)</span>
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
 
-- [Gateway-MT and Link Sharing Service should determine if they can access satellites before they start](https://github.com/storj/gateway-mt/issues/329)
 
-- [Make it possible to enable new, refactored upload code path](https://github.com/storj/gateway-mt/issues/330)
+## acorn-io/acorn <span style='color:#F1C40F'>(989 ⭐️)</span>
 
-- [Force HTTPS for Custom Domains (Pro accounts)](https://github.com/storj/gateway-mt/issues/328)
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
 
 
-## apache/apisix-ingress-controller <span style='color:#F1C40F'>(781 ⭐️)</span>
+## l7mp/stunner <span style='color:#F1C40F'>(492 ⭐️)</span>
 
-- [chore: update Go tool chain to v1.20](https://github.com/apache/apisix-ingress-controller/issues/1786)
+- [Rewrite `stunnerctl` in Go](https://github.com/l7mp/stunner/issues/81)
 
-- [bug: apisix restarts, ingress controller unavailable](https://github.com/apache/apisix-ingress-controller/issues/1760)
 
+## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
-## kubesphere/kubekey <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
-- [Support for installing calicoctl for nodes](https://github.com/kubesphere/kubekey/issues/1788)
 
-- [Initialize operating system process optimization](https://github.com/kubesphere/kubekey/issues/1787)
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
-- [Support the installation and configuration of cri-docker](https://github.com/kubesphere/kubekey/issues/1786)
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
-- [Support adding annotations for nodes](https://github.com/kubesphere/kubekey/issues/1785)
 
+## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
 
-- [Debt: Clean up cloud_default and related siblings](https://github.com/sourcegraph/sourcegraph/issues/49671)
 
+## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
 
-## meshery/meshery <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
 
-- [[UI] Use white Helm logo in Applications for source type in dark mode](https://github.com/meshery/meshery/issues/7506)
 
-- [Active hover tab on meshery docs](https://github.com/meshery/meshery/issues/7419)
+## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
 
-- [[Docs] Add Details/Summary for General Contribution Flow](https://github.com/meshery/meshery/issues/7455)
+- [No metric for "update of endpoint failed" query errors](https://github.com/thanos-io/thanos/issues/6280)
 
-- [Potential panic (skipped nil checks) in meshery server handlers](https://github.com/meshery/meshery/issues/7380)
+- [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
 
-
-## dragonflyoss/Dragonfly2 <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Pytorch Serve supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2178)
-
-- [Fluid integration Dragonfly Runtime](https://github.com/dragonflyoss/Dragonfly2/issues/2176)
-
-- [Tensorflow Serving supports to download model with Dragonfly](https://github.com/dragonflyoss/Dragonfly2/issues/2177)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(579 ⭐️)</span>
-
-- [message.HeaderInfof will cause a panic if too long of a string is provided](https://github.com/defenseunicorns/zarf/issues/1525)
-
-- [Limit Description/License fields len](https://github.com/defenseunicorns/zarf/issues/1455)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.4K ⭐️)</span>
-
-- [[Docs]: Data Source: aws_vpc_endpoint_service](https://github.com/hashicorp/terraform-provider-aws/issues/30649)
-
-- [[Docs]: Mention that orgunit needs to be the id](https://github.com/hashicorp/terraform-provider-aws/issues/30464)
-
-- [[Bug]: Unable to specify only prefix_list_ids under network_access_control in aws_grafana_workspace](https://github.com/hashicorp/terraform-provider-aws/issues/30062)
-
-
-## kopia/kopia <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [.cache/kopia isn't fully tagged with CACHEDIR.TAG](https://github.com/kopia/kopia/issues/2822)
-
-- [Side effect of implicit `create` in `snapshot` subcommand](https://github.com/kopia/kopia/issues/2823)
-
-
-## ethereum-optimism/optimism <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [op-service/txmgr: Transaction Manager Metrics](https://github.com/ethereum-optimism/optimism/issues/5291)
-
-- [Use readers when encoding & decoding binary data](https://github.com/ethereum-optimism/optimism/issues/5358)
-
-- [contracts-bedrock: eip 1967 constants in Constants.sol](https://github.com/ethereum-optimism/optimism/issues/5300)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [Add Windows ARM64 build support in CI](https://github.com/alcionai/corso/issues/2996)
-
-- [Simplify `getDriveItemContent` by fetching content directly](https://github.com/alcionai/corso/issues/2895)
-
-
-## filecoin-project/mir <span style='color:#F1C40F'>(27 ⭐️)</span>
-
-- [Serialization of `StableCheckpoint` and `Certificate` inefficient](https://github.com/filecoin-project/mir/issues/400)
-
-
-## GoogleContainerTools/kpt <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [`kpt live` does not support YAML merging arrays ](https://github.com/GoogleContainerTools/kpt/issues/3897)
-
-
-## thanos-io/thanos <span style='color:#F1C40F'>(11.6K ⭐️)</span>
+- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
 
 - [Use Partial Response should be enabled by default](https://github.com/thanos-io/thanos/issues/6270)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(12.7K ⭐️)</span>
+## project-zot/zot <span style='color:#F1C40F'>(361 ⭐️)</span>
 
-- [Indirect use of `strconv.Atoi` triggers "Incorrect conversion between integer types"](https://github.com/argoproj/argo-cd/issues/13136)
+- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
-- [Allow argocd-notifications-controller log level and log format be defined with environment variables](https://github.com/argoproj/argo-cd/issues/13039)
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(412 ⭐️)</span>
+
+- [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
+
+- [bug: es.logstashPrefixKey doesn't work](https://github.com/fluent/fluent-operator/issues/696)
+
+- [bug: OpenSearchErrorHandler - 400](https://github.com/fluent/fluent-operator/issues/702)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
+
+- [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+
+## cosmos/interchain-security <span style='color:#F1C40F'>(106 ⭐️)</span>
+
+- [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
+
+- [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [question: Support for gke-gcloud-auth-plugin in k8sgpt docker image](https://github.com/k8sgpt-ai/k8sgpt/issues/275)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+
+## celestiaorg/orchestrator-relayer <span style='color:#F1C40F'>(8 ⭐️)</span>
+
+- [Remove the `--passphrase` flag from `evm list` command](https://github.com/celestiaorg/orchestrator-relayer/issues/286)
+
+
+## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
+
+
+## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
+
+
+## pouriyajamshidi/tcping <span style='color:#F1C40F'>(126 ⭐️)</span>
+
+- [add `-c` flag to stop after n probes](https://github.com/pouriyajamshidi/tcping/issues/72)
+
+
+## onflow/flow-go <span style='color:#F1C40F'>(490 ⭐️)</span>
+
+- [Differentiate between consensus `Headers` and cluster `Headers`](https://github.com/onflow/flow-go/issues/4204)
+
+
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Version to install options should be sorted semantically](https://github.com/komodorio/helm-dashboard/issues/326)
+
+
+## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [Ignore empty with no validation causes invalid python to be generated via the jinja template](https://github.com/bufbuild/protoc-gen-validate/issues/843)
+
+
+## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
+
+
+## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Eventing TLS: Test ApiServerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6913)
+
+- [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
+
+- [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
+
+- [Eventing TLS: Test PingSource with Broker as sink](https://github.com/knative/eventing/issues/6932)
+
+- [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
+
+- [Eventing TLS: Support `K_CA_CERTS` env variable injection for SinkBinding subjects](https://github.com/knative/eventing/issues/6915)
+
+
+## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Cleanup cosign help text with a custom printer](https://github.com/sigstore/cosign/issues/2887)
+
+- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
+
+- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
+
+- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
+
+- [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
+
+
+## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
+
+- [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(34 ⭐️)</span>
+
+- [Show account plan and limits in `turso account show`](https://github.com/chiselstrike/turso-cli/issues/334)
+
+- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
+
+- [The different access tokens are confusing](https://github.com/chiselstrike/turso-cli/issues/325)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[GC] Output failed-to-delete objects rather than deleted](https://github.com/treeverse/lakeFS/issues/5716)
+
+- [[lakeFSFS] Add retries and configurable timeouts to lakeFS API calls](https://github.com/treeverse/lakeFS/issues/5664)
+
+- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+- [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
+
+
+## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
+
+- [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
+
+
+## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
+
+- [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
+
+
+## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [feat(plugin): scaffold github workflow to test plugin](https://github.com/ignite/cli/issues/3495)
+
+
+## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
+
+- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(513 ⭐️)</span>
+
+- [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
+
+
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
+
+- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
+
+- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
+
+
+## NethermindEth/juno <span style='color:#F1C40F'>(169 ⭐️)</span>
+
+- [Use `json.Decoder` in `feeder` to avoid reading the entire response body in to memory](https://github.com/NethermindEth/juno/issues/747)
+
+
+## PuremlHQ/PureML <span style='color:#F1C40F'>(169 ⭐️)</span>
+
+- [Adding function documentation for DAOs](https://github.com/PuremlHQ/PureML/issues/227)
+
+- [API Tests: Dataset/Model Review API tests](https://github.com/PuremlHQ/PureML/issues/226)
+
+- [API Tests: Dataset/Model Readme API tests](https://github.com/PuremlHQ/PureML/issues/225)
+
+- [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
+
+- [Incorrect message displayed in CLI after new user signs up](https://github.com/PuremlHQ/PureML/issues/216)
 
