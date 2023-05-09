@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 19:52 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 20:02 UTC.</div>
+
+
+## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
+
+- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -49,11 +54,6 @@
 - [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
-## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
-
-- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
-
-
 ## berops/claudie <span style='color:#F1C40F'>(232 ⭐️)</span>
 
 - [Getting started docs: Make it clear to use the releases rather than the master branch](https://github.com/berops/claudie/issues/716)
@@ -64,6 +64,11 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## Jguer/yay <span style='color:#F1C40F'>(9.1K ⭐️)</span>
+
+- [Mutual blocking of processes](https://github.com/Jguer/yay/issues/2123)
 
 
 ## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -207,6 +212,11 @@
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
+## helm/helm <span style='color:#F1C40F'>(24.3K ⭐️)</span>
+
+- [Deprecate `github.com/pkg/errors` in favor of stdlib](https://github.com/helm/helm/issues/11994)
+
+
 ## l7mp/stunner <span style='color:#F1C40F'>(492 ⭐️)</span>
 
 - [Rewrite `stunnerctl` in Go](https://github.com/l7mp/stunner/issues/81)
@@ -220,13 +230,6 @@
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
 ## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -363,9 +366,4 @@
 ## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
 
 - [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(513 ⭐️)</span>
-
-- [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
 
