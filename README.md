@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 02:48 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 02:58 UTC.</div>
+
+
+## opencurve/curve-operator <span style='color:#F1C40F'>(13 ⭐️)</span>
+
+- [K8s/Deployment: Monitor deployment](https://github.com/opencurve/curve-operator/issues/26)
+
+- [K8s/Deployment: Stand-alone deployment](https://github.com/opencurve/curve-operator/issues/25)
+
+- [K8s/Deployment: Disk discovery](https://github.com/opencurve/curve-operator/issues/27)
+
+- [K8s/Deployment: Formatting progress show](https://github.com/opencurve/curve-operator/issues/30)
+
+- [K8s/Deployment: Code clean](https://github.com/opencurve/curve-operator/issues/28)
+
+- [K8s/Deployment: Feature optimization](https://github.com/opencurve/curve-operator/issues/24)
+
+- [K8s/Deployment: Update cluster](https://github.com/opencurve/curve-operator/issues/29)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
