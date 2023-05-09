@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 19:42 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 19:52 UTC.</div>
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
+
+- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
+
+- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
+
+- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
@@ -20,6 +38,15 @@
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
 
 - [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.3K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
@@ -67,6 +94,11 @@
 ## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
 
 - [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
+
+
+## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [Ignore empty with no validation causes invalid python to be generated via the jinja template](https://github.com/bufbuild/protoc-gen-validate/issues/843)
 
 
 ## onflow/flow-go <span style='color:#F1C40F'>(490 ⭐️)</span>
@@ -125,15 +157,6 @@
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
 
 - [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.3K ⭐️)</span>
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -345,11 +368,4 @@
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(513 ⭐️)</span>
 
 - [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
-
-
-## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
-
-- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
 
