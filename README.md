@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 16:52 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 17:02 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -132,6 +132,25 @@
 - [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
 
 
+## buildpacks/lifecycle <span style='color:#F1C40F'>(163 ⭐️)</span>
+
+- [Upgrade api version in acceptance tests to non-deprecated version](https://github.com/buildpacks/lifecycle/issues/1079)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(333 ⭐️)</span>
+
+- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
+
+- [Support percentage values in CPU/memory limit flags](https://github.com/bacalhau-project/bacalhau/issues/2367)
+
+
+## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
+
+- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
+
+- [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
+
+
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(34 ⭐️)</span>
 
 - [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
@@ -182,6 +201,11 @@
 - [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
 
 
+## project-zot/zot <span style='color:#F1C40F'>(363 ⭐️)</span>
+
+- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
+
+
 ## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
 
 - [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
@@ -192,12 +216,9 @@
 - [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
 
 
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(513 ⭐️)</span>
-
-- [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
-
-
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
