@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 10:22 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 10:32 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(2.3K ⭐️)</span>
@@ -74,11 +84,6 @@
 - [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
 
 - [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
@@ -139,19 +144,9 @@
 - [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [Split `fetching` package constants to distinct types](https://github.com/elastic/cloudbeat/issues/867)
-
-
-## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
-
-- [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
 
 
 ## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
@@ -333,15 +328,4 @@
 ## storj/gateway-mt <span style='color:#F1C40F'>(34 ⭐️)</span>
 
 - [Force HTTPS for Custom Domains (Pro accounts)](https://github.com/storj/gateway-mt/issues/328)
-
-
-## kube-vip/kube-vip <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [BGP metrics support](https://github.com/kube-vip/kube-vip/issues/547)
-
-- [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
-
-- [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
-
-- [Remove pkg/service](https://github.com/kube-vip/kube-vip/issues/548)
 
