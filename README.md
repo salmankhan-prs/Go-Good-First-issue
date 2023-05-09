@@ -4,7 +4,49 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 20:12 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 20:22 UTC.</div>
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [question: Support for gke-gcloud-auth-plugin in k8sgpt docker image](https://github.com/k8sgpt-ai/k8sgpt/issues/275)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
@@ -14,9 +56,9 @@
 
 ## vmware-tanzu/pinniped <span style='color:#F1C40F'>(413 ⭐️)</span>
 
-- [Add requirement for kube-apiserver not including `--anonymous-auth=false` flag to Concierge docs (when impersonation proxy is not being used)](https://github.com/vmware-tanzu/pinniped/issues/1512)
-
 - [Add docs for how to use the Pinniped Supervisor and CLI without using the Concierge (using the Kube API server flags instead of Concierge)](https://github.com/vmware-tanzu/pinniped/issues/1506)
+
+- [Add requirement for kube-apiserver not including `--anonymous-auth=false` flag to Concierge docs (when impersonation proxy is not being used)](https://github.com/vmware-tanzu/pinniped/issues/1512)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(2.3K ⭐️)</span>
@@ -44,13 +86,6 @@
 - [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
 
 
-## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
-
-
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
@@ -61,11 +96,6 @@
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## acorn-io/acorn <span style='color:#F1C40F'>(989 ⭐️)</span>
@@ -108,11 +138,6 @@
 ## kserve/modelmesh-serving <span style='color:#F1C40F'>(134 ⭐️)</span>
 
 - [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 
 ## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
@@ -216,7 +241,7 @@
 - [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
 
 
-## opensearch-project/opensearch-go <span style='color:#F1C40F'>(119 ⭐️)</span>
+## opensearch-project/opensearch-go <span style='color:#F1C40F'>(120 ⭐️)</span>
 
 - [[PROPOSAL] Code quality analysis](https://github.com/opensearch-project/opensearch-go/issues/307)
 
@@ -224,11 +249,6 @@
 ## tigera/operator <span style='color:#F1C40F'>(127 ⭐️)</span>
 
 - [Typha autoscaler should exclude Fargate Nodes in node count](https://github.com/tigera/operator/issues/2592)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
 ## helm/helm <span style='color:#F1C40F'>(24.3K ⭐️)</span>
@@ -244,11 +264,6 @@
 ## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -288,21 +303,6 @@
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [question: Support for gke-gcloud-auth-plugin in k8sgpt docker image](https://github.com/k8sgpt-ai/k8sgpt/issues/275)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
-
-
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
 
 - [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
@@ -324,6 +324,11 @@
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
 - [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
+
+
+## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
+
+- [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
 
 
 ## buildpacks/lifecycle <span style='color:#F1C40F'>(163 ⭐️)</span>
@@ -370,21 +375,4 @@
 ## derailed/k9s <span style='color:#F1C40F'>(20.7K ⭐️)</span>
 
 - [Add visual hint that current list is filtered by 'faults'](https://github.com/derailed/k9s/issues/2052)
-
-
-## onflow/cadence <span style='color:#F1C40F'>(466 ⭐️)</span>
-
-- [Add `fromBigEndianBytes` conversion function to `Number` types](https://github.com/onflow/cadence/issues/2448)
-
-- [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(363 ⭐️)</span>
-
-- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
-
-
-## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
-
-- [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
 
