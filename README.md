@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 06:13 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 06:23 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## tikv/pd <span style='color:#F1C40F'>(961 ⭐️)</span>
@@ -12,9 +17,11 @@
 - [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
 
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+- [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -48,13 +55,6 @@
 - [Helm Chart: Missing quotes around cron expressions](https://github.com/aquasecurity/trivy-operator/issues/1190)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
-
-- [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-
 ## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
 
 - [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
@@ -69,6 +69,11 @@
 ## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## storj/gateway-mt <span style='color:#F1C40F'>(34 ⭐️)</span>
@@ -104,11 +109,6 @@
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 - [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
@@ -232,6 +232,11 @@
 ## helm/helm <span style='color:#F1C40F'>(24.3K ⭐️)</span>
 
 - [Deprecate `github.com/pkg/errors` in favor of stdlib](https://github.com/helm/helm/issues/11994)
+
+
+## derailed/k9s <span style='color:#F1C40F'>(20.7K ⭐️)</span>
+
+- [Add visual hint that current list is filtered by 'faults'](https://github.com/derailed/k9s/issues/2052)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
