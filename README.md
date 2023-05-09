@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 03:28 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 03:38 UTC.</div>
+
+
+## kubevela/velaux <span style='color:#F1C40F'>(109 ⭐️)</span>
+
+- [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
 
 
 ## opencurve/curve-operator <span style='color:#F1C40F'>(13 ⭐️)</span>
@@ -18,8 +23,6 @@
 - [K8s/Deployment: Formatting progress show](https://github.com/opencurve/curve-operator/issues/30)
 
 - [K8s/Deployment: Code clean](https://github.com/opencurve/curve-operator/issues/28)
-
-- [K8s/Deployment: Feature optimization](https://github.com/opencurve/curve-operator/issues/24)
 
 - [K8s/Deployment: Update cluster](https://github.com/opencurve/curve-operator/issues/29)
 
@@ -42,11 +45,6 @@
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## kubevela/velaux <span style='color:#F1C40F'>(108 ⭐️)</span>
-
-- [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
@@ -374,9 +372,4 @@
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
 
 - [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
-
-
-## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
-
-- [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
 
