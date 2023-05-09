@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 22:12 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 22:22 UTC.</div>
+
+
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
@@ -172,6 +177,13 @@
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
+## vmware-tanzu/pinniped <span style='color:#F1C40F'>(413 ⭐️)</span>
+
+- [Add docs for how to use the Pinniped Supervisor and CLI without using the Concierge (using the Kube API server flags instead of Concierge)](https://github.com/vmware-tanzu/pinniped/issues/1506)
+
+- [Add requirement for kube-apiserver not including `--anonymous-auth=false` flag to Concierge docs (when impersonation proxy is not being used)](https://github.com/vmware-tanzu/pinniped/issues/1512)
+
+
 ## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
 
 - [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
@@ -187,16 +199,6 @@
 - [Getting started docs: Make it clear to use the releases rather than the master branch](https://github.com/berops/claudie/issues/716)
 
 - [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
-
-
-## Jguer/yay <span style='color:#F1C40F'>(9.1K ⭐️)</span>
-
-- [Mutual blocking of processes](https://github.com/Jguer/yay/issues/2123)
-
-
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## Jguer/yay <span style='color:#F1C40F'>(9.1K ⭐️)</span>
@@ -358,11 +360,4 @@
 ## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
 
 - [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(334 ⭐️)</span>
-
-- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
-
-- [Support percentage values in CPU/memory limit flags](https://github.com/bacalhau-project/bacalhau/issues/2367)
 
