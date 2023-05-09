@@ -4,7 +4,48 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 15:02 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 15:12 UTC.</div>
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
+
+- [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
+
+- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [question: Support for gke-gcloud-auth-plugin in k8sgpt docker image](https://github.com/k8sgpt-ai/k8sgpt/issues/275)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
 
 
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -50,11 +91,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -104,11 +140,6 @@
 - [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Fetch withdrawals from a parent state](https://github.com/prysmaticlabs/prysm/issues/12261)
@@ -135,15 +166,6 @@
 - [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
-
-- [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.5K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
@@ -162,13 +184,6 @@
 ## buildpacks/lifecycle <span style='color:#F1C40F'>(163 ⭐️)</span>
 
 - [Upgrade api version in acceptance tests to non-deprecated version](https://github.com/buildpacks/lifecycle/issues/1079)
-
-
-## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
-
-- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
 
 
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
@@ -211,6 +226,19 @@
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Implement the `controllerClass` on `VaultDynamicSecret` resources](https://github.com/external-secrets/external-secrets/issues/2224)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
+
+- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
+
+- [certController: implement startupProbe](https://github.com/external-secrets/external-secrets/issues/2217)
+
+
 ## NethermindEth/juno <span style='color:#F1C40F'>(169 ⭐️)</span>
 
 - [Make block hash calculation compatible with 0.11.1](https://github.com/NethermindEth/juno/issues/757)
@@ -247,21 +275,6 @@
 - [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
 
 - [Incorrect message displayed in CLI after new user signs up](https://github.com/PuremlHQ/PureML/issues/216)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [question: Support for gke-gcloud-auth-plugin in k8sgpt docker image](https://github.com/k8sgpt-ai/k8sgpt/issues/275)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(819 ⭐️)</span>
@@ -341,13 +354,4 @@
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.3K ⭐️)</span>
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
