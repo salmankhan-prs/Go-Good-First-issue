@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 08:22 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 08:32 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
+
+- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
+
+- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
+
+
+## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
+
+- [Cache the latest ACME account private key hash on Issuer status](https://github.com/cert-manager/cert-manager/issues/5986)
 
 
 ## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
@@ -21,6 +38,11 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## komodorio/helm-dashboard <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Version to install options should be sorted semantically](https://github.com/komodorio/helm-dashboard/issues/326)
 
 
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
@@ -55,14 +77,21 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## infracost/infracost <span style='color:#F1C40F'>(9.0K ⭐️)</span>
 
 - [Infracost uses Premium disk for AKS even though it's not available for given VM family](https://github.com/infracost/infracost/issues/2407)
+
+
+## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
+
+- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
+
+- [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.5K ⭐️)</span>
@@ -73,11 +102,6 @@
 ## gnolang/gno <span style='color:#F1C40F'>(732 ⭐️)</span>
 
 - [CI: auto-assign author if PR created without assignee](https://github.com/gnolang/gno/issues/796)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(729 ⭐️)</span>
@@ -238,13 +262,6 @@
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
-## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
-
-- [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
-
-
 ## kubevela/velaux <span style='color:#F1C40F'>(109 ⭐️)</span>
 
 - [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
@@ -318,9 +335,4 @@
 - [Cleanup beacons.go](https://github.com/ava-labs/avalanchego/issues/1356)
 
 - [TestSystemThrottler test flake](https://github.com/ava-labs/avalanchego/issues/1414)
-
-
-## helm/helm <span style='color:#F1C40F'>(24.3K ⭐️)</span>
-
-- [Deprecate `github.com/pkg/errors` in favor of stdlib](https://github.com/helm/helm/issues/11994)
 
