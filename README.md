@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 06:42 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 06:52 UTC.</div>
+
+
+## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
+
+- [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
 
 
 ## berops/claudie <span style='color:#F1C40F'>(232 ⭐️)</span>
