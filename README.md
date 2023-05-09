@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 22:32 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 22:42 UTC.</div>
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -153,21 +158,6 @@
 - [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [question: Support for gke-gcloud-auth-plugin in k8sgpt docker image](https://github.com/k8sgpt-ai/k8sgpt/issues/275)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
-
-
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(2.3K ⭐️)</span>
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
@@ -256,13 +246,6 @@
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
 
 - [Change custom-default-backend manifest to use new image](https://github.com/kubernetes/ingress-nginx/issues/9934)
-
-
-## onflow/cadence <span style='color:#F1C40F'>(465 ⭐️)</span>
-
-- [Add `fromBigEndianBytes` conversion function to `Number` types](https://github.com/onflow/cadence/issues/2448)
-
-- [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
 
 
 ## onflow/cadence <span style='color:#F1C40F'>(465 ⭐️)</span>
@@ -372,9 +355,4 @@
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
-## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
-
-- [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
 
