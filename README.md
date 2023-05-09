@@ -4,22 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 09:52 UTC.</div>
-
-
-## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
-
-- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
-
-
-## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
-
-- [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+<div align='center'>Last updated at May 9, 2023 10:02 UTC.</div>
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -33,6 +18,40 @@
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
 
 - [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
+
+- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
+
+
+## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
+
+- [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.3K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -53,11 +72,6 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Figure out capabilities necessary for the CNI](https://github.com/kumahq/kuma/issues/6569)
@@ -70,9 +84,9 @@
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
+## derailed/k9s <span style='color:#F1C40F'>(20.7K ⭐️)</span>
 
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+- [Add visual hint that current list is filtered by 'faults'](https://github.com/derailed/k9s/issues/2052)
 
 
 ## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
@@ -175,6 +189,11 @@
 ## project-zot/zot <span style='color:#F1C40F'>(362 ⭐️)</span>
 
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
+
+
+## loft-sh/vcluster <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
 
 
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
@@ -309,68 +328,4 @@
 - [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
 
 - [The different access tokens are confusing](https://github.com/chiselstrike/turso-cli/issues/325)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
-
-
-## kubevela/velaux <span style='color:#F1C40F'>(109 ⭐️)</span>
-
-- [[Feature] support yaml fill form when creating component which align the update process](https://github.com/kubevela/velaux/issues/755)
-
-
-## opencurve/curve-operator <span style='color:#F1C40F'>(13 ⭐️)</span>
-
-- [K8s/Deployment: Monitor deployment](https://github.com/opencurve/curve-operator/issues/26)
-
-- [K8s/Deployment: Stand-alone deployment](https://github.com/opencurve/curve-operator/issues/25)
-
-- [K8s/Deployment: Disk discovery](https://github.com/opencurve/curve-operator/issues/27)
-
-- [K8s/Deployment: Formatting progress show](https://github.com/opencurve/curve-operator/issues/30)
-
-- [K8s/Deployment: Code clean](https://github.com/opencurve/curve-operator/issues/28)
-
-- [K8s/Deployment: Update cluster](https://github.com/opencurve/curve-operator/issues/29)
-
-
-## fluent/fluent-operator <span style='color:#F1C40F'>(412 ⭐️)</span>
-
-- [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
-
-- [bug: es.logstashPrefixKey doesn't work](https://github.com/fluent/fluent-operator/issues/696)
-
-- [bug: OpenSearchErrorHandler - 400](https://github.com/fluent/fluent-operator/issues/702)
-
-
-## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Cleanup cosign help text with a custom printer](https://github.com/sigstore/cosign/issues/2887)
-
-- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
-
-- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
-
-- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
-
-- [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
-
-
-## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(264 ⭐️)</span>
-
-- [only perform contract code check if non-hardcoded address is used](https://github.com/AthanorLabs/atomic-swap/issues/416)
-
-- [enable/disable rpc namespaces](https://github.com/AthanorLabs/atomic-swap/issues/384)
-
-
-## openfga/openfga <span style='color:#F1C40F'>(972 ⭐️)</span>
-
-- [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
 
