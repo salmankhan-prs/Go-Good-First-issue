@@ -4,17 +4,50 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 14:42 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 14:52 UTC.</div>
 
 
-## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
 
-- [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Eventing TLS: Test ApiServerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6913)
+
+- [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
+
+- [Eventing TLS: Test ContainerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6937)
+
+- [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
+
+- [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
+
+- [Eventing TLS: Test PingSource with Broker as sink](https://github.com/knative/eventing/issues/6932)
+
+- [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
+
+
+## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -35,6 +68,11 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
+
+- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -68,11 +106,6 @@
 - [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
 
 
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
-
-- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
-
-
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
 
 - [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
@@ -90,17 +123,6 @@
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -334,9 +356,4 @@
 - [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
 
 - [Use Partial Response should be enabled by default](https://github.com/thanos-io/thanos/issues/6270)
-
-
-## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
-
-- [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
 
