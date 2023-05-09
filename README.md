@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 06:33 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 06:42 UTC.</div>
+
+
+## berops/claudie <span style='color:#F1C40F'>(232 ⭐️)</span>
+
+- [Getting started docs: Make it clear to use the releases rather than the master branch](https://github.com/berops/claudie/issues/716)
+
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
@@ -17,12 +29,14 @@
 - [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
 
 
-## tikv/pd <span style='color:#F1C40F'>(961 ⭐️)</span>
+## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
 
 - [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 - [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
 
@@ -102,11 +116,6 @@
 - [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
 
 - [The different access tokens are confusing](https://github.com/chiselstrike/turso-cli/issues/325)
-
-
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.5K ⭐️)</span>
-
-- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.7K ⭐️)</span>
@@ -336,52 +345,4 @@
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
 - [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
-
-
-## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
-
-- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
-
-
-## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
-
-- [No metric for "update of endpoint failed" query errors](https://github.com/thanos-io/thanos/issues/6280)
-
-- [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
-
-- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
-
-- [Use Partial Response should be enabled by default](https://github.com/thanos-io/thanos/issues/6270)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(361 ⭐️)</span>
-
-- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
-
-
-## cosmos/interchain-security <span style='color:#F1C40F'>(106 ⭐️)</span>
-
-- [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
-
-- [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [question: Support for gke-gcloud-auth-plugin in k8sgpt docker image](https://github.com/k8sgpt-ai/k8sgpt/issues/275)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
-
-
-## celestiaorg/orchestrator-relayer <span style='color:#F1C40F'>(8 ⭐️)</span>
-
-- [Remove the `--passphrase` flag from `evm list` command](https://github.com/celestiaorg/orchestrator-relayer/issues/286)
 
