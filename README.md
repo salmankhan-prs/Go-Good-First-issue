@@ -4,12 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 13:52 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 14:02 UTC.</div>
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+## buildpacks/lifecycle <span style='color:#F1C40F'>(163 ⭐️)</span>
 
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+- [Upgrade api version in acceptance tests to non-deprecated version](https://github.com/buildpacks/lifecycle/issues/1079)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -21,6 +21,28 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
+
+- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
+
+- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
+
+
+## tigera/operator <span style='color:#F1C40F'>(127 ⭐️)</span>
+
+- [Typha autoscaler should exclude Fargate Nodes in node count](https://github.com/tigera/operator/issues/2592)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -156,14 +178,14 @@
 - [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
 
 
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
+
+- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
+
+
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(529 ⭐️)</span>
 
 - [Helm Chart: Missing quotes around cron expressions](https://github.com/aquasecurity/trivy-operator/issues/1190)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.2K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -322,21 +344,7 @@
 - [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
 
 
-## celestiaorg/orchestrator-relayer <span style='color:#F1C40F'>(8 ⭐️)</span>
+## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
-- [Remove the `--passphrase` flag from `evm list` command](https://github.com/celestiaorg/orchestrator-relayer/issues/286)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(173 ⭐️)</span>
-
-- [Use unique error codes for `x/qgb` module](https://github.com/celestiaorg/celestia-app/issues/1669)
-
-- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
-
-- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(362 ⭐️)</span>
-
-- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
+- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
 
