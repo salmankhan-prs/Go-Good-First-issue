@@ -4,12 +4,24 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 19:13 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 19:22 UTC.</div>
 
 
-## kserve/modelmesh-serving <span style='color:#F1C40F'>(134 ⭐️)</span>
+## berops/claudie <span style='color:#F1C40F'>(232 ⭐️)</span>
 
-- [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
+- [Getting started docs: Make it clear to use the releases rather than the master branch](https://github.com/berops/claudie/issues/716)
+
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
+
+
+## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [IP Deallocation delay when multiple enis attached to host](https://github.com/aws/amazon-vpc-cni-k8s/issues/2363)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -17,9 +29,9 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+## kserve/modelmesh-serving <span style='color:#F1C40F'>(134 ⭐️)</span>
 
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+- [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
@@ -102,6 +114,11 @@
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 - [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -336,76 +353,4 @@
 - [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
 
 - [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
-
-
-## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Eventing TLS: Test ApiServerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6913)
-
-- [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
-
-- [Eventing TLS: Test ContainerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6937)
-
-- [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
-
-- [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
-
-- [Eventing TLS: Test PingSource with Broker as sink](https://github.com/knative/eventing/issues/6932)
-
-- [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
-
-
-## loft-sh/vcluster <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
-
-
-## cloudfoundry/korifi <span style='color:#F1C40F'>(196 ⭐️)</span>
-
-- [[Feature]: Korifi api users should be able to use long API/workloads URLs](https://github.com/cloudfoundry/korifi/issues/2425)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
-
-- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
-
-
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Fetch withdrawals from a parent state](https://github.com/prysmaticlabs/prysm/issues/12261)
-
-
-## helm/helm <span style='color:#F1C40F'>(24.3K ⭐️)</span>
-
-- [Deprecate `github.com/pkg/errors` in favor of stdlib](https://github.com/helm/helm/issues/11994)
-
-
-## infracost/infracost <span style='color:#F1C40F'>(9.0K ⭐️)</span>
-
-- [Infracost uses Premium disk for AKS even though it's not available for given VM family](https://github.com/infracost/infracost/issues/2407)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
-## kube-vip/kube-vip <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [BGP metrics support](https://github.com/kube-vip/kube-vip/issues/547)
-
-- [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
-
-- [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
-
-- [Remove pkg/service](https://github.com/kube-vip/kube-vip/issues/548)
 
