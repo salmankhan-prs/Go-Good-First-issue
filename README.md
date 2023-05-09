@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 03:18 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 03:28 UTC.</div>
 
 
 ## opencurve/curve-operator <span style='color:#F1C40F'>(13 ⭐️)</span>
@@ -22,6 +22,11 @@
 - [K8s/Deployment: Feature optimization](https://github.com/opencurve/curve-operator/issues/24)
 
 - [K8s/Deployment: Update cluster](https://github.com/opencurve/curve-operator/issues/29)
+
+
+## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(729 ⭐️)</span>
@@ -284,11 +289,6 @@
 ## celestiaorg/orchestrator-relayer <span style='color:#F1C40F'>(8 ⭐️)</span>
 
 - [Remove the `--passphrase` flag from `evm list` command](https://github.com/celestiaorg/orchestrator-relayer/issues/286)
-
-
-## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
 
 
 ## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
