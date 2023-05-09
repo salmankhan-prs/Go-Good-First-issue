@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 07:02 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 07:12 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(6.4K ⭐️)</span>
+
+- [(kustomize/v2) - Remove the deprecation ](https://github.com/kubernetes-sigs/kubebuilder/issues/3372)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -107,11 +117,6 @@
 - [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
 ## storj/gateway-mt <span style='color:#F1C40F'>(34 ⭐️)</span>
 
 - [Force HTTPS for Custom Domains (Pro accounts)](https://github.com/storj/gateway-mt/issues/328)
@@ -177,11 +182,6 @@
 - [K8s/Deployment: Code clean](https://github.com/opencurve/curve-operator/issues/28)
 
 - [K8s/Deployment: Update cluster](https://github.com/opencurve/curve-operator/issues/29)
-
-
-## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(6.4K ⭐️)</span>
-
-- [(kustomize/v2) - Remove the deprecation ](https://github.com/kubernetes-sigs/kubebuilder/issues/3372)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(729 ⭐️)</span>
@@ -304,6 +304,19 @@
 - [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
 
 
+## ConsenSys/gnark <span style='color:#F1C40F'>(917 ⭐️)</span>
+
+- [fix: test engine does not differentiate between constants and variables](https://github.com/ConsenSys/gnark/issues/650)
+
+- [Detect under-constrained circuits / wires](https://github.com/ConsenSys/gnark/issues/649)
+
+- [Pre compute an optimal parallel solving strategy](https://github.com/ConsenSys/gnark/issues/646)
+
+- [feat: hash to curve](https://github.com/ConsenSys/gnark/issues/648)
+
+- [feat: G2 arithmetic in-circuit](https://github.com/ConsenSys/gnark/issues/647)
+
+
 ## cometbft/cometbft <span style='color:#F1C40F'>(262 ⭐️)</span>
 
 - [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
@@ -357,9 +370,4 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
 
