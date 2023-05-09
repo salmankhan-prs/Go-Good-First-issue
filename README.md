@@ -4,12 +4,30 @@
 
 
 
-<div align='center'>Last updated at May 9, 2023 07:12 UTC.</div>
+<div align='center'>Last updated at May 9, 2023 07:22 UTC.</div>
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.1K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[GC] Output failed-to-delete objects rather than deleted](https://github.com/treeverse/lakeFS/issues/5716)
+
+- [[lakeFSFS] Add retries and configurable timeouts to lakeFS API calls](https://github.com/treeverse/lakeFS/issues/5664)
+
+- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+- [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
 
 ## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(6.4K ⭐️)</span>
@@ -27,11 +45,6 @@
 - [e2e: check if the controller is restarted](https://github.com/apache/apisix-ingress-controller/issues/1792)
 
 - [chore: update Go tool chain to v1.20](https://github.com/apache/apisix-ingress-controller/issues/1786)
-
-
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.5K ⭐️)</span>
-
-- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
 
 ## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
@@ -365,9 +378,4 @@
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
