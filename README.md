@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 07:53 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 08:03 UTC.</div>
+
+
+## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
+## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
@@ -12,9 +22,9 @@
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
-## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
 
-- [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -27,24 +37,23 @@
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.3K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+
 ## celestiaorg/orchestrator-relayer <span style='color:#F1C40F'>(8 ⭐️)</span>
 
 - [Remove the `--passphrase` flag from `evm list` command](https://github.com/celestiaorg/orchestrator-relayer/issues/286)
 
 
-## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
 ## EnterpriseDB/terraform-provider-biganimal <span style='color:#F1C40F'>(9 ⭐️)</span>
 
 - [Create `biganimal_regions` data source](https://github.com/EnterpriseDB/terraform-provider-biganimal/issues/209)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## l7mp/stunner <span style='color:#F1C40F'>(493 ⭐️)</span>
@@ -57,6 +66,13 @@
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
@@ -65,6 +81,11 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
+## cloudwego/hertz <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Introduce constants for commonly used MIME types](https://github.com/cloudwego/hertz/issues/754)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
@@ -87,6 +108,11 @@
 - [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
 
 
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(513 ⭐️)</span>
+
+- [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
+
+
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(991 ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
@@ -95,6 +121,11 @@
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
+
+
+## grafana/k6-operator <span style='color:#F1C40F'>(361 ⭐️)</span>
+
+- [Image names should be more specific](https://github.com/grafana/k6-operator/issues/221)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
@@ -231,13 +262,6 @@
 - [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
 
 
-## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
 ## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
 
 - [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
@@ -271,11 +295,6 @@
 - [SPDX parser top level heuristic change to check "DESCRIBES" relationship](https://github.com/guacsec/guac/issues/708)
 
 - [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -377,16 +396,4 @@
 ## acorn-io/acorn <span style='color:#F1C40F'>(989 ⭐️)</span>
 
 - [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
-
-
-## berops/claudie <span style='color:#F1C40F'>(232 ⭐️)</span>
-
-- [Getting started docs: Make it clear to use the releases rather than the master branch](https://github.com/berops/claudie/issues/716)
-
-- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
-
-
-## Jguer/yay <span style='color:#F1C40F'>(9.1K ⭐️)</span>
-
-- [Mutual blocking of processes](https://github.com/Jguer/yay/issues/2123)
 
