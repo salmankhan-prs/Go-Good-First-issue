@@ -4,17 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 17:12 UTC.</div>
-
-
-## project-zot/zot <span style='color:#F1C40F'>(364 ⭐️)</span>
-
-- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
-
-- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
+<div align='center'>Last updated at May 10, 2023 17:22 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -22,9 +12,9 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+## project-zot/zot <span style='color:#F1C40F'>(364 ⭐️)</span>
 
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
@@ -32,6 +22,16 @@
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 - [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
+
+- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
@@ -237,6 +237,11 @@
 - [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
 
 
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
+
+
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
 
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
@@ -378,9 +383,4 @@
 ## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
 
 - [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
-
-
-## berachain/polaris <span style='color:#F1C40F'>(551 ⭐️)</span>
-
-- [bug(IBC): All SDK coins including via IBC must set denomMetadata](https://github.com/berachain/polaris/issues/682)
 
