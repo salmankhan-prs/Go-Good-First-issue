@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 11:33 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 11:43 UTC.</div>
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -16,14 +16,11 @@
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -39,9 +36,14 @@
 - [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
 
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
@@ -51,6 +53,11 @@
 - [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
 
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
@@ -100,13 +107,6 @@
 ## filecoin-project/mir <span style='color:#F1C40F'>(31 ⭐️)</span>
 
 - [Serialization of `StableCheckpoint` and `Certificate` inefficient](https://github.com/filecoin-project/mir/issues/400)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
