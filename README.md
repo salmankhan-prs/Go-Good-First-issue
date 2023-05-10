@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 12:12 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 12:22 UTC.</div>
 
 
 ## cloudfoundry/korifi <span style='color:#F1C40F'>(197 ⭐️)</span>
@@ -78,18 +78,6 @@
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
-
-
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [[lakeFSFS] Add retries and configurable timeouts to lakeFS API calls](https://github.com/treeverse/lakeFS/issues/5664)
@@ -101,6 +89,18 @@
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
 
 - [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
@@ -345,9 +345,4 @@
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 - [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
-
-
-## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(99 ⭐️)</span>
-
-- [Slow consumergroup reconciliation under load](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3046)
 
