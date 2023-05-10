@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 05:33 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 05:43 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
 
 
 ## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(99 ⭐️)</span>
@@ -68,13 +75,6 @@
 ## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
 
 
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -276,16 +276,6 @@
 - [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
 
 
-## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [IP Deallocation delay when multiple enis attached to host](https://github.com/aws/amazon-vpc-cni-k8s/issues/2363)
-
-
-## kserve/modelmesh-serving <span style='color:#F1C40F'>(134 ⭐️)</span>
-
-- [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
-
-
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
@@ -330,6 +320,16 @@
 ## Jguer/yay <span style='color:#F1C40F'>(9.1K ⭐️)</span>
 
 - [Mutual blocking of processes](https://github.com/Jguer/yay/issues/2123)
+
+
+## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
+
+
+## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [Ignore empty with no validation causes invalid python to be generated via the jinja template](https://github.com/bufbuild/protoc-gen-validate/issues/843)
 
 
 ## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
@@ -390,9 +390,4 @@
 - [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
 
 - [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
-
-
-## cilium/cilium-cli <span style='color:#F1C40F'>(232 ⭐️)</span>
-
-- [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
 
