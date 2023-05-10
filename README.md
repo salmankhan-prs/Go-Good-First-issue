@@ -4,22 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 19:02 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 19:12 UTC.</div>
 
 
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
 
-- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
-
-
-## celestiaorg/orchestrator-relayer <span style='color:#F1C40F'>(8 ⭐️)</span>
-
-- [Remove the `--passphrase` flag from `evm list` command](https://github.com/celestiaorg/orchestrator-relayer/issues/286)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## kubernetes-sigs/kubectl-validate <span style='color:#F1C40F'>(5 ⭐️)</span>
@@ -52,9 +42,19 @@
 - [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
 
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
+
+
+## celestiaorg/orchestrator-relayer <span style='color:#F1C40F'>(8 ⭐️)</span>
+
+- [Remove the `--passphrase` flag from `evm list` command](https://github.com/celestiaorg/orchestrator-relayer/issues/286)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
@@ -82,11 +82,6 @@
 - [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
 
 - [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
@@ -172,6 +167,8 @@
 
 
 ## staticbackendhq/core <span style='color:#F1C40F'>(550 ⭐️)</span>
+
+- [[cli] Add a tail command to follow server logs](https://github.com/staticbackendhq/core/issues/85)
 
 - [Add email interface to server-side function runtime](https://github.com/staticbackendhq/core/issues/84)
 
