@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 06:22 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 06:33 UTC.</div>
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -74,24 +74,9 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
-## LinuxSuRen/api-testing <span style='color:#F1C40F'>(14 ⭐️)</span>
+## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
 
-- [Provide a gRPC endpoint to getting the version](https://github.com/LinuxSuRen/api-testing/issues/54)
-
-- [Support to install atest as a Windows service](https://github.com/LinuxSuRen/api-testing/issues/52)
-
-- [Add authentication support in the gRPC server](https://github.com/LinuxSuRen/api-testing/issues/55)
-
-- [Support to install atest as a macOS service](https://github.com/LinuxSuRen/api-testing/issues/53)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-- [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.7K ⭐️)</span>
@@ -177,11 +162,6 @@
 - [Add docs for how to use the Pinniped Supervisor and CLI without using the Concierge (using the Kube API server flags instead of Concierge)](https://github.com/vmware-tanzu/pinniped/issues/1506)
 
 - [Add requirement for kube-apiserver not including `--anonymous-auth=false` flag to Concierge docs (when impersonation proxy is not being used)](https://github.com/vmware-tanzu/pinniped/issues/1512)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
@@ -343,4 +323,68 @@
 ## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
 
 - [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
+
+
+## acorn-io/acorn <span style='color:#F1C40F'>(989 ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
+
+
+## berops/claudie <span style='color:#F1C40F'>(232 ⭐️)</span>
+
+- [Getting started docs: Make it clear to use the releases rather than the master branch](https://github.com/berops/claudie/issues/716)
+
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
+
+
+## Jguer/yay <span style='color:#F1C40F'>(9.1K ⭐️)</span>
+
+- [Mutual blocking of processes](https://github.com/Jguer/yay/issues/2123)
+
+
+## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
+
+
+## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [Ignore empty with no validation causes invalid python to be generated via the jinja template](https://github.com/bufbuild/protoc-gen-validate/issues/843)
+
+
+## onflow/flow-go <span style='color:#F1C40F'>(490 ⭐️)</span>
+
+- [Differentiate between consensus `Headers` and cluster `Headers`](https://github.com/onflow/flow-go/issues/4204)
+
+
+## celestiaorg/orchestrator-relayer <span style='color:#F1C40F'>(8 ⭐️)</span>
+
+- [Remove the `--passphrase` flag from `evm list` command](https://github.com/celestiaorg/orchestrator-relayer/issues/286)
+
+
+## scriptnull/waymond <span style='color:#F1C40F'>(10 ⭐️)</span>
+
+- [site: add syntax highlighting support for toml snippets](https://github.com/scriptnull/waymond/issues/18)
+
+- [config: validate if config is a DAG](https://github.com/scriptnull/waymond/issues/15)
+
+
+## onflow/cadence <span style='color:#F1C40F'>(465 ⭐️)</span>
+
+- [Add `fromBigEndianBytes` conversion function to `Number` types](https://github.com/onflow/cadence/issues/2448)
+
+- [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[GC] Output failed-to-delete objects rather than deleted](https://github.com/treeverse/lakeFS/issues/5716)
+
+- [[lakeFSFS] Add retries and configurable timeouts to lakeFS API calls](https://github.com/treeverse/lakeFS/issues/5664)
+
+- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+- [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
 
