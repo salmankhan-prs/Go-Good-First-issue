@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 05:22 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 05:33 UTC.</div>
+
+
+## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(99 ⭐️)</span>
+
+- [Slow consumergroup reconciliation under load](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3046)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## LinuxSuRen/api-testing <span style='color:#F1C40F'>(14 ⭐️)</span>
@@ -45,9 +55,9 @@
 - [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
@@ -65,11 +75,6 @@
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 - [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -281,6 +286,21 @@
 - [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
 
 
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [question: Support for gke-gcloud-auth-plugin in k8sgpt docker image](https://github.com/k8sgpt-ai/k8sgpt/issues/275)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(2.3K ⭐️)</span>
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
@@ -290,24 +310,26 @@
 - [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
+## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
+
+- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
+
+
 ## acorn-io/acorn <span style='color:#F1C40F'>(989 ⭐️)</span>
 
 - [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
 
 
+## berops/claudie <span style='color:#F1C40F'>(232 ⭐️)</span>
+
+- [Getting started docs: Make it clear to use the releases rather than the master branch](https://github.com/berops/claudie/issues/716)
+
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
+
+
 ## Jguer/yay <span style='color:#F1C40F'>(9.1K ⭐️)</span>
 
 - [Mutual blocking of processes](https://github.com/Jguer/yay/issues/2123)
-
-
-## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [Ignore empty with no validation causes invalid python to be generated via the jinja template](https://github.com/bufbuild/protoc-gen-validate/issues/843)
-
-
-## onflow/flow-go <span style='color:#F1C40F'>(490 ⭐️)</span>
-
-- [Differentiate between consensus `Headers` and cluster `Headers`](https://github.com/onflow/flow-go/issues/4204)
 
 
 ## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
@@ -373,9 +395,4 @@
 ## cilium/cilium-cli <span style='color:#F1C40F'>(232 ⭐️)</span>
 
 - [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
-
-
-## opensearch-project/opensearch-go <span style='color:#F1C40F'>(120 ⭐️)</span>
-
-- [[PROPOSAL] Code quality analysis](https://github.com/opensearch-project/opensearch-go/issues/307)
 
