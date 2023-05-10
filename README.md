@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 00:22 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 00:33 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
+
+
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
+
+- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
+
+- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
+
+- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
 
 
 ## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
@@ -14,19 +37,14 @@
 - [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
-
-
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
@@ -91,27 +109,14 @@
 - [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
 
 
-## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
 
-- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
-
-- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
-
-- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
-
-- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
+- [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
 
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
