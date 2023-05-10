@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 01:02 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 01:12 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
+
+
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -15,11 +27,6 @@
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -42,16 +49,16 @@
 - [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
 
 
-## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
-
-
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.7K ⭐️)</span>
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+- [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -72,6 +79,15 @@
 - [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
 
 
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
@@ -90,13 +106,6 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(14.7K ⭐️)</span>
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
-
-- [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -160,15 +169,6 @@
 ## kubernetes-sigs/network-policy-api <span style='color:#F1C40F'>(22 ⭐️)</span>
 
 - [Add a Script linter to our CI workflow](https://github.com/kubernetes-sigs/network-policy-api/issues/94)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -297,6 +297,11 @@
 - [Change custom-default-backend manifest to use new image](https://github.com/kubernetes/ingress-nginx/issues/9934)
 
 
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [Change custom-default-backend manifest to use new image](https://github.com/kubernetes/ingress-nginx/issues/9934)
+
+
 ## onflow/cadence <span style='color:#F1C40F'>(465 ⭐️)</span>
 
 - [Add `fromBigEndianBytes` conversion function to `Number` types](https://github.com/onflow/cadence/issues/2448)
@@ -353,9 +358,4 @@
 ## helm/helm <span style='color:#F1C40F'>(24.3K ⭐️)</span>
 
 - [Deprecate `github.com/pkg/errors` in favor of stdlib](https://github.com/helm/helm/issues/11994)
-
-
-## l7mp/stunner <span style='color:#F1C40F'>(493 ⭐️)</span>
-
-- [Rewrite `stunnerctl` in Go](https://github.com/l7mp/stunner/issues/81)
 
