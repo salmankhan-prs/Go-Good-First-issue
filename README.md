@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 07:12 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 07:23 UTC.</div>
+
+
+## EnterpriseDB/terraform-provider-biganimal <span style='color:#F1C40F'>(9 ⭐️)</span>
+
+- [Create `biganimal_regions` data source](https://github.com/EnterpriseDB/terraform-provider-biganimal/issues/209)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## l7mp/stunner <span style='color:#F1C40F'>(493 ⭐️)</span>
@@ -62,11 +77,6 @@
 - [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
 ## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
 
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
@@ -104,9 +114,11 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
-## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
+## dolthub/dolt <span style='color:#F1C40F'>(14.7K ⭐️)</span>
 
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+- [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.7K ⭐️)</span>
@@ -354,4 +366,31 @@
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(127 ⭐️)</span>
 
 - [add `-c` flag to stop after n probes](https://github.com/pouriyajamshidi/tcping/issues/72)
+
+
+## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
+
+- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
+
+
+## acorn-io/acorn <span style='color:#F1C40F'>(989 ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
+
+
+## berops/claudie <span style='color:#F1C40F'>(232 ⭐️)</span>
+
+- [Getting started docs: Make it clear to use the releases rather than the master branch](https://github.com/berops/claudie/issues/716)
+
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
+
+
+## Jguer/yay <span style='color:#F1C40F'>(9.1K ⭐️)</span>
+
+- [Mutual blocking of processes](https://github.com/Jguer/yay/issues/2123)
+
+
+## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [Ignore empty with no validation causes invalid python to be generated via the jinja template](https://github.com/bufbuild/protoc-gen-validate/issues/843)
 
