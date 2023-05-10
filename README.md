@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 18:22 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 18:32 UTC.</div>
 
 
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(34 ⭐️)</span>
@@ -12,6 +12,17 @@
 - [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
 
 - [The different access tokens are confusing](https://github.com/chiselstrike/turso-cli/issues/325)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -217,17 +228,6 @@
 - [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
 ## cue-lang/cue <span style='color:#F1C40F'>(3.8K ⭐️)</span>
 
 - [alpha.cuelang.org: upstream internal/parse](https://github.com/cue-lang/cue/issues/2387)
@@ -297,9 +297,9 @@
 
 ## kubernetes-sigs/kubectl-validate <span style='color:#F1C40F'>(4 ⭐️)</span>
 
-- [Usage with CI?](https://github.com/kubernetes-sigs/kubectl-validate/issues/23)
-
 - [GitHub downloader is used even if local/hardcoded schemas are available](https://github.com/kubernetes-sigs/kubectl-validate/issues/22)
+
+- [Usage with CI?](https://github.com/kubernetes-sigs/kubectl-validate/issues/23)
 
 - [Namespace scoping of CRDs is inferred](https://github.com/kubernetes-sigs/kubectl-validate/issues/16)
 
@@ -321,9 +321,4 @@
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
-## cloudfoundry/korifi <span style='color:#F1C40F'>(198 ⭐️)</span>
-
-- [[Feature]: Korifi api users should be able to use long API/workloads URLs](https://github.com/cloudfoundry/korifi/issues/2425)
 
