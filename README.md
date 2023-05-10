@@ -4,12 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 05:53 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 06:03 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
@@ -49,6 +54,13 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
+## dolthub/dolt <span style='color:#F1C40F'>(14.7K ⭐️)</span>
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+- [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
+
+
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
 
 - [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
@@ -58,13 +70,6 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(14.7K ⭐️)</span>
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
-
-- [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -95,11 +100,6 @@
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
@@ -377,24 +377,4 @@
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
 
 - [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
-
-
-## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
-
-- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
-
-
-## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Cleanup cosign help text with a custom printer](https://github.com/sigstore/cosign/issues/2887)
-
-- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
-
-- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
-
-- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
-
-- [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
 
