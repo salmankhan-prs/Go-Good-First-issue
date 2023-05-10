@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 04:22 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 04:32 UTC.</div>
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -68,11 +68,6 @@
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
-
-- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
