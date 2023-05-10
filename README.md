@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 03:22 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 03:32 UTC.</div>
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
@@ -47,6 +47,11 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## cometbft/cometbft <span style='color:#F1C40F'>(263 ⭐️)</span>
+
+- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -351,4 +356,47 @@
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
 
 - [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
+
+
+## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Cleanup cosign help text with a custom printer](https://github.com/sigstore/cosign/issues/2887)
+
+- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
+
+- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
+
+- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
+
+- [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
+
+
+## cilium/cilium-cli <span style='color:#F1C40F'>(232 ⭐️)</span>
+
+- [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
+
+
+## opensearch-project/opensearch-go <span style='color:#F1C40F'>(120 ⭐️)</span>
+
+- [[PROPOSAL] Code quality analysis](https://github.com/opensearch-project/opensearch-go/issues/307)
+
+
+## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
+
+
+## tigera/operator <span style='color:#F1C40F'>(127 ⭐️)</span>
+
+- [Typha autoscaler should exclude Fargate Nodes in node count](https://github.com/tigera/operator/issues/2592)
+
+
+## l7mp/stunner <span style='color:#F1C40F'>(493 ⭐️)</span>
+
+- [Rewrite `stunnerctl` in Go](https://github.com/l7mp/stunner/issues/81)
+
+
+## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
 
