@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 02:32 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 02:42 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
@@ -20,13 +27,6 @@
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -117,6 +117,13 @@
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
+## hashicorp/nomad <span style='color:#F1C40F'>(13.5K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
 
 - [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
@@ -167,6 +174,11 @@
 - [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
 
 
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
+
+
 ## gnolang/gno <span style='color:#F1C40F'>(735 ⭐️)</span>
 
 - [CI: auto-assign author if PR created without assignee](https://github.com/gnolang/gno/issues/796)
@@ -194,11 +206,22 @@
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+## ConsenSys/gnark <span style='color:#F1C40F'>(918 ⭐️)</span>
 
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+- [fix: test engine does not differentiate between constants and variables](https://github.com/ConsenSys/gnark/issues/650)
 
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+- [Detect under-constrained circuits / wires](https://github.com/ConsenSys/gnark/issues/649)
+
+- [Pre compute an optimal parallel solving strategy](https://github.com/ConsenSys/gnark/issues/646)
+
+- [feat: hash to curve](https://github.com/ConsenSys/gnark/issues/648)
+
+- [feat: G2 arithmetic in-circuit](https://github.com/ConsenSys/gnark/issues/647)
+
+
+## kubernetes-sigs/network-policy-api <span style='color:#F1C40F'>(22 ⭐️)</span>
+
+- [Add a Script linter to our CI workflow](https://github.com/kubernetes-sigs/network-policy-api/issues/94)
 
 
 ## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
@@ -247,52 +270,6 @@
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 - [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
-
-
-## vmware-tanzu/pinniped <span style='color:#F1C40F'>(413 ⭐️)</span>
-
-- [Add docs for how to use the Pinniped Supervisor and CLI without using the Concierge (using the Kube API server flags instead of Concierge)](https://github.com/vmware-tanzu/pinniped/issues/1506)
-
-- [Add requirement for kube-apiserver not including `--anonymous-auth=false` flag to Concierge docs (when impersonation proxy is not being used)](https://github.com/vmware-tanzu/pinniped/issues/1512)
-
-
-## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
-
-- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [question: Support for gke-gcloud-auth-plugin in k8sgpt docker image](https://github.com/k8sgpt-ai/k8sgpt/issues/275)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.3K ⭐️)</span>
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 
 ## vmware-tanzu/pinniped <span style='color:#F1C40F'>(413 ⭐️)</span>
