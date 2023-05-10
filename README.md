@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 08:03 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 08:13 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
@@ -12,9 +17,9 @@
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
-## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
-- [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
@@ -27,14 +32,23 @@
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
+## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
+
+
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
 
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+- [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(2.3K ⭐️)</span>
@@ -59,11 +73,6 @@
 ## l7mp/stunner <span style='color:#F1C40F'>(493 ⭐️)</span>
 
 - [Rewrite `stunnerctl` in Go](https://github.com/l7mp/stunner/issues/81)
-
-
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -108,11 +117,6 @@
 - [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
 
 
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(513 ⭐️)</span>
-
-- [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
-
-
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(991 ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
@@ -149,15 +153,6 @@
 - [Add authentication support in the gRPC server](https://github.com/LinuxSuRen/api-testing/issues/55)
 
 - [Support to install atest as a macOS service](https://github.com/LinuxSuRen/api-testing/issues/53)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-- [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.7K ⭐️)</span>
@@ -391,9 +386,4 @@
 ## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
 
 - [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
-
-
-## acorn-io/acorn <span style='color:#F1C40F'>(989 ⭐️)</span>
-
-- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
 
