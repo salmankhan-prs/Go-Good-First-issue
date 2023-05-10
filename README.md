@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 22:02 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 22:12 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -20,11 +36,6 @@
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(698 ⭐️)</span>
@@ -166,17 +177,6 @@
 - [TestGrid API: Implement Dashboard Tab View](https://github.com/GoogleCloudPlatform/testgrid/issues/1200)
 
 - [TestGrid API: Dashboards should contain a reference to the group they belong to](https://github.com/GoogleCloudPlatform/testgrid/issues/1199)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -330,24 +330,4 @@
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
 
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
-## staticbackendhq/core <span style='color:#F1C40F'>(551 ⭐️)</span>
-
-- [[cli] Add a tail command to follow server logs](https://github.com/staticbackendhq/core/issues/85)
-
-- [Add email interface to server-side function runtime](https://github.com/staticbackendhq/core/issues/84)
-
-- [[docs] A tutorial for Next.js](https://github.com/staticbackendhq/core/issues/83)
-
-- [[core & cli] Save dev database between CLI restart](https://github.com/staticbackendhq/core/issues/82)
-
-- [[backend-js] Build an additional bundle importable via <script> tag](https://github.com/staticbackendhq/core/issues/81)
-
-- [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
-
-
-## cilium/cilium-cli <span style='color:#F1C40F'>(232 ⭐️)</span>
-
-- [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
 
