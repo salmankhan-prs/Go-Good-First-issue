@@ -4,7 +4,46 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 23:32 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 23:42 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
+
+- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
+
+- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
+
+- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+
+
+## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
+
+- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
+
+- [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
@@ -45,17 +84,6 @@
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
@@ -87,11 +115,6 @@
 - [Fetch withdrawals from a parent state](https://github.com/prysmaticlabs/prysm/issues/12261)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
@@ -102,17 +125,6 @@
 - [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
-## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
-
-- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
-
-- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
-
-- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
-
-
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(698 ⭐️)</span>
 
 - [(feature) Ability to skip logging health end-points](https://github.com/thomaspoignant/go-feature-flag/issues/781)
@@ -120,11 +132,6 @@
 - [(change) relay proxy - Deprecate githubToken in the config in favor of token](https://github.com/thomaspoignant/go-feature-flag/issues/752)
 
 - [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
-
-
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
@@ -189,6 +196,11 @@
 - [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
 
 - [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
@@ -293,13 +305,6 @@
 - [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
 
 
-## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
-
-- [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
-
-
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
@@ -327,11 +332,4 @@
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(34 ⭐️)</span>
-
-- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
-
-- [The different access tokens are confusing](https://github.com/chiselstrike/turso-cli/issues/325)
 
