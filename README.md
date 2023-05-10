@@ -4,7 +4,49 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 16:02 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 16:22 UTC.</div>
+
+
+## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
+
+
+## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## cue-lang/cue <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [alpha.cuelang.org: upstream internal/parse](https://github.com/cue-lang/cue/issues/2387)
+
+- [alpha.cuelang.org: playground should be served in local development](https://github.com/cue-lang/cue/issues/2348)
+
+- [alpha.cuelang.org: search engines should not index playground examples](https://github.com/cue-lang/cue/issues/2349)
+
+- [cuelang.org: "Create Documentation Issue" link broken](https://github.com/cue-lang/cue/issues/2364)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -21,6 +63,11 @@
 - [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
 
 
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
 
 - [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
@@ -32,6 +79,8 @@
 
 
 ## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [Configurability for IP cooldown period](https://github.com/aws/amazon-vpc-cni-k8s/issues/2378)
 
 - [IP Deallocation delay when multiple enis attached to host](https://github.com/aws/amazon-vpc-cni-k8s/issues/2363)
 
@@ -71,22 +120,6 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
@@ -97,11 +130,6 @@
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
-## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
-
-- [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -158,11 +186,6 @@
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 - [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
@@ -254,9 +277,27 @@
 - [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
 
 
+## NethermindEth/juno <span style='color:#F1C40F'>(171 ⭐️)</span>
+
+- [Make block hash calculation compatible with 0.11.1](https://github.com/NethermindEth/juno/issues/757)
+
+- [Use `json.Decoder` in `feeder` to avoid reading the entire response body in to memory](https://github.com/NethermindEth/juno/issues/747)
+
+
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
+
+- [No metric for "update of endpoint failed" query errors](https://github.com/thanos-io/thanos/issues/6280)
+
+- [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
+
+- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
+
+- [Use Partial Response should be enabled by default](https://github.com/thanos-io/thanos/issues/6270)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(513 ⭐️)</span>
@@ -289,9 +330,27 @@
 - [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
 
 
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+## operator-framework/operator-controller <span style='color:#F1C40F'>(4 ⭐️)</span>
 
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+- [Update util tests](https://github.com/operator-framework/operator-controller/issues/197)
+
+- [Document testing conventions](https://github.com/operator-framework/operator-controller/issues/188)
+
+- [Update resolution package tests](https://github.com/operator-framework/operator-controller/issues/191)
+
+- [Update required package variable source tests](https://github.com/operator-framework/operator-controller/issues/196)
+
+- [Update olm variable source tests](https://github.com/operator-framework/operator-controller/issues/195)
+
+- [Update entity tests](https://github.com/operator-framework/operator-controller/issues/194)
+
+- [Update crd constraints variable source tests](https://github.com/operator-framework/operator-controller/issues/193)
+
+- [Update bundles and dependencies variable source tests](https://github.com/operator-framework/operator-controller/issues/192)
+
+- [Update controller package tests](https://github.com/operator-framework/operator-controller/issues/190)
+
+- [[Epic] Refactor ginkgo unit tests to go test](https://github.com/operator-framework/operator-controller/issues/189)
 
 
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -302,80 +361,4 @@
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
-
-
-## cloudfoundry/korifi <span style='color:#F1C40F'>(197 ⭐️)</span>
-
-- [[Feature]: Korifi api users should be able to use long API/workloads URLs](https://github.com/cloudfoundry/korifi/issues/2425)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(173 ⭐️)</span>
-
-- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
-
-- [Use unique error codes for `x/qgb` module](https://github.com/celestiaorg/celestia-app/issues/1669)
-
-- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
-
-- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
-## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
-
-- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
-
-
-## kubernetes/perf-tests <span style='color:#F1C40F'>(777 ⭐️)</span>
-
-- [Add measurement for running commands within in-cluster pods](https://github.com/kubernetes/perf-tests/issues/2262)
-
-
-## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
-
-- [No metric for "update of endpoint failed" query errors](https://github.com/thanos-io/thanos/issues/6280)
-
-- [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
-
-- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
-
-- [Use Partial Response should be enabled by default](https://github.com/thanos-io/thanos/issues/6270)
-
-
-## lf-edge/ekuiper <span style='color:#F1C40F'>(991 ⭐️)</span>
-
-- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
-
-
-## filecoin-project/mir <span style='color:#F1C40F'>(31 ⭐️)</span>
-
-- [Serialization of `StableCheckpoint` and `Certificate` inefficient](https://github.com/filecoin-project/mir/issues/400)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
-
-- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
-
-- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
-
-- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
-
-
-## LinuxSuRen/api-testing <span style='color:#F1C40F'>(14 ⭐️)</span>
-
-- [Provide a gRPC endpoint to getting the version](https://github.com/LinuxSuRen/api-testing/issues/54)
-
-- [Support to install atest as a Windows service](https://github.com/LinuxSuRen/api-testing/issues/52)
-
-- [Add authentication support in the gRPC server](https://github.com/LinuxSuRen/api-testing/issues/55)
-
-- [Support to install atest as a macOS service](https://github.com/LinuxSuRen/api-testing/issues/53)
 
