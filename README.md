@@ -4,17 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 04:12 UTC.</div>
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Fetch withdrawals from a parent state](https://github.com/prysmaticlabs/prysm/issues/12261)
+<div align='center'>Last updated at May 10, 2023 04:22 UTC.</div>
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -28,14 +18,31 @@
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
-## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
-
-- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
-
-
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Fetch withdrawals from a parent state](https://github.com/prysmaticlabs/prysm/issues/12261)
+
+
+## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
+
+- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
@@ -63,11 +70,9 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
 
 
-## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
 
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
+- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
