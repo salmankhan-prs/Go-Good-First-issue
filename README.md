@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 01:22 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 01:32 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
+
+- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
+
+- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
+
+- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
@@ -39,11 +55,6 @@
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
 
 - [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
@@ -59,17 +70,6 @@
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 - [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
-
-- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
-
-- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
-
-- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
 
 
 ## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
@@ -202,6 +202,11 @@
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
 - [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
@@ -260,13 +265,6 @@
 - [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
 
 
-## berops/claudie <span style='color:#F1C40F'>(232 ⭐️)</span>
-
-- [Getting started docs: Make it clear to use the releases rather than the master branch](https://github.com/berops/claudie/issues/716)
-
-- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
-
-
 ## Jguer/yay <span style='color:#F1C40F'>(9.1K ⭐️)</span>
 
 - [Mutual blocking of processes](https://github.com/Jguer/yay/issues/2123)
@@ -290,13 +288,6 @@
 ## celestiaorg/orchestrator-relayer <span style='color:#F1C40F'>(8 ⭐️)</span>
 
 - [Remove the `--passphrase` flag from `evm list` command](https://github.com/celestiaorg/orchestrator-relayer/issues/286)
-
-
-## scriptnull/waymond <span style='color:#F1C40F'>(10 ⭐️)</span>
-
-- [site: add syntax highlighting support for toml snippets](https://github.com/scriptnull/waymond/issues/18)
-
-- [config: validate if config is a DAG](https://github.com/scriptnull/waymond/issues/15)
 
 
 ## scriptnull/waymond <span style='color:#F1C40F'>(10 ⭐️)</span>
