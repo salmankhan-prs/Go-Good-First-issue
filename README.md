@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 00:33 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 00:42 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(730 ⭐️)</span>
+
+- [CLI:  Add gas config to the client.toml config file ](https://github.com/osmosis-labs/osmosis/issues/4962)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
@@ -40,11 +50,6 @@
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
@@ -102,11 +107,6 @@
 - [strings.TrimLeft is used instead of TrimPrefix](https://github.com/replicatedhq/troubleshoot/issues/1129)
 
 - [Collect DaemonSets cluster resource](https://github.com/replicatedhq/troubleshoot/issues/1120)
-
-
-## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
-
-- [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
 
 
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
@@ -415,9 +415,4 @@
 ## freiheit-com/kuberpult <span style='color:#F1C40F'>(18 ⭐️)</span>
 
 - [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
-
-
-## derailed/k9s <span style='color:#F1C40F'>(20.7K ⭐️)</span>
-
-- [Add visual hint that current list is filtered by 'faults'](https://github.com/derailed/k9s/issues/2052)
 
