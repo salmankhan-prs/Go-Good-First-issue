@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 14:52 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 15:02 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -186,6 +186,11 @@
 ## berachain/polaris <span style='color:#F1C40F'>(551 ⭐️)</span>
 
 - [bug(IBC): All SDK coins including via IBC must set denomMetadata](https://github.com/berachain/polaris/issues/682)
+
+
+## project-zot/zot <span style='color:#F1C40F'>(364 ⭐️)</span>
+
+- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
