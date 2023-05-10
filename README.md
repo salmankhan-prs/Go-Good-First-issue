@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 15:32 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 15:42 UTC.</div>
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -23,6 +23,11 @@
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
+
+
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
 
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
@@ -30,9 +35,9 @@
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
 
-- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
+- [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -94,11 +99,6 @@
 - [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
 
 
-## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
-
-- [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
-
-
 ## rollkit/rollkit <span style='color:#F1C40F'>(207 ⭐️)</span>
 
 - [Update Readme to explain Makefile](https://github.com/rollkit/rollkit/issues/921)
@@ -109,6 +109,11 @@
 ## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
@@ -203,13 +208,9 @@
 - [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
+## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
 
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-- [Implement `shell` subcommands in `envtool`](https://github.com/FerretDB/FerretDB/issues/2548)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+- [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
 
 
 ## berachain/polaris <span style='color:#F1C40F'>(551 ⭐️)</span>
@@ -298,6 +299,17 @@
 - [Use Partial Response should be enabled by default](https://github.com/thanos-io/thanos/issues/6270)
 
 
+## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
+
+- [No metric for "update of endpoint failed" query errors](https://github.com/thanos-io/thanos/issues/6280)
+
+- [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
+
+- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
+
+- [Use Partial Response should be enabled by default](https://github.com/thanos-io/thanos/issues/6270)
+
+
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(991 ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
@@ -333,16 +345,4 @@
 ## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
-
-
-## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
-
-- [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(697 ⭐️)</span>
-
-- [(change) relay proxy - Deprecate githubToken in the config in favor of token](https://github.com/thomaspoignant/go-feature-flag/issues/752)
-
-- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
 
