@@ -4,7 +4,44 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 15:02 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 15:12 UTC.</div>
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
+## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
+
+- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
+
+
+## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
+
+- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
+
+- [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -20,22 +57,6 @@
 ## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
 
 - [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
-## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
-
-- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
@@ -55,11 +76,9 @@
 - [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
 
 
-## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
 
-- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
-
-- [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -77,11 +96,6 @@
 - [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
 
 - [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
@@ -114,9 +128,13 @@
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
 
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
@@ -148,15 +166,6 @@
 - [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
 
 - [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
@@ -191,15 +200,6 @@
 ## project-zot/zot <span style='color:#F1C40F'>(364 ⭐️)</span>
 
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
