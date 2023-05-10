@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 01:32 UTC.</div>
+<div align='center'>Last updated at May 10, 2023 01:42 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
+
+- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
@@ -21,6 +31,11 @@
 - [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
 
 - [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(105 ⭐️)</span>
@@ -88,11 +103,6 @@
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
@@ -148,11 +158,6 @@
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## ConsenSys/gnark <span style='color:#F1C40F'>(918 ⭐️)</span>
 
 - [fix: test engine does not differentiate between constants and variables](https://github.com/ConsenSys/gnark/issues/650)
@@ -195,11 +200,6 @@
 ## kserve/modelmesh-serving <span style='color:#F1C40F'>(134 ⭐️)</span>
 
 - [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
