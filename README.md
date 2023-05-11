@@ -4,7 +4,27 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 22:52 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 23:02 UTC.</div>
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+- [[lakeFSFS] Add retries and configurable timeouts to lakeFS API calls](https://github.com/treeverse/lakeFS/issues/5664)
+
+- [[GC] Output deleted and failed-to-delete objects](https://github.com/treeverse/lakeFS/issues/5716)
+
+- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
+
+- [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -240,13 +260,6 @@
 - [[Epic] Refactor ginkgo unit tests to go test](https://github.com/operator-framework/operator-controller/issues/189)
 
 
-## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
-
-- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
-
-
 ## openfga/openfga <span style='color:#F1C40F'>(980 ⭐️)</span>
 
 - [change usages of karlseguin/ccache to use generics instead of type-assertions](https://github.com/openfga/openfga/issues/736)
@@ -342,55 +355,4 @@
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
 
 - [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
-
-
-## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [Support Tencent Content Delivery Network](https://github.com/tailwarden/komiser/issues/764)
-
-- [Calculate cost for GCP BigQuery Tables](https://github.com/tailwarden/komiser/issues/784)
-
-- [Calculate cost for GCP Certificates](https://github.com/tailwarden/komiser/issues/783)
-
-- [Calculate cost for GCP Container cluster](https://github.com/tailwarden/komiser/issues/782)
-
-- [Calculate cost for GCP Functions](https://github.com/tailwarden/komiser/issues/781)
-
-- [Calculate cost for GCP Gateways](https://github.com/tailwarden/komiser/issues/780)
-
-- [Calculate cost for GCP KMS Keys](https://github.com/tailwarden/komiser/issues/779)
-
-- [Calculate cost for GCP Redis instances](https://github.com/tailwarden/komiser/issues/778)
-
-- [Calculate cost for GCP SQL Instances](https://github.com/tailwarden/komiser/issues/777)
-
-- [Support Tencent Serverless Cloud Function](https://github.com/tailwarden/komiser/issues/769)
-
-- [Support TencentDB for PostgreSQL](https://github.com/tailwarden/komiser/issues/768)
-
-- [Support TencentDB for MongoDB](https://github.com/tailwarden/komiser/issues/767)
-
-- [Support TencentDB for Redis](https://github.com/tailwarden/komiser/issues/766)
-
-- [Support TencentDB for MySQL](https://github.com/tailwarden/komiser/issues/765)
-
-- [Support Tencent NAT Gateway](https://github.com/tailwarden/komiser/issues/763)
-
-- [Support Tencent Virtual Private Cloud](https://github.com/tailwarden/komiser/issues/762)
-
-- [Support Tencent Cloud Load Balancer](https://github.com/tailwarden/komiser/issues/761)
-
-- [Support Tencent Cloud File Storage](https://github.com/tailwarden/komiser/issues/760)
-
-- [Support Tencent Cloud Block Storage](https://github.com/tailwarden/komiser/issues/759)
-
-- [Support Tencent Cloud Object Storage](https://github.com/tailwarden/komiser/issues/758)
-
-- [Support Tencent Kubernetes Engine](https://github.com/tailwarden/komiser/issues/757)
-
-- [Support Tencent Elastic Kubernetes Service](https://github.com/tailwarden/komiser/issues/756)
-
-- [Support Tencent Batch compute](https://github.com/tailwarden/komiser/issues/755)
-
-- [Support Tencent API Gateways](https://github.com/tailwarden/komiser/issues/754)
 
