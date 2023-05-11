@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 22:22 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 22:32 UTC.</div>
+
+
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
 ## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -29,11 +44,6 @@
 - [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
 
 - [update 'Help and resources' menu](https://github.com/kubeshop/tracetest/issues/2419)
-
-
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(318 ⭐️)</span>
@@ -77,11 +87,6 @@
 ## cilium/cilium-cli <span style='color:#F1C40F'>(233 ⭐️)</span>
 
 - [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
 ## acorn-io/acorn <span style='color:#F1C40F'>(991 ⭐️)</span>
@@ -161,11 +166,6 @@
 - [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
 
 - [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
