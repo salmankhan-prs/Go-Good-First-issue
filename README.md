@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 01:12 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 01:22 UTC.</div>
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
@@ -22,6 +27,22 @@
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 - [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
+
+- [Implement the `controllerClass` on `VaultDynamicSecret` resources](https://github.com/external-secrets/external-secrets/issues/2224)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
+
+
+## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Fetch withdrawals from a parent state](https://github.com/prysmaticlabs/prysm/issues/12261)
 
 
 ## tigera/operator <span style='color:#F1C40F'>(127 ⭐️)</span>
@@ -157,11 +178,6 @@
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Fetch withdrawals from a parent state](https://github.com/prysmaticlabs/prysm/issues/12261)
-
-
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
@@ -251,11 +267,6 @@
 - [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
 
 
-## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
@@ -292,52 +303,4 @@
 - [alpha.cuelang.org: search engines should not index playground examples](https://github.com/cue-lang/cue/issues/2349)
 
 - [cuelang.org: "Create Documentation Issue" link broken](https://github.com/cue-lang/cue/issues/2364)
-
-
-## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
-
-- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
-
-- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
-
-
-## memphisdev/memphis <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
-
-- [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
-
-- [Feature: GUI - Version upgrade changes](https://github.com/memphisdev/memphis/issues/905)
-
-
-## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
-
-- [Deduplication of Incidents Per rule](https://github.com/konveyor/analyzer-lsp/issues/144)
-
-- [Add progress reporting showing statistics on total rules parsed, completed, matched, and failed](https://github.com/konveyor/analyzer-lsp/issues/132)
-
-
-## celestiaorg/orchestrator-relayer <span style='color:#F1C40F'>(8 ⭐️)</span>
-
-- [Deploy command EVM keys help message](https://github.com/celestiaorg/orchestrator-relayer/issues/362)
-
-- [Reduce the frequency of the relayer logs](https://github.com/celestiaorg/orchestrator-relayer/issues/361)
-
-- [Remove the `--passphrase` flag from `evm list` command](https://github.com/celestiaorg/orchestrator-relayer/issues/286)
-
-
-## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
-
-- [No metric for "update of endpoint failed" query errors](https://github.com/thanos-io/thanos/issues/6280)
-
-- [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
-
-- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
-
-- [Use Partial Response should be enabled by default](https://github.com/thanos-io/thanos/issues/6270)
-
-
-## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
-
-- [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
 
