@@ -4,7 +4,42 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 13:02 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 13:12 UTC.</div>
+
+
+## celestiaorg/orchestrator-relayer <span style='color:#F1C40F'>(8 ⭐️)</span>
+
+- [Deploy command EVM keys help message](https://github.com/celestiaorg/orchestrator-relayer/issues/362)
+
+- [Reduce the frequency of the relayer logs](https://github.com/celestiaorg/orchestrator-relayer/issues/361)
+
+- [Remove the `--passphrase` flag from `evm list` command](https://github.com/celestiaorg/orchestrator-relayer/issues/286)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## project-zot/zot <span style='color:#F1C40F'>(365 ⭐️)</span>
+
+- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
@@ -69,6 +104,11 @@
 - [support UDP drops](https://github.com/prometheus/procfs/issues/506)
 
 
+## prometheus/procfs <span style='color:#F1C40F'>(636 ⭐️)</span>
+
+- [support UDP drops](https://github.com/prometheus/procfs/issues/506)
+
+
 ## cloudwego/hertz <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Introduce constants for commonly used MIME types](https://github.com/cloudwego/hertz/issues/754)
@@ -77,15 +117,6 @@
 ## kairos-io/kairos <span style='color:#F1C40F'>(491 ⭐️)</span>
 
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## cilium/cilium-cli <span style='color:#F1C40F'>(233 ⭐️)</span>
@@ -108,18 +139,6 @@
 ## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
 
 - [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -322,33 +341,4 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## cue-lang/cue <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [alpha.cuelang.org: upstream internal/parse](https://github.com/cue-lang/cue/issues/2387)
-
-- [alpha.cuelang.org: playground should be served in local development](https://github.com/cue-lang/cue/issues/2348)
-
-- [alpha.cuelang.org: search engines should not index playground examples](https://github.com/cue-lang/cue/issues/2349)
-
-- [cuelang.org: "Create Documentation Issue" link broken](https://github.com/cue-lang/cue/issues/2364)
-
-
-## apache/apisix-ingress-controller <span style='color:#F1C40F'>(795 ⭐️)</span>
-
-- [e2e: check if the controller is restarted](https://github.com/apache/apisix-ingress-controller/issues/1792)
-
-- [chore: update Go tool chain to v1.20](https://github.com/apache/apisix-ingress-controller/issues/1786)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
-
-- [Implement the `controllerClass` on `VaultDynamicSecret` resources](https://github.com/external-secrets/external-secrets/issues/2224)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
 
