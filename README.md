@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 05:12 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 05:22 UTC.</div>
+
+
+## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
+
+- [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
+
+- [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
+
+- [提供OpenIM文档翻译](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
 
 
 ## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
@@ -247,6 +256,21 @@
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [question: Support for gke-gcloud-auth-plugin in k8sgpt docker image](https://github.com/k8sgpt-ai/k8sgpt/issues/275)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+
 ## cometbft/cometbft <span style='color:#F1C40F'>(264 ⭐️)</span>
 
 - [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
@@ -275,9 +299,9 @@
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(698 ⭐️)</span>
 
-- [(feature) Ability to skip logging health end-points](https://github.com/thomaspoignant/go-feature-flag/issues/781)
-
 - [(change) relay proxy - Deprecate githubToken in the config in favor of token](https://github.com/thomaspoignant/go-feature-flag/issues/752)
+
+- [(feature) Ability to skip logging health end-points](https://github.com/thomaspoignant/go-feature-flag/issues/781)
 
 - [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
 
@@ -319,22 +343,4 @@
 - [GitHub downloader subject to rate limits](https://github.com/kubernetes-sigs/kubectl-validate/issues/17)
 
 - [recursive schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/18)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
-
-- [[lakeFSFS] Add retries and configurable timeouts to lakeFS API calls](https://github.com/treeverse/lakeFS/issues/5664)
-
-- [[GC] Output deleted and failed-to-delete objects](https://github.com/treeverse/lakeFS/issues/5716)
-
-- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
-
-- [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
