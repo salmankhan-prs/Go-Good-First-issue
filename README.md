@@ -4,7 +4,36 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 08:32 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 08:42 UTC.</div>
+
+
+## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [Split `fetching` package constants to distinct types](https://github.com/elastic/cloudbeat/issues/867)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+
+## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Docs: Filter example contains error](https://github.com/zalando/skipper/issues/2280)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.4K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -21,6 +50,18 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
+
+
+## berops/claudie <span style='color:#F1C40F'>(233 ⭐️)</span>
+
+- [Getting started docs: Make it clear to use the releases rather than the master branch](https://github.com/berops/claudie/issues/716)
+
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
 
 
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(34 ⭐️)</span>
@@ -40,16 +81,16 @@
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
+
+
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
 
 - [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
 
 - [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.4K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -83,11 +124,6 @@
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
-## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [Split `fetching` package constants to distinct types](https://github.com/elastic/cloudbeat/issues/867)
-
-
 ## base-org/pessimism <span style='color:#F1C40F'>(510 ⭐️)</span>
 
 - [Poll Interval is a Hardcoded Value for EVM Block Polling Client](https://github.com/base-org/pessimism/issues/36)
@@ -115,7 +151,7 @@
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
-## memphisdev/memphis <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
 
@@ -297,25 +333,4 @@
 - [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
 
 - [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
-
-- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
-
-- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
-
-- [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
-
-
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
