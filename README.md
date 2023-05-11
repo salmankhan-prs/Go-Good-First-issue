@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 07:12 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 07:22 UTC.</div>
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(74 ⭐️)</span>
@@ -313,16 +313,4 @@
 - [Introduce `prompts` concept](https://github.com/tmc/langchaingo/issues/31)
 
 - [Add doc.go files to every package.](https://github.com/tmc/langchaingo/issues/5)
-
-
-## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
-
-- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
-
-
-## helm/helm <span style='color:#F1C40F'>(24.3K ⭐️)</span>
-
-- [Deprecate `github.com/pkg/errors` in favor of stdlib](https://github.com/helm/helm/issues/11994)
 
