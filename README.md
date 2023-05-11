@@ -4,7 +4,34 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 06:12 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 06:22 UTC.</div>
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
+
+- [Implement the `controllerClass` on `VaultDynamicSecret` resources](https://github.com/external-secrets/external-secrets/issues/2224)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
+
+
+## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
+
+- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
+
+
+## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(74 ⭐️)</span>
+
+- [Apps Page Text needs tweaked](https://github.com/keptn/lifecycle-toolkit/issues/1311)
+
+- [readme should point to website not repo](https://github.com/keptn/lifecycle-toolkit/issues/1327)
+
+- [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
+
+- [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
 
 
 ## cloudwego/hertz <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -115,17 +142,6 @@
 - [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
 
 
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
-
-- [Implement the `controllerClass` on `VaultDynamicSecret` resources](https://github.com/external-secrets/external-secrets/issues/2224)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
-
-
 ## vmware-tanzu/pinniped <span style='color:#F1C40F'>(414 ⭐️)</span>
 
 - [Add docs for how to use the Pinniped Supervisor and CLI without using the Concierge (using the Kube API server flags instead of Concierge)](https://github.com/vmware-tanzu/pinniped/issues/1506)
@@ -170,9 +186,9 @@
 - [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
 
 
-## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
-- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
@@ -183,6 +199,13 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+
+
+## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(99 ⭐️)</span>
+
+- [KafkaSource: Define proper openAPIV3Schema for spec and status ](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3081)
+
+- [Slow consumergroup reconciliation under load](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3046)
 
 
 ## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
@@ -283,6 +306,11 @@
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
+## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [Label minimumFunds too abstract](https://github.com/ethersphere/bee/issues/4003)
+
+
 ## cometbft/cometbft <span style='color:#F1C40F'>(264 ⭐️)</span>
 
 - [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
@@ -293,32 +321,14 @@
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
-
-
 ## sashabaranov/go-openai <span style='color:#F1C40F'>(4.9K ⭐️)</span>
 
 - [Move some code into `internal` directory](https://github.com/sashabaranov/go-openai/issues/304)
 
 
-## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(74 ⭐️)</span>
-
-- [Apps Page Text needs tweaked](https://github.com/keptn/lifecycle-toolkit/issues/1311)
-
-- [readme should point to website not repo](https://github.com/keptn/lifecycle-toolkit/issues/1327)
-
-- [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
-
-- [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
-
-
 ## kubernetes-sigs/kubectl-validate <span style='color:#F1C40F'>(5 ⭐️)</span>
 
 - [Debug Logging and Verbosity](https://github.com/kubernetes-sigs/kubectl-validate/issues/36)
-
-- [GitHub downloader is used even if local/hardcoded schemas are available](https://github.com/kubernetes-sigs/kubectl-validate/issues/22)
 
 - [Validate from stdin](https://github.com/kubernetes-sigs/kubectl-validate/issues/32)
 
@@ -371,11 +381,4 @@
 - [alpha.cuelang.org: search engines should not index playground examples](https://github.com/cue-lang/cue/issues/2349)
 
 - [cuelang.org: "Create Documentation Issue" link broken](https://github.com/cue-lang/cue/issues/2364)
-
-
-## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
-
-- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
-
-- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
 
