@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 04:52 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 05:02 UTC.</div>
+
+
+## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
@@ -339,15 +344,4 @@
 - [TestGrid API: Implement Dashboard Tab View](https://github.com/GoogleCloudPlatform/testgrid/issues/1200)
 
 - [TestGrid API: Dashboards should contain a reference to the group they belong to](https://github.com/GoogleCloudPlatform/testgrid/issues/1199)
-
-
-## cue-lang/cue <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [alpha.cuelang.org: upstream internal/parse](https://github.com/cue-lang/cue/issues/2387)
-
-- [alpha.cuelang.org: playground should be served in local development](https://github.com/cue-lang/cue/issues/2348)
-
-- [alpha.cuelang.org: search engines should not index playground examples](https://github.com/cue-lang/cue/issues/2349)
-
-- [cuelang.org: "Create Documentation Issue" link broken](https://github.com/cue-lang/cue/issues/2364)
 
