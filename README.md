@@ -4,12 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 05:42 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 05:52 UTC.</div>
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
 
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
+
+- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
+
+
+## lf-edge/ekuiper <span style='color:#F1C40F'>(992 ⭐️)</span>
+
+- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(698 ⭐️)</span>
@@ -17,6 +27,11 @@
 - [(feature) Ability to skip logging health end-points](https://github.com/thomaspoignant/go-feature-flag/issues/781)
 
 - [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(106 ⭐️)</span>
@@ -49,11 +64,6 @@
 - [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
 
 - [提供OpenIM文档翻译](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
@@ -112,11 +122,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## lf-edge/ekuiper <span style='color:#F1C40F'>(992 ⭐️)</span>
-
-- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -238,9 +243,35 @@
 - [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
 
 
-## apache/trafficcontrol <span style='color:#F1C40F'>(895 ⭐️)</span>
+## guacsec/guac <span style='color:#F1C40F'>(819 ⭐️)</span>
 
-- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
+- [SPDX parser top level heuristic change to check "DESCRIBES" relationship](https://github.com/guacsec/guac/issues/708)
+
+- [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [question: Support for gke-gcloud-auth-plugin in k8sgpt docker image](https://github.com/k8sgpt-ai/k8sgpt/issues/275)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
 ## cometbft/cometbft <span style='color:#F1C40F'>(264 ⭐️)</span>
@@ -331,4 +362,11 @@
 - [alpha.cuelang.org: search engines should not index playground examples](https://github.com/cue-lang/cue/issues/2349)
 
 - [cuelang.org: "Create Documentation Issue" link broken](https://github.com/cue-lang/cue/issues/2364)
+
+
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
+
+- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
+
+- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
 
