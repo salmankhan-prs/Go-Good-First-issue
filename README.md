@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 03:02 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 03:12 UTC.</div>
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
@@ -273,9 +273,9 @@
 
 ## kubernetes-sigs/kubectl-validate <span style='color:#F1C40F'>(5 ⭐️)</span>
 
-- [GitHub downloader is used even if local/hardcoded schemas are available](https://github.com/kubernetes-sigs/kubectl-validate/issues/22)
-
 - [Debug Logging and Verbosity](https://github.com/kubernetes-sigs/kubectl-validate/issues/36)
+
+- [GitHub downloader is used even if local/hardcoded schemas are available](https://github.com/kubernetes-sigs/kubectl-validate/issues/22)
 
 - [Validate from stdin](https://github.com/kubernetes-sigs/kubectl-validate/issues/32)
 
