@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 01:02 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 01:12 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(106 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
 
 
 ## tigera/operator <span style='color:#F1C40F'>(127 ⭐️)</span>
@@ -117,11 +134,6 @@
 ## apache/trafficcontrol <span style='color:#F1C40F'>(894 ⭐️)</span>
 
 - [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## cometbft/cometbft <span style='color:#F1C40F'>(264 ⭐️)</span>
@@ -328,15 +340,4 @@
 ## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
 
 - [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
-
-- [Implement the `controllerClass` on `VaultDynamicSecret` resources](https://github.com/external-secrets/external-secrets/issues/2224)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
 
