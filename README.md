@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 10, 2023 23:52 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 00:02 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -130,6 +130,17 @@
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
+
+- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(698 ⭐️)</span>
@@ -315,9 +326,4 @@
 ## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
-
-
-## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
 
