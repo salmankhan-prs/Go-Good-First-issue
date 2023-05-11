@@ -4,7 +4,42 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 18:22 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 18:32 UTC.</div>
+
+
+## kube-vip/kube-vip <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [BGP metrics support](https://github.com/kube-vip/kube-vip/issues/547)
+
+- [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
+
+- [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
+
+
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
+
+- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
+
+- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(107 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
+
+
+## openfga/openfga <span style='color:#F1C40F'>(980 ⭐️)</span>
+
+- [change usages of karlseguin/ccache to use generics instead of type-assertions](https://github.com/openfga/openfga/issues/736)
+
+- [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -36,11 +71,6 @@
 - [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## buildpacks/lifecycle <span style='color:#F1C40F'>(163 ⭐️)</span>
 
 - [Upgrade api version in acceptance tests to non-deprecated version](https://github.com/buildpacks/lifecycle/issues/1079)
@@ -61,13 +91,6 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
-## openfga/openfga <span style='color:#F1C40F'>(980 ⭐️)</span>
-
-- [change usages of karlseguin/ccache to use generics instead of type-assertions](https://github.com/openfga/openfga/issues/736)
-
-- [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
@@ -118,13 +141,6 @@
 - [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
 
 - [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(107 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(602 ⭐️)</span>
@@ -342,18 +358,4 @@
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.8K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
-
-
-## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
-
-- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
-
-- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(513 ⭐️)</span>
-
-- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
-
-- [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
 
