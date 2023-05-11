@@ -4,17 +4,31 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 10:02 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 10:12 UTC.</div>
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.4K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(992 ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
@@ -49,11 +63,6 @@
 ## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.4K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -140,13 +149,9 @@
 - [Support percentage values in CPU/memory limit flags](https://github.com/bacalhau-project/bacalhau/issues/2367)
 
 
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
 ## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -254,7 +259,7 @@
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
-## base-org/pessimism <span style='color:#F1C40F'>(512 ⭐️)</span>
+## base-org/pessimism <span style='color:#F1C40F'>(513 ⭐️)</span>
 
 - [Poll Interval is a Hardcoded Value for EVM Block Polling Client](https://github.com/base-org/pessimism/issues/36)
 
@@ -332,9 +337,4 @@
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 - [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
-
-
-## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
-
-- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
 
