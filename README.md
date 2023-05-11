@@ -4,12 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 00:22 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 00:32 UTC.</div>
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+## tmc/langchaingo <span style='color:#F1C40F'>(165 ⭐️)</span>
 
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+- [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
+
+- [Introduce `prompts` concept](https://github.com/tmc/langchaingo/issues/31)
+
+- [Add doc.go files to every package.](https://github.com/tmc/langchaingo/issues/5)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -21,6 +25,16 @@
 - [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
 
 - [border-radius of shape:callout](https://github.com/terrastruct/d2/issues/1185)
+
+
+## tigera/operator <span style='color:#F1C40F'>(127 ⭐️)</span>
+
+- [Typha autoscaler should exclude Fargate Nodes in node count](https://github.com/tigera/operator/issues/2592)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -316,14 +330,4 @@
 - [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
 
 - [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
 
