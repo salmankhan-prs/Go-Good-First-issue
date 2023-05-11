@@ -4,27 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 21:42 UTC.</div>
-
-
-## parca-dev/parca-agent <span style='color:#F1C40F'>(318 ⭐️)</span>
-
-- [Add Image description to the container images](https://github.com/parca-dev/parca-agent/issues/1633)
-
-
-## acorn-io/acorn <span style='color:#F1C40F'>(991 ⭐️)</span>
-
-- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## buildpacks/lifecycle <span style='color:#F1C40F'>(163 ⭐️)</span>
-
-- [Upgrade api version in acceptance tests to non-deprecated version](https://github.com/buildpacks/lifecycle/issues/1079)
+<div align='center'>Last updated at May 11, 2023 21:52 UTC.</div>
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -44,21 +24,50 @@
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
-## stackrox/kube-linter <span style='color:#F1C40F'>(2.3K ⭐️)</span>
-
-- [[FEATURE_REQUEST] Check if all images are references only by their sha256 tag](https://github.com/stackrox/kube-linter/issues/539)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(338 ⭐️)</span>
 
 - [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
 
 - [Support percentage values in CPU/memory limit flags](https://github.com/bacalhau-project/bacalhau/issues/2367)
+
+
+## cilium/cilium-cli <span style='color:#F1C40F'>(233 ⭐️)</span>
+
+- [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
+
+
+## parca-dev/parca-agent <span style='color:#F1C40F'>(318 ⭐️)</span>
+
+- [Add Image description to the container images](https://github.com/parca-dev/parca-agent/issues/1633)
+
+
+## acorn-io/acorn <span style='color:#F1C40F'>(991 ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
+
+
+## buildpacks/lifecycle <span style='color:#F1C40F'>(163 ⭐️)</span>
+
+- [Upgrade api version in acceptance tests to non-deprecated version](https://github.com/buildpacks/lifecycle/issues/1079)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
@@ -115,15 +124,6 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
@@ -216,6 +216,11 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## berops/claudie <span style='color:#F1C40F'>(234 ⭐️)</span>
+
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
 
 
 ## berops/claudie <span style='color:#F1C40F'>(234 ⭐️)</span>
