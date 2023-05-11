@@ -4,12 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 06:32 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 06:42 UTC.</div>
 
 
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(992 ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
@@ -119,11 +124,6 @@
 - [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
 
 - [提供OpenIM文档翻译](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -261,6 +261,13 @@
 - [Introduce `prompts` concept](https://github.com/tmc/langchaingo/issues/31)
 
 - [Add doc.go files to every package.](https://github.com/tmc/langchaingo/issues/5)
+
+
+## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
+
+- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
 
 
 ## helm/helm <span style='color:#F1C40F'>(24.3K ⭐️)</span>
