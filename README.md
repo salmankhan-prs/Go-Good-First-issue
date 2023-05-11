@@ -4,7 +4,38 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 09:42 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 09:52 UTC.</div>
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+
+
+## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.4K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
+
+- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
@@ -27,22 +58,6 @@
 - [Docs: Filter example contains error](https://github.com/zalando/skipper/issues/2280)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
-
-- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
-
-
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
@@ -52,11 +67,6 @@
 - [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
 
 - [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.4K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -84,6 +94,13 @@
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(513 ⭐️)</span>
 
 - [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
+
+
+## apache/apisix-ingress-controller <span style='color:#F1C40F'>(795 ⭐️)</span>
+
+- [e2e: check if the controller is restarted](https://github.com/apache/apisix-ingress-controller/issues/1792)
+
+- [chore: update Go tool chain to v1.20](https://github.com/apache/apisix-ingress-controller/issues/1786)
 
 
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
@@ -121,6 +138,15 @@
 - [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
+## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Faster than eth_getLogs?](https://github.com/bnb-chain/bsc/issues/1541)
+
+- [Nonce too high err](https://github.com/bnb-chain/bsc/issues/1598)
+
+- [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
 
 
 ## kairos-io/kairos <span style='color:#F1C40F'>(491 ⭐️)</span>
@@ -176,15 +202,6 @@
 - [Getting started docs: Make it clear to use the releases rather than the master branch](https://github.com/berops/claudie/issues/716)
 
 - [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
-
-
-## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [Faster than eth_getLogs?](https://github.com/bnb-chain/bsc/issues/1541)
-
-- [Nonce too high err](https://github.com/bnb-chain/bsc/issues/1598)
-
-- [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
 
 
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(34 ⭐️)</span>
@@ -264,11 +281,6 @@
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
 
-## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
 
 - [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
@@ -315,14 +327,14 @@
 - [Introduce constants for commonly used MIME types](https://github.com/cloudwego/hertz/issues/754)
 
 
-## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
-
-- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
-
-
 ## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
 
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 - [DiffTableFunction should hide tables ignored by dolt_ignore](https://github.com/dolthub/dolt/issues/5861)
+
+
+## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
+
+- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
 
