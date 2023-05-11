@@ -4,7 +4,45 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 07:52 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 08:02 UTC.</div>
+
+
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
+
+- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
+
+- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.4K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [question: Support for gke-gcloud-auth-plugin in k8sgpt docker image](https://github.com/k8sgpt-ai/k8sgpt/issues/275)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
 ## kube-vip/kube-vip <span style='color:#F1C40F'>(1.2K ⭐️)</span>
@@ -53,11 +91,6 @@
 - [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.4K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.5K ⭐️)</span>
@@ -118,21 +151,6 @@
 - [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [question: Support for gke-gcloud-auth-plugin in k8sgpt docker image](https://github.com/k8sgpt-ai/k8sgpt/issues/275)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-
 ## kubernetes-sigs/kubectl-validate <span style='color:#F1C40F'>(5 ⭐️)</span>
 
 - [Debug Logging and Verbosity](https://github.com/kubernetes-sigs/kubectl-validate/issues/36)
@@ -157,17 +175,6 @@
 ## cloudwego/hertz <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Introduce constants for commonly used MIME types](https://github.com/cloudwego/hertz/issues/754)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
@@ -311,21 +318,4 @@
 - [KafkaSource: Define proper openAPIV3Schema for spec and status ](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3081)
 
 - [Slow consumergroup reconciliation under load](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3046)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
-
-
-## onflow/flow-go <span style='color:#F1C40F'>(490 ⭐️)</span>
-
-- [Differentiate between consensus `Headers` and cluster `Headers`](https://github.com/onflow/flow-go/issues/4204)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
