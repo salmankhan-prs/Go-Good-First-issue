@@ -4,7 +4,38 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 20:22 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 20:32 UTC.</div>
+
+
+## onflow/cadence <span style='color:#F1C40F'>(466 ⭐️)</span>
+
+- [Add `fromBigEndianBytes` conversion function to `Number` types](https://github.com/onflow/cadence/issues/2448)
+
+- [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## openfga/openfga <span style='color:#F1C40F'>(980 ⭐️)</span>
+
+- [change usages of karlseguin/ccache to use generics instead of type-assertions](https://github.com/openfga/openfga/issues/736)
+
+- [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
 
 
 ## moov-io/achgateway <span style='color:#F1C40F'>(34 ⭐️)</span>
@@ -80,23 +111,6 @@
 - [recursive schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/18)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
 
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
@@ -161,6 +175,11 @@
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 - [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -262,13 +281,6 @@
 - [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
 
 
-## openfga/openfga <span style='color:#F1C40F'>(980 ⭐️)</span>
-
-- [change usages of karlseguin/ccache to use generics instead of type-assertions](https://github.com/openfga/openfga/issues/736)
-
-- [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
-
-
 ## onflow/flow-go <span style='color:#F1C40F'>(490 ⭐️)</span>
 
 - [Differentiate between consensus `Headers` and cluster `Headers`](https://github.com/onflow/flow-go/issues/4204)
@@ -297,4 +309,68 @@
 ## apache/trafficcontrol <span style='color:#F1C40F'>(895 ⭐️)</span>
 
 - [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
+
+
+## rollkit/rollkit <span style='color:#F1C40F'>(207 ⭐️)</span>
+
+- [Update Readme to explain Makefile](https://github.com/rollkit/rollkit/issues/921)
+
+- [test: use const for genesis validator set](https://github.com/rollkit/rollkit/issues/860)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
+
+
+## ray-project/kuberay <span style='color:#F1C40F'>(335 ⭐️)</span>
+
+- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
+
+
+## replicatedhq/troubleshoot <span style='color:#F1C40F'>(430 ⭐️)</span>
+
+- [strings.TrimLeft is used instead of TrimPrefix](https://github.com/replicatedhq/troubleshoot/issues/1129)
+
+- [Collect DaemonSets cluster resource](https://github.com/replicatedhq/troubleshoot/issues/1120)
+
+
+## cometbft/cometbft <span style='color:#F1C40F'>(265 ⭐️)</span>
+
+- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
+
+
+## infracost/infracost <span style='color:#F1C40F'>(9.0K ⭐️)</span>
+
+- [Infracost uses Premium disk for AKS even though it's not available for given VM family](https://github.com/infracost/infracost/issues/2407)
+
+
+## operator-framework/operator-controller <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Update util tests](https://github.com/operator-framework/operator-controller/issues/197)
+
+- [Document testing conventions](https://github.com/operator-framework/operator-controller/issues/188)
+
+- [Update resolution package tests](https://github.com/operator-framework/operator-controller/issues/191)
+
+- [Update required package variable source tests](https://github.com/operator-framework/operator-controller/issues/196)
+
+- [Update olm variable source tests](https://github.com/operator-framework/operator-controller/issues/195)
+
+- [Update entity tests](https://github.com/operator-framework/operator-controller/issues/194)
+
+- [Update crd constraints variable source tests](https://github.com/operator-framework/operator-controller/issues/193)
+
+- [Update bundles and dependencies variable source tests](https://github.com/operator-framework/operator-controller/issues/192)
+
+- [Update controller package tests](https://github.com/operator-framework/operator-controller/issues/190)
+
+- [[Epic] Refactor ginkgo unit tests to go test](https://github.com/operator-framework/operator-controller/issues/189)
+
+
+## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [Deduplication of Incidents Per rule](https://github.com/konveyor/analyzer-lsp/issues/144)
+
+- [Add progress reporting showing statistics on total rules parsed, completed, matched, and failed](https://github.com/konveyor/analyzer-lsp/issues/132)
 
