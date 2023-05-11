@@ -4,7 +4,29 @@
 
 
 
-<div align='center'>Last updated at May 11, 2023 04:12 UTC.</div>
+<div align='center'>Last updated at May 11, 2023 04:22 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## cilium/cilium-cli <span style='color:#F1C40F'>(232 ⭐️)</span>
+
+- [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
+
+
+## vmware-tanzu/pinniped <span style='color:#F1C40F'>(414 ⭐️)</span>
+
+- [Add docs for how to use the Pinniped Supervisor and CLI without using the Concierge (using the Kube API server flags instead of Concierge)](https://github.com/vmware-tanzu/pinniped/issues/1506)
+
+- [Add requirement for kube-apiserver not including `--anonymous-auth=false` flag to Concierge docs (when impersonation proxy is not being used)](https://github.com/vmware-tanzu/pinniped/issues/1512)
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -47,11 +69,6 @@
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.3K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
@@ -71,11 +88,6 @@
 ## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
 
 - [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## cloudwego/hertz <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -338,11 +350,4 @@
 - [alpha.cuelang.org: search engines should not index playground examples](https://github.com/cue-lang/cue/issues/2349)
 
 - [cuelang.org: "Create Documentation Issue" link broken](https://github.com/cue-lang/cue/issues/2364)
-
-
-## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(740 ⭐️)</span>
-
-- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
-
-- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
 
