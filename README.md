@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 11:32 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 11:42 UTC.</div>
+
+
+## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(492 ⭐️)</span>
+
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
+
+
+## cometbft/cometbft <span style='color:#F1C40F'>(266 ⭐️)</span>
+
+- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
 
 
 ## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
@@ -89,11 +104,6 @@
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
-## cometbft/cometbft <span style='color:#F1C40F'>(266 ⭐️)</span>
-
-- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
-
-
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
@@ -161,7 +171,7 @@
 - [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
-## staticbackendhq/core <span style='color:#F1C40F'>(564 ⭐️)</span>
+## staticbackendhq/core <span style='color:#F1C40F'>(565 ⭐️)</span>
 
 - [[cli] Add a tail command to follow server logs](https://github.com/staticbackendhq/core/issues/85)
 
@@ -278,11 +288,6 @@
 ## berops/claudie <span style='color:#F1C40F'>(234 ⭐️)</span>
 
 - [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(492 ⭐️)</span>
-
-- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
 
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(318 ⭐️)</span>
