@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 08:42 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 08:52 UTC.</div>
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(173 ⭐️)</span>
@@ -40,11 +55,6 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(34 ⭐️)</span>
-
-- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
-
-
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
@@ -76,17 +86,6 @@
 - [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
 
 
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
-
-- [Implement the `controllerClass` on `VaultDynamicSecret` resources](https://github.com/external-secrets/external-secrets/issues/2224)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
-
-
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
@@ -96,14 +95,13 @@
 - [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
@@ -170,11 +168,6 @@
 - [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
 
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
 
 ## project-zot/zot <span style='color:#F1C40F'>(365 ⭐️)</span>
@@ -269,6 +262,11 @@
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
+## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+
+
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
 
 - [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
@@ -328,4 +326,71 @@
 ## tigera/operator <span style='color:#F1C40F'>(127 ⭐️)</span>
 
 - [Typha autoscaler should exclude Fargate Nodes in node count](https://github.com/tigera/operator/issues/2592)
+
+
+## dose-na-nuvem/customers <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Adicionar scanners de vulnerabilidade](https://github.com/dose-na-nuvem/customers/issues/12)
+
+- [Adicionar dependabot](https://github.com/dose-na-nuvem/customers/issues/11)
+
+- [Configuração a partir de arquivo, flags e variáveis de ambiente](https://github.com/dose-na-nuvem/customers/issues/8)
+
+- [Ajustar os avisos dos linters](https://github.com/dose-na-nuvem/customers/issues/7)
+
+
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(741 ⭐️)</span>
+
+- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
+
+- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
+## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
+
+- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
+
+- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
+
+- [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(339 ⭐️)</span>
+
+- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
+
+- [Support percentage values in CPU/memory limit flags](https://github.com/bacalhau-project/bacalhau/issues/2367)
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.6K ⭐️)</span>
+
+- [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
+
+
+## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [Add Service "Name" field to user notification webhook data.](https://github.com/target/goalert/issues/3009)
 
