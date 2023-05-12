@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 18:12 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 18:22 UTC.</div>
+
+
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
+
+- [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
 
 
 ## openfga/openfga <span style='color:#F1C40F'>(981 ⭐️)</span>
@@ -78,6 +83,15 @@
 - [Docs: Filter example contains error](https://github.com/zalando/skipper/issues/2280)
 
 
+## alcionai/corso <span style='color:#F1C40F'>(107 ⭐️)</span>
+
+- [[Bug]: Contacts folders shown in restore details results](https://github.com/alcionai/corso/issues/3281)
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
+
+
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(534 ⭐️)</span>
 
 - [Helm Chart: Missing quotes around cron expressions](https://github.com/aquasecurity/trivy-operator/issues/1190)
@@ -107,13 +121,13 @@
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
-## alcionai/corso <span style='color:#F1C40F'>(107 ⭐️)</span>
+## tmc/langchaingo <span style='color:#F1C40F'>(177 ⭐️)</span>
 
-- [[Bug]: Contacts folders shown in restore details results](https://github.com/alcionai/corso/issues/3281)
+- [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
 
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+- [Introduce `prompts` concept](https://github.com/tmc/langchaingo/issues/31)
 
-- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
+- [Add doc.go files to every package.](https://github.com/tmc/langchaingo/issues/5)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -183,11 +197,6 @@
 - [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
 
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-
-## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
-
-- [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
@@ -377,9 +386,4 @@
 - [Cloning All Repositories of Default Organization](https://github.com/Aykutfgoktas/orc/issues/2)
 
 - [Enable Default Clone Path Setting](https://github.com/Aykutfgoktas/orc/issues/3)
-
-
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
