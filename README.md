@@ -4,12 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 09:32 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 09:42 UTC.</div>
 
 
-## lf-edge/ekuiper <span style='color:#F1C40F'>(994 ⭐️)</span>
+## lf-edge/ekuiper <span style='color:#F1C40F'>(995 ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
@@ -61,21 +70,12 @@
 - [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
@@ -307,20 +307,6 @@
 - [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
 
 
-## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
-
-- [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(107 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
-
-
 ## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Docs: Filter example contains error](https://github.com/zalando/skipper/issues/2280)
@@ -341,17 +327,6 @@
 ## tigera/operator <span style='color:#F1C40F'>(127 ⭐️)</span>
 
 - [Typha autoscaler should exclude Fargate Nodes in node count](https://github.com/tigera/operator/issues/2592)
-
-
-## dose-na-nuvem/customers <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Adicionar scanners de vulnerabilidade](https://github.com/dose-na-nuvem/customers/issues/12)
-
-- [Adicionar dependabot](https://github.com/dose-na-nuvem/customers/issues/11)
-
-- [Configuração a partir de arquivo, flags e variáveis de ambiente](https://github.com/dose-na-nuvem/customers/issues/8)
-
-- [Ajustar os avisos dos linters](https://github.com/dose-na-nuvem/customers/issues/7)
 
 
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(741 ⭐️)</span>
@@ -391,4 +366,16 @@
 - [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
 
 - [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(339 ⭐️)</span>
+
+- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
+
+- [Support percentage values in CPU/memory limit flags](https://github.com/bacalhau-project/bacalhau/issues/2367)
+
+
+## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [Add Service "Name" field to user notification webhook data.](https://github.com/target/goalert/issues/3009)
 
