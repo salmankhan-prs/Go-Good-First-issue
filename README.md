@@ -4,7 +4,55 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 17:22 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 17:32 UTC.</div>
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## vmware-tanzu/pinniped <span style='color:#F1C40F'>(414 ⭐️)</span>
+
+- [Add docs for how to use the Pinniped Supervisor and CLI without using the Concierge (using the Kube API server flags instead of Concierge)](https://github.com/vmware-tanzu/pinniped/issues/1506)
+
+- [Add requirement for kube-apiserver not including `--anonymous-auth=false` flag to Concierge docs (when impersonation proxy is not being used)](https://github.com/vmware-tanzu/pinniped/issues/1512)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## openfga/openfga <span style='color:#F1C40F'>(980 ⭐️)</span>
+
+- [change usages of karlseguin/ccache to use generics instead of type-assertions](https://github.com/openfga/openfga/issues/736)
+
+- [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(107 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+
+- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -24,14 +72,9 @@
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
 
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -39,16 +82,38 @@
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
+
+
+## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
+
+- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
+
+
 ## onflow/flow-go <span style='color:#F1C40F'>(490 ⭐️)</span>
 
 - [Differentiate between consensus `Headers` and cluster `Headers`](https://github.com/onflow/flow-go/issues/4204)
 
 
-## alcionai/corso <span style='color:#F1C40F'>(107 ⭐️)</span>
+## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
 
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
+- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -66,21 +131,9 @@
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
-## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
 ## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
 
 - [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
-
-
-## openfga/openfga <span style='color:#F1C40F'>(981 ⭐️)</span>
-
-- [change usages of karlseguin/ccache to use generics instead of type-assertions](https://github.com/openfga/openfga/issues/736)
-
-- [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
 
 
 ## project-zot/zot <span style='color:#F1C40F'>(365 ⭐️)</span>
@@ -100,21 +153,9 @@
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.2K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
-
-- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -122,9 +163,13 @@
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(338 ⭐️)</span>
@@ -139,6 +184,17 @@
 - [TestGrid API: Implement Dashboard Tab Endpoint](https://github.com/GoogleCloudPlatform/testgrid/issues/1200)
 
 - [TestGrid API: Dashboards should contain a reference to the group they belong to](https://github.com/GoogleCloudPlatform/testgrid/issues/1199)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
+
+- [[eval] Update profile-sort flag to show valid options](https://github.com/open-policy-agent/opa/issues/5862)
+
+- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
+
+- [OPA debug logs expose X-AMZ-SECURITY-TOKEN header](https://github.com/open-policy-agent/opa/issues/5848)
 
 
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(741 ⭐️)</span>
@@ -163,16 +219,16 @@
 - [Enhance CountAuthorization to have a sub-authorization field](https://github.com/provenance-io/provenance/issues/1483)
 
 
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
 
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
 
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+- [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
 
 
-## kairos-io/kairos <span style='color:#F1C40F'>(492 ⭐️)</span>
+## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
-- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
@@ -184,20 +240,9 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+## kairos-io/kairos <span style='color:#F1C40F'>(492 ⭐️)</span>
 
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.0K ⭐️)</span>
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -208,11 +253,6 @@
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
-
-
-## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
-
-- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
@@ -260,13 +300,6 @@
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
 
 
-## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
-
-- [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
-
-
 ## acorn-io/acorn <span style='color:#F1C40F'>(993 ⭐️)</span>
 
 - [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
@@ -280,6 +313,17 @@
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.4K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
+
+- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
+
+- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
+
+- [No metric for "update of endpoint failed" query errors](https://github.com/thanos-io/thanos/issues/6280)
+
+- [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -336,54 +380,4 @@
 - [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
 
 - [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
-
-
-## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
-
-- [【RFC】Design of OpenIM Log Package Zap](https://github.com/OpenIMSDK/Open-IM-Server/issues/387)
-
-- [[Feature]: The open im flutter sdk supports the web/pc side](https://github.com/OpenIMSDK/Open-IM-Server/issues/386)
-
-- [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
-
-- [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
-
-- [提供OpenIM文档翻译](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## NethermindEth/juno <span style='color:#F1C40F'>(171 ⭐️)</span>
-
-- [Make block hash calculation compatible with 0.11.1](https://github.com/NethermindEth/juno/issues/757)
-
-- [Use `json.Decoder` in `feeder` to avoid reading the entire response body in to memory](https://github.com/NethermindEth/juno/issues/747)
-
-
-## PuremlHQ/PureML <span style='color:#F1C40F'>(171 ⭐️)</span>
-
-- [Adding function documentation for DAOs](https://github.com/PuremlHQ/PureML/issues/227)
-
-- [API Tests: Dataset/Model Review API tests](https://github.com/PuremlHQ/PureML/issues/226)
-
-- [API Tests: Dataset/Model Readme API tests](https://github.com/PuremlHQ/PureML/issues/225)
-
-- [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
-
-- [Incorrect message displayed in CLI after new user signs up](https://github.com/PuremlHQ/PureML/issues/216)
-
-
-## replicatedhq/troubleshoot <span style='color:#F1C40F'>(430 ⭐️)</span>
-
-- [strings.TrimLeft is used instead of TrimPrefix](https://github.com/replicatedhq/troubleshoot/issues/1129)
-
-- [Collect DaemonSets cluster resource](https://github.com/replicatedhq/troubleshoot/issues/1120)
-
-
-## infracost/infracost <span style='color:#F1C40F'>(9.0K ⭐️)</span>
-
-- [Infracost uses Premium disk for AKS even though it's not available for given VM family](https://github.com/infracost/infracost/issues/2407)
 
