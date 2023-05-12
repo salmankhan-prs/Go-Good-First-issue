@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 14:02 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 14:12 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
+
+- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+
+## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Docs: Filter example contains error](https://github.com/zalando/skipper/issues/2280)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(173 ⭐️)</span>
@@ -16,11 +35,6 @@
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -64,15 +78,6 @@
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
-
-- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.4K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
@@ -94,6 +99,15 @@
 - [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
 
 - [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
+
+
+## Aykutfgoktas/orc <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [Add Multiple Repo Selection](https://github.com/Aykutfgoktas/orc/issues/4)
+
+- [Cloning All Repositories of Default Organization](https://github.com/Aykutfgoktas/orc/issues/2)
+
+- [Enable Default Clone Path Setting](https://github.com/Aykutfgoktas/orc/issues/3)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -138,11 +152,6 @@
 - [[backend-js] Build an additional bundle importable via <script> tag](https://github.com/staticbackendhq/core/issues/81)
 
 - [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
-
-
-## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Docs: Filter example contains error](https://github.com/zalando/skipper/issues/2280)
 
 
 ## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -297,6 +306,11 @@
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
+## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
+
+
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
@@ -312,11 +326,4 @@
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(997 ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(107 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
 
