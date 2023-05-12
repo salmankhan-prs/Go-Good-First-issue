@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 04:52 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 05:02 UTC.</div>
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## shieldworks/aegis <span style='color:#F1C40F'>(24 ⭐️)</span>
@@ -266,11 +271,6 @@
 ## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
 
 - [Add Service "Name" field to user notification webhook data.](https://github.com/target/goalert/issues/3009)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
