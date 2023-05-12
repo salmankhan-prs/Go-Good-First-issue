@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 10:32 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 10:42 UTC.</div>
+
+
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(173 ⭐️)</span>
+
+- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
+
+- [Use unique error codes for `x/qgb` module](https://github.com/celestiaorg/celestia-app/issues/1669)
+
+- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
+
+- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
@@ -73,6 +84,21 @@
 - [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
+## staticbackendhq/core <span style='color:#F1C40F'>(564 ⭐️)</span>
+
+- [[cli] Add a tail command to follow server logs](https://github.com/staticbackendhq/core/issues/85)
+
+- [Add email interface to server-side function runtime](https://github.com/staticbackendhq/core/issues/84)
+
+- [[docs] A tutorial for Next.js](https://github.com/staticbackendhq/core/issues/83)
+
+- [[core & cli] Save dev database between CLI restart](https://github.com/staticbackendhq/core/issues/82)
+
+- [[backend-js] Build an additional bundle importable via <script> tag](https://github.com/staticbackendhq/core/issues/81)
+
+- [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
+
+
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
@@ -101,17 +127,6 @@
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(173 ⭐️)</span>
-
-- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
-
-- [Use unique error codes for `x/qgb` module](https://github.com/celestiaorg/celestia-app/issues/1669)
-
-- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
-
-- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
 
 
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -301,6 +316,41 @@
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
+## cloudwego/hertz <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Introduce constants for commonly used MIME types](https://github.com/cloudwego/hertz/issues/754)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
+
+- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
+
+- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
+
+- [No metric for "update of endpoint failed" query errors](https://github.com/thanos-io/thanos/issues/6280)
+
+- [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
+
+
+## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [feat(plugin): scaffold github workflow to test plugin](https://github.com/ignite/cli/issues/3495)
+
+
+## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Nonce too high err](https://github.com/bnb-chain/bsc/issues/1598)
+
+- [Faster than eth_getLogs?](https://github.com/bnb-chain/bsc/issues/1541)
+
+- [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
+
+
 ## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
 
 - [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
@@ -318,62 +368,4 @@
 - [change usages of karlseguin/ccache to use generics instead of type-assertions](https://github.com/openfga/openfga/issues/736)
 
 - [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
-
-
-## tigera/operator <span style='color:#F1C40F'>(127 ⭐️)</span>
-
-- [Typha autoscaler should exclude Fargate Nodes in node count](https://github.com/tigera/operator/issues/2592)
-
-
-## dose-na-nuvem/customers <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Adicionar scanners de vulnerabilidade](https://github.com/dose-na-nuvem/customers/issues/12)
-
-- [Adicionar dependabot](https://github.com/dose-na-nuvem/customers/issues/11)
-
-- [Configuração a partir de arquivo, flags e variáveis de ambiente](https://github.com/dose-na-nuvem/customers/issues/8)
-
-- [Ajustar os avisos dos linters](https://github.com/dose-na-nuvem/customers/issues/7)
-
-
-## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(741 ⭐️)</span>
-
-- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
-
-- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
-
-
-## cometbft/cometbft <span style='color:#F1C40F'>(266 ⭐️)</span>
-
-- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
-
-- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
-
-
-## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
-
-- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
-
-- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
-
-- [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(339 ⭐️)</span>
-
-- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
-
-- [Support percentage values in CPU/memory limit flags](https://github.com/bacalhau-project/bacalhau/issues/2367)
 
