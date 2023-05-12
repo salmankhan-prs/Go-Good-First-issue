@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 07:32 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 07:42 UTC.</div>
 
 
 ## cilium/cilium-cli <span style='color:#F1C40F'>(233 ⭐️)</span>
@@ -12,9 +12,29 @@
 - [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
 
 
+## berops/claudie <span style='color:#F1C40F'>(234 ⭐️)</span>
+
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(492 ⭐️)</span>
+
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
+
+
+## parca-dev/parca-agent <span style='color:#F1C40F'>(318 ⭐️)</span>
+
+- [Add Image description to the container images](https://github.com/parca-dev/parca-agent/issues/1633)
+
+
 ## juanfont/headscale <span style='color:#F1C40F'>(13.0K ⭐️)</span>
 
 - [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
 
 
 ## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -49,11 +69,6 @@
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
-## parca-dev/parca-agent <span style='color:#F1C40F'>(318 ⭐️)</span>
-
-- [Add Image description to the container images](https://github.com/parca-dev/parca-agent/issues/1633)
-
-
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
 
 - [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
@@ -66,11 +81,6 @@
 ## project-zot/zot <span style='color:#F1C40F'>(365 ⭐️)</span>
 
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -111,11 +121,6 @@
 ## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
-
-
-## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
-
-- [Bootstrap failed continuously when disk slow ](https://github.com/tikv/pd/issues/6311)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
