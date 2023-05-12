@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 22:52 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 23:02 UTC.</div>
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -202,11 +207,6 @@
 ## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
-
-
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## kubernetes-sigs/kubectl-validate <span style='color:#F1C40F'>(6 ⭐️)</span>
