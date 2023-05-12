@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 20:42 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 20:52 UTC.</div>
+
+
+## MasonCompetitiveCyber/vindicta <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [Feature: Detect more network connections](https://github.com/MasonCompetitiveCyber/vindicta/issues/5)
+
+- [Feature: Add custom filepath to monitor for FsNotify](https://github.com/MasonCompetitiveCyber/vindicta/issues/2)
+
+- [Update: Change loops and use Functions from Nftables package ](https://github.com/MasonCompetitiveCyber/vindicta/issues/3)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(819 ⭐️)</span>
@@ -201,13 +217,6 @@
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(535 ⭐️)</span>
 
 - [Helm Chart: Missing quotes around cron expressions](https://github.com/aquasecurity/trivy-operator/issues/1190)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
 ## vmware-tanzu/pinniped <span style='color:#F1C40F'>(414 ⭐️)</span>
