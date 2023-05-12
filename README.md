@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 14:32 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 14:42 UTC.</div>
+
+
+## openfga/openfga <span style='color:#F1C40F'>(981 ⭐️)</span>
+
+- [change usages of karlseguin/ccache to use generics instead of type-assertions](https://github.com/openfga/openfga/issues/736)
+
+- [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
+
+- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+
+## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [Label minimumFunds too abstract](https://github.com/ethersphere/bee/issues/4003)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -19,9 +40,19 @@
 - [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
 
 
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
+
+
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## kubeshop/tracetest <span style='color:#F1C40F'>(538 ⭐️)</span>
@@ -58,15 +89,6 @@
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
-
-- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-
 ## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Docs: Filter example contains error](https://github.com/zalando/skipper/issues/2280)
@@ -95,6 +117,11 @@
 - [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
 
 - [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
 ## acorn-io/acorn <span style='color:#F1C40F'>(992 ⭐️)</span>
@@ -209,11 +236,6 @@
 - [Fetch withdrawals from a parent state](https://github.com/prysmaticlabs/prysm/issues/12261)
 
 
-## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
@@ -244,11 +266,6 @@
 - [Use `json.Decoder` in `feeder` to avoid reading the entire response body in to memory](https://github.com/NethermindEth/juno/issues/747)
 
 
-## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [Label minimumFunds too abstract](https://github.com/ethersphere/bee/issues/4003)
-
-
 ## PuremlHQ/PureML <span style='color:#F1C40F'>(171 ⭐️)</span>
 
 - [Adding function documentation for DAOs](https://github.com/PuremlHQ/PureML/issues/227)
@@ -260,11 +277,6 @@
 - [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
 
 - [Incorrect message displayed in CLI after new user signs up](https://github.com/PuremlHQ/PureML/issues/216)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## replicatedhq/troubleshoot <span style='color:#F1C40F'>(430 ⭐️)</span>
@@ -328,14 +340,4 @@
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
-
-- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
-
-
-## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
 
