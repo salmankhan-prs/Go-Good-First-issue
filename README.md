@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 00:12 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 00:22 UTC.</div>
 
 
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -193,6 +193,13 @@
 - [update 'Help and resources' menu](https://github.com/kubeshop/tracetest/issues/2419)
 
 
+## kubeshop/tracetest <span style='color:#F1C40F'>(538 ⭐️)</span>
+
+- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
+
+- [update 'Help and resources' menu](https://github.com/kubeshop/tracetest/issues/2419)
+
+
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(318 ⭐️)</span>
 
 - [Add Image description to the container images](https://github.com/parca-dev/parca-agent/issues/1633)
@@ -326,25 +333,4 @@
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
 
 - [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
-
-
-## kubernetes-sigs/kubectl-validate <span style='color:#F1C40F'>(6 ⭐️)</span>
-
-- [Usage with CI?](https://github.com/kubernetes-sigs/kubectl-validate/issues/23)
-
-- [Validate from stdin](https://github.com/kubernetes-sigs/kubectl-validate/issues/32)
-
-- [Debug Logging and Verbosity](https://github.com/kubernetes-sigs/kubectl-validate/issues/36)
-
-- [Namespace scoping of CRDs is inferred](https://github.com/kubernetes-sigs/kubectl-validate/issues/16)
-
-- [Usage with kpt](https://github.com/kubernetes-sigs/kubectl-validate/issues/24)
-
-- [terminal output gif in readme](https://github.com/kubernetes-sigs/kubectl-validate/issues/14)
-
-- [OpenAPI v2 schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/15)
-
-- [GitHub downloader subject to rate limits](https://github.com/kubernetes-sigs/kubectl-validate/issues/17)
-
-- [recursive schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/18)
 
