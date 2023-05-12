@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 15:12 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 15:22 UTC.</div>
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
+
+- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -34,18 +57,14 @@
 - [Add measurement for running commands within in-cluster pods](https://github.com/kubernetes/perf-tests/issues/2262)
 
 
+## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
+
+- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
+
+
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
-
-- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
@@ -63,15 +82,6 @@
 ## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
 - [Label minimumFunds too abstract](https://github.com/ethersphere/bee/issues/4003)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -96,16 +106,6 @@
 - [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
 
 - [update 'Help and resources' menu](https://github.com/kubeshop/tracetest/issues/2419)
-
-
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
-
-- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(338 ⭐️)</span>
@@ -330,9 +330,4 @@
 ## cometbft/cometbft <span style='color:#F1C40F'>(266 ⭐️)</span>
 
 - [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
-
-
-## helm/helm <span style='color:#F1C40F'>(24.3K ⭐️)</span>
-
-- [Deprecate `github.com/pkg/errors` in favor of stdlib](https://github.com/helm/helm/issues/11994)
 
