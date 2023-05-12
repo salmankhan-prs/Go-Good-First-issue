@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 02:02 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 02:12 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.4K ⭐️)</span>
@@ -302,7 +302,7 @@
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
-## staticbackendhq/core <span style='color:#F1C40F'>(558 ⭐️)</span>
+## staticbackendhq/core <span style='color:#F1C40F'>(559 ⭐️)</span>
 
 - [[cli] Add a tail command to follow server logs](https://github.com/staticbackendhq/core/issues/85)
 
