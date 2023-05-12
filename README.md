@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 05:12 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 05:22 UTC.</div>
+
+
+## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
 
 
 ## tikv/pd <span style='color:#F1C40F'>(962 ⭐️)</span>
@@ -352,9 +357,4 @@
 ## helm/helm <span style='color:#F1C40F'>(24.3K ⭐️)</span>
 
 - [Deprecate `github.com/pkg/errors` in favor of stdlib](https://github.com/helm/helm/issues/11994)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
