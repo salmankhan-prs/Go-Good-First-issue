@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 19:42 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 19:52 UTC.</div>
+
+
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
+
+- [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
+
+
+## openfga/openfga <span style='color:#F1C40F'>(981 ⭐️)</span>
+
+- [change usages of karlseguin/ccache to use generics instead of type-assertions](https://github.com/openfga/openfga/issues/736)
+
+- [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -22,18 +39,6 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## openfga/openfga <span style='color:#F1C40F'>(981 ⭐️)</span>
-
-- [change usages of karlseguin/ccache to use generics instead of type-assertions](https://github.com/openfga/openfga/issues/736)
-
-- [Writing Authorization Models to a non-existent store returns 201](https://github.com/openfga/openfga/issues/690)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -99,14 +104,7 @@
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
-## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(253 ⭐️)</span>
-
-- [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
-
-
 ## kubernetes-sigs/kubectl-validate <span style='color:#F1C40F'>(6 ⭐️)</span>
-
-- [Namespace scoping of CRDs is inferred](https://github.com/kubernetes-sigs/kubectl-validate/issues/16)
 
 - [Usage with CI?](https://github.com/kubernetes-sigs/kubectl-validate/issues/23)
 
@@ -123,6 +121,11 @@
 - [GitHub downloader subject to rate limits](https://github.com/kubernetes-sigs/kubectl-validate/issues/17)
 
 - [recursive schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/18)
+
+
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
 ## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
@@ -336,13 +339,4 @@
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
-
-- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
