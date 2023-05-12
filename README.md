@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 11:42 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 11:52 UTC.</div>
 
 
 ## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -367,13 +367,4 @@
 ## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [feat(plugin): scaffold github workflow to test plugin](https://github.com/ignite/cli/issues/3495)
-
-
-## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [Nonce too high err](https://github.com/bnb-chain/bsc/issues/1598)
-
-- [Faster than eth_getLogs?](https://github.com/bnb-chain/bsc/issues/1541)
-
-- [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
 
