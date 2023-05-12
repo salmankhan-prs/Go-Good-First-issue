@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 00:52 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 01:02 UTC.</div>
 
 
 ## tigera/operator <span style='color:#F1C40F'>(127 ⭐️)</span>
@@ -95,6 +95,13 @@
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.6K ⭐️)</span>
 
 - [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(338 ⭐️)</span>
+
+- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
+
+- [Support percentage values in CPU/memory limit flags](https://github.com/bacalhau-project/bacalhau/issues/2367)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(338 ⭐️)</span>
@@ -337,9 +344,4 @@
 - [Add `fromBigEndianBytes` conversion function to `Number` types](https://github.com/onflow/cadence/issues/2448)
 
 - [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
-
-
-## moov-io/achgateway <span style='color:#F1C40F'>(34 ⭐️)</span>
-
-- [proposal: remove consul support / leadership elections](https://github.com/moov-io/achgateway/issues/174)
 
