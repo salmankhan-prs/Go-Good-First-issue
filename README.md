@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 16:12 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 16:22 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(107 ⭐️)</span>
@@ -27,16 +37,6 @@
 ## provenance-io/provenance <span style='color:#F1C40F'>(74 ⭐️)</span>
 
 - [Enhance CountAuthorization to have a sub-authorization field](https://github.com/provenance-io/provenance/issues/1483)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -70,7 +70,7 @@
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
-## kairos-io/kairos <span style='color:#F1C40F'>(491 ⭐️)</span>
+## kairos-io/kairos <span style='color:#F1C40F'>(492 ⭐️)</span>
 
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
@@ -330,16 +330,4 @@
 - [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
 
 - [Incorrect message displayed in CLI after new user signs up](https://github.com/PuremlHQ/PureML/issues/216)
-
-
-## replicatedhq/troubleshoot <span style='color:#F1C40F'>(430 ⭐️)</span>
-
-- [strings.TrimLeft is used instead of TrimPrefix](https://github.com/replicatedhq/troubleshoot/issues/1129)
-
-- [Collect DaemonSets cluster resource](https://github.com/replicatedhq/troubleshoot/issues/1120)
-
-
-## infracost/infracost <span style='color:#F1C40F'>(9.0K ⭐️)</span>
-
-- [Infracost uses Premium disk for AKS even though it's not available for given VM family](https://github.com/infracost/infracost/issues/2407)
 
