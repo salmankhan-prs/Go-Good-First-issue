@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 22:02 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 22:12 UTC.</div>
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(602 ⭐️)</span>
+
+- [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
 
 
 ## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
