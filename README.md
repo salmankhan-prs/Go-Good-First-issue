@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 04:32 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 04:42 UTC.</div>
 
 
 ## shieldworks/aegis <span style='color:#F1C40F'>(24 ⭐️)</span>
@@ -86,6 +86,16 @@
 - [IP Deallocation delay when multiple enis attached to host](https://github.com/aws/amazon-vpc-cni-k8s/issues/2363)
 
 
+## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
+
+
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
@@ -135,23 +145,6 @@
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(992 ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
-
-
-## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
-
-- [Document the difference between "retry" and "resubmit"](https://github.com/argoproj/argo-workflows/issues/10906)
-
-
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
@@ -364,9 +357,4 @@
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## srvaroa/labeler <span style='color:#F1C40F'>(56 ⭐️)</span>
-
-- [[Feature] support local config file](https://github.com/srvaroa/labeler/issues/82)
 
