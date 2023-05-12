@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 02:12 UTC.</div>
+<div align='center'>Last updated at May 12, 2023 02:22 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.4K ⭐️)</span>
@@ -169,6 +169,11 @@
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.6K ⭐️)</span>
 
 - [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
+
+
+## project-zot/zot <span style='color:#F1C40F'>(365 ⭐️)</span>
+
+- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
 
 ## project-zot/zot <span style='color:#F1C40F'>(365 ⭐️)</span>
