@@ -4,17 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 05:52 UTC.</div>
-
-
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
+<div align='center'>Last updated at May 12, 2023 06:02 UTC.</div>
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.4K ⭐️)</span>
@@ -347,9 +347,4 @@
 ## prometheus/procfs <span style='color:#F1C40F'>(637 ⭐️)</span>
 
 - [support UDP drops](https://github.com/prometheus/procfs/issues/506)
-
-
-## cilium/cilium-cli <span style='color:#F1C40F'>(233 ⭐️)</span>
-
-- [Cilium CLI should implement a standard way to restart all Cilium services](https://github.com/cilium/cilium-cli/issues/1513)
 
