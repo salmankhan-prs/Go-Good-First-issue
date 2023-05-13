@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 11:22 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 11:32 UTC.</div>
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(700 ⭐️)</span>
+
+- [(feature) Ability to skip logging health end-points](https://github.com/thomaspoignant/go-feature-flag/issues/781)
+
+- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
