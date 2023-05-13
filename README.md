@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 06:42 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 06:52 UTC.</div>
+
+
+## kserve/modelmesh-serving <span style='color:#F1C40F'>(135 ⭐️)</span>
+
+- [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
 
 
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
@@ -212,7 +217,7 @@
 - [Add Image description to the container images](https://github.com/parca-dev/parca-agent/issues/1633)
 
 
-## cosmos/interchain-security <span style='color:#F1C40F'>(107 ⭐️)</span>
+## cosmos/interchain-security <span style='color:#F1C40F'>(108 ⭐️)</span>
 
 - [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
 
