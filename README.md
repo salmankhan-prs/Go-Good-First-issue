@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 18:32 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 18:42 UTC.</div>
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
@@ -207,6 +207,13 @@
 - [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
 
 
+## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(265 ⭐️)</span>
+
+- [only perform contract code check if non-hardcoded address is used](https://github.com/AthanorLabs/atomic-swap/issues/416)
+
+- [enable/disable rpc namespaces](https://github.com/AthanorLabs/atomic-swap/issues/384)
+
+
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
@@ -228,13 +235,6 @@
 - [Feature: Detect more network connections](https://github.com/MasonCompetitiveCyber/vindicta/issues/5)
 
 - [Feature: Add custom filepath to monitor for FsNotify](https://github.com/MasonCompetitiveCyber/vindicta/issues/2)
-
-
-## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(266 ⭐️)</span>
-
-- [only perform contract code check if non-hardcoded address is used](https://github.com/AthanorLabs/atomic-swap/issues/416)
-
-- [enable/disable rpc namespaces](https://github.com/AthanorLabs/atomic-swap/issues/384)
 
 
 ## dose-na-nuvem/customers <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -338,11 +338,4 @@
 - [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
 
 - [update 'Help and resources' menu](https://github.com/kubeshop/tracetest/issues/2419)
-
-
-## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
-
-- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
 
