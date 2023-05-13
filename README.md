@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 00:52 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 01:02 UTC.</div>
+
+
+## MasonCompetitiveCyber/vindicta <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [Feature: Detect more network connections](https://github.com/MasonCompetitiveCyber/vindicta/issues/5)
+
+- [Feature: Add custom filepath to monitor for FsNotify](https://github.com/MasonCompetitiveCyber/vindicta/issues/2)
+
+- [Update: Change loops and use Functions from Nftables package ](https://github.com/MasonCompetitiveCyber/vindicta/issues/3)
 
 
 ## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(266 ⭐️)</span>
@@ -12,6 +21,11 @@
 - [only perform contract code check if non-hardcoded address is used](https://github.com/AthanorLabs/atomic-swap/issues/416)
 
 - [enable/disable rpc namespaces](https://github.com/AthanorLabs/atomic-swap/issues/384)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## dose-na-nuvem/customers <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -122,11 +136,6 @@
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## alcionai/corso <span style='color:#F1C40F'>(107 ⭐️)</span>
 
 - [[Bug]: Contacts folders shown in restore details results](https://github.com/alcionai/corso/issues/3281)
@@ -161,15 +170,6 @@
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(127 ⭐️)</span>
 
 - [add `-c` flag to stop after n probes](https://github.com/pouriyajamshidi/tcping/issues/72)
-
-
-## MasonCompetitiveCyber/vindicta <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [Feature: Detect more network connections](https://github.com/MasonCompetitiveCyber/vindicta/issues/5)
-
-- [Feature: Add custom filepath to monitor for FsNotify](https://github.com/MasonCompetitiveCyber/vindicta/issues/2)
-
-- [Update: Change loops and use Functions from Nftables package ](https://github.com/MasonCompetitiveCyber/vindicta/issues/3)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
@@ -288,6 +288,15 @@
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
 
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
+
+- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(173 ⭐️)</span>
 
 - [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
@@ -334,9 +343,4 @@
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
 - [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
