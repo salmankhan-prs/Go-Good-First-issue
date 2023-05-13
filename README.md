@@ -4,12 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 06:52 UTC.</div>
-
-
-## kserve/modelmesh-serving <span style='color:#F1C40F'>(135 ⭐️)</span>
-
-- [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
+<div align='center'>Last updated at May 13, 2023 07:02 UTC.</div>
 
 
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
@@ -25,6 +20,11 @@
 - [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
 
 - [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
+
+
+## kserve/modelmesh-serving <span style='color:#F1C40F'>(135 ⭐️)</span>
+
+- [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.4K ⭐️)</span>
