@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 17:12 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 17:22 UTC.</div>
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -221,11 +221,31 @@
 - [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
 
 
+## MasonCompetitiveCyber/vindicta <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [Update: Change loops and use Functions from Nftables package ](https://github.com/MasonCompetitiveCyber/vindicta/issues/3)
+
+- [Feature: Detect more network connections](https://github.com/MasonCompetitiveCyber/vindicta/issues/5)
+
+- [Feature: Add custom filepath to monitor for FsNotify](https://github.com/MasonCompetitiveCyber/vindicta/issues/2)
+
+
 ## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(266 ⭐️)</span>
 
 - [only perform contract code check if non-hardcoded address is used](https://github.com/AthanorLabs/atomic-swap/issues/416)
 
 - [enable/disable rpc namespaces](https://github.com/AthanorLabs/atomic-swap/issues/384)
+
+
+## dose-na-nuvem/customers <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Adicionar scanners de vulnerabilidade](https://github.com/dose-na-nuvem/customers/issues/12)
+
+- [Adicionar dependabot](https://github.com/dose-na-nuvem/customers/issues/11)
+
+- [Configuração a partir de arquivo, flags e variáveis de ambiente](https://github.com/dose-na-nuvem/customers/issues/8)
+
+- [Ajustar os avisos dos linters](https://github.com/dose-na-nuvem/customers/issues/7)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
@@ -244,27 +264,6 @@
 - [Verify config validity during Oracle construction](https://github.com/base-org/pessimism/issues/21)
 
 - [Introduce optional Retry-able EthClient ](https://github.com/base-org/pessimism/issues/20)
-
-
-## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(75 ⭐️)</span>
-
-- [Apps Page Text needs tweaked](https://github.com/keptn/lifecycle-toolkit/issues/1311)
-
-- [readme should point to website not repo](https://github.com/keptn/lifecycle-toolkit/issues/1327)
-
-- [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
-
-- [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
-
-
-## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Docs: Filter example contains error](https://github.com/zalando/skipper/issues/2280)
-
-
-## apache/trafficcontrol <span style='color:#F1C40F'>(896 ⭐️)</span>
-
-- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(75 ⭐️)</span>
