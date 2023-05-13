@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 22:02 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 22:12 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
@@ -122,8 +122,6 @@
 - [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
 
 - [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
-
-- [Support attaching a Rekor bundle to a container](https://github.com/sigstore/cosign/issues/2904)
 
 
 ## traPtitech/knoQ <span style='color:#F1C40F'>(4 ⭐️)</span>
