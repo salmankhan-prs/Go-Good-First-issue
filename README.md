@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 22:32 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 22:42 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
@@ -43,6 +43,11 @@
 - [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -105,11 +110,6 @@
 - [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
 
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
@@ -150,6 +150,12 @@
 
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(15 ⭐️)</span>
+
+- [Add CI step that checks that gofmt was called](https://github.com/roc-streaming/roc-go/issues/86)
+
+- [Use time.Time for LogMessage.Time](https://github.com/roc-streaming/roc-go/issues/85)
+
+- [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
 
 - [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
 
