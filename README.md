@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 07:22 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 07:32 UTC.</div>
 
 
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
@@ -325,9 +325,4 @@
 ## integrations/terraform-provider-github <span style='color:#F1C40F'>(697 ⭐️)</span>
 
 - [[BUG] Unable to add github_repository_collaborators.](https://github.com/integrations/terraform-provider-github/issues/1658)
-
-
-## devtron-labs/devtron <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Feature: Rotate pods option in Deployment pipeline](https://github.com/devtron-labs/devtron/issues/3276)
 
