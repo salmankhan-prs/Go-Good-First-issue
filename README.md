@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 01:02 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 01:12 UTC.</div>
 
 
 ## MasonCompetitiveCyber/vindicta <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -141,8 +141,6 @@
 - [[Bug]: Contacts folders shown in restore details results](https://github.com/alcionai/corso/issues/3281)
 
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-- [Add parent path information to malware detected items](https://github.com/alcionai/corso/issues/3112)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
