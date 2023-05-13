@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 12:32 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 12:42 UTC.</div>
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+
+## traPtitech/knoQ <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [出席を反映するBOTの作成](https://github.com/traPtitech/knoQ/issues/377)
 
 
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
@@ -30,15 +44,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
