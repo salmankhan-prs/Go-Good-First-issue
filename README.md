@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 12, 2023 23:52 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 00:02 UTC.</div>
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -97,6 +97,13 @@
 - [Add missing test coverage for azuremachinetemplate_webhook.go](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/3429)
 
 
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
@@ -145,13 +152,6 @@
 - [Feature: Add custom filepath to monitor for FsNotify](https://github.com/MasonCompetitiveCyber/vindicta/issues/2)
 
 - [Update: Change loops and use Functions from Nftables package ](https://github.com/MasonCompetitiveCyber/vindicta/issues/3)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
