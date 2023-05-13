@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 22:12 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 22:22 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
@@ -323,11 +323,4 @@
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(107 ⭐️)</span>
-
-- [[Bug]: Contacts folders shown in restore details results](https://github.com/alcionai/corso/issues/3281)
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
