@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 00:32 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 00:42 UTC.</div>
+
+
+## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(266 ⭐️)</span>
+
+- [only perform contract code check if non-hardcoded address is used](https://github.com/AthanorLabs/atomic-swap/issues/416)
+
+- [enable/disable rpc namespaces](https://github.com/AthanorLabs/atomic-swap/issues/384)
 
 
 ## dose-na-nuvem/customers <span style='color:#F1C40F'>(4 ⭐️)</span>
