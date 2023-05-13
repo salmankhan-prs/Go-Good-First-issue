@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 01:52 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 02:02 UTC.</div>
 
 
 ## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
@@ -336,9 +336,4 @@
 - [Introduce `prompts` concept](https://github.com/tmc/langchaingo/issues/31)
 
 - [Add doc.go files to every package.](https://github.com/tmc/langchaingo/issues/5)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
 
