@@ -4,10 +4,10 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 08:52 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 09:02 UTC.</div>
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.5K ⭐️)</span>
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
@@ -23,7 +23,7 @@
 - [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.7K ⭐️)</span>
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
 
 - [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
 
@@ -99,6 +99,11 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -326,9 +331,4 @@
 - [Configurability for IP cooldown period](https://github.com/aws/amazon-vpc-cni-k8s/issues/2378)
 
 - [IP Deallocation delay when multiple enis attached to host](https://github.com/aws/amazon-vpc-cni-k8s/issues/2363)
-
-
-## openfga/openfga <span style='color:#F1C40F'>(981 ⭐️)</span>
-
-- [change usages of karlseguin/ccache to use generics instead of type-assertions](https://github.com/openfga/openfga/issues/736)
 
