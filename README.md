@@ -4,17 +4,34 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 15:52 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 16:02 UTC.</div>
 
 
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
 
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
@@ -142,23 +159,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
