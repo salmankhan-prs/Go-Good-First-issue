@@ -4,16 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 03:52 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 04:02 UTC.</div>
 
 
 ## MasonCompetitiveCyber/vindicta <span style='color:#F1C40F'>(2 ⭐️)</span>
 
+- [Update: Change loops and use Functions from Nftables package ](https://github.com/MasonCompetitiveCyber/vindicta/issues/3)
+
 - [Feature: Detect more network connections](https://github.com/MasonCompetitiveCyber/vindicta/issues/5)
 
 - [Feature: Add custom filepath to monitor for FsNotify](https://github.com/MasonCompetitiveCyber/vindicta/issues/2)
-
-- [Update: Change loops and use Functions from Nftables package ](https://github.com/MasonCompetitiveCyber/vindicta/issues/3)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.0K ⭐️)</span>
