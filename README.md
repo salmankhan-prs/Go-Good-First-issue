@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 03:32 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 03:42 UTC.</div>
 
 
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
@@ -161,6 +161,13 @@
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
+
+- [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
+
+
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(318 ⭐️)</span>
 
 - [Add Image description to the container images](https://github.com/parca-dev/parca-agent/issues/1633)
@@ -183,6 +190,13 @@
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
 
 - [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
+
+
+## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
+
+- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
 
 
 ## kubernetes-sigs/kubectl-validate <span style='color:#F1C40F'>(8 ⭐️)</span>
@@ -239,6 +253,13 @@
 ## kubernetes-sigs/aws-load-balancer-controller <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [Incorrect apiVersion for CertManager Issuer/Certificate ](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/3188)
+
+
+## ray-project/kuberay <span style='color:#F1C40F'>(338 ⭐️)</span>
+
+- [Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
+
+- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
 
 
 ## ray-project/kuberay <span style='color:#F1C40F'>(338 ⭐️)</span>
@@ -324,20 +345,4 @@
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
-
-- [Implement the `controllerClass` on `VaultDynamicSecret` resources](https://github.com/external-secrets/external-secrets/issues/2224)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
-
-
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(535 ⭐️)</span>
-
-- [Helm Chart: Missing quotes around cron expressions](https://github.com/aquasecurity/trivy-operator/issues/1190)
 
