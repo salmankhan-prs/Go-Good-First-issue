@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 08:42 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 08:52 UTC.</div>
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(514 ⭐️)</span>
@@ -31,15 +40,6 @@
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
@@ -72,6 +72,11 @@
 ## kserve/modelmesh-serving <span style='color:#F1C40F'>(135 ⭐️)</span>
 
 - [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.4K ⭐️)</span>
@@ -113,11 +118,6 @@
 - [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
 
 - [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## MasonCompetitiveCyber/vindicta <span style='color:#F1C40F'>(2 ⭐️)</span>
