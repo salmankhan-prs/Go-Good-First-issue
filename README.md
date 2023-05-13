@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 16:42 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 16:52 UTC.</div>
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -364,9 +364,4 @@
 - [GitHub downloader subject to rate limits](https://github.com/kubernetes-sigs/kubectl-validate/issues/17)
 
 - [recursive schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/18)
-
-
-## pouriyajamshidi/tcping <span style='color:#F1C40F'>(128 ⭐️)</span>
-
-- [add `-c` flag to stop after n probes](https://github.com/pouriyajamshidi/tcping/issues/72)
 
