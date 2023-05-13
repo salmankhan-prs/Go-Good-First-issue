@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 18:22 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 18:32 UTC.</div>
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
+
+- [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
@@ -52,15 +68,6 @@
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -114,13 +121,6 @@
 - [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
 
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
-
-
-## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
-
-- [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(700 ⭐️)</span>
@@ -345,23 +345,4 @@
 - [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
 
 - [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
-
-
-## kubernetes-sigs/kubectl-validate <span style='color:#F1C40F'>(8 ⭐️)</span>
-
-- [Usage with CI?](https://github.com/kubernetes-sigs/kubectl-validate/issues/23)
-
-- [Validate from stdin](https://github.com/kubernetes-sigs/kubectl-validate/issues/32)
-
-- [Debug Logging and Verbosity](https://github.com/kubernetes-sigs/kubectl-validate/issues/36)
-
-- [Usage with kpt](https://github.com/kubernetes-sigs/kubectl-validate/issues/24)
-
-- [terminal output gif in readme](https://github.com/kubernetes-sigs/kubectl-validate/issues/14)
-
-- [OpenAPI v2 schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/15)
-
-- [GitHub downloader subject to rate limits](https://github.com/kubernetes-sigs/kubectl-validate/issues/17)
-
-- [recursive schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/18)
 
