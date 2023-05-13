@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 05:32 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 05:42 UTC.</div>
 
 
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
