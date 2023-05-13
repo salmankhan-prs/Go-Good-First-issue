@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 13:22 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 13:32 UTC.</div>
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
@@ -380,9 +380,4 @@
 ## openfga/openfga <span style='color:#F1C40F'>(981 ⭐️)</span>
 
 - [change usages of karlseguin/ccache to use generics instead of type-assertions](https://github.com/openfga/openfga/issues/736)
-
-
-## tigera/operator <span style='color:#F1C40F'>(128 ⭐️)</span>
-
-- [Typha autoscaler should exclude Fargate Nodes in node count](https://github.com/tigera/operator/issues/2592)
 
