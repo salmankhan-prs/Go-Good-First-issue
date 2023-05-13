@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 11:32 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 11:42 UTC.</div>
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(700 ⭐️)</span>
@@ -323,9 +323,4 @@
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(128 ⭐️)</span>
 
 - [add `-c` flag to stop after n probes](https://github.com/pouriyajamshidi/tcping/issues/72)
-
-
-## guacsec/guac <span style='color:#F1C40F'>(821 ⭐️)</span>
-
-- [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
 
