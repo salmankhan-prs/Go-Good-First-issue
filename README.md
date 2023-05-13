@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 20:12 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 20:22 UTC.</div>
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(2.5K ⭐️)</span>
@@ -50,6 +50,13 @@
 - [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
 
 - [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
@@ -214,13 +221,6 @@
 - [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.0K ⭐️)</span>
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-
 ## kserve/modelmesh-serving <span style='color:#F1C40F'>(135 ⭐️)</span>
 
 - [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
@@ -338,11 +338,4 @@
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(318 ⭐️)</span>
 
 - [Add Image description to the container images](https://github.com/parca-dev/parca-agent/issues/1633)
-
-
-## cosmos/interchain-security <span style='color:#F1C40F'>(108 ⭐️)</span>
-
-- [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
-
-- [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
 
