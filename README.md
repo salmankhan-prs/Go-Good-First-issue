@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 10:32 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 10:42 UTC.</div>
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
@@ -321,9 +321,4 @@
 ## guacsec/guac <span style='color:#F1C40F'>(821 ⭐️)</span>
 
 - [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
-
-
-## kubernetes-sigs/aws-load-balancer-controller <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [Incorrect apiVersion for CertManager Issuer/Certificate ](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/3188)
 
