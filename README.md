@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 21:22 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 21:32 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
@@ -328,9 +328,4 @@
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
