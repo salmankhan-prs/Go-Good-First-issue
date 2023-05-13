@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 13, 2023 16:52 UTC.</div>
+<div align='center'>Last updated at May 13, 2023 17:02 UTC.</div>
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -51,6 +51,11 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
 ## traPtitech/knoQ <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -223,11 +228,6 @@
 - [Feature: Detect more network connections](https://github.com/MasonCompetitiveCyber/vindicta/issues/5)
 
 - [Feature: Add custom filepath to monitor for FsNotify](https://github.com/MasonCompetitiveCyber/vindicta/issues/2)
-
-
-## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
 ## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(266 ⭐️)</span>
