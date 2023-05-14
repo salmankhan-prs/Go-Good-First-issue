@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 01:12 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 01:22 UTC.</div>
+
+
+## traPtitech/knoQ <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [gormのdebug用ログ](https://github.com/traPtitech/knoQ/issues/394)
+
+- [出席を反映するBOTの作成](https://github.com/traPtitech/knoQ/issues/377)
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(181 ⭐️)</span>
@@ -136,11 +143,6 @@
 - [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
 
 - [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
-
-
-## traPtitech/knoQ <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [出席を反映するBOTの作成](https://github.com/traPtitech/knoQ/issues/377)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
