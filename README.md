@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 22:02 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 22:12 UTC.</div>
+
+
+## roc-streaming/roc-go <span style='color:#F1C40F'>(15 ⭐️)</span>
+
+- [Add CI step that checks that gofmt was called](https://github.com/roc-streaming/roc-go/issues/86)
+
+- [Use time.Time for LogMessage.Time](https://github.com/roc-streaming/roc-go/issues/85)
+
+- [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
+
+- [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
