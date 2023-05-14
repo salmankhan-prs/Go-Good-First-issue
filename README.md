@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 01:52 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 02:02 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
@@ -24,7 +24,7 @@
 - [出席を反映するBOTの作成](https://github.com/traPtitech/knoQ/issues/377)
 
 
-## tmc/langchaingo <span style='color:#F1C40F'>(182 ⭐️)</span>
+## tmc/langchaingo <span style='color:#F1C40F'>(183 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
 
