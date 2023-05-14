@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 22:42 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 22:52 UTC.</div>
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## dose-na-nuvem/customers <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -35,15 +44,6 @@
 ## celestiaorg/celestia-core <span style='color:#F1C40F'>(298 ⭐️)</span>
 
 - [fix lint issues](https://github.com/celestiaorg/celestia-core/issues/1000)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
