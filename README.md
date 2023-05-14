@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 03:42 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 03:52 UTC.</div>
 
 
 ## shieldworks/aegis <span style='color:#F1C40F'>(24 ⭐️)</span>
@@ -47,7 +47,7 @@
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
