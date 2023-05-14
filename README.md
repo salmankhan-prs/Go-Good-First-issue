@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 02:52 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 03:02 UTC.</div>
+
+
+## scriptnull/waymond <span style='color:#F1C40F'>(10 ⭐️)</span>
+
+- [site: add syntax highlighting support for toml snippets](https://github.com/scriptnull/waymond/issues/18)
+
+- [config: validate if config is a DAG](https://github.com/scriptnull/waymond/issues/15)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
