@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 12:22 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 12:32 UTC.</div>
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -26,11 +31,6 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
