@@ -4,19 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 13:52 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 14:02 UTC.</div>
 
 
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(129 ⭐️)</span>
 
 - [add `-c` flag to stop after n probes](https://github.com/pouriyajamshidi/tcping/issues/72)
-
-
-## MasonCompetitiveCyber/vindicta <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [Update: Change loops and use Functions from Nftables package ](https://github.com/MasonCompetitiveCyber/vindicta/issues/3)
-
-- [Feature: Detect more network connections](https://github.com/MasonCompetitiveCyber/vindicta/issues/5)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
