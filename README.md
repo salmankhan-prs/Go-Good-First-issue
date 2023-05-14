@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 22:12 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 22:22 UTC.</div>
+
+
+## dose-na-nuvem/customers <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Adicionar dependabot](https://github.com/dose-na-nuvem/customers/issues/11)
+
+- [Configuração a partir de arquivo, flags e variáveis de ambiente](https://github.com/dose-na-nuvem/customers/issues/8)
+
+- [Ajustar os avisos dos linters](https://github.com/dose-na-nuvem/customers/issues/7)
 
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(15 ⭐️)</span>
