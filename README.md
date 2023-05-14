@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 09:32 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 09:42 UTC.</div>
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -14,6 +14,11 @@
 - [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
 
 - [Feature: GUI - Version upgrade changes](https://github.com/memphisdev/memphis/issues/905)
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+
+- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(2.6K ⭐️)</span>
