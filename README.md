@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 05:42 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 05:52 UTC.</div>
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.0K ⭐️)</span>
@@ -199,7 +199,7 @@
 - [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
 
 
-## NethermindEth/juno <span style='color:#F1C40F'>(171 ⭐️)</span>
+## NethermindEth/juno <span style='color:#F1C40F'>(170 ⭐️)</span>
 
 - [Make block hash calculation compatible with 0.11.1](https://github.com/NethermindEth/juno/issues/757)
 
