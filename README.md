@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 15:12 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 15:22 UTC.</div>
+
+
+## tmc/langchaingo <span style='color:#F1C40F'>(183 ⭐️)</span>
+
+- [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
+
+- [Introduce `prompts` concept](https://github.com/tmc/langchaingo/issues/31)
+
+- [Add doc.go files to every package.](https://github.com/tmc/langchaingo/issues/5)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
