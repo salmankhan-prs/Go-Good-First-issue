@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 09:22 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 09:32 UTC.</div>
+
+
+## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
+
+- [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
+
+- [Feature: GUI - Version upgrade changes](https://github.com/memphisdev/memphis/issues/905)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -76,6 +85,11 @@
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
@@ -138,15 +152,6 @@
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-
-## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
-
-- [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
-
-- [Feature: GUI - Version upgrade changes](https://github.com/memphisdev/memphis/issues/905)
 
 
 ## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
