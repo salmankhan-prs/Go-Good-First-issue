@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 00:22 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 00:32 UTC.</div>
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(180 ⭐️)</span>
@@ -301,8 +301,6 @@
 - [Enforcing Function Header Comment Hygiene](https://github.com/base-org/pessimism/issues/40)
 
 - [No Unit Tests for Pipeline & ETL Manager Logic](https://github.com/base-org/pessimism/issues/33)
-
-- [Verify config validity during Oracle construction](https://github.com/base-org/pessimism/issues/21)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(75 ⭐️)</span>
