@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 15:02 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 15:12 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
@@ -132,6 +132,13 @@
 - [Enforcing Function Header Comment Hygiene](https://github.com/base-org/pessimism/issues/40)
 
 - [No Unit Tests for Pipeline & ETL Manager Logic](https://github.com/base-org/pessimism/issues/33)
+
+
+## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
+
+- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
@@ -349,13 +356,4 @@
 - [site: add syntax highlighting support for toml snippets](https://github.com/scriptnull/waymond/issues/18)
 
 - [config: validate if config is a DAG](https://github.com/scriptnull/waymond/issues/15)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
