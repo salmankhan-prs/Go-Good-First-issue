@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 21:42 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 21:52 UTC.</div>
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -332,9 +332,4 @@
 - [Support Tencent Cloud Object Storage](https://github.com/tailwarden/komiser/issues/758)
 
 - [Support Tencent Kubernetes Engine](https://github.com/tailwarden/komiser/issues/757)
-
-
-## traPtitech/traPortfolio <span style='color:#F1C40F'>(3 ⭐️)</span>
-
-- [dbコンテナのhealthcheckのタイミングがずれてる](https://github.com/traPtitech/traPortfolio/issues/514)
 
