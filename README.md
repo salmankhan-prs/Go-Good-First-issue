@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 14:32 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 14:42 UTC.</div>
 
 
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
@@ -90,6 +90,11 @@
 - [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
 
 - [Incorrect message displayed in CLI after new user signs up](https://github.com/PuremlHQ/PureML/issues/216)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## cue-lang/cue <span style='color:#F1C40F'>(3.8K ⭐️)</span>
@@ -203,14 +208,62 @@
 - [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
 
 
+## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [Support Tencent Peering Connections](https://github.com/tailwarden/komiser/issues/796)
+
+- [Support Tencent Flow Logs](https://github.com/tailwarden/komiser/issues/795)
+
+- [Support Tencent Secure Content Delivery Network](https://github.com/tailwarden/komiser/issues/794)
+
+- [Support Tencent Enterprise Content Delivery Network](https://github.com/tailwarden/komiser/issues/793)
+
+- [[TECH-1200] Calculate cost for GCP Functions](https://github.com/tailwarden/komiser/issues/781)
+
+- [[TECH-1199] Calculate cost for GCP BigQuery Tables](https://github.com/tailwarden/komiser/issues/784)
+
+- [Support Tencent Content Delivery Network](https://github.com/tailwarden/komiser/issues/764)
+
+- [Calculate cost for GCP Certificates](https://github.com/tailwarden/komiser/issues/783)
+
+- [Calculate cost for GCP Container cluster](https://github.com/tailwarden/komiser/issues/782)
+
+- [Calculate cost for GCP Gateways](https://github.com/tailwarden/komiser/issues/780)
+
+- [Calculate cost for GCP KMS Keys](https://github.com/tailwarden/komiser/issues/779)
+
+- [Calculate cost for GCP Redis instances](https://github.com/tailwarden/komiser/issues/778)
+
+- [Calculate cost for GCP SQL Instances](https://github.com/tailwarden/komiser/issues/777)
+
+- [Support Tencent Serverless Cloud Function](https://github.com/tailwarden/komiser/issues/769)
+
+- [Support TencentDB for PostgreSQL](https://github.com/tailwarden/komiser/issues/768)
+
+- [Support TencentDB for MongoDB](https://github.com/tailwarden/komiser/issues/767)
+
+- [Support TencentDB for Redis](https://github.com/tailwarden/komiser/issues/766)
+
+- [Support TencentDB for MySQL](https://github.com/tailwarden/komiser/issues/765)
+
+- [Support Tencent NAT Gateway](https://github.com/tailwarden/komiser/issues/763)
+
+- [Support Tencent Virtual Private Cloud](https://github.com/tailwarden/komiser/issues/762)
+
+- [Support Tencent Cloud Load Balancer](https://github.com/tailwarden/komiser/issues/761)
+
+- [Support Tencent Cloud File Storage](https://github.com/tailwarden/komiser/issues/760)
+
+- [Support Tencent Cloud Block Storage](https://github.com/tailwarden/komiser/issues/759)
+
+- [Support Tencent Cloud Object Storage](https://github.com/tailwarden/komiser/issues/758)
+
+- [Support Tencent Kubernetes Engine](https://github.com/tailwarden/komiser/issues/757)
+
+
 ## traPtitech/traPortfolio <span style='color:#F1C40F'>(3 ⭐️)</span>
 
 - [dbコンテナのhealthcheckのタイミングがずれてる](https://github.com/traPtitech/traPortfolio/issues/514)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
@@ -312,13 +365,4 @@
 - [gormのdebug用ログ](https://github.com/traPtitech/knoQ/issues/394)
 
 - [出席を反映するBOTの作成](https://github.com/traPtitech/knoQ/issues/377)
-
-
-## tmc/langchaingo <span style='color:#F1C40F'>(183 ⭐️)</span>
-
-- [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
-
-- [Introduce `prompts` concept](https://github.com/tmc/langchaingo/issues/31)
-
-- [Add doc.go files to every package.](https://github.com/tmc/langchaingo/issues/5)
 
