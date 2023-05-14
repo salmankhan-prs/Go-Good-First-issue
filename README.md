@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 11:22 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 11:32 UTC.</div>
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
@@ -332,4 +332,59 @@
 - [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
 
 - [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
+
+
+## roc-streaming/roc-go <span style='color:#F1C40F'>(15 ⭐️)</span>
+
+- [Add CI step that checks that gofmt was called](https://github.com/roc-streaming/roc-go/issues/86)
+
+- [Use time.Time for LogMessage.Time](https://github.com/roc-streaming/roc-go/issues/85)
+
+- [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
+
+- [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(700 ⭐️)</span>
+
+- [(feature) Ability to skip logging health end-points](https://github.com/thomaspoignant/go-feature-flag/issues/781)
+
+- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
+
+- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
+
+- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
+
+
+## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
+
+- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
+
+
+## kserve/modelmesh-serving <span style='color:#F1C40F'>(135 ⭐️)</span>
+
+- [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
+
+
+## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(265 ⭐️)</span>
+
+- [only perform contract code check if non-hardcoded address is used](https://github.com/AthanorLabs/atomic-swap/issues/416)
+
+- [enable/disable rpc namespaces](https://github.com/AthanorLabs/atomic-swap/issues/384)
 
