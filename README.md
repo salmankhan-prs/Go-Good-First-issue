@@ -4,10 +4,10 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 16:22 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 16:32 UTC.</div>
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.7K ⭐️)</span>
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
@@ -19,6 +19,11 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
+
+- [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(183 ⭐️)</span>
@@ -92,11 +97,6 @@
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(129 ⭐️)</span>
 
 - [add `-c` flag to stop after n probes](https://github.com/pouriyajamshidi/tcping/issues/72)
-
-
-## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
-
-- [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
