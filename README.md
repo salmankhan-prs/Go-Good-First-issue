@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 01:32 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 01:42 UTC.</div>
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -19,7 +19,7 @@
 - [出席を反映するBOTの作成](https://github.com/traPtitech/knoQ/issues/377)
 
 
-## tmc/langchaingo <span style='color:#F1C40F'>(181 ⭐️)</span>
+## tmc/langchaingo <span style='color:#F1C40F'>(182 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
 
@@ -143,6 +143,11 @@
 - [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
 
 - [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
