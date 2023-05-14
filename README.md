@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 00:12 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 00:22 UTC.</div>
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(180 ⭐️)</span>
@@ -303,8 +303,6 @@
 - [No Unit Tests for Pipeline & ETL Manager Logic](https://github.com/base-org/pessimism/issues/33)
 
 - [Verify config validity during Oracle construction](https://github.com/base-org/pessimism/issues/21)
-
-- [Introduce optional Retry-able EthClient ](https://github.com/base-org/pessimism/issues/20)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(75 ⭐️)</span>
