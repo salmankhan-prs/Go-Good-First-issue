@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 19:02 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 19:12 UTC.</div>
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(183 ⭐️)</span>
@@ -340,13 +340,4 @@
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
-
-- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
-
-- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
 
