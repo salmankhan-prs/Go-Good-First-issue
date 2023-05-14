@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 23:22 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 23:32 UTC.</div>
+
+
+## shieldworks/aegis <span style='color:#F1C40F'>(24 ⭐️)</span>
+
+- [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
+
+- [dynamically incraese the channel sizes](https://github.com/shieldworks/aegis/issues/263)
+
+- [when adding a new secret, the transformation applies to all the secrets instead of the just newly-added secret; it should not.](https://github.com/shieldworks/aegis/issues/282)
+
+- [Some of the `Lock`s we use can indeed be `RLock`s; go over the code and change them for an easy performance gain.](https://github.com/shieldworks/aegis/issues/260)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(2.8K ⭐️)</span>
@@ -390,17 +401,6 @@
 ## juanfont/headscale <span style='color:#F1C40F'>(13.1K ⭐️)</span>
 
 - [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
-
-
-## shieldworks/aegis <span style='color:#F1C40F'>(24 ⭐️)</span>
-
-- [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
-
-- [dynamically incraese the channel sizes](https://github.com/shieldworks/aegis/issues/263)
-
-- [when adding a new secret, the transformation applies to all the secrets instead of the just newly-added secret; it should not.](https://github.com/shieldworks/aegis/issues/282)
-
-- [Some of the `Lock`s we use can indeed be `RLock`s; go over the code and change them for an easy performance gain.](https://github.com/shieldworks/aegis/issues/260)
 
 
 ## scriptnull/waymond <span style='color:#F1C40F'>(10 ⭐️)</span>
