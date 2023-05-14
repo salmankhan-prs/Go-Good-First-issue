@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 06:52 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 07:02 UTC.</div>
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [question: Support for gke-gcloud-auth-plugin in k8sgpt docker image](https://github.com/k8sgpt-ai/k8sgpt/issues/275)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
@@ -107,6 +122,15 @@
 - [gormのdebug用ログ](https://github.com/traPtitech/knoQ/issues/394)
 
 - [出席を反映するBOTの作成](https://github.com/traPtitech/knoQ/issues/377)
+
+
+## tmc/langchaingo <span style='color:#F1C40F'>(183 ⭐️)</span>
+
+- [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
+
+- [Introduce `prompts` concept](https://github.com/tmc/langchaingo/issues/31)
+
+- [Add doc.go files to every package.](https://github.com/tmc/langchaingo/issues/5)
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(183 ⭐️)</span>
@@ -300,69 +324,4 @@
 - [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
 
 - [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.6K ⭐️)</span>
-
-- [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
-
-
-## kserve/modelmesh-serving <span style='color:#F1C40F'>(135 ⭐️)</span>
-
-- [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
-
-
-## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(265 ⭐️)</span>
-
-- [only perform contract code check if non-hardcoded address is used](https://github.com/AthanorLabs/atomic-swap/issues/416)
-
-- [enable/disable rpc namespaces](https://github.com/AthanorLabs/atomic-swap/issues/384)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
-
-- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
-
-- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
-
-
-## MasonCompetitiveCyber/vindicta <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [Update: Change loops and use Functions from Nftables package ](https://github.com/MasonCompetitiveCyber/vindicta/issues/3)
-
-- [Feature: Detect more network connections](https://github.com/MasonCompetitiveCyber/vindicta/issues/5)
-
-- [Feature: Add custom filepath to monitor for FsNotify](https://github.com/MasonCompetitiveCyber/vindicta/issues/2)
-
-
-## dose-na-nuvem/customers <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Adicionar scanners de vulnerabilidade](https://github.com/dose-na-nuvem/customers/issues/12)
-
-- [Adicionar dependabot](https://github.com/dose-na-nuvem/customers/issues/11)
-
-- [Configuração a partir de arquivo, flags e variáveis de ambiente](https://github.com/dose-na-nuvem/customers/issues/8)
-
-- [Ajustar os avisos dos linters](https://github.com/dose-na-nuvem/customers/issues/7)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(339 ⭐️)</span>
-
-- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
-
-- [Support percentage values in CPU/memory limit flags](https://github.com/bacalhau-project/bacalhau/issues/2367)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
-
-- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
-
-
-## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
