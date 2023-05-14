@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 00:42 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 00:52 UTC.</div>
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(180 ⭐️)</span>
@@ -19,6 +19,11 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.5K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
+
+- [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(2.5K ⭐️)</span>
@@ -174,21 +179,20 @@
 - [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
 
 
+## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
+
+- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
+
+- [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(700 ⭐️)</span>
 
 - [(feature) Ability to skip logging health end-points](https://github.com/thomaspoignant/go-feature-flag/issues/781)
 
 - [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.4K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.3K ⭐️)</span>
@@ -323,9 +327,4 @@
 ## apache/trafficcontrol <span style='color:#F1C40F'>(896 ⭐️)</span>
 
 - [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(602 ⭐️)</span>
-
-- [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
 
