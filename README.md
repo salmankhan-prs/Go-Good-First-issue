@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 15:32 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 15:42 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(183 ⭐️)</span>
@@ -14,11 +28,6 @@
 - [Introduce `prompts` concept](https://github.com/tmc/langchaingo/issues/31)
 
 - [Add doc.go files to every package.](https://github.com/tmc/langchaingo/issues/5)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
@@ -61,15 +70,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(129 ⭐️)</span>
