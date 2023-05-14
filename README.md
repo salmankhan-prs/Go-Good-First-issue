@@ -4,12 +4,24 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 19:52 UTC.</div>
+<div align='center'>Last updated at May 14, 2023 20:02 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -85,11 +97,6 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
@@ -183,6 +190,15 @@
 - [Incorrect message displayed in CLI after new user signs up](https://github.com/PuremlHQ/PureML/issues/216)
 
 
+## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
+
+- [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
+
+- [Feature: GUI - Version upgrade changes](https://github.com/memphisdev/memphis/issues/905)
+
+
 ## cue-lang/cue <span style='color:#F1C40F'>(3.8K ⭐️)</span>
 
 - [alpha.cuelang.org: upstream internal/parse](https://github.com/cue-lang/cue/issues/2387)
@@ -192,15 +208,6 @@
 - [alpha.cuelang.org: search engines should not index playground examples](https://github.com/cue-lang/cue/issues/2349)
 
 - [cuelang.org: "Create Documentation Issue" link broken](https://github.com/cue-lang/cue/issues/2364)
-
-
-## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
-
-- [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
-
-- [Feature: GUI - Version upgrade changes](https://github.com/memphisdev/memphis/issues/905)
 
 
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
