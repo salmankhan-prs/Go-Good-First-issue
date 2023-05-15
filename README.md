@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 06:12 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 06:22 UTC.</div>
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
@@ -131,11 +145,6 @@
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
 
 
-## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
 ## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
 
 - [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
@@ -177,15 +186,6 @@
 - [Introduce `prompts` concept](https://github.com/tmc/langchaingo/issues/31)
 
 - [Add doc.go files to every package.](https://github.com/tmc/langchaingo/issues/5)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## dose-na-nuvem/customers <span style='color:#F1C40F'>(5 ⭐️)</span>
@@ -377,11 +377,4 @@
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
-## ray-project/kuberay <span style='color:#F1C40F'>(340 ⭐️)</span>
-
-- [Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
-
-- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
 
