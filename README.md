@@ -4,7 +4,42 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 19:12 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 19:22 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(173 ⭐️)</span>
+
+- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
+
+- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
+
+- [Use unique error codes for `x/qgb` module](https://github.com/celestiaorg/celestia-app/issues/1669)
+
+- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
+
+- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -19,6 +54,11 @@
 ## openfga/openfga <span style='color:#F1C40F'>(985 ⭐️)</span>
 
 - [change usages of karlseguin/ccache to use generics instead of type-assertions](https://github.com/openfga/openfga/issues/736)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
 ## base-org/pessimism <span style='color:#F1C40F'>(514 ⭐️)</span>
@@ -54,6 +94,15 @@
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
@@ -62,11 +111,6 @@
 ## integrations/terraform-provider-github <span style='color:#F1C40F'>(698 ⭐️)</span>
 
 - [[BUG] Unable to add github_repository_collaborators.](https://github.com/integrations/terraform-provider-github/issues/1658)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -87,28 +131,6 @@
 ## kubernetes-sigs/network-policy-api <span style='color:#F1C40F'>(22 ⭐️)</span>
 
 - [Add a Script linter to our CI workflow](https://github.com/kubernetes-sigs/network-policy-api/issues/94)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
 ## rollkit/rollkit <span style='color:#F1C40F'>(207 ⭐️)</span>
@@ -301,22 +323,4 @@
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [Split `fetching` package constants to distinct types](https://github.com/elastic/cloudbeat/issues/867)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(173 ⭐️)</span>
-
-- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
-
-- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
-
-- [Use unique error codes for `x/qgb` module](https://github.com/celestiaorg/celestia-app/issues/1669)
-
-- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
-
-- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(703 ⭐️)</span>
-
-- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
 
