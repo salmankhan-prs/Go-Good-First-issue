@@ -4,12 +4,36 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 11:52 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 12:02 UTC.</div>
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+
+
+## dose-na-nuvem/customers <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Adicionar dependabot](https://github.com/dose-na-nuvem/customers/issues/11)
+
+- [Configuração a partir de arquivo, flags e variáveis de ambiente](https://github.com/dose-na-nuvem/customers/issues/8)
+
+- [Ajustar os avisos dos linters](https://github.com/dose-na-nuvem/customers/issues/7)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
@@ -63,11 +87,6 @@
 - [Support Tencent Cloud Object Storage](https://github.com/tailwarden/komiser/issues/758)
 
 - [Support Tencent Kubernetes Engine](https://github.com/tailwarden/komiser/issues/757)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(173 ⭐️)</span>
@@ -163,6 +182,21 @@
 - [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
 
 
+## keploy/keploy <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [[bug]: Inconsistent Coverage Percentage Displayed in Console Output and Statement](https://github.com/keploy/keploy/issues/558)
+
+- [[bug]: Multiple footer ](https://github.com/keploy/keploy/issues/545)
+
+- [[docs]: Extra image is added which is not required.](https://github.com/keploy/keploy/issues/557)
+
+- [[feature]: There is lot of empty space is left at  the footer in the doc page ](https://github.com/keploy/keploy/issues/552)
+
+- [[bug]: Website Documentation Error](https://github.com/keploy/keploy/issues/551)
+
+- [[bug]: Wide Footer Padding on main page and Multiple Footer on GSoC Page ](https://github.com/keploy/keploy/issues/549)
+
+
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
@@ -171,11 +205,6 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
@@ -282,26 +311,4 @@
 - [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
 
 - [bug: OpenSearchErrorHandler - 400](https://github.com/fluent/fluent-operator/issues/702)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
-## Jguer/yay <span style='color:#F1C40F'>(9.2K ⭐️)</span>
-
-- [Mutual blocking of processes](https://github.com/Jguer/yay/issues/2123)
 
