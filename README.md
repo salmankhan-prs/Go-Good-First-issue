@@ -4,7 +4,34 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 17:52 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 18:02 UTC.</div>
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
+
+
+## rollkit/rollkit <span style='color:#F1C40F'>(207 ⭐️)</span>
+
+- [Update Readme to explain Makefile](https://github.com/rollkit/rollkit/issues/921)
 
 
 ## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
@@ -132,23 +159,6 @@
 - [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
@@ -180,6 +190,19 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
+
+- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
+
+- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
 
 
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -266,11 +289,6 @@
 - [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
 
 
-## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
-
-- [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
-
-
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
 
 - [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
@@ -337,14 +355,4 @@
 - [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
 
 - [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
-
-
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
-
-
-## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
 
