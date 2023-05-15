@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 22:52 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 23:02 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
@@ -25,11 +30,6 @@
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## rancher/opni <span style='color:#F1C40F'>(256 ⭐️)</span>
@@ -426,9 +426,4 @@
 ## googleapis/api-linter <span style='color:#F1C40F'>(463 ⭐️)</span>
 
 - [AIP-213: disallow cross-API dependencies](https://github.com/googleapis/api-linter/issues/1153)
-
-
-## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
 
