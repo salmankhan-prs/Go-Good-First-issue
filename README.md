@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 05:12 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 05:22 UTC.</div>
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(701 ⭐️)</span>
@@ -12,6 +12,11 @@
 - [(feature) Ability to skip logging health end-points](https://github.com/thomaspoignant/go-feature-flag/issues/781)
 
 - [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
+
+
+## cometbft/cometbft <span style='color:#F1C40F'>(268 ⭐️)</span>
+
+- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
