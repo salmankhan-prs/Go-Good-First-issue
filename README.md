@@ -4,17 +4,25 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 15:02 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 15:12 UTC.</div>
 
 
-## weaveworks/tf-controller <span style='color:#F1C40F'>(773 ⭐️)</span>
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
-- [Add labels and annotations to outputted secrets](https://github.com/weaveworks/tf-controller/issues/593)
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
+
+- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+## kubeshop/tracetest <span style='color:#F1C40F'>(542 ⭐️)</span>
 
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
+
+- [update 'Help and resources' menu](https://github.com/kubeshop/tracetest/issues/2419)
 
 
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -25,6 +33,16 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## weaveworks/tf-controller <span style='color:#F1C40F'>(773 ⭐️)</span>
+
+- [Add labels and annotations to outputted secrets](https://github.com/weaveworks/tf-controller/issues/593)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(603 ⭐️)</span>
@@ -38,6 +56,8 @@
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
 
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
@@ -276,17 +296,6 @@
 - [Helm Chart: Missing quotes around cron expressions](https://github.com/aquasecurity/trivy-operator/issues/1190)
 
 
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
-
-- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
-
-- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
-
-- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
-
-
 ## PuremlHQ/PureML <span style='color:#F1C40F'>(170 ⭐️)</span>
 
 - [Adding function documentation for DAOs](https://github.com/PuremlHQ/PureML/issues/227)
@@ -352,57 +361,4 @@
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
-## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [Support Tencent Peering Connections](https://github.com/tailwarden/komiser/issues/796)
-
-- [Support Tencent Flow Logs](https://github.com/tailwarden/komiser/issues/795)
-
-- [Support Tencent Secure Content Delivery Network](https://github.com/tailwarden/komiser/issues/794)
-
-- [Support Tencent Enterprise Content Delivery Network](https://github.com/tailwarden/komiser/issues/793)
-
-- [[TECH-1200] Calculate cost for GCP Functions](https://github.com/tailwarden/komiser/issues/781)
-
-- [[TECH-1199] Calculate cost for GCP BigQuery Tables](https://github.com/tailwarden/komiser/issues/784)
-
-- [Support Tencent Content Delivery Network](https://github.com/tailwarden/komiser/issues/764)
-
-- [Calculate cost for GCP Certificates](https://github.com/tailwarden/komiser/issues/783)
-
-- [Calculate cost for GCP Container cluster](https://github.com/tailwarden/komiser/issues/782)
-
-- [Calculate cost for GCP Gateways](https://github.com/tailwarden/komiser/issues/780)
-
-- [Calculate cost for GCP KMS Keys](https://github.com/tailwarden/komiser/issues/779)
-
-- [Calculate cost for GCP Redis instances](https://github.com/tailwarden/komiser/issues/778)
-
-- [Calculate cost for GCP SQL Instances](https://github.com/tailwarden/komiser/issues/777)
-
-- [Support Tencent Serverless Cloud Function](https://github.com/tailwarden/komiser/issues/769)
-
-- [Support TencentDB for PostgreSQL](https://github.com/tailwarden/komiser/issues/768)
-
-- [Support TencentDB for MongoDB](https://github.com/tailwarden/komiser/issues/767)
-
-- [Support TencentDB for Redis](https://github.com/tailwarden/komiser/issues/766)
-
-- [Support TencentDB for MySQL](https://github.com/tailwarden/komiser/issues/765)
-
-- [Support Tencent NAT Gateway](https://github.com/tailwarden/komiser/issues/763)
-
-- [Support Tencent Virtual Private Cloud](https://github.com/tailwarden/komiser/issues/762)
-
-- [Support Tencent Cloud Load Balancer](https://github.com/tailwarden/komiser/issues/761)
-
-- [Support Tencent Cloud File Storage](https://github.com/tailwarden/komiser/issues/760)
-
-- [Support Tencent Cloud Block Storage](https://github.com/tailwarden/komiser/issues/759)
-
-- [Support Tencent Cloud Object Storage](https://github.com/tailwarden/komiser/issues/758)
-
-- [Support Tencent Kubernetes Engine](https://github.com/tailwarden/komiser/issues/757)
 
