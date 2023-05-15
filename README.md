@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 00:42 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 00:52 UTC.</div>
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(184 ⭐️)</span>
@@ -55,7 +55,7 @@
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
-## dose-na-nuvem/customers <span style='color:#F1C40F'>(4 ⭐️)</span>
+## dose-na-nuvem/customers <span style='color:#F1C40F'>(5 ⭐️)</span>
 
 - [Adicionar dependabot](https://github.com/dose-na-nuvem/customers/issues/11)
 
