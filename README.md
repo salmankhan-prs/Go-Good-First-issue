@@ -4,12 +4,36 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 05:02 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 05:12 UTC.</div>
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(701 ⭐️)</span>
+
+- [(feature) Ability to skip logging health end-points](https://github.com/thomaspoignant/go-feature-flag/issues/781)
+
+- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
@@ -252,23 +276,6 @@
 - [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
@@ -322,9 +329,4 @@
 - [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
 
 - [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
 
