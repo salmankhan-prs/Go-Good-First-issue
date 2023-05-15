@@ -4,7 +4,29 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 21:32 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 21:42 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -24,21 +46,9 @@
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
-## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
 ## guacsec/guac <span style='color:#F1C40F'>(823 ⭐️)</span>
 
 - [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
-
-- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(746 ⭐️)</span>
@@ -53,6 +63,15 @@
 - [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
 
 - [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
+
+- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -79,11 +98,6 @@
 - [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
 
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
@@ -127,11 +141,6 @@
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
 - [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
