@@ -4,7 +4,33 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 17:22 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 17:32 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
+
+- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
+## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
+
+- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
+
+- [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## openfga/openfga <span style='color:#F1C40F'>(985 ⭐️)</span>
@@ -17,23 +43,9 @@
 - [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
 
 
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
-
-- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
-
-
 ## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
 
 - [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -115,11 +127,6 @@
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
@@ -166,6 +173,13 @@
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
 
+## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(173 ⭐️)</span>
 
 - [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
@@ -191,6 +205,19 @@
 - [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
 
 - [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -313,21 +340,4 @@
 - [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
 
 - [OPA debug logs expose X-AMZ-SECURITY-TOKEN header](https://github.com/open-policy-agent/opa/issues/5848)
-
-
-## berops/claudie <span style='color:#F1C40F'>(234 ⭐️)</span>
-
-- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
-
-- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
-
-
-## parca-dev/parca-agent <span style='color:#F1C40F'>(320 ⭐️)</span>
-
-- [Add Image description to the container images](https://github.com/parca-dev/parca-agent/issues/1633)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
 
