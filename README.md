@@ -4,7 +4,29 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 20:22 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 20:32 UTC.</div>
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(603 ⭐️)</span>
+
+- [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+
+- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
+
+
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(746 ⭐️)</span>
+
+- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
+
+- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -80,6 +102,11 @@
 - [Add `fromBigEndianBytes` conversion function to `Number` types](https://github.com/onflow/cadence/issues/2448)
 
 
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+
+
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
@@ -112,11 +139,6 @@
 - [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
 
 - [update 'Help and resources' menu](https://github.com/kubeshop/tracetest/issues/2419)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -167,11 +189,6 @@
 - [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
 
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(603 ⭐️)</span>
-
-- [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
@@ -323,11 +340,6 @@
 - [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
 
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
 
 
 ## googleapis/api-linter <span style='color:#F1C40F'>(463 ⭐️)</span>
