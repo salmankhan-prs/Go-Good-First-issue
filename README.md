@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 23:02 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 23:12 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(107 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+- [[Bug]: Contacts folders shown in restore details results](https://github.com/alcionai/corso/issues/3281)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -32,6 +39,11 @@
 - [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
+
+
 ## rancher/opni <span style='color:#F1C40F'>(256 ⭐️)</span>
 
 - [Pin version of grafana for Monitoring](https://github.com/rancher/opni/issues/1357)
@@ -46,13 +58,6 @@
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(604 ⭐️)</span>
 
 - [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(107 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-- [[Bug]: Contacts folders shown in restore details results](https://github.com/alcionai/corso/issues/3281)
 
 
 ## integrations/terraform-provider-github <span style='color:#F1C40F'>(699 ⭐️)</span>
@@ -200,11 +205,6 @@
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
 
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
 ## provenance-io/provenance <span style='color:#F1C40F'>(74 ⭐️)</span>
@@ -421,9 +421,4 @@
 - [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
 
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
-## googleapis/api-linter <span style='color:#F1C40F'>(463 ⭐️)</span>
-
-- [AIP-213: disallow cross-API dependencies](https://github.com/googleapis/api-linter/issues/1153)
 
