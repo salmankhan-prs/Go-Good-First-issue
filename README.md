@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 22:22 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 22:32 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
@@ -21,6 +21,11 @@
 - [Panic encountered while watching data import progress:](https://github.com/rancher/opni/issues/1375)
 
 - [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(603 ⭐️)</span>
@@ -84,11 +89,6 @@
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 
-## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
 ## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
 
 - [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
@@ -134,6 +134,11 @@
 - [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
 
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
+## acorn-io/acorn <span style='color:#F1C40F'>(994 ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
