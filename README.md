@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 22:12 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 22:22 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## rancher/opni <span style='color:#F1C40F'>(256 ⭐️)</span>
+
+- [Pin version of grafana for Monitoring](https://github.com/rancher/opni/issues/1357)
+
+- [Allow editing roles](https://github.com/rancher/opni/issues/1327)
+
+- [Panic encountered while watching data import progress:](https://github.com/rancher/opni/issues/1375)
+
+- [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(603 ⭐️)</span>
@@ -22,11 +38,6 @@
 ## integrations/terraform-provider-github <span style='color:#F1C40F'>(699 ⭐️)</span>
 
 - [[BUG] Unable to add github_repository_collaborators.](https://github.com/integrations/terraform-provider-github/issues/1658)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## openfga/openfga <span style='color:#F1C40F'>(985 ⭐️)</span>
