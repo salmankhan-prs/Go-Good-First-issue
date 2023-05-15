@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 00:22 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 00:32 UTC.</div>
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(184 ⭐️)</span>
@@ -426,9 +426,4 @@
 - [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
