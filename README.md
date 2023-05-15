@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 01:52 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 02:02 UTC.</div>
+
+
+## parca-dev/parca-agent <span style='color:#F1C40F'>(319 ⭐️)</span>
+
+- [Add Image description to the container images](https://github.com/parca-dev/parca-agent/issues/1633)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
@@ -15,6 +20,11 @@
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
@@ -49,6 +59,13 @@
 - [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
 
 
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+
 ## tmc/langchaingo <span style='color:#F1C40F'>(184 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
@@ -81,11 +98,6 @@
 ## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
 
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## dose-na-nuvem/customers <span style='color:#F1C40F'>(5 ⭐️)</span>
@@ -133,13 +145,6 @@
 - [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.0K ⭐️)</span>
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
@@ -161,6 +166,15 @@
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
+
+- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
+
+- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
+
+- [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
 
 
 ## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -293,13 +307,6 @@
 - [No Unit Tests for Pipeline & ETL Manager Logic](https://github.com/base-org/pessimism/issues/33)
 
 
-## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
-
-- [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
-
-
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
 
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
@@ -317,11 +324,6 @@
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## parca-dev/parca-agent <span style='color:#F1C40F'>(319 ⭐️)</span>
-
-- [Add Image description to the container images](https://github.com/parca-dev/parca-agent/issues/1633)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(514 ⭐️)</span>
@@ -398,11 +400,6 @@
 - [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
 
 
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.6K ⭐️)</span>
-
-- [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
-
-
 ## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
 
 - [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
@@ -410,4 +407,25 @@
 - [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
 
 - [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
+
+
+## juanfont/headscale <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
+
+
+## scriptnull/waymond <span style='color:#F1C40F'>(10 ⭐️)</span>
+
+- [site: add syntax highlighting support for toml snippets](https://github.com/scriptnull/waymond/issues/18)
+
+- [config: validate if config is a DAG](https://github.com/scriptnull/waymond/issues/15)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
