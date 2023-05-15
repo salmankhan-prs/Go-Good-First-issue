@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 10:02 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 10:12 UTC.</div>
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(498 ⭐️)</span>
+
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
@@ -20,6 +25,19 @@
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
+
+- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
+
+- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
 
 
 ## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -62,6 +80,17 @@
 ## weaveworks/tf-controller <span style='color:#F1C40F'>(772 ⭐️)</span>
 
 - [Add labels and annotations to outputted secrets](https://github.com/weaveworks/tf-controller/issues/593)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
+
+- [[eval] Update profile-sort flag to show valid options](https://github.com/open-policy-agent/opa/issues/5862)
+
+- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
+
+- [OPA debug logs expose X-AMZ-SECURITY-TOKEN header](https://github.com/open-policy-agent/opa/issues/5848)
 
 
 ## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
@@ -129,11 +158,6 @@
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## project-zot/zot <span style='color:#F1C40F'>(368 ⭐️)</span>
 
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
@@ -177,19 +201,6 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
-
-- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
-
-- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -254,7 +265,7 @@
 - [Add Image description to the container images](https://github.com/parca-dev/parca-agent/issues/1633)
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+## go-skynet/LocalAI <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
@@ -319,16 +330,4 @@
 - [when adding a new secret, the transformation applies to all the secrets instead of the just newly-added secret; it should not.](https://github.com/shieldworks/aegis/issues/282)
 
 - [Some of the `Lock`s we use can indeed be `RLock`s; go over the code and change them for an easy performance gain.](https://github.com/shieldworks/aegis/issues/260)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(702 ⭐️)</span>
-
-- [(feature) Ability to skip logging health end-points](https://github.com/thomaspoignant/go-feature-flag/issues/781)
-
-- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
-
-
-## cometbft/cometbft <span style='color:#F1C40F'>(269 ⭐️)</span>
-
-- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
 
