@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 00:02 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 00:12 UTC.</div>
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(184 ⭐️)</span>
@@ -57,6 +57,11 @@
 - [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
 
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(15 ⭐️)</span>
@@ -290,11 +295,6 @@
 - [Update golang version in lnrpc Dockerfile](https://github.com/lightningnetwork/lnd/issues/7629)
 
 
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
-
-- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
-
-
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
 
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
@@ -431,11 +431,4 @@
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
-
-
-## traPtitech/knoQ <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [gormのdebug用ログ](https://github.com/traPtitech/knoQ/issues/394)
-
-- [出席を反映するBOTの作成](https://github.com/traPtitech/knoQ/issues/377)
 
