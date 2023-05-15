@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 10:32 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 10:42 UTC.</div>
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -25,6 +25,11 @@
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
+## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
@@ -39,11 +44,6 @@
 ## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Docs: Filter example contains error](https://github.com/zalando/skipper/issues/2280)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## kairos-io/kairos <span style='color:#F1C40F'>(498 ⭐️)</span>
@@ -313,15 +313,4 @@
 ## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
 
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
-## shieldworks/aegis <span style='color:#F1C40F'>(24 ⭐️)</span>
-
-- [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
-
-- [dynamically incraese the channel sizes](https://github.com/shieldworks/aegis/issues/263)
-
-- [when adding a new secret, the transformation applies to all the secrets instead of the just newly-added secret; it should not.](https://github.com/shieldworks/aegis/issues/282)
-
-- [Some of the `Lock`s we use can indeed be `RLock`s; go over the code and change them for an easy performance gain.](https://github.com/shieldworks/aegis/issues/260)
 
