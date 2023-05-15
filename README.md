@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 00:32 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 00:42 UTC.</div>
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(184 ⭐️)</span>
@@ -14,6 +14,15 @@
 - [Introduce `prompts` concept](https://github.com/tmc/langchaingo/issues/31)
 
 - [Add doc.go files to every package.](https://github.com/tmc/langchaingo/issues/5)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(2.8K ⭐️)</span>
@@ -41,6 +50,11 @@
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
 ## dose-na-nuvem/customers <span style='color:#F1C40F'>(4 ⭐️)</span>
 
 - [Adicionar dependabot](https://github.com/dose-na-nuvem/customers/issues/11)
@@ -48,15 +62,6 @@
 - [Configuração a partir de arquivo, flags e variáveis de ambiente](https://github.com/dose-na-nuvem/customers/issues/8)
 
 - [Ajustar os avisos dos linters](https://github.com/dose-na-nuvem/customers/issues/7)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
@@ -83,11 +88,6 @@
 ## celestiaorg/celestia-core <span style='color:#F1C40F'>(298 ⭐️)</span>
 
 - [fix lint issues](https://github.com/celestiaorg/celestia-core/issues/1000)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.8K ⭐️)</span>
