@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 18:32 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 18:42 UTC.</div>
+
+
+## integrations/terraform-provider-github <span style='color:#F1C40F'>(698 ⭐️)</span>
+
+- [[BUG] Unable to add github_repository_collaborators.](https://github.com/integrations/terraform-provider-github/issues/1658)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
@@ -93,7 +108,7 @@
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
-## project-zot/zot <span style='color:#F1C40F'>(369 ⭐️)</span>
+## project-zot/zot <span style='color:#F1C40F'>(370 ⭐️)</span>
 
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
@@ -262,11 +277,6 @@
 - [recursive schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/18)
 
 
-## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
 ## alcionai/corso <span style='color:#F1C40F'>(107 ⭐️)</span>
 
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
@@ -322,11 +332,6 @@
 - [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
 
 
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
 
 - [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
@@ -334,11 +339,6 @@
 - [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
 
 - [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-
-## integrations/terraform-provider-github <span style='color:#F1C40F'>(698 ⭐️)</span>
-
-- [[BUG] Unable to add github_repository_collaborators.](https://github.com/integrations/terraform-provider-github/issues/1658)
 
 
 ## kubeshop/tracetest <span style='color:#F1C40F'>(543 ⭐️)</span>
