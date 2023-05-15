@@ -4,12 +4,43 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 14:02 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 14:12 UTC.</div>
 
 
-## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
-- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
+- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
+
+
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+
+## cometbft/cometbft <span style='color:#F1C40F'>(269 ⭐️)</span>
+
+- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
+
+
+## berops/claudie <span style='color:#F1C40F'>(234 ⭐️)</span>
+
+- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
+
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
+
+
+## parca-dev/parca-agent <span style='color:#F1C40F'>(320 ⭐️)</span>
+
+- [Add Image description to the container images](https://github.com/parca-dev/parca-agent/issues/1633)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -19,14 +50,14 @@
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
 
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
-## cometbft/cometbft <span style='color:#F1C40F'>(269 ⭐️)</span>
+## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
-- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
+- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
 
 
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
@@ -36,11 +67,6 @@
 - [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
 
 - [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -56,6 +82,11 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -102,6 +133,13 @@
 - [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
+
+- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -177,11 +215,6 @@
 - [Helm Chart: Missing quotes around cron expressions](https://github.com/aquasecurity/trivy-operator/issues/1190)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
 
 - [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
@@ -235,11 +268,11 @@
 
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
 
+- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
+
 - [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
 
 - [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
 
 
 ## keploy/keploy <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -274,71 +307,4 @@
 ## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
 
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
-## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [Support Tencent Peering Connections](https://github.com/tailwarden/komiser/issues/796)
-
-- [Support Tencent Flow Logs](https://github.com/tailwarden/komiser/issues/795)
-
-- [Support Tencent Secure Content Delivery Network](https://github.com/tailwarden/komiser/issues/794)
-
-- [Support Tencent Enterprise Content Delivery Network](https://github.com/tailwarden/komiser/issues/793)
-
-- [[TECH-1200] Calculate cost for GCP Functions](https://github.com/tailwarden/komiser/issues/781)
-
-- [[TECH-1199] Calculate cost for GCP BigQuery Tables](https://github.com/tailwarden/komiser/issues/784)
-
-- [Support Tencent Content Delivery Network](https://github.com/tailwarden/komiser/issues/764)
-
-- [Calculate cost for GCP Certificates](https://github.com/tailwarden/komiser/issues/783)
-
-- [Calculate cost for GCP Container cluster](https://github.com/tailwarden/komiser/issues/782)
-
-- [Calculate cost for GCP Gateways](https://github.com/tailwarden/komiser/issues/780)
-
-- [Calculate cost for GCP KMS Keys](https://github.com/tailwarden/komiser/issues/779)
-
-- [Calculate cost for GCP Redis instances](https://github.com/tailwarden/komiser/issues/778)
-
-- [Calculate cost for GCP SQL Instances](https://github.com/tailwarden/komiser/issues/777)
-
-- [Support Tencent Serverless Cloud Function](https://github.com/tailwarden/komiser/issues/769)
-
-- [Support TencentDB for PostgreSQL](https://github.com/tailwarden/komiser/issues/768)
-
-- [Support TencentDB for MongoDB](https://github.com/tailwarden/komiser/issues/767)
-
-- [Support TencentDB for Redis](https://github.com/tailwarden/komiser/issues/766)
-
-- [Support TencentDB for MySQL](https://github.com/tailwarden/komiser/issues/765)
-
-- [Support Tencent NAT Gateway](https://github.com/tailwarden/komiser/issues/763)
-
-- [Support Tencent Virtual Private Cloud](https://github.com/tailwarden/komiser/issues/762)
-
-- [Support Tencent Cloud Load Balancer](https://github.com/tailwarden/komiser/issues/761)
-
-- [Support Tencent Cloud File Storage](https://github.com/tailwarden/komiser/issues/760)
-
-- [Support Tencent Cloud Block Storage](https://github.com/tailwarden/komiser/issues/759)
-
-- [Support Tencent Cloud Object Storage](https://github.com/tailwarden/komiser/issues/758)
-
-- [Support Tencent Kubernetes Engine](https://github.com/tailwarden/komiser/issues/757)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
