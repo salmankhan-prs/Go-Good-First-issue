@@ -4,7 +4,56 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 13:22 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 13:32 UTC.</div>
+
+
+## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Eventing TLS: Test ApiServerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6913)
+
+- [Eventing TLS: Test PingSource with Broker as sink](https://github.com/knative/eventing/issues/6932)
+
+- [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
+
+- [Eventing TLS: Test ContainerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6937)
+
+- [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
+
+- [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
+
+- [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## rollkit/rollkit <span style='color:#F1C40F'>(207 ⭐️)</span>
+
+- [Update Readme to explain Makefile](https://github.com/rollkit/rollkit/issues/921)
+
+
+## Azure/kubectl-aks <span style='color:#F1C40F'>(10 ⭐️)</span>
+
+- [[RFE] ci: Avoid running workflow when not needed](https://github.com/Azure/kubectl-aks/issues/32)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
@@ -56,11 +105,6 @@
 - [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
 
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
@@ -68,23 +112,6 @@
 - [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
 ## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -126,6 +153,17 @@
 - [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
 
 - [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
+
+- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -260,59 +298,6 @@
 - [Support Tencent Kubernetes Engine](https://github.com/tailwarden/komiser/issues/757)
 
 
-## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [Support Tencent Peering Connections](https://github.com/tailwarden/komiser/issues/796)
-
-- [Support Tencent Flow Logs](https://github.com/tailwarden/komiser/issues/795)
-
-- [Support Tencent Secure Content Delivery Network](https://github.com/tailwarden/komiser/issues/794)
-
-- [Support Tencent Enterprise Content Delivery Network](https://github.com/tailwarden/komiser/issues/793)
-
-- [[TECH-1200] Calculate cost for GCP Functions](https://github.com/tailwarden/komiser/issues/781)
-
-- [[TECH-1199] Calculate cost for GCP BigQuery Tables](https://github.com/tailwarden/komiser/issues/784)
-
-- [Support Tencent Content Delivery Network](https://github.com/tailwarden/komiser/issues/764)
-
-- [Calculate cost for GCP Certificates](https://github.com/tailwarden/komiser/issues/783)
-
-- [Calculate cost for GCP Container cluster](https://github.com/tailwarden/komiser/issues/782)
-
-- [Calculate cost for GCP Gateways](https://github.com/tailwarden/komiser/issues/780)
-
-- [Calculate cost for GCP KMS Keys](https://github.com/tailwarden/komiser/issues/779)
-
-- [Calculate cost for GCP Redis instances](https://github.com/tailwarden/komiser/issues/778)
-
-- [Calculate cost for GCP SQL Instances](https://github.com/tailwarden/komiser/issues/777)
-
-- [Support Tencent Serverless Cloud Function](https://github.com/tailwarden/komiser/issues/769)
-
-- [Support TencentDB for PostgreSQL](https://github.com/tailwarden/komiser/issues/768)
-
-- [Support TencentDB for MongoDB](https://github.com/tailwarden/komiser/issues/767)
-
-- [Support TencentDB for Redis](https://github.com/tailwarden/komiser/issues/766)
-
-- [Support TencentDB for MySQL](https://github.com/tailwarden/komiser/issues/765)
-
-- [Support Tencent NAT Gateway](https://github.com/tailwarden/komiser/issues/763)
-
-- [Support Tencent Virtual Private Cloud](https://github.com/tailwarden/komiser/issues/762)
-
-- [Support Tencent Cloud Load Balancer](https://github.com/tailwarden/komiser/issues/761)
-
-- [Support Tencent Cloud File Storage](https://github.com/tailwarden/komiser/issues/760)
-
-- [Support Tencent Cloud Block Storage](https://github.com/tailwarden/komiser/issues/759)
-
-- [Support Tencent Cloud Object Storage](https://github.com/tailwarden/komiser/issues/758)
-
-- [Support Tencent Kubernetes Engine](https://github.com/tailwarden/komiser/issues/757)
-
-
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
@@ -378,18 +363,4 @@
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.6K ⭐️)</span>
 
 - [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
-
-
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
-
-- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(500 ⭐️)</span>
-
-- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
