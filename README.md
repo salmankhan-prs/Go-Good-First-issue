@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 21:12 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 21:22 UTC.</div>
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(823 ⭐️)</span>
@@ -154,6 +154,11 @@
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
 ## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
