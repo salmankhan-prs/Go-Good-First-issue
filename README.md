@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 04:12 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 04:22 UTC.</div>
 
 
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(319 ⭐️)</span>
