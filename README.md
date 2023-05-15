@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 08:12 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 08:22 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
@@ -32,11 +37,6 @@
 - [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
 
 - [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(173 ⭐️)</span>
