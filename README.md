@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 11:32 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 11:42 UTC.</div>
 
 
 ## kube-vip/kube-vip <span style='color:#F1C40F'>(1.2K ⭐️)</span>
@@ -134,7 +134,7 @@
 - [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
 
 
-## kairos-io/kairos <span style='color:#F1C40F'>(498 ⭐️)</span>
+## kairos-io/kairos <span style='color:#F1C40F'>(499 ⭐️)</span>
 
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
