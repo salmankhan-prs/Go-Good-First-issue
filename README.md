@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 19:22 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 19:32 UTC.</div>
+
+
+## cometbft/cometbft <span style='color:#F1C40F'>(269 ⭐️)</span>
+
+- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
+
+
+## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [Add a test for namespaces support in xpath expressions](https://github.com/konveyor/analyzer-lsp/issues/120)
+
+- [Change dependency output into a list by provider](https://github.com/konveyor/analyzer-lsp/issues/140)
+
+- [Deduplication of Incidents Per rule](https://github.com/konveyor/analyzer-lsp/issues/144)
+
+- [Add progress reporting showing statistics on total rules parsed, completed, matched, and failed](https://github.com/konveyor/analyzer-lsp/issues/132)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
@@ -80,18 +96,16 @@
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
+## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(603 ⭐️)</span>
 
 - [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
@@ -133,20 +147,22 @@
 - [Add a Script linter to our CI workflow](https://github.com/kubernetes-sigs/network-policy-api/issues/94)
 
 
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
+
+- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
+
+- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
+
+
 ## rollkit/rollkit <span style='color:#F1C40F'>(207 ⭐️)</span>
 
 - [Update Readme to explain Makefile](https://github.com/rollkit/rollkit/issues/921)
-
-
-## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
-
-- [Add a test for namespaces support in xpath expressions](https://github.com/konveyor/analyzer-lsp/issues/120)
-
-- [Change dependency output into a list by provider](https://github.com/konveyor/analyzer-lsp/issues/140)
-
-- [Deduplication of Incidents Per rule](https://github.com/konveyor/analyzer-lsp/issues/144)
-
-- [Add progress reporting showing statistics on total rules parsed, completed, matched, and failed](https://github.com/konveyor/analyzer-lsp/issues/132)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
@@ -276,19 +292,6 @@
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
-
-- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
-
-- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
-
-
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
@@ -323,4 +326,72 @@
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [Split `fetching` package constants to distinct types](https://github.com/elastic/cloudbeat/issues/867)
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(703 ⭐️)</span>
+
+- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+
+## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
+
+- [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
+
+- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+
+## kubeshop/tracetest <span style='color:#F1C40F'>(543 ⭐️)</span>
+
+- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
+
+- [update 'Help and resources' menu](https://github.com/kubeshop/tracetest/issues/2419)
+
+
+## juanfont/headscale <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
+
+
+## provenance-io/provenance <span style='color:#F1C40F'>(74 ⭐️)</span>
+
+- [Enhance CountAuthorization to have a sub-authorization field](https://github.com/provenance-io/provenance/issues/1483)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
+
+- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
+
+- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
+
+- [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+
+- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
