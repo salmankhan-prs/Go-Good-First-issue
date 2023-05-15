@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 16:22 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 16:32 UTC.</div>
 
 
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -360,23 +360,4 @@
 - [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
 
 - [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
-
-
-## rollkit/rollkit <span style='color:#F1C40F'>(207 ⭐️)</span>
-
-- [Update Readme to explain Makefile](https://github.com/rollkit/rollkit/issues/921)
-
-
-## Azure/kubectl-aks <span style='color:#F1C40F'>(10 ⭐️)</span>
-
-- [[RFE] ci: Avoid running workflow when not needed](https://github.com/Azure/kubectl-aks/issues/32)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
-
-- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
-
-- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
 
