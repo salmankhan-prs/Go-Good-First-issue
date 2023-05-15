@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 00:12 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 00:22 UTC.</div>
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(184 ⭐️)</span>
