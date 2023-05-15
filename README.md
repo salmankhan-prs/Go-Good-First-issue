@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 05:32 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 05:42 UTC.</div>
+
+
+## shieldworks/aegis <span style='color:#F1C40F'>(24 ⭐️)</span>
+
+- [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
+
+- [dynamically incraese the channel sizes](https://github.com/shieldworks/aegis/issues/263)
+
+- [when adding a new secret, the transformation applies to all the secrets instead of the just newly-added secret; it should not.](https://github.com/shieldworks/aegis/issues/282)
+
+- [Some of the `Lock`s we use can indeed be `RLock`s; go over the code and change them for an easy performance gain.](https://github.com/shieldworks/aegis/issues/260)
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(702 ⭐️)</span>
@@ -158,24 +169,13 @@
 - [Add doc.go files to every package.](https://github.com/tmc/langchaingo/issues/5)
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+## go-skynet/LocalAI <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 - [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-
-## shieldworks/aegis <span style='color:#F1C40F'>(24 ⭐️)</span>
-
-- [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
-
-- [dynamically incraese the channel sizes](https://github.com/shieldworks/aegis/issues/263)
-
-- [when adding a new secret, the transformation applies to all the secrets instead of the just newly-added secret; it should not.](https://github.com/shieldworks/aegis/issues/282)
-
-- [Some of the `Lock`s we use can indeed be `RLock`s; go over the code and change them for an easy performance gain.](https://github.com/shieldworks/aegis/issues/260)
 
 
 ## dose-na-nuvem/customers <span style='color:#F1C40F'>(5 ⭐️)</span>
