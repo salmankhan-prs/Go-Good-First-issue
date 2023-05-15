@@ -4,12 +4,50 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 15:22 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 15:32 UTC.</div>
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(702 ⭐️)</span>
+
+- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
+
+- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
 
 
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+
+
+## juanfont/headscale <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Tailscale status strange IP display](https://github.com/juanfont/headscale/issues/1344)
 
 
 ## provenance-io/provenance <span style='color:#F1C40F'>(74 ⭐️)</span>
@@ -72,28 +110,9 @@
 - [Add labels and annotations to outputted secrets](https://github.com/weaveworks/tf-controller/issues/593)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(603 ⭐️)</span>
 
 - [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(702 ⭐️)</span>
-
-- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
@@ -103,6 +122,13 @@
 - [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
@@ -204,11 +230,6 @@
 - [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
 
 
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(342 ⭐️)</span>
 
 - [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
@@ -289,13 +310,6 @@
 - [Introduce constants for commonly used MIME types](https://github.com/cloudwego/hertz/issues/754)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.0K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(536 ⭐️)</span>
 
 - [Helm Chart: Missing quotes around cron expressions](https://github.com/aquasecurity/trivy-operator/issues/1190)
@@ -325,15 +339,6 @@
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
 
 
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
-
-- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-
 ## keploy/keploy <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [[bug]: Inconsistent Coverage Percentage Displayed in Console Output and Statement](https://github.com/keploy/keploy/issues/558)
@@ -352,4 +357,138 @@
 ## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [Ignore empty with no validation causes invalid python to be generated via the jinja template](https://github.com/bufbuild/protoc-gen-validate/issues/843)
+
+
+## dose-na-nuvem/customers <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Adicionar dependabot](https://github.com/dose-na-nuvem/customers/issues/11)
+
+- [Configuração a partir de arquivo, flags e variáveis de ambiente](https://github.com/dose-na-nuvem/customers/issues/8)
+
+- [Ajustar os avisos dos linters](https://github.com/dose-na-nuvem/customers/issues/7)
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
+## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [Support Tencent Peering Connections](https://github.com/tailwarden/komiser/issues/796)
+
+- [Support Tencent Flow Logs](https://github.com/tailwarden/komiser/issues/795)
+
+- [Support Tencent Secure Content Delivery Network](https://github.com/tailwarden/komiser/issues/794)
+
+- [Support Tencent Enterprise Content Delivery Network](https://github.com/tailwarden/komiser/issues/793)
+
+- [[TECH-1200] Calculate cost for GCP Functions](https://github.com/tailwarden/komiser/issues/781)
+
+- [[TECH-1199] Calculate cost for GCP BigQuery Tables](https://github.com/tailwarden/komiser/issues/784)
+
+- [Support Tencent Content Delivery Network](https://github.com/tailwarden/komiser/issues/764)
+
+- [Calculate cost for GCP Certificates](https://github.com/tailwarden/komiser/issues/783)
+
+- [Calculate cost for GCP Container cluster](https://github.com/tailwarden/komiser/issues/782)
+
+- [Calculate cost for GCP Gateways](https://github.com/tailwarden/komiser/issues/780)
+
+- [Calculate cost for GCP KMS Keys](https://github.com/tailwarden/komiser/issues/779)
+
+- [Calculate cost for GCP Redis instances](https://github.com/tailwarden/komiser/issues/778)
+
+- [Calculate cost for GCP SQL Instances](https://github.com/tailwarden/komiser/issues/777)
+
+- [Support Tencent Serverless Cloud Function](https://github.com/tailwarden/komiser/issues/769)
+
+- [Support TencentDB for PostgreSQL](https://github.com/tailwarden/komiser/issues/768)
+
+- [Support TencentDB for MongoDB](https://github.com/tailwarden/komiser/issues/767)
+
+- [Support TencentDB for Redis](https://github.com/tailwarden/komiser/issues/766)
+
+- [Support TencentDB for MySQL](https://github.com/tailwarden/komiser/issues/765)
+
+- [Support Tencent NAT Gateway](https://github.com/tailwarden/komiser/issues/763)
+
+- [Support Tencent Virtual Private Cloud](https://github.com/tailwarden/komiser/issues/762)
+
+- [Support Tencent Cloud Load Balancer](https://github.com/tailwarden/komiser/issues/761)
+
+- [Support Tencent Cloud File Storage](https://github.com/tailwarden/komiser/issues/760)
+
+- [Support Tencent Cloud Block Storage](https://github.com/tailwarden/komiser/issues/759)
+
+- [Support Tencent Cloud Object Storage](https://github.com/tailwarden/komiser/issues/758)
+
+- [Support Tencent Kubernetes Engine](https://github.com/tailwarden/komiser/issues/757)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
+## kube-vip/kube-vip <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [BGP metrics support](https://github.com/kube-vip/kube-vip/issues/547)
+
+- [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
+
+- [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
+
+
+## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
+
+- [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
+
+- [Feature: GUI - Version upgrade changes](https://github.com/memphisdev/memphis/issues/905)
+
+
+## NethermindEth/juno <span style='color:#F1C40F'>(172 ⭐️)</span>
+
+- [Make block hash calculation compatible with 0.11.1](https://github.com/NethermindEth/juno/issues/757)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
+
+
+## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Faster than eth_getLogs?](https://github.com/bnb-chain/bsc/issues/1541)
+
+- [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.6K ⭐️)</span>
+
+- [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
 
