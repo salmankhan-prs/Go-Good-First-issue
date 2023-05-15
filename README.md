@@ -4,7 +4,40 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 14:12 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 14:22 UTC.</div>
+
+
+## cometbft/cometbft <span style='color:#F1C40F'>(269 ⭐️)</span>
+
+- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
+
+- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
+
+- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
+
+
+## srvaroa/labeler <span style='color:#F1C40F'>(56 ⭐️)</span>
+
+- [[Feature] support local config file](https://github.com/srvaroa/labeler/issues/82)
+
+
+## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
+
+- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -24,11 +57,6 @@
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 - [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-
-## cometbft/cometbft <span style='color:#F1C40F'>(269 ⭐️)</span>
-
-- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
 
 
 ## berops/claudie <span style='color:#F1C40F'>(234 ⭐️)</span>
@@ -159,11 +187,6 @@
 - [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## rollkit/rollkit <span style='color:#F1C40F'>(207 ⭐️)</span>
 
 - [Update Readme to explain Makefile](https://github.com/rollkit/rollkit/issues/921)
@@ -190,17 +213,9 @@
 - [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
 
 
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+## cloudwego/hertz <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
-- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
-
-- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
-
-- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
+- [Introduce constants for commonly used MIME types](https://github.com/cloudwego/hertz/issues/754)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.0K ⭐️)</span>
@@ -213,11 +228,6 @@
 ## aquasecurity/trivy-operator <span style='color:#F1C40F'>(536 ⭐️)</span>
 
 - [Helm Chart: Missing quotes around cron expressions](https://github.com/aquasecurity/trivy-operator/issues/1190)
-
-
-## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -288,23 +298,4 @@
 - [[bug]: Website Documentation Error](https://github.com/keploy/keploy/issues/551)
 
 - [[bug]: Wide Footer Padding on main page and Multiple Footer on GSoC Page ](https://github.com/keploy/keploy/issues/549)
-
-
-## dose-na-nuvem/customers <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Adicionar dependabot](https://github.com/dose-na-nuvem/customers/issues/11)
-
-- [Configuração a partir de arquivo, flags e variáveis de ambiente](https://github.com/dose-na-nuvem/customers/issues/8)
-
-- [Ajustar os avisos dos linters](https://github.com/dose-na-nuvem/customers/issues/7)
-
-
-## weaveworks/tf-controller <span style='color:#F1C40F'>(773 ⭐️)</span>
-
-- [Add labels and annotations to outputted secrets](https://github.com/weaveworks/tf-controller/issues/593)
-
-
-## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
