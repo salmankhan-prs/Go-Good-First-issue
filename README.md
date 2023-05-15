@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 14, 2023 23:52 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 00:02 UTC.</div>
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(184 ⭐️)</span>
@@ -48,6 +48,15 @@
 - [Configuração a partir de arquivo, flags e variáveis de ambiente](https://github.com/dose-na-nuvem/customers/issues/8)
 
 - [Ajustar os avisos dos linters](https://github.com/dose-na-nuvem/customers/issues/7)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(15 ⭐️)</span>
