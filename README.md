@@ -4,7 +4,27 @@
 
 
 
-<div align='center'>Last updated at May 15, 2023 14:52 UTC.</div>
+<div align='center'>Last updated at May 15, 2023 15:02 UTC.</div>
+
+
+## weaveworks/tf-controller <span style='color:#F1C40F'>(773 ⭐️)</span>
+
+- [Add labels and annotations to outputted secrets](https://github.com/weaveworks/tf-controller/issues/593)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(603 ⭐️)</span>
@@ -22,6 +42,11 @@
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(702 ⭐️)</span>
+
+- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
@@ -42,14 +67,9 @@
 - [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
 
 
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(702 ⭐️)</span>
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
-- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
-
-
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -72,11 +92,6 @@
 ## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
@@ -115,11 +130,6 @@
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## srvaroa/labeler <span style='color:#F1C40F'>(56 ⭐️)</span>
@@ -334,11 +344,6 @@
 - [Ajustar os avisos dos linters](https://github.com/dose-na-nuvem/customers/issues/7)
 
 
-## weaveworks/tf-controller <span style='color:#F1C40F'>(773 ⭐️)</span>
-
-- [Add labels and annotations to outputted secrets](https://github.com/weaveworks/tf-controller/issues/593)
-
-
 ## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
 
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
@@ -400,22 +405,4 @@
 - [Support Tencent Cloud Object Storage](https://github.com/tailwarden/komiser/issues/758)
 
 - [Support Tencent Kubernetes Engine](https://github.com/tailwarden/komiser/issues/757)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
-## kube-vip/kube-vip <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [BGP metrics support](https://github.com/kube-vip/kube-vip/issues/547)
-
-- [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
-
-- [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
 
