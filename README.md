@@ -4,12 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 00:52 UTC.</div>
-
-
-## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [[Meshery-UI] Fix eslint bug in Meshery-UI causing meshery build to fail](https://github.com/meshery/meshery/issues/7687)
+<div align='center'>Last updated at May 16, 2023 01:02 UTC.</div>
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -29,6 +24,11 @@
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
+## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [[Meshery-UI] Fix eslint bug in Meshery-UI causing meshery build to fail](https://github.com/meshery/meshery/issues/7687)
+
+
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
@@ -45,6 +45,11 @@
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -195,6 +200,15 @@
 - [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
 
 
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
@@ -205,15 +219,6 @@
 ## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Docs: Filter example contains error](https://github.com/zalando/skipper/issues/2280)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
@@ -384,20 +389,4 @@
 - [Support Tencent Cloud Object Storage](https://github.com/tailwarden/komiser/issues/758)
 
 - [Support Tencent Kubernetes Engine](https://github.com/tailwarden/komiser/issues/757)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(370 ⭐️)</span>
-
-- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
-
-- [[GC] Output deleted and failed-to-delete objects](https://github.com/treeverse/lakeFS/issues/5716)
-
-- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
-
-- [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
 
