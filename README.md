@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 01:42 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 01:52 UTC.</div>
+
+
+## replicatedhq/troubleshoot <span style='color:#F1C40F'>(430 ⭐️)</span>
+
+- [strings.TrimLeft is used instead of TrimPrefix](https://github.com/replicatedhq/troubleshoot/issues/1129)
+
+- [Collect DaemonSets cluster resource](https://github.com/replicatedhq/troubleshoot/issues/1120)
 
 
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
