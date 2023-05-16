@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 04:32 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 04:42 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
 
 
 ## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -17,9 +27,9 @@
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
+## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
 
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
@@ -27,19 +37,9 @@
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
-## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
-
-
 ## alcionai/corso <span style='color:#F1C40F'>(107 ⭐️)</span>
 
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -68,9 +68,9 @@
 
 ## karmada-io/karmada <span style='color:#F1C40F'>(3.3K ⭐️)</span>
 
-- [Fix a typo in karmada-operator](https://github.com/karmada-io/karmada/issues/3544)
-
 - [Fix a typo in `karmadactl interpret`](https://github.com/karmada-io/karmada/issues/3539)
+
+- [Fix a typo in karmada-operator](https://github.com/karmada-io/karmada/issues/3544)
 
 - [karmadactl init image default tag use latest](https://github.com/karmada-io/karmada/issues/3419)
 
