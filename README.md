@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 23:02 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 23:12 UTC.</div>
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(604 ⭐️)</span>
+
+- [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
+
+
+## onflow/cadence <span style='color:#F1C40F'>(465 ⭐️)</span>
+
+- [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -27,7 +48,7 @@
 - [Enhance CountAuthorization to have a sub-authorization field](https://github.com/provenance-io/provenance/issues/1483)
 
 
-## openfga/openfga <span style='color:#F1C40F'>(997 ⭐️)</span>
+## openfga/openfga <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Re-implement channels in ListObjects](https://github.com/openfga/openfga/issues/764)
 
@@ -100,11 +121,6 @@
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 
-## onflow/cadence <span style='color:#F1C40F'>(465 ⭐️)</span>
-
-- [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
-
-
 ## base-org/pessimism <span style='color:#F1C40F'>(514 ⭐️)</span>
 
 - [Enforcing Function Header Comment Hygiene](https://github.com/base-org/pessimism/issues/40)
@@ -141,17 +157,6 @@
 - [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
 
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(3.5K ⭐️)</span>
-
-- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -323,24 +328,4 @@
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
-## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [feat(plugin): scaffold github workflow to test plugin](https://github.com/ignite/cli/issues/3495)
-
-
-## opensearch-project/opensearch-go <span style='color:#F1C40F'>(120 ⭐️)</span>
-
-- [[PROPOSAL] Code quality analysis](https://github.com/opensearch-project/opensearch-go/issues/307)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
 
