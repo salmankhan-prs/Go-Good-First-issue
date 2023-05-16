@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 22:32 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 22:42 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -40,8 +40,6 @@
 - [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
 
 - [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
-
-- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
 
 
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(748 ⭐️)</span>
