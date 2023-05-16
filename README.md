@@ -4,7 +4,50 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 07:22 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 07:32 UTC.</div>
+
+
+## karmada-io/karmada <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Fix a typo in `karmadactl interpret`](https://github.com/karmada-io/karmada/issues/3539)
+
+- [Fix a typo in karmada-operator](https://github.com/karmada-io/karmada/issues/3544)
+
+- [karmadactl init image default tag use latest](https://github.com/karmada-io/karmada/issues/3419)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
+
+- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [[Question]: Azure docs are out of date](https://github.com/k8sgpt-ai/k8sgpt/issues/424)
+
+- [[Feature]: Acknowledgement on deletion of backend](https://github.com/k8sgpt-ai/k8sgpt/issues/423)
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -25,21 +68,9 @@
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
 ## NethermindEth/juno <span style='color:#F1C40F'>(172 ⭐️)</span>
 
 - [Make block hash calculation compatible with 0.11.1](https://github.com/NethermindEth/juno/issues/757)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
-
-- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -81,11 +112,6 @@
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
 
-## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [Update Cluster Service CIDRs in CI](https://github.com/antrea-io/antrea/issues/4981)
@@ -96,23 +122,6 @@
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [[Question]: Azure docs are out of date](https://github.com/k8sgpt-ai/k8sgpt/issues/424)
-
-- [[Feature]: Acknowledgement on deletion of backend](https://github.com/k8sgpt-ai/k8sgpt/issues/423)
-
-- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.0K ⭐️)</span>
@@ -188,6 +197,11 @@
 - [Helm Chart: Missing quotes around cron expressions](https://github.com/aquasecurity/trivy-operator/issues/1190)
 
 
+## aquasecurity/trivy-operator <span style='color:#F1C40F'>(536 ⭐️)</span>
+
+- [Helm Chart: Missing quotes around cron expressions](https://github.com/aquasecurity/trivy-operator/issues/1190)
+
+
 ## kubeshop/tracetest <span style='color:#F1C40F'>(544 ⭐️)</span>
 
 - [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
@@ -249,15 +263,6 @@
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
 
-## karmada-io/karmada <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Fix a typo in `karmadactl interpret`](https://github.com/karmada-io/karmada/issues/3539)
-
-- [Fix a typo in karmada-operator](https://github.com/karmada-io/karmada/issues/3544)
-
-- [karmadactl init image default tag use latest](https://github.com/karmada-io/karmada/issues/3419)
-
-
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
@@ -265,15 +270,6 @@
 - [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
 ## replicatedhq/troubleshoot <span style='color:#F1C40F'>(430 ⭐️)</span>
@@ -330,13 +326,4 @@
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
 
 - [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
