@@ -4,7 +4,37 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 08:42 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 08:52 UTC.</div>
+
+
+## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
+
+- [Feature: Expect a document bot](https://github.com/OpenIMSDK/Open-IM-Server/issues/393)
+
+- [Provides OpenIM document translation](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
+
+- [【RFC】Design of OpenIM Log Package Zap](https://github.com/OpenIMSDK/Open-IM-Server/issues/387)
+
+- [[Feature]: The open im flutter sdk supports the web/pc side](https://github.com/OpenIMSDK/Open-IM-Server/issues/386)
+
+- [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
+
+- [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
+
+
+## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Docs: Filter example contains error](https://github.com/zalando/skipper/issues/2280)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -24,9 +54,23 @@
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
+
+
+## tmc/langchaingo <span style='color:#F1C40F'>(193 ⭐️)</span>
+
+- [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
+
+- [Introduce `prompts` concept](https://github.com/tmc/langchaingo/issues/31)
+
+- [Add doc.go files to every package.](https://github.com/tmc/langchaingo/issues/5)
 
 
 ## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -43,12 +87,7 @@
 - [Add measurement for running commands within in-cluster pods](https://github.com/kubernetes/perf-tests/issues/2262)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## acorn-io/acorn <span style='color:#F1C40F'>(994 ⭐️)</span>
+## acorn-io/acorn <span style='color:#F1C40F'>(995 ⭐️)</span>
 
 - [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
 
@@ -134,21 +173,6 @@
 - [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
 
 
-## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
-
-- [Feature: Expect a document bot](https://github.com/OpenIMSDK/Open-IM-Server/issues/393)
-
-- [Provides OpenIM document translation](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
-
-- [【RFC】Design of OpenIM Log Package Zap](https://github.com/OpenIMSDK/Open-IM-Server/issues/387)
-
-- [[Feature]: The open im flutter sdk supports the web/pc side](https://github.com/OpenIMSDK/Open-IM-Server/issues/386)
-
-- [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
-
-- [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
-
-
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
 
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
@@ -156,6 +180,59 @@
 - [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
+## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [Support Tencent Peering Connections](https://github.com/tailwarden/komiser/issues/796)
+
+- [Support Tencent Flow Logs](https://github.com/tailwarden/komiser/issues/795)
+
+- [Support Tencent Secure Content Delivery Network](https://github.com/tailwarden/komiser/issues/794)
+
+- [Support Tencent Enterprise Content Delivery Network](https://github.com/tailwarden/komiser/issues/793)
+
+- [[TECH-1200] Calculate cost for GCP Functions](https://github.com/tailwarden/komiser/issues/781)
+
+- [[TECH-1199] Calculate cost for GCP BigQuery Tables](https://github.com/tailwarden/komiser/issues/784)
+
+- [Support Tencent Content Delivery Network](https://github.com/tailwarden/komiser/issues/764)
+
+- [Calculate cost for GCP Certificates](https://github.com/tailwarden/komiser/issues/783)
+
+- [Calculate cost for GCP Container cluster](https://github.com/tailwarden/komiser/issues/782)
+
+- [Calculate cost for GCP Gateways](https://github.com/tailwarden/komiser/issues/780)
+
+- [Calculate cost for GCP KMS Keys](https://github.com/tailwarden/komiser/issues/779)
+
+- [Calculate cost for GCP Redis instances](https://github.com/tailwarden/komiser/issues/778)
+
+- [Calculate cost for GCP SQL Instances](https://github.com/tailwarden/komiser/issues/777)
+
+- [Support Tencent Serverless Cloud Function](https://github.com/tailwarden/komiser/issues/769)
+
+- [Support TencentDB for PostgreSQL](https://github.com/tailwarden/komiser/issues/768)
+
+- [Support TencentDB for MongoDB](https://github.com/tailwarden/komiser/issues/767)
+
+- [Support TencentDB for Redis](https://github.com/tailwarden/komiser/issues/766)
+
+- [Support TencentDB for MySQL](https://github.com/tailwarden/komiser/issues/765)
+
+- [Support Tencent NAT Gateway](https://github.com/tailwarden/komiser/issues/763)
+
+- [Support Tencent Virtual Private Cloud](https://github.com/tailwarden/komiser/issues/762)
+
+- [Support Tencent Cloud Load Balancer](https://github.com/tailwarden/komiser/issues/761)
+
+- [Support Tencent Cloud File Storage](https://github.com/tailwarden/komiser/issues/760)
+
+- [Support Tencent Cloud Block Storage](https://github.com/tailwarden/komiser/issues/759)
+
+- [Support Tencent Cloud Object Storage](https://github.com/tailwarden/komiser/issues/758)
+
+- [Support Tencent Kubernetes Engine](https://github.com/tailwarden/komiser/issues/757)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(107 ⭐️)</span>
@@ -191,11 +268,6 @@
 - [karmadactl init image default tag use latest](https://github.com/karmada-io/karmada/issues/3419)
 
 
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
 ## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
 
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
@@ -223,136 +295,4 @@
 ## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
-
-
-## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [Update Cluster Service CIDRs in CI](https://github.com/antrea-io/antrea/issues/4981)
-
-- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.0K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
-## cloudwego/hertz <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Introduce constants for commonly used MIME types](https://github.com/cloudwego/hertz/issues/754)
-
-
-## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(99 ⭐️)</span>
-
-- [KafkaSource: Define proper openAPIV3Schema for spec and status ](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3081)
-
-- [Slow consumergroup reconciliation under load](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3046)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
-## fluent/fluent-operator <span style='color:#F1C40F'>(414 ⭐️)</span>
-
-- [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
-
-- [bug: OpenSearchErrorHandler - 400](https://github.com/fluent/fluent-operator/issues/702)
-
-
-## aquasecurity/trivy-operator <span style='color:#F1C40F'>(537 ⭐️)</span>
-
-- [Helm Chart: Missing quotes around cron expressions](https://github.com/aquasecurity/trivy-operator/issues/1190)
-
-
-## kubeshop/tracetest <span style='color:#F1C40F'>(544 ⭐️)</span>
-
-- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
-
-- [update 'Help and resources' menu](https://github.com/kubeshop/tracetest/issues/2419)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(703 ⭐️)</span>
-
-- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.6K ⭐️)</span>
-
-- [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
-
-
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
-
-
-## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
-
-
-## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
-
-- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
-
-- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [[Meshery-UI] Fix eslint bug in Meshery-UI causing meshery build to fail](https://github.com/meshery/meshery/issues/7687)
-
-
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.2K ⭐️)</span>
-
-- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
-## replicatedhq/troubleshoot <span style='color:#F1C40F'>(430 ⭐️)</span>
-
-- [strings.TrimLeft is used instead of TrimPrefix](https://github.com/replicatedhq/troubleshoot/issues/1129)
-
-- [Collect DaemonSets cluster resource](https://github.com/replicatedhq/troubleshoot/issues/1120)
-
-
-## rollkit/rollkit <span style='color:#F1C40F'>(207 ⭐️)</span>
-
-- [Update Readme to explain Makefile](https://github.com/rollkit/rollkit/issues/921)
 
