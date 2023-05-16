@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 13:42 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 13:52 UTC.</div>
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+
+
+## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
+
+- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
+
+- [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(514 ⭐️)</span>
@@ -12,16 +36,6 @@
 - [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
 
 - [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [[Meshery-UI] Fix eslint bug in Meshery-UI causing meshery build to fail](https://github.com/meshery/meshery/issues/7687)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
@@ -64,15 +78,6 @@
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
-
-- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
@@ -229,11 +234,6 @@
 - [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [Properties of AWS resources should be in `PascalCase` casing instead of `snake_case`](https://github.com/elastic/cloudbeat/issues/914)
@@ -294,13 +294,4 @@
 ## cloudwego/hertz <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Introduce constants for commonly used MIME types](https://github.com/cloudwego/hertz/issues/754)
-
-
-## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
-
-- [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
-
-- [Feature: GUI - Version upgrade changes](https://github.com/memphisdev/memphis/issues/905)
 
