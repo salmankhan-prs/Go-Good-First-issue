@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 21:02 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 21:22 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+
+## acorn-io/acorn <span style='color:#F1C40F'>(995 ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [[UI] Fix Mui Datatables scroll warnings](https://github.com/meshery/meshery/issues/7694)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -35,11 +50,6 @@
 - [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
 
 
-## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(3.5K ⭐️)</span>
 
 - [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
@@ -59,6 +69,20 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(37 ⭐️)</span>
+
+- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
+
+- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
 
 
 ## GoogleCloudPlatform/testgrid <span style='color:#F1C40F'>(173 ⭐️)</span>
@@ -146,6 +170,8 @@
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
+
+- [slirp4netns should honour the `helper_binaries_dir` config](https://github.com/containers/podman/issues/18568)
 
 - [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
 
@@ -321,13 +347,6 @@
 - [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
 
 
-## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
-
-- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
-
-
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
@@ -335,11 +354,4 @@
 - [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
-## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [Properties of AWS resources should be in `PascalCase` casing instead of `snake_case`](https://github.com/elastic/cloudbeat/issues/914)
-
-- [Split `fetching` package constants to distinct types](https://github.com/elastic/cloudbeat/issues/867)
 
