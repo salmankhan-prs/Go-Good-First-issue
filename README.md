@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 01:02 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 01:12 UTC.</div>
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -135,6 +135,11 @@
 - [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
 
 
+## gophish/gophish <span style='color:#F1C40F'>(9.0K ⭐️)</span>
+
+- [Any way to add people in "cc" while launching a campaign.](https://github.com/gophish/gophish/issues/2852)
+
+
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(604 ⭐️)</span>
 
 - [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
@@ -170,6 +175,13 @@
 ## guacsec/guac <span style='color:#F1C40F'>(823 ⭐️)</span>
 
 - [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(514 ⭐️)</span>
+
+- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
+
+- [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
 
 
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
