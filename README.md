@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 10:42 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 10:52 UTC.</div>
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
