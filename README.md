@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 08:52 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 09:02 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
@@ -54,9 +59,13 @@
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
 
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -105,6 +114,11 @@
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [Split `fetching` package constants to distinct types](https://github.com/elastic/cloudbeat/issues/867)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(514 ⭐️)</span>
@@ -173,15 +187,6 @@
 - [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
 ## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [Support Tencent Peering Connections](https://github.com/tailwarden/komiser/issues/796)
@@ -240,11 +245,6 @@
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
@@ -290,9 +290,4 @@
 - [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
 
 - [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-
-## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
 
