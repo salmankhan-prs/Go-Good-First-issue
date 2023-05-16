@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 20:22 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 20:32 UTC.</div>
+
+
+## GoogleCloudPlatform/testgrid <span style='color:#F1C40F'>(173 ⭐️)</span>
+
+- [TestGrid API: Implement Dashboard Tab Endpoint](https://github.com/GoogleCloudPlatform/testgrid/issues/1200)
+
+- [TestGrid API: Dashboards should contain a reference to the group they belong to](https://github.com/GoogleCloudPlatform/testgrid/issues/1199)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -22,6 +29,17 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -118,6 +136,15 @@
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
+
+- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
+
+- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
+
+- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
@@ -219,13 +246,6 @@
 - [Add requirement for kube-apiserver not including `--anonymous-auth=false` flag to Concierge docs (when impersonation proxy is not being used)](https://github.com/vmware-tanzu/pinniped/issues/1512)
 
 
-## GoogleCloudPlatform/testgrid <span style='color:#F1C40F'>(173 ⭐️)</span>
-
-- [TestGrid API: Implement Dashboard Tab Endpoint](https://github.com/GoogleCloudPlatform/testgrid/issues/1200)
-
-- [TestGrid API: Dashboards should contain a reference to the group they belong to](https://github.com/GoogleCloudPlatform/testgrid/issues/1199)
-
-
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(175 ⭐️)</span>
 
 - [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
@@ -271,15 +291,18 @@
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
 
-- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
 
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
 
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
+
+- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
+
+- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
 
 
 ## googleapis/api-linter <span style='color:#F1C40F'>(464 ⭐️)</span>
@@ -324,33 +347,4 @@
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
 - [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
-
-
-## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(100 ⭐️)</span>
-
-- [KafkaSource: Define proper openAPIV3Schema for spec and status ](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3081)
-
-- [Slow consumergroup reconciliation under load](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3046)
-
-
-## apache/trafficcontrol <span style='color:#F1C40F'>(896 ⭐️)</span>
-
-- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
-
-
-## armadaproject/armada <span style='color:#F1C40F'>(313 ⭐️)</span>
-
-- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
-
-
-## integrations/terraform-provider-github <span style='color:#F1C40F'>(700 ⭐️)</span>
-
-- [[BUG] Unable to add github_repository_collaborators.](https://github.com/integrations/terraform-provider-github/issues/1658)
-
-
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(36 ⭐️)</span>
-
-- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
-
-- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
 
