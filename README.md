@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 11:22 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 11:32 UTC.</div>
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [[Feature]: Acknowledgement on deletion of backend](https://github.com/k8sgpt-ai/k8sgpt/issues/423)
+
+- [[Question]: Azure docs are out of date](https://github.com/k8sgpt-ai/k8sgpt/issues/424)
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
 ## NethermindEth/juno <span style='color:#F1C40F'>(173 ⭐️)</span>
@@ -12,14 +29,14 @@
 - [Make block hash calculation compatible with 0.11.1](https://github.com/NethermindEth/juno/issues/757)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(36 ⭐️)</span>
@@ -136,6 +153,13 @@
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+
+
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
@@ -211,31 +235,14 @@
 - [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
 
-- [[Feature]: Acknowledgement on deletion of backend](https://github.com/k8sgpt-ai/k8sgpt/issues/423)
-
-- [[Question]: Azure docs are out of date](https://github.com/k8sgpt-ai/k8sgpt/issues/424)
-
-- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Docs: Filter example contains error](https://github.com/zalando/skipper/issues/2280)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(747 ⭐️)</span>
@@ -313,4 +320,80 @@
 ## KindlingProject/kindling <span style='color:#F1C40F'>(388 ⭐️)</span>
 
 - [Grafana Kindling WorkLoad Detail  无法查看只有出流量的pod](https://github.com/KindlingProject/kindling/issues/517)
+
+
+## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [Support Tencent Peering Connections](https://github.com/tailwarden/komiser/issues/796)
+
+- [Support Tencent Flow Logs](https://github.com/tailwarden/komiser/issues/795)
+
+- [Support Tencent Secure Content Delivery Network](https://github.com/tailwarden/komiser/issues/794)
+
+- [Support Tencent Enterprise Content Delivery Network](https://github.com/tailwarden/komiser/issues/793)
+
+- [[TECH-1200] Calculate cost for GCP Functions](https://github.com/tailwarden/komiser/issues/781)
+
+- [[TECH-1199] Calculate cost for GCP BigQuery Tables](https://github.com/tailwarden/komiser/issues/784)
+
+- [Support Tencent Content Delivery Network](https://github.com/tailwarden/komiser/issues/764)
+
+- [Calculate cost for GCP Certificates](https://github.com/tailwarden/komiser/issues/783)
+
+- [Calculate cost for GCP Container cluster](https://github.com/tailwarden/komiser/issues/782)
+
+- [Calculate cost for GCP Gateways](https://github.com/tailwarden/komiser/issues/780)
+
+- [Calculate cost for GCP KMS Keys](https://github.com/tailwarden/komiser/issues/779)
+
+- [Calculate cost for GCP Redis instances](https://github.com/tailwarden/komiser/issues/778)
+
+- [Calculate cost for GCP SQL Instances](https://github.com/tailwarden/komiser/issues/777)
+
+- [Support Tencent Serverless Cloud Function](https://github.com/tailwarden/komiser/issues/769)
+
+- [Support TencentDB for PostgreSQL](https://github.com/tailwarden/komiser/issues/768)
+
+- [Support TencentDB for MongoDB](https://github.com/tailwarden/komiser/issues/767)
+
+- [Support TencentDB for Redis](https://github.com/tailwarden/komiser/issues/766)
+
+- [Support TencentDB for MySQL](https://github.com/tailwarden/komiser/issues/765)
+
+- [Support Tencent NAT Gateway](https://github.com/tailwarden/komiser/issues/763)
+
+- [Support Tencent Virtual Private Cloud](https://github.com/tailwarden/komiser/issues/762)
+
+- [Support Tencent Cloud Load Balancer](https://github.com/tailwarden/komiser/issues/761)
+
+- [Support Tencent Cloud File Storage](https://github.com/tailwarden/komiser/issues/760)
+
+- [Support Tencent Cloud Block Storage](https://github.com/tailwarden/komiser/issues/759)
+
+- [Support Tencent Cloud Object Storage](https://github.com/tailwarden/komiser/issues/758)
+
+- [Support Tencent Kubernetes Engine](https://github.com/tailwarden/komiser/issues/757)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
+
+- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
 
