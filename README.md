@@ -4,12 +4,28 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 15:02 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 15:12 UTC.</div>
+
+
+## armadaproject/armada <span style='color:#F1C40F'>(313 ⭐️)</span>
+
+- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(823 ⭐️)</span>
 
 - [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
@@ -37,17 +53,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
@@ -133,11 +138,6 @@
 - [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
 
 
-## armadaproject/armada <span style='color:#F1C40F'>(313 ⭐️)</span>
-
-- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
-
-
 ## operator-framework/operator-controller <span style='color:#F1C40F'>(4 ⭐️)</span>
 
 - [Update util tests](https://github.com/operator-framework/operator-controller/issues/197)
@@ -176,15 +176,6 @@
 - [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
 
 - [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
-
-
-## tmc/langchaingo <span style='color:#F1C40F'>(197 ⭐️)</span>
-
-- [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
-
-- [Introduce `prompts` concept](https://github.com/tmc/langchaingo/issues/31)
-
-- [Add doc.go files to every package.](https://github.com/tmc/langchaingo/issues/5)
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(197 ⭐️)</span>
@@ -320,13 +311,4 @@
 - [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
-
-- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
-
-- [proposal: link and tooltips have style.opacity:0](https://github.com/terrastruct/d2/issues/1211)
 
