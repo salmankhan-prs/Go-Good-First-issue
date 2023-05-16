@@ -4,7 +4,27 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 12:52 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 13:02 UTC.</div>
+
+
+## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
+
+- [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## traPtitech/traPortfolio <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [dbコンテナのhealthcheckのタイミングがずれてる](https://github.com/traPtitech/traPortfolio/issues/514)
 
 
 ## PuremlHQ/PureML <span style='color:#F1C40F'>(170 ⭐️)</span>
@@ -79,11 +99,6 @@
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
 
 - [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
@@ -131,11 +146,6 @@
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(514 ⭐️)</span>
@@ -286,4 +296,47 @@
 - [Update Cluster Service CIDRs in CI](https://github.com/antrea-io/antrea/issues/4981)
 
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.0K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(703 ⭐️)</span>
+
+- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
+
+
+## mosn/layotto <span style='color:#F1C40F'>(731 ⭐️)</span>
+
+- [为 configure API 开发nacos组件 ](https://github.com/mosn/layotto/issues/921)
+
+- [提供一个layotto的本地模式，为sdk提供ci的能力](https://github.com/mosn/layotto/issues/913)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
+
+- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+
+## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
 
