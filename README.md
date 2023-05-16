@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 22:12 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 22:22 UTC.</div>
+
+
+## rancher/opni <span style='color:#F1C40F'>(256 ⭐️)</span>
+
+- [Pin version of grafana for Monitoring](https://github.com/rancher/opni/issues/1357)
+
+- [Allow editing roles](https://github.com/rancher/opni/issues/1327)
+
+- [Panic encountered while watching data import progress:](https://github.com/rancher/opni/issues/1375)
+
+- [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -339,13 +350,4 @@
 ## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
 
 - [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
-
-
-## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
-
-- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
-
-- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
 
