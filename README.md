@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 14:02 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 14:12 UTC.</div>
+
+
+## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
+
+- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
+
+- [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -22,6 +36,23 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(514 ⭐️)</span>
+
+- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
+
+- [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
+
+
+## armadaproject/armada <span style='color:#F1C40F'>(313 ⭐️)</span>
+
+- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -69,18 +100,18 @@
 - [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
 
 
+## tmc/langchaingo <span style='color:#F1C40F'>(196 ⭐️)</span>
+
+- [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
+
+- [Introduce `prompts` concept](https://github.com/tmc/langchaingo/issues/31)
+
+- [Add doc.go files to every package.](https://github.com/tmc/langchaingo/issues/5)
+
+
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
-
-- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.8K ⭐️)</span>
@@ -97,21 +128,9 @@
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
+## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
 
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(514 ⭐️)</span>
-
-- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
-
-- [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
@@ -158,6 +177,23 @@
 - [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
 
 - [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [[Feature]: Acknowledgement on deletion of backend](https://github.com/k8sgpt-ai/k8sgpt/issues/423)
+
+- [[Question]: Azure docs are out of date](https://github.com/k8sgpt-ai/k8sgpt/issues/424)
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
 ## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
@@ -207,11 +243,6 @@
 - [Deduplication of Incidents Per rule](https://github.com/konveyor/analyzer-lsp/issues/144)
 
 - [Add progress reporting showing statistics on total rules parsed, completed, matched, and failed](https://github.com/konveyor/analyzer-lsp/issues/132)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
@@ -312,27 +343,4 @@
 - [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
 
 - [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
-
-
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(36 ⭐️)</span>
-
-- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
-
-- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
-
-- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
-
-- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
-
-- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
-
-
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.2K ⭐️)</span>
-
-- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
