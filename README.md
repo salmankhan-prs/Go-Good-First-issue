@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 18:32 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 18:42 UTC.</div>
+
+
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
+
+
+## freiheit-com/kuberpult <span style='color:#F1C40F'>(19 ⭐️)</span>
+
+- [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
 
 
 ## vmware-tanzu/pinniped <span style='color:#F1C40F'>(414 ⭐️)</span>
@@ -31,11 +41,6 @@
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
-
-
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(175 ⭐️)</span>
 
 - [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
@@ -47,11 +52,6 @@
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
-## freiheit-com/kuberpult <span style='color:#F1C40F'>(19 ⭐️)</span>
-
-- [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -105,6 +105,19 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
+
+- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
+
+- [[eval] Update profile-sort flag to show valid options](https://github.com/open-policy-agent/opa/issues/5862)
+
+- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
+
+- [OPA debug logs expose X-AMZ-SECURITY-TOKEN header](https://github.com/open-policy-agent/opa/issues/5848)
 
 
 ## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
