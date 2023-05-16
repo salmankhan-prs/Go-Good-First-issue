@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 07:52 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 08:02 UTC.</div>
+
+
+## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [Split `fetching` package constants to distinct types](https://github.com/elastic/cloudbeat/issues/867)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
+
+- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
+
+- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.3K ⭐️)</span>
@@ -29,11 +52,6 @@
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -92,19 +110,6 @@
 - [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
 
 - [Migrate docker-compose deployments to Docker compose v2](https://github.com/treeverse/lakeFS/issues/5678)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
-
-- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
-
-- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-- [CNI namespace should be configurable](https://github.com/kumahq/kuma/issues/6660)
 
 
 ## NethermindEth/juno <span style='color:#F1C40F'>(172 ⭐️)</span>
@@ -247,6 +252,11 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+
+
 ## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
 
 - [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
@@ -320,11 +330,4 @@
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
-## ray-project/kuberay <span style='color:#F1C40F'>(341 ⭐️)</span>
-
-- [Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
-
-- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
 
