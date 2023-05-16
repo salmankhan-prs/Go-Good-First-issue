@@ -4,12 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 16, 2023 02:22 UTC.</div>
+<div align='center'>Last updated at May 16, 2023 02:32 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.5K ⭐️)</span>
@@ -313,11 +318,11 @@
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 
 ## provenance-io/provenance <span style='color:#F1C40F'>(74 ⭐️)</span>
