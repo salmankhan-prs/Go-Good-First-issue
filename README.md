@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 17, 2023 22:02 UTC.</div>
+<div align='center'>Last updated at May 17, 2023 22:12 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
