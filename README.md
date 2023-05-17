@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at May 17, 2023 15:22 UTC.</div>
+<div align='center'>Last updated at May 17, 2023 15:32 UTC.</div>
+
+
+## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
+
+- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
+
+- [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+
+
+## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
@@ -50,9 +69,19 @@
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+
+
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(342 ⭐️)</span>
 
 - [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
+
+
+## openfga/openfga <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Re-implement channels in ListObjects](https://github.com/openfga/openfga/issues/764)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -63,6 +92,22 @@
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.2K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
+
+- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -76,9 +121,9 @@
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+## parca-dev/parca-agent <span style='color:#F1C40F'>(320 ⭐️)</span>
 
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+- [dev: Add Loki for filtering out local cluster logs ](https://github.com/parca-dev/parca-agent/issues/1662)
 
 
 ## KonstantinGasser/scotty <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -174,6 +219,11 @@
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.6K ⭐️)</span>
+
+- [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
+
+
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(76 ⭐️)</span>
 
 - [Apps Page Text needs tweaked](https://github.com/keptn/lifecycle-toolkit/issues/1311)
@@ -212,25 +262,9 @@
 - [Feature: GUI - Version upgrade changes](https://github.com/memphisdev/memphis/issues/905)
 
 
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
-
-- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
@@ -241,6 +275,38 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
+
+- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
+
+- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
+
+- [OPA debug logs expose X-AMZ-SECURITY-TOKEN header](https://github.com/open-policy-agent/opa/issues/5848)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
+
+- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
+
+- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
+
+- [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -259,81 +325,4 @@
 - [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
 
 - [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
-
-
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
-
-
-## berops/claudie <span style='color:#F1C40F'>(234 ⭐️)</span>
-
-- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
-
-- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
-
-
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
-
-
-## berops/claudie <span style='color:#F1C40F'>(234 ⭐️)</span>
-
-- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
-
-- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
-
-- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-
-## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(100 ⭐️)</span>
-
-- [KafkaSource: Define proper openAPIV3Schema for spec and status ](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3081)
-
-- [Slow consumergroup reconciliation under load](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3046)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
-
-- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
-
-- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
-
-- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
-
-- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
-
-
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
