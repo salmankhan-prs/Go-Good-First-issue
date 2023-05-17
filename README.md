@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 17, 2023 02:52 UTC.</div>
+<div align='center'>Last updated at May 17, 2023 03:02 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -27,16 +37,6 @@
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(604 ⭐️)</span>
 
 - [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
@@ -370,9 +370,4 @@
 ## freiheit-com/kuberpult <span style='color:#F1C40F'>(19 ⭐️)</span>
 
 - [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
-
-
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
