@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at May 17, 2023 19:42 UTC.</div>
+<div align='center'>Last updated at May 17, 2023 19:52 UTC.</div>
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(38 ⭐️)</span>
+
+- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
+
+- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
+
+
+## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
 
 
 ## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
@@ -151,11 +163,6 @@
 - [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
 
 
-## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
-
-
 ## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
 
 - [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
@@ -177,9 +184,9 @@
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
 
-- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
-
 - [[Suggestion] We could also add the `Push` in the test name as it is focused on the errors happening in the `Push` method.](https://github.com/celestiaorg/celestia-app/issues/1784)
+
+- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
 
 - [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
 
@@ -377,9 +384,4 @@
 ## KonstantinGasser/scotty <span style='color:#F1C40F'>(4 ⭐️)</span>
 
 - [browsing the logs with j/k and page turning wrong](https://github.com/KonstantinGasser/scotty/issues/14)
-
-
-## buildpacks/lifecycle <span style='color:#F1C40F'>(164 ⭐️)</span>
-
-- [Upgrade api version in acceptance tests to non-deprecated version](https://github.com/buildpacks/lifecycle/issues/1079)
 
