@@ -4,12 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 17, 2023 23:02 UTC.</div>
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+<div align='center'>Last updated at May 17, 2023 23:12 UTC.</div>
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -19,6 +14,16 @@
 - [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -120,11 +125,6 @@
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(604 ⭐️)</span>
 
 - [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## provenance-io/provenance <span style='color:#F1C40F'>(74 ⭐️)</span>
