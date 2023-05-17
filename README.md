@@ -4,10 +4,31 @@
 
 
 
-<div align='center'>Last updated at May 17, 2023 20:22 UTC.</div>
+<div align='center'>Last updated at May 17, 2023 20:32 UTC.</div>
 
 
-## parca-dev/parca-agent <span style='color:#F1C40F'>(320 ⭐️)</span>
+## apache/trafficcontrol <span style='color:#F1C40F'>(896 ⭐️)</span>
+
+- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
+
+
+## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
+
+- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## parca-dev/parca-agent <span style='color:#F1C40F'>(321 ⭐️)</span>
 
 - [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
 
@@ -45,6 +66,13 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(38 ⭐️)</span>
@@ -97,17 +125,6 @@
 - [Update links to deprecated Helm v2 Mixin](https://github.com/getporter/porter/issues/2759)
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-
 ## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
 
 - [slirp4netns should honour the `helper_binaries_dir` config](https://github.com/containers/podman/issues/18568)
@@ -146,13 +163,6 @@
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
 - [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -207,13 +217,13 @@
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
 
+- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
+
 - [[Suggestion] We could also add the `Push` in the test name as it is focused on the errors happening in the `Push` method.](https://github.com/celestiaorg/celestia-app/issues/1784)
 
 - [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
 
 - [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
-
-- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
 
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
@@ -299,11 +309,6 @@
 - [Docs: Filter example contains error](https://github.com/zalando/skipper/issues/2280)
 
 
-## apache/trafficcontrol <span style='color:#F1C40F'>(896 ⭐️)</span>
-
-- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
-
-
 ## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
 
 - [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
@@ -312,11 +317,6 @@
 ## acorn-io/acorn <span style='color:#F1C40F'>(997 ⭐️)</span>
 
 - [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
-
-
-## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
 
 
 ## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
