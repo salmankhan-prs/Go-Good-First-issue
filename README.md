@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at May 17, 2023 06:22 UTC.</div>
+<div align='center'>Last updated at May 17, 2023 06:32 UTC.</div>
+
+
+## PuremlHQ/PureML <span style='color:#F1C40F'>(170 ⭐️)</span>
+
+- [Adding function documentation for DAOs](https://github.com/PuremlHQ/PureML/issues/227)
+
+- [API Tests: Dataset/Model Review API tests](https://github.com/PuremlHQ/PureML/issues/226)
+
+- [API Tests: Dataset/Model Readme API tests](https://github.com/PuremlHQ/PureML/issues/225)
+
+- [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
+
+- [Incorrect message displayed in CLI after new user signs up](https://github.com/PuremlHQ/PureML/issues/216)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -81,6 +99,8 @@
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
 
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
@@ -95,9 +115,17 @@
 - [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
 
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -132,19 +160,6 @@
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
-
-- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
 ## cloudwego/hertz <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -317,6 +332,11 @@
 - [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
 
 
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
+
+
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
 
 - [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
@@ -334,9 +354,4 @@
 ## acorn-io/acorn <span style='color:#F1C40F'>(995 ⭐️)</span>
 
 - [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
-
-
-## gophish/gophish <span style='color:#F1C40F'>(9.0K ⭐️)</span>
-
-- [Any way to add people in "cc" while launching a campaign.](https://github.com/gophish/gophish/issues/2852)
 
