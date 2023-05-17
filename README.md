@@ -4,12 +4,43 @@
 
 
 
-<div align='center'>Last updated at May 17, 2023 05:42 UTC.</div>
+<div align='center'>Last updated at May 17, 2023 05:52 UTC.</div>
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
+
+- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
+
+- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
+
+- [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.2K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(704 ⭐️)</span>
@@ -22,9 +53,11 @@
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
 
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(16 ⭐️)</span>
@@ -63,11 +96,6 @@
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
 
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
@@ -93,9 +121,19 @@
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
 
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+- [Feature: Expect a document bot](https://github.com/OpenIMSDK/Open-IM-Server/issues/393)
+
+- [Provides OpenIM document translation](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
+
+- [【RFC】Design of OpenIM Log Package Zap](https://github.com/OpenIMSDK/Open-IM-Server/issues/387)
+
+- [[Feature]: The open im flutter sdk supports the web/pc side](https://github.com/OpenIMSDK/Open-IM-Server/issues/386)
+
+- [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
+
+- [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
@@ -111,13 +149,6 @@
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(604 ⭐️)</span>
@@ -168,13 +199,6 @@
 ## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
 
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
-
-- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -326,109 +350,4 @@
 - [[GC] Output deleted and failed-to-delete objects](https://github.com/treeverse/lakeFS/issues/5716)
 
 - [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
-
-
-## GoogleCloudPlatform/testgrid <span style='color:#F1C40F'>(173 ⭐️)</span>
-
-- [TestGrid API: Implement Dashboard Tab Endpoint](https://github.com/GoogleCloudPlatform/testgrid/issues/1200)
-
-- [TestGrid API: Dashboards should contain a reference to the group they belong to](https://github.com/GoogleCloudPlatform/testgrid/issues/1199)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(515 ⭐️)</span>
-
-- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
-
-- [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
-
-- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-
-## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [Add Table of CLI Flags, Environment Variables, and Descriptions to Getting Started Guide](https://github.com/target/goalert/issues/3023)
-
-- [Add Service "Name" field to user notification webhook data.](https://github.com/target/goalert/issues/3009)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## ray-project/kuberay <span style='color:#F1C40F'>(342 ⭐️)</span>
-
-- [Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
-
-- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
-
-
-## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
-
-- [Clean up Engine Logs](https://github.com/konveyor/analyzer-lsp/issues/156)
-
-- [Add a test for namespaces support in xpath expressions](https://github.com/konveyor/analyzer-lsp/issues/120)
-
-- [Change dependency output into a list by provider](https://github.com/konveyor/analyzer-lsp/issues/140)
-
-- [Deduplication of Incidents Per rule](https://github.com/konveyor/analyzer-lsp/issues/144)
-
-- [Add progress reporting showing statistics on total rules parsed, completed, matched, and failed](https://github.com/konveyor/analyzer-lsp/issues/132)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
-
-- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
-
-- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
-
-- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
-
-- [OPA debug logs expose X-AMZ-SECURITY-TOKEN header](https://github.com/open-policy-agent/opa/issues/5848)
-
-
-## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
-
-- [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
-
-- [Feature: GUI - Version upgrade changes](https://github.com/memphisdev/memphis/issues/905)
-
-
-## freiheit-com/kuberpult <span style='color:#F1C40F'>(19 ⭐️)</span>
-
-- [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
-
-
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
-
-
-## vmware-tanzu/pinniped <span style='color:#F1C40F'>(414 ⭐️)</span>
-
-- [Add docs for how to use the Pinniped Supervisor and CLI without using the Concierge (using the Kube API server flags instead of Concierge)](https://github.com/vmware-tanzu/pinniped/issues/1506)
-
-- [Add requirement for kube-apiserver not including `--anonymous-auth=false` flag to Concierge docs (when impersonation proxy is not being used)](https://github.com/vmware-tanzu/pinniped/issues/1512)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(175 ⭐️)</span>
-
-- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
-
-- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
-
-- [Use unique error codes for `x/qgb` module](https://github.com/celestiaorg/celestia-app/issues/1669)
-
-- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
-
-- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
 
