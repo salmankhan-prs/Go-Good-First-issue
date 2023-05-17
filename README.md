@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 17, 2023 06:52 UTC.</div>
+<div align='center'>Last updated at May 17, 2023 07:02 UTC.</div>
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -15,6 +26,11 @@
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.2K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -44,25 +60,9 @@
 - [Incorrect message displayed in CLI after new user signs up](https://github.com/PuremlHQ/PureML/issues/216)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -160,33 +160,6 @@
 - [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
-## cloudwego/hertz <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Introduce constants for commonly used MIME types](https://github.com/cloudwego/hertz/issues/754)
-
-
-## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
-
-- [Feature: Expect a document bot](https://github.com/OpenIMSDK/Open-IM-Server/issues/393)
-
-- [Provides OpenIM document translation](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
-
-- [【RFC】Design of OpenIM Log Package Zap](https://github.com/OpenIMSDK/Open-IM-Server/issues/387)
-
-- [[Feature]: The open im flutter sdk supports the web/pc side](https://github.com/OpenIMSDK/Open-IM-Server/issues/386)
-
-- [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
-
-- [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
-
-
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
 
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
@@ -228,6 +201,20 @@
 - [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
 
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(749 ⭐️)</span>
+
+- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
+
+- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
+
+
+## kubeshop/tracetest <span style='color:#F1C40F'>(545 ⭐️)</span>
+
+- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
+
+- [update 'Help and resources' menu](https://github.com/kubeshop/tracetest/issues/2419)
 
 
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(749 ⭐️)</span>
@@ -356,4 +343,65 @@
 ## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
 
 - [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
+
+
+## acorn-io/acorn <span style='color:#F1C40F'>(995 ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
+
+
+## gophish/gophish <span style='color:#F1C40F'>(9.0K ⭐️)</span>
+
+- [Any way to add people in "cc" while launching a campaign.](https://github.com/gophish/gophish/issues/2852)
+
+
+## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
+
+- [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+- [[GC] Output deleted and failed-to-delete objects](https://github.com/treeverse/lakeFS/issues/5716)
+
+- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
+
+
+## GoogleCloudPlatform/testgrid <span style='color:#F1C40F'>(173 ⭐️)</span>
+
+- [TestGrid API: Implement Dashboard Tab Endpoint](https://github.com/GoogleCloudPlatform/testgrid/issues/1200)
+
+- [TestGrid API: Dashboards should contain a reference to the group they belong to](https://github.com/GoogleCloudPlatform/testgrid/issues/1199)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(515 ⭐️)</span>
+
+- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
+
+- [nodebuilder: Explore why `mergo` does not preserve custom values for top-level field for the field that it is changing](https://github.com/celestiaorg/celestia-node/issues/2090)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
+
+- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+
+## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [Add Table of CLI Flags, Environment Variables, and Descriptions to Getting Started Guide](https://github.com/target/goalert/issues/3023)
+
+- [Add Service "Name" field to user notification webhook data.](https://github.com/target/goalert/issues/3009)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
