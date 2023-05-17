@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 17, 2023 00:42 UTC.</div>
+<div align='center'>Last updated at May 17, 2023 00:52 UTC.</div>
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(604 ⭐️)</span>
@@ -25,6 +25,11 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
@@ -91,11 +96,6 @@
 - [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
 
 
-## temporalio/temporal <span style='color:#F1C40F'>(7.1K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
 ## provenance-io/provenance <span style='color:#F1C40F'>(74 ⭐️)</span>
 
 - [Enhance CountAuthorization to have a sub-authorization field](https://github.com/provenance-io/provenance/issues/1483)
@@ -109,6 +109,11 @@
 ## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [TestSystemThrottler test flake](https://github.com/ava-labs/avalanchego/issues/1414)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## rancher/opni <span style='color:#F1C40F'>(256 ⭐️)</span>
@@ -376,20 +381,4 @@
 - [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
 
 - [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
-
-
-## googleapis/api-linter <span style='color:#F1C40F'>(464 ⭐️)</span>
-
-- [AIP-213: disallow cross-API dependencies](https://github.com/googleapis/api-linter/issues/1153)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
-
-- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
-
-- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
-
-- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
 
