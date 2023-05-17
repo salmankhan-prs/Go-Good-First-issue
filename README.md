@@ -4,7 +4,53 @@
 
 
 
-<div align='center'>Last updated at May 17, 2023 07:52 UTC.</div>
+<div align='center'>Last updated at May 17, 2023 08:02 UTC.</div>
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(38 ⭐️)</span>
+
+- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
+
+- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(505 ⭐️)</span>
+
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
+
+
+## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
+
+- [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
+
+- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
+
+- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
+
+- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+- [[GC] Output deleted and failed-to-delete objects](https://github.com/treeverse/lakeFS/issues/5716)
+
+- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -117,23 +163,9 @@
 - [Incorrect message displayed in CLI after new user signs up](https://github.com/PuremlHQ/PureML/issues/216)
 
 
-## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
-
-
 ## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
 
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-
-## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
-
-- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
-
-- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
-
-- [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
 
 
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
@@ -276,13 +308,6 @@
 - [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
 
 
-## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(749 ⭐️)</span>
-
-- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
-
-- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
-
-
 ## kubeshop/tracetest <span style='color:#F1C40F'>(545 ⭐️)</span>
 
 - [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
@@ -295,116 +320,4 @@
 - [alpha.cuelang.org: upstream internal/parse](https://github.com/cue-lang/cue/issues/2387)
 
 - [cuelang.org: "Create Documentation Issue" link broken](https://github.com/cue-lang/cue/issues/2364)
-
-
-## onflow/cadence <span style='color:#F1C40F'>(465 ⭐️)</span>
-
-- [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
-
-
-## provenance-io/provenance <span style='color:#F1C40F'>(74 ⭐️)</span>
-
-- [Enhance CountAuthorization to have a sub-authorization field](https://github.com/provenance-io/provenance/issues/1483)
-
-
-## openfga/openfga <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Re-implement channels in ListObjects](https://github.com/openfga/openfga/issues/764)
-
-
-## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [TestSystemThrottler test flake](https://github.com/ava-labs/avalanchego/issues/1414)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## rancher/opni <span style='color:#F1C40F'>(256 ⭐️)</span>
-
-- [Pin version of grafana for Monitoring](https://github.com/rancher/opni/issues/1357)
-
-- [Allow editing roles](https://github.com/rancher/opni/issues/1327)
-
-- [Panic encountered while watching data import progress:](https://github.com/rancher/opni/issues/1375)
-
-- [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
-## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
-
-- [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.4K ⭐️)</span>
-
-- [adjust edge spacing/minimum length](https://github.com/terrastruct/d2/issues/1214)
-
-- [`font-color` should apply to markdown](https://github.com/terrastruct/d2/issues/1229)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
-
-
-## googleapis/api-linter <span style='color:#F1C40F'>(466 ⭐️)</span>
-
-- [AIP-213: disallow cross-API dependencies](https://github.com/googleapis/api-linter/issues/1153)
-
-
-## Jguer/yay <span style='color:#F1C40F'>(9.2K ⭐️)</span>
-
-- [Mutual blocking of processes](https://github.com/Jguer/yay/issues/2123)
-
-
-## base-org/pessimism <span style='color:#F1C40F'>(514 ⭐️)</span>
-
-- [Enforcing Function Header Comment Hygiene](https://github.com/base-org/pessimism/issues/40)
-
-- [No Unit Tests for Pipeline & ETL Manager Logic](https://github.com/base-org/pessimism/issues/33)
-
-
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(38 ⭐️)</span>
-
-- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
-
-- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
-
-- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
-## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
-
-
-## acorn-io/acorn <span style='color:#F1C40F'>(995 ⭐️)</span>
-
-- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
 
