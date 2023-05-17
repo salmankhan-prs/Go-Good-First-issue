@@ -4,12 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 17, 2023 18:22 UTC.</div>
-
-
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+<div align='center'>Last updated at May 17, 2023 18:32 UTC.</div>
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -36,6 +31,25 @@
 - [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
 
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
+
+- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
+
+- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
+
+- [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
+
+
+## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [TestSystemThrottler test flake](https://github.com/ava-labs/avalanchego/issues/1414)
+
+
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -325,7 +339,7 @@
 - [Upgrade api version in acceptance tests to non-deprecated version](https://github.com/buildpacks/lifecycle/issues/1079)
 
 
-## kairos-io/kairos <span style='color:#F1C40F'>(506 ⭐️)</span>
+## kairos-io/kairos <span style='color:#F1C40F'>(507 ⭐️)</span>
 
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
@@ -396,17 +410,4 @@
 - [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
 
 - [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
-
-- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
-
-- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
-
-- [[GC] Output deleted and failed-to-delete objects](https://github.com/treeverse/lakeFS/issues/5716)
-
-- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
 
