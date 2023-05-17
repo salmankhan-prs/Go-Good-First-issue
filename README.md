@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 17, 2023 22:32 UTC.</div>
+<div align='center'>Last updated at May 17, 2023 22:42 UTC.</div>
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -159,6 +159,11 @@
 ## apache/trafficcontrol <span style='color:#F1C40F'>(896 ⭐️)</span>
 
 - [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
 ## googleapis/api-linter <span style='color:#F1C40F'>(466 ⭐️)</span>
