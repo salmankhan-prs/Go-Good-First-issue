@@ -4,7 +4,33 @@
 
 
 
-<div align='center'>Last updated at May 17, 2023 16:02 UTC.</div>
+<div align='center'>Last updated at May 17, 2023 16:12 UTC.</div>
+
+
+## apache/trafficcontrol <span style='color:#F1C40F'>(896 ⭐️)</span>
+
+- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
+- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
+## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
+
+- [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
 
 
 ## acorn-io/acorn <span style='color:#F1C40F'>(997 ⭐️)</span>
@@ -68,13 +94,6 @@
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
-## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
-
-- [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
-
-
 ## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
 
 - [Add Table of CLI Flags, Environment Variables, and Descriptions to Getting Started Guide](https://github.com/target/goalert/issues/3023)
@@ -103,11 +122,6 @@
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
 
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -161,6 +175,22 @@
 - [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## parca-dev/parca-agent <span style='color:#F1C40F'>(320 ⭐️)</span>
+
+- [dev: Add Loki for filtering out local cluster logs ](https://github.com/parca-dev/parca-agent/issues/1662)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -270,17 +300,6 @@
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
-
-- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.6K ⭐️)</span>
 
 - [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
@@ -328,35 +347,4 @@
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
-
-- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
-
-- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
-
-- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
-
-- [OPA debug logs expose X-AMZ-SECURITY-TOKEN header](https://github.com/open-policy-agent/opa/issues/5848)
-
-
-## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
-
-- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
-
-- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
-
-- [Increase sync-block-duration default](https://github.com/thanos-io/thanos/issues/6288)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
-
-- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
-
-- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
