@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 21:42 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 21:52 UTC.</div>
 
 
 ## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
