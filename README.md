@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 12:12 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 12:22 UTC.</div>
 
 
 ## pepedocs/ocm-workspace <span style='color:#F1C40F'>(1 ⭐️)</span>
@@ -16,6 +16,16 @@
 - [Enhance logging](https://github.com/pepedocs/ocm-workspace/issues/20)
 
 - [Enhance error handling](https://github.com/pepedocs/ocm-workspace/issues/21)
+
+
+## armadaproject/armada <span style='color:#F1C40F'>(313 ⭐️)</span>
+
+- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
@@ -288,11 +298,6 @@
 - [Introduce constants for commonly used MIME types](https://github.com/cloudwego/hertz/issues/754)
 
 
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(342 ⭐️)</span>
 
 - [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
@@ -315,15 +320,4 @@
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Retrieving secret version isn't working with AWS Parameter Store](https://github.com/external-secrets/external-secrets/issues/2330)
-
-- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
-
-- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
 
