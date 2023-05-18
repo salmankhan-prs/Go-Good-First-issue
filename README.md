@@ -4,7 +4,29 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 00:22 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 00:32 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
+
+
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(750 ⭐️)</span>
+
+- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
+
+- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
@@ -21,14 +43,24 @@
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
+## rancher/opni <span style='color:#F1C40F'>(256 ⭐️)</span>
+
+- [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
+
+- [Data import Sending too large packets](https://github.com/rancher/opni/issues/1415)
+
+- [Pin version of grafana for Monitoring](https://github.com/rancher/opni/issues/1357)
+
+- [Allow editing roles](https://github.com/rancher/opni/issues/1327)
+
+- [Panic encountered while watching data import progress:](https://github.com/rancher/opni/issues/1375)
+
+- [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
+
+
 ## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
 
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -61,11 +93,6 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -202,13 +229,6 @@
 - [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
 
 
-## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(750 ⭐️)</span>
-
-- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
-
-- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
-
-
 ## apache/trafficcontrol <span style='color:#F1C40F'>(896 ⭐️)</span>
 
 - [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
@@ -305,11 +325,6 @@
 - [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
 
 - [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
