@@ -4,7 +4,41 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 14:42 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 14:52 UTC.</div>
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+
+## grafana/xk6-disruptor <span style='color:#F1C40F'>(38 ⭐️)</span>
+
+- [Make agent "port" argument required and remove default value](https://github.com/grafana/xk6-disruptor/issues/161)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -24,6 +58,22 @@
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.0K ⭐️)</span>
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+
+
 ## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
@@ -31,11 +81,6 @@
 - [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
 
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
@@ -72,17 +117,6 @@
 - [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
 
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
@@ -269,11 +303,6 @@
 - [Jenkins runner support](https://github.com/chainloop-dev/chainloop/issues/88)
 
 
-## knative/pkg <span style='color:#F1C40F'>(241 ⭐️)</span>
-
-- [Eventing TLS: validate that `Destination.CACerts` is a PEM encoded cert](https://github.com/knative/pkg/issues/2741)
-
-
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
 
 - [Feature: Expect a document bot](https://github.com/OpenIMSDK/Open-IM-Server/issues/393)
@@ -308,57 +337,4 @@
 ## base-org/pessimism <span style='color:#F1C40F'>(515 ⭐️)</span>
 
 - [Enforcing Function Header Comment Hygiene](https://github.com/base-org/pessimism/issues/40)
-
-
-## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [Support Tencent Peering Connections](https://github.com/tailwarden/komiser/issues/796)
-
-- [Support Tencent Flow Logs](https://github.com/tailwarden/komiser/issues/795)
-
-- [Support Tencent Secure Content Delivery Network](https://github.com/tailwarden/komiser/issues/794)
-
-- [Support Tencent Enterprise Content Delivery Network](https://github.com/tailwarden/komiser/issues/793)
-
-- [[TECH-1199] Calculate cost for GCP BigQuery Tables](https://github.com/tailwarden/komiser/issues/784)
-
-- [Support Tencent Content Delivery Network](https://github.com/tailwarden/komiser/issues/764)
-
-- [Calculate cost for GCP Certificates](https://github.com/tailwarden/komiser/issues/783)
-
-- [Calculate cost for GCP Container cluster](https://github.com/tailwarden/komiser/issues/782)
-
-- [Calculate cost for GCP Gateways](https://github.com/tailwarden/komiser/issues/780)
-
-- [Calculate cost for GCP KMS Keys](https://github.com/tailwarden/komiser/issues/779)
-
-- [Calculate cost for GCP Redis instances](https://github.com/tailwarden/komiser/issues/778)
-
-- [Calculate cost for GCP SQL Instances](https://github.com/tailwarden/komiser/issues/777)
-
-- [Support Tencent Serverless Cloud Function](https://github.com/tailwarden/komiser/issues/769)
-
-- [Support TencentDB for PostgreSQL](https://github.com/tailwarden/komiser/issues/768)
-
-- [Support TencentDB for MongoDB](https://github.com/tailwarden/komiser/issues/767)
-
-- [Support TencentDB for Redis](https://github.com/tailwarden/komiser/issues/766)
-
-- [Support TencentDB for MySQL](https://github.com/tailwarden/komiser/issues/765)
-
-- [Support Tencent NAT Gateway](https://github.com/tailwarden/komiser/issues/763)
-
-- [Support Tencent Virtual Private Cloud](https://github.com/tailwarden/komiser/issues/762)
-
-- [Support Tencent Cloud Load Balancer](https://github.com/tailwarden/komiser/issues/761)
-
-- [Support Tencent Cloud File Storage](https://github.com/tailwarden/komiser/issues/760)
-
-- [Support Tencent Cloud Block Storage](https://github.com/tailwarden/komiser/issues/759)
-
-- [Support Tencent Cloud Object Storage](https://github.com/tailwarden/komiser/issues/758)
-
-- [Support Tencent Kubernetes Engine](https://github.com/tailwarden/komiser/issues/757)
-
-- [Support Tencent Elastic Kubernetes Service](https://github.com/tailwarden/komiser/issues/756)
 
