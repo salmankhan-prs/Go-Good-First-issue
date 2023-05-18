@@ -4,7 +4,39 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 17:52 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 18:02 UTC.</div>
+
+
+## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
+
+
+## grafana/xk6-disruptor <span style='color:#F1C40F'>(38 ⭐️)</span>
+
+- [Make agent "port" argument required and remove default value](https://github.com/grafana/xk6-disruptor/issues/161)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
 ## metallb/metallb <span style='color:#F1C40F'>(5.8K ⭐️)</span>
@@ -30,26 +62,13 @@
 - [Incorrect message displayed in CLI after new user signs up](https://github.com/PuremlHQ/PureML/issues/216)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
 
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
 
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## rancher/opni <span style='color:#F1C40F'>(256 ⭐️)</span>
@@ -109,6 +128,16 @@
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 
+## defenseunicorns/zarf <span style='color:#F1C40F'>(605 ⭐️)</span>
+
+- [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(343 ⭐️)</span>
+
+- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
+
+
 ## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
@@ -120,6 +149,8 @@
 
 
 ## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [cosign load '--allow-insecure-registry' ](https://github.com/sigstore/cosign/issues/2986)
 
 - [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
 
@@ -256,15 +287,6 @@
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.0K ⭐️)</span>
 
 - [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
@@ -289,11 +311,6 @@
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
-## grafana/xk6-disruptor <span style='color:#F1C40F'>(38 ⭐️)</span>
-
-- [Make agent "port" argument required and remove default value](https://github.com/grafana/xk6-disruptor/issues/161)
-
-
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
@@ -314,9 +331,4 @@
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
 - [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
-
-
-## chaosblade-io/chaosblade <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [docker file chmod scene failed](https://github.com/chaosblade-io/chaosblade/issues/884)
 
