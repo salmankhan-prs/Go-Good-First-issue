@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 12:32 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 12:42 UTC.</div>
+
+
+## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
+
+- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
+
+- [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -198,7 +207,12 @@
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
-## base-org/pessimism <span style='color:#F1C40F'>(514 ⭐️)</span>
+## base-org/pessimism <span style='color:#F1C40F'>(515 ⭐️)</span>
+
+- [Enforcing Function Header Comment Hygiene](https://github.com/base-org/pessimism/issues/40)
+
+
+## base-org/pessimism <span style='color:#F1C40F'>(515 ⭐️)</span>
 
 - [Enforcing Function Header Comment Hygiene](https://github.com/base-org/pessimism/issues/40)
 
