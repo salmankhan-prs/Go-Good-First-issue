@@ -4,12 +4,24 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 02:22 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 02:32 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## TBD54566975/ssi-service <span style='color:#F1C40F'>(122 ⭐️)</span>
@@ -110,13 +122,6 @@
 - [Add P-chain config for cache sizes](https://github.com/ava-labs/avalanchego/issues/1522)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
 
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
@@ -146,11 +151,6 @@
 - [Improve config option parity between medusa and echidna](https://github.com/crytic/medusa/issues/140)
 
 - [Add to support for fork selection to TestChainConfig](https://github.com/crytic/medusa/issues/138)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(750 ⭐️)</span>
