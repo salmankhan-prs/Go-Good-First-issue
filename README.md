@@ -4,16 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 11:42 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 11:52 UTC.</div>
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
+## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
 
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -27,21 +23,44 @@
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
 
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
+
+- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
+
+- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
 
 
-## berops/claudie <span style='color:#F1C40F'>(237 ⭐️)</span>
+## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## berops/claudie <span style='color:#F1C40F'>(238 ⭐️)</span>
 
 - [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
 
 - [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
 
 
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.3K ⭐️)</span>
+
+- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -64,11 +83,6 @@
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.3K ⭐️)</span>
-
-- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
-
-
 ## chainloop-dev/chainloop <span style='color:#F1C40F'>(182 ⭐️)</span>
 
 - [deployment: split sentry configuration](https://github.com/chainloop-dev/chainloop/issues/104)
@@ -78,11 +92,6 @@
 - [Create first robot-account during workflow creation](https://github.com/chainloop-dev/chainloop/issues/90)
 
 - [Jenkins runner support](https://github.com/chainloop-dev/chainloop/issues/88)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## knative/pkg <span style='color:#F1C40F'>(241 ⭐️)</span>
@@ -301,87 +310,4 @@
 - [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
 
 - [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
-
-- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-
-## KindlingProject/kindling <span style='color:#F1C40F'>(391 ⭐️)</span>
-
-- [Grafana Kindling WorkLoad Detail  无法查看只有出流量的pod](https://github.com/KindlingProject/kindling/issues/517)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(604 ⭐️)</span>
-
-- [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
-
-
-## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(707 ⭐️)</span>
-
-- [(feature) Support multiple-line targeting rule in GOFF editor](https://github.com/thomaspoignant/go-feature-flag/issues/797)
-
-- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
-## opensearch-project/opensearch-go <span style='color:#F1C40F'>(121 ⭐️)</span>
-
-- [[PROPOSAL] Code quality analysis](https://github.com/opensearch-project/opensearch-go/issues/307)
-
-
-## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
-
-
-## ray-project/kuberay <span style='color:#F1C40F'>(346 ⭐️)</span>
-
-- [Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
-
-- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
 
