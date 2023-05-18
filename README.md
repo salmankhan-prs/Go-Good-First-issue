@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 22:32 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 22:42 UTC.</div>
+
+
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
@@ -45,11 +55,6 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
 
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
@@ -75,6 +80,11 @@
 - [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
 
 - [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
@@ -146,11 +156,6 @@
 - [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
 
 
-## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
 - [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
@@ -216,11 +221,6 @@
 ## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
 
 - [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(134 ⭐️)</span>
@@ -319,13 +319,4 @@
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
-
-- [slirp4netns should honour the `helper_binaries_dir` config](https://github.com/containers/podman/issues/18568)
-
-- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
