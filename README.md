@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 07:22 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 07:32 UTC.</div>
+
+
+## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -44,16 +54,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## replicatedhq/troubleshoot <span style='color:#F1C40F'>(431 ⭐️)</span>
@@ -318,4 +318,94 @@
 ## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
 
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [Configurability for IP cooldown period](https://github.com/aws/amazon-vpc-cni-k8s/issues/2378)
+
+- [IP Deallocation delay when multiple enis attached to host](https://github.com/aws/amazon-vpc-cni-k8s/issues/2363)
+
+
+## TwiN/gatus <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [Able to copy text when hovering over status](https://github.com/TwiN/gatus/issues/463)
+
+
+## openfga/openfga <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Re-implement channels in ListObjects](https://github.com/openfga/openfga/issues/764)
+
+
+## MasonCompetitiveCyber/vindicta <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [Webserver](https://github.com/MasonCompetitiveCyber/vindicta/issues/10)
+
+- [Feature: Detect more network connections](https://github.com/MasonCompetitiveCyber/vindicta/issues/5)
+
+- [Update: Change loops and use Functions from Nftables package ](https://github.com/MasonCompetitiveCyber/vindicta/issues/3)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Retrieving secret version isn't working with AWS Parameter Store](https://github.com/external-secrets/external-secrets/issues/2330)
+
+- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
+
+- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+
+## berops/claudie <span style='color:#F1C40F'>(235 ⭐️)</span>
+
+- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
+
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
+
+
+## googleapis/api-linter <span style='color:#F1C40F'>(465 ⭐️)</span>
+
+- [AIP-213: disallow cross-API dependencies](https://github.com/googleapis/api-linter/issues/1153)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
+
+- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
