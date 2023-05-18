@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 00:02 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 00:12 UTC.</div>
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -371,9 +376,4 @@
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(516 ⭐️)</span>
 
 - [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
-
-
-## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Docs: Filter example contains error](https://github.com/zalando/skipper/issues/2280)
 
