@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 03:52 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 04:02 UTC.</div>
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.2K ⭐️)</span>
@@ -239,11 +244,6 @@
 ## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
 
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(3.8K ⭐️)</span>
