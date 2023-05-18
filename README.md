@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 06:42 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 06:52 UTC.</div>
+
+
+## replicatedhq/troubleshoot <span style='color:#F1C40F'>(431 ⭐️)</span>
+
+- [strings.TrimLeft is used instead of TrimPrefix](https://github.com/replicatedhq/troubleshoot/issues/1129)
 
 
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
@@ -316,21 +321,4 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [Configurability for IP cooldown period](https://github.com/aws/amazon-vpc-cni-k8s/issues/2378)
-
-- [IP Deallocation delay when multiple enis attached to host](https://github.com/aws/amazon-vpc-cni-k8s/issues/2363)
-
-
-## TwiN/gatus <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [Able to copy text when hovering over status](https://github.com/TwiN/gatus/issues/463)
-
-
-## openfga/openfga <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Re-implement channels in ListObjects](https://github.com/openfga/openfga/issues/764)
 
