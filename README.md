@@ -4,17 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 00:42 UTC.</div>
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+<div align='center'>Last updated at May 18, 2023 00:52 UTC.</div>
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(604 ⭐️)</span>
+
+- [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(750 ⭐️)</span>
@@ -89,6 +94,17 @@
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(3.8K ⭐️)</span>
@@ -196,16 +212,6 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(604 ⭐️)</span>
-
-- [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
-
-
-## provenance-io/provenance <span style='color:#F1C40F'>(74 ⭐️)</span>
-
-- [Enhance CountAuthorization to have a sub-authorization field](https://github.com/provenance-io/provenance/issues/1483)
 
 
 ## provenance-io/provenance <span style='color:#F1C40F'>(74 ⭐️)</span>
@@ -323,72 +329,4 @@
 ## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [TestSystemThrottler test flake](https://github.com/ava-labs/avalanchego/issues/1414)
-
-
-## cosmos/interchain-security <span style='color:#F1C40F'>(108 ⭐️)</span>
-
-- [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
-
-- [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
-
-- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
-
-- [[Suggestion] We could also add the `Push` in the test name as it is focused on the errors happening in the `Push` method.](https://github.com/celestiaorg/celestia-app/issues/1784)
-
-- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
-
-- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
-
-- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
-
-- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
-
-- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
-
-- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
-
-- [[GC] Output deleted and failed-to-delete objects](https://github.com/treeverse/lakeFS/issues/5716)
-
-- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
-
-
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
-
-- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
-
-
-## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
-
-- [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
-
-
-## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
-
-
-## guacsec/guac <span style='color:#F1C40F'>(828 ⭐️)</span>
-
-- [Set user agent for collector calls to "GUAC"](https://github.com/guacsec/guac/issues/768)
-
-- [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
-
-
-## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [feat(plugin): scaffold github workflow to test plugin](https://github.com/ignite/cli/issues/3495)
 
