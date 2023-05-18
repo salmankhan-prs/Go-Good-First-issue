@@ -4,7 +4,42 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 13:52 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 14:02 UTC.</div>
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
+
+- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+- [[GC] Output deleted and failed-to-delete objects](https://github.com/treeverse/lakeFS/issues/5716)
+
+- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
+- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
@@ -61,19 +96,6 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
-
-- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
-
-- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
-
-- [[GC] Output deleted and failed-to-delete objects](https://github.com/treeverse/lakeFS/issues/5716)
-
-- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
@@ -150,17 +172,6 @@
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.3K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
@@ -181,17 +192,6 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
-
-- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
 ## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -415,9 +415,4 @@
 ## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
-
-
-## cloudwego/hertz <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Introduce constants for commonly used MIME types](https://github.com/cloudwego/hertz/issues/754)
 
