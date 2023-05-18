@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 21:22 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 21:32 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(750 ⭐️)</span>
@@ -12,11 +17,6 @@
 - [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
 
 - [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(605 ⭐️)</span>
@@ -313,16 +313,4 @@
 - [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
 
 - [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-
-## apache/trafficcontrol <span style='color:#F1C40F'>(897 ⭐️)</span>
-
-- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
