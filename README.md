@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 05:32 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 05:42 UTC.</div>
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -122,11 +127,6 @@
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
-
-
-## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
 ## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(101 ⭐️)</span>
