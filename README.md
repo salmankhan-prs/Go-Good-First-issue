@@ -4,24 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 18:32 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 18:42 UTC.</div>
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
 
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [Properties of AWS resources should be in `PascalCase` casing instead of `snake_case`](https://github.com/elastic/cloudbeat/issues/914)
+- [opt: eliminate coalesce when first argument is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+## apache/trafficcontrol <span style='color:#F1C40F'>(897 ⭐️)</span>
 
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
 
 
 ## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
@@ -35,16 +28,46 @@
 - [OPA debug logs expose X-AMZ-SECURITY-TOKEN header](https://github.com/open-policy-agent/opa/issues/5848)
 
 
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
-- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
 
 
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
 
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [Properties of AWS resources should be in `PascalCase` casing instead of `snake_case`](https://github.com/elastic/cloudbeat/issues/914)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
@@ -64,6 +87,25 @@
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+
+
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
@@ -99,11 +141,6 @@
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
-## apache/trafficcontrol <span style='color:#F1C40F'>(897 ⭐️)</span>
-
-- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
-
-
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
 
 - [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
@@ -111,11 +148,6 @@
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
 
 
 ## grafana/xk6-disruptor <span style='color:#F1C40F'>(38 ⭐️)</span>
@@ -132,11 +164,6 @@
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
 
 - [cosign load '--allow-insecure-registry' ](https://github.com/sigstore/cosign/issues/2986)
@@ -148,31 +175,9 @@
 - [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
 ## metallb/metallb <span style='color:#F1C40F'>(5.8K ⭐️)</span>
 
 - [Update Kind on CI](https://github.com/metallb/metallb/issues/1939)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
-
-- [opt: eliminate coalesce when first argument is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## PuremlHQ/PureML <span style='color:#F1C40F'>(171 ⭐️)</span>
@@ -233,6 +238,19 @@
 - [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
 
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(605 ⭐️)</span>
@@ -322,28 +340,4 @@
 - [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
 
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.0K ⭐️)</span>
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
-
-- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
