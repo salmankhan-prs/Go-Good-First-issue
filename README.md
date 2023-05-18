@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 05:12 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 05:22 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
@@ -344,13 +344,4 @@
 ## provenance-io/provenance <span style='color:#F1C40F'>(74 ⭐️)</span>
 
 - [Enhance CountAuthorization to have a sub-authorization field](https://github.com/provenance-io/provenance/issues/1483)
-
-
-## pouriyajamshidi/tcping <span style='color:#F1C40F'>(133 ⭐️)</span>
-
-- [Starting and exiting immediately prints "NaN% packet loss"](https://github.com/pouriyajamshidi/tcping/issues/81)
-
-- [Automate the release process](https://github.com/pouriyajamshidi/tcping/issues/78)
-
-- [add `-c` flag to stop after n probes](https://github.com/pouriyajamshidi/tcping/issues/72)
 
