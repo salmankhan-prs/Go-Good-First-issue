@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 21:02 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 21:12 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
+## defenseunicorns/zarf <span style='color:#F1C40F'>(605 ⭐️)</span>
+
+- [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -60,9 +70,9 @@
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
 
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
@@ -319,14 +329,4 @@
 - [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
 
 - [OPA debug logs expose X-AMZ-SECURITY-TOKEN header](https://github.com/open-policy-agent/opa/issues/5848)
-
-
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
-
-
-## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
