@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 02:02 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 02:12 UTC.</div>
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
+
+
+## TBD54566975/ssi-service <span style='color:#F1C40F'>(122 ⭐️)</span>
+
+- [[Testing] Make integration test output readable](https://github.com/TBD54566975/ssi-service/issues/436)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
