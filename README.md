@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 14:02 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 14:12 UTC.</div>
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -16,6 +16,18 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## chaosblade-io/chaosblade <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [docker file chmod scene failed](https://github.com/chaosblade-io/chaosblade/issues/884)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -208,13 +220,6 @@
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
 ## replicatedhq/troubleshoot <span style='color:#F1C40F'>(431 ⭐️)</span>
 
 - [strings.TrimLeft is used instead of TrimPrefix](https://github.com/replicatedhq/troubleshoot/issues/1129)
@@ -388,31 +393,4 @@
 - [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
 
 - [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
-
-
-## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Eventing TLS: Test ApiServerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6913)
-
-- [Eventing TLS: Test ContainerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6937)
-
-- [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
-
-- [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
-
-- [Eventing TLS: Test PingSource with Broker as sink](https://github.com/knative/eventing/issues/6932)
-
-- [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
-
-- [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
-
-
-## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
 
