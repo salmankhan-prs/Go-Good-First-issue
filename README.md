@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 01:02 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 01:12 UTC.</div>
 
 
 ## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -381,9 +381,4 @@
 - [Set user agent for collector calls to "GUAC"](https://github.com/guacsec/guac/issues/768)
 
 - [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
-
-
-## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [feat(plugin): scaffold github workflow to test plugin](https://github.com/ignite/cli/issues/3495)
 
