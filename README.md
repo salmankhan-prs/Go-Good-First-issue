@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 17:32 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 17:42 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -115,6 +115,13 @@
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+
+
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
 
 - [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
@@ -139,11 +146,17 @@
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
 
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+- [Deduplication of Incidents Per rule](https://github.com/konveyor/analyzer-lsp/issues/144)
 
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+- [Add a test for namespaces support in xpath expressions](https://github.com/konveyor/analyzer-lsp/issues/120)
+
+- [Clean up Engine Logs](https://github.com/konveyor/analyzer-lsp/issues/156)
+
+- [Change dependency output into a list by provider](https://github.com/konveyor/analyzer-lsp/issues/140)
+
+- [Add progress reporting showing statistics on total rules parsed, completed, matched, and failed](https://github.com/konveyor/analyzer-lsp/issues/132)
 
 
 ## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
@@ -238,6 +251,15 @@
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
+## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.0K ⭐️)</span>
 
 - [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
@@ -267,6 +289,18 @@
 - [Make agent "port" argument required and remove default value](https://github.com/grafana/xk6-disruptor/issues/161)
 
 
+## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
+
+- [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
+
+
+## kubearmor/KubeArmor <span style='color:#F1C40F'>(703 ⭐️)</span>
+
+- [Doc: Update KubeArmor Zoom link](https://github.com/kubearmor/KubeArmor/issues/1240)
+
+
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
@@ -280,57 +314,4 @@
 ## chaosblade-io/chaosblade <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
 - [docker file chmod scene failed](https://github.com/chaosblade-io/chaosblade/issues/884)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
-
-- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
-
-- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
-
-
-## pepedocs/ocm-workspace <span style='color:#F1C40F'>(1 ⭐️)</span>
-
-- [Validate configuration file](https://github.com/pepedocs/ocm-workspace/issues/17)
-
-- [Unit and Smoke tests](https://github.com/pepedocs/ocm-workspace/issues/18)
-
-- [Enhance logging](https://github.com/pepedocs/ocm-workspace/issues/20)
-
-- [Enhance error handling](https://github.com/pepedocs/ocm-workspace/issues/21)
-
-
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
-## guacsec/guac <span style='color:#F1C40F'>(828 ⭐️)</span>
-
-- [Set user agent for collector calls to "GUAC"](https://github.com/guacsec/guac/issues/768)
-
-- [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
 
