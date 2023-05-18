@@ -4,12 +4,40 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 20:32 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 20:42 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
 - [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
+
+
+## berops/claudie <span style='color:#F1C40F'>(240 ⭐️)</span>
+
+- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
+
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
@@ -73,13 +101,6 @@
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
-## berops/claudie <span style='color:#F1C40F'>(240 ⭐️)</span>
-
-- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
-
-- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
-
-
 ## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
 
 - [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
@@ -104,6 +125,11 @@
 ## tigera/operator <span style='color:#F1C40F'>(128 ⭐️)</span>
 
 - [Typha autoscaler should exclude Fargate Nodes in node count](https://github.com/tigera/operator/issues/2592)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
 ## TBD54566975/ssi-service <span style='color:#F1C40F'>(123 ⭐️)</span>
@@ -150,11 +176,6 @@
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
 ## staticbackendhq/core <span style='color:#F1C40F'>(568 ⭐️)</span>
 
 - [[cli] Add a tail command to follow server logs](https://github.com/staticbackendhq/core/issues/85)
@@ -188,11 +209,6 @@
 ## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [The `requirements_lock` file must be fully pinned error](https://github.com/bufbuild/protoc-gen-validate/issues/863)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
@@ -234,17 +250,6 @@
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -339,15 +344,4 @@
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
 
 - [Introduce `prompts` concept](https://github.com/tmc/langchaingo/issues/31)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
-
-- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
