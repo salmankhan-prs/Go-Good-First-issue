@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 22:52 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 23:02 UTC.</div>
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+
+
+## integrations/terraform-provider-github <span style='color:#F1C40F'>(701 ⭐️)</span>
+
+- [[BUG] Unable to add github_repository_collaborators.](https://github.com/integrations/terraform-provider-github/issues/1658)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -28,13 +40,6 @@
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
 ## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
 
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
@@ -48,6 +53,8 @@
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(828 ⭐️)</span>
+
+- [fix issue with scorecard runner timing out  ](https://github.com/guacsec/guac/issues/868)
 
 - [Set user agent for collector calls to "GUAC"](https://github.com/guacsec/guac/issues/768)
 
@@ -122,6 +129,11 @@
 - [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
 
 - [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(605 ⭐️)</span>
@@ -259,6 +271,13 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
 
 
+## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
+
+- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
+
+- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
+
+
 ## rancher/opni <span style='color:#F1C40F'>(256 ⭐️)</span>
 
 - [Data import Sending too large packets](https://github.com/rancher/opni/issues/1415)
@@ -314,9 +333,4 @@
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
-## pion/ice <span style='color:#F1C40F'>(303 ⭐️)</span>
-
-- [Fix type of CandidatePairState enum](https://github.com/pion/ice/issues/571)
 
