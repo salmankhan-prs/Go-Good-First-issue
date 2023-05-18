@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 17, 2023 23:52 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 00:02 UTC.</div>
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -24,6 +24,17 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
+- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -184,17 +195,6 @@
 - [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
 
 - [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
-
-- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(750 ⭐️)</span>
