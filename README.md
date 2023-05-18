@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 23:42 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 23:52 UTC.</div>
+
+
+## guacsec/guac <span style='color:#F1C40F'>(828 ⭐️)</span>
+
+- [fix issue with scorecard runner timing out  ](https://github.com/guacsec/guac/issues/868)
+
+- [Set user agent for collector calls to "GUAC"](https://github.com/guacsec/guac/issues/768)
+
+- [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -72,22 +95,6 @@
 - [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
 
 
-## guacsec/guac <span style='color:#F1C40F'>(828 ⭐️)</span>
-
-- [fix issue with scorecard runner timing out  ](https://github.com/guacsec/guac/issues/868)
-
-- [Set user agent for collector calls to "GUAC"](https://github.com/guacsec/guac/issues/768)
-
-- [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
 ## integrations/terraform-provider-github <span style='color:#F1C40F'>(701 ⭐️)</span>
 
 - [[BUG] Unable to add github_repository_collaborators.](https://github.com/integrations/terraform-provider-github/issues/1658)
@@ -103,13 +110,6 @@
 - [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
 
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
-
-- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
