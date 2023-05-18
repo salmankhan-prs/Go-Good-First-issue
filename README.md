@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 18:42 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 18:52 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+
+## kubeshop/tracetest <span style='color:#F1C40F'>(545 ⭐️)</span>
+
+- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
+
+- [update 'Help and resources' menu](https://github.com/kubeshop/tracetest/issues/2419)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
@@ -106,11 +118,6 @@
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -276,11 +283,6 @@
 ## project-zot/zot <span style='color:#F1C40F'>(372 ⭐️)</span>
 
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
-
-
-## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
 ## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
