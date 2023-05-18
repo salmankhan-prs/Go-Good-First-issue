@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 18:12 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 18:22 UTC.</div>
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
+- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
+
+
+## berops/claudie <span style='color:#F1C40F'>(240 ⭐️)</span>
+
+- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
+
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -15,13 +38,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## berops/claudie <span style='color:#F1C40F'>(240 ⭐️)</span>
-
-- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
-
-- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
 
 
 ## apache/trafficcontrol <span style='color:#F1C40F'>(897 ⭐️)</span>
@@ -165,11 +181,6 @@
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
-
-
 ## defenseunicorns/zarf <span style='color:#F1C40F'>(605 ⭐️)</span>
 
 - [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
@@ -207,11 +218,6 @@
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
-## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-
 ## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
 
 - [Deduplication of Incidents Per rule](https://github.com/konveyor/analyzer-lsp/issues/144)
@@ -238,35 +244,9 @@
 - [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
 
 
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
-
-- [Godoc for TestMinDataAvailabilityHeader](https://github.com/celestiaorg/celestia-app/issues/1787)
-
-- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
-
-- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
-
-- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
-
-- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
-
-- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
-
-- [Implement `envtool shell read` subcommand](https://github.com/FerretDB/FerretDB/issues/2615)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
 ## armadaproject/armada <span style='color:#F1C40F'>(313 ⭐️)</span>
@@ -326,11 +306,4 @@
 - [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
 
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-
-## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
-
-- [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
 
