@@ -4,7 +4,34 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 14:52 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 15:02 UTC.</div>
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
@@ -25,11 +52,6 @@
 - [Make agent "port" argument required and remove default value](https://github.com/grafana/xk6-disruptor/issues/161)
 
 
-## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(3.9K ⭐️)</span>
 
 - [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
@@ -39,23 +61,6 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.0K ⭐️)</span>
@@ -201,11 +206,6 @@
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
@@ -337,4 +337,144 @@
 ## base-org/pessimism <span style='color:#F1C40F'>(515 ⭐️)</span>
 
 - [Enforcing Function Header Comment Hygiene](https://github.com/base-org/pessimism/issues/40)
+
+
+## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [Support Tencent Peering Connections](https://github.com/tailwarden/komiser/issues/796)
+
+- [Support Tencent Flow Logs](https://github.com/tailwarden/komiser/issues/795)
+
+- [Support Tencent Secure Content Delivery Network](https://github.com/tailwarden/komiser/issues/794)
+
+- [Support Tencent Enterprise Content Delivery Network](https://github.com/tailwarden/komiser/issues/793)
+
+- [[TECH-1199] Calculate cost for GCP BigQuery Tables](https://github.com/tailwarden/komiser/issues/784)
+
+- [Support Tencent Content Delivery Network](https://github.com/tailwarden/komiser/issues/764)
+
+- [Calculate cost for GCP Certificates](https://github.com/tailwarden/komiser/issues/783)
+
+- [Calculate cost for GCP Container cluster](https://github.com/tailwarden/komiser/issues/782)
+
+- [Calculate cost for GCP Gateways](https://github.com/tailwarden/komiser/issues/780)
+
+- [Calculate cost for GCP KMS Keys](https://github.com/tailwarden/komiser/issues/779)
+
+- [Calculate cost for GCP Redis instances](https://github.com/tailwarden/komiser/issues/778)
+
+- [Calculate cost for GCP SQL Instances](https://github.com/tailwarden/komiser/issues/777)
+
+- [Support Tencent Serverless Cloud Function](https://github.com/tailwarden/komiser/issues/769)
+
+- [Support TencentDB for PostgreSQL](https://github.com/tailwarden/komiser/issues/768)
+
+- [Support TencentDB for MongoDB](https://github.com/tailwarden/komiser/issues/767)
+
+- [Support TencentDB for Redis](https://github.com/tailwarden/komiser/issues/766)
+
+- [Support TencentDB for MySQL](https://github.com/tailwarden/komiser/issues/765)
+
+- [Support Tencent NAT Gateway](https://github.com/tailwarden/komiser/issues/763)
+
+- [Support Tencent Virtual Private Cloud](https://github.com/tailwarden/komiser/issues/762)
+
+- [Support Tencent Cloud Load Balancer](https://github.com/tailwarden/komiser/issues/761)
+
+- [Support Tencent Cloud File Storage](https://github.com/tailwarden/komiser/issues/760)
+
+- [Support Tencent Cloud Block Storage](https://github.com/tailwarden/komiser/issues/759)
+
+- [Support Tencent Cloud Object Storage](https://github.com/tailwarden/komiser/issues/758)
+
+- [Support Tencent Kubernetes Engine](https://github.com/tailwarden/komiser/issues/757)
+
+- [Support Tencent Elastic Kubernetes Service](https://github.com/tailwarden/komiser/issues/756)
+
+
+## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
+
+- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
+
+
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
+
+- [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
+
+
+## pouriyajamshidi/tcping <span style='color:#F1C40F'>(134 ⭐️)</span>
+
+- [Starting and exiting immediately prints "NaN% packet loss"](https://github.com/pouriyajamshidi/tcping/issues/81)
+
+- [Automate the release process](https://github.com/pouriyajamshidi/tcping/issues/78)
+
+- [add `-c` flag to stop after n probes](https://github.com/pouriyajamshidi/tcping/issues/72)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
+
+- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
+
+- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
+
+- [OPA debug logs expose X-AMZ-SECURITY-TOKEN header](https://github.com/open-policy-agent/opa/issues/5848)
+
+
+## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
+
+- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
+
+
+## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Eventing TLS: Test ApiServerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6913)
+
+- [Eventing TLS: Test ContainerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6937)
+
+- [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
+
+- [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
+
+- [Eventing TLS: Test PingSource with Broker as sink](https://github.com/knative/eventing/issues/6932)
+
+- [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
+
+- [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
+
+
+## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
+
+
+## cloudwego/hertz <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Introduce constants for commonly used MIME types](https://github.com/cloudwego/hertz/issues/754)
 
