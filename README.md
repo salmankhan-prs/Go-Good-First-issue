@@ -4,12 +4,37 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 20:02 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 20:12 UTC.</div>
+
+
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
+
+
+## rancher/opni <span style='color:#F1C40F'>(256 ⭐️)</span>
+
+- [Data import Sending too large packets](https://github.com/rancher/opni/issues/1415)
+
+- [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
+
+- [Pin version of grafana for Monitoring](https://github.com/rancher/opni/issues/1357)
+
+- [Allow editing roles](https://github.com/rancher/opni/issues/1327)
+
+- [Panic encountered while watching data import progress:](https://github.com/rancher/opni/issues/1375)
+
+- [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
 
-- [opt: eliminate coalesce when first argument is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## staticbackendhq/core <span style='color:#F1C40F'>(568 ⭐️)</span>
@@ -25,6 +50,11 @@
 - [[backend-js] Build an additional bundle importable via <script> tag](https://github.com/staticbackendhq/core/issues/81)
 
 - [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -95,11 +125,6 @@
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
-
-
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
@@ -158,6 +183,13 @@
 - [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
 
 
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+
+
 ## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
 
 - [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
@@ -191,11 +223,6 @@
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
 ## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
 
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
@@ -223,13 +250,6 @@
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(209 ⭐️)</span>
@@ -302,13 +322,4 @@
 - [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
 
 - [Incorrect message displayed in CLI after new user signs up](https://github.com/PuremlHQ/PureML/issues/216)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
