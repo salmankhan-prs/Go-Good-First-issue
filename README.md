@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 14:22 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 14:32 UTC.</div>
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
@@ -18,6 +23,29 @@
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
+
+- [slirp4netns should honour the `helper_binaries_dir` config](https://github.com/containers/podman/issues/18568)
+
+- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -67,11 +95,6 @@
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
 
 - [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
@@ -104,15 +127,6 @@
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
@@ -121,15 +135,6 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
-
-- [slirp4netns should honour the `helper_binaries_dir` config](https://github.com/containers/podman/issues/18568)
-
-- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
