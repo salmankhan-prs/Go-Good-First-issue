@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 05:22 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 05:32 UTC.</div>
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
+## opensearch-project/opensearch-go <span style='color:#F1C40F'>(121 ⭐️)</span>
+
+- [[PROPOSAL] Code quality analysis](https://github.com/opensearch-project/opensearch-go/issues/307)
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(706 ⭐️)</span>
+
+- [(feature) Support multiple-line targeting rule in GOFF editor](https://github.com/thomaspoignant/go-feature-flag/issues/797)
+
+- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.6K ⭐️)</span>
@@ -227,15 +248,6 @@
 - [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
 
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
 ## rancher/opni <span style='color:#F1C40F'>(256 ⭐️)</span>
 
 - [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
@@ -339,9 +351,4 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## provenance-io/provenance <span style='color:#F1C40F'>(74 ⭐️)</span>
-
-- [Enhance CountAuthorization to have a sub-authorization field](https://github.com/provenance-io/provenance/issues/1483)
 
