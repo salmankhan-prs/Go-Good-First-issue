@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 01:22 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 01:32 UTC.</div>
 
 
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(321 ⭐️)</span>
@@ -325,6 +325,8 @@
 ## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [TestSystemThrottler test flake](https://github.com/ava-labs/avalanchego/issues/1414)
+
+- [Add P-chain config for cache sizes](https://github.com/ava-labs/avalanchego/issues/1522)
 
 
 ## cosmos/interchain-security <span style='color:#F1C40F'>(108 ⭐️)</span>
