@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 18, 2023 13:32 UTC.</div>
+<div align='center'>Last updated at May 18, 2023 13:42 UTC.</div>
 
 
 ## pepedocs/ocm-workspace <span style='color:#F1C40F'>(1 ⭐️)</span>
@@ -21,6 +21,15 @@
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -329,4 +338,101 @@
 ## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
 
 - [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
+
+
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
+
+- [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
+
+
+## pouriyajamshidi/tcping <span style='color:#F1C40F'>(134 ⭐️)</span>
+
+- [Starting and exiting immediately prints "NaN% packet loss"](https://github.com/pouriyajamshidi/tcping/issues/81)
+
+- [Automate the release process](https://github.com/pouriyajamshidi/tcping/issues/78)
+
+- [add `-c` flag to stop after n probes](https://github.com/pouriyajamshidi/tcping/issues/72)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
+
+- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
+
+- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
+
+- [OPA debug logs expose X-AMZ-SECURITY-TOKEN header](https://github.com/open-policy-agent/opa/issues/5848)
+
+
+## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [[feature]: udpate `sample-lnd.conf` to show default values AND example values](https://github.com/lightningnetwork/lnd/issues/7612)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
+
+- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
+
+
+## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Eventing TLS: Test ApiServerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6913)
+
+- [Eventing TLS: Test ContainerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6937)
+
+- [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
+
+- [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
+
+- [Eventing TLS: Test PingSource with Broker as sink](https://github.com/knative/eventing/issues/6932)
+
+- [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
+
+- [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
+
+
+## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
+
+
+## cloudwego/hertz <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Introduce constants for commonly used MIME types](https://github.com/cloudwego/hertz/issues/754)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
+
+- [[Chore]: auth "new" does not fit "add' convention](https://github.com/k8sgpt-ai/k8sgpt/issues/437)
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
