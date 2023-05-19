@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 02:22 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 02:32 UTC.</div>
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -198,6 +198,11 @@
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
+## apache/trafficcontrol <span style='color:#F1C40F'>(898 ⭐️)</span>
+
+- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
+
+
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
@@ -365,21 +370,4 @@
 ## tigera/operator <span style='color:#F1C40F'>(128 ⭐️)</span>
 
 - [Typha autoscaler should exclude Fargate Nodes in node count](https://github.com/tigera/operator/issues/2592)
-
-
-## TBD54566975/ssi-service <span style='color:#F1C40F'>(123 ⭐️)</span>
-
-- [[Testing] Make integration test output readable](https://github.com/TBD54566975/ssi-service/issues/436)
-
-
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
-
-
-## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
-
-- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
-
-- [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
 
