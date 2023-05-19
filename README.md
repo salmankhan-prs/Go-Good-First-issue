@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 19:12 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 19:22 UTC.</div>
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## openfga/openfga <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -271,13 +278,6 @@
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
-## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
-
-- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
-
-
 ## kubernetes-sigs/aws-load-balancer-controller <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [Incorrect apiVersion for CertManager Issuer/Certificate ](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/3188)
@@ -367,9 +367,4 @@
 - [Faster than eth_getLogs?](https://github.com/bnb-chain/bsc/issues/1541)
 
 - [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(38 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
