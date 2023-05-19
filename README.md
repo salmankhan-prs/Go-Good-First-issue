@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 06:02 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 06:12 UTC.</div>
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
@@ -68,13 +73,6 @@
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.3K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
-
-
-## ray-project/kuberay <span style='color:#F1C40F'>(347 ⭐️)</span>
-
-- [Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
-
-- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
 
 
 ## ray-project/kuberay <span style='color:#F1C40F'>(347 ⭐️)</span>
@@ -334,9 +332,4 @@
 - [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
 
 - [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
-
-
-## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [The `requirements_lock` file must be fully pinned error](https://github.com/bufbuild/protoc-gen-validate/issues/863)
 
