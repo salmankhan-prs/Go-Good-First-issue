@@ -4,7 +4,38 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 15:32 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 15:42 UTC.</div>
+
+
+## anchore/grype <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [Grype docker image on dockerhub has no shell commands available to be able to keep it alive for Jenkins exec into scan with it - please add busybox at least](https://github.com/anchore/grype/issues/1287)
+
+
+## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [The `requirements_lock` file must be fully pinned error](https://github.com/bufbuild/protoc-gen-validate/issues/863)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
+
+- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
+
+
+## acorn-io/acorn <span style='color:#F1C40F'>(997 ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
 
 
 ## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -19,6 +50,11 @@
 - [Faster than eth_getLogs?](https://github.com/bnb-chain/bsc/issues/1541)
 
 - [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(827 ⭐️)</span>
@@ -56,13 +92,6 @@
 - [bug sometimes a zone will get created multiple times](https://github.com/Kuadrant/multicluster-gateway-controller/issues/180)
 
 - [bug: A record weighting is incorrect](https://github.com/Kuadrant/multicluster-gateway-controller/issues/192)
-
-
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
-
-- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
 
 
 ## PuremlHQ/PureML <span style='color:#F1C40F'>(173 ⭐️)</span>
@@ -132,11 +161,6 @@
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
 ## kube-vip/kube-vip <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
 - [BGP metrics support](https://github.com/kube-vip/kube-vip/issues/547)
@@ -168,15 +192,6 @@
 - [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
 ## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
@@ -258,11 +273,6 @@
 - [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
 
 
-## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [The `requirements_lock` file must be fully pinned error](https://github.com/bufbuild/protoc-gen-validate/issues/863)
-
-
 ## berops/claudie <span style='color:#F1C40F'>(240 ⭐️)</span>
 
 - [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
@@ -303,19 +313,4 @@
 ## tigera/operator <span style='color:#F1C40F'>(128 ⭐️)</span>
 
 - [Typha autoscaler should exclude Fargate Nodes in node count](https://github.com/tigera/operator/issues/2592)
-
-
-## pion/ice <span style='color:#F1C40F'>(303 ⭐️)</span>
-
-- [Fix type of CandidatePairState enum](https://github.com/pion/ice/issues/571)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
-
-
-## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
