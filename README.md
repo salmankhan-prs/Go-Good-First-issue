@@ -4,12 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 06:52 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 07:02 UTC.</div>
 
 
-## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
-- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
+- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -19,6 +23,21 @@
 - [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## pion/ice <span style='color:#F1C40F'>(303 ⭐️)</span>
+
+- [Fix type of CandidatePairState enum](https://github.com/pion/ice/issues/571)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.1K ⭐️)</span>
@@ -244,11 +263,6 @@
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## TwiN/gatus <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [Able to copy text when hovering over status](https://github.com/TwiN/gatus/issues/463)
@@ -329,13 +343,4 @@
 - [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
 
 - [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
-
-
-## guacsec/guac <span style='color:#F1C40F'>(828 ⭐️)</span>
-
-- [fix issue with scorecard runner timing out  ](https://github.com/guacsec/guac/issues/868)
-
-- [Set user agent for collector calls to "GUAC"](https://github.com/guacsec/guac/issues/768)
-
-- [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
 
