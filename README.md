@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 02:12 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 02:22 UTC.</div>
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
@@ -109,6 +114,19 @@
 - [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
 
 
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
@@ -178,6 +196,19 @@
 - [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
 
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
+
+- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
 
 
 ## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -351,41 +382,4 @@
 - [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
 
 - [kubernetes-helm: Bring sample up to date with latest prometheus helm chart](https://github.com/thanos-io/thanos/issues/6301)
-
-
-## rancher/opni <span style='color:#F1C40F'>(256 ⭐️)</span>
-
-- [Data import Sending too large packets](https://github.com/rancher/opni/issues/1415)
-
-- [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
-
-- [Pin version of grafana for Monitoring](https://github.com/rancher/opni/issues/1357)
-
-- [Allow editing roles](https://github.com/rancher/opni/issues/1327)
-
-- [Panic encountered while watching data import progress:](https://github.com/rancher/opni/issues/1375)
-
-- [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
-
-
-## kubeshop/tracetest <span style='color:#F1C40F'>(546 ⭐️)</span>
-
-- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
-
-- [update 'Help and resources' menu](https://github.com/kubeshop/tracetest/issues/2419)
-
-
-## staticbackendhq/core <span style='color:#F1C40F'>(568 ⭐️)</span>
-
-- [[cli] Add a tail command to follow server logs](https://github.com/staticbackendhq/core/issues/85)
-
-- [Add email interface to server-side function runtime](https://github.com/staticbackendhq/core/issues/84)
-
-- [[docs] A tutorial for Next.js](https://github.com/staticbackendhq/core/issues/83)
-
-- [[core & cli] Save dev database between CLI restart](https://github.com/staticbackendhq/core/issues/82)
-
-- [[backend-js] Build an additional bundle importable via <script> tag](https://github.com/staticbackendhq/core/issues/81)
-
-- [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
 
