@@ -4,12 +4,31 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 13:12 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 13:22 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
+
+- [slirp4netns should honour the `helper_binaries_dir` config](https://github.com/containers/podman/issues/18568)
+
+- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -19,6 +38,21 @@
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
+
+- [Feature: Expect a document bot](https://github.com/OpenIMSDK/Open-IM-Server/issues/393)
+
+- [Provides OpenIM document translation](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
+
+- [【RFC】Design of OpenIM Log Package Zap](https://github.com/OpenIMSDK/Open-IM-Server/issues/387)
+
+- [[Feature]: The open im flutter sdk supports the web/pc side](https://github.com/OpenIMSDK/Open-IM-Server/issues/386)
+
+- [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
+
+- [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
 
 
 ## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
@@ -52,11 +86,6 @@
 - [share/discovery: move the package closer to shrex](https://github.com/celestiaorg/celestia-node/issues/2206)
 
 - [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
@@ -114,15 +143,6 @@
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
 
-## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
-
-- [slirp4netns should honour the `helper_binaries_dir` config](https://github.com/containers/podman/issues/18568)
-
-- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
@@ -168,26 +188,6 @@
 - [Faster than eth_getLogs?](https://github.com/bnb-chain/bsc/issues/1541)
 
 - [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
-
-
-## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(749 ⭐️)</span>
-
-- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
-
-- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.2K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -239,6 +239,23 @@
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
 
 
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(344 ⭐️)</span>
+
+- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+
+
+## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
+
+- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
+
+
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
 
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
@@ -275,21 +292,6 @@
 ## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
-
-- [Feature: Expect a document bot](https://github.com/OpenIMSDK/Open-IM-Server/issues/393)
-
-- [Provides OpenIM document translation](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
-
-- [【RFC】Design of OpenIM Log Package Zap](https://github.com/OpenIMSDK/Open-IM-Server/issues/387)
-
-- [[Feature]: The open im flutter sdk supports the web/pc side](https://github.com/OpenIMSDK/Open-IM-Server/issues/386)
-
-- [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
-
-- [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
 
 
 ## nspcc-dev/neofs-node <span style='color:#F1C40F'>(31 ⭐️)</span>
@@ -329,9 +331,4 @@
 - [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
 
 - [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
-
-
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
