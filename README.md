@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 03:42 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 03:52 UTC.</div>
+
+
+## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(37 ⭐️)</span>
@@ -101,9 +106,9 @@
 - [Able to copy text when hovering over status](https://github.com/TwiN/gatus/issues/463)
 
 
-## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -208,17 +213,6 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## berops/claudie <span style='color:#F1C40F'>(240 ⭐️)</span>
