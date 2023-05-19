@@ -4,7 +4,47 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 18:52 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 19:02 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## operator-framework/operator-controller <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Update util tests](https://github.com/operator-framework/operator-controller/issues/197)
+
+- [Document testing conventions](https://github.com/operator-framework/operator-controller/issues/188)
+
+- [Update resolution package tests](https://github.com/operator-framework/operator-controller/issues/191)
+
+- [Update required package variable source tests](https://github.com/operator-framework/operator-controller/issues/196)
+
+- [Update olm variable source tests](https://github.com/operator-framework/operator-controller/issues/195)
+
+- [Update entity tests](https://github.com/operator-framework/operator-controller/issues/194)
+
+- [Update crd constraints variable source tests](https://github.com/operator-framework/operator-controller/issues/193)
+
+- [Update bundles and dependencies variable source tests](https://github.com/operator-framework/operator-controller/issues/192)
+
+- [Update controller package tests](https://github.com/operator-framework/operator-controller/issues/190)
+
+- [[Epic] Refactor ginkgo unit tests to go test](https://github.com/operator-framework/operator-controller/issues/189)
+
+
+## onflow/cadence <span style='color:#F1C40F'>(466 ⭐️)</span>
+
+- [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
+
+- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -44,11 +84,6 @@
 - [Set user agent for collector calls to "GUAC"](https://github.com/guacsec/guac/issues/768)
 
 - [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(134 ⭐️)</span>
@@ -159,6 +194,11 @@
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
+
+
 ## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
@@ -258,6 +298,40 @@
 - [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
 
 
+## kairos-io/kairos <span style='color:#F1C40F'>(510 ⭐️)</span>
+
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+
+## berops/claudie <span style='color:#F1C40F'>(240 ⭐️)</span>
+
+- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
+
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
 ## anchore/grype <span style='color:#F1C40F'>(5.8K ⭐️)</span>
 
 - [Grype docker image on dockerhub has no shell commands available to be able to keep it alive for Jenkins exec into scan with it - please add busybox at least](https://github.com/anchore/grype/issues/1287)
@@ -315,29 +389,4 @@
 - [bug sometimes a zone will get created multiple times](https://github.com/Kuadrant/multicluster-gateway-controller/issues/180)
 
 - [bug: A record weighting is incorrect](https://github.com/Kuadrant/multicluster-gateway-controller/issues/192)
-
-
-## PuremlHQ/PureML <span style='color:#F1C40F'>(173 ⭐️)</span>
-
-- [Adding function documentation for DAOs](https://github.com/PuremlHQ/PureML/issues/227)
-
-- [API Tests: Dataset/Model Review API tests](https://github.com/PuremlHQ/PureML/issues/226)
-
-- [API Tests: Dataset/Model Readme API tests](https://github.com/PuremlHQ/PureML/issues/225)
-
-- [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
-
-
-## kube-vip/kube-vip <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [BGP metrics support](https://github.com/kube-vip/kube-vip/issues/547)
-
-- [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
-
-- [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
-
-
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
 
