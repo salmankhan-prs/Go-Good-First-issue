@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 10:22 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 10:32 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -16,9 +16,21 @@
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
+## TwiN/gatus <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [Able to copy text when hovering over status](https://github.com/TwiN/gatus/issues/463)
+
+
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
@@ -310,86 +322,4 @@
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## apache/trafficcontrol <span style='color:#F1C40F'>(900 ⭐️)</span>
-
-- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
-## googleapis/api-linter <span style='color:#F1C40F'>(466 ⭐️)</span>
-
-- [AIP-213: disallow cross-API dependencies](https://github.com/googleapis/api-linter/issues/1153)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
-## ray-project/kuberay <span style='color:#F1C40F'>(347 ⭐️)</span>
-
-- [Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
-
-- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
-
-
-## kubernetes-sigs/cluster-api-provider-ibmcloud <span style='color:#F1C40F'>(54 ⭐️)</span>
-
-- [the "IBM Cloud" is almost invisible](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud/issues/1215)
-
-- [add unit tests for record.go](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud/issues/1198)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## acorn-io/acorn <span style='color:#F1C40F'>(997 ⭐️)</span>
-
-- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
-
-
-## KindlingProject/kindling <span style='color:#F1C40F'>(393 ⭐️)</span>
-
-- [Grafana Kindling WorkLoad Detail  无法查看只有出流量的pod](https://github.com/KindlingProject/kindling/issues/517)
-
-
-## opencurve/curveadm <span style='color:#F1C40F'>(49 ⭐️)</span>
-
-- [[feat] support deploy minio-s3-gateway](https://github.com/opencurve/curveadm/issues/218)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
-
-
-## mosn/layotto <span style='color:#F1C40F'>(732 ⭐️)</span>
-
-- [为 configure API 开发nacos组件 ](https://github.com/mosn/layotto/issues/921)
-
-- [提供一个layotto的本地模式，为sdk提供ci的能力](https://github.com/mosn/layotto/issues/913)
 
