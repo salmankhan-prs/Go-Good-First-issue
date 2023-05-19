@@ -4,12 +4,26 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 14:52 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 15:02 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(38 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## kube-vip/kube-vip <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [BGP metrics support](https://github.com/kube-vip/kube-vip/issues/547)
+
+- [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
+
+- [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
 
 
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -43,6 +57,15 @@
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -189,7 +212,7 @@
 - [kube_lease_renew_time needs namespace label](https://github.com/kubernetes/kube-state-metrics/issues/2071)
 
 
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(39 ⭐️)</span>
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(40 ⭐️)</span>
 
 - [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
 
@@ -269,15 +292,6 @@
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
 
 - [Feature: Expect a document bot](https://github.com/OpenIMSDK/Open-IM-Server/issues/393)
@@ -309,16 +323,4 @@
 - [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
 
 - [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(517 ⭐️)</span>
-
-- [share/discovery: move the package closer to shrex](https://github.com/celestiaorg/celestia-node/issues/2206)
-
-- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
