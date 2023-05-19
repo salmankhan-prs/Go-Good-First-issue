@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 02:52 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 03:02 UTC.</div>
+
+
+## opencurve/curveadm <span style='color:#F1C40F'>(49 ⭐️)</span>
+
+- [[feat] support deploy minio-s3-gateway](https://github.com/opencurve/curveadm/issues/218)
+
+
+## mosn/layotto <span style='color:#F1C40F'>(732 ⭐️)</span>
+
+- [为 configure API 开发nacos组件 ](https://github.com/mosn/layotto/issues/921)
+
+- [提供一个layotto的本地模式，为sdk提供ci的能力](https://github.com/mosn/layotto/issues/913)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -19,6 +31,11 @@
 - [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
@@ -333,25 +350,4 @@
 - [Update controller package tests](https://github.com/operator-framework/operator-controller/issues/190)
 
 - [[Epic] Refactor ginkgo unit tests to go test](https://github.com/operator-framework/operator-controller/issues/189)
-
-
-## onflow/cadence <span style='color:#F1C40F'>(466 ⭐️)</span>
-
-- [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
-
-
-## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
-
-- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
-
-- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
-
-- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
