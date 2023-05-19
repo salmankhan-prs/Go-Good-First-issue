@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 22:12 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 22:22 UTC.</div>
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -24,6 +24,19 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.2K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
@@ -98,19 +111,6 @@
 - [The `requirements_lock` file must be fully pinned error](https://github.com/bufbuild/protoc-gen-validate/issues/863)
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.2K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
 
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
@@ -118,16 +118,16 @@
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
 
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
