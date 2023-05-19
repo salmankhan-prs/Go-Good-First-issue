@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 05:42 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 05:52 UTC.</div>
 
 
 ## celestiaorg/orchestrator-relayer <span style='color:#F1C40F'>(8 ⭐️)</span>
@@ -42,6 +42,11 @@
 - [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
 
 - [(feature) Support multiple-line targeting rule in GOFF editor](https://github.com/thomaspoignant/go-feature-flag/issues/797)
+
+
+## apache/trafficcontrol <span style='color:#F1C40F'>(899 ⭐️)</span>
+
+- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
@@ -328,11 +333,6 @@
 - [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
 
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## apache/trafficcontrol <span style='color:#F1C40F'>(898 ⭐️)</span>
-
-- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
 
 
 ## lightningnetwork/lnd <span style='color:#F1C40F'>(6.9K ⭐️)</span>
