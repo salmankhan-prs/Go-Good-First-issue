@@ -4,7 +4,40 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 14:02 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 14:12 UTC.</div>
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
+
+- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
+
+- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+
+## vmware-tanzu/pinniped <span style='color:#F1C40F'>(415 ⭐️)</span>
+
+- [Add requirement for kube-apiserver not including `--anonymous-auth=false` flag to Concierge docs (when impersonation proxy is not being used)](https://github.com/vmware-tanzu/pinniped/issues/1512)
+
+
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(749 ⭐️)</span>
+
+- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
+
+- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [The `requirements_lock` file must be fully pinned error](https://github.com/bufbuild/protoc-gen-validate/issues/863)
 
 
 ## berops/claudie <span style='color:#F1C40F'>(240 ⭐️)</span>
@@ -36,11 +69,6 @@
 - [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
 
 - [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.4K ⭐️)</span>
@@ -163,17 +191,6 @@
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
-
-- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
-
-- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
@@ -199,6 +216,11 @@
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
+## freiheit-com/kuberpult <span style='color:#F1C40F'>(19 ⭐️)</span>
+
+- [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
+
+
 ## celestiaorg/knuu <span style='color:#F1C40F'>(1 ⭐️)</span>
 
 - [Create container image for executor with essential tools installed](https://github.com/celestiaorg/knuu/issues/31)
@@ -210,9 +232,19 @@
 - [Unify debug and error messages](https://github.com/celestiaorg/knuu/issues/23)
 
 
+## kairos-io/kairos <span style='color:#F1C40F'>(510 ⭐️)</span>
+
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
+
+
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(38 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
+
+- [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
 
 
 ## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -229,11 +261,13 @@
 - [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
 
 
-## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(749 ⭐️)</span>
+## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
-- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
+- [wanted: specify single hard fork height in config.toml](https://github.com/bnb-chain/bsc/issues/1625)
 
-- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
+- [Faster than eth_getLogs?](https://github.com/bnb-chain/bsc/issues/1541)
+
+- [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.2K ⭐️)</span>
@@ -252,11 +286,6 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## armadaproject/armada <span style='color:#F1C40F'>(313 ⭐️)</span>
-
-- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
 
 
 ## armadaproject/armada <span style='color:#F1C40F'>(313 ⭐️)</span>
@@ -307,25 +336,4 @@
 - [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
 
 - [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
-
-
-## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
-
-
-## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Retrieving secret version isn't working with AWS Parameter Store](https://github.com/external-secrets/external-secrets/issues/2330)
-
-- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
-
-- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
 
