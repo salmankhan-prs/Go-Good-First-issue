@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 17:52 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 18:02 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(134 ⭐️)</span>
@@ -21,11 +26,6 @@
 ## getporter/porter <span style='color:#F1C40F'>(985 ⭐️)</span>
 
 - [Update links to deprecated Helm v2 Mixin](https://github.com/getporter/porter/issues/2759)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.2K ⭐️)</span>
@@ -356,26 +356,4 @@
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
-
-- [Deduplication of Incidents Per rule](https://github.com/konveyor/analyzer-lsp/issues/144)
-
-- [Add a test for namespaces support in xpath expressions](https://github.com/konveyor/analyzer-lsp/issues/120)
-
-- [Clean up Engine Logs](https://github.com/konveyor/analyzer-lsp/issues/156)
-
-- [Change dependency output into a list by provider](https://github.com/konveyor/analyzer-lsp/issues/140)
-
-- [Add progress reporting showing statistics on total rules parsed, completed, matched, and failed](https://github.com/konveyor/analyzer-lsp/issues/132)
 
