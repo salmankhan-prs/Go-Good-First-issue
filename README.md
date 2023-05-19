@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 17:22 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 17:32 UTC.</div>
+
+
+## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [cosign load '--allow-insecure-registry' ](https://github.com/sigstore/cosign/issues/2986)
+
+- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
+
+- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
+
+- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.2K ⭐️)</span>
@@ -18,6 +29,11 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## apache/trafficcontrol <span style='color:#F1C40F'>(900 ⭐️)</span>
+
+- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
@@ -81,6 +97,17 @@
 - [Jenkins runner support](https://github.com/chainloop-dev/chainloop/issues/88)
 
 
+## chainloop-dev/chainloop <span style='color:#F1C40F'>(182 ⭐️)</span>
+
+- [deployment: split sentry configuration](https://github.com/chainloop-dev/chainloop/issues/104)
+
+- [chart: improve installation output (notes.md) ](https://github.com/chainloop-dev/chainloop/issues/97)
+
+- [Create first robot-account during workflow creation](https://github.com/chainloop-dev/chainloop/issues/90)
+
+- [Jenkins runner support](https://github.com/chainloop-dev/chainloop/issues/88)
+
+
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
@@ -102,15 +129,6 @@
 ## kubernetes-sigs/network-policy-api <span style='color:#F1C40F'>(22 ⭐️)</span>
 
 - [Add a Script linter to our CI workflow](https://github.com/kubernetes-sigs/network-policy-api/issues/94)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
-
-- [slirp4netns should honour the `helper_binaries_dir` config](https://github.com/containers/podman/issues/18568)
-
-- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -378,9 +396,4 @@
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
