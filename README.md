@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 12:52 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 13:02 UTC.</div>
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+
+- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
+
+- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
+
+- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(517 ⭐️)</span>
@@ -102,6 +123,15 @@
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
+## guacsec/guac <span style='color:#F1C40F'>(827 ⭐️)</span>
+
+- [[fix] issue with scorecard runner timing out  ](https://github.com/guacsec/guac/issues/868)
+
+- [Set user agent for collector calls to "GUAC"](https://github.com/guacsec/guac/issues/768)
+
+- [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
+
+
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
@@ -146,17 +176,6 @@
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
-
-- [Make new targetRef default](https://github.com/kumahq/kuma/issues/6592)
-
-- [Create default policies in targetRef style](https://github.com/kumahq/kuma/issues/6588)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
 ## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
 
 - [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
@@ -167,18 +186,28 @@
 - [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
 
 
-## guacsec/guac <span style='color:#F1C40F'>(828 ⭐️)</span>
-
-- [[fix] issue with scorecard runner timing out  ](https://github.com/guacsec/guac/issues/868)
-
-- [Set user agent for collector calls to "GUAC"](https://github.com/guacsec/guac/issues/768)
-
-- [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
-
-
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
+## cue-lang/cue <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [alpha.cuelang.org: upstream internal/parse](https://github.com/cue-lang/cue/issues/2387)
+
+- [cuelang.org: "Create Documentation Issue" link broken](https://github.com/cue-lang/cue/issues/2364)
+
+
+## base-org/pessimism <span style='color:#F1C40F'>(519 ⭐️)</span>
+
+- [Enforcing Function Header Comment Hygiene](https://github.com/base-org/pessimism/issues/40)
+
+
+## celestiaorg/orchestrator-relayer <span style='color:#F1C40F'>(8 ⭐️)</span>
+
+- [Deploy command EVM keys help message](https://github.com/celestiaorg/orchestrator-relayer/issues/362)
+
+- [Reduce the frequency of the relayer logs](https://github.com/celestiaorg/orchestrator-relayer/issues/361)
 
 
 ## TwiN/gatus <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -189,6 +218,13 @@
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.3K ⭐️)</span>
 
 - [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -204,42 +240,6 @@
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.0K ⭐️)</span>
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
-
-- [Feature: Expect a document bot](https://github.com/OpenIMSDK/Open-IM-Server/issues/393)
-
-- [Provides OpenIM document translation](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
-
-- [【RFC】Design of OpenIM Log Package Zap](https://github.com/OpenIMSDK/Open-IM-Server/issues/387)
-
-- [[Feature]: The open im flutter sdk supports the web/pc side](https://github.com/OpenIMSDK/Open-IM-Server/issues/386)
-
-- [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
-
-- [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
-
-
-## nspcc-dev/neofs-node <span style='color:#F1C40F'>(31 ⭐️)</span>
-
-- [Add histograms for request metrics](https://github.com/nspcc-dev/neofs-node/issues/2351)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.0K ⭐️)</span>
@@ -326,9 +326,4 @@
 - [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
 
 - [OPA debug logs expose X-AMZ-SECURITY-TOKEN header](https://github.com/open-policy-agent/opa/issues/5848)
-
-
-## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
