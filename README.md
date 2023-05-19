@@ -4,7 +4,41 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 17:42 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 17:52 UTC.</div>
+
+
+## pouriyajamshidi/tcping <span style='color:#F1C40F'>(134 ⭐️)</span>
+
+- [Windows terminal link in `README.md` is broken](https://github.com/pouriyajamshidi/tcping/issues/82)
+
+- [Starting and exiting immediately prints "NaN% packet loss"](https://github.com/pouriyajamshidi/tcping/issues/81)
+
+- [Automate the release process](https://github.com/pouriyajamshidi/tcping/issues/78)
+
+- [add `-c` flag to stop after n probes](https://github.com/pouriyajamshidi/tcping/issues/72)
+
+
+## getporter/porter <span style='color:#F1C40F'>(985 ⭐️)</span>
+
+- [Update links to deprecated Helm v2 Mixin](https://github.com/getporter/porter/issues/2759)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.2K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -20,19 +54,6 @@
 ## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
 
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.2K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -87,11 +108,6 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## dapr/cli <span style='color:#F1C40F'>(282 ⭐️)</span>
@@ -187,11 +203,6 @@
 ## tigera/operator <span style='color:#F1C40F'>(128 ⭐️)</span>
 
 - [Typha autoscaler should exclude Fargate Nodes in node count](https://github.com/tigera/operator/issues/2592)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
@@ -367,22 +378,4 @@
 - [Change dependency output into a list by provider](https://github.com/konveyor/analyzer-lsp/issues/140)
 
 - [Add progress reporting showing statistics on total rules parsed, completed, matched, and failed](https://github.com/konveyor/analyzer-lsp/issues/132)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
-
-
-## celestiaorg/knuu <span style='color:#F1C40F'>(1 ⭐️)</span>
-
-- [On new major release, rename function to be more clear](https://github.com/celestiaorg/knuu/issues/38)
-
-- [Create container image for executor with essential tools installed](https://github.com/celestiaorg/knuu/issues/31)
-
-- [Check if the connection to a Kubernetes Cluster is available before running tests](https://github.com/celestiaorg/knuu/issues/30)
-
-- [Only one file in a package should have package documentation](https://github.com/celestiaorg/knuu/issues/20)
-
-- [Unify debug and error messages](https://github.com/celestiaorg/knuu/issues/23)
 
