@@ -4,7 +4,20 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 11:42 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 11:52 UTC.</div>
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
+
+- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -20,6 +33,15 @@
 ## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
+
+
+## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [wanted: specify single hard fork height in config.toml](https://github.com/bnb-chain/bsc/issues/1625)
+
+- [Faster than eth_getLogs?](https://github.com/bnb-chain/bsc/issues/1541)
+
+- [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
 
 
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(749 ⭐️)</span>
@@ -100,7 +122,7 @@
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
-## base-org/pessimism <span style='color:#F1C40F'>(518 ⭐️)</span>
+## base-org/pessimism <span style='color:#F1C40F'>(519 ⭐️)</span>
 
 - [Enforcing Function Header Comment Hygiene](https://github.com/base-org/pessimism/issues/40)
 
@@ -324,11 +346,4 @@
 - [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
 
 - [update 'Help and resources' menu](https://github.com/kubeshop/tracetest/issues/2419)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(517 ⭐️)</span>
-
-- [share/discovery: move the package closer to shrex](https://github.com/celestiaorg/celestia-node/issues/2206)
-
-- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
 
