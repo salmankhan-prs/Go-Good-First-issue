@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 18:22 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 18:32 UTC.</div>
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -20,6 +20,11 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
+## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(827 ⭐️)</span>
@@ -159,11 +164,6 @@
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
-
-
 ## project-zot/zot <span style='color:#F1C40F'>(372 ⭐️)</span>
 
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
@@ -193,9 +193,35 @@
 - [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
 
 
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
+
+- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+- [[GC] Output deleted and failed-to-delete objects](https://github.com/treeverse/lakeFS/issues/5716)
+
+- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
+
+
 ## kubernetes-sigs/network-policy-api <span style='color:#F1C40F'>(22 ⭐️)</span>
 
 - [Add a Script linter to our CI workflow](https://github.com/kubernetes-sigs/network-policy-api/issues/94)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
+
+- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
