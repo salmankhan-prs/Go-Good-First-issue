@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 00:02 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 00:12 UTC.</div>
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(37 ⭐️)</span>
@@ -19,13 +26,6 @@
 - [Set user agent for collector calls to "GUAC"](https://github.com/guacsec/guac/issues/768)
 
 - [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.8K ⭐️)</span>
@@ -323,4 +323,74 @@
 - [[backend-js] Build an additional bundle importable via <script> tag](https://github.com/staticbackendhq/core/issues/81)
 
 - [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
+
+- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
+## pion/ice <span style='color:#F1C40F'>(303 ⭐️)</span>
+
+- [Fix type of CandidatePairState enum](https://github.com/pion/ice/issues/571)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
+
+- [slirp4netns should honour the `helper_binaries_dir` config](https://github.com/containers/podman/issues/18568)
+
+- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
+## cosmos/interchain-security <span style='color:#F1C40F'>(108 ⭐️)</span>
+
+- [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
+
+- [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
+
+
+## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Docs: Filter example contains error](https://github.com/zalando/skipper/issues/2280)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Retrieving secret version isn't working with AWS Parameter Store](https://github.com/external-secrets/external-secrets/issues/2330)
+
+- [ACR Pull Generator not functioning](https://github.com/external-secrets/external-secrets/issues/2244)
+
+- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
+
+- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
 
