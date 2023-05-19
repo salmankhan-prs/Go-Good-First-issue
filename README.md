@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 04:22 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 04:32 UTC.</div>
 
 
 ## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.3K ⭐️)</span>
@@ -28,6 +28,17 @@
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
 ## kubernetes-sigs/cluster-api-provider-ibmcloud <span style='color:#F1C40F'>(54 ⭐️)</span>
 
 - [the "IBM Cloud" is almost invisible](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud/issues/1215)
@@ -48,17 +59,6 @@
 ## KindlingProject/kindling <span style='color:#F1C40F'>(393 ⭐️)</span>
 
 - [Grafana Kindling WorkLoad Detail  无法查看只有出流量的pod](https://github.com/KindlingProject/kindling/issues/517)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
@@ -239,6 +239,13 @@
 - [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
 
 
+## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [TestSystemThrottler test flake](https://github.com/ava-labs/avalanchego/issues/1414)
+
+- [Add P-chain config for cache sizes](https://github.com/ava-labs/avalanchego/issues/1522)
+
+
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
 
 - [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
@@ -314,13 +321,6 @@
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
-## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [TestSystemThrottler test flake](https://github.com/ava-labs/avalanchego/issues/1414)
-
-- [Add P-chain config for cache sizes](https://github.com/ava-labs/avalanchego/issues/1522)
-
-
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
 
 - [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
@@ -340,9 +340,4 @@
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## defenseunicorns/zarf <span style='color:#F1C40F'>(605 ⭐️)</span>
-
-- [Zarf Connect "creating" a Port Forward](https://github.com/defenseunicorns/zarf/issues/1697)
 
