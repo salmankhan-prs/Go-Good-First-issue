@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 13:22 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 13:32 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(827 ⭐️)</span>
+
+- [[fix] issue with scorecard runner timing out  ](https://github.com/guacsec/guac/issues/868)
+
+- [Set user agent for collector calls to "GUAC"](https://github.com/guacsec/guac/issues/768)
+
+- [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -15,20 +29,6 @@
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
-
-- [slirp4netns should honour the `helper_binaries_dir` config](https://github.com/containers/podman/issues/18568)
-
-- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -76,6 +76,19 @@
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
+
+- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
+
+
 ## kubernetes/kube-state-metrics <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [kube_lease_renew_time needs namespace label](https://github.com/kubernetes/kube-state-metrics/issues/2071)
@@ -93,17 +106,16 @@
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(517 ⭐️)</span>
 
-- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+- [share/discovery: move the package closer to shrex](https://github.com/celestiaorg/celestia-node/issues/2206)
 
-- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
 
-- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
 
-- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
 
-- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -162,15 +174,6 @@
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
-## guacsec/guac <span style='color:#F1C40F'>(827 ⭐️)</span>
-
-- [[fix] issue with scorecard runner timing out  ](https://github.com/guacsec/guac/issues/868)
-
-- [Set user agent for collector calls to "GUAC"](https://github.com/guacsec/guac/issues/768)
-
-- [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
-
-
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
@@ -188,6 +191,26 @@
 - [Faster than eth_getLogs?](https://github.com/bnb-chain/bsc/issues/1541)
 
 - [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
+
+
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(749 ⭐️)</span>
+
+- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
+
+- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.2K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -242,18 +265,6 @@
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(344 ⭐️)</span>
 
 - [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
-## argoproj/argo-workflows <span style='color:#F1C40F'>(12.9K ⭐️)</span>
-
-- [workflowMetadata set in workflowDefaults doesn't work for Workflowtemplate  ](https://github.com/argoproj/argo-workflows/issues/10946)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
@@ -331,4 +342,62 @@
 - [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
 
 - [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
+
+
+## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
+
+- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
+
+- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
+
+- [OPA debug logs expose X-AMZ-SECURITY-TOKEN header](https://github.com/open-policy-agent/opa/issues/5848)
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
+
+
+## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
+
+
+## Kuadrant/multicluster-gateway-controller <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [bug sometimes a zone will get created multiple times](https://github.com/Kuadrant/multicluster-gateway-controller/issues/180)
+
+- [bug: A record weighting is incorrect](https://github.com/Kuadrant/multicluster-gateway-controller/issues/192)
+
+
+## parca-dev/parca-agent <span style='color:#F1C40F'>(321 ⭐️)</span>
+
+- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
+
+- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
+
+- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+- [[GC] Output deleted and failed-to-delete objects](https://github.com/treeverse/lakeFS/issues/5716)
+
+- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
 
