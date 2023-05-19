@@ -4,7 +4,32 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 06:22 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 06:32 UTC.</div>
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.3K ⭐️)</span>
+
+- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -40,15 +65,6 @@
 - [Reduce the frequency of the relayer logs](https://github.com/celestiaorg/orchestrator-relayer/issues/361)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
 
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
@@ -75,27 +91,11 @@
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
-## 1Panel-dev/1Panel <span style='color:#F1C40F'>(4.3K ⭐️)</span>
-
-- [【安全】1Panel 安全相关需求汇总](https://github.com/1Panel-dev/1Panel/issues/723)
-
-
 ## ray-project/kuberay <span style='color:#F1C40F'>(347 ⭐️)</span>
 
 - [Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
 
 - [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## kubernetes-sigs/cluster-api-provider-ibmcloud <span style='color:#F1C40F'>(54 ⭐️)</span>
@@ -235,6 +235,8 @@
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.7K ⭐️)</span>
 
+- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
+
 - [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
 
 - [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
@@ -313,6 +315,15 @@
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
+## kube-vip/kube-vip <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [BGP metrics support](https://github.com/kube-vip/kube-vip/issues/547)
+
+- [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
+
+- [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
+
+
 ## guacsec/guac <span style='color:#F1C40F'>(828 ⭐️)</span>
 
 - [fix issue with scorecard runner timing out  ](https://github.com/guacsec/guac/issues/868)
@@ -325,11 +336,4 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## berops/claudie <span style='color:#F1C40F'>(240 ⭐️)</span>
-
-- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
-
-- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
 
