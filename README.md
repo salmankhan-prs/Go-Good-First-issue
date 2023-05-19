@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 14:42 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 14:52 UTC.</div>
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(38 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
 
 
 ## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -80,6 +90,26 @@
 - [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
 
 
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+
+
+## celestiaorg/knuu <span style='color:#F1C40F'>(1 ⭐️)</span>
+
+- [On new major release, rename function to be more clear](https://github.com/celestiaorg/knuu/issues/38)
+
+- [Create container image for executor with essential tools installed](https://github.com/celestiaorg/knuu/issues/31)
+
+- [Check if the connection to a Kubernetes Cluster is available before running tests](https://github.com/celestiaorg/knuu/issues/30)
+
+- [Only one file in a package should have package documentation](https://github.com/celestiaorg/knuu/issues/20)
+
+- [Unify debug and error messages](https://github.com/celestiaorg/knuu/issues/23)
+
+
 ## armadaproject/armada <span style='color:#F1C40F'>(313 ⭐️)</span>
 
 - [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
@@ -152,13 +182,6 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## kubernetes/kube-state-metrics <span style='color:#F1C40F'>(4.5K ⭐️)</span>
@@ -298,27 +321,4 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
-## freiheit-com/kuberpult <span style='color:#F1C40F'>(19 ⭐️)</span>
-
-- [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
-
-
-## celestiaorg/knuu <span style='color:#F1C40F'>(1 ⭐️)</span>
-
-- [On new major release, rename function to be more clear](https://github.com/celestiaorg/knuu/issues/38)
-
-- [Create container image for executor with essential tools installed](https://github.com/celestiaorg/knuu/issues/31)
-
-- [Check if the connection to a Kubernetes Cluster is available before running tests](https://github.com/celestiaorg/knuu/issues/30)
-
-- [Only one file in a package should have package documentation](https://github.com/celestiaorg/knuu/issues/20)
-
-- [Unify debug and error messages](https://github.com/celestiaorg/knuu/issues/23)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(510 ⭐️)</span>
-
-- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
