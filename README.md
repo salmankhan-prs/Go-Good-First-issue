@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 22:32 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 22:42 UTC.</div>
+
+
+## kubernetes-sigs/aws-load-balancer-controller <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [Incorrect apiVersion for CertManager Issuer/Certificate ](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/3188)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.2K ⭐️)</span>
@@ -138,11 +143,6 @@
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
-## kubernetes-sigs/aws-load-balancer-controller <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [Incorrect apiVersion for CertManager Issuer/Certificate ](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/3188)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -383,13 +383,4 @@
 - [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
 
 - [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
