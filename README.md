@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 07:02 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 07:12 UTC.</div>
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -334,13 +334,4 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
-## kube-vip/kube-vip <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [BGP metrics support](https://github.com/kube-vip/kube-vip/issues/547)
-
-- [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
-
-- [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
 
