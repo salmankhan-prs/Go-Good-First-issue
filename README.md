@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 19, 2023 12:32 UTC.</div>
+<div align='center'>Last updated at May 19, 2023 12:42 UTC.</div>
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(517 ⭐️)</span>
+
+- [share/discovery: move the package closer to shrex](https://github.com/celestiaorg/celestia-node/issues/2206)
+
+- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -39,11 +46,11 @@
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(517 ⭐️)</span>
+## berops/claudie <span style='color:#F1C40F'>(240 ⭐️)</span>
 
-- [share/discovery: move the package closer to shrex](https://github.com/celestiaorg/celestia-node/issues/2206)
+- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
 
-- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
 
 
 ## freiheit-com/kuberpult <span style='color:#F1C40F'>(19 ⭐️)</span>
@@ -314,23 +321,4 @@
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
-
-
-## Kuadrant/multicluster-gateway-controller <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [bug sometimes a zone will get created multiple times](https://github.com/Kuadrant/multicluster-gateway-controller/issues/180)
-
-- [bug: A record weighting is incorrect](https://github.com/Kuadrant/multicluster-gateway-controller/issues/192)
-
-
-## parca-dev/parca-agent <span style='color:#F1C40F'>(321 ⭐️)</span>
-
-- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
-
-- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
