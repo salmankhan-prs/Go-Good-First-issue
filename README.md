@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 13:02 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 13:12 UTC.</div>
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
@@ -210,6 +210,15 @@
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
+## dose-na-nuvem/customers <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Permitir parametrização do banco via configuração](https://github.com/dose-na-nuvem/customers/issues/25)
+
+- [Adicinar suporte a live reload](https://github.com/dose-na-nuvem/customers/issues/21)
+
+- [Ajustar os avisos dos linters](https://github.com/dose-na-nuvem/customers/issues/7)
+
+
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(16 ⭐️)</span>
 
 - [Extract linter step into separate job](https://github.com/roc-streaming/roc-go/issues/92)
@@ -304,13 +313,4 @@
 ## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
-
-
-## kube-vip/kube-vip <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [BGP metrics support](https://github.com/kube-vip/kube-vip/issues/547)
-
-- [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
-
-- [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
 
