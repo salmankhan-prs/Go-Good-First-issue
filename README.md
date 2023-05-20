@@ -4,12 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 21:42 UTC.</div>
-
-
-## KonstantinGasser/scotty <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [browsing the logs with j/k and page turning wrong](https://github.com/KonstantinGasser/scotty/issues/14)
+<div align='center'>Last updated at May 20, 2023 21:52 UTC.</div>
 
 
 ## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(268 ⭐️)</span>
