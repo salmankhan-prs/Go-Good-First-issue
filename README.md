@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 07:32 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 07:42 UTC.</div>
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.0K ⭐️)</span>
@@ -283,8 +283,6 @@
 - [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
 
 - [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
-
-- [Please support group variables on GitLab](https://github.com/sigstore/cosign/issues/2914)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
