@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 17:12 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 17:22 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -42,11 +47,6 @@
 - [Automate the release process](https://github.com/pouriyajamshidi/tcping/issues/78)
 
 - [add `-c` flag to stop after n probes](https://github.com/pouriyajamshidi/tcping/issues/72)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## pactus-project/pactus <span style='color:#F1C40F'>(31 ⭐️)</span>
