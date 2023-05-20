@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 06:22 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 06:32 UTC.</div>
+
+
+## shieldworks/aegis <span style='color:#F1C40F'>(25 ⭐️)</span>
+
+- [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
+
+- [when adding a new secret, the transformation applies to all the secrets instead of the just newly-added secret; it should not.](https://github.com/shieldworks/aegis/issues/282)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
@@ -357,9 +364,4 @@
 ## tmc/langchaingo <span style='color:#F1C40F'>(214 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
-
-
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
 
