@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 07:52 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 08:02 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.0K ⭐️)</span>
@@ -18,7 +27,7 @@
 - [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.2K ⭐️)</span>
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.3K ⭐️)</span>
 
 - [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
 
@@ -74,15 +83,6 @@
 - [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## project-zot/zot <span style='color:#F1C40F'>(372 ⭐️)</span>
