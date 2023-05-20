@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 18:02 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 18:12 UTC.</div>
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.3K ⭐️)</span>
@@ -18,6 +18,15 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## zeabur/zbpack <span style='color:#F1C40F'>(66 ⭐️)</span>
+
+- [elixir support](https://github.com/zeabur/zbpack/issues/44)
+
+- [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
+
+- [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
@@ -185,7 +194,7 @@
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
-## qascade/dcr <span style='color:#F1C40F'>(7 ⭐️)</span>
+## qascade/dcr <span style='color:#F1C40F'>(8 ⭐️)</span>
 
 - [docs: propose an automated way to generate changelogs](https://github.com/qascade/dcr/issues/50)
 
@@ -211,11 +220,6 @@
 - [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
 
 
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
@@ -237,15 +241,6 @@
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
 
 - [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
-
-
-## zeabur/zbpack <span style='color:#F1C40F'>(65 ⭐️)</span>
-
-- [elixir support](https://github.com/zeabur/zbpack/issues/44)
-
-- [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
-
-- [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
 
 
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(41 ⭐️)</span>
