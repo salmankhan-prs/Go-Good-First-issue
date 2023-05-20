@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 08:12 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 08:22 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -83,6 +83,13 @@
 - [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
+## cue-lang/cue <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [alpha.cuelang.org: upstream internal/parse](https://github.com/cue-lang/cue/issues/2387)
+
+- [cuelang.org: "Create Documentation Issue" link broken](https://github.com/cue-lang/cue/issues/2364)
 
 
 ## project-zot/zot <span style='color:#F1C40F'>(372 ⭐️)</span>
