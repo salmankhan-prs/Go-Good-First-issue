@@ -4,23 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 14:12 UTC.</div>
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(511 ⭐️)</span>
-
-- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
+<div align='center'>Last updated at May 20, 2023 14:22 UTC.</div>
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.3K ⭐️)</span>
@@ -34,6 +18,38 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## go-nostr/nostr <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [Add support for a 'Top 8' follower/following](https://github.com/go-nostr/nostr/issues/140)
+
+- [Change Docker GitHub Actions workflow to use tags as trigger](https://github.com/go-nostr/nostr/issues/42)
+
+- [Add client_deps stage to Dockerfile](https://github.com/go-nostr/nostr/issues/33)
+
+- [Improve artifact naming during GitHub Actions workflows](https://github.com/go-nostr/nostr/issues/29)
+
+
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(511 ⭐️)</span>
+
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -79,11 +95,6 @@
 ## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
 
 - [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.6K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
@@ -330,9 +341,4 @@
 ## TwiN/gatus <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [Able to copy text when hovering over status](https://github.com/TwiN/gatus/issues/463)
-
-
-## kubernetes-sigs/aws-load-balancer-controller <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [Incorrect apiVersion for CertManager Issuer/Certificate ](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/3188)
 
