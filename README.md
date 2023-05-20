@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 14:32 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 14:42 UTC.</div>
 
 
 ## go-nostr/nostr <span style='color:#F1C40F'>(3 ⭐️)</span>
@@ -16,6 +16,15 @@
 - [Add client_deps stage to Dockerfile](https://github.com/go-nostr/nostr/issues/33)
 
 - [Improve artifact naming during GitHub Actions workflows](https://github.com/go-nostr/nostr/issues/29)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.3K ⭐️)</span>
@@ -52,6 +61,15 @@
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
 
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
@@ -74,6 +92,8 @@
 
 
 ## qascade/dcr <span style='color:#F1C40F'>(7 ⭐️)</span>
+
+- [docs: propose an automated way to generate changelogs](https://github.com/qascade/dcr/issues/50)
 
 - [feat: automate csv assignment inside enclave.json](https://github.com/qascade/dcr/issues/45)
 
@@ -141,15 +161,6 @@
 - [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
 
 - [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## armadaproject/armada <span style='color:#F1C40F'>(313 ⭐️)</span>
