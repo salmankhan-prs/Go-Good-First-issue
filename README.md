@@ -4,17 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 00:12 UTC.</div>
-
-
-## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+<div align='center'>Last updated at May 20, 2023 00:22 UTC.</div>
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -34,6 +24,26 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -71,7 +81,7 @@
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
-## base-org/pessimism <span style='color:#F1C40F'>(515 ⭐️)</span>
+## base-org/pessimism <span style='color:#F1C40F'>(512 ⭐️)</span>
 
 - [Enforcing Function Header Comment Hygiene](https://github.com/base-org/pessimism/issues/40)
 
@@ -99,14 +109,14 @@
 - [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
 
 
+## TwiN/gatus <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [Able to copy text when hovering over status](https://github.com/TwiN/gatus/issues/463)
+
+
 ## kubernetes-sigs/aws-load-balancer-controller <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [Incorrect apiVersion for CertManager Issuer/Certificate ](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/3188)
-
-
-## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
 ## kube-vip/kube-vip <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -238,11 +248,6 @@
 - [Update controller package tests](https://github.com/operator-framework/operator-controller/issues/190)
 
 - [[Epic] Refactor ginkgo unit tests to go test](https://github.com/operator-framework/operator-controller/issues/189)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
 ## onflow/cadence <span style='color:#F1C40F'>(466 ⭐️)</span>
