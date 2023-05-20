@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 04:12 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 04:22 UTC.</div>
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
@@ -179,6 +179,11 @@
 - [Incorrect apiVersion for CertManager Issuer/Certificate ](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/3188)
 
 
+## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
+
+
 ## kube-vip/kube-vip <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
 - [BGP metrics support](https://github.com/kube-vip/kube-vip/issues/547)
@@ -286,6 +291,13 @@
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
+## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+
 ## operator-framework/operator-controller <span style='color:#F1C40F'>(5 ⭐️)</span>
 
 - [Update util tests](https://github.com/operator-framework/operator-controller/issues/197)
@@ -343,9 +355,4 @@
 ## getporter/porter <span style='color:#F1C40F'>(985 ⭐️)</span>
 
 - [Update links to deprecated Helm v2 Mixin](https://github.com/getporter/porter/issues/2759)
-
-
-## freiheit-com/kuberpult <span style='color:#F1C40F'>(19 ⭐️)</span>
-
-- [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
 
