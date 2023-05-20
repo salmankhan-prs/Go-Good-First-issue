@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 16:42 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 16:52 UTC.</div>
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
