@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 02:42 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 02:52 UTC.</div>
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
