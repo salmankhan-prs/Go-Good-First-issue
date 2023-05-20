@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 22:12 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 22:22 UTC.</div>
+
+
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
+
+- [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## omerxx/fatbot <span style='color:#F1C40F'>(1 ⭐️)</span>
+
+- [Better ban message](https://github.com/omerxx/fatbot/issues/49)
+
+- [Improve workout reply](https://github.com/omerxx/fatbot/issues/36)
+
+- [Add user /stats](https://github.com/omerxx/fatbot/issues/22)
 
 
 ## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(268 ⭐️)</span>
@@ -43,11 +64,6 @@
 ## kairos-io/kairos <span style='color:#F1C40F'>(512 ⭐️)</span>
 
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(16 ⭐️)</span>
@@ -152,13 +168,6 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 - [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
-
-
-## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
-
-- [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
 
 
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(135 ⭐️)</span>
@@ -310,11 +319,4 @@
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
 
 - [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
-
-
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(41 ⭐️)</span>
-
-- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
-
-- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
 
