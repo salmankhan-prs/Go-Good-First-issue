@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 21:32 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 21:42 UTC.</div>
+
+
+## KonstantinGasser/scotty <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [browsing the logs with j/k and page turning wrong](https://github.com/KonstantinGasser/scotty/issues/14)
 
 
 ## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(268 ⭐️)</span>
@@ -77,6 +82,11 @@
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
+
+- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
 
 
 ## in-toto/in-toto-golang <span style='color:#F1C40F'>(90 ⭐️)</span>
@@ -263,7 +273,7 @@
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
-## qascade/dcr <span style='color:#F1C40F'>(8 ⭐️)</span>
+## qascade/dcr <span style='color:#F1C40F'>(9 ⭐️)</span>
 
 - [docs: propose an automated way to generate changelogs](https://github.com/qascade/dcr/issues/50)
 
