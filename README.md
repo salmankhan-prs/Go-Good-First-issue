@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 08:42 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 08:52 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -286,11 +286,6 @@
 - [Add flag to output JSON errors from the validate command](https://github.com/CycloneDX/sbom-utility/issues/26)
 
 
-## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [The `requirements_lock` file must be fully pinned error](https://github.com/bufbuild/protoc-gen-validate/issues/863)
-
-
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
 
 - [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
@@ -344,27 +339,4 @@
 ## kubernetes-sigs/network-policy-api <span style='color:#F1C40F'>(22 ⭐️)</span>
 
 - [Add a Script linter to our CI workflow](https://github.com/kubernetes-sigs/network-policy-api/issues/94)
-
-
-## operator-framework/operator-controller <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Update util tests](https://github.com/operator-framework/operator-controller/issues/197)
-
-- [Document testing conventions](https://github.com/operator-framework/operator-controller/issues/188)
-
-- [Update resolution package tests](https://github.com/operator-framework/operator-controller/issues/191)
-
-- [Update required package variable source tests](https://github.com/operator-framework/operator-controller/issues/196)
-
-- [Update olm variable source tests](https://github.com/operator-framework/operator-controller/issues/195)
-
-- [Update entity tests](https://github.com/operator-framework/operator-controller/issues/194)
-
-- [Update crd constraints variable source tests](https://github.com/operator-framework/operator-controller/issues/193)
-
-- [Update bundles and dependencies variable source tests](https://github.com/operator-framework/operator-controller/issues/192)
-
-- [Update controller package tests](https://github.com/operator-framework/operator-controller/issues/190)
-
-- [[Epic] Refactor ginkgo unit tests to go test](https://github.com/operator-framework/operator-controller/issues/189)
 
