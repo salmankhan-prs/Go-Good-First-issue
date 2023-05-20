@@ -4,26 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 12:42 UTC.</div>
-
-
-## qascade/dcr <span style='color:#F1C40F'>(6 ⭐️)</span>
-
-- [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
-
-- [feat: automate csv assignment inside enclave.json](https://github.com/qascade/dcr/issues/45)
-
-- [bug: fix error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
-
-- [refactor: Migrate the ego-server code from different repo to dcr](https://github.com/qascade/dcr/issues/40)
-
-- [test: a actions config to test ego apps on github.](https://github.com/qascade/dcr/issues/41)
-
-- [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
-
-- [bug: make Authorized Sorting not fail on non-authorization (For DSA Enthusiasts)](https://github.com/qascade/dcr/issues/36)
-
-- [feat: enable use of relative addresses in config yaml. ](https://github.com/qascade/dcr/issues/33)
+<div align='center'>Last updated at May 20, 2023 12:52 UTC.</div>
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.3K ⭐️)</span>
@@ -37,6 +18,25 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## qascade/dcr <span style='color:#F1C40F'>(7 ⭐️)</span>
+
+- [feat: automate csv assignment inside enclave.json](https://github.com/qascade/dcr/issues/45)
+
+- [bug: fix error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
+
+- [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
+
+- [refactor: Migrate the ego-server code from different repo to dcr](https://github.com/qascade/dcr/issues/40)
+
+- [test: a actions config to test ego apps on github.](https://github.com/qascade/dcr/issues/41)
+
+- [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
+
+- [bug: make Authorized Sorting not fail on non-authorization (For DSA Enthusiasts)](https://github.com/qascade/dcr/issues/36)
+
+- [feat: enable use of relative addresses in config yaml. ](https://github.com/qascade/dcr/issues/33)
 
 
 ## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
@@ -71,7 +71,7 @@
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
-## zeabur/zbpack <span style='color:#F1C40F'>(63 ⭐️)</span>
+## zeabur/zbpack <span style='color:#F1C40F'>(64 ⭐️)</span>
 
 - [elixir support](https://github.com/zeabur/zbpack/issues/44)
 
