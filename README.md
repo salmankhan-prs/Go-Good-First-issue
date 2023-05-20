@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 11:12 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 11:22 UTC.</div>
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## zeabur/zbpack <span style='color:#F1C40F'>(63 ⭐️)</span>
@@ -64,11 +69,6 @@
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
-## armadaproject/armada <span style='color:#F1C40F'>(313 ⭐️)</span>
-
-- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
-
-
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.1K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
@@ -102,11 +102,6 @@
 - [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
 
 - [when adding a new secret, the transformation applies to all the secrets instead of the just newly-added secret; it should not.](https://github.com/shieldworks/aegis/issues/282)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
