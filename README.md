@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 14:42 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 14:52 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## go-nostr/nostr <span style='color:#F1C40F'>(3 ⭐️)</span>
@@ -61,6 +66,13 @@
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
 
+## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
+
+- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
 
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
@@ -79,11 +91,6 @@
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
 
 - [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
@@ -138,13 +145,6 @@
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
 
 - [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
-
-- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## zeabur/zbpack <span style='color:#F1C40F'>(64 ⭐️)</span>
