@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 06:42 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 06:52 UTC.</div>
 
 
 ## shieldworks/aegis <span style='color:#F1C40F'>(25 ⭐️)</span>
@@ -297,11 +297,6 @@
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
-
-
-## kubernetes/kube-state-metrics <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [kube_lease_renew_time needs namespace label](https://github.com/kubernetes/kube-state-metrics/issues/2071)
 
 
 ## tigera/operator <span style='color:#F1C40F'>(128 ⭐️)</span>
