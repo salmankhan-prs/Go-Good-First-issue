@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 14:52 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 15:02 UTC.</div>
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
@@ -43,6 +43,11 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
+
+- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
