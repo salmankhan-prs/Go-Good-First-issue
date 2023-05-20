@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 19:52 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 20:02 UTC.</div>
+
+
+## roc-streaming/roc-go <span style='color:#F1C40F'>(16 ⭐️)</span>
+
+- [Extract linter step into separate job](https://github.com/roc-streaming/roc-go/issues/92)
+
+- [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
+
+- [Add CI step that checks that gofmt was called](https://github.com/roc-streaming/roc-go/issues/86)
+
+- [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
@@ -343,23 +354,7 @@
 - [Ajustar os avisos dos linters](https://github.com/dose-na-nuvem/customers/issues/7)
 
 
-## roc-streaming/roc-go <span style='color:#F1C40F'>(16 ⭐️)</span>
-
-- [Extract linter step into separate job](https://github.com/roc-streaming/roc-go/issues/92)
-
-- [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
-
-- [Add CI step that checks that gofmt was called](https://github.com/roc-streaming/roc-go/issues/86)
-
-- [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
-
-
 ## alcionai/corso <span style='color:#F1C40F'>(108 ⭐️)</span>
 
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
