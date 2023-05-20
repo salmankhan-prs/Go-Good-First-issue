@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 03:22 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 03:32 UTC.</div>
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.0K ⭐️)</span>
@@ -300,11 +305,6 @@
 - [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
 
 
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
 ## tmc/langchaingo <span style='color:#F1C40F'>(214 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
@@ -348,9 +348,4 @@
 - [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## apache/trafficcontrol <span style='color:#F1C40F'>(900 ⭐️)</span>
-
-- [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
 
