@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 02:52 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 03:02 UTC.</div>
+
+
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.0K ⭐️)</span>
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
