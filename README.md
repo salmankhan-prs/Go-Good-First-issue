@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 12:22 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 12:32 UTC.</div>
+
+
+## qascade/dcr <span style='color:#F1C40F'>(6 ⭐️)</span>
+
+- [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
+
+- [feat: automate csv assignment inside enclave.json](https://github.com/qascade/dcr/issues/45)
+
+- [bug: fix error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
+
+- [refactor: Migrate the ego-server code from different repo to dcr](https://github.com/qascade/dcr/issues/40)
+
+- [test: a actions config to test ego apps on github.](https://github.com/qascade/dcr/issues/41)
+
+- [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
+
+- [bug: make Authorized Sorting not fail on non-authorization (For DSA Enthusiasts)](https://github.com/qascade/dcr/issues/36)
+
+- [feat: enable use of relative addresses in config yaml. ](https://github.com/qascade/dcr/issues/33)
 
 
 ## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
@@ -294,47 +313,4 @@
 - [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
 
 - [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
-
-
-## ossf/scorecard <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [e2e tests: use ginkgo's `--flake-attempts` flag instead of `nick-invision/retry`](https://github.com/ossf/scorecard/issues/2897)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
-
-
-## guacsec/guac <span style='color:#F1C40F'>(827 ⭐️)</span>
-
-- [[fix] issue with scorecard runner timing out  ](https://github.com/guacsec/guac/issues/868)
-
-- [Set user agent for collector calls to "GUAC"](https://github.com/guacsec/guac/issues/768)
-
-- [Fix processor and parser PUBSUB tests to check for logger err msgs](https://github.com/guacsec/guac/issues/765)
-
-
-## CycloneDX/sbom-utility <span style='color:#F1C40F'>(30 ⭐️)</span>
-
-- [Add flag to output JSON errors from the validate command](https://github.com/CycloneDX/sbom-utility/issues/26)
-
-
-## zalando/skipper <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Docs: Filter example contains error](https://github.com/zalando/skipper/issues/2280)
-
-
-## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [The `requirements_lock` file must be fully pinned error](https://github.com/bufbuild/protoc-gen-validate/issues/863)
-
-
-## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [cosign load '--allow-insecure-registry' ](https://github.com/sigstore/cosign/issues/2986)
-
-- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
-
-- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
 
