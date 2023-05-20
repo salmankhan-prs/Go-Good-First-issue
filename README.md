@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 02:32 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 02:42 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
@@ -201,11 +206,6 @@
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
@@ -342,9 +342,4 @@
 ## apache/trafficcontrol <span style='color:#F1C40F'>(900 ⭐️)</span>
 
 - [Add granular UAS to Traffic Router](https://github.com/apache/trafficcontrol/issues/7455)
-
-
-## dapr/cli <span style='color:#F1C40F'>(282 ⭐️)</span>
-
-- [Allow app channel address to be passed via CLI](https://github.com/dapr/cli/issues/1281)
 
