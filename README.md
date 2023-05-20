@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 19:12 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 19:22 UTC.</div>
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.3K ⭐️)</span>
@@ -258,6 +258,11 @@
 - [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
 
 - [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
 
 
 ## anchore/syft <span style='color:#F1C40F'>(4.2K ⭐️)</span>
