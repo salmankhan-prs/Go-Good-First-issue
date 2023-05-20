@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 14:22 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 14:32 UTC.</div>
+
+
+## go-nostr/nostr <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [Add support for a 'Top 8' follower/following](https://github.com/go-nostr/nostr/issues/140)
+
+- [Change Docker GitHub Actions workflow to use tags as trigger](https://github.com/go-nostr/nostr/issues/42)
+
+- [Add client_deps stage to Dockerfile](https://github.com/go-nostr/nostr/issues/33)
+
+- [Improve artifact naming during GitHub Actions workflows](https://github.com/go-nostr/nostr/issues/29)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.3K ⭐️)</span>
@@ -18,17 +29,6 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-
-## go-nostr/nostr <span style='color:#F1C40F'>(3 ⭐️)</span>
-
-- [Add support for a 'Top 8' follower/following](https://github.com/go-nostr/nostr/issues/140)
-
-- [Change Docker GitHub Actions workflow to use tags as trigger](https://github.com/go-nostr/nostr/issues/42)
-
-- [Add client_deps stage to Dockerfile](https://github.com/go-nostr/nostr/issues/33)
-
-- [Improve artifact naming during GitHub Actions workflows](https://github.com/go-nostr/nostr/issues/29)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
