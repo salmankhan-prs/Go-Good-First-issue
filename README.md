@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 01:22 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 01:32 UTC.</div>
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -67,6 +67,11 @@
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
@@ -80,11 +85,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.2K ⭐️)</span>
