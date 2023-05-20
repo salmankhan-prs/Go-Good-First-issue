@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 08:32 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 08:42 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -367,9 +367,4 @@
 - [Update controller package tests](https://github.com/operator-framework/operator-controller/issues/190)
 
 - [[Epic] Refactor ginkgo unit tests to go test](https://github.com/operator-framework/operator-controller/issues/189)
-
-
-## onflow/cadence <span style='color:#F1C40F'>(466 ⭐️)</span>
-
-- [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
 
