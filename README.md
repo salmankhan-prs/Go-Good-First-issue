@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 13:32 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 13:42 UTC.</div>
+
+
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.3K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -21,19 +45,6 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.3K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## qascade/dcr <span style='color:#F1C40F'>(7 ⭐️)</span>
@@ -107,17 +118,6 @@
 - [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
 
 - [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(40 ⭐️)</span>
