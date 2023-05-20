@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 14:02 UTC.</div>
+<div align='center'>Last updated at May 20, 2023 14:12 UTC.</div>
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
@@ -16,6 +16,11 @@
 - [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
 
 - [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(511 ⭐️)</span>
+
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.3K ⭐️)</span>
