@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 08:42 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 08:52 UTC.</div>
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -118,7 +118,7 @@
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
-## protoconf/protoconf <span style='color:#F1C40F'>(109 ⭐️)</span>
+## protoconf/protoconf <span style='color:#F1C40F'>(110 ⭐️)</span>
 
 - [[Java] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/320)
 
@@ -241,6 +241,15 @@
 ## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
