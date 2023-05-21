@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 01:42 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 01:52 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
@@ -16,6 +21,19 @@
 - [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
 
 - [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
+
+- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -40,11 +58,6 @@
 ## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
@@ -139,19 +152,6 @@
 - [Add CI step that checks that gofmt was called](https://github.com/roc-streaming/roc-go/issues/86)
 
 - [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
-
-- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
