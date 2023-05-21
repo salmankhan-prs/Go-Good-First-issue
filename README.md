@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 06:32 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 06:42 UTC.</div>
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
@@ -69,6 +69,11 @@
 - [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
 
 - [[golang] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/316)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.4K ⭐️)</span>
