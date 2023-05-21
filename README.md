@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 16:52 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 17:02 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -42,11 +47,6 @@
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
@@ -57,6 +57,11 @@
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
 
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -125,6 +130,15 @@
 - [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
 
 
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
 ## staticbackendhq/core <span style='color:#F1C40F'>(568 ⭐️)</span>
 
 - [[cli] Add a tail command to follow server logs](https://github.com/staticbackendhq/core/issues/85)
@@ -140,7 +154,7 @@
 - [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
 
 
-## zeabur/zbpack <span style='color:#F1C40F'>(70 ⭐️)</span>
+## zeabur/zbpack <span style='color:#F1C40F'>(71 ⭐️)</span>
 
 - [elixir support](https://github.com/zeabur/zbpack/issues/44)
 
@@ -193,11 +207,6 @@
 - [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
 
 - [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(321 ⭐️)</span>
@@ -296,15 +305,6 @@
 ## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
 ## omerxx/fatbot <span style='color:#F1C40F'>(1 ⭐️)</span>
