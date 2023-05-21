@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 21:12 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 21:22 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## omerxx/fatbot <span style='color:#F1C40F'>(1 ⭐️)</span>
@@ -14,11 +19,6 @@
 - [Improve workout reply](https://github.com/omerxx/fatbot/issues/36)
 
 - [Add user /stats](https://github.com/omerxx/fatbot/issues/22)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(219 ⭐️)</span>
@@ -97,6 +97,13 @@
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
+## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+
 ## qascade/dcr <span style='color:#F1C40F'>(11 ⭐️)</span>
 
 - [fix(config): error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
@@ -137,6 +144,13 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(42 ⭐️)</span>
+
+- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
+
+- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
 
 
 ## fluent/fluent-operator <span style='color:#F1C40F'>(414 ⭐️)</span>
