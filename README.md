@@ -4,10 +4,33 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 07:12 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 07:22 UTC.</div>
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
+
+
+## zeabur/zbpack <span style='color:#F1C40F'>(68 ⭐️)</span>
+
+- [elixir support](https://github.com/zeabur/zbpack/issues/44)
+
+- [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
+
+- [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
 
 
 ## qascade/dcr <span style='color:#F1C40F'>(9 ⭐️)</span>
+
+- [test: make TestGraph tests strict](https://github.com/qascade/dcr/issues/53)
+
+- [fix(config): error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
 
 - [refactor: migrate the ego-server code from different repo to dcr](https://github.com/qascade/dcr/issues/40)
 
@@ -16,8 +39,6 @@
 - [ci: propose an automated way to generate changelogs](https://github.com/qascade/dcr/issues/50)
 
 - [fix(adress): authorized Sorting failing on non-authorization ](https://github.com/qascade/dcr/issues/36)
-
-- [fix(config): error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
 
 - [feat(config): enable use of relative addresses in config yaml. ](https://github.com/qascade/dcr/issues/33)
 
@@ -68,15 +89,6 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## zeabur/zbpack <span style='color:#F1C40F'>(67 ⭐️)</span>
-
-- [elixir support](https://github.com/zeabur/zbpack/issues/44)
-
-- [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
-
-- [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
 
 
 ## protoconf/protoconf <span style='color:#F1C40F'>(109 ⭐️)</span>
@@ -268,11 +280,6 @@
 - [Add CI step that checks that gofmt was called](https://github.com/roc-streaming/roc-go/issues/86)
 
 
-## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
-
-
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
 
 - [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
@@ -329,21 +336,4 @@
 - [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
-
-- [Eventing TLS: Test ApiServerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6913)
-
-- [Eventing TLS: Test ContainerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6937)
-
-- [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
-
-- [Eventing TLS: Test PingSource with Broker as sink](https://github.com/knative/eventing/issues/6932)
-
-- [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
-
-- [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
 
