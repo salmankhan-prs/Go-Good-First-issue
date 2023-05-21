@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 04:32 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 04:42 UTC.</div>
+
+
+## pactus-project/pactus <span style='color:#F1C40F'>(31 ⭐️)</span>
+
+- [Reset config file to default when user deletes it](https://github.com/pactus-project/pactus/issues/478)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
@@ -259,6 +264,13 @@
 - [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
 
 
+## ray-project/kuberay <span style='color:#F1C40F'>(348 ⭐️)</span>
+
+- [Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
+
+- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
+
+
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(135 ⭐️)</span>
 
 - [Move any output-related logic to printers (and vice-versa)](https://github.com/pouriyajamshidi/tcping/issues/84)
@@ -277,11 +289,6 @@
 - [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## pactus-project/pactus <span style='color:#F1C40F'>(31 ⭐️)</span>
-
-- [Reset config file to default when user deletes it](https://github.com/pactus-project/pactus/issues/478)
 
 
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
