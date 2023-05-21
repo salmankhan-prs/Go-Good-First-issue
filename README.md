@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 03:12 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 03:22 UTC.</div>
 
 
 ## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(268 ⭐️)</span>
@@ -170,13 +170,13 @@
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(16 ⭐️)</span>
 
+- [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
+
 - [Extract linter step into separate job](https://github.com/roc-streaming/roc-go/issues/92)
 
 - [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
 
 - [Add CI step that checks that gofmt was called](https://github.com/roc-streaming/roc-go/issues/86)
-
-- [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
@@ -313,20 +313,4 @@
 ## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
 
 - [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
-
-- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
-
-- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
-
-- [[GC] Deletion phase performed twice](https://github.com/treeverse/lakeFS/issues/5723)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
