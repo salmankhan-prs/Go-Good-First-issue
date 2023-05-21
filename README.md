@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 09:12 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 09:22 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
@@ -49,6 +49,17 @@
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
+
+
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(321 ⭐️)</span>
 
 - [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
@@ -65,17 +76,6 @@
 - [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
 
 - [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
