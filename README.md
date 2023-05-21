@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 20, 2023 23:52 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 00:02 UTC.</div>
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
