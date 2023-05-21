@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 02:12 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 02:22 UTC.</div>
+
+
+## traPtitech/knoQ <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [出席を反映するBOTの作成](https://github.com/traPtitech/knoQ/issues/377)
 
 
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
@@ -324,25 +329,4 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## qascade/dcr <span style='color:#F1C40F'>(9 ⭐️)</span>
-
-- [docs: propose an automated way to generate changelogs](https://github.com/qascade/dcr/issues/50)
-
-- [feat: automate csv assignment inside enclave.json](https://github.com/qascade/dcr/issues/45)
-
-- [bug: fix error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
-
-- [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
-
-- [refactor: Migrate the ego-server code from different repo to dcr](https://github.com/qascade/dcr/issues/40)
-
-- [test: a actions config to test ego apps on github.](https://github.com/qascade/dcr/issues/41)
-
-- [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
-
-- [bug: make Authorized Sorting not fail on non-authorization (For DSA Enthusiasts)](https://github.com/qascade/dcr/issues/36)
-
-- [feat: enable use of relative addresses in config yaml. ](https://github.com/qascade/dcr/issues/33)
 
