@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 20:22 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 20:32 UTC.</div>
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(219 ⭐️)</span>
@@ -139,6 +139,23 @@
 - [Support `tenant_id_key` for fluent-bit Loki (Cluster)Output](https://github.com/fluent/fluent-operator/issues/737)
 
 - [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
+
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
@@ -288,23 +305,6 @@
 - [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-
 ## pactus-project/pactus <span style='color:#F1C40F'>(31 ⭐️)</span>
 
 - [Reset config file to default when user deletes it](https://github.com/pactus-project/pactus/issues/478)
@@ -379,17 +379,4 @@
 - [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
 
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
-
-
-## rancher/opni <span style='color:#F1C40F'>(255 ⭐️)</span>
-
-- [Data import Sending too large packets](https://github.com/rancher/opni/issues/1415)
-
-- [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
-
-- [Pin version of grafana for Monitoring](https://github.com/rancher/opni/issues/1357)
-
-- [Panic encountered while watching data import progress:](https://github.com/rancher/opni/issues/1375)
-
-- [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
 
