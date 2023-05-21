@@ -4,16 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 10:12 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 10:22 UTC.</div>
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
 
+- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
+
 - [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
 
 - [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
 
 - [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
@@ -331,9 +331,4 @@
 - [TestSystemThrottler test flake](https://github.com/ava-labs/avalanchego/issues/1414)
 
 - [Add P-chain config for cache sizes](https://github.com/ava-labs/avalanchego/issues/1522)
-
-
-## armadaproject/armada <span style='color:#F1C40F'>(315 ⭐️)</span>
-
-- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
 
