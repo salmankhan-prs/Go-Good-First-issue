@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 22:22 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 22:32 UTC.</div>
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.4K ⭐️)</span>
@@ -18,14 +23,14 @@
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -49,6 +54,13 @@
 ## tmc/langchaingo <span style='color:#F1C40F'>(219 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(136 ⭐️)</span>
@@ -83,6 +95,11 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(347 ⭐️)</span>
+
+- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -200,13 +217,6 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
