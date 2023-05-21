@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 23:12 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 23:22 UTC.</div>
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
@@ -59,6 +59,11 @@
 ## tmc/langchaingo <span style='color:#F1C40F'>(219 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
