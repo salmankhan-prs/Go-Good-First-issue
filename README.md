@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 16:02 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 16:12 UTC.</div>
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.4K ⭐️)</span>
@@ -291,9 +291,4 @@
 ## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
