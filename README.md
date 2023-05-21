@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 08:52 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 09:02 UTC.</div>
+
+
+## qascade/dcr <span style='color:#F1C40F'>(10 ⭐️)</span>
+
+- [fix(config): error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
+
+- [test: make TestGraph tests strict](https://github.com/qascade/dcr/issues/53)
+
+- [refactor: migrate the ego-server code from different repo to dcr](https://github.com/qascade/dcr/issues/40)
+
+- [ci: a actions config to test ego apps on github.](https://github.com/qascade/dcr/issues/41)
+
+- [ci: propose an automated way to generate changelogs](https://github.com/qascade/dcr/issues/50)
+
+- [fix(adress): authorized Sorting failing on non-authorization ](https://github.com/qascade/dcr/issues/36)
+
+- [feat(config): enable use of relative addresses in config yaml. ](https://github.com/qascade/dcr/issues/33)
+
+- [feat(service): automate csv assignment inside enclave.json](https://github.com/qascade/dcr/issues/45)
+
+- [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
+
+- [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -67,29 +90,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## qascade/dcr <span style='color:#F1C40F'>(10 ⭐️)</span>
-
-- [fix(config): error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
-
-- [test: make TestGraph tests strict](https://github.com/qascade/dcr/issues/53)
-
-- [refactor: migrate the ego-server code from different repo to dcr](https://github.com/qascade/dcr/issues/40)
-
-- [ci: a actions config to test ego apps on github.](https://github.com/qascade/dcr/issues/41)
-
-- [ci: propose an automated way to generate changelogs](https://github.com/qascade/dcr/issues/50)
-
-- [fix(adress): authorized Sorting failing on non-authorization ](https://github.com/qascade/dcr/issues/36)
-
-- [feat(config): enable use of relative addresses in config yaml. ](https://github.com/qascade/dcr/issues/33)
-
-- [feat(service): automate csv assignment inside enclave.json](https://github.com/qascade/dcr/issues/45)
-
-- [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
-
-- [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -343,15 +343,4 @@
 - [Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
 
 - [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
-
-
-## pouriyajamshidi/tcping <span style='color:#F1C40F'>(135 ⭐️)</span>
-
-- [Move any output-related logic to printers (and vice-versa)](https://github.com/pouriyajamshidi/tcping/issues/84)
-
-- [Starting and exiting immediately prints "NaN% packet loss"](https://github.com/pouriyajamshidi/tcping/issues/81)
-
-- [Automate the release process](https://github.com/pouriyajamshidi/tcping/issues/78)
-
-- [add `-c` flag to stop after n probes](https://github.com/pouriyajamshidi/tcping/issues/72)
 
