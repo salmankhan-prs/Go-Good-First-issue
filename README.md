@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 11:32 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 11:42 UTC.</div>
 
 
 ## staticbackendhq/core <span style='color:#F1C40F'>(568 ⭐️)</span>
@@ -97,7 +97,7 @@
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
-## qascade/dcr <span style='color:#F1C40F'>(10 ⭐️)</span>
+## qascade/dcr <span style='color:#F1C40F'>(11 ⭐️)</span>
 
 - [fix(config): error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
 
