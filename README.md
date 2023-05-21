@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 21:22 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 21:32 UTC.</div>
+
+
+## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [request new verification token](https://github.com/opencorelabs/fira/issues/53)
+
+- [[backend] email verification security](https://github.com/opencorelabs/fira/issues/46)
+
+- [[backend] min password length validation](https://github.com/opencorelabs/fira/issues/41)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
@@ -106,6 +115,8 @@
 
 ## qascade/dcr <span style='color:#F1C40F'>(11 ⭐️)</span>
 
+- [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
+
 - [fix(config): error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
 
 - [feat(service): automate csv assignment inside enclave.json](https://github.com/qascade/dcr/issues/45)
@@ -123,8 +134,6 @@
 - [feat(config): enable use of relative addresses in config yaml. ](https://github.com/qascade/dcr/issues/33)
 
 - [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
-
-- [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -300,9 +309,4 @@
 - [API Tests: Dataset/Model Readme API tests](https://github.com/PuremlHQ/PureML/issues/225)
 
 - [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
