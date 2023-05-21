@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 17:42 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 17:52 UTC.</div>
+
+
+## qascade/dcr <span style='color:#F1C40F'>(11 ⭐️)</span>
+
+- [fix(config): error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
+
+- [feat(service): automate csv assignment inside enclave.json](https://github.com/qascade/dcr/issues/45)
+
+- [test: make TestGraph tests strict](https://github.com/qascade/dcr/issues/53)
+
+- [refactor: migrate the ego-server code from different repo to dcr](https://github.com/qascade/dcr/issues/40)
+
+- [ci: a actions config to test ego apps on github.](https://github.com/qascade/dcr/issues/41)
+
+- [ci: propose an automated way to generate changelogs](https://github.com/qascade/dcr/issues/50)
+
+- [fix(adress): authorized Sorting failing on non-authorization ](https://github.com/qascade/dcr/issues/36)
+
+- [feat(config): enable use of relative addresses in config yaml. ](https://github.com/qascade/dcr/issues/33)
+
+- [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
+
+- [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -154,7 +177,7 @@
 - [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
 
 
-## zeabur/zbpack <span style='color:#F1C40F'>(71 ⭐️)</span>
+## zeabur/zbpack <span style='color:#F1C40F'>(72 ⭐️)</span>
 
 - [elixir support](https://github.com/zeabur/zbpack/issues/44)
 
@@ -184,29 +207,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## qascade/dcr <span style='color:#F1C40F'>(11 ⭐️)</span>
-
-- [fix(config): error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
-
-- [feat(service): automate csv assignment inside enclave.json](https://github.com/qascade/dcr/issues/45)
-
-- [test: make TestGraph tests strict](https://github.com/qascade/dcr/issues/53)
-
-- [refactor: migrate the ego-server code from different repo to dcr](https://github.com/qascade/dcr/issues/40)
-
-- [ci: a actions config to test ego apps on github.](https://github.com/qascade/dcr/issues/41)
-
-- [ci: propose an automated way to generate changelogs](https://github.com/qascade/dcr/issues/50)
-
-- [fix(adress): authorized Sorting failing on non-authorization ](https://github.com/qascade/dcr/issues/36)
-
-- [feat(config): enable use of relative addresses in config yaml. ](https://github.com/qascade/dcr/issues/33)
-
-- [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
-
-- [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
 
 
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(321 ⭐️)</span>
