@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 05:12 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 05:22 UTC.</div>
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
@@ -322,15 +322,4 @@
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
 
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
-## go-nostr/nostr <span style='color:#F1C40F'>(3 ⭐️)</span>
-
-- [Add support for a 'Top 8' follower/following](https://github.com/go-nostr/nostr/issues/140)
-
-- [Change Docker GitHub Actions workflow to use tags as trigger](https://github.com/go-nostr/nostr/issues/42)
-
-- [Add client_deps stage to Dockerfile](https://github.com/go-nostr/nostr/issues/33)
-
-- [Improve artifact naming during GitHub Actions workflows](https://github.com/go-nostr/nostr/issues/29)
 
