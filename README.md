@@ -4,7 +4,20 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 10:22 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 10:32 UTC.</div>
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.4K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
@@ -143,19 +156,6 @@
 - [[golang] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/316)
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.4K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: make entrypoint to download free models](https://github.com/go-skynet/LocalAI/issues/271)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-
 ## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(268 ⭐️)</span>
 
 - [only perform contract code check if non-hardcoded address is used](https://github.com/AthanorLabs/atomic-swap/issues/416)
@@ -266,6 +266,19 @@
 - [Add user /stats](https://github.com/omerxx/fatbot/issues/22)
 
 
+## rancher/opni <span style='color:#F1C40F'>(256 ⭐️)</span>
+
+- [Data import Sending too large packets](https://github.com/rancher/opni/issues/1415)
+
+- [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
+
+- [Pin version of grafana for Monitoring](https://github.com/rancher/opni/issues/1357)
+
+- [Panic encountered while watching data import progress:](https://github.com/rancher/opni/issues/1375)
+
+- [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
+
+
 ## tmc/langchaingo <span style='color:#F1C40F'>(217 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
@@ -324,11 +337,4 @@
 ## in-toto/in-toto-golang <span style='color:#F1C40F'>(90 ⭐️)</span>
 
 - [Revisit type assertions](https://github.com/in-toto/in-toto-golang/issues/230)
-
-
-## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [TestSystemThrottler test flake](https://github.com/ava-labs/avalanchego/issues/1414)
-
-- [Add P-chain config for cache sizes](https://github.com/ava-labs/avalanchego/issues/1522)
 
