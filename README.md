@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 07:32 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 07:42 UTC.</div>
+
+
+## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Feature request: Integration with Akka Streams](https://github.com/memphisdev/memphis/issues/936)
+
+- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
+
+- [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
