@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 10:52 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 11:02 UTC.</div>
+
+
+## PuremlHQ/PureML <span style='color:#F1C40F'>(173 ⭐️)</span>
+
+- [Adding function documentation for DAOs](https://github.com/PuremlHQ/PureML/issues/227)
+
+- [API Tests: Dataset/Model Review API tests](https://github.com/PuremlHQ/PureML/issues/226)
+
+- [API Tests: Dataset/Model Readme API tests](https://github.com/PuremlHQ/PureML/issues/225)
+
+- [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -316,20 +327,4 @@
 ## kairos-io/kairos <span style='color:#F1C40F'>(512 ⭐️)</span>
 
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
-
-
-## roc-streaming/roc-go <span style='color:#F1C40F'>(16 ⭐️)</span>
-
-- [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
-
-- [Extract linter step into separate job](https://github.com/roc-streaming/roc-go/issues/92)
-
-- [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
-
-- [Add CI step that checks that gofmt was called](https://github.com/roc-streaming/roc-go/issues/86)
-
-
-## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
-
-- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
 
