@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 09:52 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 10:02 UTC.</div>
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
+
+- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
 
 
 ## zeabur/zbpack <span style='color:#F1C40F'>(68 ⭐️)</span>
@@ -54,15 +63,6 @@
 - [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
 
 - [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
-
-- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
-
-- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
@@ -132,11 +132,11 @@
 
 ## protoconf/protoconf <span style='color:#F1C40F'>(110 ⭐️)</span>
 
+- [[Javascript] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/318)
+
 - [[Java] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/320)
 
 - [[rust] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/319)
-
-- [[Javascript] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/318)
 
 - [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
 
