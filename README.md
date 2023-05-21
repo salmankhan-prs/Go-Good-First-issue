@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 07:42 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 07:52 UTC.</div>
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
+## parca-dev/parca-agent <span style='color:#F1C40F'>(321 ⭐️)</span>
+
+- [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
+
+- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
+
+- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -25,11 +39,6 @@
 - [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
 
 - [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
