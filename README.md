@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 08:02 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 08:12 UTC.</div>
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
@@ -62,9 +62,9 @@
 
 ## qascade/dcr <span style='color:#F1C40F'>(10 ⭐️)</span>
 
-- [test: make TestGraph tests strict](https://github.com/qascade/dcr/issues/53)
-
 - [fix(config): error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
+
+- [test: make TestGraph tests strict](https://github.com/qascade/dcr/issues/53)
 
 - [refactor: migrate the ego-server code from different repo to dcr](https://github.com/qascade/dcr/issues/40)
 
@@ -336,13 +336,4 @@
 - [Automate the release process](https://github.com/pouriyajamshidi/tcping/issues/78)
 
 - [add `-c` flag to stop after n probes](https://github.com/pouriyajamshidi/tcping/issues/72)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
