@@ -4,12 +4,23 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 20:12 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 20:22 UTC.</div>
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(219 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.4K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(136 ⭐️)</span>
@@ -119,15 +130,15 @@
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.4K ⭐️)</span>
+## fluent/fluent-operator <span style='color:#F1C40F'>(414 ⭐️)</span>
 
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+- [bug: [Fluentd] ClusterFilter - 'reserve_data' parameter is required but nil is specified](https://github.com/fluent/fluent-operator/issues/741)
 
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+- [Add HPA support to Fluentd](https://github.com/fluent/fluent-operator/issues/739)
 
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+- [Support `tenant_id_key` for fluent-bit Loki (Cluster)Output](https://github.com/fluent/fluent-operator/issues/737)
 
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+- [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
@@ -381,9 +392,4 @@
 - [Panic encountered while watching data import progress:](https://github.com/rancher/opni/issues/1375)
 
 - [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
