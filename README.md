@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 15:22 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 15:32 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
@@ -135,7 +135,7 @@
 - [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
 
 
-## zeabur/zbpack <span style='color:#F1C40F'>(69 ⭐️)</span>
+## zeabur/zbpack <span style='color:#F1C40F'>(70 ⭐️)</span>
 
 - [elixir support](https://github.com/zeabur/zbpack/issues/44)
 
@@ -296,13 +296,4 @@
 ## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
