@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 05:42 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 05:52 UTC.</div>
+
+
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
@@ -24,17 +35,6 @@
 ## pactus-project/pactus <span style='color:#F1C40F'>(31 ⭐️)</span>
 
 - [Reset config file to default when user deletes it](https://github.com/pactus-project/pactus/issues/478)
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
@@ -126,8 +126,6 @@
 - [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
 
 - [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [feature: Provide example on Killerkoda (or similar)](https://github.com/k8sgpt-ai/k8sgpt/issues/312)
 
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
