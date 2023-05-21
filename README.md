@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 19:42 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 19:52 UTC.</div>
+
+
+## pouriyajamshidi/tcping <span style='color:#F1C40F'>(136 ⭐️)</span>
+
+- [Move any output-related logic to printers (and vice-versa)](https://github.com/pouriyajamshidi/tcping/issues/84)
+
+- [Starting and exiting immediately prints "NaN% packet loss"](https://github.com/pouriyajamshidi/tcping/issues/81)
+
+- [Automate the release process](https://github.com/pouriyajamshidi/tcping/issues/78)
 
 
 ## staticbackendhq/core <span style='color:#F1C40F'>(568 ⭐️)</span>
