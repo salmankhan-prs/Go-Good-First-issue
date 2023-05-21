@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 11:22 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 11:32 UTC.</div>
+
+
+## staticbackendhq/core <span style='color:#F1C40F'>(568 ⭐️)</span>
+
+- [[cli] Add a tail command to follow server logs](https://github.com/staticbackendhq/core/issues/85)
+
+- [Add email interface to server-side function runtime](https://github.com/staticbackendhq/core/issues/84)
+
+- [[docs] A tutorial for Next.js](https://github.com/staticbackendhq/core/issues/83)
+
+- [[core & cli] Save dev database between CLI restart](https://github.com/staticbackendhq/core/issues/82)
+
+- [[backend-js] Build an additional bundle importable via <script> tag](https://github.com/staticbackendhq/core/issues/81)
+
+- [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
 
 
 ## zeabur/zbpack <span style='color:#F1C40F'>(68 ⭐️)</span>
