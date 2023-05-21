@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 18:02 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 18:12 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## qascade/dcr <span style='color:#F1C40F'>(11 ⭐️)</span>
@@ -58,11 +63,6 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -250,6 +250,11 @@
 ## pactus-project/pactus <span style='color:#F1C40F'>(31 ⭐️)</span>
 
 - [Reset config file to default when user deletes it](https://github.com/pactus-project/pactus/issues/478)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## protoconf/protoconf <span style='color:#F1C40F'>(110 ⭐️)</span>
