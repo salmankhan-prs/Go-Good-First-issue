@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 02:02 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 02:12 UTC.</div>
+
+
+## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(10.9K ⭐️)</span>
+
+- [Feature: Expect a document bot](https://github.com/OpenIMSDK/Open-IM-Server/issues/393)
+
+- [Provides OpenIM document translation](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
+
+- [【RFC】Design of OpenIM Log Package Zap](https://github.com/OpenIMSDK/Open-IM-Server/issues/387)
+
+- [[Feature]: The open im flutter sdk supports the web/pc side](https://github.com/OpenIMSDK/Open-IM-Server/issues/386)
+
+- [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
+
+- [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
@@ -107,6 +122,11 @@
 ## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(268 ⭐️)</span>
 
 - [only perform contract code check if non-hardcoded address is used](https://github.com/AthanorLabs/atomic-swap/issues/416)
+
+
+## tmc/langchaingo <span style='color:#F1C40F'>(216 ⭐️)</span>
+
+- [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
