@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 19:02 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 19:12 UTC.</div>
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -22,6 +22,11 @@
 - [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
@@ -367,11 +372,6 @@
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(177 ⭐️)</span>
