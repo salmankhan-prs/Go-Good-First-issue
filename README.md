@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 11:42 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 11:52 UTC.</div>
 
 
 ## staticbackendhq/core <span style='color:#F1C40F'>(568 ⭐️)</span>
@@ -337,9 +337,4 @@
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(512 ⭐️)</span>
-
-- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
