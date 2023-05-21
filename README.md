@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 21:52 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 22:02 UTC.</div>
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.4K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
@@ -38,17 +49,6 @@
 ## tmc/langchaingo <span style='color:#F1C40F'>(219 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.4K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(136 ⭐️)</span>
@@ -282,7 +282,7 @@
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
-## zeabur/zbpack <span style='color:#F1C40F'>(72 ⭐️)</span>
+## zeabur/zbpack <span style='color:#F1C40F'>(73 ⭐️)</span>
 
 - [elixir support](https://github.com/zeabur/zbpack/issues/44)
 
