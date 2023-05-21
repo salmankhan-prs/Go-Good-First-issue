@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 21, 2023 17:22 UTC.</div>
+<div align='center'>Last updated at May 21, 2023 17:32 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
@@ -15,15 +24,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.4K ⭐️)</span>
@@ -245,8 +245,6 @@
 - [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-- [[exporter/kafkaexporter] Zipkin JSON encoding support](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21102)
 
 
 ## pactus-project/pactus <span style='color:#F1C40F'>(31 ⭐️)</span>
