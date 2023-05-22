@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 06:02 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 06:12 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -110,11 +110,6 @@
 ## tmc/langchaingo <span style='color:#F1C40F'>(222 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
-
-
-## TBD54566975/ssi-service <span style='color:#F1C40F'>(124 ⭐️)</span>
-
-- [Consistency between APIs that return many objects](https://github.com/TBD54566975/ssi-service/issues/449)
 
 
 ## TBD54566975/ssi-service <span style='color:#F1C40F'>(124 ⭐️)</span>
@@ -265,6 +260,15 @@
 - [[backend] email verification security](https://github.com/opencorelabs/fira/issues/46)
 
 - [[backend] min password length validation](https://github.com/opencorelabs/fira/issues/41)
+
+
+## omerxx/fatbot <span style='color:#F1C40F'>(1 ⭐️)</span>
+
+- [Better ban message](https://github.com/omerxx/fatbot/issues/49)
+
+- [Improve workout reply](https://github.com/omerxx/fatbot/issues/36)
+
+- [Add user /stats](https://github.com/omerxx/fatbot/issues/22)
 
 
 ## omerxx/fatbot <span style='color:#F1C40F'>(1 ⭐️)</span>
