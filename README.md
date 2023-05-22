@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 00:12 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 00:22 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
@@ -295,22 +295,4 @@
 - [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
-## zeabur/zbpack <span style='color:#F1C40F'>(74 ⭐️)</span>
-
-- [elixir support](https://github.com/zeabur/zbpack/issues/44)
-
-- [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
-
-- [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
