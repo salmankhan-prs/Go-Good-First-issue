@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 06:12 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 06:22 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -34,11 +39,6 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 - [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
@@ -260,15 +260,6 @@
 - [[backend] email verification security](https://github.com/opencorelabs/fira/issues/46)
 
 - [[backend] min password length validation](https://github.com/opencorelabs/fira/issues/41)
-
-
-## omerxx/fatbot <span style='color:#F1C40F'>(1 ⭐️)</span>
-
-- [Better ban message](https://github.com/omerxx/fatbot/issues/49)
-
-- [Improve workout reply](https://github.com/omerxx/fatbot/issues/36)
-
-- [Add user /stats](https://github.com/omerxx/fatbot/issues/22)
 
 
 ## omerxx/fatbot <span style='color:#F1C40F'>(1 ⭐️)</span>
