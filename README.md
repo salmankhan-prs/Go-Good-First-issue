@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 22:12 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 22:22 UTC.</div>
 
 
 ## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -340,6 +340,8 @@
 
 ## gavv/returnstyles <span style='color:#F1C40F'>(0 ⭐️)</span>
 
+- [Add `-include-cgo` option and tests for cgo](https://github.com/gavv/returnstyles/issues/2)
+
 - [Add Windows to github actions](https://github.com/gavv/returnstyles/issues/6)
 
 - [Implement `-detect-config` option](https://github.com/gavv/returnstyles/issues/5)
@@ -347,8 +349,6 @@
 - [Implement comment directives](https://github.com/gavv/returnstyles/issues/4)
 
 - [Add `-exclude-files` and `-exclude-funcs` options](https://github.com/gavv/returnstyles/issues/3)
-
-- [Add `-include-cgo` option and tests for cgo](https://github.com/gavv/returnstyles/issues/2)
 
 - [Filter out generated code by default](https://github.com/gavv/returnstyles/issues/1)
 
