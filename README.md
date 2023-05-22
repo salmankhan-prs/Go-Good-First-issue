@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 04:12 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 04:22 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -36,11 +48,6 @@
 - [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
 
 - [[golang] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/316)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -204,13 +211,6 @@
 ## tmc/langchaingo <span style='color:#F1C40F'>(222 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(136 ⭐️)</span>
