@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 18:22 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 18:32 UTC.</div>
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+
+
+## nexodus-io/nexodus <span style='color:#F1C40F'>(30 ⭐️)</span>
+
+- [Misleading device registration message](https://github.com/nexodus-io/nexodus/issues/1063)
+
+- [If a node is behind Symmetric NAT, the reflexive address is flapping between the two returns.](https://github.com/nexodus-io/nexodus/issues/1044)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
@@ -122,13 +134,6 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## nexodus-io/nexodus <span style='color:#F1C40F'>(30 ⭐️)</span>
-
-- [Misleading device registration message](https://github.com/nexodus-io/nexodus/issues/1063)
-
-- [If a node is behind Symmetric NAT, the reflexive address is flapping between the two returns.](https://github.com/nexodus-io/nexodus/issues/1044)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
@@ -286,11 +291,6 @@
 ## kubeshop/tracetest <span style='color:#F1C40F'>(549 ⭐️)</span>
 
 - [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
-
-
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
