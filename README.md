@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 10:02 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 10:12 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## pactus-project/pactus <span style='color:#F1C40F'>(31 ⭐️)</span>
@@ -36,15 +45,6 @@
 - [Inconsistency with Zeebe gateway defaults](https://github.com/camunda/camunda-platform-helm/issues/695)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
@@ -72,15 +72,6 @@
 - [Add measurement for running commands within in-cluster pods](https://github.com/kubernetes/perf-tests/issues/2262)
 
 
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
-
-- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
-
-- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
-
-
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
 
 - [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
@@ -94,13 +85,6 @@
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(80 ⭐️)</span>
@@ -136,6 +120,20 @@
 ## pion/ice <span style='color:#F1C40F'>(303 ⭐️)</span>
 
 - [Fix type of CandidatePairState enum](https://github.com/pion/ice/issues/571)
+
+
+## cosmos/interchain-security <span style='color:#F1C40F'>(108 ⭐️)</span>
+
+- [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
+
+- [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
+
+
+## berops/claudie <span style='color:#F1C40F'>(241 ⭐️)</span>
+
+- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
+
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
 
 
 ## cosmos/interchain-security <span style='color:#F1C40F'>(108 ⭐️)</span>
@@ -410,15 +408,4 @@
 ## TBD54566975/ssi-service <span style='color:#F1C40F'>(124 ⭐️)</span>
 
 - [Consistency between APIs that return many objects](https://github.com/TBD54566975/ssi-service/issues/449)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
