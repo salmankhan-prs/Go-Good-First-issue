@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 22:32 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 22:42 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -30,11 +40,6 @@
 - [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
 
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## CycloneDX/sbom-utility <span style='color:#F1C40F'>(30 ⭐️)</span>
@@ -130,6 +135,15 @@
 - [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
 
 
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [[pkg/stanza] Do we need `flushUncombined` in the recombine operator?](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22140)
@@ -161,11 +175,6 @@
 - [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Feature request: Integration with Akka Streams](https://github.com/memphisdev/memphis/issues/936)
@@ -183,6 +192,8 @@
 
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(16 ⭐️)</span>
+
+- [Add command-line flag to enable logs in tests](https://github.com/roc-streaming/roc-go/issues/96)
 
 - [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
 
@@ -208,6 +219,11 @@
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -351,15 +367,4 @@
 - [Add `-exclude-files` and `-exclude-funcs` options](https://github.com/gavv/returnstyles/issues/3)
 
 - [Filter out generated code by default](https://github.com/gavv/returnstyles/issues/1)
-
-
-## fluent/fluent-operator <span style='color:#F1C40F'>(414 ⭐️)</span>
-
-- [bug: Fluentd unimplemented buffer parameters](https://github.com/fluent/fluent-operator/issues/752)
-
-- [Add HPA support to Fluentd](https://github.com/fluent/fluent-operator/issues/739)
-
-- [Support `tenant_id_key` for fluent-bit Loki (Cluster)Output](https://github.com/fluent/fluent-operator/issues/737)
-
-- [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
 
