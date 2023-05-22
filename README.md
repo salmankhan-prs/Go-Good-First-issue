@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 20:32 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 20:42 UTC.</div>
+
+
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -24,6 +34,17 @@
 - [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
@@ -68,17 +89,6 @@
 ## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
 
 - [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
@@ -133,6 +143,11 @@
 ## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
+
+
+## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
 
 
 ## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -213,11 +228,6 @@
 - [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
 
 
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
 
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
@@ -281,11 +291,6 @@
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
 
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
-
-
 ## anchore/syft <span style='color:#F1C40F'>(4.2K ⭐️)</span>
 
 - [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
@@ -321,11 +326,6 @@
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
-
-
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
