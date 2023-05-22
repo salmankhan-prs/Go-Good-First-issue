@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 08:22 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 08:32 UTC.</div>
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -23,6 +28,13 @@
 - [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
+
+- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
@@ -100,18 +112,6 @@
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
 
 - [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
-
-- [[Feature] Add the description document for vela adopt support multi-cluster resources](https://github.com/kubevela/kubevela/issues/5959)
-
-
-## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [Properties of AWS resources should be in `PascalCase` casing instead of `snake_case`](https://github.com/elastic/cloudbeat/issues/914)
 
 
 ## elastic/cloudbeat <span style='color:#F1C40F'>(20 ⭐️)</span>
@@ -332,9 +332,4 @@
 - [Support `tenant_id_key` for fluent-bit Loki (Cluster)Output](https://github.com/fluent/fluent-operator/issues/737)
 
 - [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
-
-
-## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(268 ⭐️)</span>
-
-- [only perform contract code check if non-hardcoded address is used](https://github.com/AthanorLabs/atomic-swap/issues/416)
 
