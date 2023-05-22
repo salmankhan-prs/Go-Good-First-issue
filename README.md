@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 01:22 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 01:32 UTC.</div>
+
+
+## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
 
 
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(321 ⭐️)</span>
@@ -207,11 +212,6 @@
 - [feat(config): enable use of relative addresses in config yaml. ](https://github.com/qascade/dcr/issues/33)
 
 - [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
-
-
-## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
