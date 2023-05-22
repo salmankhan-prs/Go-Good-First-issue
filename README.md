@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 17:12 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 17:22 UTC.</div>
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Retrieving secret version isn't working with AWS Parameter Store](https://github.com/external-secrets/external-secrets/issues/2330)
+
+- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
@@ -126,11 +150,6 @@
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
 
 
-## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
@@ -158,6 +177,11 @@
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -212,11 +236,6 @@
 - [AIP-213: disallow cross-API dependencies](https://github.com/googleapis/api-linter/issues/1153)
 
 
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
 ## go-nostr/nostr <span style='color:#F1C40F'>(3 ⭐️)</span>
 
 - [Add support for a 'Top 8' follower/following](https://github.com/go-nostr/nostr/issues/140)
@@ -243,11 +262,6 @@
 ## guacsec/guac <span style='color:#F1C40F'>(827 ⭐️)</span>
 
 - [[fix] issue with scorecard runner timing out  ](https://github.com/guacsec/guac/issues/868)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
@@ -354,13 +368,4 @@
 ## tmc/langchaingo <span style='color:#F1C40F'>(229 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
-
-
-## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [request new verification token](https://github.com/opencorelabs/fira/issues/53)
-
-- [[backend] email verification security](https://github.com/opencorelabs/fira/issues/46)
-
-- [[backend] min password length validation](https://github.com/opencorelabs/fira/issues/41)
 
