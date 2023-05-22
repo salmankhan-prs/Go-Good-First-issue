@@ -4,7 +4,34 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 13:22 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 13:32 UTC.</div>
+
+
+## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [KafkaSource: Define proper openAPIV3Schema for spec and status ](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3081)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
+
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+
+## armadaproject/armada <span style='color:#F1C40F'>(316 ⭐️)</span>
+
+- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
 
 
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -19,6 +46,23 @@
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
+
+- [Eventing TLS: Test ApiServerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6913)
+
+- [Eventing TLS: Test ContainerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6937)
+
+- [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
+
+- [Eventing TLS: Test PingSource with Broker as sink](https://github.com/knative/eventing/issues/6932)
+
+- [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
+
+- [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
 
 
 ## anchore/grype <span style='color:#F1C40F'>(5.8K ⭐️)</span>
@@ -159,6 +203,11 @@
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
+## fluxcd/flagger <span style='color:#F1C40F'>(4.3K ⭐️)</span>
+
+- [Incomplete error messages obscure HTTP 403 issue when accessing prometheus](https://github.com/fluxcd/flagger/issues/1434)
+
+
 ## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
 
 - [Deduplication of Incidents Per rule](https://github.com/konveyor/analyzer-lsp/issues/144)
@@ -253,23 +302,6 @@
 - [feat(plugin): scaffold github workflow to test plugin](https://github.com/ignite/cli/issues/3495)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
@@ -333,11 +365,6 @@
 - [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
 
 
-## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [KafkaSource: Define proper openAPIV3Schema for spec and status ](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3081)
-
-
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Feature request: Integration with Akka Streams](https://github.com/memphisdev/memphis/issues/936)
@@ -366,9 +393,4 @@
 ## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
-
-
-## camunda/camunda-platform-helm <span style='color:#F1C40F'>(45 ⭐️)</span>
-
-- [Inconsistency with Zeebe gateway defaults](https://github.com/camunda/camunda-platform-helm/issues/695)
 
