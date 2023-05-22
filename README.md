@@ -4,7 +4,29 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 01:52 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 02:02 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## protoconf/protoconf <span style='color:#F1C40F'>(110 ⭐️)</span>
+
+- [[Javascript] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/318)
+
+- [[Java] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/320)
+
+- [[rust] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/319)
+
+- [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
+
+- [[golang] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/316)
 
 
 ## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(268 ⭐️)</span>
@@ -82,6 +104,11 @@
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.4K ⭐️)</span>
@@ -225,15 +252,6 @@
 - [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(14.9K ⭐️)</span>
 
 - [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
@@ -290,62 +308,4 @@
 - [Extract linter step into separate job](https://github.com/roc-streaming/roc-go/issues/92)
 
 - [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
-
-- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
-
-
-## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Feature request: Integration with Akka Streams](https://github.com/memphisdev/memphis/issues/936)
-
-- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
-
-- [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
-## zeabur/zbpack <span style='color:#F1C40F'>(74 ⭐️)</span>
-
-- [elixir support](https://github.com/zeabur/zbpack/issues/44)
-
-- [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
-
-- [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
-## PuremlHQ/PureML <span style='color:#F1C40F'>(173 ⭐️)</span>
-
-- [Adding function documentation for DAOs](https://github.com/PuremlHQ/PureML/issues/227)
-
-- [API Tests: Dataset/Model Review API tests](https://github.com/PuremlHQ/PureML/issues/226)
-
-- [API Tests: Dataset/Model Readme API tests](https://github.com/PuremlHQ/PureML/issues/225)
-
-- [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
 
