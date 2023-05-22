@@ -4,21 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 16:52 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 17:02 UTC.</div>
 
 
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+## cue-lang/cue <span style='color:#F1C40F'>(3.9K ⭐️)</span>
 
-- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
+- [alpha.cuelang.org: upstream internal/parse](https://github.com/cue-lang/cue/issues/2387)
 
-- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
-
-- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+- [cuelang.org: "Create Documentation Issue" link broken](https://github.com/cue-lang/cue/issues/2364)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -40,6 +33,46 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 
+## kubeshop/tracetest <span style='color:#F1C40F'>(549 ⭐️)</span>
+
+- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
+
+
+## nexodus-io/nexodus <span style='color:#F1C40F'>(30 ⭐️)</span>
+
+- [Misleading device registration message](https://github.com/nexodus-io/nexodus/issues/1063)
+
+- [If a node is behind Symmetric NAT, the reflexive address is flapping between the two returns.](https://github.com/nexodus-io/nexodus/issues/1044)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
+
+- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
@@ -59,25 +92,9 @@
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
 ## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## nexodus-io/nexodus <span style='color:#F1C40F'>(30 ⭐️)</span>
-
-- [Misleading device registration message](https://github.com/nexodus-io/nexodus/issues/1063)
-
-- [If a node is behind Symmetric NAT, the reflexive address is flapping between the two returns.](https://github.com/nexodus-io/nexodus/issues/1044)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
@@ -205,13 +222,6 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
-## cue-lang/cue <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [alpha.cuelang.org: upstream internal/parse](https://github.com/cue-lang/cue/issues/2387)
-
-- [cuelang.org: "Create Documentation Issue" link broken](https://github.com/cue-lang/cue/issues/2364)
-
-
 ## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
 
 - [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
@@ -333,11 +343,6 @@
 - [[backend] min password length validation](https://github.com/opencorelabs/fira/issues/41)
 
 
-## kubeshop/tracetest <span style='color:#F1C40F'>(549 ⭐️)</span>
-
-- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
-
-
 ## armadaproject/armada <span style='color:#F1C40F'>(316 ⭐️)</span>
 
 - [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
@@ -370,19 +375,4 @@
 ## anchore/grype <span style='color:#F1C40F'>(5.8K ⭐️)</span>
 
 - [Grype docker image on dockerhub has no shell commands available to be able to keep it alive for Jenkins exec into scan with it - please add busybox at least](https://github.com/anchore/grype/issues/1287)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
-
-- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
-
-- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
-
-- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
-
-- [Allow external resources without endpoints](https://github.com/okteto/okteto/issues/3575)
-
-- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
 
