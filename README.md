@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 22:22 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 22:32 UTC.</div>
 
 
 ## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -12,11 +12,6 @@
 - [Add Table of CLI Flags, Environment Variables, and Descriptions to Getting Started Guide](https://github.com/target/goalert/issues/3023)
 
 - [Add Service "Name" field to user notification webhook data.](https://github.com/target/goalert/issues/3009)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.5K ⭐️)</span>
@@ -28,6 +23,18 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
+
+- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## CycloneDX/sbom-utility <span style='color:#F1C40F'>(30 ⭐️)</span>
@@ -140,13 +147,6 @@
 - [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
-
-- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(752 ⭐️)</span>
@@ -362,11 +362,4 @@
 - [Support `tenant_id_key` for fluent-bit Loki (Cluster)Output](https://github.com/fluent/fluent-operator/issues/737)
 
 - [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
-
-
-## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
-
-- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
