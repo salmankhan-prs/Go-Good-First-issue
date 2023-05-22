@@ -4,12 +4,34 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 20:12 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 20:22 UTC.</div>
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(751 ⭐️)</span>
+
+- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
+
+- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
+## acorn-io/acorn <span style='color:#F1C40F'>(999 ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.5K ⭐️)</span>
@@ -101,11 +123,6 @@
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
 ## TBD54566975/ssi-service <span style='color:#F1C40F'>(124 ⭐️)</span>
 
 - [Consistency between APIs that return many objects](https://github.com/TBD54566975/ssi-service/issues/449)
@@ -114,11 +131,6 @@
 ## CycloneDX/sbom-utility <span style='color:#F1C40F'>(30 ⭐️)</span>
 
 - [Add flag to output JSON errors from the validate command](https://github.com/CycloneDX/sbom-utility/issues/26)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -294,11 +306,6 @@
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
-## acorn-io/acorn <span style='color:#F1C40F'>(999 ⭐️)</span>
-
-- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
-
-
 ## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
 
 - [peer chaincode query cli error message formatting](https://github.com/hyperledger/fabric/issues/4180)
@@ -333,11 +340,4 @@
 ## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## cue-lang/cue <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [alpha.cuelang.org: upstream internal/parse](https://github.com/cue-lang/cue/issues/2387)
-
-- [cuelang.org: "Create Documentation Issue" link broken](https://github.com/cue-lang/cue/issues/2364)
 
