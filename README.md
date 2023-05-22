@@ -4,18 +4,24 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 11:42 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 11:52 UTC.</div>
 
 
-## PuremlHQ/PureML <span style='color:#F1C40F'>(173 ⭐️)</span>
+## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
-- [Adding function documentation for DAOs](https://github.com/PuremlHQ/PureML/issues/227)
+- [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
 
-- [API Tests: Dataset/Model Review API tests](https://github.com/PuremlHQ/PureML/issues/226)
+- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
-- [API Tests: Dataset/Model Readme API tests](https://github.com/PuremlHQ/PureML/issues/225)
 
-- [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
@@ -27,7 +33,7 @@
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(177 ⭐️)</span>
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
 
 - [Visual representation of share for share splitting tests](https://github.com/celestiaorg/celestia-app/issues/1789)
 
@@ -46,11 +52,15 @@
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
 
 
-## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+## PuremlHQ/PureML <span style='color:#F1C40F'>(173 ⭐️)</span>
 
-- [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
+- [Adding function documentation for DAOs](https://github.com/PuremlHQ/PureML/issues/227)
 
-- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
+- [API Tests: Dataset/Model Review API tests](https://github.com/PuremlHQ/PureML/issues/226)
+
+- [API Tests: Dataset/Model Readme API tests](https://github.com/PuremlHQ/PureML/issues/225)
+
+- [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
@@ -101,19 +111,9 @@
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [feat(plugin): scaffold github workflow to test plugin](https://github.com/ignite/cli/issues/3495)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
