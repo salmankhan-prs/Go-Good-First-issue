@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 16:02 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 16:12 UTC.</div>
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
+
+- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
@@ -62,25 +86,11 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## nexodus-io/nexodus <span style='color:#F1C40F'>(30 ⭐️)</span>
 
 - [Misleading device registration message](https://github.com/nexodus-io/nexodus/issues/1063)
 
 - [If a node is behind Symmetric NAT, the reflexive address is flapping between the two returns.](https://github.com/nexodus-io/nexodus/issues/1044)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
-
-- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
-
-- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -226,11 +236,6 @@
 - [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
 
 
-## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
 ## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [Support Tencent Peering Connections](https://github.com/tailwarden/komiser/issues/796)
@@ -289,18 +294,4 @@
 ## nspcc-dev/neofs-node <span style='color:#F1C40F'>(31 ⭐️)</span>
 
 - [Add histograms for request metrics](https://github.com/nspcc-dev/neofs-node/issues/2351)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
-
-- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
-
-
-## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [request new verification token](https://github.com/opencorelabs/fira/issues/53)
-
-- [[backend] email verification security](https://github.com/opencorelabs/fira/issues/46)
-
-- [[backend] min password length validation](https://github.com/opencorelabs/fira/issues/41)
 
