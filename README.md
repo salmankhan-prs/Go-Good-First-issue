@@ -4,12 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 05:12 UTC.</div>
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+<div align='center'>Last updated at May 22, 2023 05:22 UTC.</div>
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(708 ⭐️)</span>
@@ -17,6 +12,11 @@
 - [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
 
 - [(feature) Support multiple-line targeting rule in GOFF editor](https://github.com/thomaspoignant/go-feature-flag/issues/797)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.7K ⭐️)</span>
@@ -296,6 +296,21 @@
 - [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
 
 
+## staticbackendhq/core <span style='color:#F1C40F'>(568 ⭐️)</span>
+
+- [[cli] Add a tail command to follow server logs](https://github.com/staticbackendhq/core/issues/85)
+
+- [Add email interface to server-side function runtime](https://github.com/staticbackendhq/core/issues/84)
+
+- [[docs] A tutorial for Next.js](https://github.com/staticbackendhq/core/issues/83)
+
+- [[core & cli] Save dev database between CLI restart](https://github.com/staticbackendhq/core/issues/82)
+
+- [[backend-js] Build an additional bundle importable via <script> tag](https://github.com/staticbackendhq/core/issues/81)
+
+- [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
+
+
 ## kubernetes-sigs/network-policy-api <span style='color:#F1C40F'>(23 ⭐️)</span>
 
 - [Add a Script linter to our CI workflow](https://github.com/kubernetes-sigs/network-policy-api/issues/94)
@@ -368,13 +383,4 @@
 - [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
 
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-
-## roc-streaming/roc-go <span style='color:#F1C40F'>(16 ⭐️)</span>
-
-- [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
-
-- [Extract linter step into separate job](https://github.com/roc-streaming/roc-go/issues/92)
-
-- [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
 
