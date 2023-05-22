@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 04:42 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 04:52 UTC.</div>
+
+
+## TBD54566975/ssi-service <span style='color:#F1C40F'>(124 ⭐️)</span>
+
+- [Consistency between APIs that return many objects](https://github.com/TBD54566975/ssi-service/issues/449)
 
 
 ## tmc/langchaingo <span style='color:#F1C40F'>(222 ⭐️)</span>
@@ -372,13 +377,4 @@
 - [[Panic] init trace client, the same intstance ](https://github.com/apache/rocketmq-client-go/issues/1062)
 
 - [Can not receive content in body field of response when using rpc request](https://github.com/apache/rocketmq-client-go/issues/1046)
-
-
-## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Feature request: Integration with Akka Streams](https://github.com/memphisdev/memphis/issues/936)
-
-- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
-
-- [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
 
