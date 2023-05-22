@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 03:22 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 03:32 UTC.</div>
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
