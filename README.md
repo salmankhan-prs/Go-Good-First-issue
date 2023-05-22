@@ -4,7 +4,33 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 16:12 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 16:22 UTC.</div>
+
+
+## nexodus-io/nexodus <span style='color:#F1C40F'>(30 ⭐️)</span>
+
+- [Misleading device registration message](https://github.com/nexodus-io/nexodus/issues/1063)
+
+- [If a node is behind Symmetric NAT, the reflexive address is flapping between the two returns.](https://github.com/nexodus-io/nexodus/issues/1044)
+
+
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
+
+- [Visual representation of share for share splitting tests](https://github.com/celestiaorg/celestia-app/issues/1789)
+
+- [[nit] Can we use `2*2` instead of `4` in the `generateShares(4)`, it is more clear how 4 is calculated and why.](https://github.com/celestiaorg/celestia-app/issues/1788)
+
+- [Godoc for TestMinDataAvailabilityHeader](https://github.com/celestiaorg/celestia-app/issues/1787)
+
+- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
+
+- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
+
+- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
+
+- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
+
+- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -71,6 +97,8 @@
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
+- [[pkg/stanza] Do we need `flushUncombined` in the recombine operator?](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22140)
+
 - [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
 
 - [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
@@ -84,13 +112,6 @@
 - [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-
-## nexodus-io/nexodus <span style='color:#F1C40F'>(30 ⭐️)</span>
-
-- [Misleading device registration message](https://github.com/nexodus-io/nexodus/issues/1063)
-
-- [If a node is behind Symmetric NAT, the reflexive address is flapping between the two returns.](https://github.com/nexodus-io/nexodus/issues/1044)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -128,23 +149,11 @@
 - [getZiti should not re-download the binary](https://github.com/openziti/ziti/issues/1116)
 
 
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(519 ⭐️)</span>
 
-- [Visual representation of share for share splitting tests](https://github.com/celestiaorg/celestia-app/issues/1789)
+- [share/discovery: move the package closer to shrex](https://github.com/celestiaorg/celestia-node/issues/2206)
 
-- [[nit] Can we use `2*2` instead of `4` in the `generateShares(4)`, it is more clear how 4 is calculated and why.](https://github.com/celestiaorg/celestia-app/issues/1788)
-
-- [Godoc for TestMinDataAvailabilityHeader](https://github.com/celestiaorg/celestia-app/issues/1787)
-
-- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
-
-- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
-
-- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
-
-- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
-
-- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
+- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(827 ⭐️)</span>
@@ -289,9 +298,4 @@
 - [Support Tencent Elastic Kubernetes Service](https://github.com/tailwarden/komiser/issues/756)
 
 - [Support Tencent Batch compute](https://github.com/tailwarden/komiser/issues/755)
-
-
-## nspcc-dev/neofs-node <span style='color:#F1C40F'>(31 ⭐️)</span>
-
-- [Add histograms for request metrics](https://github.com/nspcc-dev/neofs-node/issues/2351)
 
