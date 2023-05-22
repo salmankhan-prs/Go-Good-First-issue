@@ -4,7 +4,65 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 17:02 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 17:12 UTC.</div>
+
+
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
+
+- [Un-export namespace slices and export getters](https://github.com/celestiaorg/celestia-app/issues/1809)
+
+- [Visual representation of share for share splitting tests](https://github.com/celestiaorg/celestia-app/issues/1789)
+
+- [[nit] Can we use `2*2` instead of `4` in the `generateShares(4)`, it is more clear how 4 is calculated and why.](https://github.com/celestiaorg/celestia-app/issues/1788)
+
+- [Godoc for TestMinDataAvailabilityHeader](https://github.com/celestiaorg/celestia-app/issues/1787)
+
+- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
+
+- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
+
+- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
+
+- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
+
+- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
+
+
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
+
+
+## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
+
+- [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
+
+- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
+
+- [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.2K ⭐️)</span>
+
+- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(348 ⭐️)</span>
+
+- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## cue-lang/cue <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -85,9 +143,9 @@
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
 
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
 - [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
@@ -97,39 +155,9 @@
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
-
-- [Visual representation of share for share splitting tests](https://github.com/celestiaorg/celestia-app/issues/1789)
-
-- [[nit] Can we use `2*2` instead of `4` in the `generateShares(4)`, it is more clear how 4 is calculated and why.](https://github.com/celestiaorg/celestia-app/issues/1788)
-
-- [Godoc for TestMinDataAvailabilityHeader](https://github.com/celestiaorg/celestia-app/issues/1787)
-
-- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
-
-- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
-
-- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
-
-- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
-
-- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -248,17 +276,6 @@
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
-
-- [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
-
-- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
-
-
 ## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
@@ -334,6 +351,11 @@
 - [Update install.md to fully cover creating the necessary IAM role and service account](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/issues/1607)
 
 
+## tmc/langchaingo <span style='color:#F1C40F'>(229 ⭐️)</span>
+
+- [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
+
+
 ## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
 
 - [request new verification token](https://github.com/opencorelabs/fira/issues/53)
@@ -341,38 +363,4 @@
 - [[backend] email verification security](https://github.com/opencorelabs/fira/issues/46)
 
 - [[backend] min password length validation](https://github.com/opencorelabs/fira/issues/41)
-
-
-## armadaproject/armada <span style='color:#F1C40F'>(316 ⭐️)</span>
-
-- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
-
-
-## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
-
-- [Eventing TLS: Test ApiServerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6913)
-
-- [Eventing TLS: Test ContainerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6937)
-
-- [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
-
-- [Eventing TLS: Test PingSource with Broker as sink](https://github.com/knative/eventing/issues/6932)
-
-- [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
-
-- [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## anchore/grype <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [Grype docker image on dockerhub has no shell commands available to be able to keep it alive for Jenkins exec into scan with it - please add busybox at least](https://github.com/anchore/grype/issues/1287)
 
