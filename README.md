@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 19:02 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 19:12 UTC.</div>
+
+
+## TBD54566975/ssi-service <span style='color:#F1C40F'>(124 ⭐️)</span>
+
+- [Consistency between APIs that return many objects](https://github.com/TBD54566975/ssi-service/issues/449)
+
+
+## CycloneDX/sbom-utility <span style='color:#F1C40F'>(30 ⭐️)</span>
+
+- [Add flag to output JSON errors from the validate command](https://github.com/CycloneDX/sbom-utility/issues/26)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -29,6 +53,13 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## nexodus-io/nexodus <span style='color:#F1C40F'>(30 ⭐️)</span>
@@ -100,11 +131,6 @@
 - [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## rancher/opni <span style='color:#F1C40F'>(255 ⭐️)</span>
 
 - [Data import Sending too large packets](https://github.com/rancher/opni/issues/1415)
@@ -140,11 +166,6 @@
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
 
-## TBD54566975/ssi-service <span style='color:#F1C40F'>(124 ⭐️)</span>
-
-- [Consistency between APIs that return many objects](https://github.com/TBD54566975/ssi-service/issues/449)
-
-
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
@@ -153,13 +174,6 @@
 ## anchore/syft <span style='color:#F1C40F'>(4.2K ⭐️)</span>
 
 - [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
-
-- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -223,15 +237,6 @@
 ## acorn-io/acorn <span style='color:#F1C40F'>(999 ⭐️)</span>
 
 - [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Nomad config validate does not check for missing host_volume directories and daemon fails to start](https://github.com/hashicorp/nomad/issues/16968)
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
 ## hyperledger/fabric <span style='color:#F1C40F'>(14.6K ⭐️)</span>
@@ -321,13 +326,4 @@
 - [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
 
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
