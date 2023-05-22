@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 20:02 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 20:12 UTC.</div>
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
@@ -297,11 +313,6 @@
 - [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
 
 
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
 ## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
 
 - [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
@@ -322,17 +333,6 @@
 ## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## cue-lang/cue <span style='color:#F1C40F'>(3.9K ⭐️)</span>
