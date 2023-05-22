@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at May 22, 2023 01:32 UTC.</div>
+<div align='center'>Last updated at May 22, 2023 01:42 UTC.</div>
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(414 ⭐️)</span>
+
+- [bug: [Fluentd] ClusterFilter - 'reserve_data' parameter is required but nil is specified](https://github.com/fluent/fluent-operator/issues/741)
+
+- [Add HPA support to Fluentd](https://github.com/fluent/fluent-operator/issues/739)
+
+- [Support `tenant_id_key` for fluent-bit Loki (Cluster)Output](https://github.com/fluent/fluent-operator/issues/737)
+
+- [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -21,19 +37,14 @@
 - [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
 
 
-## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -233,17 +244,6 @@
 - [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
 
 - [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
-
-
-## fluent/fluent-operator <span style='color:#F1C40F'>(414 ⭐️)</span>
-
-- [bug: [Fluentd] ClusterFilter - 'reserve_data' parameter is required but nil is specified](https://github.com/fluent/fluent-operator/issues/741)
-
-- [Add HPA support to Fluentd](https://github.com/fluent/fluent-operator/issues/739)
-
-- [Support `tenant_id_key` for fluent-bit Loki (Cluster)Output](https://github.com/fluent/fluent-operator/issues/737)
-
-- [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
