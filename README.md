@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 21:52 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 22:02 UTC.</div>
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -104,6 +104,11 @@
 - [Inconsistency with Zeebe gateway defaults](https://github.com/camunda/camunda-platform-helm/issues/695)
 
 
+## camunda/camunda-platform-helm <span style='color:#F1C40F'>(45 ⭐️)</span>
+
+- [Inconsistency with Zeebe gateway defaults](https://github.com/camunda/camunda-platform-helm/issues/695)
+
+
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.7K ⭐️)</span>
 
 - [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
@@ -113,6 +118,11 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(513 ⭐️)</span>
+
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
@@ -244,7 +254,7 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
 
 
-## shieldworks/aegis <span style='color:#F1C40F'>(25 ⭐️)</span>
+## shieldworks/aegis <span style='color:#F1C40F'>(26 ⭐️)</span>
 
 - [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
 
@@ -325,9 +335,4 @@
 ## anchore/grype <span style='color:#F1C40F'>(5.8K ⭐️)</span>
 
 - [Grype docker image on dockerhub has no shell commands available to be able to keep it alive for Jenkins exec into scan with it - please add busybox at least](https://github.com/anchore/grype/issues/1287)
-
-
-## moov-io/achgateway <span style='color:#F1C40F'>(34 ⭐️)</span>
-
-- [proposal: remove consul support / leadership elections](https://github.com/moov-io/achgateway/issues/174)
 
