@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 01:52 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 02:02 UTC.</div>
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(43 ⭐️)</span>
+
+- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
+
+- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -95,11 +107,6 @@
 - [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
 
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
