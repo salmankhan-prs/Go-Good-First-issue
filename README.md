@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 06:22 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 06:32 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
@@ -14,6 +14,27 @@
 - [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## KindlingProject/kindling <span style='color:#F1C40F'>(394 ⭐️)</span>
+
+- [Grafana Kindling WorkLoad Detail  无法查看只有出流量的pod](https://github.com/KindlingProject/kindling/issues/517)
+
+
+## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [min password length validation](https://github.com/opencorelabs/fira/issues/41)
+
+- [email verification security](https://github.com/opencorelabs/fira/issues/46)
+
+- [register with duplicate (correct) credentials should be a no-op](https://github.com/opencorelabs/fira/issues/60)
+
+- [request new verification token](https://github.com/opencorelabs/fira/issues/53)
+
+
+## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
@@ -41,11 +62,6 @@
 - [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
 
 - [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
-
-
-## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -172,11 +188,6 @@
 - [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## KindlingProject/kindling <span style='color:#F1C40F'>(394 ⭐️)</span>
-
-- [Grafana Kindling WorkLoad Detail  无法查看只有出流量的pod](https://github.com/KindlingProject/kindling/issues/517)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
