@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 09:22 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 09:32 UTC.</div>
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
+
+- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 
 ## Kuadrant/multicluster-gateway-controller <span style='color:#F1C40F'>(2 ⭐️)</span>
@@ -106,6 +120,11 @@
 - [Properties of AWS resources should be in `PascalCase` casing instead of `snake_case`](https://github.com/elastic/cloudbeat/issues/914)
 
 
+## cert-manager/cert-manager <span style='color:#F1C40F'>(10.3K ⭐️)</span>
+
+- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
+
+
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [`Microsoft.App/environments` invalid delegation for a subnet](https://github.com/hashicorp/terraform-provider-azurerm/issues/21604)
@@ -151,15 +170,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
-
-- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(43 ⭐️)</span>
