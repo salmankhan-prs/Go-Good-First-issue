@@ -4,12 +4,34 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 20:22 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 20:32 UTC.</div>
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## openziti/ziti <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [getZiti should not re-download the binary](https://github.com/openziti/ziti/issues/1116)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
 
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## TBD54566975/ssi-service <span style='color:#F1C40F'>(124 ⭐️)</span>
@@ -198,11 +220,6 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
 ## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
@@ -253,11 +270,6 @@
 ## anchore/grype <span style='color:#F1C40F'>(5.8K ⭐️)</span>
 
 - [Grype docker image on dockerhub has no shell commands available to be able to keep it alive for Jenkins exec into scan with it - please add busybox at least](https://github.com/anchore/grype/issues/1287)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## moov-io/achgateway <span style='color:#F1C40F'>(34 ⭐️)</span>
@@ -320,22 +332,4 @@
 ## grafana/xk6-disruptor <span style='color:#F1C40F'>(38 ⭐️)</span>
 
 - [Make agent "port" argument required and remove default value](https://github.com/grafana/xk6-disruptor/issues/161)
-
-
-## roc-streaming/roc-go <span style='color:#F1C40F'>(17 ⭐️)</span>
-
-- [Add command-line flag to enable logs in tests](https://github.com/roc-streaming/roc-go/issues/96)
-
-- [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
-
-- [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
-
-- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
-
-- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
 
