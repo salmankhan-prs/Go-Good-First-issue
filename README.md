@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 20:12 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 20:22 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 
 ## TBD54566975/ssi-service <span style='color:#F1C40F'>(124 ⭐️)</span>
@@ -81,11 +86,6 @@
 ## shieldworks/aegis <span style='color:#F1C40F'>(25 ⭐️)</span>
 
 - [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 
 ## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
