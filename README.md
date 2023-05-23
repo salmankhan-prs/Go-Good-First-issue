@@ -4,7 +4,32 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 22:02 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 22:12 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
+
+
+## camunda/camunda-platform-helm <span style='color:#F1C40F'>(45 ⭐️)</span>
+
+- [Inconsistency with Zeebe gateway defaults](https://github.com/camunda/camunda-platform-helm/issues/695)
+
+
+## armadaproject/armada <span style='color:#F1C40F'>(316 ⭐️)</span>
+
+- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -84,11 +109,6 @@
 - [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(733 ⭐️)</span>
 
 - [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
@@ -97,16 +117,6 @@
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(349 ⭐️)</span>
 
 - [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
-
-
-## camunda/camunda-platform-helm <span style='color:#F1C40F'>(45 ⭐️)</span>
-
-- [Inconsistency with Zeebe gateway defaults](https://github.com/camunda/camunda-platform-helm/issues/695)
-
-
-## camunda/camunda-platform-helm <span style='color:#F1C40F'>(45 ⭐️)</span>
-
-- [Inconsistency with Zeebe gateway defaults](https://github.com/camunda/camunda-platform-helm/issues/695)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.7K ⭐️)</span>
@@ -199,11 +209,6 @@
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -330,9 +335,4 @@
 - [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
 
 - [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
-
-
-## anchore/grype <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [Grype docker image on dockerhub has no shell commands available to be able to keep it alive for Jenkins exec into scan with it - please add busybox at least](https://github.com/anchore/grype/issues/1287)
 
