@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 03:52 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 04:02 UTC.</div>
+
+
+## AthanorLabs/atomic-swap <span style='color:#F1C40F'>(269 ⭐️)</span>
+
+- [only perform contract code check if non-hardcoded address is used](https://github.com/AthanorLabs/atomic-swap/issues/416)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
@@ -322,9 +332,4 @@
 - [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
 
 - [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
-
-
-## labdao/plex <span style='color:#F1C40F'>(18 ⭐️)</span>
-
-- [add vina to PLEX](https://github.com/labdao/plex/issues/294)
 
