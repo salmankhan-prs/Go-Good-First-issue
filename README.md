@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 14:12 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 14:22 UTC.</div>
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.2K ⭐️)</span>
+
+- [PNPM improvements: scanning does not support v6 and can result in duplicate packages](https://github.com/anchore/syft/issues/1762)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Implement `envtool version` command](https://github.com/FerretDB/FerretDB/issues/2684)
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -252,10 +273,6 @@
 
 ## keploy/keploy <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
-- [[docs]: Issue Tracker Broken Link](https://github.com/keploy/keploy/issues/563)
-
-- [[bug]: Untidy Footer](https://github.com/keploy/keploy/issues/562)
-
 - [[feature]: There is lot of empty space is left at  the footer in the doc page ](https://github.com/keploy/keploy/issues/552)
 
 - [[bug]: Website Documentation Error](https://github.com/keploy/keploy/issues/551)
@@ -296,9 +313,4 @@
 ## traPtitech/traPortfolio <span style='color:#F1C40F'>(3 ⭐️)</span>
 
 - [dbコンテナのhealthcheckのタイミングがずれてる](https://github.com/traPtitech/traPortfolio/issues/514)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
