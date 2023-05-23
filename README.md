@@ -4,12 +4,48 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 15:12 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 15:22 UTC.</div>
+
+
+## kubernetes-sigs/network-policy-api <span style='color:#F1C40F'>(23 ⭐️)</span>
+
+- [Add a Script linter to our CI workflow](https://github.com/kubernetes-sigs/network-policy-api/issues/94)
+
+
+## armadaproject/armada <span style='color:#F1C40F'>(316 ⭐️)</span>
+
+- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
+
+
+## project-zot/zot <span style='color:#F1C40F'>(374 ⭐️)</span>
+
+- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -103,11 +139,6 @@
 - [Switch to viper for configuration](https://github.com/underdog-tech/vulnbot/issues/32)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
 
 - [Un-export namespace slices and export getters](https://github.com/celestiaorg/celestia-app/issues/1809)
@@ -134,17 +165,6 @@
 - [the "IBM Cloud" is almost invisible](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud/issues/1215)
 
 - [add unit tests for record.go](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud/issues/1198)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
@@ -191,11 +211,6 @@
 - [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
 
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(374 ⭐️)</span>
-
-- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(79 ⭐️)</span>
@@ -265,6 +280,19 @@
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
+## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
+
+- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
+
+- [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
+
+- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
+
+- [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
 ## l7mp/stunner <span style='color:#F1C40F'>(504 ⭐️)</span>
 
 - [Make a better job at documenting that STUNner ignores the port in backend Services](https://github.com/l7mp/stunner/issues/87)
@@ -319,39 +347,4 @@
 - [[bug]: Website Documentation Error](https://github.com/keploy/keploy/issues/551)
 
 - [[bug]: Wide Footer Padding on main page and Multiple Footer on GSoC Page ](https://github.com/keploy/keploy/issues/549)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
-
-- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
-
-- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
-
-- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
-## traPtitech/traPortfolio <span style='color:#F1C40F'>(3 ⭐️)</span>
-
-- [dbコンテナのhealthcheckのタイミングがずれてる](https://github.com/traPtitech/traPortfolio/issues/514)
 
