@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 07:42 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 07:52 UTC.</div>
+
+
+## camunda/camunda-platform-helm <span style='color:#F1C40F'>(45 ⭐️)</span>
+
+- [Inconsistency with Zeebe gateway defaults](https://github.com/camunda/camunda-platform-helm/issues/695)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
+
+- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
@@ -14,6 +28,11 @@
 - [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
+
+- [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
@@ -248,15 +267,6 @@
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
-
-- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
@@ -303,24 +313,4 @@
 - [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
 
 - [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
-
-
-## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
-## gavv/returnstyles <span style='color:#F1C40F'>(1 ⭐️)</span>
-
-- [Add `-include-cgo` option and tests for cgo](https://github.com/gavv/returnstyles/issues/2)
-
-- [Add Windows to github actions](https://github.com/gavv/returnstyles/issues/6)
-
-- [Implement `-detect-config` option](https://github.com/gavv/returnstyles/issues/5)
-
-- [Implement comment directives](https://github.com/gavv/returnstyles/issues/4)
-
-- [Add `-exclude-files` and `-exclude-funcs` options](https://github.com/gavv/returnstyles/issues/3)
-
-- [Filter out generated code by default](https://github.com/gavv/returnstyles/issues/1)
 
