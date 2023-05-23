@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 00:42 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 00:52 UTC.</div>
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
@@ -34,6 +34,11 @@
 - [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
 
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
+
+- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
@@ -99,11 +104,6 @@
 - [Add a `-q`/`--quiet` config option](https://github.com/underdog-tech/vulnbot/issues/48)
 
 - [Switch to viper for configuration](https://github.com/underdog-tech/vulnbot/issues/32)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
 ## openziti/ziti <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -326,9 +326,4 @@
 - [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## kubernetes-sigs/network-policy-api <span style='color:#F1C40F'>(23 ⭐️)</span>
-
-- [Add a Script linter to our CI workflow](https://github.com/kubernetes-sigs/network-policy-api/issues/94)
 
