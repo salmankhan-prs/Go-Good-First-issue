@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 23:32 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 23:42 UTC.</div>
+
+
+## ray-project/kuberay <span style='color:#F1C40F'>(352 ⭐️)</span>
+
+- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
+
+- [Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
+
+
+## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(6.5K ⭐️)</span>
+
+- [Kubernetes and Kubebuilder use different mechanisms to generate plurals](https://github.com/kubernetes-sigs/kubebuilder/issues/3402)
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(43 ⭐️)</span>
+
+- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
+
+- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
@@ -303,29 +322,12 @@
 - [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
 
 
+## labdao/plex <span style='color:#F1C40F'>(19 ⭐️)</span>
+
+- [add vina to PLEX](https://github.com/labdao/plex/issues/294)
+
+
 ## shieldworks/aegis <span style='color:#F1C40F'>(26 ⭐️)</span>
 
 - [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
-
-
-## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [Add clock skew metrics](https://github.com/ava-labs/avalanchego/issues/1542)
-
-- [TestSystemThrottler test flake](https://github.com/ava-labs/avalanchego/issues/1414)
-
-- [Add P-chain config for cache sizes](https://github.com/ava-labs/avalanchego/issues/1522)
-
-
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
-
-- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
-
-- [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
-
-- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
