@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 19:02 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 19:12 UTC.</div>
+
+
+## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
+
+- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
+
+- [Flow: support configurable backoff for file polling](https://github.com/grafana/agent/issues/3606)
+
+- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
+
+- [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(733 ⭐️)</span>
+
+- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
@@ -110,11 +128,6 @@
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(733 ⭐️)</span>
-
-- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
-
-
 ## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
@@ -130,6 +143,17 @@
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
 
 - [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
+
+
+## memphisdev/memphis <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Garbage collector for disconnected clients](https://github.com/memphisdev/memphis/issues/942)
+
+- [Feature request: Integration with Akka Streams](https://github.com/memphisdev/memphis/issues/936)
+
+- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
+
+- [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
@@ -323,18 +347,4 @@
 - [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## kubernetes-sigs/aws-ebs-csi-driver <span style='color:#F1C40F'>(768 ⭐️)</span>
-
-- [Update install.md to fully cover creating the necessary IAM role and service account](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/issues/1607)
-
-
-## roc-streaming/roc-go <span style='color:#F1C40F'>(16 ⭐️)</span>
-
-- [Add command-line flag to enable logs in tests](https://github.com/roc-streaming/roc-go/issues/96)
-
-- [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
-
-- [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
 
