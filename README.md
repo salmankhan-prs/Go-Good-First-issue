@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 14:32 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 14:42 UTC.</div>
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(734 ⭐️)</span>
+
+- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
 
 
 ## kubernetes-sigs/cluster-api-provider-ibmcloud <span style='color:#F1C40F'>(55 ⭐️)</span>
@@ -12,6 +24,13 @@
 - [the "IBM Cloud" is almost invisible](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud/issues/1215)
 
 - [add unit tests for record.go](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud/issues/1198)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
+
+- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -183,13 +202,6 @@
 - [[Epic] Refactor ginkgo unit tests to go test](https://github.com/operator-framework/operator-controller/issues/189)
 
 
-## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
-
-- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
 ## grafana/k6-operator <span style='color:#F1C40F'>(368 ⭐️)</span>
 
 - [Image names should be more specific](https://github.com/grafana/k6-operator/issues/221)
@@ -210,13 +222,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -280,4 +285,49 @@
 - [[bug]: Website Documentation Error](https://github.com/keploy/keploy/issues/551)
 
 - [[bug]: Wide Footer Padding on main page and Multiple Footer on GSoC Page ](https://github.com/keploy/keploy/issues/549)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
+
+- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
+
+- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
+## traPtitech/traPortfolio <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [dbコンテナのhealthcheckのタイミングがずれてる](https://github.com/traPtitech/traPortfolio/issues/514)
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## camunda/camunda-platform-helm <span style='color:#F1C40F'>(45 ⭐️)</span>
+
+- [Inconsistency with Zeebe gateway defaults](https://github.com/camunda/camunda-platform-helm/issues/695)
 
