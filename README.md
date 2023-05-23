@@ -4,7 +4,37 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 07:22 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 07:32 UTC.</div>
+
+
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
+
+- [Un-export namespace slices and export getters](https://github.com/celestiaorg/celestia-app/issues/1809)
+
+- [Visual representation of share for share splitting tests](https://github.com/celestiaorg/celestia-app/issues/1789)
+
+- [[nit] Can we use `2*2` instead of `4` in the `generateShares(4)`, it is more clear how 4 is calculated and why.](https://github.com/celestiaorg/celestia-app/issues/1788)
+
+- [Godoc for TestMinDataAvailabilityHeader](https://github.com/celestiaorg/celestia-app/issues/1787)
+
+- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
+
+- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
+
+- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
+
+- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
+
+- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.6K ⭐️)</span>
@@ -16,6 +46,11 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## project-zot/zot <span style='color:#F1C40F'>(374 ⭐️)</span>
+
+- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
 
 ## TBD54566975/ssi-service <span style='color:#F1C40F'>(124 ⭐️)</span>
@@ -36,18 +71,19 @@
 - [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
 
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
@@ -60,16 +96,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
-## KindlingProject/kindling <span style='color:#F1C40F'>(394 ⭐️)</span>
-
-- [Grafana Kindling WorkLoad Detail  无法查看只有出流量的pod](https://github.com/KindlingProject/kindling/issues/517)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -149,11 +175,6 @@
 - [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.6K ⭐️)</span>
@@ -308,13 +329,4 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## zeabur/zbpack <span style='color:#F1C40F'>(78 ⭐️)</span>
-
-- [elixir support](https://github.com/zeabur/zbpack/issues/44)
-
-- [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
-
-- [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
 
