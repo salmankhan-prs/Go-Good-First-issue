@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 00:02 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 00:12 UTC.</div>
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(39 ⭐️)</span>
@@ -55,13 +62,6 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
-
-- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## underdog-tech/vulnbot <span style='color:#F1C40F'>(20 ⭐️)</span>
@@ -204,7 +204,7 @@
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
 
 
-## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(752 ⭐️)</span>
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(753 ⭐️)</span>
 
 - [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
 
