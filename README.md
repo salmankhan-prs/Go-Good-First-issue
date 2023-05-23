@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 07:52 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 08:02 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## camunda/camunda-platform-helm <span style='color:#F1C40F'>(45 ⭐️)</span>
@@ -21,18 +35,14 @@
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
 
 - [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
@@ -90,19 +100,14 @@
 - [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
 
 
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
@@ -163,11 +168,6 @@
 - [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
 
 - [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(708 ⭐️)</span>
