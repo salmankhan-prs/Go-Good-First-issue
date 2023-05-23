@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 04:12 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 04:22 UTC.</div>
+
+
+## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
+
+- [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -24,6 +38,11 @@
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.6K ⭐️)</span>
+
+- [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
+
+
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
@@ -32,15 +51,6 @@
 ## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -303,24 +313,4 @@
 ## armadaproject/armada <span style='color:#F1C40F'>(316 ⭐️)</span>
 
 - [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
-
-
-## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
-
-- [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
-
-
-## fluent/fluent-operator <span style='color:#F1C40F'>(414 ⭐️)</span>
-
-- [Enable Fluentd Prometheus plugin](https://github.com/fluent/fluent-operator/issues/725)
-
-- [bug: Fluentd unimplemented buffer parameters](https://github.com/fluent/fluent-operator/issues/752)
-
-- [Add HPA support to Fluentd](https://github.com/fluent/fluent-operator/issues/739)
-
-- [Support `tenant_id_key` for fluent-bit Loki (Cluster)Output](https://github.com/fluent/fluent-operator/issues/737)
-
-- [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
 
