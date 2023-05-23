@@ -4,7 +4,38 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 09:52 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 10:02 UTC.</div>
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
+
+- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
+
+- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
+
+
+## chainloop-dev/chainloop <span style='color:#F1C40F'>(182 ⭐️)</span>
+
+- [deployment: split sentry configuration](https://github.com/chainloop-dev/chainloop/issues/104)
+
+- [chart: improve installation output (notes.md) ](https://github.com/chainloop-dev/chainloop/issues/97)
+
+- [Create first robot-account during workflow creation](https://github.com/chainloop-dev/chainloop/issues/90)
+
+- [Jenkins runner support](https://github.com/chainloop-dev/chainloop/issues/88)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
@@ -72,18 +103,14 @@
 - [Feature: Ask the user to attach a schema right after its creation](https://github.com/memphisdev/memphis/issues/908)
 
 
+## thanos-io/thanos <span style='color:#F1C40F'>(11.7K ⭐️)</span>
+
+- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
+
+
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
-
-- [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
@@ -96,17 +123,6 @@
 - [bug sometimes a zone will get created multiple times](https://github.com/Kuadrant/multicluster-gateway-controller/issues/180)
 
 - [bug: A record weighting is incorrect](https://github.com/Kuadrant/multicluster-gateway-controller/issues/192)
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.1K ⭐️)</span>
-
-- [Create a Gitlab MR seems to be broken](https://github.com/jesseduffield/lazygit/issues/2637)
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
@@ -279,6 +295,13 @@
 - [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
 
 
+## kubernetes-sigs/cluster-api-provider-ibmcloud <span style='color:#F1C40F'>(55 ⭐️)</span>
+
+- [the "IBM Cloud" is almost invisible](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud/issues/1215)
+
+- [add unit tests for record.go](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud/issues/1198)
+
+
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(176 ⭐️)</span>
 
 - [Un-export namespace slices and export getters](https://github.com/celestiaorg/celestia-app/issues/1809)
@@ -338,9 +361,4 @@
 - [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
 
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
-
-- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
 
