@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 17:32 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 17:42 UTC.</div>
+
+
+## grafana/k6-operator <span style='color:#F1C40F'>(368 ⭐️)</span>
+
+- [Image names should be more specific](https://github.com/grafana/k6-operator/issues/221)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [[pkg/stanza] Do we need `flushUncombined` in the recombine operator?](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22140)
+
+- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
+
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 
 ## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -12,6 +36,11 @@
 - [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
 
 - [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -38,11 +67,6 @@
 - [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
 - [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -125,6 +149,11 @@
 - [arm64 support for secretgen-controller](https://github.com/carvel-dev/secretgen-controller/issues/359)
 
 
+## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
+
+
 ## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
@@ -137,30 +166,6 @@
 - [Cleanup 1.0 code](https://github.com/openfga/openfga/issues/771)
 
 - [Remove `tests/listobjects_1_1_tests.yaml`](https://github.com/openfga/openfga/issues/768)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [[pkg/stanza] Do we need `flushUncombined` in the recombine operator?](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22140)
-
-- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
@@ -197,6 +202,11 @@
 - [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
 
 
+## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
+
+
 ## cosmos/interchain-security <span style='color:#F1C40F'>(107 ⭐️)</span>
 
 - [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
@@ -209,6 +219,11 @@
 - [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
 
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
+## cert-manager/cert-manager <span style='color:#F1C40F'>(10.4K ⭐️)</span>
+
+- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
 
 
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(321 ⭐️)</span>
@@ -318,21 +333,4 @@
 ## armadaproject/armada <span style='color:#F1C40F'>(316 ⭐️)</span>
 
 - [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(374 ⭐️)</span>
-
-- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
-
-
-## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(754 ⭐️)</span>
-
-- [Detect and inject the service.version resource attribute](https://github.com/open-telemetry/opentelemetry-operator/issues/1670)
-
-- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
