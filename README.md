@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 06:32 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 06:42 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
@@ -32,6 +32,11 @@
 - [request new verification token](https://github.com/opencorelabs/fira/issues/53)
 
 
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
@@ -40,11 +45,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.5K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -318,9 +318,4 @@
 - [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
 
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
