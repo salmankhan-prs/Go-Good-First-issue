@@ -4,7 +4,47 @@
 
 
 
-<div align='center'>Last updated at May 23, 2023 17:02 UTC.</div>
+<div align='center'>Last updated at May 23, 2023 17:12 UTC.</div>
+
+
+## operator-framework/operator-controller <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Update util tests](https://github.com/operator-framework/operator-controller/issues/197)
+
+- [Document testing conventions](https://github.com/operator-framework/operator-controller/issues/188)
+
+- [Update resolution package tests](https://github.com/operator-framework/operator-controller/issues/191)
+
+- [Update required package variable source tests](https://github.com/operator-framework/operator-controller/issues/196)
+
+- [Update olm variable source tests](https://github.com/operator-framework/operator-controller/issues/195)
+
+- [Update entity tests](https://github.com/operator-framework/operator-controller/issues/194)
+
+- [Update crd constraints variable source tests](https://github.com/operator-framework/operator-controller/issues/193)
+
+- [Update bundles and dependencies variable source tests](https://github.com/operator-framework/operator-controller/issues/192)
+
+- [Update controller package tests](https://github.com/operator-framework/operator-controller/issues/190)
+
+- [[Epic] Refactor ginkgo unit tests to go test](https://github.com/operator-framework/operator-controller/issues/189)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## grafana/xk6-disruptor <span style='color:#F1C40F'>(38 ⭐️)</span>
+
+- [Make agent "port" argument required and remove default value](https://github.com/grafana/xk6-disruptor/issues/161)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
@@ -26,6 +66,17 @@
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
 ## carvel-dev/secretgen-controller <span style='color:#F1C40F'>(75 ⭐️)</span>
 
 - [arm64 support for secretgen-controller](https://github.com/carvel-dev/secretgen-controller/issues/359)
@@ -43,13 +94,6 @@
 - [Cleanup 1.0 code](https://github.com/openfga/openfga/issues/771)
 
 - [Remove `tests/listobjects_1_1_tests.yaml`](https://github.com/openfga/openfga/issues/768)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
-
-- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
@@ -99,11 +143,6 @@
 ## openziti/ziti <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [getZiti should not re-download the binary](https://github.com/openziti/ziti/issues/1116)
-
-
-## grafana/xk6-disruptor <span style='color:#F1C40F'>(38 ⭐️)</span>
-
-- [Make agent "port" argument required and remove default value](https://github.com/grafana/xk6-disruptor/issues/161)
 
 
 ## kubernetes-sigs/aws-ebs-csi-driver <span style='color:#F1C40F'>(768 ⭐️)</span>
@@ -159,11 +198,6 @@
 ## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
 
 - [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -234,17 +268,6 @@
 - [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-
 ## aws/amazon-vpc-cni-k8s <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
 - [Configurability for IP cooldown period](https://github.com/aws/amazon-vpc-cni-k8s/issues/2378)
@@ -286,29 +309,6 @@
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
-
-
-## operator-framework/operator-controller <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Update util tests](https://github.com/operator-framework/operator-controller/issues/197)
-
-- [Document testing conventions](https://github.com/operator-framework/operator-controller/issues/188)
-
-- [Update resolution package tests](https://github.com/operator-framework/operator-controller/issues/191)
-
-- [Update required package variable source tests](https://github.com/operator-framework/operator-controller/issues/196)
-
-- [Update olm variable source tests](https://github.com/operator-framework/operator-controller/issues/195)
-
-- [Update entity tests](https://github.com/operator-framework/operator-controller/issues/194)
-
-- [Update crd constraints variable source tests](https://github.com/operator-framework/operator-controller/issues/193)
-
-- [Update bundles and dependencies variable source tests](https://github.com/operator-framework/operator-controller/issues/192)
-
-- [Update controller package tests](https://github.com/operator-framework/operator-controller/issues/190)
-
-- [[Epic] Refactor ginkgo unit tests to go test](https://github.com/operator-framework/operator-controller/issues/189)
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
