@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 01:42 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 01:52 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -17,6 +27,17 @@
 ## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(103 ⭐️)</span>
 
 - [KafkaSource: Define proper openAPIV3Schema for spec and status ](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3081)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
+
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
@@ -42,17 +63,6 @@
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(733 ⭐️)</span>
 
 - [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(43 ⭐️)</span>
@@ -116,11 +126,6 @@
 - [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
 
 
-## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
-
-
 ## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
 
 - [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
@@ -131,11 +136,6 @@
 ## TBD54566975/ssi-service <span style='color:#F1C40F'>(124 ⭐️)</span>
 
 - [Consistency between APIs that return many objects](https://github.com/TBD54566975/ssi-service/issues/449)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -398,9 +398,4 @@
 ## project-zot/zot <span style='color:#F1C40F'>(375 ⭐️)</span>
 
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
-
-
-## openziti/ziti <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [getZiti should not re-download the binary](https://github.com/openziti/ziti/issues/1116)
 
