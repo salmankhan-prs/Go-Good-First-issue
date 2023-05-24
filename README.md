@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 00:22 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 00:32 UTC.</div>
+
+
+## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -57,6 +67,11 @@
 - [[golang] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/316)
 
 
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
 ## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
 
 - [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
@@ -65,11 +80,6 @@
 ## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
 
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
@@ -212,9 +222,11 @@
 - [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
 
 
-## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
 
-- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
@@ -248,11 +260,6 @@
 ## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
-
-
-## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -319,6 +326,11 @@
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
+
+
+## project-zot/zot <span style='color:#F1C40F'>(375 ⭐️)</span>
+
+- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
