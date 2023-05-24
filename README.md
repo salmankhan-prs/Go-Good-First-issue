@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 06:52 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 07:02 UTC.</div>
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
@@ -147,7 +147,7 @@
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
-## tmc/langchaingo <span style='color:#F1C40F'>(244 ⭐️)</span>
+## tmc/langchaingo <span style='color:#F1C40F'>(245 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
 
@@ -350,15 +350,4 @@
 ## cert-manager/cert-manager <span style='color:#F1C40F'>(10.4K ⭐️)</span>
 
 - [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.7K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
