@@ -4,12 +4,33 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 16:52 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 17:02 UTC.</div>
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
+
+- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
+
+- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
+
+- [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
+## camunda/camunda-platform-helm <span style='color:#F1C40F'>(45 ⭐️)</span>
+
+- [Inconsistency with Zeebe gateway defaults](https://github.com/camunda/camunda-platform-helm/issues/695)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## cert-manager/cert-manager <span style='color:#F1C40F'>(10.4K ⭐️)</span>
@@ -85,11 +106,6 @@
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(755 ⭐️)</span>
 
 - [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
@@ -98,17 +114,6 @@
 ## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
-
-
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
-
-- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
-
-- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
@@ -318,6 +323,19 @@
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
+
+- [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
+
+- [Retrieving secret version isn't working with AWS Parameter Store](https://github.com/external-secrets/external-secrets/issues/2330)
+
+- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+
 ## goravel/goravel <span style='color:#F1C40F'>(797 ⭐️)</span>
 
 - [✨ [Feature] Filesystem Driver ReadStream & WriteStream analogues](https://github.com/goravel/goravel/issues/127)
@@ -350,28 +368,7 @@
 - [Add flag to output JSON errors from the validate command](https://github.com/CycloneDX/sbom-utility/issues/26)
 
 
-## camunda/camunda-platform-helm <span style='color:#F1C40F'>(45 ⭐️)</span>
-
-- [Inconsistency with Zeebe gateway defaults](https://github.com/camunda/camunda-platform-helm/issues/695)
-
-
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
-
-
-## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
-
-- [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
-
-
-## fluent/fluent-operator <span style='color:#F1C40F'>(415 ⭐️)</span>
-
-- [Enable Fluentd Prometheus plugin](https://github.com/fluent/fluent-operator/issues/725)
-
-- [bug: Fluentd unimplemented buffer parameters](https://github.com/fluent/fluent-operator/issues/752)
-
-- [Add HPA support to Fluentd](https://github.com/fluent/fluent-operator/issues/739)
-
-- [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
 
