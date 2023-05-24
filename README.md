@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 18:02 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 18:12 UTC.</div>
+
+
+## kubeshop/tracetest <span style='color:#F1C40F'>(550 ⭐️)</span>
+
+- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
 
 
 ## omerxx/fatbot <span style='color:#F1C40F'>(1 ⭐️)</span>
@@ -169,9 +174,15 @@
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
-## kubeshop/tracetest <span style='color:#F1C40F'>(550 ⭐️)</span>
+## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
 
-- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
+- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
+
+- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
+
+- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
+
+- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
 
 
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
@@ -198,17 +209,6 @@
 ## grafana/xk6-disruptor <span style='color:#F1C40F'>(38 ⭐️)</span>
 
 - [Make agent "port" argument required and remove default value](https://github.com/grafana/xk6-disruptor/issues/161)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
-
-- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
-
-- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
-
-- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
-
-- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(177 ⭐️)</span>
@@ -326,11 +326,4 @@
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
 
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
-## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [Add Table of CLI Flags, Environment Variables, and Descriptions to Getting Started Guide](https://github.com/target/goalert/issues/3023)
-
-- [Add Service "Name" field to user notification webhook data.](https://github.com/target/goalert/issues/3009)
 
