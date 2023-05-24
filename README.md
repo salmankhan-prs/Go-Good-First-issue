@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 23:22 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 23:32 UTC.</div>
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(13.5K ⭐️)</span>
+
+- [3d sides don't respect theme](https://github.com/terrastruct/d2/issues/1337)
+
+
+## parca-dev/parca-agent <span style='color:#F1C40F'>(321 ⭐️)</span>
+
+- [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
+
+- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
+
+- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
 
 
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -305,96 +319,4 @@
 - [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
 
 - [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(178 ⭐️)</span>
-
-- [QGB docs cosmetics](https://github.com/celestiaorg/celestia-app/issues/1819)
-
-- [Un-export namespace slices and export getters](https://github.com/celestiaorg/celestia-app/issues/1809)
-
-- [Visual representation of share for share splitting tests](https://github.com/celestiaorg/celestia-app/issues/1789)
-
-- [[nit] Can we use `2*2` instead of `4` in the `generateShares(4)`, it is more clear how 4 is calculated and why.](https://github.com/celestiaorg/celestia-app/issues/1788)
-
-- [Godoc for TestMinDataAvailabilityHeader](https://github.com/celestiaorg/celestia-app/issues/1787)
-
-- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
-
-- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
-
-- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
-
-- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
-
-- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
-
-- [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
-
-- [Retrieving secret version isn't working with AWS Parameter Store](https://github.com/external-secrets/external-secrets/issues/2330)
-
-- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-
-## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
-
-
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
-
-- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
-
-- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
-
-
-## TBD54566975/ssi-service <span style='color:#F1C40F'>(124 ⭐️)</span>
-
-- [PresentationAPI: Add list requests endpoint](https://github.com/TBD54566975/ssi-service/issues/479)
-
-- [Consistency across Create endpoints](https://github.com/TBD54566975/ssi-service/issues/469)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
-
-- [Implement `envtool version` command](https://github.com/FerretDB/FerretDB/issues/2684)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## cometbft/cometbft <span style='color:#F1C40F'>(277 ⭐️)</span>
-
-- [Add Go API support to bootstrap node after it was state synced](https://github.com/cometbft/cometbft/issues/884)
-
-- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
-
-
-## fyne-io/fyne <span style='color:#F1C40F'>(20.4K ⭐️)</span>
-
-- [Disabled password Entry should also disable the ActionItem (show/hide password)](https://github.com/fyne-io/fyne/issues/3908)
-
-
-## navidrome/navidrome <span style='color:#F1C40F'>(6.8K ⭐️)</span>
-
-- [Ignore playlist files beginning with "."](https://github.com/navidrome/navidrome/issues/2367)
 
