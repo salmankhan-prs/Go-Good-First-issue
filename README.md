@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 04:22 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 04:32 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
@@ -55,7 +55,7 @@
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
-## tmc/langchaingo <span style='color:#F1C40F'>(242 ⭐️)</span>
+## tmc/langchaingo <span style='color:#F1C40F'>(243 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
 
