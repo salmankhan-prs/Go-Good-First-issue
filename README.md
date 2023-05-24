@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 03:32 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 03:42 UTC.</div>
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
+
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -26,17 +47,6 @@
 - [TestSystemThrottler test flake](https://github.com/ava-labs/avalanchego/issues/1414)
 
 - [Add P-chain config for cache sizes](https://github.com/ava-labs/avalanchego/issues/1522)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## TBD54566975/ssi-service <span style='color:#F1C40F'>(124 ⭐️)</span>
@@ -80,11 +90,6 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(733 ⭐️)</span>
@@ -152,11 +157,6 @@
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.1K ⭐️)</span>
