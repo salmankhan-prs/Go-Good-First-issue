@@ -4,12 +4,40 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 09:02 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 09:12 UTC.</div>
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
+- [Implement `envtool version` command](https://github.com/FerretDB/FerretDB/issues/2684)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(352 ⭐️)</span>
+
+- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
+
+- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -27,27 +55,15 @@
 - [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
 
 
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
 
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
 
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
 
-- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
-
-- [Implement `envtool version` command](https://github.com/FerretDB/FerretDB/issues/2684)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
-
-- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
@@ -57,11 +73,6 @@
 - [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(351 ⭐️)</span>
-
-- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -191,6 +202,11 @@
 - [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
 
 
+## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
+
+- [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
+
+
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
@@ -285,27 +301,4 @@
 - [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
 
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [bump github.com/prometheus/common from 0.43.0 to 0.44.0 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22721)
-
-- [Bump k8s.io/apimachinery from 0.27.1 to 0.27.2 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22719)
-
-- [[pkg/stanza] Do we need `flushUncombined` in the recombine operator?](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22140)
-
-- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
