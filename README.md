@@ -4,12 +4,41 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 17:02 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 17:12 UTC.</div>
+
+
+## omerxx/fatbot <span style='color:#F1C40F'>(1 ⭐️)</span>
+
+- [Better ban message](https://github.com/omerxx/fatbot/issues/49)
+
+- [Improve workout reply](https://github.com/omerxx/fatbot/issues/36)
+
+- [Add user /stats](https://github.com/omerxx/fatbot/issues/22)
+
+
+## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+
+## falcosecurity/plugin-sdk-go <span style='color:#F1C40F'>(21 ⭐️)</span>
+
+- [Build examples in our CI with the minimum required Go version](https://github.com/falcosecurity/plugin-sdk-go/issues/77)
 
 
 ## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -26,11 +55,6 @@
 ## camunda/camunda-platform-helm <span style='color:#F1C40F'>(45 ⭐️)</span>
 
 - [Inconsistency with Zeebe gateway defaults](https://github.com/camunda/camunda-platform-helm/issues/695)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## cert-manager/cert-manager <span style='color:#F1C40F'>(10.4K ⭐️)</span>
@@ -51,6 +75,11 @@
 ## project-zot/zot <span style='color:#F1C40F'>(375 ⭐️)</span>
 
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -116,19 +145,9 @@
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
-## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-
 ## grafana/xk6-disruptor <span style='color:#F1C40F'>(38 ⭐️)</span>
 
 - [Make agent "port" argument required and remove default value](https://github.com/grafana/xk6-disruptor/issues/161)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
@@ -339,36 +358,4 @@
 ## goravel/goravel <span style='color:#F1C40F'>(797 ⭐️)</span>
 
 - [✨ [Feature] Filesystem Driver ReadStream & WriteStream analogues](https://github.com/goravel/goravel/issues/127)
-
-
-## nspcc-dev/neofs-node <span style='color:#F1C40F'>(31 ⭐️)</span>
-
-- [Add histograms for request metrics](https://github.com/nspcc-dev/neofs-node/issues/2351)
-
-
-## shieldworks/aegis <span style='color:#F1C40F'>(26 ⭐️)</span>
-
-- [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(521 ⭐️)</span>
-
-- [drop minio dep for go >= 1.21](https://github.com/celestiaorg/celestia-node/issues/2247)
-
-- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
-
-
-## CycloneDX/sbom-utility <span style='color:#F1C40F'>(30 ⭐️)</span>
-
-- [Add flag to output JSON errors from the validate command](https://github.com/CycloneDX/sbom-utility/issues/26)
-
-
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
 
