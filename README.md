@@ -4,7 +4,70 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 15:52 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 16:02 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(177 ⭐️)</span>
+
+- [QGB docs cosmetics](https://github.com/celestiaorg/celestia-app/issues/1819)
+
+- [Un-export namespace slices and export getters](https://github.com/celestiaorg/celestia-app/issues/1809)
+
+- [Visual representation of share for share splitting tests](https://github.com/celestiaorg/celestia-app/issues/1789)
+
+- [[nit] Can we use `2*2` instead of `4` in the `generateShares(4)`, it is more clear how 4 is calculated and why.](https://github.com/celestiaorg/celestia-app/issues/1788)
+
+- [Godoc for TestMinDataAvailabilityHeader](https://github.com/celestiaorg/celestia-app/issues/1787)
+
+- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
+
+- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
+
+- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
+
+- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
+
+- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
+
+
+## berops/claudie <span style='color:#F1C40F'>(241 ⭐️)</span>
+
+- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
+
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [bump github.com/prometheus/common from 0.43.0 to 0.44.0 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22721)
+
+- [Bump k8s.io/apimachinery from 0.27.1 to 0.27.2 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22719)
+
+- [[pkg/stanza] Do we need `flushUncombined` in the recombine operator?](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22140)
+
+- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
+
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -30,11 +93,6 @@
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
@@ -48,6 +106,11 @@
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(734 ⭐️)</span>
 
 - [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -78,6 +141,21 @@
 - [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
 
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
+## celestiaorg/knuu <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [SetCommand should have same parameter as SetArgs](https://github.com/celestiaorg/knuu/issues/48)
+
+- [Deduplicate code - cloning](https://github.com/celestiaorg/knuu/issues/45)
+
+- [On new major release, rename function to be more clear](https://github.com/celestiaorg/knuu/issues/38)
+
+- [Create container image for executor with essential tools installed](https://github.com/celestiaorg/knuu/issues/31)
+
+- [Check if the connection to a Kubernetes Cluster is available before running tests](https://github.com/celestiaorg/knuu/issues/30)
+
+- [Unify debug and error messages](https://github.com/celestiaorg/knuu/issues/23)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
@@ -139,21 +217,6 @@
 - [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
 
 
-## celestiaorg/knuu <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [SetCommand should have same parameter as SetArgs](https://github.com/celestiaorg/knuu/issues/48)
-
-- [Deduplicate code - cloning](https://github.com/celestiaorg/knuu/issues/45)
-
-- [On new major release, rename function to be more clear](https://github.com/celestiaorg/knuu/issues/38)
-
-- [Create container image for executor with essential tools installed](https://github.com/celestiaorg/knuu/issues/31)
-
-- [Check if the connection to a Kubernetes Cluster is available before running tests](https://github.com/celestiaorg/knuu/issues/30)
-
-- [Unify debug and error messages](https://github.com/celestiaorg/knuu/issues/23)
-
-
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(321 ⭐️)</span>
 
 - [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
@@ -179,13 +242,6 @@
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
 ## goravel/goravel <span style='color:#F1C40F'>(797 ⭐️)</span>
 
 - [✨ [Feature] Filesystem Driver ReadStream & WriteStream analogues](https://github.com/goravel/goravel/issues/127)
@@ -196,11 +252,6 @@
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## nspcc-dev/neofs-node <span style='color:#F1C40F'>(31 ⭐️)</span>
 
 - [Add histograms for request metrics](https://github.com/nspcc-dev/neofs-node/issues/2351)
@@ -209,11 +260,6 @@
 ## shieldworks/aegis <span style='color:#F1C40F'>(26 ⭐️)</span>
 
 - [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
-
-
-## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
@@ -229,6 +275,8 @@
 
 
 ## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
 
 - [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
 
@@ -261,29 +309,6 @@
 - [Add HPA support to Fluentd](https://github.com/fluent/fluent-operator/issues/739)
 
 - [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(177 ⭐️)</span>
-
-- [QGB docs cosmetics](https://github.com/celestiaorg/celestia-app/issues/1819)
-
-- [Un-export namespace slices and export getters](https://github.com/celestiaorg/celestia-app/issues/1809)
-
-- [Visual representation of share for share splitting tests](https://github.com/celestiaorg/celestia-app/issues/1789)
-
-- [[nit] Can we use `2*2` instead of `4` in the `generateShares(4)`, it is more clear how 4 is calculated and why.](https://github.com/celestiaorg/celestia-app/issues/1788)
-
-- [Godoc for TestMinDataAvailabilityHeader](https://github.com/celestiaorg/celestia-app/issues/1787)
-
-- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
-
-- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
-
-- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
-
-- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
-
-- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
 
 
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
@@ -345,20 +370,4 @@
 - [Add Go API support to bootstrap node after it was state synced](https://github.com/cometbft/cometbft/issues/884)
 
 - [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
-
-- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
