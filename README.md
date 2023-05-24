@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 03:12 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 03:22 UTC.</div>
+
+
+## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [Add clock skew metrics](https://github.com/ava-labs/avalanchego/issues/1542)
+
+- [TestSystemThrottler test flake](https://github.com/ava-labs/avalanchego/issues/1414)
+
+- [Add P-chain config for cache sizes](https://github.com/ava-labs/avalanchego/issues/1522)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
@@ -376,9 +385,4 @@
 - [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
 
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
-
-
-## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(753 ⭐️)</span>
-
-- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
 
