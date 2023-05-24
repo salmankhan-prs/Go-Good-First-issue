@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 22:52 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 23:02 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## ossf/allstar <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Not requiring approvals does not imply approval count of 0?](https://github.com/ossf/allstar/issues/419)
 
 
 ## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -51,11 +61,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## ossf/allstar <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Not requiring approvals does not imply approval count of 0?](https://github.com/ossf/allstar/issues/419)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
@@ -145,11 +150,6 @@
 - [(feature) Add go-feature-flag to scoop extra](https://github.com/thomaspoignant/go-feature-flag/issues/817)
 
 - [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
