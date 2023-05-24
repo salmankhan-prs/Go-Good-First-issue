@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 02:22 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 02:32 UTC.</div>
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
