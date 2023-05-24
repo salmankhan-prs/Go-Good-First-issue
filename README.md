@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 00:32 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 00:42 UTC.</div>
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -179,13 +186,6 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
 ## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
 
 - [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
@@ -210,6 +210,11 @@
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
+
+
+## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
 
 
 ## camunda/camunda-platform-helm <span style='color:#F1C40F'>(45 ⭐️)</span>
@@ -323,11 +328,6 @@
 - [Pin version of grafana for Monitoring](https://github.com/rancher/opni/issues/1357)
 
 
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
-
-
 ## project-zot/zot <span style='color:#F1C40F'>(375 ⭐️)</span>
 
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
@@ -348,13 +348,4 @@
 ## kubernetes-sigs/network-policy-api <span style='color:#F1C40F'>(23 ⭐️)</span>
 
 - [Add a Script linter to our CI workflow](https://github.com/kubernetes-sigs/network-policy-api/issues/94)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
-
-- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
-
-- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
-
-- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
 
