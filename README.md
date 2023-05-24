@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 22:12 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 22:22 UTC.</div>
+
+
+## ossf/allstar <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Not requiring approvals does not imply approval count of 0?](https://github.com/ossf/allstar/issues/419)
+
+
+## labdao/plex <span style='color:#F1C40F'>(19 ⭐️)</span>
+
+- [add vina to PLEX](https://github.com/labdao/plex/issues/294)
 
 
 ## kubeshop/tracetest <span style='color:#F1C40F'>(550 ⭐️)</span>
@@ -107,6 +117,15 @@
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
+
+- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+
+
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
@@ -115,13 +134,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Some code blocks are not rendered properly in the documentation's PipelineRuns page](https://github.com/tektoncd/pipeline/issues/6697)
-
-- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -187,11 +199,6 @@
 - [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
 
 - [Pin version of grafana for Monitoring](https://github.com/rancher/opni/issues/1357)
-
-
-## labdao/plex <span style='color:#F1C40F'>(19 ⭐️)</span>
-
-- [add vina to PLEX](https://github.com/labdao/plex/issues/294)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
@@ -333,20 +340,4 @@
 - [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
 
 - [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-
-## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
-
-
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
-
-- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
-
-- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
