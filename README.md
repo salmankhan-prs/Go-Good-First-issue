@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 06:02 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 06:12 UTC.</div>
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
+
+- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -71,6 +83,13 @@
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
 
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
@@ -84,13 +103,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
-## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
-
-- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.8K ⭐️)</span>
@@ -116,16 +128,6 @@
 - [Enable NodePort customization / configuration for all services in Helm](https://github.com/kumahq/kuma/issues/6759)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(21.2K ⭐️)</span>
-
-- [deadletter poison message explicitly](https://github.com/dapr/dapr/issues/6282)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -183,11 +185,6 @@
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -374,22 +371,4 @@
 ## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(6.5K ⭐️)</span>
 
 - [Kubernetes and Kubebuilder use different mechanisms to generate plurals](https://github.com/kubernetes-sigs/kubebuilder/issues/3402)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
-
-- [[Question]: Cache list will crash if there is no cache file](https://github.com/k8sgpt-ai/k8sgpt/issues/453)
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [Some tweaks for the terminal output for readability ](https://github.com/k8sgpt-ai/k8sgpt/issues/332)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
