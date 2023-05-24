@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 16:02 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 16:12 UTC.</div>
+
+
+## grafana/xk6-disruptor <span style='color:#F1C40F'>(38 ⭐️)</span>
+
+- [Make agent "port" argument required and remove default value](https://github.com/grafana/xk6-disruptor/issues/161)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -12,9 +22,25 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
+
+- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
+
+- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
+
+- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(177 ⭐️)</span>
@@ -98,6 +124,11 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
 
 
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
+
+
 ## kubernetes/perf-tests <span style='color:#F1C40F'>(782 ⭐️)</span>
 
 - [Add measurement for running commands within in-cluster pods](https://github.com/kubernetes/perf-tests/issues/2262)
@@ -174,6 +205,11 @@
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
 ## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
 
 - [Add Table of CLI Flags, Environment Variables, and Descriptions to Getting Started Guide](https://github.com/target/goalert/issues/3023)
@@ -205,11 +241,6 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
@@ -247,11 +278,6 @@
 - [✨ [Feature] Filesystem Driver ReadStream & WriteStream analogues](https://github.com/goravel/goravel/issues/127)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
 ## nspcc-dev/neofs-node <span style='color:#F1C40F'>(31 ⭐️)</span>
 
 - [Add histograms for request metrics](https://github.com/nspcc-dev/neofs-node/issues/2351)
@@ -272,17 +298,6 @@
 - [drop minio dep for go >= 1.21](https://github.com/celestiaorg/celestia-node/issues/2247)
 
 - [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
-
-- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
-
-- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
-
-- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
-
-- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
 
 
 ## camunda/camunda-platform-helm <span style='color:#F1C40F'>(45 ⭐️)</span>
@@ -363,11 +378,4 @@
 ## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(6.5K ⭐️)</span>
 
 - [Kubernetes and Kubebuilder use different mechanisms to generate plurals](https://github.com/kubernetes-sigs/kubebuilder/issues/3402)
-
-
-## cometbft/cometbft <span style='color:#F1C40F'>(277 ⭐️)</span>
-
-- [Add Go API support to bootstrap node after it was state synced](https://github.com/cometbft/cometbft/issues/884)
-
-- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
 
