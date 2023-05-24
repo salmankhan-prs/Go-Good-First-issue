@@ -4,7 +4,44 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 14:32 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 14:42 UTC.</div>
+
+
+## armadaproject/armada <span style='color:#F1C40F'>(316 ⭐️)</span>
+
+- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
+
+
+## shieldworks/aegis <span style='color:#F1C40F'>(26 ⭐️)</span>
+
+- [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(521 ⭐️)</span>
+
+- [drop minio dep for go >= 1.21](https://github.com/celestiaorg/celestia-node/issues/2247)
+
+- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
+
+
+## nspcc-dev/neofs-node <span style='color:#F1C40F'>(31 ⭐️)</span>
+
+- [Add histograms for request metrics](https://github.com/nspcc-dev/neofs-node/issues/2351)
+
+
+## kubernetes/perf-tests <span style='color:#F1C40F'>(782 ⭐️)</span>
+
+- [Add measurement for running commands within in-cluster pods](https://github.com/kubernetes/perf-tests/issues/2262)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.7K ⭐️)</span>
@@ -16,13 +53,6 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(521 ⭐️)</span>
-
-- [drop minio dep for go >= 1.21](https://github.com/celestiaorg/celestia-node/issues/2247)
-
-- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
 
 
 ## camunda/camunda-platform-helm <span style='color:#F1C40F'>(45 ⭐️)</span>
@@ -38,11 +68,6 @@
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
@@ -106,11 +131,6 @@
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
 
 
-## moov-io/achgateway <span style='color:#F1C40F'>(34 ⭐️)</span>
-
-- [proposal: remove consul support / leadership elections](https://github.com/moov-io/achgateway/issues/174)
-
-
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
 
 - [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
@@ -135,11 +155,6 @@
 - [[rust] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/319)
 
 - [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
@@ -192,6 +207,11 @@
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
+## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(6.5K ⭐️)</span>
+
+- [Kubernetes and Kubebuilder use different mechanisms to generate plurals](https://github.com/kubernetes-sigs/kubebuilder/issues/3402)
+
+
 ## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
 
 - [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
@@ -224,9 +244,9 @@
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
 
-- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
-
 - [Implement `envtool version` command](https://github.com/FerretDB/FerretDB/issues/2684)
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
 
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
@@ -253,11 +273,6 @@
 - [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
 
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
-
-
-## nspcc-dev/neofs-node <span style='color:#F1C40F'>(31 ⭐️)</span>
-
-- [Add histograms for request metrics](https://github.com/nspcc-dev/neofs-node/issues/2351)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
@@ -363,39 +378,4 @@
 ## guacsec/guac <span style='color:#F1C40F'>(828 ⭐️)</span>
 
 - [[fix] issue with scorecard runner timing out  ](https://github.com/guacsec/guac/issues/868)
-
-
-## Kuadrant/multicluster-gateway-controller <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [bug sometimes a zone will get created multiple times](https://github.com/Kuadrant/multicluster-gateway-controller/issues/180)
-
-- [bug: A record weighting is incorrect](https://github.com/Kuadrant/multicluster-gateway-controller/issues/192)
-
-
-## armadaproject/armada <span style='color:#F1C40F'>(316 ⭐️)</span>
-
-- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [bump github.com/prometheus/common from 0.43.0 to 0.44.0 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22721)
-
-- [Bump k8s.io/apimachinery from 0.27.1 to 0.27.2 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22719)
-
-- [[pkg/stanza] Do we need `flushUncombined` in the recombine operator?](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22140)
-
-- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
