@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 05:12 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 05:22 UTC.</div>
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -30,7 +42,7 @@
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
-## tmc/langchaingo <span style='color:#F1C40F'>(243 ⭐️)</span>
+## tmc/langchaingo <span style='color:#F1C40F'>(244 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
 
@@ -76,13 +88,6 @@
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-- [azurerm_postgresql_flexible_server SKU name validation mismatch between Terraform provider and Azure API](https://github.com/hashicorp/terraform-provider-azurerm/issues/21522)
-
-
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
@@ -91,6 +96,15 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [wanted: specify single hard fork height in config.toml](https://github.com/bnb-chain/bsc/issues/1625)
+
+- [Faster than eth_getLogs?](https://github.com/bnb-chain/bsc/issues/1541)
+
+- [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
@@ -148,15 +162,6 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [wanted: specify single hard fork height in config.toml](https://github.com/bnb-chain/bsc/issues/1625)
-
-- [Faster than eth_getLogs?](https://github.com/bnb-chain/bsc/issues/1541)
-
-- [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(350 ⭐️)</span>
@@ -219,6 +224,8 @@
 
 ## base-org/pessimism <span style='color:#F1C40F'>(435 ⭐️)</span>
 
+- [Add `Account.Balance` Backtesting Support](https://github.com/base-org/pessimism/issues/59)
+
 - [Verify precision loss](https://github.com/base-org/pessimism/issues/58)
 
 - [Enforcing Function Header Comment Hygiene](https://github.com/base-org/pessimism/issues/40)
@@ -267,11 +274,6 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
