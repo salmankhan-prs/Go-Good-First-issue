@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 11:52 UTC.</div>
+<div align='center'>Last updated at May 24, 2023 12:02 UTC.</div>
+
+
+## chainloop-dev/chainloop <span style='color:#F1C40F'>(182 ⭐️)</span>
+
+- [deployment: split sentry configuration](https://github.com/chainloop-dev/chainloop/issues/104)
+
+- [chart: improve installation output (notes.md) ](https://github.com/chainloop-dev/chainloop/issues/97)
+
+- [Create first robot-account during workflow creation](https://github.com/chainloop-dev/chainloop/issues/90)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
+## l7mp/stunner <span style='color:#F1C40F'>(505 ⭐️)</span>
+
+- [Make a better job at documenting that STUNner ignores the port in backend Services](https://github.com/l7mp/stunner/issues/87)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## LinuxSuRen/api-testing <span style='color:#F1C40F'>(21 ⭐️)</span>
@@ -142,11 +166,6 @@
 - [Inconsistency with Zeebe gateway defaults](https://github.com/camunda/camunda-platform-helm/issues/695)
 
 
-## camunda/camunda-platform-helm <span style='color:#F1C40F'>(45 ⭐️)</span>
-
-- [Inconsistency with Zeebe gateway defaults](https://github.com/camunda/camunda-platform-helm/issues/695)
-
-
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(734 ⭐️)</span>
 
 - [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
@@ -210,16 +229,6 @@
 ## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## pipe-cd/pipecd <span style='color:#F1C40F'>(703 ⭐️)</span>
@@ -303,4 +312,39 @@
 ## keploy/keploy <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [[feature]: There is lot of empty space is left at  the footer in the doc page ](https://github.com/keploy/keploy/issues/552)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(352 ⭐️)</span>
+
+- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
+
+
+## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
+
+- [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
+
+
+## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
+
+- [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
+
+- [Eventing TLS: Test ContainerSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6937)
+
+- [Eventing TLS: Test PingSource with Broker as sink](https://github.com/knative/eventing/issues/6932)
+
+- [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
+
+- [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
+
+
+## kubernetes/perf-tests <span style='color:#F1C40F'>(782 ⭐️)</span>
+
+- [Add measurement for running commands within in-cluster pods](https://github.com/kubernetes/perf-tests/issues/2262)
 
