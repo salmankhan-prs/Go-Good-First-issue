@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 05:52 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 06:02 UTC.</div>
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
+
+
+## openfga/openfga <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Add functional tests for Write, ReadAssertions, Read, ReadChanges, ReadModel, ReadModels, DeleteStore, GetStore](https://github.com/openfga/openfga/issues/775)
+
+- [Fix docs for `./openfga migrate --timeout`](https://github.com/openfga/openfga/issues/774)
+
+- [Remove `tests/listobjects_1_1_tests.yaml`](https://github.com/openfga/openfga/issues/768)
+
+- [Re-implement channels in ListObjects](https://github.com/openfga/openfga/issues/764)
+
+- [Cleanup 1.0 code](https://github.com/openfga/openfga/issues/771)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
@@ -15,6 +38,13 @@
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
 ## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -67,11 +97,6 @@
 - [register with duplicate (correct) credentials should be a no-op](https://github.com/opencorelabs/fira/issues/60)
 
 - [request new verification token](https://github.com/opencorelabs/fira/issues/53)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
@@ -198,11 +223,6 @@
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
-## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
-
-
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(354 ⭐️)</span>
 
 - [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
@@ -285,13 +305,6 @@
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
 ## TBD54566975/ssi-service <span style='color:#F1C40F'>(124 ⭐️)</span>
 
 - [PresentationAPI: Add list requests endpoint](https://github.com/TBD54566975/ssi-service/issues/479)
@@ -361,26 +374,4 @@
 - [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
 
 - [Pin version of grafana for Monitoring](https://github.com/rancher/opni/issues/1357)
-
-
-## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(82 ⭐️)</span>
-
-- [Add xrefs between yaml-crd-ref pages and crd-ref pages](https://github.com/keptn/lifecycle-toolkit/issues/1465)
-
-- [reflect StatefulSets and DaemonSets in "Integrate" page](https://github.com/keptn/lifecycle-toolkit/issues/1451)
-
-- [[research] Can KLT be run in code spaces & tutorial in Jupyter Notebooks](https://github.com/keptn/lifecycle-toolkit/issues/1441)
-
-- [Apps Page Text needs tweaked](https://github.com/keptn/lifecycle-toolkit/issues/1311)
-
-- [readme should point to website not repo](https://github.com/keptn/lifecycle-toolkit/issues/1327)
-
-- [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
-
-- [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
-
-
-## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
 
