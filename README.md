@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 04:02 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 04:12 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
@@ -194,11 +194,6 @@
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
-## labdao/plex <span style='color:#F1C40F'>(19 ⭐️)</span>
-
-- [add vina to PLEX](https://github.com/labdao/plex/issues/294)
-
-
 ## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [wanted: specify single hard fork height in config.toml](https://github.com/bnb-chain/bsc/issues/1625)
@@ -283,6 +278,11 @@
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
+
+
+## ossf/allstar <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Not requiring approvals does not imply approval count of 0?](https://github.com/ossf/allstar/issues/419)
 
 
 ## ossf/allstar <span style='color:#F1C40F'>(1.1K ⭐️)</span>
