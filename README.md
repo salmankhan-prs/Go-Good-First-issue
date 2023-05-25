@@ -4,7 +4,43 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 08:12 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 08:22 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(354 ⭐️)</span>
+
+- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
+
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## scriptnull/waymond <span style='color:#F1C40F'>(10 ⭐️)</span>
+
+- [scaler(aws_ec2_asg): avoid multiple describe autoscaling group calls ](https://github.com/scriptnull/waymond/issues/21)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## kairos-io/kairos <span style='color:#F1C40F'>(514 ⭐️)</span>
@@ -40,30 +76,9 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 
-## scriptnull/waymond <span style='color:#F1C40F'>(10 ⭐️)</span>
-
-- [scaler(aws_ec2_asg): avoid multiple describe autoscaling group calls ](https://github.com/scriptnull/waymond/issues/21)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## armadaproject/armada <span style='color:#F1C40F'>(316 ⭐️)</span>
 
 - [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -120,11 +135,6 @@
 - [Add Go API support to bootstrap node after it was state synced](https://github.com/cometbft/cometbft/issues/884)
 
 - [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## grafana/k6-operator <span style='color:#F1C40F'>(371 ⭐️)</span>
@@ -212,11 +222,6 @@
 - [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
 
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -321,31 +326,4 @@
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
 
 - [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
-
-
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
-
-
-## protoconf/protoconf <span style='color:#F1C40F'>(111 ⭐️)</span>
-
-- [Upgrade to etcdv3](https://github.com/protoconf/protoconf/issues/327)
-
-- [TLS configuration for Protoconf gRPC servers](https://github.com/protoconf/protoconf/issues/325)
-
-- [Upgrade Valkeyrie to v1](https://github.com/protoconf/protoconf/issues/321)
-
-- [[Javascript] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/318)
-
-- [[Java] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/320)
-
-- [[rust] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/319)
-
-- [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
