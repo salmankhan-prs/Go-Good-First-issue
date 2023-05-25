@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 08:32 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 08:42 UTC.</div>
+
+
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
+
+- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
@@ -115,6 +126,8 @@
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(82 ⭐️)</span>
 
+- [Update "Intro to KLT"](https://github.com/keptn/lifecycle-toolkit/issues/1467)
+
 - [Add xrefs between yaml-crd-ref pages and crd-ref pages](https://github.com/keptn/lifecycle-toolkit/issues/1465)
 
 - [reflect StatefulSets and DaemonSets in "Integrate" page](https://github.com/keptn/lifecycle-toolkit/issues/1451)
@@ -168,20 +181,18 @@
 - [optimize task manager](https://github.com/oceanbase/ob-operator/issues/37)
 
 
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
-
-- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
-
-
 ## ChainSafe/gossamer <span style='color:#F1C40F'>(386 ⭐️)</span>
 
 - [cli: generate account key if not specified](https://github.com/ChainSafe/gossamer/issues/3255)
+
+
+## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
+
+- [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
+
+- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
+
+- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
 
 
 ## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -285,6 +296,13 @@
 - [request new verification token](https://github.com/opencorelabs/fira/issues/53)
 
 
+## ray-project/kuberay <span style='color:#F1C40F'>(355 ⭐️)</span>
+
+- [[Doc] Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
+
+- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
+
+
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
 
 - [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
@@ -312,15 +330,6 @@
 - [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## parca-dev/parca-agent <span style='color:#F1C40F'>(321 ⭐️)</span>
-
-- [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
-
-- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
-
-- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
