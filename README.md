@@ -4,7 +4,54 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 10:02 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 10:12 UTC.</div>
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
+
+- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [[Question]: Cache list will crash if there is no cache file](https://github.com/k8sgpt-ai/k8sgpt/issues/453)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+
+## Kuadrant/multicluster-gateway-controller <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [bug sometimes a zone will get created multiple times](https://github.com/Kuadrant/multicluster-gateway-controller/issues/180)
+
+- [bug: A record weighting is incorrect](https://github.com/Kuadrant/multicluster-gateway-controller/issues/192)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
+
+- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(521 ⭐️)</span>
+
+- [drop minio dep for go >= 1.21](https://github.com/celestiaorg/celestia-node/issues/2247)
+
+- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
@@ -21,13 +68,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(521 ⭐️)</span>
-
-- [drop minio dep for go >= 1.21](https://github.com/celestiaorg/celestia-node/issues/2247)
-
-- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
 
 
 ## dapr/cli <span style='color:#F1C40F'>(282 ⭐️)</span>
@@ -56,17 +96,6 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [[Question]: Cache list will crash if there is no cache file](https://github.com/k8sgpt-ai/k8sgpt/issues/453)
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
 ## cue-lang/cue <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -104,19 +133,6 @@
 - [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
 
 - [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
-
-- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
-
-- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
-
-- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
-
-- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
 
 
 ## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -178,15 +194,6 @@
 ## oboukili/terraform-provider-argocd <span style='color:#F1C40F'>(275 ⭐️)</span>
 
 - [support for `ignoreMissingValueFiles` helm application parameter](https://github.com/oboukili/terraform-provider-argocd/issues/287)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
-
-- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
@@ -320,11 +327,4 @@
 ## armadaproject/armada <span style='color:#F1C40F'>(316 ⭐️)</span>
 
 - [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
