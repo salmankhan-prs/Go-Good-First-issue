@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 20:12 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 20:22 UTC.</div>
+
+
+## labdao/plex <span style='color:#F1C40F'>(19 ⭐️)</span>
+
+- [add vina to PLEX](https://github.com/labdao/plex/issues/294)
+
+
+## TBD54566975/ssi-service <span style='color:#F1C40F'>(125 ⭐️)</span>
+
+- [PresentationAPI: Add list requests endpoint](https://github.com/TBD54566975/ssi-service/issues/479)
+
+- [Consistency across Create endpoints](https://github.com/TBD54566975/ssi-service/issues/469)
+
+
+## carvel-dev/kapp <span style='color:#F1C40F'>(760 ⭐️)</span>
+
+- [`kapp app-group deploy` should order based on folder names](https://github.com/carvel-dev/kapp/issues/755)
 
 
 ## kubeshop/tracetest <span style='color:#F1C40F'>(553 ⭐️)</span>
@@ -202,25 +219,9 @@
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
-## labdao/plex <span style='color:#F1C40F'>(19 ⭐️)</span>
-
-- [add vina to PLEX](https://github.com/labdao/plex/issues/294)
-
-
 ## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
-
-
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
-
-- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
-
-- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
 
 ## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -309,28 +310,4 @@
 - [Add clock skew metrics](https://github.com/ava-labs/avalanchego/issues/1542)
 
 - [Add P-chain config for cache sizes](https://github.com/ava-labs/avalanchego/issues/1522)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
-
-- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
-
-- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
-
-- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Adding ability to pass session tags (AWS provider)](https://github.com/external-secrets/external-secrets/issues/2343)
-
-- [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
-
-- [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
-
-- [Retrieving secret version isn't working with AWS Parameter Store](https://github.com/external-secrets/external-secrets/issues/2330)
-
-- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
 
