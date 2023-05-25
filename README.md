@@ -4,7 +4,33 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 18:02 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 18:12 UTC.</div>
+
+
+## kubernetes-sigs/kubectl-validate <span style='color:#F1C40F'>(11 ⭐️)</span>
+
+- [Usage with kpt](https://github.com/kubernetes-sigs/kubectl-validate/issues/24)
+
+- [Validate from stdin](https://github.com/kubernetes-sigs/kubectl-validate/issues/32)
+
+- [Usage with CI?](https://github.com/kubernetes-sigs/kubectl-validate/issues/23)
+
+- [Debug Logging and Verbosity](https://github.com/kubernetes-sigs/kubectl-validate/issues/36)
+
+- [terminal output gif in readme](https://github.com/kubernetes-sigs/kubectl-validate/issues/14)
+
+- [OpenAPI v2 schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/15)
+
+- [GitHub downloader subject to rate limits](https://github.com/kubernetes-sigs/kubectl-validate/issues/17)
+
+- [recursive schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/18)
+
+
+## openziti/ziti <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Handle GITHUB errors in quickstart](https://github.com/openziti/ziti/issues/1122)
+
+- [getZiti should not re-download the binary](https://github.com/openziti/ziti/issues/1116)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -61,6 +87,13 @@
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 
+## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
@@ -114,6 +147,11 @@
 - [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
 
 - [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## TBD54566975/ssi-service <span style='color:#F1C40F'>(125 ⭐️)</span>
@@ -184,13 +222,6 @@
 - [cli: generate account key if not specified](https://github.com/ChainSafe/gossamer/issues/3255)
 
 
-## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
@@ -249,9 +280,9 @@
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
 
-- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
-
 - [Implement `envtool version` command](https://github.com/FerretDB/FerretDB/issues/2684)
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
 
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
@@ -290,28 +321,4 @@
 ## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [feat(plugin): scaffold github workflow to test plugin](https://github.com/ignite/cli/issues/3495)
-
-
-## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
-
-- [Custom annotations to prometheus statefulset](https://github.com/prometheus-operator/prometheus-operator/issues/5536)
-
-
-## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.5K ⭐️)</span>
-
-- [README section 3](https://github.com/grpc-ecosystem/grpc-gateway/issues/3320)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## zeabur/zbpack <span style='color:#F1C40F'>(84 ⭐️)</span>
-
-- [elixir support](https://github.com/zeabur/zbpack/issues/44)
-
-- [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
-
-- [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
 
