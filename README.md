@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 06:32 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 06:42 UTC.</div>
+
+
+## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
+
+
+## shieldworks/aegis <span style='color:#F1C40F'>(26 ⭐️)</span>
+
+- [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
@@ -30,9 +45,11 @@
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
 
 
-## shieldworks/aegis <span style='color:#F1C40F'>(26 ⭐️)</span>
+## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
 
-- [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -75,11 +92,6 @@
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
 
-## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
-
-
 ## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
 
 - [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
@@ -94,6 +106,13 @@
 ## fyne-io/fyne <span style='color:#F1C40F'>(20.4K ⭐️)</span>
 
 - [Disabled password Entry should also disable the ActionItem (show/hide password)](https://github.com/fyne-io/fyne/issues/3908)
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.6K ⭐️)</span>
+
+- [[Feature]: Support CORS headers on OTEL HTTP endpoint](https://github.com/jaegertracing/jaeger/issues/4459)
+
+- [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
 
 
 ## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -159,11 +178,6 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
@@ -193,6 +207,11 @@
 - [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
 
 - [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
+
+- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
 
 
 ## ChainSafe/gossamer <span style='color:#F1C40F'>(386 ⭐️)</span>
@@ -274,18 +293,13 @@
 
 ## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
+- [wanted: cleanup logs](https://github.com/bnb-chain/bsc/issues/1650)
+
 - [wanted: specify single hard fork height in config.toml](https://github.com/bnb-chain/bsc/issues/1625)
 
 - [Faster than eth_getLogs?](https://github.com/bnb-chain/bsc/issues/1541)
 
 - [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
-
-- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## kubeshop/tracetest <span style='color:#F1C40F'>(550 ⭐️)</span>
@@ -341,14 +355,4 @@
 ## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
 
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.5K ⭐️)</span>
-
-- [3d sides don't respect theme](https://github.com/terrastruct/d2/issues/1337)
 
