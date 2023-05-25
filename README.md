@@ -4,37 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 11:32 UTC.</div>
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
-
-- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+<div align='center'>Last updated at May 25, 2023 11:42 UTC.</div>
 
 
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
@@ -48,6 +18,57 @@
 - [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
 
 - [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+
+## oboukili/terraform-provider-argocd <span style='color:#F1C40F'>(275 ⭐️)</span>
+
+- [support for `ignoreMissingValueFiles` helm application parameter](https://github.com/oboukili/terraform-provider-argocd/issues/287)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.8K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(515 ⭐️)</span>
+
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
+
+- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
@@ -257,6 +278,8 @@
 
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(11.0K ⭐️)</span>
 
+- [Feature:Deploy Server-side Through a Visual Web Interface.](https://github.com/OpenIMSDK/Open-IM-Server/issues/420)
+
 - [Feature: Expect a document bot](https://github.com/OpenIMSDK/Open-IM-Server/issues/393)
 
 - [Provides OpenIM document translation](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
@@ -304,21 +327,4 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## freiheit-com/kuberpult <span style='color:#F1C40F'>(19 ⭐️)</span>
-
-- [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
-
-
-## cometbft/cometbft <span style='color:#F1C40F'>(277 ⭐️)</span>
-
-- [Add Go API support to bootstrap node after it was state synced](https://github.com/cometbft/cometbft/issues/884)
-
-- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
-
-
-## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
-
-- [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
 
