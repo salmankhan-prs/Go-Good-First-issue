@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 21:12 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 21:22 UTC.</div>
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
@@ -42,16 +49,16 @@
 - [Inconsistency with Zeebe gateway defaults](https://github.com/camunda/camunda-platform-helm/issues/695)
 
 
-## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
-
-- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
-
-
 ## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
 
 - [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
+
+
+## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
@@ -131,18 +138,18 @@
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 
-## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
 ## TBD54566975/ssi-service <span style='color:#F1C40F'>(125 ⭐️)</span>
 
 - [PresentationAPI: Add list requests endpoint](https://github.com/TBD54566975/ssi-service/issues/479)
 
 - [Consistency across Create endpoints](https://github.com/TBD54566975/ssi-service/issues/469)
+
+
+## openziti/ziti <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Handle GITHUB errors in quickstart](https://github.com/openziti/ziti/issues/1122)
+
+- [getZiti should not re-download the binary](https://github.com/openziti/ziti/issues/1116)
 
 
 ## carvel-dev/kapp <span style='color:#F1C40F'>(760 ⭐️)</span>
@@ -178,6 +185,13 @@
 - [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
 
 
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
+
+
 ## chiselstrike/turso-cli <span style='color:#F1C40F'>(43 ⭐️)</span>
 
 - [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
@@ -195,6 +209,28 @@
 - [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
+
+- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
+
+
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
+
+- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
@@ -215,13 +251,6 @@
 - [Re-implement channels in ListObjects](https://github.com/openfga/openfga/issues/764)
 
 - [Cleanup 1.0 code](https://github.com/openfga/openfga/issues/771)
-
-
-## openziti/ziti <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Handle GITHUB errors in quickstart](https://github.com/openziti/ziti/issues/1122)
-
-- [getZiti should not re-download the binary](https://github.com/openziti/ziti/issues/1116)
 
 
 ## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -265,11 +294,6 @@
 - [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
 ## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
@@ -282,102 +306,4 @@
 - [[Doc] Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
 
 - [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
-
-
-## kubernetes-sigs/kubectl-validate <span style='color:#F1C40F'>(11 ⭐️)</span>
-
-- [Usage with kpt](https://github.com/kubernetes-sigs/kubectl-validate/issues/24)
-
-- [Validate from stdin](https://github.com/kubernetes-sigs/kubectl-validate/issues/32)
-
-- [Usage with CI?](https://github.com/kubernetes-sigs/kubectl-validate/issues/23)
-
-- [Debug Logging and Verbosity](https://github.com/kubernetes-sigs/kubectl-validate/issues/36)
-
-- [terminal output gif in readme](https://github.com/kubernetes-sigs/kubectl-validate/issues/14)
-
-- [OpenAPI v2 schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/15)
-
-- [GitHub downloader subject to rate limits](https://github.com/kubernetes-sigs/kubectl-validate/issues/17)
-
-- [recursive schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/18)
-
-
-## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
-
-- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
-
-
-## GoogleCloudPlatform/testgrid <span style='color:#F1C40F'>(173 ⭐️)</span>
-
-- [TestGrid API: Implement Dashboard Tab Endpoint](https://github.com/GoogleCloudPlatform/testgrid/issues/1200)
-
-- [TestGrid API: Dashboards should contain a reference to the group they belong to](https://github.com/GoogleCloudPlatform/testgrid/issues/1199)
-
-
-## cert-manager/cert-manager <span style='color:#F1C40F'>(10.4K ⭐️)</span>
-
-- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [Add CI check that auto-generated code is up to date.](https://github.com/ava-labs/avalanchego/issues/1553)
-
-- [Add clock skew metrics](https://github.com/ava-labs/avalanchego/issues/1542)
-
-- [Add P-chain config for cache sizes](https://github.com/ava-labs/avalanchego/issues/1522)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
-
-- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
-
-- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
-
-- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Adding ability to pass session tags (AWS provider)](https://github.com/external-secrets/external-secrets/issues/2343)
-
-- [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
-
-- [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
-
-- [Retrieving secret version isn't working with AWS Parameter Store](https://github.com/external-secrets/external-secrets/issues/2330)
-
-- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-
-## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
-
-- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
-
-
-## armadaproject/armada <span style='color:#F1C40F'>(318 ⭐️)</span>
-
-- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
-
-- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Update the notes for Ignition Bootstrap Configuration](https://github.com/kubernetes-sigs/cluster-api/issues/8745)
 
