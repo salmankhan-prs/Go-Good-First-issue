@@ -4,7 +4,76 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 20:02 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 20:12 UTC.</div>
+
+
+## kubeshop/tracetest <span style='color:#F1C40F'>(553 ⭐️)</span>
+
+- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
+
+
+## omerxx/fatbot <span style='color:#F1C40F'>(1 ⭐️)</span>
+
+- [Better ban message](https://github.com/omerxx/fatbot/issues/49)
+
+- [Improve workout reply](https://github.com/omerxx/fatbot/issues/36)
+
+- [Add user /stats](https://github.com/omerxx/fatbot/issues/22)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.9K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## qascade/dcr <span style='color:#F1C40F'>(13 ⭐️)</span>
+
+- [ci: propose an automated way to generate changelogs](https://github.com/qascade/dcr/issues/50)
+
+- [feat(service): automate csv assignment inside enclave.json](https://github.com/qascade/dcr/issues/45)
+
+- [fix(config): error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
+
+- [refactor: migrate the ego-server code from different repo to dcr](https://github.com/qascade/dcr/issues/40)
+
+- [test: make TestGraph tests strict](https://github.com/qascade/dcr/issues/53)
+
+- [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
+
+- [ci: a actions config to test ego apps on github.](https://github.com/qascade/dcr/issues/41)
+
+- [fix(adress): authorized Sorting failing on non-authorization ](https://github.com/qascade/dcr/issues/36)
+
+- [feat(config): enable use of relative addresses in config yaml. ](https://github.com/qascade/dcr/issues/33)
+
+- [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(43 ⭐️)</span>
+
+- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
+
+- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -52,11 +121,6 @@
 - [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
@@ -113,21 +177,9 @@
 - [3d sides don't respect theme](https://github.com/terrastruct/d2/issues/1337)
 
 
-## kubeshop/tracetest <span style='color:#F1C40F'>(553 ⭐️)</span>
-
-- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
-
-
 ## project-zot/zot <span style='color:#F1C40F'>(376 ⭐️)</span>
 
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
-
-
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(43 ⭐️)</span>
-
-- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
-
-- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(734 ⭐️)</span>
@@ -171,11 +223,15 @@
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
 
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
 
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
+
+- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
+
+- [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
 
 ## ray-project/kuberay <span style='color:#F1C40F'>(355 ⭐️)</span>
@@ -185,19 +241,6 @@
 - [[Doc] Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
 
 - [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.9K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -290,18 +333,4 @@
 - [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
 
 - [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-
-## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
-
-- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
-
-
-## TBD54566975/ssi-service <span style='color:#F1C40F'>(125 ⭐️)</span>
-
-- [PresentationAPI: Add list requests endpoint](https://github.com/TBD54566975/ssi-service/issues/479)
-
-- [Consistency across Create endpoints](https://github.com/TBD54566975/ssi-service/issues/469)
 
