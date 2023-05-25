@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 17:12 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 17:22 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
+
+- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -57,11 +75,6 @@
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
 
 - [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
@@ -85,9 +98,21 @@
 - [Make a better job at documenting that STUNner ignores the port in backend Services](https://github.com/l7mp/stunner/issues/87)
 
 
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+
+
 ## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
 
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
@@ -150,15 +175,26 @@
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.8K ⭐️)</span>
 
-- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
-
 - [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
 
 - [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
+
+- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -214,6 +250,11 @@
 - [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
 
 - [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(516 ⭐️)</span>
+
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
@@ -327,19 +368,4 @@
 - [Improve error response for invalid thing_id on bootstaping](https://github.com/mainflux/mainflux/issues/1801)
 
 - [CLI documentation references non-existent command](https://github.com/mainflux/mainflux/issues/1800)
-
-
-## kubeshop/tracetest <span style='color:#F1C40F'>(553 ⭐️)</span>
-
-- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
-
-
-## cert-manager/cert-manager <span style='color:#F1C40F'>(10.4K ⭐️)</span>
-
-- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
-
-
-## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
 
