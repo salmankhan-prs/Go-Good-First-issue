@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 07:12 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 07:22 UTC.</div>
 
 
 ## cometbft/cometbft <span style='color:#F1C40F'>(277 ⭐️)</span>
@@ -12,11 +12,6 @@
 - [Add Go API support to bootstrap node after it was state synced](https://github.com/cometbft/cometbft/issues/884)
 
 - [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
-
-
-## ChainSafe/gossamer <span style='color:#F1C40F'>(386 ⭐️)</span>
-
-- [cli: generate account key if not specified](https://github.com/ChainSafe/gossamer/issues/3255)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
@@ -28,6 +23,20 @@
 - [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## oceanbase/ob-operator <span style='color:#F1C40F'>(30 ⭐️)</span>
+
+- [[Feat.]: add proper event to show the key operation and errors](https://github.com/oceanbase/ob-operator/issues/38)
+
+- [optimize oceanbase connector manager cache](https://github.com/oceanbase/ob-operator/issues/36)
+
+- [optimize task manager](https://github.com/oceanbase/ob-operator/issues/37)
+
+
+## ChainSafe/gossamer <span style='color:#F1C40F'>(386 ⭐️)</span>
+
+- [cli: generate account key if not specified](https://github.com/ChainSafe/gossamer/issues/3255)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -314,22 +323,7 @@
 - [add vina to PLEX](https://github.com/labdao/plex/issues/294)
 
 
-## kubeshop/tracetest <span style='color:#F1C40F'>(550 ⭐️)</span>
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
-- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
-## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [feat(plugin): scaffold github workflow to test plugin](https://github.com/ignite/cli/issues/3495)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(734 ⭐️)</span>
-
-- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
