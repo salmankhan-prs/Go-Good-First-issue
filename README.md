@@ -4,7 +4,52 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 11:12 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 11:22 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
+
+- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+
+
+## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
+
+- [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
+
+- [Retrieving secret version isn't working with AWS Parameter Store](https://github.com/external-secrets/external-secrets/issues/2330)
+
+- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
+
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
@@ -17,18 +62,6 @@
 - [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
 ## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
@@ -38,6 +71,13 @@
 - [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
 
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
@@ -141,15 +181,6 @@
 - [bug: A record weighting is incorrect](https://github.com/Kuadrant/multicluster-gateway-controller/issues/192)
 
 
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
-
-- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
 ## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [Improve error response for invalid thing_id on bootstaping](https://github.com/mainflux/mainflux/issues/1801)
@@ -208,17 +239,6 @@
 - [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
 
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
@@ -306,24 +326,4 @@
 ## oboukili/terraform-provider-argocd <span style='color:#F1C40F'>(275 ⭐️)</span>
 
 - [support for `ignoreMissingValueFiles` helm application parameter](https://github.com/oboukili/terraform-provider-argocd/issues/287)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
-
-- [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
-
-- [Retrieving secret version isn't working with AWS Parameter Store](https://github.com/external-secrets/external-secrets/issues/2330)
-
-- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
 
