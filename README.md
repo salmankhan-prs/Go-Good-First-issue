@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 23:42 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 23:52 UTC.</div>
+
+
+## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
+
+- [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
+
+
+## googleapis/api-linter <span style='color:#F1C40F'>(470 ⭐️)</span>
+
+- [AIP-213: disallow cross-API dependencies](https://github.com/googleapis/api-linter/issues/1153)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -294,110 +304,4 @@
 ## labdao/plex <span style='color:#F1C40F'>(19 ⭐️)</span>
 
 - [add vina to PLEX](https://github.com/labdao/plex/issues/294)
-
-
-## TBD54566975/ssi-service <span style='color:#F1C40F'>(125 ⭐️)</span>
-
-- [PresentationAPI: Add list requests endpoint](https://github.com/TBD54566975/ssi-service/issues/479)
-
-- [Consistency across Create endpoints](https://github.com/TBD54566975/ssi-service/issues/469)
-
-
-## openziti/ziti <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Handle GITHUB errors in quickstart](https://github.com/openziti/ziti/issues/1122)
-
-- [getZiti should not re-download the binary](https://github.com/openziti/ziti/issues/1116)
-
-
-## carvel-dev/kapp <span style='color:#F1C40F'>(760 ⭐️)</span>
-
-- [`kapp app-group deploy` should order based on folder names](https://github.com/carvel-dev/kapp/issues/755)
-
-
-## kubeshop/tracetest <span style='color:#F1C40F'>(553 ⭐️)</span>
-
-- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
-
-
-## qascade/dcr <span style='color:#F1C40F'>(13 ⭐️)</span>
-
-- [ci: propose an automated way to generate changelogs](https://github.com/qascade/dcr/issues/50)
-
-- [feat(service): automate csv assignment inside enclave.json](https://github.com/qascade/dcr/issues/45)
-
-- [fix(config): error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
-
-- [refactor: migrate the ego-server code from different repo to dcr](https://github.com/qascade/dcr/issues/40)
-
-- [test: make TestGraph tests strict](https://github.com/qascade/dcr/issues/53)
-
-- [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
-
-- [ci: a actions config to test ego apps on github.](https://github.com/qascade/dcr/issues/41)
-
-- [fix(adress): authorized Sorting failing on non-authorization ](https://github.com/qascade/dcr/issues/36)
-
-- [feat(config): enable use of relative addresses in config yaml. ](https://github.com/qascade/dcr/issues/33)
-
-- [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(43 ⭐️)</span>
-
-- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
-
-- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
-
-- [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
-
-
-## openfga/openfga <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Add `build-tags: [functional]` to `.golangci.yaml`](https://github.com/openfga/openfga/issues/777)
-
-- [Fix docs for `./openfga migrate --timeout`](https://github.com/openfga/openfga/issues/774)
-
-- [Add functional tests for Write, ReadAssertions, Read, ReadChanges, ReadModel, ReadModels, DeleteStore, GetStore](https://github.com/openfga/openfga/issues/775)
-
-- [Remove `tests/listobjects_1_1_tests.yaml`](https://github.com/openfga/openfga/issues/768)
-
-- [Re-implement channels in ListObjects](https://github.com/openfga/openfga/issues/764)
-
-- [Cleanup 1.0 code](https://github.com/openfga/openfga/issues/771)
-
-
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.2K ⭐️)</span>
-
-- [Feature: OpenWrt specific cataloger](https://github.com/anchore/syft/issues/1847)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.5K ⭐️)</span>
-
-- [3d sides don't respect theme](https://github.com/terrastruct/d2/issues/1337)
 
