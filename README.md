@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 14:12 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 14:22 UTC.</div>
+
+
+## armadaproject/armada <span style='color:#F1C40F'>(316 ⭐️)</span>
+
+- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
+
+- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
+
+
+## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
+
+- [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
 
 
 ## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
@@ -78,26 +93,6 @@
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
-## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [deprecate clef and remove from released binaries](https://github.com/ethersphere/bee/issues/4100)
-
-
-## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
-
-- [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(515 ⭐️)</span>
-
-- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(515 ⭐️)</span>
-
-- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
-
-
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
 
 - [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
@@ -107,6 +102,16 @@
 - [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [deprecate clef and remove from released binaries](https://github.com/ethersphere/bee/issues/4100)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(515 ⭐️)</span>
+
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -289,6 +294,8 @@
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(178 ⭐️)</span>
 
+- [Create a helper function that generates an EDS directly from block data](https://github.com/celestiaorg/celestia-app/issues/1830)
+
 - [QGB docs cosmetics](https://github.com/celestiaorg/celestia-app/issues/1819)
 
 - [Un-export namespace slices and export getters](https://github.com/celestiaorg/celestia-app/issues/1809)
@@ -374,16 +381,4 @@
 ## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
 
 - [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
-
-
-## armadaproject/armada <span style='color:#F1C40F'>(316 ⭐️)</span>
-
-- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
