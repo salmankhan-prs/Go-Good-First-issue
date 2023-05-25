@@ -4,7 +4,48 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 09:42 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 09:52 UTC.</div>
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
+
+
+## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
+
+- [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
+
+- [Eventing TLS: Test PingSource with Broker as sink](https://github.com/knative/eventing/issues/6932)
+
+- [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
+
+- [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [[Question]: Cache list will crash if there is no cache file](https://github.com/k8sgpt-ai/k8sgpt/issues/453)
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+
+## cue-lang/cue <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [alpha.cuelang.org: add macOS to the trybot build matrix](https://github.com/cue-lang/cue/issues/2418)
+
+- [alpha.cuelang.org: upstream internal/parse](https://github.com/cue-lang/cue/issues/2387)
 
 
 ## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -12,6 +53,22 @@
 - [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
 
 - [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
+
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -44,6 +101,11 @@
 - [Update the notes for Ignition Bootstrap Configuration](https://github.com/kubernetes-sigs/cluster-api/issues/8745)
 
 
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
 ## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
 
 - [Custom annotations to prometheus statefulset](https://github.com/prometheus-operator/prometheus-operator/issues/5536)
@@ -60,11 +122,6 @@
 - [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
 
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -95,17 +152,6 @@
 - [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## oboukili/terraform-provider-argocd <span style='color:#F1C40F'>(275 ⭐️)</span>
 
 - [support for `ignoreMissingValueFiles` helm application parameter](https://github.com/oboukili/terraform-provider-argocd/issues/287)
@@ -120,16 +166,24 @@
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
+
+- [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
+
+- [Retrieving secret version isn't working with AWS Parameter Store](https://github.com/external-secrets/external-secrets/issues/2330)
+
+- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -184,11 +238,6 @@
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(11.0K ⭐️)</span>
 
 - [Feature: Expect a document bot](https://github.com/OpenIMSDK/Open-IM-Server/issues/393)
@@ -202,11 +251,6 @@
 - [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
 
 - [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(354 ⭐️)</span>
@@ -257,105 +301,4 @@
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
 
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
-## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
-
-- [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
-
-
-## grafana/k6-operator <span style='color:#F1C40F'>(371 ⭐️)</span>
-
-- [Image names should be more specific](https://github.com/grafana/k6-operator/issues/221)
-
-
-## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
-
-- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
-
-
-## oceanbase/ob-operator <span style='color:#F1C40F'>(30 ⭐️)</span>
-
-- [[Feat.]: add proper event to show the key operation and errors](https://github.com/oceanbase/ob-operator/issues/38)
-
-- [optimize oceanbase connector manager cache](https://github.com/oceanbase/ob-operator/issues/36)
-
-- [optimize task manager](https://github.com/oceanbase/ob-operator/issues/37)
-
-
-## ChainSafe/gossamer <span style='color:#F1C40F'>(386 ⭐️)</span>
-
-- [cli: generate account key if not specified](https://github.com/ChainSafe/gossamer/issues/3255)
-
-
-## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
-
-- [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
-
-- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
-
-- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
-
-
-## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
-
-
-## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [wanted: cleanup logs](https://github.com/bnb-chain/bsc/issues/1650)
-
-- [wanted: specify single hard fork height in config.toml](https://github.com/bnb-chain/bsc/issues/1625)
-
-- [Faster than eth_getLogs?](https://github.com/bnb-chain/bsc/issues/1541)
-
-- [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
-
-
-## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
-## shieldworks/aegis <span style='color:#F1C40F'>(26 ⭐️)</span>
-
-- [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
-
-
-## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Some code blocks are not rendered properly in the documentation's PipelineRuns page](https://github.com/tektoncd/pipeline/issues/6697)
-
-- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-
-## kubernetes/perf-tests <span style='color:#F1C40F'>(783 ⭐️)</span>
-
-- [Add measurement for running commands within in-cluster pods](https://github.com/kubernetes/perf-tests/issues/2262)
-
-
-## openfga/openfga <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Fix docs for `./openfga migrate --timeout`](https://github.com/openfga/openfga/issues/774)
-
-- [Add functional tests for Write, ReadAssertions, Read, ReadChanges, ReadModel, ReadModels, DeleteStore, GetStore](https://github.com/openfga/openfga/issues/775)
-
-- [Remove `tests/listobjects_1_1_tests.yaml`](https://github.com/openfga/openfga/issues/768)
-
-- [Re-implement channels in ListObjects](https://github.com/openfga/openfga/issues/764)
-
-- [Cleanup 1.0 code](https://github.com/openfga/openfga/issues/771)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
 
