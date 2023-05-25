@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 15:02 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 15:12 UTC.</div>
+
+
+## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [Custom annotations to prometheus statefulset](https://github.com/prometheus-operator/prometheus-operator/issues/5536)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(756 ⭐️)</span>
+
+- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(178 ⭐️)</span>
@@ -53,11 +68,6 @@
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
@@ -76,6 +86,11 @@
 ## kubeshop/tracetest <span style='color:#F1C40F'>(553 ⭐️)</span>
 
 - [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
+
+
+## cert-manager/cert-manager <span style='color:#F1C40F'>(10.4K ⭐️)</span>
+
+- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
@@ -221,6 +236,15 @@
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
 - [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
@@ -276,11 +300,6 @@
 - [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
 
 
-## cert-manager/cert-manager <span style='color:#F1C40F'>(10.4K ⭐️)</span>
-
-- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
-
-
 ## navidrome/navidrome <span style='color:#F1C40F'>(6.8K ⭐️)</span>
 
 - [Ignore playlist files beginning with "."](https://github.com/navidrome/navidrome/issues/2367)
@@ -334,20 +353,4 @@
 ## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
-
-- [Implement `envtool version` command](https://github.com/FerretDB/FerretDB/issues/2684)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
-
-- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
 
