@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 08:52 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 09:02 UTC.</div>
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
+
+- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+
+## freiheit-com/kuberpult <span style='color:#F1C40F'>(19 ⭐️)</span>
+
+- [Application Lock indicator matches with the wrong app](https://github.com/freiheit-com/kuberpult/issues/680)
 
 
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -118,6 +139,11 @@
 ## kairos-io/kairos <span style='color:#F1C40F'>(514 ⭐️)</span>
 
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Update the notes for Ignition Bootstrap Configuration](https://github.com/kubernetes-sigs/cluster-api/issues/8745)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -253,6 +279,42 @@
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 
+## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
+
+
+## openfga/openfga <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Fix docs for `./openfga migrate --timeout`](https://github.com/openfga/openfga/issues/774)
+
+- [Add functional tests for Write, ReadAssertions, Read, ReadChanges, ReadModel, ReadModels, DeleteStore, GetStore](https://github.com/openfga/openfga/issues/775)
+
+- [Remove `tests/listobjects_1_1_tests.yaml`](https://github.com/openfga/openfga/issues/768)
+
+- [Re-implement channels in ListObjects](https://github.com/openfga/openfga/issues/764)
+
+- [Cleanup 1.0 code](https://github.com/openfga/openfga/issues/771)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
+
+- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
+
+- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
+
+- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
+
+
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.6K ⭐️)</span>
 
 - [[Feature]: Support CORS headers on OTEL HTTP endpoint](https://github.com/jaegertracing/jaeger/issues/4459)
@@ -280,15 +342,6 @@
 - [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
 
 
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
-
-- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
 - [[Question]: Cache list will crash if there is no cache file](https://github.com/k8sgpt-ai/k8sgpt/issues/453)
@@ -300,14 +353,4 @@
 - [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
 
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
