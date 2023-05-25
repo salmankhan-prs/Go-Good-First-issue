@@ -4,17 +4,46 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 15:12 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 15:22 UTC.</div>
 
 
-## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+## kube-vip/kube-vip <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
-- [Custom annotations to prometheus statefulset](https://github.com/prometheus-operator/prometheus-operator/issues/5536)
+- [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
+
+- [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [Add Table of CLI Flags, Environment Variables, and Descriptions to Getting Started Guide](https://github.com/target/goalert/issues/3023)
+
+- [Add Service "Name" field to user notification webhook data.](https://github.com/target/goalert/issues/3009)
+
+
+## protoconf/protoconf <span style='color:#F1C40F'>(111 ⭐️)</span>
+
+- [TLS configuration for Protoconf gRPC servers](https://github.com/protoconf/protoconf/issues/325)
+
+- [Upgrade Valkeyrie to v1](https://github.com/protoconf/protoconf/issues/321)
+
+- [[Javascript] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/318)
+
+- [[Java] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/320)
+
+- [[rust] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/319)
+
+- [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
+
+
+## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [Custom annotations to prometheus statefulset](https://github.com/prometheus-operator/prometheus-operator/issues/5536)
 
 
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(756 ⭐️)</span>
@@ -83,6 +112,17 @@
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
+- [Implement `envtool version` command](https://github.com/FerretDB/FerretDB/issues/2684)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
 ## kubeshop/tracetest <span style='color:#F1C40F'>(553 ⭐️)</span>
 
 - [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
@@ -91,6 +131,11 @@
 ## cert-manager/cert-manager <span style='color:#F1C40F'>(10.4K ⭐️)</span>
 
 - [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
+
+
+## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
@@ -227,6 +272,11 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
 
 - [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
@@ -290,11 +340,6 @@
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(354 ⭐️)</span>
 
 - [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
@@ -348,9 +393,4 @@
 - [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
 
 - [Provides OpenIM document translation](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
-
-
-## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
 
