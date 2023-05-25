@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 01:22 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 01:32 UTC.</div>
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## containers/podman <span style='color:#F1C40F'>(17.9K ⭐️)</span>
@@ -16,11 +26,6 @@
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
 ## labdao/plex <span style='color:#F1C40F'>(19 ⭐️)</span>
 
 - [add vina to PLEX](https://github.com/labdao/plex/issues/294)
@@ -29,11 +34,6 @@
 ## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -71,6 +71,13 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
 ## TBD54566975/ssi-service <span style='color:#F1C40F'>(124 ⭐️)</span>
@@ -381,17 +388,4 @@
 ## tmc/langchaingo <span style='color:#F1C40F'>(250 ⭐️)</span>
 
 - [Feature Parity Matrix](https://github.com/tmc/langchaingo/issues/61)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
-
-- [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
-
-- [Retrieving secret version isn't working with AWS Parameter Store](https://github.com/external-secrets/external-secrets/issues/2330)
-
-- [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
 
