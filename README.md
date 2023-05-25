@@ -4,7 +4,29 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 15:42 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 15:52 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## cosmos/interchain-security <span style='color:#F1C40F'>(107 ⭐️)</span>
+
+- [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
+
+- [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
@@ -47,21 +69,11 @@
 - [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## kube-vip/kube-vip <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
 - [multiple instances removing wrong egress rules](https://github.com/kube-vip/kube-vip/issues/551)
 
 - [Remove /docs](https://github.com/kube-vip/kube-vip/issues/549)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
@@ -278,9 +290,27 @@
 - [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
 
 
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(43 ⭐️)</span>
+
+- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
+
+- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
+
+
 ## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
+
+
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
+
+- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
@@ -314,11 +344,6 @@
 - [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -364,14 +389,4 @@
 ## project-zot/zot <span style='color:#F1C40F'>(376 ⭐️)</span>
 
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(354 ⭐️)</span>
-
-- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
-
-
-## navidrome/navidrome <span style='color:#F1C40F'>(6.8K ⭐️)</span>
-
-- [Ignore playlist files beginning with "."](https://github.com/navidrome/navidrome/issues/2367)
 
