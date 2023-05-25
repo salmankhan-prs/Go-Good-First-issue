@@ -4,7 +4,47 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 16:12 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 16:22 UTC.</div>
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(354 ⭐️)</span>
+
+- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(4.8K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
+
+
+## chiselstrike/turso-cli <span style='color:#F1C40F'>(43 ⭐️)</span>
+
+- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
+
+- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
+
+
+## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [feat(plugin): scaffold github workflow to test plugin](https://github.com/ignite/cli/issues/3495)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -41,14 +81,18 @@
 - [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## navidrome/navidrome <span style='color:#F1C40F'>(6.8K ⭐️)</span>
 
 - [Ignore playlist files beginning with "."](https://github.com/navidrome/navidrome/issues/2367)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -77,15 +121,6 @@
 - [Custom annotations to prometheus statefulset](https://github.com/prometheus-operator/prometheus-operator/issues/5536)
 
 
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-
 ## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
 
 - [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
@@ -96,6 +131,11 @@
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
 ## kube-vip/kube-vip <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -130,31 +170,6 @@
 ## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(756 ⭐️)</span>
 
 - [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(178 ⭐️)</span>
-
-- [Create a helper function that generates an EDS directly from block data](https://github.com/celestiaorg/celestia-app/issues/1830)
-
-- [QGB docs cosmetics](https://github.com/celestiaorg/celestia-app/issues/1819)
-
-- [Un-export namespace slices and export getters](https://github.com/celestiaorg/celestia-app/issues/1809)
-
-- [Visual representation of share for share splitting tests](https://github.com/celestiaorg/celestia-app/issues/1789)
-
-- [[nit] Can we use `2*2` instead of `4` in the `generateShares(4)`, it is more clear how 4 is calculated and why.](https://github.com/celestiaorg/celestia-app/issues/1788)
-
-- [Godoc for TestMinDataAvailabilityHeader](https://github.com/celestiaorg/celestia-app/issues/1787)
-
-- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
-
-- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
-
-- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
-
-- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
-
-- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(178 ⭐️)</span>
@@ -327,13 +342,6 @@
 - [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
 
 
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(43 ⭐️)</span>
-
-- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
-
-- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
-
-
 ## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
@@ -348,9 +356,4 @@
 - [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
 
 - [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
-
-
-## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [deprecate clef and remove from released binaries](https://github.com/ethersphere/bee/issues/4100)
 
