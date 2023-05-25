@@ -4,7 +4,39 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 11:52 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 12:02 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
+
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
+- [Implement `envtool version` command](https://github.com/FerretDB/FerretDB/issues/2684)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
+
+- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -120,17 +152,6 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
 ## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
 
 - [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
@@ -186,11 +207,6 @@
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(734 ⭐️)</span>
 
 - [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
@@ -261,11 +277,6 @@
 ## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
-
-
-## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
-
-- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
 
 
 ## dapr/cli <span style='color:#F1C40F'>(282 ⭐️)</span>
