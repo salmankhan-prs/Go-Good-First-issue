@@ -4,12 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 24, 2023 23:52 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 00:02 UTC.</div>
 
 
-## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
-- [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## TBD54566975/ssi-service <span style='color:#F1C40F'>(124 ⭐️)</span>
@@ -17,6 +22,11 @@
 - [PresentationAPI: Add list requests endpoint](https://github.com/TBD54566975/ssi-service/issues/479)
 
 - [Consistency across Create endpoints](https://github.com/TBD54566975/ssi-service/issues/469)
+
+
+## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
+
+- [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -41,11 +51,6 @@
 ## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
 
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
@@ -164,11 +169,6 @@
 ## labdao/plex <span style='color:#F1C40F'>(19 ⭐️)</span>
 
 - [add vina to PLEX](https://github.com/labdao/plex/issues/294)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.3K ⭐️)</span>
