@@ -4,7 +4,60 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 09:22 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 09:32 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## cosmos/interchain-security <span style='color:#F1C40F'>(107 ⭐️)</span>
+
+- [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
+
+- [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
+
+- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Update the notes for Ignition Bootstrap Configuration](https://github.com/kubernetes-sigs/cluster-api/issues/8745)
+
+
+## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [Custom annotations to prometheus statefulset](https://github.com/prometheus-operator/prometheus-operator/issues/5536)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [Use Go versioninfo to embed Git version in dev executables](https://github.com/treeverse/lakeFS/issues/5954)
+
+- [feat request: looking for a way to initialise lakeFS without the UI](https://github.com/treeverse/lakeFS/issues/5947)
+
+- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
+
+- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -35,9 +88,15 @@
 - [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
 
 
-## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
 
-- [Custom annotations to prometheus statefulset](https://github.com/prometheus-operator/prometheus-operator/issues/5536)
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## oboukili/terraform-provider-argocd <span style='color:#F1C40F'>(275 ⭐️)</span>
@@ -59,24 +118,6 @@
 - [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
-
-- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
-
-- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
-
-- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
-
-- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
@@ -163,25 +204,9 @@
 - [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(354 ⭐️)</span>
 
 - [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## scriptnull/waymond <span style='color:#F1C40F'>(10 ⭐️)</span>
@@ -192,11 +217,6 @@
 ## kairos-io/kairos <span style='color:#F1C40F'>(514 ⭐️)</span>
 
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
-
-
-## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Update the notes for Ignition Bootstrap Configuration](https://github.com/kubernetes-sigs/cluster-api/issues/8745)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -344,11 +364,4 @@
 - [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
 
 - [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.6K ⭐️)</span>
-
-- [[Feature]: Support CORS headers on OTEL HTTP endpoint](https://github.com/jaegertracing/jaeger/issues/4459)
-
-- [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
 
