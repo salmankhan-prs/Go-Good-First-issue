@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 10:32 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 10:42 UTC.</div>
+
+
+## berops/claudie <span style='color:#F1C40F'>(241 ⭐️)</span>
+
+- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
+
+- [Streamline the "getting started" section in README.md](https://github.com/berops/claudie/issues/720)
 
 
 ## armadaproject/armada <span style='color:#F1C40F'>(316 ⭐️)</span>
@@ -30,6 +37,15 @@
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
+
+- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -80,6 +96,20 @@
 - [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
 
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+
+
+## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Improve error response for invalid thing_id on bootstaping](https://github.com/mainflux/mainflux/issues/1801)
+
+- [CLI documentation references non-existent command](https://github.com/mainflux/mainflux/issues/1800)
+
+
+## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Improve error response for invalid thing_id on bootstaping](https://github.com/mainflux/mainflux/issues/1801)
+
+- [CLI documentation references non-existent command](https://github.com/mainflux/mainflux/issues/1800)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
@@ -296,94 +326,4 @@
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
-
-- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
-
-
-## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(756 ⭐️)</span>
-
-- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
-
-
-## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
-
-- [`podman info` should include info about Pasta](https://github.com/containers/podman/issues/18561)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(354 ⭐️)</span>
-
-- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
-
-
-## scriptnull/waymond <span style='color:#F1C40F'>(10 ⭐️)</span>
-
-- [scaler(aws_ec2_asg): avoid multiple describe autoscaling group calls ](https://github.com/scriptnull/waymond/issues/21)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(514 ⭐️)</span>
-
-- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [bump github.com/prometheus/common from 0.43.0 to 0.44.0 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22721)
-
-- [Bump k8s.io/apimachinery from 0.27.1 to 0.27.2 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22719)
-
-- [[pkg/stanza] Do we need `flushUncombined` in the recombine operator?](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22140)
-
-- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-- [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
-## grafana/k6-operator <span style='color:#F1C40F'>(371 ⭐️)</span>
-
-- [Image names should be more specific](https://github.com/grafana/k6-operator/issues/221)
-
-
-## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
-
-- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
-
-
-## oceanbase/ob-operator <span style='color:#F1C40F'>(30 ⭐️)</span>
-
-- [[Feat.]: add proper event to show the key operation and errors](https://github.com/oceanbase/ob-operator/issues/38)
-
-- [optimize oceanbase connector manager cache](https://github.com/oceanbase/ob-operator/issues/36)
-
-- [optimize task manager](https://github.com/oceanbase/ob-operator/issues/37)
-
-
-## ChainSafe/gossamer <span style='color:#F1C40F'>(386 ⭐️)</span>
-
-- [cli: generate account key if not specified](https://github.com/ChainSafe/gossamer/issues/3255)
 
