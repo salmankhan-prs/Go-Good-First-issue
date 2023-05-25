@@ -4,12 +4,33 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 13:02 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 13:12 UTC.</div>
+
+
+## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
+
+- [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
 ## kubernetes/perf-tests <span style='color:#F1C40F'>(783 ⭐️)</span>
 
 - [Add measurement for running commands within in-cluster pods](https://github.com/kubernetes/perf-tests/issues/2262)
+
+
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
+
+- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
@@ -43,9 +64,13 @@
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
-## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
 
-- [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
+- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
+
+- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
+
+- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
 
 
 ## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
@@ -76,17 +101,6 @@
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
 
 - [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
-
-- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
@@ -302,11 +316,6 @@
 - [bug: A record weighting is incorrect](https://github.com/Kuadrant/multicluster-gateway-controller/issues/192)
 
 
-## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
-
-- [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
-
-
 ## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [Improve error response for invalid thing_id on bootstaping](https://github.com/mainflux/mainflux/issues/1801)
@@ -385,30 +394,4 @@
 - [Verify precision loss](https://github.com/base-org/pessimism/issues/58)
 
 - [Enforcing Function Header Comment Hygiene](https://github.com/base-org/pessimism/issues/40)
-
-
-## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(11.0K ⭐️)</span>
-
-- [Feature:  jssdk server optimize](https://github.com/OpenIMSDK/Open-IM-Server/issues/422)
-
-- [【RFC】Design of OpenIM Log Package Zap](https://github.com/OpenIMSDK/Open-IM-Server/issues/387)
-
-- [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
-
-- [Feature: Expect a document bot](https://github.com/OpenIMSDK/Open-IM-Server/issues/393)
-
-- [Feature:Deploy Server-side Through a Visual Web Interface.](https://github.com/OpenIMSDK/Open-IM-Server/issues/420)
-
-- [[Feature]: The open im flutter sdk supports the web/pc side](https://github.com/OpenIMSDK/Open-IM-Server/issues/386)
-
-- [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
-
-- [Provides OpenIM document translation](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
-
-
-## cosmos/interchain-security <span style='color:#F1C40F'>(107 ⭐️)</span>
-
-- [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
-
-- [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
 
