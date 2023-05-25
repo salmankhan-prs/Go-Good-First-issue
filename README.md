@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 00:32 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 00:42 UTC.</div>
 
 
 ## kubeshop/tracetest <span style='color:#F1C40F'>(550 ⭐️)</span>
@@ -409,11 +409,4 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## cometbft/cometbft <span style='color:#F1C40F'>(277 ⭐️)</span>
-
-- [Add Go API support to bootstrap node after it was state synced](https://github.com/cometbft/cometbft/issues/884)
-
-- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
 
