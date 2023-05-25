@@ -4,17 +4,27 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 15:52 UTC.</div>
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+<div align='center'>Last updated at May 25, 2023 16:02 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## navidrome/navidrome <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+
+- [Ignore playlist files beginning with "."](https://github.com/navidrome/navidrome/issues/2367)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## cosmos/interchain-security <span style='color:#F1C40F'>(107 ⭐️)</span>
@@ -154,11 +164,6 @@
 - [Allow app channel address to be passed via CLI](https://github.com/dapr/cli/issues/1281)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
 ## openziti/ziti <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [Handle GITHUB errors in quickstart](https://github.com/openziti/ziti/issues/1122)
@@ -290,13 +295,6 @@
 - [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
 
 
-## chiselstrike/turso-cli <span style='color:#F1C40F'>(43 ⭐️)</span>
-
-- [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
-
-- [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
-
-
 ## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
@@ -377,16 +375,4 @@
 - [[backend-js] Build an additional bundle importable via <script> tag](https://github.com/staticbackendhq/core/issues/81)
 
 - [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
-
-
-## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(376 ⭐️)</span>
-
-- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
