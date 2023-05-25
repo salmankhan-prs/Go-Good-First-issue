@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 23:22 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 23:32 UTC.</div>
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(734 ⭐️)</span>
+
+- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
@@ -274,11 +279,6 @@
 - [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(734 ⭐️)</span>
-
-- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
 
 
 ## labdao/plex <span style='color:#F1C40F'>(19 ⭐️)</span>
