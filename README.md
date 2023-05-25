@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 06:02 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 06:12 UTC.</div>
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -14,9 +14,9 @@
 
 ## openfga/openfga <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
-- [Add functional tests for Write, ReadAssertions, Read, ReadChanges, ReadModel, ReadModels, DeleteStore, GetStore](https://github.com/openfga/openfga/issues/775)
-
 - [Fix docs for `./openfga migrate --timeout`](https://github.com/openfga/openfga/issues/774)
+
+- [Add functional tests for Write, ReadAssertions, Read, ReadChanges, ReadModel, ReadModels, DeleteStore, GetStore](https://github.com/openfga/openfga/issues/775)
 
 - [Remove `tests/listobjects_1_1_tests.yaml`](https://github.com/openfga/openfga/issues/768)
 
