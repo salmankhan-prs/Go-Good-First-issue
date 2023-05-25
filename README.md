@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 04:32 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 04:42 UTC.</div>
+
+
+## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Create Code of Conduct and Contributing Guide](https://github.com/opencorelabs/fira/issues/64)
+
+- [min password length validation](https://github.com/opencorelabs/fira/issues/41)
+
+- [email verification security](https://github.com/opencorelabs/fira/issues/46)
+
+- [register with duplicate (correct) credentials should be a no-op](https://github.com/opencorelabs/fira/issues/60)
+
+- [request new verification token](https://github.com/opencorelabs/fira/issues/53)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
@@ -18,9 +36,13 @@
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
 
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
+
+- [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
@@ -354,11 +376,4 @@
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
-## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [Add Table of CLI Flags, Environment Variables, and Descriptions to Getting Started Guide](https://github.com/target/goalert/issues/3023)
-
-- [Add Service "Name" field to user notification webhook data.](https://github.com/target/goalert/issues/3009)
 
