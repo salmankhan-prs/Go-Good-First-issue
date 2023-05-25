@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 22:32 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 22:42 UTC.</div>
+
+
+## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
+
+- [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -88,6 +93,11 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
 
 - [Adding ability to pass session tags (AWS provider)](https://github.com/external-secrets/external-secrets/issues/2343)
@@ -142,13 +152,6 @@
 - [Add Service "Name" field to user notification webhook data.](https://github.com/target/goalert/issues/3009)
 
 
-## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [Add Table of CLI Flags, Environment Variables, and Descriptions to Getting Started Guide](https://github.com/target/goalert/issues/3023)
-
-- [Add Service "Name" field to user notification webhook data.](https://github.com/target/goalert/issues/3009)
-
-
 ## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
 
 - [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
@@ -171,11 +174,6 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
-
-- [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
 
 
 ## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
