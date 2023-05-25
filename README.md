@@ -4,25 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 17:22 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 17:32 UTC.</div>
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+## TBD54566975/ssi-service <span style='color:#F1C40F'>(125 ⭐️)</span>
 
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+- [PresentationAPI: Add list requests endpoint](https://github.com/TBD54566975/ssi-service/issues/479)
 
-
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
-
-- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
-
-- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
-
-- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
-
-- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
+- [Consistency across Create endpoints](https://github.com/TBD54566975/ssi-service/issues/469)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -48,6 +37,46 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 
+## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
+
+- [Better error messages for unauthorized PATs to private packages](https://github.com/sigstore/cosign/issues/2930)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
+## armadaproject/armada <span style='color:#F1C40F'>(317 ⭐️)</span>
+
+- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
+
+- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
+
+- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
+
+
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
@@ -68,11 +97,6 @@
 - [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
 
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
@@ -136,11 +160,6 @@
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
-## armadaproject/armada <span style='color:#F1C40F'>(317 ⭐️)</span>
-
-- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
-
-
 ## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
@@ -200,11 +219,6 @@
 ## ignite/cli <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [feat(plugin): scaffold github workflow to test plugin](https://github.com/ignite/cli/issues/3495)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
-
-- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
 
 
 ## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.5K ⭐️)</span>
@@ -361,11 +375,4 @@
 - [Handle GITHUB errors in quickstart](https://github.com/openziti/ziti/issues/1122)
 
 - [getZiti should not re-download the binary](https://github.com/openziti/ziti/issues/1116)
-
-
-## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [Improve error response for invalid thing_id on bootstaping](https://github.com/mainflux/mainflux/issues/1801)
-
-- [CLI documentation references non-existent command](https://github.com/mainflux/mainflux/issues/1800)
 
