@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 02:42 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 02:52 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
@@ -43,6 +43,11 @@
 - [[rust] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/319)
 
 - [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
@@ -103,6 +108,15 @@
 ## labdao/plex <span style='color:#F1C40F'>(19 ⭐️)</span>
 
 - [add vina to PLEX](https://github.com/labdao/plex/issues/294)
+
+
+## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [wanted: specify single hard fork height in config.toml](https://github.com/bnb-chain/bsc/issues/1625)
+
+- [Faster than eth_getLogs?](https://github.com/bnb-chain/bsc/issues/1541)
+
+- [v1.2.1 hangs for hours on exit](https://github.com/bnb-chain/bsc/issues/1544)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
@@ -242,11 +256,6 @@
 - [Pin version of grafana for Monitoring](https://github.com/rancher/opni/issues/1357)
 
 
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-
 ## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
@@ -382,9 +391,4 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## CycloneDX/sbom-utility <span style='color:#F1C40F'>(30 ⭐️)</span>
-
-- [Add flag to output JSON errors from the validate command](https://github.com/CycloneDX/sbom-utility/issues/26)
 
