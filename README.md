@@ -4,7 +4,61 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 08:42 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 08:52 UTC.</div>
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
+
+- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
+
+- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
+
+
+## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
+
+- [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
+
+
+## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(82 ⭐️)</span>
+
+- [Update "Intro to KLT"](https://github.com/keptn/lifecycle-toolkit/issues/1467)
+
+- [Add xrefs between yaml-crd-ref pages and crd-ref pages](https://github.com/keptn/lifecycle-toolkit/issues/1465)
+
+- [reflect StatefulSets and DaemonSets in "Integrate" page](https://github.com/keptn/lifecycle-toolkit/issues/1451)
+
+- [[research] Can KLT be run in code spaces & tutorial in Jupyter Notebooks](https://github.com/keptn/lifecycle-toolkit/issues/1441)
+
+- [Apps Page Text needs tweaked](https://github.com/keptn/lifecycle-toolkit/issues/1311)
+
+- [readme should point to website not repo](https://github.com/keptn/lifecycle-toolkit/issues/1327)
+
+- [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
+
+- [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
@@ -25,14 +79,14 @@
 - [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(354 ⭐️)</span>
@@ -61,19 +115,9 @@
 - [scaler(aws_ec2_asg): avoid multiple describe autoscaling group calls ](https://github.com/scriptnull/waymond/issues/21)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
 ## kairos-io/kairos <span style='color:#F1C40F'>(514 ⭐️)</span>
 
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
-
-
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -124,35 +168,11 @@
 - [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
 
 
-## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(82 ⭐️)</span>
-
-- [Update "Intro to KLT"](https://github.com/keptn/lifecycle-toolkit/issues/1467)
-
-- [Add xrefs between yaml-crd-ref pages and crd-ref pages](https://github.com/keptn/lifecycle-toolkit/issues/1465)
-
-- [reflect StatefulSets and DaemonSets in "Integrate" page](https://github.com/keptn/lifecycle-toolkit/issues/1451)
-
-- [[research] Can KLT be run in code spaces & tutorial in Jupyter Notebooks](https://github.com/keptn/lifecycle-toolkit/issues/1441)
-
-- [Apps Page Text needs tweaked](https://github.com/keptn/lifecycle-toolkit/issues/1311)
-
-- [readme should point to website not repo](https://github.com/keptn/lifecycle-toolkit/issues/1327)
-
-- [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
-
-- [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
-
-
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
 
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
 
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
-## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
-
-- [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
 
 
 ## cometbft/cometbft <span style='color:#F1C40F'>(277 ⭐️)</span>
@@ -233,49 +253,6 @@
 - [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 
-## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
-
-- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
-
-
-## openfga/openfga <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Fix docs for `./openfga migrate --timeout`](https://github.com/openfga/openfga/issues/774)
-
-- [Add functional tests for Write, ReadAssertions, Read, ReadChanges, ReadModel, ReadModels, DeleteStore, GetStore](https://github.com/openfga/openfga/issues/775)
-
-- [Remove `tests/listobjects_1_1_tests.yaml`](https://github.com/openfga/openfga/issues/768)
-
-- [Re-implement channels in ListObjects](https://github.com/openfga/openfga/issues/764)
-
-- [Cleanup 1.0 code](https://github.com/openfga/openfga/issues/771)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-- [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
-
-- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
-
-- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
-
-- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
-
-- [Add --format discard to `opa eval`](https://github.com/open-policy-agent/opa/issues/5863)
-
-
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.6K ⭐️)</span>
 
 - [[Feature]: Support CORS headers on OTEL HTTP endpoint](https://github.com/jaegertracing/jaeger/issues/4459)
@@ -325,14 +302,12 @@
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
-- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
 
 
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
-- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
