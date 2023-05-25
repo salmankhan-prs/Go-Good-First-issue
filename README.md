@@ -4,7 +4,33 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 23:02 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 23:12 UTC.</div>
+
+
+## protoconf/protoconf <span style='color:#F1C40F'>(112 ⭐️)</span>
+
+- [TLS configuration for Protoconf gRPC servers](https://github.com/protoconf/protoconf/issues/325)
+
+- [Upgrade Valkeyrie to v1](https://github.com/protoconf/protoconf/issues/321)
+
+- [[Javascript] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/318)
+
+- [[Java] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/320)
+
+- [[rust] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/319)
+
+- [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Adding ability to pass session tags (AWS provider)](https://github.com/external-secrets/external-secrets/issues/2343)
+
+- [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
+
+- [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
@@ -20,6 +46,15 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+
+
+## armadaproject/armada <span style='color:#F1C40F'>(318 ⭐️)</span>
+
+- [Replace Make targets with Mage targets](https://github.com/armadaproject/armada/issues/2511)
+
+- [Change the minimal version for Docker in Mage](https://github.com/armadaproject/armada/issues/2510)
+
+- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
 
 
 ## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
@@ -122,19 +157,6 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Adding ability to pass session tags (AWS provider)](https://github.com/external-secrets/external-secrets/issues/2343)
-
-- [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
-
-- [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
-
-- [Retrieving secret version isn't working with AWS Parameter Store](https://github.com/external-secrets/external-secrets/issues/2330)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
 
 
 ## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -310,20 +332,4 @@
 - [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
 
 - [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
-
-- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
