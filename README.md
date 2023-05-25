@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 10:42 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 10:52 UTC.</div>
+
+
+## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
+
+- [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
 
 
 ## berops/claudie <span style='color:#F1C40F'>(241 ⭐️)</span>
@@ -17,11 +22,6 @@
 ## armadaproject/armada <span style='color:#F1C40F'>(316 ⭐️)</span>
 
 - [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
-
-
-## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
-
-- [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(734 ⭐️)</span>
@@ -55,6 +55,11 @@
 - [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
 
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(521 ⭐️)</span>
@@ -96,13 +101,6 @@
 - [transfer.md is out of date](https://github.com/cri-o/cri-o/issues/6896)
 
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [Improve error response for invalid thing_id on bootstaping](https://github.com/mainflux/mainflux/issues/1801)
-
-- [CLI documentation references non-existent command](https://github.com/mainflux/mainflux/issues/1800)
 
 
 ## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -179,11 +177,6 @@
 - [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(11.0K ⭐️)</span>
@@ -316,14 +309,4 @@
 - [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
 
 - [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
 
