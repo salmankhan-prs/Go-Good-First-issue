@@ -4,7 +4,27 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 21:22 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 21:32 UTC.</div>
+
+
+## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
+
+- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
+
+- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
+
+- [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
+## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
+
+- [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
+
+- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
+
+- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
@@ -47,6 +67,11 @@
 ## camunda/camunda-platform-helm <span style='color:#F1C40F'>(45 ⭐️)</span>
 
 - [Inconsistency with Zeebe gateway defaults](https://github.com/camunda/camunda-platform-helm/issues/695)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
@@ -222,17 +247,6 @@
 - [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
-
-- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
-
-
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
 
 - [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
@@ -251,17 +265,6 @@
 - [Re-implement channels in ListObjects](https://github.com/openfga/openfga/issues/764)
 
 - [Cleanup 1.0 code](https://github.com/openfga/openfga/issues/771)
-
-
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
-
-- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
-
-- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
 
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
