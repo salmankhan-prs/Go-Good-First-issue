@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 12:32 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 12:42 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
@@ -408,11 +408,4 @@
 - [Add Go API support to bootstrap node after it was state synced](https://github.com/cometbft/cometbft/issues/884)
 
 - [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
