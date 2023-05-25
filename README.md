@@ -4,7 +4,32 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 17:52 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 18:02 UTC.</div>
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
+
+- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
+
+
+## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
+
+- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
+
+- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
+
+- [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
+## GoogleCloudPlatform/testgrid <span style='color:#F1C40F'>(173 ⭐️)</span>
+
+- [TestGrid API: Implement Dashboard Tab Endpoint](https://github.com/GoogleCloudPlatform/testgrid/issues/1200)
+
+- [TestGrid API: Dashboards should contain a reference to the group they belong to](https://github.com/GoogleCloudPlatform/testgrid/issues/1199)
 
 
 ## openfga/openfga <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -36,20 +61,23 @@
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
-
-- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
-
-- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
-
-
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [Add CI check that auto-generated code is up to date.](https://github.com/ava-labs/avalanchego/issues/1553)
+
+- [Add clock skew metrics](https://github.com/ava-labs/avalanchego/issues/1542)
+
+- [Add P-chain config for cache sizes](https://github.com/ava-labs/avalanchego/issues/1522)
 
 
 ## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
@@ -59,11 +87,6 @@
 - [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
 
 - [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
@@ -79,6 +102,11 @@
 - [pushsecrets crd error when disabled](https://github.com/external-secrets/external-secrets/issues/2257)
 
 - [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -146,11 +174,6 @@
 - [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
 
 - [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
@@ -183,6 +206,16 @@
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(757 ⭐️)</span>
+
+- [Otel-operator does not create clusterrole/ and clusterrole binding for otel-collector](https://github.com/open-telemetry/opentelemetry-operator/issues/1679)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
+
+
 ## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
 
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
@@ -200,13 +233,6 @@
 - [Add an option to run a SQL file with `turso db shell`](https://github.com/chiselstrike/turso-cli/issues/365)
 
 - [Add `turso plan update` command](https://github.com/chiselstrike/turso-cli/issues/410)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
@@ -288,23 +314,4 @@
 - [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
 
 - [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
-
-
-## shieldworks/aegis <span style='color:#F1C40F'>(26 ⭐️)</span>
-
-- [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
-
-
-## navidrome/navidrome <span style='color:#F1C40F'>(6.8K ⭐️)</span>
-
-- [Ignore playlist files beginning with "."](https://github.com/navidrome/navidrome/issues/2367)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
