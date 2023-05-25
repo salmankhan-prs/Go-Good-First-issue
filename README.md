@@ -4,7 +4,48 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 13:12 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 13:22 UTC.</div>
+
+
+## project-zot/zot <span style='color:#F1C40F'>(376 ⭐️)</span>
+
+- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(354 ⭐️)</span>
+
+- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
+
+
+## navidrome/navidrome <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+
+- [Ignore playlist files beginning with "."](https://github.com/navidrome/navidrome/issues/2367)
+
+
+## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(103 ⭐️)</span>
+
+- [KafkaSource: Define proper openAPIV3Schema for spec and status ](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3081)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
+
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
@@ -33,30 +74,18 @@
 - [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
 
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
 
+- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
 
-## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
@@ -64,25 +93,12 @@
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
-## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
-- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
-
-- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
-
-- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
+- [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
 
 
-## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
-
-- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
-
-- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
-
-- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
-
-
-## kubeshop/tracetest <span style='color:#F1C40F'>(551 ⭐️)</span>
+## kubeshop/tracetest <span style='color:#F1C40F'>(552 ⭐️)</span>
 
 - [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
 
@@ -119,11 +135,6 @@
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
 
-## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [KafkaSource: Define proper openAPIV3Schema for spec and status ](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3081)
-
-
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(178 ⭐️)</span>
 
 - [QGB docs cosmetics](https://github.com/celestiaorg/celestia-app/issues/1819)
@@ -145,11 +156,6 @@
 - [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
 
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(375 ⭐️)</span>
-
-- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
 
 ## nspcc-dev/neofs-node <span style='color:#F1C40F'>(31 ⭐️)</span>
@@ -373,25 +379,4 @@
 - [alpha.cuelang.org: add macOS to the trybot build matrix](https://github.com/cue-lang/cue/issues/2418)
 
 - [alpha.cuelang.org: upstream internal/parse](https://github.com/cue-lang/cue/issues/2387)
-
-
-## antrea-io/antrea <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [Support running `./hack/make-metrics-doc.sh` on macOS](https://github.com/antrea-io/antrea/issues/5012)
-
-- [[Windows] Additional line breaks exists when parsing NetNAT CIDR](https://github.com/antrea-io/antrea/issues/4915)
-
-
-## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
-
-- [Custom annotations to prometheus statefulset](https://github.com/prometheus-operator/prometheus-operator/issues/5536)
-
-
-## base-org/pessimism <span style='color:#F1C40F'>(441 ⭐️)</span>
-
-- [Add `Account.Balance` Backtesting Support](https://github.com/base-org/pessimism/issues/59)
-
-- [Verify precision loss](https://github.com/base-org/pessimism/issues/58)
-
-- [Enforcing Function Header Comment Hygiene](https://github.com/base-org/pessimism/issues/40)
 
