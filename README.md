@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 18:52 UTC.</div>
+<div align='center'>Last updated at May 25, 2023 19:02 UTC.</div>
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
 
 ## kubeshop/tracetest <span style='color:#F1C40F'>(553 ⭐️)</span>
@@ -32,6 +37,11 @@
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.6K ⭐️)</span>
@@ -65,6 +75,15 @@
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 - [UI: show message when log collection is disabled](https://github.com/hashicorp/nomad/issues/16986)
+
+
+## ray-project/kuberay <span style='color:#F1C40F'>(355 ⭐️)</span>
+
+- [[Bug][CI] Add tests to ensure that the `zz_generated.deepcopy.go` is up-to-date.](https://github.com/ray-project/kuberay/issues/1111)
+
+- [[Doc] Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
+
+- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.9K ⭐️)</span>
@@ -246,11 +265,6 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
 ## armadaproject/armada <span style='color:#F1C40F'>(318 ⭐️)</span>
 
 - [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
@@ -277,6 +291,11 @@
 - [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
 
 - [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
+
+
+## go-nostr/nostr <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Add support for a 'Top 8' follower/following](https://github.com/go-nostr/nostr/issues/140)
 
 
 ## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
