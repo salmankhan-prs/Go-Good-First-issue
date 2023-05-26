@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 11:22 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 11:32 UTC.</div>
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+
+## kubeshop/tracetest <span style='color:#F1C40F'>(553 ⭐️)</span>
+
+- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
 
 
 ## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(6.5K ⭐️)</span>
@@ -388,17 +402,4 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-
-## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Create Code of Conduct and Contributing Guide](https://github.com/opencorelabs/fira/issues/64)
-
-- [min password length validation](https://github.com/opencorelabs/fira/issues/41)
-
-- [email verification security](https://github.com/opencorelabs/fira/issues/46)
-
-- [register with duplicate (correct) credentials should be a no-op](https://github.com/opencorelabs/fira/issues/60)
-
-- [request new verification token](https://github.com/opencorelabs/fira/issues/53)
 
