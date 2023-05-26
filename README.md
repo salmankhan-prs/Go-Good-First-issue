@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 10:32 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 10:42 UTC.</div>
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
@@ -161,6 +161,11 @@
 - [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
 
 
+## grafana/pyroscope <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [[remoteWrite] add more info (like url) when showing errors](https://github.com/grafana/pyroscope/issues/1961)
+
+
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
@@ -198,11 +203,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
-## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
 
 
 ## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -303,9 +303,4 @@
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
 - [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
-
-- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
 
