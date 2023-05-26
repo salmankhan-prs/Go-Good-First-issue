@@ -4,12 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 16:02 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 16:12 UTC.</div>
 
 
 ## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(516 ⭐️)</span>
+
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
@@ -47,6 +52,11 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
+## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
+
+- [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
+
+
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
 
 - [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
@@ -67,6 +77,13 @@
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
 
 - [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
+
+
+## cosmos/interchain-security <span style='color:#F1C40F'>(107 ⭐️)</span>
+
+- [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
+
+- [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
 
 
 ## zeabur/zbpack <span style='color:#F1C40F'>(84 ⭐️)</span>
@@ -163,6 +180,11 @@
 ## navidrome/navidrome <span style='color:#F1C40F'>(6.8K ⭐️)</span>
 
 - [Ignore playlist files beginning with "."](https://github.com/navidrome/navidrome/issues/2367)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
@@ -268,11 +290,6 @@
 - [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
 
 
-## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
-
-- [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
-
-
 ## openfga/openfga <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [Add `build-tags: [functional]` to `.golangci.yaml`](https://github.com/openfga/openfga/issues/777)
@@ -286,21 +303,4 @@
 - [Re-implement channels in ListObjects](https://github.com/openfga/openfga/issues/764)
 
 - [Cleanup 1.0 code](https://github.com/openfga/openfga/issues/771)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## GoogleCloudPlatform/testgrid <span style='color:#F1C40F'>(173 ⭐️)</span>
-
-- [TestGrid API: Implement Dashboard Tab Endpoint](https://github.com/GoogleCloudPlatform/testgrid/issues/1200)
-
-- [TestGrid API: Dashboards should contain a reference to the group they belong to](https://github.com/GoogleCloudPlatform/testgrid/issues/1199)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
 
