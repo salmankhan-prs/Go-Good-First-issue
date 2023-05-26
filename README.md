@@ -4,7 +4,29 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 14:02 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 14:12 UTC.</div>
+
+
+## shieldworks/aegis <span style='color:#F1C40F'>(26 ⭐️)</span>
+
+- [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
+
+
+## berops/claudie <span style='color:#F1C40F'>(241 ⭐️)</span>
+
+- [Feature: label secrets produced by Claudie](https://github.com/berops/claudie/issues/816)
+
+- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
+
+
+## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
@@ -61,6 +83,15 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
+## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(104 ⭐️)</span>
+
+- [Eventing TLS: Create Cert-Manager resources for EKB components](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3107)
+
+- [Sources created before sourcev2 upgrade cause the source to be stuck on finalization](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3070)
+
+- [KafkaSource: Define proper openAPIV3Schema for spec and status ](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3081)
 
 
 ## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -349,26 +380,4 @@
 ## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
 
 - [Custom annotations to prometheus statefulset](https://github.com/prometheus-operator/prometheus-operator/issues/5536)
-
-
-## opencurve/curveadm <span style='color:#F1C40F'>(49 ⭐️)</span>
-
-- [[feat] support deploy minio-s3-gateway](https://github.com/opencurve/curveadm/issues/218)
-
-
-## filecoin-project/mir <span style='color:#F1C40F'>(31 ⭐️)</span>
-
-- [Inefficient slice lookup](https://github.com/filecoin-project/mir/issues/462)
-
-
-## loft-sh/vcluster <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Connecting to vcluster using vdir](https://github.com/loft-sh/vcluster/issues/1017)
-
-
-## cometbft/cometbft <span style='color:#F1C40F'>(277 ⭐️)</span>
-
-- [Add Go API support to bootstrap node after it was state synced](https://github.com/cometbft/cometbft/issues/884)
-
-- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
 
