@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 12:22 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 12:32 UTC.</div>
+
+
+## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [deprecate clef and remove from released binaries](https://github.com/ethersphere/bee/issues/4100)
 
 
 ## kubernetes/perf-tests <span style='color:#F1C40F'>(784 ⭐️)</span>
@@ -15,6 +20,13 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
+
+- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(83 ⭐️)</span>
@@ -64,13 +76,6 @@
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
-
-- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
 ## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
 
 - [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
@@ -97,6 +102,25 @@
 ## opencurve/curveadm <span style='color:#F1C40F'>(49 ⭐️)</span>
 
 - [[feat] support deploy minio-s3-gateway](https://github.com/opencurve/curveadm/issues/218)
+
+
+## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(11.0K ⭐️)</span>
+
+- [Feature:  jssdk server optimize](https://github.com/OpenIMSDK/Open-IM-Server/issues/422)
+
+- [【RFC】Design of OpenIM Log Package Zap](https://github.com/OpenIMSDK/Open-IM-Server/issues/387)
+
+- [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
+
+- [Feature: Expect a document bot](https://github.com/OpenIMSDK/Open-IM-Server/issues/393)
+
+- [Feature:Deploy Server-side Through a Visual Web Interface.](https://github.com/OpenIMSDK/Open-IM-Server/issues/420)
+
+- [[Feature]: The open im flutter sdk supports the web/pc side](https://github.com/OpenIMSDK/Open-IM-Server/issues/386)
+
+- [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
+
+- [Provides OpenIM document translation](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
 
 
 ## cometbft/cometbft <span style='color:#F1C40F'>(277 ⭐️)</span>
@@ -186,6 +210,11 @@
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
 
 - [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
+
+
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
@@ -345,25 +374,4 @@
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
 
 - [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
-
-- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
-
-- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
 
