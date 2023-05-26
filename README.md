@@ -4,7 +4,57 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 16:22 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 16:32 UTC.</div>
+
+
+## cue-lang/cue <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [alpha.cuelang.org: add macOS to the trybot build matrix](https://github.com/cue-lang/cue/issues/2418)
+
+- [alpha.cuelang.org: upstream internal/parse](https://github.com/cue-lang/cue/issues/2387)
+
+
+## Kuadrant/multicluster-gateway-controller <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [bug sometimes a zone will get created multiple times](https://github.com/Kuadrant/multicluster-gateway-controller/issues/180)
+
+- [bug: A record weighting is incorrect](https://github.com/Kuadrant/multicluster-gateway-controller/issues/192)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Implement `envtool tests shard` command](https://github.com/FerretDB/FerretDB/issues/2692)
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
+## rancher/opni <span style='color:#F1C40F'>(255 ⭐️)</span>
+
+- [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
+
+- [Panic encountered while watching data import progress:](https://github.com/rancher/opni/issues/1375)
+
+- [Data import Sending too large packets](https://github.com/rancher/opni/issues/1415)
+
+- [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
+
+- [Pin version of grafana for Monitoring](https://github.com/rancher/opni/issues/1357)
+
+
+## cosmos/interchain-security <span style='color:#F1C40F'>(107 ⭐️)</span>
+
+- [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
+
+- [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.7K ⭐️)</span>
@@ -89,11 +139,6 @@
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
 ## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
 
 - [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
@@ -114,13 +159,6 @@
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
 
 - [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
-
-
-## cosmos/interchain-security <span style='color:#F1C40F'>(107 ⭐️)</span>
-
-- [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
-
-- [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
 
 
 ## zeabur/zbpack <span style='color:#F1C40F'>(84 ⭐️)</span>
@@ -308,4 +346,87 @@
 - [[backend-js] Build an additional bundle importable via <script> tag](https://github.com/staticbackendhq/core/issues/81)
 
 - [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
+
+
+## berops/claudie <span style='color:#F1C40F'>(241 ⭐️)</span>
+
+- [Feature: label secrets produced by Claudie](https://github.com/berops/claudie/issues/816)
+
+- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
+
+
+## openfga/openfga <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Add `build-tags: [functional]` to `.golangci.yaml`](https://github.com/openfga/openfga/issues/777)
+
+- [Fix docs for `./openfga migrate --timeout`](https://github.com/openfga/openfga/issues/774)
+
+- [Add functional tests for Write, ReadAssertions, Read, ReadChanges, ReadModel, ReadModels, DeleteStore, GetStore](https://github.com/openfga/openfga/issues/775)
+
+- [Remove `tests/listobjects_1_1_tests.yaml`](https://github.com/openfga/openfga/issues/768)
+
+- [Re-implement channels in ListObjects](https://github.com/openfga/openfga/issues/764)
+
+- [Cleanup 1.0 code](https://github.com/openfga/openfga/issues/771)
+
+
+## GoogleCloudPlatform/testgrid <span style='color:#F1C40F'>(173 ⭐️)</span>
+
+- [TestGrid API: Implement Dashboard Tab Endpoint](https://github.com/GoogleCloudPlatform/testgrid/issues/1200)
+
+- [TestGrid API: Dashboards should contain a reference to the group they belong to](https://github.com/GoogleCloudPlatform/testgrid/issues/1199)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
+
+
+## TBD54566975/ssi-service <span style='color:#F1C40F'>(125 ⭐️)</span>
+
+- [PresentationAPI: Add list requests endpoint](https://github.com/TBD54566975/ssi-service/issues/479)
+
+- [Consistency across Create endpoints](https://github.com/TBD54566975/ssi-service/issues/469)
+
+
+## grafana/pyroscope <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [[remoteWrite] add more info (like url) when showing errors](https://github.com/grafana/pyroscope/issues/1961)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Adding ability to pass session tags (AWS provider)](https://github.com/external-secrets/external-secrets/issues/2343)
+
+- [ExternalSecret with name over 92 characters fails to sync with "Too long: must have at most 128 bytes" error](https://github.com/external-secrets/external-secrets/issues/2362)
+
+- [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
+
+- [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
+
+- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+
+## knative/eventing <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Eventing TLS: Test PingSource with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6914)
+
+- [Eventing TLS: Test SinkBinding with eventshub TLS receiver as sink](https://github.com/knative/eventing/issues/6916)
+
+- [Eventing TLS: Test PingSource with Broker as sink](https://github.com/knative/eventing/issues/6932)
+
+- [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
+
+- [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
 
