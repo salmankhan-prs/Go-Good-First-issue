@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 23:02 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 23:12 UTC.</div>
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -435,9 +435,4 @@
 ## go-nostr/nostr <span style='color:#F1C40F'>(5 ⭐️)</span>
 
 - [Add support for a 'Top 8' follower/following](https://github.com/go-nostr/nostr/issues/140)
-
-
-## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
-
-- [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
 
