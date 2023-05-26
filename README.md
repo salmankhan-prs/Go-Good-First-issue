@@ -4,17 +4,50 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 16:52 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 17:02 UTC.</div>
 
 
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
+- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(417 ⭐️)</span>
+
+- [Add custom scheduler support](https://github.com/fluent/fluent-operator/issues/758)
+
+- [Enable Fluentd Prometheus plugin](https://github.com/fluent/fluent-operator/issues/725)
+
+- [Add HPA support to Fluentd](https://github.com/fluent/fluent-operator/issues/739)
+
+- [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -64,16 +97,6 @@
 - [PresentationAPI: Add list requests endpoint](https://github.com/TBD54566975/ssi-service/issues/479)
 
 - [Consistency across Create endpoints](https://github.com/TBD54566975/ssi-service/issues/469)
-
-
-## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
@@ -162,9 +185,11 @@
 - [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
 
 
-## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
 
-- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
+- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -234,9 +259,9 @@
 
 ## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
-- [Add CI check that auto-generated code is up to date.](https://github.com/ava-labs/avalanchego/issues/1553)
-
 - [Add clock skew metrics](https://github.com/ava-labs/avalanchego/issues/1542)
+
+- [Add CI check that auto-generated code is up to date.](https://github.com/ava-labs/avalanchego/issues/1553)
 
 - [Add P-chain config for cache sizes](https://github.com/ava-labs/avalanchego/issues/1522)
 
@@ -302,124 +327,4 @@
 ## navidrome/navidrome <span style='color:#F1C40F'>(6.8K ⭐️)</span>
 
 - [Ignore playlist files beginning with "."](https://github.com/navidrome/navidrome/issues/2367)
-
-
-## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(521 ⭐️)</span>
-
-- [drop minio dep for go >= 1.21](https://github.com/celestiaorg/celestia-node/issues/2247)
-
-- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
-
-
-## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(104 ⭐️)</span>
-
-- [Eventing TLS: support exposing https address in KafkaChannel controller](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3110)
-
-- [Eventing TLS: migrate all resolver.URIResolver usages over to AddressableFromDestinationV1](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3109)
-
-- [Eventing TLS: support exposing https address in Kafka Broker controller](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3108)
-
-- [Eventing TLS: Create Cert-Manager resources for EKB components](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3107)
-
-- [Sources created before sourcev2 upgrade cause the source to be stuck on finalization](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3070)
-
-- [KafkaSource: Define proper openAPIV3Schema for spec and status ](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3081)
-
-
-## shieldworks/aegis <span style='color:#F1C40F'>(26 ⭐️)</span>
-
-- [there are minor go report card issues to be fixed](https://github.com/shieldworks/aegis/issues/309)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(178 ⭐️)</span>
-
-- [Create a helper function that generates an EDS directly from block data](https://github.com/celestiaorg/celestia-app/issues/1830)
-
-- [Un-export namespace slices and export getters](https://github.com/celestiaorg/celestia-app/issues/1809)
-
-- [Visual representation of share for share splitting tests](https://github.com/celestiaorg/celestia-app/issues/1789)
-
-- [[nit] Can we use `2*2` instead of `4` in the `generateShares(4)`, it is more clear how 4 is calculated and why.](https://github.com/celestiaorg/celestia-app/issues/1788)
-
-- [Godoc for TestMinDataAvailabilityHeader](https://github.com/celestiaorg/celestia-app/issues/1787)
-
-- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
-
-- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
-
-- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
-
-- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
-
-
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
-
-- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
-
-- [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
-
-
-## staticbackendhq/core <span style='color:#F1C40F'>(570 ⭐️)</span>
-
-- [[core & cli] Save dev database between CLI restart](https://github.com/staticbackendhq/core/issues/82)
-
-- [Add email interface to server-side function runtime](https://github.com/staticbackendhq/core/issues/84)
-
-- [[cli] Add a tail command to follow server logs](https://github.com/staticbackendhq/core/issues/85)
-
-- [[docs] A tutorial for Next.js](https://github.com/staticbackendhq/core/issues/83)
-
-- [[backend-js] Build an additional bundle importable via <script> tag](https://github.com/staticbackendhq/core/issues/81)
-
-- [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
-
-
-## berops/claudie <span style='color:#F1C40F'>(241 ⭐️)</span>
-
-- [Feature: label secrets produced by Claudie](https://github.com/berops/claudie/issues/816)
-
-- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
-
-
-## openfga/openfga <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Add `build-tags: [functional]` to `.golangci.yaml`](https://github.com/openfga/openfga/issues/777)
-
-- [Fix docs for `./openfga migrate --timeout`](https://github.com/openfga/openfga/issues/774)
-
-- [Add functional tests for Write, ReadAssertions, Read, ReadChanges, ReadModel, ReadModels, DeleteStore, GetStore](https://github.com/openfga/openfga/issues/775)
-
-- [Remove `tests/listobjects_1_1_tests.yaml`](https://github.com/openfga/openfga/issues/768)
-
-- [Re-implement channels in ListObjects](https://github.com/openfga/openfga/issues/764)
-
-- [Cleanup 1.0 code](https://github.com/openfga/openfga/issues/771)
-
-
-## GoogleCloudPlatform/testgrid <span style='color:#F1C40F'>(173 ⭐️)</span>
-
-- [TestGrid API: Implement Dashboard Tab Endpoint](https://github.com/GoogleCloudPlatform/testgrid/issues/1200)
-
-- [TestGrid API: Dashboards should contain a reference to the group they belong to](https://github.com/GoogleCloudPlatform/testgrid/issues/1199)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
 
