@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 05:32 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 05:42 UTC.</div>
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
@@ -295,4 +295,71 @@
 - [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
 
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+
+
+## kubernetes-sigs/aws-load-balancer-controller <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [Incorrect apiVersion for CertManager Issuer/Certificate ](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/3188)
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
+
+- [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
+
+
+## base-org/pessimism <span style='color:#F1C40F'>(442 ⭐️)</span>
+
+- [Add `Account.Balance` Backtesting Support](https://github.com/base-org/pessimism/issues/59)
+
+- [Verify precision loss](https://github.com/base-org/pessimism/issues/58)
+
+- [Enforcing Function Header Comment Hygiene](https://github.com/base-org/pessimism/issues/40)
+
+
+## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
+
+- [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
+
+
+## googleapis/api-linter <span style='color:#F1C40F'>(470 ⭐️)</span>
+
+- [AIP-213: disallow cross-API dependencies](https://github.com/googleapis/api-linter/issues/1153)
+
+
+## bank-vaults/vault-sdk <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [Increase lint timeout](https://github.com/bank-vaults/vault-sdk/issues/50)
+
+
+## protoconf/protoconf <span style='color:#F1C40F'>(112 ⭐️)</span>
+
+- [TLS configuration for Protoconf gRPC servers](https://github.com/protoconf/protoconf/issues/325)
+
+- [Upgrade Valkeyrie to v1](https://github.com/protoconf/protoconf/issues/321)
+
+- [[Javascript] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/318)
+
+- [[Java] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/320)
+
+- [[rust] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/319)
+
+- [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Adding ability to pass session tags (AWS provider)](https://github.com/external-secrets/external-secrets/issues/2343)
+
+- [ExternalSecret with name over 92 characters fails to sync with "Too long: must have at most 128 bytes" error](https://github.com/external-secrets/external-secrets/issues/2362)
+
+- [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
+
+- [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
+
+- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
