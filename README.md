@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 06:02 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 06:12 UTC.</div>
+
+
+## pipe-cd/pipecd <span style='color:#F1C40F'>(704 ⭐️)</span>
+
+- [kubectl apply with custom args (like --server-side) is not possible.](https://github.com/pipe-cd/pipecd/issues/4342)
 
 
 ## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
@@ -328,9 +333,4 @@
 ## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
 
 - [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
-
-
-## googleapis/api-linter <span style='color:#F1C40F'>(470 ⭐️)</span>
-
-- [AIP-213: disallow cross-API dependencies](https://github.com/googleapis/api-linter/issues/1153)
 
