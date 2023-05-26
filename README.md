@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 11:02 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 11:12 UTC.</div>
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(711 ⭐️)</span>
+
+- [(feature) Add go-feature-flag to scoop extra](https://github.com/thomaspoignant/go-feature-flag/issues/817)
+
+- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -15,13 +22,6 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(711 ⭐️)</span>
-
-- [(feature) Add go-feature-flag to scoop extra](https://github.com/thomaspoignant/go-feature-flag/issues/817)
-
-- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
