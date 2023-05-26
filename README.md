@@ -4,12 +4,48 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 14:32 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 14:42 UTC.</div>
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
+
+- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(521 ⭐️)</span>
+
+- [drop minio dep for go >= 1.21](https://github.com/celestiaorg/celestia-node/issues/2247)
+
+- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
 
 
 ## goravel/goravel <span style='color:#F1C40F'>(799 ⭐️)</span>
@@ -18,6 +54,8 @@
 
 
 ## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(104 ⭐️)</span>
+
+- [Eventing TLS: support exposing https address in KafkaChannel controller](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3110)
 
 - [Eventing TLS: migrate all resolver.URIResolver usages over to AddressableFromDestinationV1](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3109)
 
@@ -56,11 +94,6 @@
 - [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## shieldworks/aegis <span style='color:#F1C40F'>(26 ⭐️)</span>
@@ -124,13 +157,6 @@
 - [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
-
-- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
@@ -187,11 +213,6 @@
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
 
 
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(4.9K ⭐️)</span>
 
 - [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
@@ -245,11 +266,6 @@
 - [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
 
 - [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
-
-
-## cert-manager/cert-manager <span style='color:#F1C40F'>(10.4K ⭐️)</span>
-
-- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
 
 
 ## cert-manager/cert-manager <span style='color:#F1C40F'>(10.4K ⭐️)</span>
@@ -348,21 +364,4 @@
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
 
 - [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
-
-
-## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [deprecate clef and remove from released binaries](https://github.com/ethersphere/bee/issues/4100)
-
-
-## kubernetes/perf-tests <span style='color:#F1C40F'>(784 ⭐️)</span>
-
-- [Add measurement for running commands within in-cluster pods](https://github.com/kubernetes/perf-tests/issues/2262)
-
-
-## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
