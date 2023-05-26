@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 15:42 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 15:52 UTC.</div>
+
+
+## go-nostr/nostr <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Add support for a 'Top 8' follower/following](https://github.com/go-nostr/nostr/issues/140)
+
+
+## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
+
+- [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
+
+
+## kubeshop/tracetest <span style='color:#F1C40F'>(553 ⭐️)</span>
+
+- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
 
 
 ## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
@@ -19,6 +34,15 @@
 - [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
 
 - [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
+
+
+## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [Add CI check that auto-generated code is up to date.](https://github.com/ava-labs/avalanchego/issues/1553)
+
+- [Add clock skew metrics](https://github.com/ava-labs/avalanchego/issues/1542)
+
+- [Add P-chain config for cache sizes](https://github.com/ava-labs/avalanchego/issues/1522)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -36,16 +60,27 @@
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
-## go-nostr/nostr <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Add support for a 'Top 8' follower/following](https://github.com/go-nostr/nostr/issues/140)
-
-
 ## chainloop-dev/chainloop <span style='color:#F1C40F'>(182 ⭐️)</span>
 
 - [deployment: split sentry configuration](https://github.com/chainloop-dev/chainloop/issues/104)
 
 - [chart: improve installation output (notes.md) ](https://github.com/chainloop-dev/chainloop/issues/97)
+
+
+## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [Do not fail when dependency SHA cannot be read from file](https://github.com/konveyor/analyzer-lsp/issues/175)
+
+- [Clean up Engine Logs](https://github.com/konveyor/analyzer-lsp/issues/156)
+
+- [Change dependency output into a list by provider](https://github.com/konveyor/analyzer-lsp/issues/140)
+
+- [Add progress reporting showing statistics on total rules parsed, completed, matched, and failed](https://github.com/konveyor/analyzer-lsp/issues/132)
+
+
+## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [Custom annotations to prometheus statefulset](https://github.com/prometheus-operator/prometheus-operator/issues/5536)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(734 ⭐️)</span>
@@ -190,8 +225,6 @@
 
 - [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
 
-- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
-
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
 
 
@@ -278,46 +311,4 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-
-## grafana/pyroscope <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [[remoteWrite] add more info (like url) when showing errors](https://github.com/grafana/pyroscope/issues/1961)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Adding ability to pass session tags (AWS provider)](https://github.com/external-secrets/external-secrets/issues/2343)
-
-- [ExternalSecret with name over 92 characters fails to sync with "Too long: must have at most 128 bytes" error](https://github.com/external-secrets/external-secrets/issues/2362)
-
-- [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
-
-- [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
-
-- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
-
-- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
-
-- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
 
