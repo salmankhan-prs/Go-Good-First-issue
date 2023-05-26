@@ -4,25 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 12:02 UTC.</div>
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+<div align='center'>Last updated at May 26, 2023 12:12 UTC.</div>
 
 
 ## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(83 ⭐️)</span>
@@ -44,9 +26,62 @@
 - [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
 
 
+## kubeshop/tracetest <span style='color:#F1C40F'>(553 ⭐️)</span>
+
+- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
+
+
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(178 ⭐️)</span>
+
+- [Create a helper function that generates an EDS directly from block data](https://github.com/celestiaorg/celestia-app/issues/1830)
+
+- [Un-export namespace slices and export getters](https://github.com/celestiaorg/celestia-app/issues/1809)
+
+- [Visual representation of share for share splitting tests](https://github.com/celestiaorg/celestia-app/issues/1789)
+
+- [[nit] Can we use `2*2` instead of `4` in the `generateShares(4)`, it is more clear how 4 is calculated and why.](https://github.com/celestiaorg/celestia-app/issues/1788)
+
+- [Godoc for TestMinDataAvailabilityHeader](https://github.com/celestiaorg/celestia-app/issues/1787)
+
+- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
+
+- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
+
+- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
+
+- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
+
+- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
+
+- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
 ## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
 
 - [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
+
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## opencurve/curveadm <span style='color:#F1C40F'>(49 ⭐️)</span>
@@ -88,11 +123,6 @@
 - [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
 
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-
-## kubeshop/tracetest <span style='color:#F1C40F'>(553 ⭐️)</span>
-
-- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
 
 
 ## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(6.5K ⭐️)</span>
@@ -153,13 +183,6 @@
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
-
-- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
 ## nspcc-dev/neofs-node <span style='color:#F1C40F'>(31 ⭐️)</span>
 
 - [Add histograms for request metrics](https://github.com/nspcc-dev/neofs-node/issues/2351)
@@ -177,29 +200,6 @@
 - [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
 
 - [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(178 ⭐️)</span>
-
-- [Create a helper function that generates an EDS directly from block data](https://github.com/celestiaorg/celestia-app/issues/1830)
-
-- [Un-export namespace slices and export getters](https://github.com/celestiaorg/celestia-app/issues/1809)
-
-- [Visual representation of share for share splitting tests](https://github.com/celestiaorg/celestia-app/issues/1789)
-
-- [[nit] Can we use `2*2` instead of `4` in the `generateShares(4)`, it is more clear how 4 is calculated and why.](https://github.com/celestiaorg/celestia-app/issues/1788)
-
-- [Godoc for TestMinDataAvailabilityHeader](https://github.com/celestiaorg/celestia-app/issues/1787)
-
-- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
-
-- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
-
-- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
-
-- [Create a function that calculates the max padding for a blob](https://github.com/celestiaorg/celestia-app/issues/1660)
-
-- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
 
 
 ## kubernetes/perf-tests <span style='color:#F1C40F'>(784 ⭐️)</span>
@@ -380,27 +380,4 @@
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
 
 - [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
-
-- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
-
-- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
-
-- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
-
-- [Option to create namespace without setting it as current](https://github.com/okteto/okteto/issues/3579)
-
-
-## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
-## vmware-tanzu/pinniped <span style='color:#F1C40F'>(415 ⭐️)</span>
-
-- [Add requirement for kube-apiserver not including `--anonymous-auth=false` flag to Concierge docs (when impersonation proxy is not being used)](https://github.com/vmware-tanzu/pinniped/issues/1512)
 
