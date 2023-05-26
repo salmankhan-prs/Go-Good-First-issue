@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 05:12 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 05:22 UTC.</div>
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
@@ -369,17 +369,4 @@
 ## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
 
 - [Custom annotations to prometheus statefulset](https://github.com/prometheus-operator/prometheus-operator/issues/5536)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.9K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
