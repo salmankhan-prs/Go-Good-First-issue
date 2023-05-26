@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 03:12 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 03:22 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
@@ -302,13 +302,4 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## armadaproject/armada <span style='color:#F1C40F'>(318 ⭐️)</span>
-
-- [Replace Make targets with Mage targets](https://github.com/armadaproject/armada/issues/2511)
-
-- [Change the minimal version for Docker in Mage](https://github.com/armadaproject/armada/issues/2510)
-
-- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
 
