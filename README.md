@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 15:22 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 15:32 UTC.</div>
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
@@ -12,9 +17,26 @@
 - [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
 
 
-## bank-vaults/vault-sdk <span style='color:#F1C40F'>(2 ⭐️)</span>
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
-- [Replace Azure MSI library](https://github.com/bank-vaults/vault-sdk/issues/53)
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## go-nostr/nostr <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Add support for a 'Top 8' follower/following](https://github.com/go-nostr/nostr/issues/140)
+
+
+## chainloop-dev/chainloop <span style='color:#F1C40F'>(182 ⭐️)</span>
+
+- [deployment: split sentry configuration](https://github.com/chainloop-dev/chainloop/issues/104)
+
+- [chart: improve installation output (notes.md) ](https://github.com/chainloop-dev/chainloop/issues/97)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(734 ⭐️)</span>
@@ -57,6 +79,11 @@
 - [API Tests: Dataset/Model Log API tests](https://github.com/PuremlHQ/PureML/issues/224)
 
 
+## navidrome/navidrome <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+
+- [Ignore playlist files beginning with "."](https://github.com/navidrome/navidrome/issues/2367)
+
+
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
 
 - [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
@@ -69,21 +96,9 @@
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
-## chainloop-dev/chainloop <span style='color:#F1C40F'>(182 ⭐️)</span>
-
-- [deployment: split sentry configuration](https://github.com/chainloop-dev/chainloop/issues/104)
-
-- [chart: improve installation output (notes.md) ](https://github.com/chainloop-dev/chainloop/issues/97)
-
-
 ## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
 
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
@@ -91,11 +106,6 @@
 - [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(521 ⭐️)</span>
@@ -221,13 +231,6 @@
 - [TestGrid API: Dashboards should contain a reference to the group they belong to](https://github.com/GoogleCloudPlatform/testgrid/issues/1199)
 
 
-## GoogleCloudPlatform/testgrid <span style='color:#F1C40F'>(173 ⭐️)</span>
-
-- [TestGrid API: Implement Dashboard Tab Endpoint](https://github.com/GoogleCloudPlatform/testgrid/issues/1200)
-
-- [TestGrid API: Dashboards should contain a reference to the group they belong to](https://github.com/GoogleCloudPlatform/testgrid/issues/1199)
-
-
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
@@ -306,42 +309,4 @@
 - [Eventing TLS: Test SinkBinding with Broker as sink](https://github.com/knative/eventing/issues/6938)
 
 - [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
-
-
-## cert-manager/cert-manager <span style='color:#F1C40F'>(10.4K ⭐️)</span>
-
-- [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
-
-
-## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(11.0K ⭐️)</span>
-
-- [Feature:  jssdk server optimize](https://github.com/OpenIMSDK/Open-IM-Server/issues/422)
-
-- [【RFC】Design of OpenIM Log Package Zap](https://github.com/OpenIMSDK/Open-IM-Server/issues/387)
-
-- [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
-
-- [Feature: Expect a document bot](https://github.com/OpenIMSDK/Open-IM-Server/issues/393)
-
-- [Feature:Deploy Server-side Through a Visual Web Interface.](https://github.com/OpenIMSDK/Open-IM-Server/issues/420)
-
-- [[Feature]: The open im flutter sdk supports the web/pc side](https://github.com/OpenIMSDK/Open-IM-Server/issues/386)
-
-- [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
-
-- [Provides OpenIM document translation](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(711 ⭐️)</span>
-
-- [(feature) doc create a all docs version page](https://github.com/thomaspoignant/go-feature-flag/issues/830)
-
-- [(feature) Add go-feature-flag to scoop extra](https://github.com/thomaspoignant/go-feature-flag/issues/817)
-
-- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
-
-
-## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
-
-- [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
 
