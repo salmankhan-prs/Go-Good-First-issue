@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 04:52 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 05:02 UTC.</div>
+
+
+## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Create Code of Conduct and Contributing Guide](https://github.com/opencorelabs/fira/issues/64)
+
+- [min password length validation](https://github.com/opencorelabs/fira/issues/41)
+
+- [email verification security](https://github.com/opencorelabs/fira/issues/46)
+
+- [register with duplicate (correct) credentials should be a no-op](https://github.com/opencorelabs/fira/issues/60)
+
+- [request new verification token](https://github.com/opencorelabs/fira/issues/53)
+
+
+## kubernetes-sigs/cluster-api <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Update the notes for Ignition Bootstrap Configuration](https://github.com/kubernetes-sigs/cluster-api/issues/8745)
 
 
 ## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(104 ⭐️)</span>
@@ -369,13 +387,4 @@
 ## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
 
 - [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
-
-- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
-
-- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
-
-- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
 
