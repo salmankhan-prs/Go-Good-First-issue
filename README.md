@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 06:42 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 06:52 UTC.</div>
 
 
 ## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -23,6 +23,11 @@
 ## carvel-dev/kapp <span style='color:#F1C40F'>(760 ⭐️)</span>
 
 - [`kapp app-group deploy` should order based on folder names](https://github.com/carvel-dev/kapp/issues/755)
+
+
+## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
 
 
 ## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
@@ -191,11 +196,6 @@
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
-## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
-
-
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
@@ -280,4 +280,87 @@
 - [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
 
 - [Provides OpenIM document translation](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(734 ⭐️)</span>
+
+- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(13.5K ⭐️)</span>
+
+- [3d sides don't respect theme](https://github.com/terrastruct/d2/issues/1337)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [bump github.com/prometheus/common from 0.43.0 to 0.44.0 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22721)
+
+- [Bump k8s.io/apimachinery from 0.27.1 to 0.27.2 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22719)
+
+- [[pkg/stanza] Do we need `flushUncombined` in the recombine operator?](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22140)
+
+- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
+
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+
+## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Implement `envtool version` command](https://github.com/FerretDB/FerretDB/issues/2684)
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
+## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
+
+- [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
+
+- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
