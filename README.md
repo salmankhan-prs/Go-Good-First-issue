@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 25, 2023 23:52 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 00:02 UTC.</div>
+
+
+## base-org/pessimism <span style='color:#F1C40F'>(441 ⭐️)</span>
+
+- [Add `Account.Balance` Backtesting Support](https://github.com/base-org/pessimism/issues/59)
+
+- [Verify precision loss](https://github.com/base-org/pessimism/issues/58)
+
+- [Enforcing Function Header Comment Hygiene](https://github.com/base-org/pessimism/issues/40)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 
 ## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
