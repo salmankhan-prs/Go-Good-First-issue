@@ -4,7 +4,29 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 20:02 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 20:12 UTC.</div>
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.2K ⭐️)</span>
+
+- [Feature: OpenWrt specific cataloger](https://github.com/anchore/syft/issues/1847)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(516 ⭐️)</span>
+
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
+
+- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## kubeshop/tracetest <span style='color:#F1C40F'>(553 ⭐️)</span>
@@ -38,11 +60,6 @@
 - [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
 
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -91,13 +108,6 @@
 - [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
 
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(14.9K ⭐️)</span>
-
-- [`dolt_diff_summary` system table should hide tables ignored by `dolt_ignore`](https://github.com/dolthub/dolt/issues/5861)
-
-- [Add alternative to `dolt_status` system table that includes tables ignored by system_ignore](https://github.com/dolthub/dolt/issues/5862)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -353,11 +363,6 @@
 - [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
 
 - [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(516 ⭐️)</span>
-
-- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
 
 ## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
