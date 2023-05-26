@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 02:32 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 02:42 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
+
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(734 ⭐️)</span>
@@ -76,13 +87,6 @@
 - [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
-
-- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
 ## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
@@ -91,32 +95,6 @@
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.5K ⭐️)</span>
-
-- [3d sides don't respect theme](https://github.com/terrastruct/d2/issues/1337)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
-
-
-## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
-
-- [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
 
 
 ## openfga/openfga <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -132,6 +110,23 @@
 - [Re-implement channels in ListObjects](https://github.com/openfga/openfga/issues/764)
 
 - [Cleanup 1.0 code](https://github.com/openfga/openfga/issues/771)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(13.5K ⭐️)</span>
+
+- [3d sides don't respect theme](https://github.com/terrastruct/d2/issues/1337)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
+
+- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -161,6 +156,11 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## goravel/goravel <span style='color:#F1C40F'>(799 ⭐️)</span>
+
+- [✨ [Feature] Filesystem Driver ReadStream & WriteStream analogues](https://github.com/goravel/goravel/issues/127)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
