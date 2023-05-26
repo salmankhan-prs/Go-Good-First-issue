@@ -4,7 +4,37 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 05:42 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 05:52 UTC.</div>
+
+
+## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+
+## ray-project/kuberay <span style='color:#F1C40F'>(355 ⭐️)</span>
+
+- [[Bug][CI] Add tests to ensure that the `zz_generated.deepcopy.go` is up-to-date.](https://github.com/ray-project/kuberay/issues/1111)
+
+- [[Doc] Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
+
+- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
+
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
@@ -28,17 +58,6 @@
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -76,11 +95,6 @@
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.7K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
@@ -91,11 +105,6 @@
 - [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -119,6 +128,13 @@
 - [module.git should support authentication](https://github.com/grafana/agent/issues/3694)
 
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(11.0K ⭐️)</span>
@@ -290,13 +306,6 @@
 - [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
 
 
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
 ## kubernetes-sigs/aws-load-balancer-controller <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [Incorrect apiVersion for CertManager Issuer/Certificate ](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/3188)
@@ -307,7 +316,7 @@
 - [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
 
 
-## base-org/pessimism <span style='color:#F1C40F'>(442 ⭐️)</span>
+## base-org/pessimism <span style='color:#F1C40F'>(443 ⭐️)</span>
 
 - [Add `Account.Balance` Backtesting Support](https://github.com/base-org/pessimism/issues/59)
 
@@ -344,22 +353,4 @@
 - [[rust] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/319)
 
 - [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Adding ability to pass session tags (AWS provider)](https://github.com/external-secrets/external-secrets/issues/2343)
-
-- [ExternalSecret with name over 92 characters fails to sync with "Too long: must have at most 128 bytes" error](https://github.com/external-secrets/external-secrets/issues/2362)
-
-- [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
-
-- [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
-
-- [Help finding a way to store Etags between requests](https://github.com/external-secrets/external-secrets/issues/2267)
-
-
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
