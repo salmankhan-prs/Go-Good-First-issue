@@ -4,12 +4,24 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 14:52 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 15:02 UTC.</div>
 
 
 ## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
+
+- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## bank-vaults/vault-sdk <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [Replace Azure MSI library](https://github.com/bank-vaults/vault-sdk/issues/53)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
@@ -44,13 +56,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
-
-- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(521 ⭐️)</span>
@@ -331,20 +336,4 @@
 - [Check if the connection to a Kubernetes Cluster is available before running tests](https://github.com/celestiaorg/knuu/issues/30)
 
 - [Unify debug and error messages](https://github.com/celestiaorg/knuu/issues/23)
-
-
-## navidrome/navidrome <span style='color:#F1C40F'>(6.8K ⭐️)</span>
-
-- [Ignore playlist files beginning with "."](https://github.com/navidrome/navidrome/issues/2367)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
