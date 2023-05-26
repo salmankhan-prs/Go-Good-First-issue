@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 00:42 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 00:52 UTC.</div>
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(734 ⭐️)</span>
+
+- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -70,11 +75,6 @@
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
 
 - [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(734 ⭐️)</span>
-
-- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
 
 
 ## base-org/pessimism <span style='color:#F1C40F'>(442 ⭐️)</span>
