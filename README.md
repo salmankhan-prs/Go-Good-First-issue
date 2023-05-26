@@ -4,7 +4,20 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 07:22 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 07:32 UTC.</div>
+
+
+## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Create Code of Conduct and Contributing Guide](https://github.com/opencorelabs/fira/issues/64)
+
+- [min password length validation](https://github.com/opencorelabs/fira/issues/41)
+
+- [email verification security](https://github.com/opencorelabs/fira/issues/46)
+
+- [register with duplicate (correct) credentials should be a no-op](https://github.com/opencorelabs/fira/issues/60)
+
+- [request new verification token](https://github.com/opencorelabs/fira/issues/53)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
@@ -63,19 +76,6 @@
 - [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Create Code of Conduct and Contributing Guide](https://github.com/opencorelabs/fira/issues/64)
-
-- [min password length validation](https://github.com/opencorelabs/fira/issues/41)
-
-- [email verification security](https://github.com/opencorelabs/fira/issues/46)
-
-- [register with duplicate (correct) credentials should be a no-op](https://github.com/opencorelabs/fira/issues/60)
-
-- [request new verification token](https://github.com/opencorelabs/fira/issues/53)
 
 
 ## carvel-dev/kapp <span style='color:#F1C40F'>(760 ⭐️)</span>
@@ -199,7 +199,7 @@
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(710 ⭐️)</span>
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(711 ⭐️)</span>
 
 - [(feature) Add go-feature-flag to scoop extra](https://github.com/thomaspoignant/go-feature-flag/issues/817)
 
@@ -332,42 +332,4 @@
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.5K ⭐️)</span>
-
-- [3d sides don't respect theme](https://github.com/terrastruct/d2/issues/1337)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [bump github.com/prometheus/common from 0.43.0 to 0.44.0 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22721)
-
-- [Bump k8s.io/apimachinery from 0.27.1 to 0.27.2 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22719)
-
-- [[pkg/stanza] Do we need `flushUncombined` in the recombine operator?](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22140)
-
-- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
-
-
-## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
 
