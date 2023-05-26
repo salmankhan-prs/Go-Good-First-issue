@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 23:12 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 23:22 UTC.</div>
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -430,9 +430,4 @@
 ## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
 
 - [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
-
-
-## go-nostr/nostr <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Add support for a 'Top 8' follower/following](https://github.com/go-nostr/nostr/issues/140)
 
