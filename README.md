@@ -4,7 +4,37 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 13:12 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 13:22 UTC.</div>
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## armadaproject/armada <span style='color:#F1C40F'>(318 ⭐️)</span>
+
+- [Replace Make targets with Mage targets](https://github.com/armadaproject/armada/issues/2511)
+
+- [Change the minimal version for Docker in Mage](https://github.com/armadaproject/armada/issues/2510)
+
+- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
+- [Implement `envtool version` command](https://github.com/FerretDB/FerretDB/issues/2684)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(734 ⭐️)</span>
+
+- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -37,11 +67,6 @@
 - [Eventing TLS: Test ApiServerSource with Broker as sink](https://github.com/knative/eventing/issues/6933)
 
 
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
 ## cert-manager/cert-manager <span style='color:#F1C40F'>(10.4K ⭐️)</span>
 
 - [List of necessary endpoints for Vault Issuer](https://github.com/cert-manager/cert-manager/issues/6039)
@@ -67,6 +92,11 @@
 - [(feature) Add go-feature-flag to scoop extra](https://github.com/thomaspoignant/go-feature-flag/issues/817)
 
 - [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
+
+
+## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
+
+- [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -131,15 +161,6 @@
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 - [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
-
-
-## armadaproject/armada <span style='color:#F1C40F'>(318 ⭐️)</span>
-
-- [Replace Make targets with Mage targets](https://github.com/armadaproject/armada/issues/2511)
-
-- [Change the minimal version for Docker in Mage](https://github.com/armadaproject/armada/issues/2510)
-
-- [Deferrable operator should also have poll_interval](https://github.com/armadaproject/armada/issues/2473)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
@@ -217,11 +238,6 @@
 - [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
 
 
-## crossplane/crossplane <span style='color:#F1C40F'>(7.0K ⭐️)</span>
-
-- [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
-
-
 ## opencurve/curveadm <span style='color:#F1C40F'>(49 ⭐️)</span>
 
 - [[feat] support deploy minio-s3-gateway](https://github.com/opencurve/curveadm/issues/218)
@@ -293,9 +309,4 @@
 - [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
 
