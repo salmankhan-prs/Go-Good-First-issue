@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 10:02 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 10:12 UTC.</div>
+
+
+## navidrome/navidrome <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+
+- [Ignore playlist files beginning with "."](https://github.com/navidrome/navidrome/issues/2367)
 
 
 ## nspcc-dev/neofs-node <span style='color:#F1C40F'>(31 ⭐️)</span>
@@ -206,6 +211,11 @@
 - [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
 
+## cloudwego/hertz <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [Unnecessary log prefix. Procedure](https://github.com/cloudwego/hertz/issues/794)
+
+
 ## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
 
 - [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
@@ -313,22 +323,4 @@
 ## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
 
 - [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
-
-
-## knative-sandbox/eventing-kafka-broker <span style='color:#F1C40F'>(104 ⭐️)</span>
-
-- [KafkaSource: Define proper openAPIV3Schema for spec and status ](https://github.com/knative-sandbox/eventing-kafka-broker/issues/3081)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(4.9K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
 
