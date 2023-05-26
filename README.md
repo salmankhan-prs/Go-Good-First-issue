@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 08:52 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 09:02 UTC.</div>
+
+
+## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
@@ -28,6 +42,16 @@
 - [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
@@ -73,18 +97,6 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
 ## base-org/pessimism <span style='color:#F1C40F'>(444 ⭐️)</span>
 
 - [Add `Account.Balance` Backtesting Support](https://github.com/base-org/pessimism/issues/59)
@@ -99,16 +111,14 @@
 - [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
 
 
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
+
+
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
 
 - [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
-
-
-## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -208,6 +218,15 @@
 - [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
 
 
+## open-policy-agent/opa <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
+
+- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
+
+- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
+
+
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
 - [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
@@ -244,11 +263,6 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -318,4 +332,46 @@
 - [optimize oceanbase connector manager cache](https://github.com/oceanbase/ob-operator/issues/36)
 
 - [optimize task manager](https://github.com/oceanbase/ob-operator/issues/37)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [bump github.com/prometheus/common from 0.43.0 to 0.44.0 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22721)
+
+- [Bump k8s.io/apimachinery from 0.27.1 to 0.27.2 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22719)
+
+- [[pkg/stanza] Do we need `flushUncombined` in the recombine operator?](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22140)
+
+- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
+
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
+
+- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21490)
+
+
+## pipe-cd/pipecd <span style='color:#F1C40F'>(704 ⭐️)</span>
+
+- [kubectl apply with custom args (like --server-side) is not possible.](https://github.com/pipe-cd/pipecd/issues/4342)
+
+
+## argoproj/argo-rollouts <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Unable to use multiples ports with the same port number](https://github.com/argoproj/argo-rollouts/issues/2750)
+
+
+## ray-project/kuberay <span style='color:#F1C40F'>(355 ⭐️)</span>
+
+- [[Bug][CI] Add tests to ensure that the `zz_generated.deepcopy.go` is up-to-date.](https://github.com/ray-project/kuberay/issues/1111)
+
+- [[Doc] Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
+
+- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
 
