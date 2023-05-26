@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 21:32 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 21:42 UTC.</div>
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
@@ -322,6 +322,11 @@
 - [✨ [Feature] Filesystem Driver ReadStream & WriteStream analogues](https://github.com/goravel/goravel/issues/127)
 
 
+## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
+
+
 ## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [Add clock skew metrics](https://github.com/ava-labs/avalanchego/issues/1542)
@@ -352,22 +357,4 @@
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
 
 - [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
-
-- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
-
-- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
-
-- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
-
-
-## cue-lang/cue <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [alpha.cuelang.org: add macOS to the trybot build matrix](https://github.com/cue-lang/cue/issues/2418)
-
-- [alpha.cuelang.org: upstream internal/parse](https://github.com/cue-lang/cue/issues/2387)
 
