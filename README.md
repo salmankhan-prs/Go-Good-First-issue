@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 26, 2023 01:22 UTC.</div>
+<div align='center'>Last updated at May 26, 2023 01:32 UTC.</div>
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -12,6 +12,16 @@
 - [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
+
+
+## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
+
+- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(13.5K ⭐️)</span>
@@ -27,11 +37,6 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
-
-
-## alcionai/corso <span style='color:#F1C40F'>(109 ⭐️)</span>
-
-- [[Bug]: Fault item dedupe can clobber in sharepoint](https://github.com/alcionai/corso/issues/3283)
 
 
 ## rancher/opni <span style='color:#F1C40F'>(255 ⭐️)</span>
@@ -88,11 +93,6 @@
 - [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
@@ -230,6 +230,10 @@
 
 ## underdog-tech/vulnbot <span style='color:#F1C40F'>(20 ⭐️)</span>
 
+- [Add a breakdown by severity to the summary of Slack team reports](https://github.com/underdog-tech/vulnbot/issues/59)
+
+- [Sort repositories in Slack team report by severity level of findings](https://github.com/underdog-tech/vulnbot/issues/58)
+
 - [Generate team reports for the console reporter](https://github.com/underdog-tech/vulnbot/issues/55)
 
 - [Add a `-r`/`--reporters` configuration flag](https://github.com/underdog-tech/vulnbot/issues/50)
@@ -325,11 +329,4 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## target/goalert <span style='color:#F1C40F'>(1.9K ⭐️)</span>
-
-- [Add Table of CLI Flags, Environment Variables, and Descriptions to Getting Started Guide](https://github.com/target/goalert/issues/3023)
-
-- [Add Service "Name" field to user notification webhook data.](https://github.com/target/goalert/issues/3009)
 
