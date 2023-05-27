@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 15:52 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 16:02 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -119,11 +124,6 @@
 - [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
 
 - [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
