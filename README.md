@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 22:42 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 22:52 UTC.</div>
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -100,6 +100,13 @@
 - [Starting and exiting immediately prints "NaN% packet loss"](https://github.com/pouriyajamshidi/tcping/issues/81)
 
 - [Automate the release process](https://github.com/pouriyajamshidi/tcping/issues/78)
+
+
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
+
+- [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
