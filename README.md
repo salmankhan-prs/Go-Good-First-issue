@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 15:32 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 15:42 UTC.</div>
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -300,11 +300,4 @@
 - [Handle GITHUB errors in quickstart](https://github.com/openziti/ziti/issues/1122)
 
 - [getZiti should not re-download the binary](https://github.com/openziti/ziti/issues/1116)
-
-
-## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
