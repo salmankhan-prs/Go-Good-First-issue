@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 15:02 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 15:12 UTC.</div>
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
+
+- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
@@ -254,11 +259,6 @@
 - [support for `ignoreMissingValueFiles` helm application parameter](https://github.com/oboukili/terraform-provider-argocd/issues/287)
 
 
-## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
-
-- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
-
-
 ## kserve/modelmesh-serving <span style='color:#F1C40F'>(135 ⭐️)</span>
 
 - [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
@@ -400,9 +400,4 @@
 - [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
 
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(377 ⭐️)</span>
-
-- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
