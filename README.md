@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 18:12 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 18:22 UTC.</div>
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.7K ⭐️)</span>
@@ -14,6 +14,13 @@
 - [[Feature]: Support CORS headers on OTEL HTTP endpoint](https://github.com/jaegertracing/jaeger/issues/4459)
 
 - [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
+
+
+## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## underdog-tech/vulnbot <span style='color:#F1C40F'>(20 ⭐️)</span>
@@ -209,7 +216,7 @@
 - [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
 
 
-## staticbackendhq/core <span style='color:#F1C40F'>(570 ⭐️)</span>
+## staticbackendhq/core <span style='color:#F1C40F'>(571 ⭐️)</span>
 
 - [Add email interface to server-side function runtime](https://github.com/staticbackendhq/core/issues/84)
 
@@ -316,9 +323,4 @@
 ## oboukili/terraform-provider-argocd <span style='color:#F1C40F'>(276 ⭐️)</span>
 
 - [support for `ignoreMissingValueFiles` helm application parameter](https://github.com/oboukili/terraform-provider-argocd/issues/287)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
