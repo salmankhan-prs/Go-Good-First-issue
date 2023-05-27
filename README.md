@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 02:02 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 02:12 UTC.</div>
+
+
+## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
+
+- [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
+
+- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
+
+- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## googleapis/api-linter <span style='color:#F1C40F'>(470 ⭐️)</span>
@@ -120,15 +134,6 @@
 - [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
 
 
-## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
-
-- [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
-
-- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
-
-- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
-
-
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
 - [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
@@ -183,11 +188,6 @@
 - [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
 
 
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
@@ -209,19 +209,6 @@
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-
 ## ChainSafe/gossamer <span style='color:#F1C40F'>(386 ⭐️)</span>
 
 - [cli: generate account key if not specified](https://github.com/ChainSafe/gossamer/issues/3255)
@@ -235,11 +222,6 @@
 ## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
-
-
-## kubernetes-sigs/aws-ebs-csi-driver <span style='color:#F1C40F'>(768 ⭐️)</span>
-
-- [Update install.md to fully cover creating the necessary IAM role and service account](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/issues/1607)
 
 
 ## infamousjoeg/cybr-cli <span style='color:#F1C40F'>(56 ⭐️)</span>
@@ -257,11 +239,6 @@
 - [Feature: OpenWrt specific cataloger](https://github.com/anchore/syft/issues/1847)
 
 
-## kairos-io/kairos <span style='color:#F1C40F'>(516 ⭐️)</span>
-
-- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
-
-
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(712 ⭐️)</span>
 
 - [(feature) doc create a all docs version page](https://github.com/thomaspoignant/go-feature-flag/issues/830)
@@ -274,6 +251,18 @@
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
 
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
+
+- [Some code blocks are not rendered properly in the documentation's PipelineRuns page](https://github.com/tektoncd/pipeline/issues/6697)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(13.5K ⭐️)</span>
+
+- [3d sides don't respect theme](https://github.com/terrastruct/d2/issues/1337)
 
 
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
@@ -344,4 +333,89 @@
 ## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
 
 - [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
+
+
+## anchore/grype <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [Grype docker image on dockerhub has no shell commands available to be able to keep it alive for Jenkins exec into scan with it - please add busybox at least](https://github.com/anchore/grype/issues/1287)
+
+
+## konveyor/analyzer-lsp <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [Do not fail when dependency SHA cannot be read from file](https://github.com/konveyor/analyzer-lsp/issues/175)
+
+- [Clean up Engine Logs](https://github.com/konveyor/analyzer-lsp/issues/156)
+
+- [Change dependency output into a list by provider](https://github.com/konveyor/analyzer-lsp/issues/140)
+
+- [Add progress reporting showing statistics on total rules parsed, completed, matched, and failed](https://github.com/konveyor/analyzer-lsp/issues/132)
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
+
+- [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
+
+
+## ray-project/kuberay <span style='color:#F1C40F'>(356 ⭐️)</span>
+
+- [[Bug][CI] Add tests to ensure that the `zz_generated.deepcopy.go` is up-to-date.](https://github.com/ray-project/kuberay/issues/1111)
+
+- [[Doc] Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
+
+- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
+
+
+## goravel/goravel <span style='color:#F1C40F'>(801 ⭐️)</span>
+
+- [🐛 [Bug] 不规范的HTTP请求导致日志输出](https://github.com/goravel/goravel/issues/139)
+
+- [🐛 [Bug] 升级 gorm 依赖](https://github.com/goravel/goravel/issues/137)
+
+- [✨ [Feature] Filesystem Driver ReadStream & WriteStream analogues](https://github.com/goravel/goravel/issues/127)
+
+
+## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(417 ⭐️)</span>
+
+- [Add custom scheduler support](https://github.com/fluent/fluent-operator/issues/758)
+
+- [Enable Fluentd Prometheus plugin](https://github.com/fluent/fluent-operator/issues/725)
+
+- [Add HPA support to Fluentd](https://github.com/fluent/fluent-operator/issues/739)
+
+- [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
+
+
+## TBD54566975/ssi-service <span style='color:#F1C40F'>(125 ⭐️)</span>
+
+- [PresentationAPI: Add list requests endpoint](https://github.com/TBD54566975/ssi-service/issues/479)
+
+- [Consistency across Create endpoints](https://github.com/TBD54566975/ssi-service/issues/469)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
+
+- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
+
+- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
+
+
+## cue-lang/cue <span style='color:#F1C40F'>(3.9K ⭐️)</span>
+
+- [alpha.cuelang.org: add macOS to the trybot build matrix](https://github.com/cue-lang/cue/issues/2418)
+
+- [alpha.cuelang.org: upstream internal/parse](https://github.com/cue-lang/cue/issues/2387)
 
