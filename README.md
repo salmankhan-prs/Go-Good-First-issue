@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 06:02 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 06:12 UTC.</div>
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -130,6 +130,11 @@
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(355 ⭐️)</span>
+
+- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
 
 
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -342,9 +347,4 @@
 ## TBD54566975/ssi-sdk <span style='color:#F1C40F'>(167 ⭐️)</span>
 
 - [IsValid should take in a context and return err](https://github.com/TBD54566975/ssi-sdk/issues/395)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
