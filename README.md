@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 13:52 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 14:02 UTC.</div>
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
@@ -12,7 +12,20 @@
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
-## zeabur/zbpack <span style='color:#F1C40F'>(85 ⭐️)</span>
+## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
+
+- [Create Code of Conduct and Contributing Guide](https://github.com/opencorelabs/fira/issues/64)
+
+- [min password length validation](https://github.com/opencorelabs/fira/issues/41)
+
+- [email verification security](https://github.com/opencorelabs/fira/issues/46)
+
+- [register with duplicate (correct) credentials should be a no-op](https://github.com/opencorelabs/fira/issues/60)
+
+- [request new verification token](https://github.com/opencorelabs/fira/issues/53)
+
+
+## zeabur/zbpack <span style='color:#F1C40F'>(86 ⭐️)</span>
 
 - [Docusaurus support](https://github.com/zeabur/zbpack/issues/76)
 
@@ -63,8 +76,6 @@
 - [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
 
 - [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
-
-- [macOS/build-locally instructions](https://github.com/go-skynet/LocalAI/issues/101)
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
