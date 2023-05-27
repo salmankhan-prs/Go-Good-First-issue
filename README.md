@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 12:02 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 12:12 UTC.</div>
 
 
 ## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
@@ -41,9 +41,11 @@
 - [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+- [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
+
+- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -97,6 +99,11 @@
 ## stv0g/cunicu <span style='color:#F1C40F'>(78 ⭐️)</span>
 
 - [Create Nix package](https://github.com/stv0g/cunicu/issues/145)
+
+
+## pactus-project/pactus <span style='color:#F1C40F'>(32 ⭐️)</span>
+
+- [Reset config file to default when user deletes it](https://github.com/pactus-project/pactus/issues/478)
 
 
 ## pactus-project/pactus <span style='color:#F1C40F'>(32 ⭐️)</span>
@@ -177,13 +184,6 @@
 ## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
 
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
-
-- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
 ## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
