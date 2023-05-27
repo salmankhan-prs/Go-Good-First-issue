@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 23:12 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 23:22 UTC.</div>
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -43,6 +43,15 @@
 - [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
+
+- [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
 
 
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
