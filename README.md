@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 18:52 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 19:02 UTC.</div>
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.7K ⭐️)</span>
@@ -313,9 +313,4 @@
 - [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
 
