@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 03:42 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 03:52 UTC.</div>
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(13.5K ⭐️)</span>
+
+- [3d sides don't respect theme](https://github.com/terrastruct/d2/issues/1337)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
@@ -316,11 +321,6 @@
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 - [Some code blocks are not rendered properly in the documentation's PipelineRuns page](https://github.com/tektoncd/pipeline/issues/6697)
-
-
-## terrastruct/d2 <span style='color:#F1C40F'>(13.5K ⭐️)</span>
-
-- [3d sides don't respect theme](https://github.com/terrastruct/d2/issues/1337)
 
 
 ## TBD54566975/ssi-sdk <span style='color:#F1C40F'>(167 ⭐️)</span>
