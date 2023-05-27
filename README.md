@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 17:32 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 17:42 UTC.</div>
+
+
+## pactus-project/pactus <span style='color:#F1C40F'>(32 ⭐️)</span>
+
+- [Reset config file to default when user deletes it](https://github.com/pactus-project/pactus/issues/478)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -12,11 +17,6 @@
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
 
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
-
-
-## pactus-project/pactus <span style='color:#F1C40F'>(32 ⭐️)</span>
-
-- [Reset config file to default when user deletes it](https://github.com/pactus-project/pactus/issues/478)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
