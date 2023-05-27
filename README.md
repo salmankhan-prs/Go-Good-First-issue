@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 06:52 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 07:02 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -15,11 +20,6 @@
 ## oboukili/terraform-provider-argocd <span style='color:#F1C40F'>(276 ⭐️)</span>
 
 - [support for `ignoreMissingValueFiles` helm application parameter](https://github.com/oboukili/terraform-provider-argocd/issues/287)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
