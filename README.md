@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 02:42 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 02:52 UTC.</div>
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
@@ -142,11 +147,6 @@
 - [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
 
 - [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
