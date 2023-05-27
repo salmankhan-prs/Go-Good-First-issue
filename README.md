@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 13:42 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 13:52 UTC.</div>
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## zeabur/zbpack <span style='color:#F1C40F'>(85 ⭐️)</span>
+
+- [Docusaurus support](https://github.com/zeabur/zbpack/issues/76)
+
+- [elixir support](https://github.com/zeabur/zbpack/issues/44)
+
+- [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
+
+- [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
+
+- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -35,13 +58,6 @@
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
-
-- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(5.0K ⭐️)</span>
 
 - [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
@@ -53,11 +69,6 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 - [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## nacos-group/nacos-sdk-go <span style='color:#F1C40F'>(881 ⭐️)</span>
@@ -367,13 +378,4 @@
 ## labdao/plex <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [add vina to PLEX](https://github.com/labdao/plex/issues/294)
-
-
-## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [nat: use libp2p UserAgent for the UPnP comment string](https://github.com/libp2p/go-libp2p/issues/2307)
-
-- [drop minio package for SHA256 with Go 1.21](https://github.com/libp2p/go-libp2p/issues/2308)
-
-- [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
 
