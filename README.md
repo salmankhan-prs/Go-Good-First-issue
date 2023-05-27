@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 00:42 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 00:52 UTC.</div>
+
+
+## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [Add clock skew metrics](https://github.com/ava-labs/avalanchego/issues/1542)
+
+- [Add CI check that auto-generated code is up to date.](https://github.com/ava-labs/avalanchego/issues/1553)
+
+- [Add P-chain config for cache sizes](https://github.com/ava-labs/avalanchego/issues/1522)
 
 
 ## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.5K ⭐️)</span>
