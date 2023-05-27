@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 09:02 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 09:12 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
@@ -285,8 +285,6 @@
 ## cosmos/interchain-security <span style='color:#F1C40F'>(107 ⭐️)</span>
 
 - [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
-
-- [Soft opt-out threshold is hardcoded](https://github.com/cosmos/interchain-security/issues/893)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
