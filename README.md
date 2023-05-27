@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 18:42 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 18:52 UTC.</div>
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.7K ⭐️)</span>
@@ -318,9 +318,4 @@
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
-
-
-## oboukili/terraform-provider-argocd <span style='color:#F1C40F'>(276 ⭐️)</span>
-
-- [support for `ignoreMissingValueFiles` helm application parameter](https://github.com/oboukili/terraform-provider-argocd/issues/287)
 
