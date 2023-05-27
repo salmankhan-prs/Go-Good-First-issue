@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 16:52 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 17:02 UTC.</div>
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -14,11 +14,18 @@
 - [Reword `now refreshing` progress dialog](https://github.com/argoproj/argo-cd/issues/13566)
 
 
+## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
+
+- [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
+
+- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
+
+- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
+
+
 ## pouriyajamshidi/tcping <span style='color:#F1C40F'>(136 ⭐️)</span>
 
 - [`-c` flag does not print `TCPing ended at` information](https://github.com/pouriyajamshidi/tcping/issues/89)
-
-- [Move any output-related logic to printers (and vice-versa)](https://github.com/pouriyajamshidi/tcping/issues/84)
 
 - [Starting and exiting immediately prints "NaN% packet loss"](https://github.com/pouriyajamshidi/tcping/issues/81)
 
@@ -164,8 +171,6 @@
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
-- [feature: unbuffered token stream](https://github.com/go-skynet/LocalAI/issues/109)
-
 
 ## nacos-group/nacos-sdk-go <span style='color:#F1C40F'>(881 ⭐️)</span>
 
@@ -255,15 +260,6 @@
 ## pipe-cd/pipecd <span style='color:#F1C40F'>(706 ⭐️)</span>
 
 - [kubectl apply with custom args (like --server-side) is not possible.](https://github.com/pipe-cd/pipecd/issues/4342)
-
-
-## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
-
-- [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
-
-- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
-
-- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
