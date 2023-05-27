@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 09:12 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 09:22 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
@@ -265,6 +265,27 @@
 - [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
 
 
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(179 ⭐️)</span>
+
+- [Create a helper function that generates an EDS directly from block data](https://github.com/celestiaorg/celestia-app/issues/1830)
+
+- [Un-export namespace slices and export getters](https://github.com/celestiaorg/celestia-app/issues/1809)
+
+- [Visual representation of share for share splitting tests](https://github.com/celestiaorg/celestia-app/issues/1789)
+
+- [[nit] Can we use `2*2` instead of `4` in the `generateShares(4)`, it is more clear how 4 is calculated and why.](https://github.com/celestiaorg/celestia-app/issues/1788)
+
+- [Godoc for TestMinDataAvailabilityHeader](https://github.com/celestiaorg/celestia-app/issues/1787)
+
+- [ADR11 update NMT node size](https://github.com/celestiaorg/celestia-app/issues/1727)
+
+- [Prefer Erasured NMT namespace size rather than appconsts](https://github.com/celestiaorg/celestia-app/issues/1783)
+
+- [Further test the data commitment catchup mechanism](https://github.com/celestiaorg/celestia-app/issues/1769)
+
+- [Identify why CI isn't failing for `make lint` errors](https://github.com/celestiaorg/celestia-app/issues/1671)
+
+
 ## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
 
 - [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
@@ -346,9 +367,4 @@
 ## anchore/syft <span style='color:#F1C40F'>(4.2K ⭐️)</span>
 
 - [Feature: OpenWrt specific cataloger](https://github.com/anchore/syft/issues/1847)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(516 ⭐️)</span>
-
-- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
