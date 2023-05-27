@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 00:32 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 00:42 UTC.</div>
+
+
+## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.5K ⭐️)</span>
+
+- [README section 3](https://github.com/grpc-ecosystem/grpc-gateway/issues/3320)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -151,11 +156,6 @@
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-
-## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.5K ⭐️)</span>
-
-- [README section 3](https://github.com/grpc-ecosystem/grpc-gateway/issues/3320)
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.7K ⭐️)</span>
