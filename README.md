@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 11:42 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 11:52 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## staticbackendhq/core <span style='color:#F1C40F'>(570 ⭐️)</span>
@@ -20,9 +25,15 @@
 - [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
 
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
@@ -134,17 +145,6 @@
 - [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
 
 
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
-
-- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
-
-
 ## openziti/ziti <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [Handle GITHUB errors in quickstart](https://github.com/openziti/ziti/issues/1122)
@@ -176,9 +176,9 @@
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
-- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
-
 - [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
+
+- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
 ## ava-labs/avalanchego <span style='color:#F1C40F'>(1.8K ⭐️)</span>
