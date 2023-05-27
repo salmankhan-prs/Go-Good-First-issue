@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 16:12 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 16:22 UTC.</div>
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.7K ⭐️)</span>
+
+- [[Feature]: Split main & debug image building CI steps](https://github.com/jaegertracing/jaeger/issues/4471)
+
+- [[Feature]: Support CORS headers on OTEL HTTP endpoint](https://github.com/jaegertracing/jaeger/issues/4459)
+
+- [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -285,6 +294,11 @@
 ## oboukili/terraform-provider-argocd <span style='color:#F1C40F'>(276 ⭐️)</span>
 
 - [support for `ignoreMissingValueFiles` helm application parameter](https://github.com/oboukili/terraform-provider-argocd/issues/287)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## kserve/modelmesh-serving <span style='color:#F1C40F'>(135 ⭐️)</span>
