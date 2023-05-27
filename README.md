@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 01:12 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 01:22 UTC.</div>
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -255,6 +255,15 @@
 ## kairos-io/kairos <span style='color:#F1C40F'>(516 ⭐️)</span>
 
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(712 ⭐️)</span>
+
+- [(feature) doc create a all docs version page](https://github.com/thomaspoignant/go-feature-flag/issues/830)
+
+- [(feature) Add go-feature-flag to scoop extra](https://github.com/thomaspoignant/go-feature-flag/issues/817)
+
+- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
