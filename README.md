@@ -4,12 +4,23 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 03:52 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 04:02 UTC.</div>
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(13.5K ⭐️)</span>
 
 - [3d sides don't respect theme](https://github.com/terrastruct/d2/issues/1337)
+
+
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
+
+- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(18.9K ⭐️)</span>
@@ -349,22 +360,4 @@
 ## onflow/cadence <span style='color:#F1C40F'>(469 ⭐️)</span>
 
 - [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [Implement `envtool tests shard` command](https://github.com/FerretDB/FerretDB/issues/2692)
-
-- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## openziti/ziti <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Handle GITHUB errors in quickstart](https://github.com/openziti/ziti/issues/1122)
-
-- [getZiti should not re-download the binary](https://github.com/openziti/ziti/issues/1116)
 
