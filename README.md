@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 11:52 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 12:02 UTC.</div>
+
+
+## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
+
+- [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -328,6 +333,15 @@
 - [add vina to PLEX](https://github.com/labdao/plex/issues/294)
 
 
+## libp2p/go-libp2p <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [nat: use libp2p UserAgent for the UPnP comment string](https://github.com/libp2p/go-libp2p/issues/2307)
+
+- [drop minio package for SHA256 with Go 1.21](https://github.com/libp2p/go-libp2p/issues/2308)
+
+- [mDNS discovery interoperability between Go and Javascript](https://github.com/libp2p/go-libp2p/issues/2275)
+
+
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
 
 - [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
@@ -357,9 +371,4 @@
 ## ChainSafe/gossamer <span style='color:#F1C40F'>(386 ⭐️)</span>
 
 - [cli: generate account key if not specified](https://github.com/ChainSafe/gossamer/issues/3255)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
