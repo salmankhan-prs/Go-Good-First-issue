@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 18:02 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 18:12 UTC.</div>
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.7K ⭐️)</span>
