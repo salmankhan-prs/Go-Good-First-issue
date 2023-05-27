@@ -4,7 +4,20 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 11:22 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 11:32 UTC.</div>
+
+
+## staticbackendhq/core <span style='color:#F1C40F'>(570 ⭐️)</span>
+
+- [Add email interface to server-side function runtime](https://github.com/staticbackendhq/core/issues/84)
+
+- [[cli] Add a tail command to follow server logs](https://github.com/staticbackendhq/core/issues/85)
+
+- [[docs] A tutorial for Next.js](https://github.com/staticbackendhq/core/issues/83)
+
+- [[backend-js] Build an additional bundle importable via <script> tag](https://github.com/staticbackendhq/core/issues/81)
+
+- [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -349,9 +362,4 @@
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
 
