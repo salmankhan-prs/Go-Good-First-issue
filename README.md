@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 10:42 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 10:52 UTC.</div>
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -322,7 +322,7 @@
 - [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
 
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
 
