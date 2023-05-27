@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 09:22 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 09:32 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
@@ -308,16 +308,6 @@
 - [Transfer ChannelID is hardcoded](https://github.com/cosmos/interchain-security/issues/895)
 
 
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
-
-- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Data source `azurerm_databricks_workspace` returns wrong `managed_disk_identity`](https://github.com/hashicorp/terraform-provider-azurerm/issues/21608)
-
-
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.7K ⭐️)</span>
 
 - [[Feature]: Split main & debug image building CI steps](https://github.com/jaegertracing/jaeger/issues/4471)
@@ -367,4 +357,23 @@
 ## anchore/syft <span style='color:#F1C40F'>(4.2K ⭐️)</span>
 
 - [Feature: OpenWrt specific cataloger](https://github.com/anchore/syft/issues/1847)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(516 ⭐️)</span>
+
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(712 ⭐️)</span>
+
+- [(feature) doc create a all docs version page](https://github.com/thomaspoignant/go-feature-flag/issues/830)
+
+- [(feature) Add go-feature-flag to scoop extra](https://github.com/thomaspoignant/go-feature-flag/issues/817)
+
+- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
