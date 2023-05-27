@@ -4,7 +4,36 @@
 
 
 
-<div align='center'>Last updated at May 27, 2023 17:52 UTC.</div>
+<div align='center'>Last updated at May 27, 2023 18:02 UTC.</div>
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.7K ⭐️)</span>
+
+- [[Feature]: Split main & debug image building CI steps](https://github.com/jaegertracing/jaeger/issues/4471)
+
+- [[Feature]: Support CORS headers on OTEL HTTP endpoint](https://github.com/jaegertracing/jaeger/issues/4459)
+
+- [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
+
+
+## underdog-tech/vulnbot <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [Add a breakdown by severity to the summary of Slack team reports](https://github.com/underdog-tech/vulnbot/issues/59)
+
+- [Sort repositories in Slack team report by severity level of findings](https://github.com/underdog-tech/vulnbot/issues/58)
+
+- [Generate team reports for the console reporter](https://github.com/underdog-tech/vulnbot/issues/55)
+
+- [Add a `-r`/`--reporters` configuration flag](https://github.com/underdog-tech/vulnbot/issues/50)
+
+- [Add a `-v`/`--verbose` configuration option](https://github.com/underdog-tech/vulnbot/issues/49)
+
+- [Add a `-q`/`--quiet` config option](https://github.com/underdog-tech/vulnbot/issues/48)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -61,15 +90,6 @@
 - [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.7K ⭐️)</span>
-
-- [[Feature]: Split main & debug image building CI steps](https://github.com/jaegertracing/jaeger/issues/4471)
-
-- [[Feature]: Support CORS headers on OTEL HTTP endpoint](https://github.com/jaegertracing/jaeger/issues/4459)
-
-- [[Bug]: Flaky Test: TestSpanProcessorWithOnDroppedSpanOption](https://github.com/jaegertracing/jaeger/issues/4450)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -175,11 +195,6 @@
 ## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## nacos-group/nacos-sdk-go <span style='color:#F1C40F'>(881 ⭐️)</span>
