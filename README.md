@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 11:32 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 11:42 UTC.</div>
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -149,6 +149,11 @@
 ## pipe-cd/pipecd <span style='color:#F1C40F'>(706 ⭐️)</span>
 
 - [kubectl apply with custom args (like --server-side) is not possible.](https://github.com/pipe-cd/pipecd/issues/4342)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -321,9 +326,4 @@
 - [Examine the result code returned by the server](https://github.com/nacos-group/nacos-sdk-go/issues/619)
 
 - [Asynchronous synchronous optimization, sync according to the time returned by the server](https://github.com/nacos-group/nacos-sdk-go/issues/618)
-
-
-## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
-
-- [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
 
