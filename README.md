@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 20:32 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 20:42 UTC.</div>
 
 
 ## rancher/opni <span style='color:#F1C40F'>(255 ⭐️)</span>
@@ -332,13 +332,4 @@
 - [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
 
 - [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
-
-
-## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
-
-- [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
-
-- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
-
-- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
 
