@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 10:02 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 10:12 UTC.</div>
 
 
 ## rajatjindal/goodfirstissue <span style='color:#F1C40F'>(24 ⭐️)</span>
@@ -118,6 +118,11 @@
 - [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
 
 - [[Feature]: Help wanted: Bring Trivy integration settings into config](https://github.com/k8sgpt-ai/k8sgpt/issues/359)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
