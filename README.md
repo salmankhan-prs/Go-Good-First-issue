@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 04:12 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 04:22 UTC.</div>
 
 
 ## pipe-cd/pipecd <span style='color:#F1C40F'>(706 ⭐️)</span>
@@ -22,6 +22,15 @@
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
+## go-skynet/LocalAI <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
 
 - [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
@@ -32,15 +41,6 @@
 ## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(6.5K ⭐️)</span>
 
 - [Kubernetes and Kubebuilder use different mechanisms to generate plurals](https://github.com/kubernetes-sigs/kubebuilder/issues/3402)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
