@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 13:22 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 13:32 UTC.</div>
+
+
+## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
@@ -311,15 +316,4 @@
 - [register with duplicate (correct) credentials should be a no-op](https://github.com/opencorelabs/fira/issues/60)
 
 - [request new verification token](https://github.com/opencorelabs/fira/issues/53)
-
-
-## zeabur/zbpack <span style='color:#F1C40F'>(86 ⭐️)</span>
-
-- [Docusaurus support](https://github.com/zeabur/zbpack/issues/76)
-
-- [elixir support](https://github.com/zeabur/zbpack/issues/44)
-
-- [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
-
-- [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
 
