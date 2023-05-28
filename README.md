@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 05:02 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 05:12 UTC.</div>
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -354,9 +354,4 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## kserve/modelmesh-serving <span style='color:#F1C40F'>(135 ⭐️)</span>
-
-- [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
 
