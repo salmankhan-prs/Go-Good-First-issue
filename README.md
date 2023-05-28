@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 20:22 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 20:32 UTC.</div>
+
+
+## rancher/opni <span style='color:#F1C40F'>(255 ⭐️)</span>
+
+- [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
+
+- [Panic encountered while watching data import progress:](https://github.com/rancher/opni/issues/1375)
+
+- [Data import Sending too large packets](https://github.com/rancher/opni/issues/1415)
+
+- [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(5.1K ⭐️)</span>
