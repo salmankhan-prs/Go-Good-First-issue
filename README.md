@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 08:02 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 08:12 UTC.</div>
 
 
 ## elastic/cloudbeat <span style='color:#F1C40F'>(21 ⭐️)</span>
@@ -57,6 +57,13 @@
 - [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
 
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(17.7K ⭐️)</span>
+
+- [[Feature]: Split main & debug image building CI steps](https://github.com/jaegertracing/jaeger/issues/4471)
+
+- [[Feature]: Support CORS headers on OTEL HTTP endpoint](https://github.com/jaegertracing/jaeger/issues/4459)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
@@ -132,13 +139,6 @@
 - [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
 
 - [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.7K ⭐️)</span>
-
-- [[Feature]: Split main & debug image building CI steps](https://github.com/jaegertracing/jaeger/issues/4471)
-
-- [[Feature]: Support CORS headers on OTEL HTTP endpoint](https://github.com/jaegertracing/jaeger/issues/4459)
 
 
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -345,9 +345,4 @@
 - [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
 
 - [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
-
-
-## stv0g/cunicu <span style='color:#F1C40F'>(78 ⭐️)</span>
-
-- [Create Nix package](https://github.com/stv0g/cunicu/issues/145)
 
