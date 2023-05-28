@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 06:42 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 06:52 UTC.</div>
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -141,6 +141,11 @@
 - [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
 
 
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
+
+- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
+
+
 ## underdog-tech/vulnbot <span style='color:#F1C40F'>(20 ⭐️)</span>
 
 - [Add a breakdown by severity to the summary of Slack team reports](https://github.com/underdog-tech/vulnbot/issues/59)
@@ -185,11 +190,6 @@
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
 
 - [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
-
-- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
