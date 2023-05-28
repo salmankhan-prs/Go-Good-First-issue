@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 19:02 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 19:12 UTC.</div>
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -391,4 +391,9 @@
 - [Examine the result code returned by the server](https://github.com/nacos-group/nacos-sdk-go/issues/619)
 
 - [Asynchronous synchronous optimization, sync according to the time returned by the server](https://github.com/nacos-group/nacos-sdk-go/issues/618)
+
+
+## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
+
+- [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
 
