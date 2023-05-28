@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 14:12 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 14:22 UTC.</div>
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
@@ -393,9 +393,4 @@
 - [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
 
 - [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
-
-
-## stv0g/cunicu <span style='color:#F1C40F'>(78 ⭐️)</span>
-
-- [Create Nix package](https://github.com/stv0g/cunicu/issues/145)
 
