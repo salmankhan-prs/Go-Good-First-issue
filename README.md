@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 13:52 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 14:02 UTC.</div>
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## go-nostr/nostr <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Add support for a 'Top 8' follower/following](https://github.com/go-nostr/nostr/issues/140)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
@@ -43,16 +58,6 @@
 - [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-
-## go-nostr/nostr <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Add support for a 'Top 8' follower/following](https://github.com/go-nostr/nostr/issues/140)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## pactus-project/pactus <span style='color:#F1C40F'>(32 ⭐️)</span>
@@ -111,11 +116,6 @@
 - [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
 
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## rajatjindal/goodfirstissue <span style='color:#F1C40F'>(24 ⭐️)</span>
@@ -405,9 +405,4 @@
 - [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
 
