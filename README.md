@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 12:22 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 12:32 UTC.</div>
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -132,7 +137,7 @@
 - [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+## go-skynet/LocalAI <span style='color:#F1C40F'>(5.1K ⭐️)</span>
 
 - [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
 
@@ -160,11 +165,6 @@
 - [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
 
 - [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
 
 
 ## pipe-cd/pipecd <span style='color:#F1C40F'>(706 ⭐️)</span>
