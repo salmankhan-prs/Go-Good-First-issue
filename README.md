@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 17:42 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 17:52 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
@@ -16,6 +21,13 @@
 - [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
@@ -60,13 +72,6 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 
-## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
 ## fluxcd/flagger <span style='color:#F1C40F'>(4.3K ⭐️)</span>
 
 - [Incomplete error messages obscure HTTP 403 issue when accessing prometheus](https://github.com/fluxcd/flagger/issues/1434)
@@ -88,11 +93,6 @@
 - [wanted: cleanup logs](https://github.com/bnb-chain/bsc/issues/1650)
 
 - [wanted: specify single hard fork height in config.toml](https://github.com/bnb-chain/bsc/issues/1625)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
@@ -322,13 +322,4 @@
 - [Add a `-v`/`--verbose` configuration option](https://github.com/underdog-tech/vulnbot/issues/49)
 
 - [Add a `-q`/`--quiet` config option](https://github.com/underdog-tech/vulnbot/issues/48)
-
-
-## pouriyajamshidi/tcping <span style='color:#F1C40F'>(136 ⭐️)</span>
-
-- [`-c` flag does not print `TCPing ended at` information](https://github.com/pouriyajamshidi/tcping/issues/89)
-
-- [Starting and exiting immediately prints "NaN% packet loss"](https://github.com/pouriyajamshidi/tcping/issues/81)
-
-- [Automate the release process](https://github.com/pouriyajamshidi/tcping/issues/78)
 
