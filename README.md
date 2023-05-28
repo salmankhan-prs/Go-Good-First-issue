@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 20:12 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 20:22 UTC.</div>
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -104,15 +113,6 @@
 - [GitHub downloader subject to rate limits](https://github.com/kubernetes-sigs/kubectl-validate/issues/17)
 
 - [recursive schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/18)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 
 ## fluxcd/flagger <span style='color:#F1C40F'>(4.3K ⭐️)</span>
