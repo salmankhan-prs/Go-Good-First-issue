@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 16:12 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 16:22 UTC.</div>
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
@@ -108,15 +117,6 @@
 ## pactus-project/pactus <span style='color:#F1C40F'>(32 ⭐️)</span>
 
 - [Reset config file to default when user deletes it](https://github.com/pactus-project/pactus/issues/478)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -259,8 +259,6 @@
 
 - [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
 
-- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
-
 - [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
 
 - [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
@@ -309,6 +307,23 @@
 - [🐛 [Bug] 不规范的HTTP请求导致日志输出](https://github.com/goravel/goravel/issues/139)
 
 - [✨ [Feature] Filesystem Driver ReadStream & WriteStream analogues](https://github.com/goravel/goravel/issues/127)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
+
+- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
+
+
+## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
 ## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
@@ -369,35 +384,4 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(83 ⭐️)</span>
-
-- [Update "Intro to KLT"](https://github.com/keptn/lifecycle-toolkit/issues/1467)
-
-- [Add xrefs between yaml-crd-ref pages and crd-ref pages](https://github.com/keptn/lifecycle-toolkit/issues/1465)
-
-- [reflect StatefulSets and DaemonSets in "Integrate" page](https://github.com/keptn/lifecycle-toolkit/issues/1451)
-
-- [[research] Can KLT be run in code spaces & tutorial in Jupyter Notebooks](https://github.com/keptn/lifecycle-toolkit/issues/1441)
-
-- [Apps Page Text needs tweaked](https://github.com/keptn/lifecycle-toolkit/issues/1311)
-
-- [readme should point to website not repo](https://github.com/keptn/lifecycle-toolkit/issues/1327)
-
-- [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
-
-- [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
-
-
-## stv0g/cunicu <span style='color:#F1C40F'>(78 ⭐️)</span>
-
-- [Create Nix package](https://github.com/stv0g/cunicu/issues/145)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
