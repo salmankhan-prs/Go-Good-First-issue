@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 01:12 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 01:22 UTC.</div>
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -359,11 +359,4 @@
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
 
 - [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
-
-
-## openziti/ziti <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Handle GITHUB errors in quickstart](https://github.com/openziti/ziti/issues/1122)
-
-- [getZiti should not re-download the binary](https://github.com/openziti/ziti/issues/1116)
 
