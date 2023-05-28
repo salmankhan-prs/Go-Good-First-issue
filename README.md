@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 13:02 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 13:12 UTC.</div>
+
+
+## go-nostr/nostr <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Add support for a 'Top 8' follower/following](https://github.com/go-nostr/nostr/issues/140)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
@@ -317,11 +322,4 @@
 - [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
 
 - [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
-
-
-## nacos-group/nacos-sdk-go <span style='color:#F1C40F'>(881 ⭐️)</span>
-
-- [Examine the result code returned by the server](https://github.com/nacos-group/nacos-sdk-go/issues/619)
-
-- [Asynchronous synchronous optimization, sync according to the time returned by the server](https://github.com/nacos-group/nacos-sdk-go/issues/618)
 
