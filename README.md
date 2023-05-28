@@ -4,12 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 19:42 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 19:52 UTC.</div>
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
 
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
+
+- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
@@ -26,14 +36,20 @@
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
+## pouriyajamshidi/tcping <span style='color:#F1C40F'>(136 ⭐️)</span>
+
+- [One failed probe prints `No response received for 0 seconds`](https://github.com/pouriyajamshidi/tcping/issues/91)
+
+- [`-c` flag does not print `TCPing ended at` information](https://github.com/pouriyajamshidi/tcping/issues/89)
+
+- [Starting and exiting immediately prints "NaN% packet loss"](https://github.com/pouriyajamshidi/tcping/issues/81)
+
+- [Automate the release process](https://github.com/pouriyajamshidi/tcping/issues/78)
+
+
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
 
 - [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -221,6 +237,8 @@
 
 ## kairos-io/kairos <span style='color:#F1C40F'>(518 ⭐️)</span>
 
+- [:book: Use the automated version numbers on all documentation](https://github.com/kairos-io/kairos/issues/1459)
+
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
 
@@ -312,90 +330,4 @@
 - [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
 
 - [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
-
-
-## underdog-tech/vulnbot <span style='color:#F1C40F'>(20 ⭐️)</span>
-
-- [Add a breakdown by severity to the summary of Slack team reports](https://github.com/underdog-tech/vulnbot/issues/59)
-
-- [Sort repositories in Slack team report by severity level of findings](https://github.com/underdog-tech/vulnbot/issues/58)
-
-- [Generate team reports for the console reporter](https://github.com/underdog-tech/vulnbot/issues/55)
-
-- [Add a `-r`/`--reporters` configuration flag](https://github.com/underdog-tech/vulnbot/issues/50)
-
-- [Add a `-v`/`--verbose` configuration option](https://github.com/underdog-tech/vulnbot/issues/49)
-
-- [Add a `-q`/`--quiet` config option](https://github.com/underdog-tech/vulnbot/issues/48)
-
-
-## pouriyajamshidi/tcping <span style='color:#F1C40F'>(136 ⭐️)</span>
-
-- [One failed probe prints `No response received for 0 seconds`](https://github.com/pouriyajamshidi/tcping/issues/91)
-
-- [`-c` flag does not print `TCPing ended at` information](https://github.com/pouriyajamshidi/tcping/issues/89)
-
-- [Starting and exiting immediately prints "NaN% packet loss"](https://github.com/pouriyajamshidi/tcping/issues/81)
-
-- [Automate the release process](https://github.com/pouriyajamshidi/tcping/issues/78)
-
-
-## goravel/goravel <span style='color:#F1C40F'>(801 ⭐️)</span>
-
-- [🐛 [Bug] 不规范的HTTP请求导致日志输出](https://github.com/goravel/goravel/issues/139)
-
-- [✨ [Feature] Filesystem Driver ReadStream & WriteStream analogues](https://github.com/goravel/goravel/issues/127)
-
-
-## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
-
-- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
-
-
-## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Create Code of Conduct and Contributing Guide](https://github.com/opencorelabs/fira/issues/64)
-
-- [min password length validation](https://github.com/opencorelabs/fira/issues/41)
-
-- [email verification security](https://github.com/opencorelabs/fira/issues/46)
-
-- [register with duplicate (correct) credentials should be a no-op](https://github.com/opencorelabs/fira/issues/60)
-
-- [request new verification token](https://github.com/opencorelabs/fira/issues/53)
-
-
-## zeabur/zbpack <span style='color:#F1C40F'>(86 ⭐️)</span>
-
-- [Docusaurus support](https://github.com/zeabur/zbpack/issues/76)
-
-- [elixir support](https://github.com/zeabur/zbpack/issues/44)
-
-- [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
-
-- [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
-
-
-## nacos-group/nacos-sdk-go <span style='color:#F1C40F'>(881 ⭐️)</span>
-
-- [Examine the result code returned by the server](https://github.com/nacos-group/nacos-sdk-go/issues/619)
-
-- [Asynchronous synchronous optimization, sync according to the time returned by the server](https://github.com/nacos-group/nacos-sdk-go/issues/618)
-
-
-## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
-
-- [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
 
