@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 21:02 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 21:12 UTC.</div>
+
+
+## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Improve error response for invalid thing_id on bootstaping](https://github.com/mainflux/mainflux/issues/1801)
+
+- [CLI documentation references non-existent command](https://github.com/mainflux/mainflux/issues/1800)
+
+
+## ArmandBriere/Archy <span style='color:#F1C40F'>(29 ⭐️)</span>
+
+- [Level command on user without avatarUrl result in index out of bound in go](https://github.com/ArmandBriere/Archy/issues/189)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(5.1K ⭐️)</span>
@@ -323,9 +335,4 @@
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
-
-- [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
 
