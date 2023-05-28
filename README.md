@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 17:32 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 17:42 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
@@ -65,6 +65,11 @@
 - [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
 
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
+## fluxcd/flagger <span style='color:#F1C40F'>(4.3K ⭐️)</span>
+
+- [Incomplete error messages obscure HTTP 403 issue when accessing prometheus](https://github.com/fluxcd/flagger/issues/1434)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
