@@ -4,7 +4,20 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 07:32 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 07:42 UTC.</div>
+
+
+## fluent/fluent-operator <span style='color:#F1C40F'>(417 ⭐️)</span>
+
+- [Add feature to add multilineParser in helm chart, when enable kubernetes: true](https://github.com/fluent/fluent-operator/issues/733)
+
+- [Add custom scheduler support](https://github.com/fluent/fluent-operator/issues/758)
+
+- [Enable Fluentd Prometheus plugin](https://github.com/fluent/fluent-operator/issues/725)
+
+- [Add HPA support to Fluentd](https://github.com/fluent/fluent-operator/issues/739)
+
+- [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
@@ -205,11 +218,6 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## PuremlHQ/PureML <span style='color:#F1C40F'>(174 ⭐️)</span>
-
-- [Adding function documentation for DAOs](https://github.com/PuremlHQ/PureML/issues/227)
 
 
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
