@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 15:42 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 15:52 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
@@ -16,6 +16,24 @@
 - [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
+
+- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
@@ -104,13 +122,6 @@
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
 
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-
-## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -364,17 +375,6 @@
 - [[backend-js] Build an additional bundle importable via <script> tag](https://github.com/staticbackendhq/core/issues/81)
 
 - [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
-
-- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
