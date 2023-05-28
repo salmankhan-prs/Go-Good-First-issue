@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 07:42 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 07:52 UTC.</div>
 
 
 ## fluent/fluent-operator <span style='color:#F1C40F'>(417 ⭐️)</span>
@@ -346,9 +346,4 @@
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
-
-
-## oboukili/terraform-provider-argocd <span style='color:#F1C40F'>(276 ⭐️)</span>
-
-- [support for `ignoreMissingValueFiles` helm application parameter](https://github.com/oboukili/terraform-provider-argocd/issues/287)
 
