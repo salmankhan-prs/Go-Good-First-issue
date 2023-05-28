@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 13:42 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 13:52 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
@@ -15,6 +15,27 @@
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [bump github.com/prometheus/common from 0.43.0 to 0.44.0 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22721)
+
+- [Bump k8s.io/apimachinery from 0.27.1 to 0.27.2 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22719)
+
+- [[pkg/stanza] Do we need `flushUncombined` in the recombine operator?](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22140)
+
+- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
+
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
@@ -51,6 +72,13 @@
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
 
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+
+## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -152,27 +180,6 @@
 - [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [bump github.com/prometheus/common from 0.43.0 to 0.44.0 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22721)
-
-- [Bump k8s.io/apimachinery from 0.27.1 to 0.27.2 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22719)
-
-- [[pkg/stanza] Do we need `flushUncombined` in the recombine operator?](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22140)
-
-- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-- [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
-
-
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.7K ⭐️)</span>
 
 - [[Feature]: Split main & debug image building CI steps](https://github.com/jaegertracing/jaeger/issues/4471)
@@ -205,13 +212,6 @@
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 - [Some code blocks are not rendered properly in the documentation's PipelineRuns page](https://github.com/tektoncd/pipeline/issues/6697)
-
-
-## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(6.5K ⭐️)</span>
