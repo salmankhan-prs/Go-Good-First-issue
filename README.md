@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 15:12 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 15:22 UTC.</div>
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
@@ -71,6 +71,22 @@
 - [Add Unix Domain Socket Listener to statsdreceiver](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21385)
 
 
+## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
+
+- [Custom annotations to prometheus statefulset](https://github.com/prometheus-operator/prometheus-operator/issues/5536)
+
+
+## memphisdev/memphis <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Bug: GUI - Issue when scrolling the users' table](https://github.com/memphisdev/memphis/issues/943)
+
+- [Garbage collector for disconnected clients](https://github.com/memphisdev/memphis/issues/942)
+
+- [Feature request: Integration with Akka Streams](https://github.com/memphisdev/memphis/issues/936)
+
+- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
+
+
 ## pactus-project/pactus <span style='color:#F1C40F'>(32 ⭐️)</span>
 
 - [Reset config file to default when user deletes it](https://github.com/pactus-project/pactus/issues/478)
@@ -100,11 +116,6 @@
 ## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
-
-- [Custom annotations to prometheus statefulset](https://github.com/prometheus-operator/prometheus-operator/issues/5536)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -137,17 +148,6 @@
 ## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
 
 - [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-
-## memphisdev/memphis <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Bug: GUI - Issue when scrolling the users' table](https://github.com/memphisdev/memphis/issues/943)
-
-- [Garbage collector for disconnected clients](https://github.com/memphisdev/memphis/issues/942)
-
-- [Feature request: Integration with Akka Streams](https://github.com/memphisdev/memphis/issues/936)
-
-- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
 
 
 ## elastic/cloudbeat <span style='color:#F1C40F'>(21 ⭐️)</span>
