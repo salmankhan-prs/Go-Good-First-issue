@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 14:22 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 14:32 UTC.</div>
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
@@ -190,6 +190,11 @@
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
 - [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
+
+
+## googleapis/api-linter <span style='color:#F1C40F'>(471 ⭐️)</span>
+
+- [AIP-213: disallow cross-API dependencies](https://github.com/googleapis/api-linter/issues/1153)
 
 
 ## pipe-cd/pipecd <span style='color:#F1C40F'>(706 ⭐️)</span>
