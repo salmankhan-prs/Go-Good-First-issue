@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 07:12 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 07:22 UTC.</div>
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(5.0K ⭐️)</span>
@@ -265,24 +265,6 @@
 - [Asynchronous synchronous optimization, sync according to the time returned by the server](https://github.com/nacos-group/nacos-sdk-go/issues/618)
 
 
-## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
-
-- [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
-
-
-## staticbackendhq/core <span style='color:#F1C40F'>(571 ⭐️)</span>
-
-- [Add email interface to server-side function runtime](https://github.com/staticbackendhq/core/issues/84)
-
-- [[cli] Add a tail command to follow server logs](https://github.com/staticbackendhq/core/issues/85)
-
-- [[docs] A tutorial for Next.js](https://github.com/staticbackendhq/core/issues/83)
-
-- [[backend-js] Build an additional bundle importable via <script> tag](https://github.com/staticbackendhq/core/issues/81)
-
-- [Database provider tests clean-up](https://github.com/staticbackendhq/core/issues/80)
-
-
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
 
 - [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
@@ -354,4 +336,14 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
+## kserve/modelmesh-serving <span style='color:#F1C40F'>(135 ⭐️)</span>
+
+- [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
+
+
+## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
+
+- [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
 
