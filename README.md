@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 15:52 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 16:02 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
@@ -386,23 +386,4 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(83 ⭐️)</span>
-
-- [Update "Intro to KLT"](https://github.com/keptn/lifecycle-toolkit/issues/1467)
-
-- [Add xrefs between yaml-crd-ref pages and crd-ref pages](https://github.com/keptn/lifecycle-toolkit/issues/1465)
-
-- [reflect StatefulSets and DaemonSets in "Integrate" page](https://github.com/keptn/lifecycle-toolkit/issues/1451)
-
-- [[research] Can KLT be run in code spaces & tutorial in Jupyter Notebooks](https://github.com/keptn/lifecycle-toolkit/issues/1441)
-
-- [Apps Page Text needs tweaked](https://github.com/keptn/lifecycle-toolkit/issues/1311)
-
-- [readme should point to website not repo](https://github.com/keptn/lifecycle-toolkit/issues/1327)
-
-- [[Metrics] Add new "Keptn Metric Providers" heading](https://github.com/keptn/lifecycle-toolkit/issues/1315)
-
-- [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
 
