@@ -4,17 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 10:52 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 11:02 UTC.</div>
 
 
-## rajatjindal/goodfirstissue <span style='color:#F1C40F'>(24 ⭐️)</span>
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
-- [ignore: testing goodfirstissue](https://github.com/rajatjindal/goodfirstissue/issues/44)
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## rajatjindal/goodfirstissue <span style='color:#F1C40F'>(24 ⭐️)</span>
+
+- [ignore: testing goodfirstissue](https://github.com/rajatjindal/goodfirstissue/issues/44)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -160,11 +165,6 @@
 ## terrastruct/d2 <span style='color:#F1C40F'>(13.5K ⭐️)</span>
 
 - [3d sides don't respect theme](https://github.com/terrastruct/d2/issues/1337)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
