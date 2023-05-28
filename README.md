@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 14:02 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 14:12 UTC.</div>
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
@@ -25,6 +25,17 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
+
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -137,17 +148,6 @@
 - [Feature request: Integration with Akka Streams](https://github.com/memphisdev/memphis/issues/936)
 
 - [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## elastic/cloudbeat <span style='color:#F1C40F'>(21 ⭐️)</span>
@@ -398,11 +398,4 @@
 ## stv0g/cunicu <span style='color:#F1C40F'>(78 ⭐️)</span>
 
 - [Create Nix package](https://github.com/stv0g/cunicu/issues/145)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
