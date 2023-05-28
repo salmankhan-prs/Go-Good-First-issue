@@ -4,17 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 04:22 UTC.</div>
-
-
-## pipe-cd/pipecd <span style='color:#F1C40F'>(706 ⭐️)</span>
-
-- [kubectl apply with custom args (like --server-side) is not possible.](https://github.com/pipe-cd/pipecd/issues/4342)
+<div align='center'>Last updated at May 28, 2023 04:32 UTC.</div>
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
 
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+
+## pipe-cd/pipecd <span style='color:#F1C40F'>(706 ⭐️)</span>
+
+- [kubectl apply with custom args (like --server-side) is not possible.](https://github.com/pipe-cd/pipecd/issues/4342)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
