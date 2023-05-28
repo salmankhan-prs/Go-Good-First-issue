@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 21:22 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 21:32 UTC.</div>
 
 
 ## rancher/opni <span style='color:#F1C40F'>(255 ⭐️)</span>
@@ -57,6 +57,11 @@
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
 
 - [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
+
+
+## TwiN/gatus <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [Able to copy text when hovering over status](https://github.com/TwiN/gatus/issues/463)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
