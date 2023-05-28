@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 07:52 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 08:02 UTC.</div>
+
+
+## elastic/cloudbeat <span style='color:#F1C40F'>(21 ⭐️)</span>
+
+- [Properties of AWS resources should be in `PascalCase` casing instead of `snake_case`](https://github.com/elastic/cloudbeat/issues/914)
 
 
 ## fluent/fluent-operator <span style='color:#F1C40F'>(417 ⭐️)</span>
@@ -74,6 +79,13 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
+## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
 ## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(6.5K ⭐️)</span>
 
 - [Kubernetes and Kubebuilder use different mechanisms to generate plurals](https://github.com/kubernetes-sigs/kubebuilder/issues/3402)
@@ -84,13 +96,6 @@
 - [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
-
-
-## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## terrastruct/d2 <span style='color:#F1C40F'>(13.5K ⭐️)</span>
@@ -134,6 +139,17 @@
 - [[Feature]: Split main & debug image building CI steps](https://github.com/jaegertracing/jaeger/issues/4471)
 
 - [[Feature]: Support CORS headers on OTEL HTTP endpoint](https://github.com/jaegertracing/jaeger/issues/4459)
+
+
+## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
+
+- [Support `variables` in the okteto manifest](https://github.com/okteto/okteto/issues/3583)
+
+- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
+
+- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
@@ -334,16 +350,4 @@
 ## stv0g/cunicu <span style='color:#F1C40F'>(78 ⭐️)</span>
 
 - [Create Nix package](https://github.com/stv0g/cunicu/issues/145)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Call for function implementations](https://github.com/lf-edge/ekuiper/issues/1869)
 
