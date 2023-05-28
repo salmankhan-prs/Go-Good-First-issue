@@ -4,7 +4,16 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 20:52 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 21:02 UTC.</div>
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 
 ## rancher/opni <span style='color:#F1C40F'>(255 ⭐️)</span>
@@ -16,15 +25,6 @@
 - [Data import Sending too large packets](https://github.com/rancher/opni/issues/1415)
 
 - [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -266,6 +266,11 @@
 - [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
 
 
+## dapr/cli <span style='color:#F1C40F'>(283 ⭐️)</span>
+
+- [Allow app channel address to be passed via CLI](https://github.com/dapr/cli/issues/1281)
+
+
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(17.7K ⭐️)</span>
 
 - [[Feature]: Split main & debug image building CI steps](https://github.com/jaegertracing/jaeger/issues/4471)
@@ -323,13 +328,4 @@
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
 
 - [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
-
-- [Build hash should not check secret content to create it](https://github.com/okteto/okteto/issues/3622)
-
-- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
 
