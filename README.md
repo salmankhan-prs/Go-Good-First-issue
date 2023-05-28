@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 11:12 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 11:22 UTC.</div>
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -34,6 +34,8 @@
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [Add ETag getObject with If-None-Match](https://github.com/treeverse/lakeFS/issues/5967)
 
 - [Use Go versioninfo to embed Git version in dev executables](https://github.com/treeverse/lakeFS/issues/5954)
 
@@ -240,6 +242,13 @@
 - [Starting and exiting immediately prints "NaN% packet loss"](https://github.com/pouriyajamshidi/tcping/issues/81)
 
 - [Automate the release process](https://github.com/pouriyajamshidi/tcping/issues/78)
+
+
+## goravel/goravel <span style='color:#F1C40F'>(801 ⭐️)</span>
+
+- [🐛 [Bug] 不规范的HTTP请求导致日志输出](https://github.com/goravel/goravel/issues/139)
+
+- [✨ [Feature] Filesystem Driver ReadStream & WriteStream analogues](https://github.com/goravel/goravel/issues/127)
 
 
 ## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
