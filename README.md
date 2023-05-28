@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 03:32 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 03:42 UTC.</div>
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
