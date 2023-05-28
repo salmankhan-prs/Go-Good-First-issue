@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 12:32 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 12:42 UTC.</div>
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -163,8 +163,6 @@
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
 - [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-- [[Feature]: Guide to writing an integration ](https://github.com/k8sgpt-ai/k8sgpt/issues/360)
 
 
 ## pipe-cd/pipecd <span style='color:#F1C40F'>(706 ⭐️)</span>
