@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 04:02 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 04:12 UTC.</div>
+
+
+## pipe-cd/pipecd <span style='color:#F1C40F'>(706 ⭐️)</span>
+
+- [kubectl apply with custom args (like --server-side) is not possible.](https://github.com/pipe-cd/pipecd/issues/4342)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -324,11 +329,6 @@
 - [Apps Page Needs Expansion ](https://github.com/keptn/lifecycle-toolkit/issues/1310)
 
 
-## pipe-cd/pipecd <span style='color:#F1C40F'>(706 ⭐️)</span>
-
-- [kubectl apply with custom args (like --server-side) is not possible.](https://github.com/pipe-cd/pipecd/issues/4342)
-
-
 ## stv0g/cunicu <span style='color:#F1C40F'>(78 ⭐️)</span>
 
 - [Create Nix package](https://github.com/stv0g/cunicu/issues/145)
@@ -359,9 +359,4 @@
 ## kserve/modelmesh-serving <span style='color:#F1C40F'>(135 ⭐️)</span>
 
 - [Add note to install docs to use doc for latest released version](https://github.com/kserve/modelmesh-serving/issues/366)
-
-
-## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
-
-- [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
 
