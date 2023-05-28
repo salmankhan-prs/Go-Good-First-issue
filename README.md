@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 28, 2023 16:22 UTC.</div>
+<div align='center'>Last updated at May 28, 2023 16:32 UTC.</div>
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(5.1K ⭐️)</span>
@@ -16,6 +16,13 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 
+## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
+
+- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
+
+
 ## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
 
 - [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
@@ -25,13 +32,6 @@
 - [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.2K ⭐️)</span>
