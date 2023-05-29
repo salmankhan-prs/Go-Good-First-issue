@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 10:52 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 11:02 UTC.</div>
 
 
 ## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
