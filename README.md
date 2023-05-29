@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 23:42 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 23:52 UTC.</div>
+
+
+## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
+
+- [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
 
 
 ## bacalhau-project/bacalhau <span style='color:#F1C40F'>(356 ⭐️)</span>
@@ -289,11 +294,6 @@
 - [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
 
 - [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
-
-
-## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
-
-- [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
 
 
 ## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
