@@ -4,12 +4,23 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 08:42 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 08:52 UTC.</div>
 
 
 ## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
+
+
+## memphisdev/memphis <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Bug: GUI - Issue when scrolling the users' table](https://github.com/memphisdev/memphis/issues/943)
+
+- [Garbage collector for disconnected clients](https://github.com/memphisdev/memphis/issues/942)
+
+- [Feature request: Integration with Akka Streams](https://github.com/memphisdev/memphis/issues/936)
+
+- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
