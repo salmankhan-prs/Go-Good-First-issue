@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 11:42 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 11:52 UTC.</div>
+
+
+## chainloop-dev/chainloop <span style='color:#F1C40F'>(183 ⭐️)</span>
+
+- [deployment: split sentry configuration](https://github.com/chainloop-dev/chainloop/issues/104)
+
+- [chart: improve installation output (notes.md) ](https://github.com/chainloop-dev/chainloop/issues/97)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
@@ -358,9 +365,4 @@
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
-## anchore/grype <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [Grype docker image on dockerhub has no shell commands available to be able to keep it alive for Jenkins exec into scan with it - please add busybox at least](https://github.com/anchore/grype/issues/1287)
 
