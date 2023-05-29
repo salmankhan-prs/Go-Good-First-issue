@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 23:22 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 23:32 UTC.</div>
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+
+## rancher/opni <span style='color:#F1C40F'>(255 ⭐️)</span>
+
+- [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
+
+- [Panic encountered while watching data import progress:](https://github.com/rancher/opni/issues/1375)
+
+- [Data import Sending too large packets](https://github.com/rancher/opni/issues/1415)
+
+- [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
@@ -66,17 +82,6 @@
 ## onflow/cadence <span style='color:#F1C40F'>(471 ⭐️)</span>
 
 - [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
-
-
-## rancher/opni <span style='color:#F1C40F'>(255 ⭐️)</span>
-
-- [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
-
-- [Panic encountered while watching data import progress:](https://github.com/rancher/opni/issues/1375)
-
-- [Data import Sending too large packets](https://github.com/rancher/opni/issues/1415)
-
-- [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -155,9 +160,11 @@
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
+## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
