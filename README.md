@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 22:02 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 22:12 UTC.</div>
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
+
+- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
 
 
 ## kubeshop/tracetest <span style='color:#F1C40F'>(555 ⭐️)</span>
@@ -86,9 +91,11 @@
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
+## cometbft/cometbft <span style='color:#F1C40F'>(280 ⭐️)</span>
 
-- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
+- [Add Go API support to bootstrap node after it was state synced](https://github.com/cometbft/cometbft/issues/884)
+
+- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
@@ -180,13 +187,6 @@
 - [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
 
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
-
-
-## cometbft/cometbft <span style='color:#F1C40F'>(279 ⭐️)</span>
-
-- [Add Go API support to bootstrap node after it was state synced](https://github.com/cometbft/cometbft/issues/884)
-
-- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
 
 
 ## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
