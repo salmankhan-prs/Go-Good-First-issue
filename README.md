@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 18:32 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 18:42 UTC.</div>
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [bump github.com/prometheus/common from 0.43.0 to 0.44.0 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22721)
+
+- [Bump k8s.io/apimachinery from 0.27.1 to 0.27.2 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22719)
+
+- [[pkg/stanza] Do we need `flushUncombined` in the recombine operator?](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22140)
+
+- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
+
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
 
 
 ## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -31,25 +50,6 @@
 - [feat: GCP service account impersonation](https://github.com/cloudquery/cloudquery/issues/10903)
 
 - [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
-
-- [bump github.com/prometheus/common from 0.43.0 to 0.44.0 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22721)
-
-- [Bump k8s.io/apimachinery from 0.27.1 to 0.27.2 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22719)
-
-- [[pkg/stanza] Do we need `flushUncombined` in the recombine operator?](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22140)
-
-- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
-
-- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
-
-- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
-
-- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
@@ -186,6 +186,13 @@
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
+## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+
 ## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [Support Linode MySQL instances](https://github.com/tailwarden/komiser/issues/823)
@@ -297,116 +304,4 @@
 - [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
 
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
-
-- [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
-
-
-## berops/claudie <span style='color:#F1C40F'>(241 ⭐️)</span>
-
-- [Feature: label secrets produced by Claudie](https://github.com/berops/claudie/issues/816)
-
-- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
-
-
-## protoconf/protoconf <span style='color:#F1C40F'>(112 ⭐️)</span>
-
-- [TLS configuration for Protoconf gRPC servers](https://github.com/protoconf/protoconf/issues/325)
-
-- [Upgrade Valkeyrie to v1](https://github.com/protoconf/protoconf/issues/321)
-
-- [[Javascript] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/318)
-
-- [[Java] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/320)
-
-- [[rust] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/319)
-
-- [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
-
-
-## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [CLI documentation references non-existent command](https://github.com/mainflux/mainflux/issues/1800)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.2K ⭐️)</span>
-
-- [Feature: OpenWrt specific cataloger](https://github.com/anchore/syft/issues/1847)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
-
-- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
-
-
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
-
-- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
-
-
-## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
-
-- [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
-
-- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
-
-- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
-
-
-## dose-na-nuvem/customers <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Parametrizar timeout do servidor HTTP](https://github.com/dose-na-nuvem/customers/issues/26)
-
-- [Permitir parametrização do banco via configuração](https://github.com/dose-na-nuvem/customers/issues/25)
-
-- [Adicinar suporte a live reload](https://github.com/dose-na-nuvem/customers/issues/21)
-
-
-## qascade/dcr <span style='color:#F1C40F'>(15 ⭐️)</span>
-
-- [feat(service): automate csv assignment inside enclave.json](https://github.com/qascade/dcr/issues/45)
-
-- [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
-
-- [feat(config): enable use of relative addresses in config yaml. ](https://github.com/qascade/dcr/issues/33)
-
-- [fix(config): error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
-
-- [refactor: migrate the ego-server code from different repo to dcr](https://github.com/qascade/dcr/issues/40)
-
-- [feat: dockerize dcr](https://github.com/qascade/dcr/issues/65)
-
-- [ci: propose an automated way to generate changelogs](https://github.com/qascade/dcr/issues/50)
-
-- [test: make TestGraph tests strict](https://github.com/qascade/dcr/issues/53)
-
-- [ci: a actions config to test ego apps on github.](https://github.com/qascade/dcr/issues/41)
-
-- [fix(adress): authorized Sorting failing on non-authorization ](https://github.com/qascade/dcr/issues/36)
-
-- [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(712 ⭐️)</span>
-
-- [(feature) doc create a all docs version page](https://github.com/thomaspoignant/go-feature-flag/issues/830)
-
-- [(feature) Add go-feature-flag to scoop extra](https://github.com/thomaspoignant/go-feature-flag/issues/817)
-
-- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
-
-
-## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [wanted: cleanup logs](https://github.com/bnb-chain/bsc/issues/1650)
-
-- [wanted: specify single hard fork height in config.toml](https://github.com/bnb-chain/bsc/issues/1625)
 
