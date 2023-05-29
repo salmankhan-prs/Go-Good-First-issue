@@ -4,7 +4,29 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 14:32 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 14:42 UTC.</div>
+
+
+## ChainSafe/gossamer <span style='color:#F1C40F'>(386 ⭐️)</span>
+
+- [cli: generate account key if not specified](https://github.com/ChainSafe/gossamer/issues/3255)
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
+
+- [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
+
+
+## berops/claudie <span style='color:#F1C40F'>(241 ⭐️)</span>
+
+- [Feature: label secrets produced by Claudie](https://github.com/berops/claudie/issues/816)
+
+- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
@@ -25,11 +47,6 @@
 - [[rust] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/319)
 
 - [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
@@ -57,6 +74,11 @@
 - [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
 
 
+## anchore/syft <span style='color:#F1C40F'>(4.2K ⭐️)</span>
+
+- [Feature: OpenWrt specific cataloger](https://github.com/anchore/syft/issues/1847)
+
+
 ## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
 
 - [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
@@ -67,11 +89,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
-## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
-
-- [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
 
 
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
@@ -124,13 +141,6 @@
 - [(feature) Add go-feature-flag to scoop extra](https://github.com/thomaspoignant/go-feature-flag/issues/817)
 
 - [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
-
-
-## berops/claudie <span style='color:#F1C40F'>(241 ⭐️)</span>
-
-- [Feature: label secrets produced by Claudie](https://github.com/berops/claudie/issues/816)
-
-- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
 
 
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -221,6 +231,29 @@
 - [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
+## zeabur/zbpack <span style='color:#F1C40F'>(87 ⭐️)</span>
+
+- [elixir support](https://github.com/zeabur/zbpack/issues/44)
+
+- [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
+
+- [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
+
+
+## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [deprecate clef and remove from released binaries](https://github.com/ethersphere/bee/issues/4100)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(522 ⭐️)</span>
+
+- [core: move empty square tests to `share/empty_test.go`](https://github.com/celestiaorg/celestia-node/issues/2266)
+
+- [drop minio dep for go >= 1.21](https://github.com/celestiaorg/celestia-node/issues/2247)
+
+- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
+
+
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
@@ -288,38 +321,16 @@
 - [The `requirements_lock` file must be fully pinned error](https://github.com/bufbuild/protoc-gen-validate/issues/863)
 
 
+## chainloop-dev/chainloop <span style='color:#F1C40F'>(183 ⭐️)</span>
+
+- [deployment: split sentry configuration](https://github.com/chainloop-dev/chainloop/issues/104)
+
+- [chart: improve installation output (notes.md) ](https://github.com/chainloop-dev/chainloop/issues/97)
+
+
 ## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
 
 - [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
-
-
-## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
-
-- [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
-## Kuadrant/multicluster-gateway-controller <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [bug sometimes a zone will get created multiple times](https://github.com/Kuadrant/multicluster-gateway-controller/issues/180)
-
-- [bug: A record weighting is incorrect](https://github.com/Kuadrant/multicluster-gateway-controller/issues/192)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [Add ETag getObject with If-None-Match](https://github.com/treeverse/lakeFS/issues/5967)
-
-- [Use Go versioninfo to embed Git version in dev executables](https://github.com/treeverse/lakeFS/issues/5954)
-
-- [feat request: looking for a way to initialise lakeFS without the UI](https://github.com/treeverse/lakeFS/issues/5947)
-
-- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
-
-- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
-
-- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
 
