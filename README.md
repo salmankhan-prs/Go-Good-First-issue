@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 05:02 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 05:12 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
@@ -294,7 +294,7 @@
 - [recursive schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/18)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.6K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
