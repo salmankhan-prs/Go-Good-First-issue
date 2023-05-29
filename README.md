@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 04:42 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 04:52 UTC.</div>
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
@@ -60,6 +60,8 @@
 
 
 ## pipe-cd/pipecd <span style='color:#F1C40F'>(706 ⭐️)</span>
+
+- [Support Terraform import block](https://github.com/pipe-cd/pipecd/issues/4349)
 
 - [kubectl apply with custom args (like --server-side) is not possible.](https://github.com/pipe-cd/pipecd/issues/4342)
 
