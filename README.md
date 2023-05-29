@@ -4,12 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 22:42 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 22:52 UTC.</div>
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.6K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
@@ -74,11 +79,6 @@
 - [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.6K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
 ## grafana/pyroscope <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [[remoteWrite] add more info (like url) when showing errors](https://github.com/grafana/pyroscope/issues/1961)
@@ -101,6 +101,11 @@
 - [Add Go API support to bootstrap node after it was state synced](https://github.com/cometbft/cometbft/issues/884)
 
 - [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
@@ -197,11 +202,6 @@
 ## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
 
 - [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -340,18 +340,4 @@
 ## stv0g/cunicu <span style='color:#F1C40F'>(78 ⭐️)</span>
 
 - [Create Nix package](https://github.com/stv0g/cunicu/issues/145)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(522 ⭐️)</span>
-
-- [core: move empty square tests to `share/empty_test.go`](https://github.com/celestiaorg/celestia-node/issues/2266)
-
-- [drop minio dep for go >= 1.21](https://github.com/celestiaorg/celestia-node/issues/2247)
-
-- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
-
-
-## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
-
-- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
 
