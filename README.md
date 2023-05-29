@@ -4,7 +4,45 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 14:02 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 14:12 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
+
+- [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
+
+
+## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
+
+- [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
+
+- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
+
+- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
+
+- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
+
+
+## dose-na-nuvem/customers <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Parametrizar timeout do servidor HTTP](https://github.com/dose-na-nuvem/customers/issues/26)
+
+- [Permitir parametrização do banco via configuração](https://github.com/dose-na-nuvem/customers/issues/25)
+
+- [Adicinar suporte a live reload](https://github.com/dose-na-nuvem/customers/issues/21)
 
 
 ## qascade/dcr <span style='color:#F1C40F'>(15 ⭐️)</span>
@@ -48,11 +86,6 @@
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
 ## berops/claudie <span style='color:#F1C40F'>(241 ⭐️)</span>
 
 - [Feature: label secrets produced by Claudie](https://github.com/berops/claudie/issues/816)
@@ -86,11 +119,6 @@
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
 - [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
@@ -112,20 +140,6 @@
 - [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## dose-na-nuvem/customers <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Parametrizar timeout do servidor HTTP](https://github.com/dose-na-nuvem/customers/issues/26)
-
-- [Permitir parametrização do banco via configuração](https://github.com/dose-na-nuvem/customers/issues/25)
-
-- [Adicinar suporte a live reload](https://github.com/dose-na-nuvem/customers/issues/21)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
-
-- [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
 
 
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
@@ -306,14 +320,4 @@
 - [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
 
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
-
-
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
 
