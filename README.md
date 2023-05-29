@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 02:52 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 03:02 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -17,16 +22,21 @@
 - [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
 
 
-## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
-
-
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 - [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
+
+
+## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
@@ -40,21 +50,11 @@
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
-
-
 ## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
 
 - [Container completions broken when inspecting without specifying `container` in the command](https://github.com/containers/podman/issues/18672)
 
 - [Invalid "Last Up" time in HyperV ](https://github.com/containers/podman/issues/18522)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
@@ -316,6 +316,17 @@
 - [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
 
 
+## zeabur/zbpack <span style='color:#F1C40F'>(87 ⭐️)</span>
+
+- [Docusaurus support](https://github.com/zeabur/zbpack/issues/76)
+
+- [elixir support](https://github.com/zeabur/zbpack/issues/44)
+
+- [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
+
+- [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
+
+
 ## rajatjindal/goodfirstissue <span style='color:#F1C40F'>(24 ⭐️)</span>
 
 - [ignore: testing goodfirstissue](https://github.com/rajatjindal/goodfirstissue/issues/44)
@@ -341,17 +352,4 @@
 - [:book: Use the automated version numbers on all documentation](https://github.com/kairos-io/kairos/issues/1459)
 
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
-
-
-## fluent/fluent-operator <span style='color:#F1C40F'>(417 ⭐️)</span>
-
-- [Add feature to add multilineParser in helm chart, when enable kubernetes: true](https://github.com/fluent/fluent-operator/issues/733)
-
-- [Add custom scheduler support](https://github.com/fluent/fluent-operator/issues/758)
-
-- [Enable Fluentd Prometheus plugin](https://github.com/fluent/fluent-operator/issues/725)
-
-- [Add HPA support to Fluentd](https://github.com/fluent/fluent-operator/issues/739)
-
-- [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
 
