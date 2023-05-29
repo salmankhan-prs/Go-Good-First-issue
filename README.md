@@ -4,7 +4,37 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 19:12 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 19:22 UTC.</div>
+
+
+## pouriyajamshidi/tcping <span style='color:#F1C40F'>(137 ⭐️)</span>
+
+- [`-c` flag does not print `TCPing ended at` information](https://github.com/pouriyajamshidi/tcping/issues/89)
+
+- [Starting and exiting immediately prints "NaN% packet loss"](https://github.com/pouriyajamshidi/tcping/issues/81)
+
+- [Automate the release process](https://github.com/pouriyajamshidi/tcping/issues/78)
+
+
+## foxcpp/maddy <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Add support for delegating DNS-01 challenge to a different domain](https://github.com/foxcpp/maddy/issues/588)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+- [Implement `envtool tests shard` command](https://github.com/FerretDB/FerretDB/issues/2692)
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
 ## cometbft/cometbft <span style='color:#F1C40F'>(279 ⭐️)</span>
@@ -45,6 +75,16 @@
 - [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
 
 
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
@@ -74,15 +114,9 @@
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+## navidrome/navidrome <span style='color:#F1C40F'>(6.8K ⭐️)</span>
 
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-- [Implement `envtool tests shard` command](https://github.com/FerretDB/FerretDB/issues/2692)
-
-- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+- [Ignore playlist files beginning with "."](https://github.com/navidrome/navidrome/issues/2367)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
@@ -99,16 +133,6 @@
 - [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
@@ -131,6 +155,11 @@
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
+
+
+## anchore/grype <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [Grype docker image on dockerhub has no shell commands available to be able to keep it alive for Jenkins exec into scan with it - please add busybox at least](https://github.com/anchore/grype/issues/1287)
 
 
 ## kubeshop/tracetest <span style='color:#F1C40F'>(555 ⭐️)</span>
@@ -174,11 +203,6 @@
 - [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
 
 - [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 
 ## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
@@ -292,16 +316,4 @@
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(382 ⭐️)</span>
-
-- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
