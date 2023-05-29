@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 15:12 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 15:22 UTC.</div>
+
+
+## ChainSafe/gossamer <span style='color:#F1C40F'>(386 ⭐️)</span>
+
+- [cli: generate account key if not specified](https://github.com/ChainSafe/gossamer/issues/3255)
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -19,11 +29,6 @@
 - [Add command-line flag to enable logs in tests](https://github.com/roc-streaming/roc-go/issues/96)
 
 - [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
@@ -50,11 +55,6 @@
 - [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-
-## ChainSafe/gossamer <span style='color:#F1C40F'>(386 ⭐️)</span>
-
-- [cli: generate account key if not specified](https://github.com/ChainSafe/gossamer/issues/3255)
 
 
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
@@ -194,31 +194,6 @@
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
-
-
-## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [wanted: cleanup logs](https://github.com/bnb-chain/bsc/issues/1650)
-
-- [wanted: specify single hard fork height in config.toml](https://github.com/bnb-chain/bsc/issues/1625)
-
-
-## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [wanted: cleanup logs](https://github.com/bnb-chain/bsc/issues/1650)
-
-- [wanted: specify single hard fork height in config.toml](https://github.com/bnb-chain/bsc/issues/1625)
-
-
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
 - [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
@@ -296,17 +271,6 @@
 - [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
 
 - [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-- [Implement `envtool tests shard` command](https://github.com/FerretDB/FerretDB/issues/2692)
-
-- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
-
-- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
 ## celestiaorg/knuu <span style='color:#F1C40F'>(3 ⭐️)</span>
