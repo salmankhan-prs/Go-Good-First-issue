@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 02:42 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 02:52 UTC.</div>
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
+
+- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
+
+
+## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
@@ -28,11 +43,6 @@
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
-
-
-## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
 
 
 ## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
@@ -84,7 +94,7 @@
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
-## go-skynet/LocalAI <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+## go-skynet/LocalAI <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
 
@@ -107,6 +117,15 @@
 - [Data import Sending too large packets](https://github.com/rancher/opni/issues/1415)
 
 - [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
+
+
+## ray-project/kuberay <span style='color:#F1C40F'>(357 ⭐️)</span>
+
+- [[Bug][CI] Add tests to ensure that the `zz_generated.deepcopy.go` is up-to-date.](https://github.com/ray-project/kuberay/issues/1111)
+
+- [[Doc] Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
+
+- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
@@ -134,11 +153,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
-
-- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
 
 
 ## TwiN/gatus <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -202,6 +216,11 @@
 - [recursive schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/18)
 
 
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
 ## fluxcd/flagger <span style='color:#F1C40F'>(4.3K ⭐️)</span>
 
 - [Incomplete error messages obscure HTTP 403 issue when accessing prometheus](https://github.com/fluxcd/flagger/issues/1434)
@@ -228,11 +247,6 @@
 ## go-nostr/nostr <span style='color:#F1C40F'>(5 ⭐️)</span>
 
 - [Add support for a 'Top 8' follower/following](https://github.com/go-nostr/nostr/issues/140)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -340,16 +354,4 @@
 - [Add HPA support to Fluentd](https://github.com/fluent/fluent-operator/issues/739)
 
 - [help request: [docs] Documentation for Collector CRD is missing. ](https://github.com/fluent/fluent-operator/issues/722)
-
-
-## dapr/cli <span style='color:#F1C40F'>(283 ⭐️)</span>
-
-- [Allow app channel address to be passed via CLI](https://github.com/dapr/cli/issues/1281)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.7K ⭐️)</span>
-
-- [[Feature]: Split main & debug image building CI steps](https://github.com/jaegertracing/jaeger/issues/4471)
-
-- [[Feature]: Support CORS headers on OTEL HTTP endpoint](https://github.com/jaegertracing/jaeger/issues/4459)
 
