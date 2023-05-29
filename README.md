@@ -4,7 +4,33 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 14:42 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 14:52 UTC.</div>
+
+
+## stv0g/cunicu <span style='color:#F1C40F'>(78 ⭐️)</span>
+
+- [Create Nix package](https://github.com/stv0g/cunicu/issues/145)
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [feature: Enable token stream on /completion](https://github.com/go-skynet/LocalAI/issues/406)
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## ChainSafe/gossamer <span style='color:#F1C40F'>(386 ⭐️)</span>
@@ -22,11 +48,6 @@
 - [Feature: label secrets produced by Claudie](https://github.com/berops/claudie/issues/816)
 
 - [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
@@ -54,19 +75,9 @@
 - [CLI documentation references non-existent command](https://github.com/mainflux/mainflux/issues/1800)
 
 
-## stv0g/cunicu <span style='color:#F1C40F'>(78 ⭐️)</span>
-
-- [Create Nix package](https://github.com/stv0g/cunicu/issues/145)
-
-
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
 
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
@@ -89,6 +100,15 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
+## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
+
+- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
+
+- [Create module.http component](https://github.com/grafana/agent/issues/3875)
 
 
 ## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
@@ -158,17 +178,6 @@
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
 
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [feature: Enable token stream on /completion](https://github.com/go-skynet/LocalAI/issues/406)
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
@@ -326,11 +335,4 @@
 - [deployment: split sentry configuration](https://github.com/chainloop-dev/chainloop/issues/104)
 
 - [chart: improve installation output (notes.md) ](https://github.com/chainloop-dev/chainloop/issues/97)
-
-
-## okteto/okteto <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Support a `remote` boolean field in the `deploy` section of the okteto manifest](https://github.com/okteto/okteto/issues/3645)
-
-- [`deploy` commands without output doesn't have an stage in the Okteto UI](https://github.com/okteto/okteto/issues/3596)
 
