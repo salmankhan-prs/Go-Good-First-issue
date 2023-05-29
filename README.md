@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 21:32 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 21:42 UTC.</div>
+
+
+## rancher/opni <span style='color:#F1C40F'>(255 ⭐️)</span>
+
+- [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
+
+- [Panic encountered while watching data import progress:](https://github.com/rancher/opni/issues/1375)
+
+- [Data import Sending too large packets](https://github.com/rancher/opni/issues/1415)
+
+- [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
 
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(17 ⭐️)</span>
@@ -363,16 +374,4 @@
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
-## project-zot/zot <span style='color:#F1C40F'>(382 ⭐️)</span>
-
-- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
-
-- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
