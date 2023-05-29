@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 15:22 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 15:32 UTC.</div>
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+
+## stv0g/cunicu <span style='color:#F1C40F'>(78 ⭐️)</span>
+
+- [Create Nix package](https://github.com/stv0g/cunicu/issues/145)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
 
 
 ## ChainSafe/gossamer <span style='color:#F1C40F'>(386 ⭐️)</span>
@@ -22,6 +39,11 @@
 - [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
+## project-zot/zot <span style='color:#F1C40F'>(382 ⭐️)</span>
+
+- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
+
+
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(17 ⭐️)</span>
 
 - [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
@@ -36,9 +58,9 @@
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
-## stv0g/cunicu <span style='color:#F1C40F'>(78 ⭐️)</span>
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
 
-- [Create Nix package](https://github.com/stv0g/cunicu/issues/145)
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -92,11 +114,6 @@
 ## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [CLI documentation references non-existent command](https://github.com/mainflux/mainflux/issues/1800)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
@@ -182,16 +199,27 @@
 - [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
-
-
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
 
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [wanted: cleanup logs](https://github.com/bnb-chain/bsc/issues/1650)
+
+- [wanted: specify single hard fork height in config.toml](https://github.com/bnb-chain/bsc/issues/1625)
 
 
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -273,6 +301,17 @@
 - [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
 
 
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+- [Implement `envtool tests shard` command](https://github.com/FerretDB/FerretDB/issues/2692)
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+
 ## celestiaorg/knuu <span style='color:#F1C40F'>(3 ⭐️)</span>
 
 - [If there is no port added, there is no Kubernetes Service, so no IP, but GetIP does not return an error](https://github.com/celestiaorg/knuu/issues/51)
@@ -303,9 +342,4 @@
 ## crossplane/crossplane <span style='color:#F1C40F'>(7.1K ⭐️)</span>
 
 - [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
-
-
-## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [The `requirements_lock` file must be fully pinned error](https://github.com/bufbuild/protoc-gen-validate/issues/863)
 
