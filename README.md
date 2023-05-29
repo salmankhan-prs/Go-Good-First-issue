@@ -4,12 +4,20 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 20:42 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 20:52 UTC.</div>
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## staticbackendhq/core <span style='color:#F1C40F'>(571 ⭐️)</span>
-
-- [Add email interface to server-side function runtime](https://github.com/staticbackendhq/core/issues/84)
 
 - [[cli] Add a tail command to follow server logs](https://github.com/staticbackendhq/core/issues/85)
 
@@ -167,16 +175,6 @@
 - [Ignore playlist files beginning with "."](https://github.com/navidrome/navidrome/issues/2367)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
 ## tektoncd/pipeline <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
@@ -300,4 +298,90 @@
 ## crossplane/crossplane <span style='color:#F1C40F'>(7.1K ⭐️)</span>
 
 - [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
+
+- [[Feature]: bitwise AND and OR operators in filter expression](https://github.com/milvus-io/milvus/issues/24490)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## stv0g/cunicu <span style='color:#F1C40F'>(78 ⭐️)</span>
+
+- [Create Nix package](https://github.com/stv0g/cunicu/issues/145)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(522 ⭐️)</span>
+
+- [core: move empty square tests to `share/empty_test.go`](https://github.com/celestiaorg/celestia-node/issues/2266)
+
+- [drop minio dep for go >= 1.21](https://github.com/celestiaorg/celestia-node/issues/2247)
+
+- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
+
+- [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
+
+
+## ChainSafe/gossamer <span style='color:#F1C40F'>(386 ⭐️)</span>
+
+- [cli: generate account key if not specified](https://github.com/ChainSafe/gossamer/issues/3255)
+
+
+## memphisdev/memphis <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Bug: GUI - Issue when scrolling the users' table](https://github.com/memphisdev/memphis/issues/943)
+
+- [Garbage collector for disconnected clients](https://github.com/memphisdev/memphis/issues/942)
+
+- [Feature request: Integration with Akka Streams](https://github.com/memphisdev/memphis/issues/936)
+
+- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
+
+
+## open-policy-agent/opa <span style='color:#F1C40F'>(8.1K ⭐️)</span>
+
+- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
+
+- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
+
+- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## project-zot/zot <span style='color:#F1C40F'>(382 ⭐️)</span>
+
+- [[Feat]: propagate error msgs to the client (but be mindful of OCI dist-spec)](https://github.com/project-zot/zot/issues/1418)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
+
+- [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
+
+- [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
+
+
+## berops/claudie <span style='color:#F1C40F'>(241 ⭐️)</span>
+
+- [Feature: label secrets produced by Claudie](https://github.com/berops/claudie/issues/816)
+
+- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
 
