@@ -4,24 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 20:12 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 20:22 UTC.</div>
 
 
-## kubeshop/tracetest <span style='color:#F1C40F'>(555 ⭐️)</span>
+## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
-- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
+- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -29,6 +17,35 @@
 - [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
+
+- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.6K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+
+## kubeshop/tracetest <span style='color:#F1C40F'>(555 ⭐️)</span>
+
+- [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
 
 
 ## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -39,13 +56,6 @@
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -79,11 +89,6 @@
 ## foxcpp/maddy <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [Add support for delegating DNS-01 challenge to a different domain](https://github.com/foxcpp/maddy/issues/588)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -131,11 +136,6 @@
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
 
 - [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.6K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## navidrome/navidrome <span style='color:#F1C40F'>(6.8K ⭐️)</span>
@@ -188,9 +188,11 @@
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(17 ⭐️)</span>
 
-- [Add end-to-end test without FEC](https://github.com/roc-streaming/roc-go/issues/102)
-
 - [Improve acceptance criteria of end-to-end test](https://github.com/roc-streaming/roc-go/issues/101)
+
+- [Add end-to-end test with resampler](https://github.com/roc-streaming/roc-go/issues/103)
+
+- [Add end-to-end test without FEC](https://github.com/roc-streaming/roc-go/issues/102)
 
 - [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
 
