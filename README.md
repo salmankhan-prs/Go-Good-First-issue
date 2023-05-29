@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 13:42 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 13:52 UTC.</div>
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(712 ⭐️)</span>
@@ -14,6 +14,35 @@
 - [(feature) Add go-feature-flag to scoop extra](https://github.com/thomaspoignant/go-feature-flag/issues/817)
 
 - [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
+
+- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## berops/claudie <span style='color:#F1C40F'>(241 ⭐️)</span>
+
+- [Feature: label secrets produced by Claudie](https://github.com/berops/claudie/issues/816)
+
+- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
+
+
+## stv0g/cunicu <span style='color:#F1C40F'>(78 ⭐️)</span>
+
+- [Create Nix package](https://github.com/stv0g/cunicu/issues/145)
+
+
+## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [CLI documentation references non-existent command](https://github.com/mainflux/mainflux/issues/1800)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -206,11 +235,6 @@
 - [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
 
 
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
 ## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [The `requirements_lock` file must be fully pinned error](https://github.com/bufbuild/protoc-gen-validate/issues/863)
@@ -321,32 +345,4 @@
 - [Feature request: Integration with Akka Streams](https://github.com/memphisdev/memphis/issues/936)
 
 - [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
-
-
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
-
-- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
-
-
-## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(11.0K ⭐️)</span>
-
-- [Feature:  jssdk server optimize](https://github.com/OpenIMSDK/Open-IM-Server/issues/422)
-
-- [【RFC】Design of OpenIM Log Package Zap](https://github.com/OpenIMSDK/Open-IM-Server/issues/387)
-
-- [[Feature]: Refactoring of the script directory](https://github.com/OpenIMSDK/Open-IM-Server/issues/383)
-
-- [Feature: Expect a document bot](https://github.com/OpenIMSDK/Open-IM-Server/issues/393)
-
-- [Feature:Deploy Server-side Through a Visual Web Interface.](https://github.com/OpenIMSDK/Open-IM-Server/issues/420)
-
-- [[Feature]: The open im flutter sdk supports the web/pc side](https://github.com/OpenIMSDK/Open-IM-Server/issues/386)
-
-- [[Feature]: Reverse the rewrite of OpenIM-Docs](https://github.com/OpenIMSDK/Open-IM-Server/issues/384)
-
-- [Provides OpenIM document translation](https://github.com/OpenIMSDK/Open-IM-Server/issues/371)
 
