@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 04:22 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 04:32 UTC.</div>
 
 
 ## ray-project/kuberay <span style='color:#F1C40F'>(357 ⭐️)</span>
@@ -289,17 +289,6 @@
 ## fluxcd/flagger <span style='color:#F1C40F'>(4.3K ⭐️)</span>
 
 - [Incomplete error messages obscure HTTP 403 issue when accessing prometheus](https://github.com/fluxcd/flagger/issues/1434)
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.3K ⭐️)</span>
-
-- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
