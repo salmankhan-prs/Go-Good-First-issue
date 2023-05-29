@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 18:02 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 18:12 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.6K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
 ## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
@@ -14,6 +19,11 @@
 - [feat: GCP service account impersonation](https://github.com/cloudquery/cloudquery/issues/10903)
 
 - [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -152,11 +162,6 @@
 - [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.6K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
@@ -282,11 +287,6 @@
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
 
 - [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
@@ -312,9 +312,4 @@
 - [[rust] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/319)
 
 - [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
-
-
-## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [CLI documentation references non-existent command](https://github.com/mainflux/mainflux/issues/1800)
 
