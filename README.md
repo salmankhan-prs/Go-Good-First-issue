@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 06:32 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 06:42 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
@@ -47,6 +47,11 @@
 - [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
 
 
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
+
+
 ## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
 
 - [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
@@ -64,11 +69,6 @@
 - [Add Go API support to bootstrap node after it was state synced](https://github.com/cometbft/cometbft/issues/884)
 
 - [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.3K ⭐️)</span>
@@ -215,6 +215,38 @@
 - [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
 
 
+## treeverse/lakeFS <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [Add ETag getObject with If-None-Match](https://github.com/treeverse/lakeFS/issues/5967)
+
+- [Use Go versioninfo to embed Git version in dev executables](https://github.com/treeverse/lakeFS/issues/5954)
+
+- [feat request: looking for a way to initialise lakeFS without the UI](https://github.com/treeverse/lakeFS/issues/5947)
+
+- [[Bug]: UI: Branch name is sliced when url path is very long](https://github.com/treeverse/lakeFS/issues/5896)
+
+- [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
+
+- [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
+
+
+## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Improve error response for invalid thing_id on bootstaping](https://github.com/mainflux/mainflux/issues/1801)
+
+- [CLI documentation references non-existent command](https://github.com/mainflux/mainflux/issues/1800)
+
+
+## ArmandBriere/Archy <span style='color:#F1C40F'>(29 ⭐️)</span>
+
+- [Level command on user without avatarUrl result in index out of bound in go](https://github.com/ArmandBriere/Archy/issues/189)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
 ## TwiN/gatus <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [Able to copy text when hovering over status](https://github.com/TwiN/gatus/issues/463)
@@ -238,6 +270,11 @@
 - [Add CI check that auto-generated code is up to date.](https://github.com/ava-labs/avalanchego/issues/1553)
 
 - [Add P-chain config for cache sizes](https://github.com/ava-labs/avalanchego/issues/1522)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(13.5K ⭐️)</span>
+
+- [3d sides don't respect theme](https://github.com/terrastruct/d2/issues/1337)
 
 
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
@@ -291,6 +328,11 @@
 - [README section 3](https://github.com/grpc-ecosystem/grpc-gateway/issues/3320)
 
 
+## go-nostr/nostr <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Add support for a 'Top 8' follower/following](https://github.com/go-nostr/nostr/issues/140)
+
+
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [bump github.com/prometheus/common from 0.43.0 to 0.44.0 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22721)
@@ -324,4 +366,42 @@
 - [Feature request: Integration with Akka Streams](https://github.com/memphisdev/memphis/issues/936)
 
 - [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
+
+
+## zeabur/zbpack <span style='color:#F1C40F'>(87 ⭐️)</span>
+
+- [Docusaurus support](https://github.com/zeabur/zbpack/issues/76)
+
+- [elixir support](https://github.com/zeabur/zbpack/issues/44)
+
+- [Add Solid.js support](https://github.com/zeabur/zbpack/issues/53)
+
+- [New Dockerfile template](https://github.com/zeabur/zbpack/issues/49)
+
+
+## rajatjindal/goodfirstissue <span style='color:#F1C40F'>(24 ⭐️)</span>
+
+- [ignore: testing goodfirstissue](https://github.com/rajatjindal/goodfirstissue/issues/44)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
+
+
+## elastic/cloudbeat <span style='color:#F1C40F'>(21 ⭐️)</span>
+
+- [Properties of AWS resources should be in `PascalCase` casing instead of `snake_case`](https://github.com/elastic/cloudbeat/issues/914)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
+## kairos-io/kairos <span style='color:#F1C40F'>(518 ⭐️)</span>
+
+- [:book: Use the automated version numbers on all documentation](https://github.com/kairos-io/kairos/issues/1459)
+
+- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
