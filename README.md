@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 04:32 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 04:42 UTC.</div>
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.3K ⭐️)</span>
+
+- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
 
 ## ray-project/kuberay <span style='color:#F1C40F'>(357 ⭐️)</span>
@@ -86,21 +102,11 @@
 - [Unnecessary log prefix. Procedure](https://github.com/cloudwego/hertz/issues/794)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
-
-
-## labring/sealos <span style='color:#F1C40F'>(10.4K ⭐️)</span>
-
-- [Feature: add buildah log level to system env](https://github.com/labring/sealos/issues/3156)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
