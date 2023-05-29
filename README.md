@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 03:02 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 03:12 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
@@ -101,11 +106,6 @@
 - [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## rancher/opni <span style='color:#F1C40F'>(255 ⭐️)</span>
@@ -345,11 +345,4 @@
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
 
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
-## kairos-io/kairos <span style='color:#F1C40F'>(518 ⭐️)</span>
-
-- [:book: Use the automated version numbers on all documentation](https://github.com/kairos-io/kairos/issues/1459)
-
-- [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
