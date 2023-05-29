@@ -4,7 +4,21 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 16:32 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 16:42 UTC.</div>
+
+
+## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [feat: Add datadog mobile RUM events to the datadog source plugin](https://github.com/cloudquery/cloudquery/issues/11044)
+
+- [feat: GCP service account impersonation](https://github.com/cloudquery/cloudquery/issues/10903)
+
+- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
@@ -36,6 +50,11 @@
 - [refactor fatal and error in unit tests](https://github.com/tektoncd/pipeline/issues/6641)
 
 - [Some code blocks are not rendered properly in the documentation's PipelineRuns page](https://github.com/tektoncd/pipeline/issues/6697)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
+
+- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -87,11 +106,6 @@
 ## crossplane/crossplane <span style='color:#F1C40F'>(7.1K ⭐️)</span>
 
 - [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
@@ -162,11 +176,6 @@
 - [Add command-line flag to enable logs in tests](https://github.com/roc-streaming/roc-go/issues/96)
 
 - [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(13.6K ⭐️)</span>
-
-- [Add group_add to job docker config](https://github.com/hashicorp/nomad/issues/17108)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -310,15 +319,6 @@
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
-
-
-## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [feat: Add datadog mobile RUM events to the datadog source plugin](https://github.com/cloudquery/cloudquery/issues/11044)
-
-- [feat: GCP service account impersonation](https://github.com/cloudquery/cloudquery/issues/10903)
-
-- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.3K ⭐️)</span>
