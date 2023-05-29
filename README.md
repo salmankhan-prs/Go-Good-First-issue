@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 03:32 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 03:42 UTC.</div>
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
@@ -88,6 +88,13 @@
 - [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
 
 
+## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
+
+- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
+
+
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
 
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
@@ -102,13 +109,6 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
-
-- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
@@ -130,6 +130,11 @@
 - [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
 
 - [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.2K ⭐️)</span>
+
+- [Feature: OpenWrt specific cataloger](https://github.com/anchore/syft/issues/1847)
 
 
 ## rancher/opni <span style='color:#F1C40F'>(255 ⭐️)</span>
@@ -259,6 +264,11 @@
 - [wanted: cleanup logs](https://github.com/bnb-chain/bsc/issues/1650)
 
 - [wanted: specify single hard fork height in config.toml](https://github.com/bnb-chain/bsc/issues/1625)
+
+
+## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(15.5K ⭐️)</span>
+
+- [README section 3](https://github.com/grpc-ecosystem/grpc-gateway/issues/3320)
 
 
 ## go-nostr/nostr <span style='color:#F1C40F'>(5 ⭐️)</span>
