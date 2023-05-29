@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 14:52 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 15:02 UTC.</div>
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## stv0g/cunicu <span style='color:#F1C40F'>(78 ⭐️)</span>
@@ -12,9 +22,9 @@
 - [Create Nix package](https://github.com/stv0g/cunicu/issues/145)
 
 
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
 
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## go-skynet/LocalAI <span style='color:#F1C40F'>(5.3K ⭐️)</span>
@@ -26,11 +36,6 @@
 - [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## ChainSafe/gossamer <span style='color:#F1C40F'>(386 ⭐️)</span>
@@ -95,11 +100,6 @@
 - [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
@@ -328,11 +328,4 @@
 ## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [The `requirements_lock` file must be fully pinned error](https://github.com/bufbuild/protoc-gen-validate/issues/863)
-
-
-## chainloop-dev/chainloop <span style='color:#F1C40F'>(183 ⭐️)</span>
-
-- [deployment: split sentry configuration](https://github.com/chainloop-dev/chainloop/issues/104)
-
-- [chart: improve installation output (notes.md) ](https://github.com/chainloop-dev/chainloop/issues/97)
 
