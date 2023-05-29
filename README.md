@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 10:12 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 10:22 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
@@ -16,6 +21,17 @@
 - [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
 
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [feature: Enable token stream on /completion](https://github.com/go-skynet/LocalAI/issues/406)
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -30,6 +46,13 @@
 - [drop minio dep for go >= 1.21](https://github.com/celestiaorg/celestia-node/issues/2247)
 
 - [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
+
+
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
+
+- [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -53,6 +76,13 @@
 - [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
 
 
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
+
+
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
@@ -72,13 +102,6 @@
 - [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
 
 - [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
 
 
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -139,11 +162,6 @@
 - [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
-
-
 ## OpenIMSDK/Open-IM-Server <span style='color:#F1C40F'>(11.0K ⭐️)</span>
 
 - [Feature:  jssdk server optimize](https://github.com/OpenIMSDK/Open-IM-Server/issues/422)
@@ -166,17 +184,6 @@
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
 
 - [Not run all of our CI tests on documentation updates or changes to markdown](https://github.com/kubernetes/ingress-nginx/issues/9953)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [feature: Enable token stream on /completion](https://github.com/go-skynet/LocalAI/issues/406)
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -283,7 +290,7 @@
 - [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
 
 
-## pipe-cd/pipecd <span style='color:#F1C40F'>(706 ⭐️)</span>
+## pipe-cd/pipecd <span style='color:#F1C40F'>(707 ⭐️)</span>
 
 - [Support Terraform import block](https://github.com/pipe-cd/pipecd/issues/4349)
 
@@ -308,4 +315,52 @@
 - [Check if the connection to a Kubernetes Cluster is available before running tests](https://github.com/celestiaorg/knuu/issues/30)
 
 - [Unify debug and error messages](https://github.com/celestiaorg/knuu/issues/23)
+
+
+## temporalio/temporal <span style='color:#F1C40F'>(7.3K ⭐️)</span>
+
+- [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
+
+- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## anchore/grype <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [Grype docker image on dockerhub has no shell commands available to be able to keep it alive for Jenkins exec into scan with it - please add busybox at least](https://github.com/anchore/grype/issues/1287)
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.2K ⭐️)</span>
+
+- [Feature: OpenWrt specific cataloger](https://github.com/anchore/syft/issues/1847)
+
+
+## rancher/opni <span style='color:#F1C40F'>(255 ⭐️)</span>
+
+- [Allow for using duration strings for specifying import times](https://github.com/rancher/opni/issues/1374)
+
+- [Panic encountered while watching data import progress:](https://github.com/rancher/opni/issues/1375)
+
+- [Data import Sending too large packets](https://github.com/rancher/opni/issues/1415)
+
+- [Add explicit state field to logging backend status](https://github.com/rancher/opni/issues/1420)
+
+
+## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Improve error response for invalid thing_id on bootstaping](https://github.com/mainflux/mainflux/issues/1801)
+
+- [CLI documentation references non-existent command](https://github.com/mainflux/mainflux/issues/1800)
+
+
+## ArmandBriere/Archy <span style='color:#F1C40F'>(29 ⭐️)</span>
+
+- [Level command on user without avatarUrl result in index out of bound in go](https://github.com/ArmandBriere/Archy/issues/189)
 
