@@ -4,7 +4,28 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 09:12 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 09:22 UTC.</div>
+
+
+## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Adding ability to pass session tags (AWS provider)](https://github.com/external-secrets/external-secrets/issues/2343)
+
+- [ExternalSecret with name over 92 characters fails to sync with "Too long: must have at most 128 bytes" error](https://github.com/external-secrets/external-secrets/issues/2362)
+
+- [Ability to rely on namespace creation rather than refreshTime for ClusterExternalSecrets](https://github.com/external-secrets/external-secrets/issues/2351)
+
+- [ClusterSecretStore vault certificate error message templating bug](https://github.com/external-secrets/external-secrets/issues/2347)
 
 
 ## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
@@ -23,6 +44,15 @@
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
 
 - [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(522 ⭐️)</span>
+
+- [core: move empty square tests to `share/empty_test.go`](https://github.com/celestiaorg/celestia-node/issues/2266)
+
+- [drop minio dep for go >= 1.21](https://github.com/celestiaorg/celestia-node/issues/2247)
+
+- [logging: Log square size consistently (either EDS or ODS) but we need to choose one](https://github.com/celestiaorg/celestia-node/issues/2187)
 
 
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -44,16 +74,6 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 - [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
 
 
 ## memphisdev/memphis <span style='color:#F1C40F'>(2.7K ⭐️)</span>
@@ -266,7 +286,7 @@
 - [Unify debug and error messages](https://github.com/celestiaorg/knuu/issues/23)
 
 
-## temporalio/temporal <span style='color:#F1C40F'>(7.2K ⭐️)</span>
+## temporalio/temporal <span style='color:#F1C40F'>(7.3K ⭐️)</span>
 
 - [Allow zero port in config](https://github.com/temporalio/temporal/issues/4329)
 
@@ -291,6 +311,11 @@
 - [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
 
 - [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
+
+
+## anchore/grype <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [Grype docker image on dockerhub has no shell commands available to be able to keep it alive for Jenkins exec into scan with it - please add busybox at least](https://github.com/anchore/grype/issues/1287)
 
 
 ## anchore/syft <span style='color:#F1C40F'>(4.2K ⭐️)</span>
@@ -352,33 +377,4 @@
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
 
 - [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
-
-
-## kubernetes-sigs/kubectl-validate <span style='color:#F1C40F'>(11 ⭐️)</span>
-
-- [Validate from stdin](https://github.com/kubernetes-sigs/kubectl-validate/issues/32)
-
-- [Usage with kpt](https://github.com/kubernetes-sigs/kubectl-validate/issues/24)
-
-- [Usage with CI?](https://github.com/kubernetes-sigs/kubectl-validate/issues/23)
-
-- [Debug Logging and Verbosity](https://github.com/kubernetes-sigs/kubectl-validate/issues/36)
-
-- [terminal output gif in readme](https://github.com/kubernetes-sigs/kubectl-validate/issues/14)
-
-- [OpenAPI v2 schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/15)
-
-- [GitHub downloader subject to rate limits](https://github.com/kubernetes-sigs/kubectl-validate/issues/17)
-
-- [recursive schemas not supported](https://github.com/kubernetes-sigs/kubectl-validate/issues/18)
-
-
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [[admin] Validate version format in release workflow](https://github.com/open-telemetry/opentelemetry-collector/issues/7627)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.6K ⭐️)</span>
-
-- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
