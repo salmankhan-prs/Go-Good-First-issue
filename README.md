@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 23:02 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 23:12 UTC.</div>
+
+
+## dapr/cli <span style='color:#F1C40F'>(283 ⭐️)</span>
+
+- [Allow app channel address to be passed via CLI](https://github.com/dapr/cli/issues/1281)
 
 
 ## kairos-io/kairos <span style='color:#F1C40F'>(518 ⭐️)</span>
@@ -329,17 +334,4 @@
 - [Calculate cost for GCP Redis instances](https://github.com/tailwarden/komiser/issues/778)
 
 - [Calculate cost for GCP SQL Instances](https://github.com/tailwarden/komiser/issues/777)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
-
-- [[Feature]: bitwise AND and OR operators in filter expression](https://github.com/milvus-io/milvus/issues/24490)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
