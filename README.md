@@ -4,7 +4,19 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 18:22 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 18:32 UTC.</div>
+
+
+## sigstore/cosign <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [`cosign copy` ignores `--attachment-tag-prefix`](https://github.com/sigstore/cosign/issues/2962)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -92,13 +104,6 @@
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
-
-
 ## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
 
 - [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
@@ -143,6 +148,13 @@
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
 
 - [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
+
+
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
+
+- [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
 
 
 ## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
@@ -312,4 +324,89 @@
 - [[rust] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/319)
 
 - [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
+
+
+## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [CLI documentation references non-existent command](https://github.com/mainflux/mainflux/issues/1800)
+
+
+## anchore/syft <span style='color:#F1C40F'>(4.2K ⭐️)</span>
+
+- [Feature: OpenWrt specific cataloger](https://github.com/anchore/syft/issues/1847)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
+
+- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
+
+
+## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
+
+- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
+
+- [Create module.http component](https://github.com/grafana/agent/issues/3875)
+
+
+## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
+
+- [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
+
+- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
+
+- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
+
+
+## dose-na-nuvem/customers <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Parametrizar timeout do servidor HTTP](https://github.com/dose-na-nuvem/customers/issues/26)
+
+- [Permitir parametrização do banco via configuração](https://github.com/dose-na-nuvem/customers/issues/25)
+
+- [Adicinar suporte a live reload](https://github.com/dose-na-nuvem/customers/issues/21)
+
+
+## qascade/dcr <span style='color:#F1C40F'>(15 ⭐️)</span>
+
+- [feat(service): automate csv assignment inside enclave.json](https://github.com/qascade/dcr/issues/45)
+
+- [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
+
+- [feat(config): enable use of relative addresses in config yaml. ](https://github.com/qascade/dcr/issues/33)
+
+- [fix(config): error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
+
+- [refactor: migrate the ego-server code from different repo to dcr](https://github.com/qascade/dcr/issues/40)
+
+- [feat: dockerize dcr](https://github.com/qascade/dcr/issues/65)
+
+- [ci: propose an automated way to generate changelogs](https://github.com/qascade/dcr/issues/50)
+
+- [test: make TestGraph tests strict](https://github.com/qascade/dcr/issues/53)
+
+- [ci: a actions config to test ego apps on github.](https://github.com/qascade/dcr/issues/41)
+
+- [fix(adress): authorized Sorting failing on non-authorization ](https://github.com/qascade/dcr/issues/36)
+
+- [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(712 ⭐️)</span>
+
+- [(feature) doc create a all docs version page](https://github.com/thomaspoignant/go-feature-flag/issues/830)
+
+- [(feature) Add go-feature-flag to scoop extra](https://github.com/thomaspoignant/go-feature-flag/issues/817)
+
+- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
+
+
+## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [wanted: cleanup logs](https://github.com/bnb-chain/bsc/issues/1650)
+
+- [wanted: specify single hard fork height in config.toml](https://github.com/bnb-chain/bsc/issues/1625)
 
