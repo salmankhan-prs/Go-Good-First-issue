@@ -4,7 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 21:42 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 21:52 UTC.</div>
+
+
+## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
+
+
+## crossplane/crossplane <span style='color:#F1C40F'>(7.1K ⭐️)</span>
+
+- [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
+
+
+## onflow/cadence <span style='color:#F1C40F'>(471 ⭐️)</span>
+
+- [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
 
 
 ## rancher/opni <span style='color:#F1C40F'>(255 ⭐️)</span>
@@ -64,11 +79,6 @@
 - [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
-
-
-## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -309,11 +319,6 @@
 - [Calculate cost for GCP SQL Instances](https://github.com/tailwarden/komiser/issues/777)
 
 
-## crossplane/crossplane <span style='color:#F1C40F'>(7.1K ⭐️)</span>
-
-- [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
-
-
 ## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
 
 - [[Feature]: bitwise AND and OR operators in filter expression](https://github.com/milvus-io/milvus/issues/24490)
@@ -360,18 +365,4 @@
 - [Feature request: Integration with Akka Streams](https://github.com/memphisdev/memphis/issues/936)
 
 - [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
-
-
-## open-policy-agent/opa <span style='color:#F1C40F'>(8.1K ⭐️)</span>
-
-- [Allow for predefined "constants" in time formatting built-ins](https://github.com/open-policy-agent/opa/issues/5945)
-
-- [[opa-envoy-plugin] support for multi-valued HTTP header addition](https://github.com/open-policy-agent/opa/issues/5925)
-
-- [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
