@@ -4,7 +4,48 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 17:52 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 18:02 UTC.</div>
+
+
+## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [feat: Add datadog mobile RUM events to the datadog source plugin](https://github.com/cloudquery/cloudquery/issues/11044)
+
+- [feat: GCP service account impersonation](https://github.com/cloudquery/cloudquery/issues/10903)
+
+- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Implement simple `$addFields`/`$set` aggregation pipeline stages](https://github.com/FerretDB/FerretDB/issues/2590)
+
+- [Implement `envtool tests shard` command](https://github.com/FerretDB/FerretDB/issues/2692)
+
+- [Add supported aggregations to the `buildInfo` output](https://github.com/FerretDB/FerretDB/issues/2650)
+
+- [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
+
+- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## go-skynet/LocalAI <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [feature: Enable token stream on /completion](https://github.com/go-skynet/LocalAI/issues/406)
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
+
+- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -36,24 +77,9 @@
 - [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
 
 
-## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
 
-- [feat: Add datadog mobile RUM events to the datadog source plugin](https://github.com/cloudquery/cloudquery/issues/11044)
-
-- [feat: GCP service account impersonation](https://github.com/cloudquery/cloudquery/issues/10903)
-
-- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
-
-
-## go-skynet/LocalAI <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [feature: Enable token stream on /completion](https://github.com/go-skynet/LocalAI/issues/406)
-
-- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
-
-- [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
-
-- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(15.0K ⭐️)</span>
@@ -68,19 +94,9 @@
 - [Some code blocks are not rendered properly in the documentation's PipelineRuns page](https://github.com/tektoncd/pipeline/issues/6697)
 
 
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
-
-- [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
-
-
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
-
-- [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
@@ -102,6 +118,11 @@
 - [Add command-line flag to enable logs in tests](https://github.com/roc-streaming/roc-go/issues/96)
 
 - [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
+
+
+## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
 
 
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
@@ -136,16 +157,56 @@
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
 
 
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
-
-
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
 - [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
 
 - [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
+
+
+## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [Support Linode MySQL instances](https://github.com/tailwarden/komiser/issues/823)
+
+- [Support Linode Volumes](https://github.com/tailwarden/komiser/issues/822)
+
+- [Support Linode Postgres Instances](https://github.com/tailwarden/komiser/issues/821)
+
+- [Support Linode Object storage bucket](https://github.com/tailwarden/komiser/issues/820)
+
+- [Support Linode Object storage](https://github.com/tailwarden/komiser/issues/819)
+
+- [Support Linode LKE node pools](https://github.com/tailwarden/komiser/issues/818)
+
+- [Support Linode LKE Cluster pools](https://github.com/tailwarden/komiser/issues/817)
+
+- [Support Linode Instance snapshots](https://github.com/tailwarden/komiser/issues/816)
+
+- [Support Linode Instance Volumes](https://github.com/tailwarden/komiser/issues/815)
+
+- [Support Linode Instance disks](https://github.com/tailwarden/komiser/issues/814)
+
+- [Support Tencent Peering Connections](https://github.com/tailwarden/komiser/issues/796)
+
+- [Support Tencent Flow Logs](https://github.com/tailwarden/komiser/issues/795)
+
+- [Support Tencent Secure Content Delivery Network](https://github.com/tailwarden/komiser/issues/794)
+
+- [Support Tencent Enterprise Content Delivery Network](https://github.com/tailwarden/komiser/issues/793)
+
+- [[TECH-1199] Calculate cost for GCP BigQuery Tables](https://github.com/tailwarden/komiser/issues/784)
+
+- [Calculate cost for GCP Certificates](https://github.com/tailwarden/komiser/issues/783)
+
+- [Calculate cost for GCP Container cluster](https://github.com/tailwarden/komiser/issues/782)
+
+- [Calculate cost for GCP Gateways](https://github.com/tailwarden/komiser/issues/780)
+
+- [Calculate cost for GCP KMS Keys](https://github.com/tailwarden/komiser/issues/779)
+
+- [Calculate cost for GCP Redis instances](https://github.com/tailwarden/komiser/issues/778)
+
+- [Calculate cost for GCP SQL Instances](https://github.com/tailwarden/komiser/issues/777)
 
 
 ## crossplane/crossplane <span style='color:#F1C40F'>(7.1K ⭐️)</span>
@@ -204,11 +265,6 @@
 - [Add a `crypto.x509.parse_and_verify_certificates_with_keys` builtin](https://github.com/open-policy-agent/opa/issues/5882)
 
 
-## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
-
-- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
-
-
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
@@ -261,100 +317,4 @@
 ## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
 - [CLI documentation references non-existent command](https://github.com/mainflux/mainflux/issues/1800)
-
-
-## anchore/syft <span style='color:#F1C40F'>(4.2K ⭐️)</span>
-
-- [Feature: OpenWrt specific cataloger](https://github.com/anchore/syft/issues/1847)
-
-
-## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
-
-- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
-
-
-## grafana/agent <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [loki.source.file doesn't pick up the file if it's created after the agent starts](https://github.com/grafana/agent/issues/3954)
-
-- [Allow mounting the config via a secret instead of a configmap or provide an easier way to override default](https://github.com/grafana/agent/issues/3930)
-
-- [Create module.http component](https://github.com/grafana/agent/issues/3875)
-
-
-## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
-
-- [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
-
-- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
-
-- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
-
-
-## dose-na-nuvem/customers <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Parametrizar timeout do servidor HTTP](https://github.com/dose-na-nuvem/customers/issues/26)
-
-- [Permitir parametrização do banco via configuração](https://github.com/dose-na-nuvem/customers/issues/25)
-
-- [Adicinar suporte a live reload](https://github.com/dose-na-nuvem/customers/issues/21)
-
-
-## qascade/dcr <span style='color:#F1C40F'>(15 ⭐️)</span>
-
-- [feat(service): automate csv assignment inside enclave.json](https://github.com/qascade/dcr/issues/45)
-
-- [feat: add an example of a join query with a group by but using confidential go app. ](https://github.com/qascade/dcr/issues/37)
-
-- [feat(config): enable use of relative addresses in config yaml. ](https://github.com/qascade/dcr/issues/33)
-
-- [fix(config): error message on wrong yaml input. ](https://github.com/qascade/dcr/issues/28)
-
-- [refactor: migrate the ego-server code from different repo to dcr](https://github.com/qascade/dcr/issues/40)
-
-- [feat: dockerize dcr](https://github.com/qascade/dcr/issues/65)
-
-- [ci: propose an automated way to generate changelogs](https://github.com/qascade/dcr/issues/50)
-
-- [test: make TestGraph tests strict](https://github.com/qascade/dcr/issues/53)
-
-- [ci: a actions config to test ego apps on github.](https://github.com/qascade/dcr/issues/41)
-
-- [fix(adress): authorized Sorting failing on non-authorization ](https://github.com/qascade/dcr/issues/36)
-
-- [test: Make test checks strict.](https://github.com/qascade/dcr/issues/35)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(712 ⭐️)</span>
-
-- [(feature) doc create a all docs version page](https://github.com/thomaspoignant/go-feature-flag/issues/830)
-
-- [(feature) Add go-feature-flag to scoop extra](https://github.com/thomaspoignant/go-feature-flag/issues/817)
-
-- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
-
-
-## bnb-chain/bsc <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [wanted: cleanup logs](https://github.com/bnb-chain/bsc/issues/1650)
-
-- [wanted: specify single hard fork height in config.toml](https://github.com/bnb-chain/bsc/issues/1625)
-
-
-## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.3K ⭐️)</span>
-
-- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
 
