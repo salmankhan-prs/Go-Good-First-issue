@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 05:32 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 05:42 UTC.</div>
 
 
 ## containers/podman <span style='color:#F1C40F'>(18.0K ⭐️)</span>
@@ -32,9 +32,19 @@
 - [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
+
+
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
 
 
 ## jesseduffield/lazygit <span style='color:#F1C40F'>(35.3K ⭐️)</span>
@@ -101,11 +111,6 @@
 - [Reset config file to default when user deletes it](https://github.com/pactus-project/pactus/issues/478)
 
 
-## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
-
-
 ## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
@@ -136,11 +141,6 @@
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
 
 - [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [Enable `errcheck` linter](https://github.com/cosmos/cosmos-sdk/issues/16293)
 
 
 ## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
@@ -343,9 +343,4 @@
 - [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
 
 - [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-
-## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.0K ⭐️)</span>
-
-- [Custom annotations to prometheus statefulset](https://github.com/prometheus-operator/prometheus-operator/issues/5536)
 
