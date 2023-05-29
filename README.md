@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 18:42 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 18:52 UTC.</div>
+
+
+## cometbft/cometbft <span style='color:#F1C40F'>(279 ⭐️)</span>
+
+- [Add Go API support to bootstrap node after it was state synced](https://github.com/cometbft/cometbft/issues/884)
+
+- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -177,13 +184,6 @@
 ## prometheus/node_exporter <span style='color:#F1C40F'>(8.9K ⭐️)</span>
 
 - [[Feature Request] Allow excluding certain hwmon data sources](https://github.com/prometheus/node_exporter/issues/2681)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [External service seen as a dataplane in Outgoing traffic panels of Grafana dashboard Kuma Dataplane ](https://github.com/kumahq/kuma/issues/6810)
-
-- [Set minimum set of capabilities for CNI container](https://github.com/kumahq/kuma/issues/6714)
 
 
 ## kumahq/kuma <span style='color:#F1C40F'>(3.2K ⭐️)</span>
