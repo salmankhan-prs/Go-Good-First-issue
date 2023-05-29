@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 09:02 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 09:12 UTC.</div>
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
+
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
 
 
 ## lf-edge/ekuiper <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -31,17 +49,6 @@
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
@@ -87,16 +94,14 @@
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
 
 
+## aquasecurity/trivy <span style='color:#F1C40F'>(17.5K ⭐️)</span>
+
+- [feat: add support Ubuntu 23.04](https://github.com/aquasecurity/trivy/issues/4298)
+
+
 ## crossplane/crossplane <span style='color:#F1C40F'>(7.1K ⭐️)</span>
 
 - [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
@@ -376,9 +381,4 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.6K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## fluxcd/flagger <span style='color:#F1C40F'>(4.3K ⭐️)</span>
-
-- [Incomplete error messages obscure HTTP 403 issue when accessing prometheus](https://github.com/fluxcd/flagger/issues/1434)
 
