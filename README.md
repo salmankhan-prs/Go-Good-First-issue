@@ -4,7 +4,41 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 12:52 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 13:02 UTC.</div>
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+
+
+## jesseduffield/lazygit <span style='color:#F1C40F'>(35.3K ⭐️)</span>
+
+- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
+
+- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
+
+- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
+
+- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
+
+
+## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [feat: GCP service account impersonation](https://github.com/cloudquery/cloudquery/issues/10903)
+
+- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
 
 
 ## zeabur/zbpack <span style='color:#F1C40F'>(87 ⭐️)</span>
@@ -23,25 +57,14 @@
 - [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
-## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [deprecate clef and remove from released binaries](https://github.com/ethersphere/bee/issues/4100)
-
-
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
 
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
+## ethersphere/bee <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
+- [deprecate clef and remove from released binaries](https://github.com/ethersphere/bee/issues/4100)
 
 
 ## celestiaorg/celestia-node <span style='color:#F1C40F'>(522 ⭐️)</span>
@@ -62,6 +85,25 @@
 - [feature: docker-cuda images](https://github.com/go-skynet/LocalAI/issues/280)
 
 - [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [[cmd/mdatagen] Document metadata.yaml schema](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21800)
+
+- [bump github.com/prometheus/common from 0.43.0 to 0.44.0 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22721)
+
+- [Bump k8s.io/apimachinery from 0.27.1 to 0.27.2 causes issues](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22719)
+
+- [[pkg/stanza] Do we need `flushUncombined` in the recombine operator?](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22140)
+
+- [Migrate to latest semconv version and ensure we regularly update going forward](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/22095)
+
+- [[processor/k8sattributes] Review warnings associated with processor](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21789)
+
+- [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
+
+- [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -134,11 +176,6 @@
 - [The `requirements_lock` file must be fully pinned error](https://github.com/bufbuild/protoc-gen-validate/issues/863)
 
 
-## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
-
-
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
 
 - [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
@@ -192,11 +229,6 @@
 - [Check the code for returning kv.ErrNotFound to the user](https://github.com/treeverse/lakeFS/issues/5885)
 
 - [[lakeFSFS] Cannot access externally-managed object with spaces in its path](https://github.com/treeverse/lakeFS/issues/5827)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Cody: Open context search results links as workspace file](https://github.com/sourcegraph/sourcegraph/issues/51490)
 
 
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -301,89 +333,4 @@
 - [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
 
 - [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
-
-
-## pactus-project/pactus <span style='color:#F1C40F'>(32 ⭐️)</span>
-
-- [Reset config file to default when user deletes it](https://github.com/pactus-project/pactus/issues/478)
-
-
-## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
-
-- [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(712 ⭐️)</span>
-
-- [(feature) doc create a all docs version page](https://github.com/thomaspoignant/go-feature-flag/issues/830)
-
-- [(feature) Add go-feature-flag to scoop extra](https://github.com/thomaspoignant/go-feature-flag/issues/817)
-
-- [(documentation) Adding better documentation on what is the relay proxy](https://github.com/thomaspoignant/go-feature-flag/issues/753)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(17.7K ⭐️)</span>
-
-- [[Feature]: Split main & debug image building CI steps](https://github.com/jaegertracing/jaeger/issues/4471)
-
-- [[Feature]: Support CORS headers on OTEL HTTP endpoint](https://github.com/jaegertracing/jaeger/issues/4459)
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(35.3K ⭐️)</span>
-
-- [Branch Whitespace Char Option](https://github.com/jesseduffield/lazygit/issues/2663)
-
-- [Is it possible to delete remote tags?](https://github.com/jesseduffield/lazygit/issues/2635)
-
-- [Git fast forward branch to remote fails when there's the same tag name](https://github.com/jesseduffield/lazygit/issues/2625)
-
-- [docs: document what lazygit dependency means](https://github.com/jesseduffield/lazygit/issues/2606)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [[Feature]: Enhance Auth command](https://github.com/k8sgpt-ai/k8sgpt/issues/388)
-
-
-## ray-project/kuberay <span style='color:#F1C40F'>(357 ⭐️)</span>
-
-- [[Bug][CI] Add tests to ensure that the `zz_generated.deepcopy.go` is up-to-date.](https://github.com/ray-project/kuberay/issues/1111)
-
-- [[Doc] Example setting up access for google cloud storage](https://github.com/ray-project/kuberay/issues/1073)
-
-- [[Refactor] Rename rayiov1alpha1 and rayv1alpha1 to v1alpha1](https://github.com/ray-project/kuberay/issues/1079)
-
-
-## opencorelabs/fira <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Create Code of Conduct and Contributing Guide](https://github.com/opencorelabs/fira/issues/64)
-
-- [min password length validation](https://github.com/opencorelabs/fira/issues/41)
-
-- [email verification security](https://github.com/opencorelabs/fira/issues/46)
-
-- [register with duplicate (correct) credentials should be a no-op](https://github.com/opencorelabs/fira/issues/60)
-
-- [request new verification token](https://github.com/opencorelabs/fira/issues/53)
-
-
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Sample manifests store minio credentials in cleartext](https://github.com/kubernetes/test-infra/issues/29455)
-
-
-## parca-dev/parca-agent <span style='color:#F1C40F'>(322 ⭐️)</span>
-
-- [local-test/debugging: Scrape agents pprof endpoints for memory profiles](https://github.com/parca-dev/parca-agent/issues/1674)
-
-- [local-test/debugging: Add and configure Jaeger to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1663)
-
-- [local-test/debugging: Add and configure Loki to local cluster setup for testing/debugging](https://github.com/parca-dev/parca-agent/issues/1662)
-
-
-## pipe-cd/pipecd <span style='color:#F1C40F'>(707 ⭐️)</span>
-
-- [Support Terraform import block](https://github.com/pipe-cd/pipecd/issues/4349)
-
-- [kubectl apply with custom args (like --server-side) is not possible.](https://github.com/pipe-cd/pipecd/issues/4342)
 
