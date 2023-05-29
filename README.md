@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 22:12 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 22:22 UTC.</div>
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
@@ -349,20 +354,4 @@
 ## thanos-io/thanos <span style='color:#F1C40F'>(11.8K ⭐️)</span>
 
 - [Rules UI show recording rules in wrong order](https://github.com/thanos-io/thanos/issues/6360)
-
-
-## ChainSafe/gossamer <span style='color:#F1C40F'>(386 ⭐️)</span>
-
-- [cli: generate account key if not specified](https://github.com/ChainSafe/gossamer/issues/3255)
-
-
-## memphisdev/memphis <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Bug: GUI - Issue when scrolling the users' table](https://github.com/memphisdev/memphis/issues/943)
-
-- [Garbage collector for disconnected clients](https://github.com/memphisdev/memphis/issues/942)
-
-- [Feature request: Integration with Akka Streams](https://github.com/memphisdev/memphis/issues/936)
-
-- [Bug: Slack rate limit](https://github.com/memphisdev/memphis/issues/919)
 
