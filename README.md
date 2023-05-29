@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at May 29, 2023 19:52 UTC.</div>
+<div align='center'>Last updated at May 29, 2023 20:02 UTC.</div>
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
+
+- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
+
+
+## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -106,15 +123,6 @@
 - [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
 
 
-## cloudquery/cloudquery <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [feat: Add datadog mobile RUM events to the datadog source plugin](https://github.com/cloudquery/cloudquery/issues/11044)
-
-- [feat: GCP service account impersonation](https://github.com/cloudquery/cloudquery/issues/10903)
-
-- [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
-
-
 ## osmosis-labs/osmosis <span style='color:#F1C40F'>(735 ⭐️)</span>
 
 - [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
@@ -123,11 +131,6 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.6K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## navidrome/navidrome <span style='color:#F1C40F'>(6.8K ⭐️)</span>
@@ -184,6 +187,8 @@
 
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(17 ⭐️)</span>
+
+- [Improve acceptance criteria of end-to-end test](https://github.com/roc-streaming/roc-go/issues/101)
 
 - [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
 
@@ -375,9 +380,4 @@
 - [[rust] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/319)
 
 - [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
-
-
-## mainflux/mainflux <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [CLI documentation references non-existent command](https://github.com/mainflux/mainflux/issues/1800)
 
