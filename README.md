@@ -4,29 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 30, 2023 00:32 UTC.</div>
-
-
-## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
-
-- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
+<div align='center'>Last updated at May 30, 2023 00:42 UTC.</div>
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
-
-
-## TBD54566975/ssi-sdk <span style='color:#F1C40F'>(168 ⭐️)</span>
-
-- [IsValid should take in a context and return err](https://github.com/TBD54566975/ssi-sdk/issues/395)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -46,6 +29,28 @@
 - [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
 
 - [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
+
+
+## meshery/meshery <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [[CI] [Testing] Meshery Test plan link & guidelines for using it to "Continuous Integration / DevOps" template (.github/ISSUE_TEMPLATE/ci.md)](https://github.com/meshery/meshery/issues/7738)
+
+- [Add dark mode support to dialogs in lifecycle page](https://github.com/meshery/meshery/issues/7697)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+
+## TBD54566975/ssi-sdk <span style='color:#F1C40F'>(168 ⭐️)</span>
+
+- [IsValid should take in a context and return err](https://github.com/TBD54566975/ssi-sdk/issues/395)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
@@ -128,11 +133,6 @@
 ## onflow/cadence <span style='color:#F1C40F'>(471 ⭐️)</span>
 
 - [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
-
-- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
 
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(17 ⭐️)</span>
@@ -250,7 +250,7 @@
 - [Add unit tests for facebookmarketing plugin](https://github.com/cloudquery/cloudquery/issues/11024)
 
 
-## navidrome/navidrome <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+## navidrome/navidrome <span style='color:#F1C40F'>(6.9K ⭐️)</span>
 
 - [Ignore playlist files beginning with "."](https://github.com/navidrome/navidrome/issues/2367)
 
