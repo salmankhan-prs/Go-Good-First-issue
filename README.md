@@ -4,17 +4,22 @@
 
 
 
-<div align='center'>Last updated at May 30, 2023 01:52 UTC.</div>
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
-
-- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+<div align='center'>Last updated at May 30, 2023 02:02 UTC.</div>
 
 
 ## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
 
 - [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## kubevela/kubevela <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [[Feature] Relax the maxDepth constraint for resource topology](https://github.com/kubevela/kubevela/issues/6014)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
+
+- [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
 
 
 ## mosn/layotto <span style='color:#F1C40F'>(734 ⭐️)</span>
@@ -97,9 +102,24 @@
 - [Merge `fuzztool` into `envtool`](https://github.com/FerretDB/FerretDB/issues/2547)
 
 
+## TBD54566975/ssi-sdk <span style='color:#F1C40F'>(168 ⭐️)</span>
+
+- [IsValid should take in a context and return err](https://github.com/TBD54566975/ssi-sdk/issues/395)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(27.2K ⭐️)</span>
+
+- [opt: eliminate all arguments of coalesce after the first argument that is guaranteed to be non-null](https://github.com/cockroachdb/cockroach/issues/103596)
+
+
 ## apache/camel-k <span style='color:#F1C40F'>(771 ⭐️)</span>
 
 - [Disclose CLI stderr usage](https://github.com/apache/camel-k/issues/4406)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(356 ⭐️)</span>
+
+- [Old-style Publisher fields cause the job to be rejected](https://github.com/bacalhau-project/bacalhau/issues/2447)
 
 
 ## rancher/opni <span style='color:#F1C40F'>(255 ⭐️)</span>
@@ -118,6 +138,13 @@
 - [CI: Don't require changelog & state machine labels for markdown only changes](https://github.com/osmosis-labs/osmosis/issues/5270)
 
 
+## go-skynet/LocalAI <span style='color:#F1C40F'>(5.3K ⭐️)</span>
+
+- [examples: guidance](https://github.com/go-skynet/LocalAI/issues/304)
+
+- [feature: whisper api](https://github.com/go-skynet/LocalAI/issues/138)
+
+
 ## dapr/cli <span style='color:#F1C40F'>(283 ⭐️)</span>
 
 - [Allow app channel address to be passed via CLI](https://github.com/dapr/cli/issues/1281)
@@ -130,6 +157,11 @@
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
 
 
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.6K ⭐️)</span>
+
+- [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
@@ -140,6 +172,11 @@
 - [Creating test spec from response data page](https://github.com/kubeshop/tracetest/issues/2525)
 
 
+## crossplane/crossplane <span style='color:#F1C40F'>(7.1K ⭐️)</span>
+
+- [Claim "Ready" condition has a free text message in reason field](https://github.com/crossplane/crossplane/issues/4094)
+
+
 ## acorn-io/acorn <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [Add a dedicated `acorn version` command](https://github.com/acorn-io/acorn/issues/1569)
@@ -148,44 +185,6 @@
 ## onflow/cadence <span style='color:#F1C40F'>(471 ⭐️)</span>
 
 - [Add a `Range<T: Integer>` type and allow in for-loop](https://github.com/onflow/cadence/issues/2482)
-
-
-## roc-streaming/roc-go <span style='color:#F1C40F'>(17 ⭐️)</span>
-
-- [Automate release creation](https://github.com/roc-streaming/roc-go/issues/106)
-
-- [Add end-to-end tests with multiple senders and receivers](https://github.com/roc-streaming/roc-go/issues/105)
-
-- [Add end-to-end test with internal clock](https://github.com/roc-streaming/roc-go/issues/104)
-
-- [Add end-to-end test with resampler](https://github.com/roc-streaming/roc-go/issues/103)
-
-- [Add end-to-end test without FEC](https://github.com/roc-streaming/roc-go/issues/102)
-
-- [Improve acceptance criteria of end-to-end test](https://github.com/roc-streaming/roc-go/issues/101)
-
-- [Use time.Duration for time intervals](https://github.com/roc-streaming/roc-go/issues/83)
-
-- [Add command-line flag to enable logs in tests](https://github.com/roc-streaming/roc-go/issues/96)
-
-- [Use stringer for all enums](https://github.com/roc-streaming/roc-go/issues/84)
-
-
-## grafana/pyroscope <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [[remoteWrite] add more info (like url) when showing errors](https://github.com/grafana/pyroscope/issues/1961)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Support the --strategy flag in fly image update for machines](https://github.com/superfly/flyctl/issues/2266)
-
-
-## cometbft/cometbft <span style='color:#F1C40F'>(280 ⭐️)</span>
-
-- [Add Go API support to bootstrap node after it was state synced](https://github.com/cometbft/cometbft/issues/884)
-
-- [spec: Clearly document the ordering within `VoteInfo` and `ExtendedVoteInfo`](https://github.com/cometbft/cometbft/issues/779)
 
 
 ## roc-streaming/roc-go <span style='color:#F1C40F'>(17 ⭐️)</span>
