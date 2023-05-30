@@ -4,17 +4,17 @@
 
 
 
-<div align='center'>Last updated at May 30, 2023 00:02 UTC.</div>
-
-
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
-
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+<div align='center'>Last updated at May 30, 2023 00:12 UTC.</div>
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
 
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -413,26 +413,4 @@
 ## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
 
 - [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
-
-
-## berops/claudie <span style='color:#F1C40F'>(241 ⭐️)</span>
-
-- [Feature: label secrets produced by Claudie](https://github.com/berops/claudie/issues/816)
-
-- [Chore: Start using cluster name in KubeOne manifest](https://github.com/berops/claudie/issues/789)
-
-
-## protoconf/protoconf <span style='color:#F1C40F'>(112 ⭐️)</span>
-
-- [TLS configuration for Protoconf gRPC servers](https://github.com/protoconf/protoconf/issues/325)
-
-- [Upgrade Valkeyrie to v1](https://github.com/protoconf/protoconf/issues/321)
-
-- [[Javascript] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/318)
-
-- [[Java] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/320)
-
-- [[rust] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/319)
-
-- [[Python] Review code examples in documentation](https://github.com/protoconf/protoconf/issues/317)
 
