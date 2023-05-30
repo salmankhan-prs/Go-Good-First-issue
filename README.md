@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at May 30, 2023 00:12 UTC.</div>
+<div align='center'>Last updated at May 30, 2023 00:22 UTC.</div>
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(13.2K ⭐️)</span>
@@ -12,9 +17,9 @@
 - [Change group/grouped visualization](https://github.com/argoproj/argo-cd/issues/13565)
 
 
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+## TBD54566975/ssi-sdk <span style='color:#F1C40F'>(168 ⭐️)</span>
 
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+- [IsValid should take in a context and return err](https://github.com/TBD54566975/ssi-sdk/issues/395)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(1.8K ⭐️)</span>
@@ -91,6 +96,11 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.6K ⭐️)</span>
 
 - [[Enhancement]: aws_ssm_parameter should warn on max param size](https://github.com/hashicorp/terraform-provider-aws/issues/31133)
+
+
+## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
 
 
 ## kubeshop/tracetest <span style='color:#F1C40F'>(555 ⭐️)</span>
@@ -279,11 +289,6 @@
 - [Grype docker image on dockerhub has no shell commands available to be able to keep it alive for Jenkins exec into scan with it - please add busybox at least](https://github.com/anchore/grype/issues/1287)
 
 
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [Re-enable Slasher E2E Test](https://github.com/prysmaticlabs/prysm/issues/12415)
-
-
 ## etcd-io/etcd <span style='color:#F1C40F'>(43.5K ⭐️)</span>
 
 - [Introduce linting for actions workflow files](https://github.com/etcd-io/etcd/issues/15955)
@@ -408,9 +413,4 @@
 - [document configuration deprecation process](https://github.com/cri-o/cri-o/issues/6959)
 
 - [drop config migration](https://github.com/cri-o/cri-o/issues/6884)
-
-
-## linkerd/linkerd2 <span style='color:#F1C40F'>(9.6K ⭐️)</span>
-
-- [Add support for nodeselectors and tolerations in linkerd-smi helm chart](https://github.com/linkerd/linkerd2/issues/10933)
 
