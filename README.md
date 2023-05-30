@@ -4,7 +4,25 @@
 
 
 
-<div align='center'>Last updated at May 30, 2023 01:32 UTC.</div>
+<div align='center'>Last updated at May 30, 2023 01:42 UTC.</div>
+
+
+## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+
+- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
+
+- [[Feature]: bitwise AND and OR operators in filter expression](https://github.com/milvus-io/milvus/issues/24490)
+
+- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
+
+- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
+
+- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
+
+- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## go-gitea/gitea <span style='color:#F1C40F'>(36.8K ⭐️)</span>
@@ -12,9 +30,11 @@
 - [Implement actions log line anchor so that it's easy to jump to a special log line](https://github.com/go-gitea/gitea/issues/24593)
 
 
-## kcp-dev/edge-mc <span style='color:#F1C40F'>(40 ⭐️)</span>
+## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
 
-- [bug: `kubestellar start` does not give users control over controller log verbosity](https://github.com/kcp-dev/edge-mc/issues/399)
+- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
+
+- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
 
 
 ## sourcegraph/sourcegraph <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -56,19 +76,6 @@
 - [[chore] Split codeql job in groups](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21823)
 
 - [[chore] [CI] Include updating the otelcontribcol ocb manifest in make update-otel target](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/21632)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(19.0K ⭐️)</span>
-
-- [[Feature]: bitwise AND and OR operators in filter expression](https://github.com/milvus-io/milvus/issues/24490)
-
-- [[Enhancement]: Use generic to simplify XXclient code ](https://github.com/milvus-io/milvus/issues/24196)
-
-- [[Feature]: Adding rate limiting to the Flush API](https://github.com/milvus-io/milvus/issues/24346)
-
-- [[Enhancement]: Add linter to finds structures with uninitialized fields](https://github.com/milvus-io/milvus/issues/24215)
-
-- [[Feature]: Support ALL, ANY for Array types](https://github.com/milvus-io/milvus/issues/23867)
 
 
 ## FerretDB/FerretDB <span style='color:#F1C40F'>(6.9K ⭐️)</span>
@@ -140,13 +147,6 @@
 - [:book: Use the automated version numbers on all documentation](https://github.com/kairos-io/kairos/issues/1459)
 
 - [:sparkles: Change size related variables on osbuilder and Kairos' Earthly to include the unit](https://github.com/kairos-io/kairos/issues/1397)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(98.7K ⭐️)</span>
-
-- [[FG:InPlacePodVerticalScaling] Implement version skew handling for in-place pod resize](https://github.com/kubernetes/kubernetes/issues/117767)
-
-- [some wrong comments in netpol e2e](https://github.com/kubernetes/kubernetes/issues/118263)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(8.6K ⭐️)</span>
@@ -315,8 +315,6 @@
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(2.6K ⭐️)</span>
 
 - [User Secrets](https://github.com/woodpecker-ci/woodpecker/issues/1739)
-
-- [Add terminology glossary to to the docs](https://github.com/woodpecker-ci/woodpecker/issues/1724)
 
 
 ## tailwarden/komiser <span style='color:#F1C40F'>(3.2K ⭐️)</span>
