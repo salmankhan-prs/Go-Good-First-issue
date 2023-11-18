@@ -1,0 +1,23 @@
+name: Go Good First Issue
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Set your desired cron schedule
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Go
+      uses: actions/setup-go@v2
+      with:
+        go-version: 1.17
+
+    - name: Build and run Go application
+      run: |
+        go mod download
+        go run main.go
