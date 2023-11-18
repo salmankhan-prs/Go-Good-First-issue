@@ -7,6 +7,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      API_TOKEN: ${{ secrets.API_TOKEN }}
+      ISSUE_COUNT: ${{ secrets.ISSUE_COUNT }}
+      EMAIL: ${{ secrets.EMAIL }}
+      NAME: ${{ secrets.NAME }}
+      CRON_TIME: ${{ secrets.CRON_TIME }}
 
     steps:
     - name: Checkout repository
