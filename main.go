@@ -208,6 +208,7 @@ func pushMarkdownToRepo(markdown string) error {
 	repoReq, err := http.NewRequest("GET", readmeFileURL, nil)
 
 	if err != nil {
+		fmt.Errorf("pushMarkdownToRepo  %w", err)
 		return err
 	}
 	repoReq.Header.Set("Authorization", "Bearer "+apiToken)
