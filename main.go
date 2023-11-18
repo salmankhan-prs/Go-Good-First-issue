@@ -12,7 +12,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/go-co-op/gocron"
+	
 	"github.com/joho/godotenv"
 )
 
