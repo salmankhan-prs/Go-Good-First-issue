@@ -246,17 +246,12 @@ func pushMarkdownToRepo(markdown string) error {
 
 }
 
-func runCronJobs() {
-	s := gocron.NewScheduler(time.UTC)
-	s.Every(10).Minutes().Do(getGoodFirstIssue)
-	s.StartBlocking()
-}
+
 func main() {
 	godotenv.Load(".env")
 	apiToken = os.Getenv("API_TOKEN")
 	IssueCount, _ = strconv.Atoi(os.Getenv("ISSUE_COUNT"))
 	EMAIl = os.Getenv("EMAIL")
 	NAME = os.Getenv("NAME")
-	CRON_TIME, _ = strconv.Atoi(os.Getenv("CRON_TIME"))
-	runCronJobs()
+	getGoodFirstIssue()
 }
