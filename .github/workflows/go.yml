@@ -2,7 +2,7 @@ name: Go Good First Issue
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Set your desired cron schedule
+    - cron: '*/5 * * * *'  # Set your desired cron schedule
 
 jobs:
   build:
