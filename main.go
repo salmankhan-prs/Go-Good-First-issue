@@ -12,7 +12,6 @@ import (
 	"strconv"
 	"time"
 
-	
 	"github.com/joho/godotenv"
 )
 
@@ -51,6 +50,11 @@ type Repository struct {
 	Stars    int    `json:"stargazers_count"`
 }
 
+type GitHubResponse struct {
+	TotalCount        int          `json:"total_count"`
+	IncompleteResults bool         `json:"incomplete_results"`
+	Items             []Repository `json:"items"`
+}
 type Issue struct {
 	HtmlURL string `json:"html_url"`
 	Title   string `json:"title"`
@@ -114,15 +118,17 @@ func getRepositoriesWithGoodFirstIssues(page int) ([]Repository, error) {
 		return nil, fmt.Errorf("failed to read response body: %w", err)
 	}
 
-	var objmap map[string][]Repository
-	err = json.Unmarshal(dataBytes, &objmap)
+	var response GitHubResponse
+
+	err = json.Unmarshal(dataBytes, &response)
 	if err != nil {
 		body, _ := ioutil.ReadAll(res.Body)
+		fmt.Println(response)
 		fmt.Printf("failed to unmarshal json: %s\n", err)
 		fmt.Printf("response body: %s\n", body)
 
 	}
-	return objmap["items"], nil
+	return response.Items, nil
 }
 
 func getIssuesWithGoodFirstLabel(repoName string) ([]GoodIssue, error) {
@@ -246,7 +252,6 @@ func pushMarkdownToRepo(markdown string) error {
 	return nil
 
 }
-
 
 func main() {
 	godotenv.Load(".env")
