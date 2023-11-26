@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at November 26, 2023 15:29 IST.</div>
+<div align='center'>Last updated at November 26, 2023 15:45 IST.</div>
+
+
+## containers/podman <span style='color:#F1C40F'>(19.8K ⭐️)</span>
+
+- [Documentation for podman build inconsistent with actual behaviour](https://github.com/containers/podman/issues/20733)
 
 
 ## mgechev/revive <span style='color:#F1C40F'>(4.4K ⭐️)</span>
@@ -161,9 +166,11 @@
 - [Radius Deployment controller inspects objects it should not inspect. ](https://github.com/radius-project/radius/issues/6811)
 
 
-## containers/podman <span style='color:#F1C40F'>(19.8K ⭐️)</span>
+## go-git/go-git <span style='color:#F1C40F'>(5.1K ⭐️)</span>
 
-- [Documentation for podman build inconsistent with actual behaviour](https://github.com/containers/podman/issues/20733)
+- [Create CI tests to confirm all examples build](https://github.com/go-git/go-git/issues/912)
+
+- [Document instances where `go-git` diverges from upstream `git`](https://github.com/go-git/go-git/issues/909)
 
 
 ## csunibo/informabot <span style='color:#F1C40F'>(8 ⭐️)</span>
@@ -231,13 +238,6 @@
 - [Basic styling in place](https://github.com/emilhauk/chitchat/issues/1)
 
 
-## go-git/go-git <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [Create CI tests to confirm all examples build](https://github.com/go-git/go-git/issues/912)
-
-- [Document instances where `go-git` diverges from upstream `git`](https://github.com/go-git/go-git/issues/909)
-
-
 ## dapr/dapr <span style='color:#F1C40F'>(22.6K ⭐️)</span>
 
 - [Outbox message should be in the Cloudevent format](https://github.com/dapr/dapr/issues/7113)
@@ -285,6 +285,11 @@
 ## milvus-io/milvus <span style='color:#F1C40F'>(24.2K ⭐️)</span>
 
 - [[Enhancement]: Add Search/Query context information to tracing span ](https://github.com/milvus-io/milvus/issues/28315)
+
+
+## vmware-tanzu/velero <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Resource Modifier Follow-on improvements](https://github.com/vmware-tanzu/velero/issues/7050)
 
 
 ## lightningnetwork/lnd <span style='color:#F1C40F'>(7.3K ⭐️)</span>
