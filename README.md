@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at November 26, 2023 15:26 IST.</div>
+<div align='center'>Last updated at November 26, 2023 15:29 IST.</div>
 
 
 ## mgechev/revive <span style='color:#F1C40F'>(4.4K ⭐️)</span>
@@ -285,11 +285,6 @@
 ## milvus-io/milvus <span style='color:#F1C40F'>(24.2K ⭐️)</span>
 
 - [[Enhancement]: Add Search/Query context information to tracing span ](https://github.com/milvus-io/milvus/issues/28315)
-
-
-## vmware-tanzu/velero <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Resource Modifier Follow-on improvements](https://github.com/vmware-tanzu/velero/issues/7050)
 
 
 ## lightningnetwork/lnd <span style='color:#F1C40F'>(7.3K ⭐️)</span>
