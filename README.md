@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at November 26, 2023 15:45 IST.</div>
+<div align='center'>Last updated at November 26, 2023 16:14 IST.</div>
 
 
 ## containers/podman <span style='color:#F1C40F'>(19.8K ⭐️)</span>
@@ -203,7 +203,7 @@
 - [Add an option in kustomize lib to suppress the deprecation warnings.](https://github.com/kubernetes-sigs/kustomize/issues/5452)
 
 
-## wavetermdev/waveterm <span style='color:#F1C40F'>(415 ⭐️)</span>
+## wavetermdev/waveterm <span style='color:#F1C40F'>(420 ⭐️)</span>
 
 - [Add a word/line wrap setting for codeedit](https://github.com/wavetermdev/waveterm/issues/68)
 
