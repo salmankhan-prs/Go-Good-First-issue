@@ -63,6 +63,7 @@ type Issue struct {
 var issueCount = 0
 
 func getGoodFirstIssue() {
+	fmt.Println("STARTED .....")
 	var goodFirstIssueArray []GoodFirstIssue
 	var page = 1
 
