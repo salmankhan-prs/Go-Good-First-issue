@@ -250,7 +250,7 @@ func pushMarkdownToRepo(markdown string) error {
 	pushReq.Header.Set("Authorization", "Bearer "+apiToken)
 
 	_, err = client.Do(pushReq)
-
+	fmt.Println(err)
 	issueCount = 0
 	return nil
 
