@@ -87,7 +87,7 @@ func getGoodFirstIssue() {
 		}
 	}
 	markdown := generateMarkdown(goodFirstIssueArray)
-
+	fmt.Println(markdown)
 	if err := pushMarkdownToRepo(markdown); err != nil {
 		fmt.Println(err)
 		return
