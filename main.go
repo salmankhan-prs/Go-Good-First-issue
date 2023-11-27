@@ -128,6 +128,8 @@ func getRepositoriesWithGoodFirstIssues(page int) ([]Repository, error) {
 		fmt.Printf("response body: %s\n", body)
 
 	}
+	fmt.Println(response.Items)
+
 	return response.Items, nil
 }
 
