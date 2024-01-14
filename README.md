@@ -4,26 +4,109 @@
 
 
 
-<div align='center'>Last updated at January 13, 2024 01:49 UTC.</div>
+<div align='center'>Last updated at January 14, 2024 01:48 UTC.</div>
 
 
-## diggerhq/digger <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+## dweymouth/supersonic <span style='color:#F1C40F'>(474 ⭐️)</span>
 
-- [Remove isNonEmptyPlan from the Plan() method of the Executor interface](https://github.com/diggerhq/digger/issues/1029)
+- [Could not reach server - please normalize URLs while adding a server](https://github.com/dweymouth/supersonic/issues/304)
 
-- [Policy violation message switched variables](https://github.com/diggerhq/digger/issues/1014)
+- [Add "Create sharing link" option for tracks and albums](https://github.com/dweymouth/supersonic/issues/303)
 
 
-## openimsdk/open-im-server <span style='color:#F1C40F'>(12.4K ⭐️)</span>
+## jesseduffield/lazygit <span style='color:#F1C40F'>(41.5K ⭐️)</span>
 
-- [Bug: afterSendSingleMessage callback trigger when typing](https://github.com/openimsdk/open-im-server/issues/1701)
+- [Clear copied commits selection after pasting (cherry-pick)](https://github.com/jesseduffield/lazygit/issues/3198)
+
+- [Focus commits view after moving custom patch into new commit](https://github.com/jesseduffield/lazygit/issues/3200)
+
+
+## kedacore/keda <span style='color:#F1C40F'>(7.3K ⭐️)</span>
+
+- [Keda Admission Webhook rejects ScaledObject requests that use Range Limit](https://github.com/kedacore/keda/issues/5348)
+
+
+## Consensys/gnark <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [feat: implement commitment verification in Groth16 in-circuit recursive verifier](https://github.com/Consensys/gnark/issues/987)
+
+
+## zitadel/zitadel <span style='color:#F1C40F'>(5.9K ⭐️)</span>
+
+- [[Bug]: Broken Layout and Colors in Keyboard Shortcuts Modal](https://github.com/zitadel/zitadel/issues/7167)
+
+- [SMTP Message text parameters](https://github.com/zitadel/zitadel/issues/7134)
+
+
+## termkit/gama <span style='color:#F1C40F'>(25 ⭐️)</span>
+
+- [Sort keys by alphabetic in trigger page](https://github.com/termkit/gama/issues/26)
+
+- [Increase the fetched Github repositories limit](https://github.com/termkit/gama/issues/10)
+
+- [Add workflow to run security scan for gama's github repository](https://github.com/termkit/gama/issues/22)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(104.4K ⭐️)</span>
+
+- [kubectl describe job should print key fields for scheduling (suspend, tolerations, nodeSelector)](https://github.com/kubernetes/kubernetes/issues/122613)
+
+
+## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [Update troubleshooting with Events](https://github.com/prometheus-operator/prometheus-operator/issues/6219)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(28.4K ⭐️)</span>
+
+- [sql: make `VALID UNTIL 'infinity'` work the same way as `VALID UNTIL NULL`](https://github.com/cockroachdb/cockroach/issues/116714)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(555 ⭐️)</span>
+
+- [Allow users to submit jobs when their client version mismatches the server version](https://github.com/bacalhau-project/bacalhau/issues/3163)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(805 ⭐️)</span>
+
+- [Broken Links Detected](https://github.com/osmosis-labs/osmosis/issues/7224)
+
+- [Broken Links Detected](https://github.com/osmosis-labs/osmosis/issues/7133)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[Feat Req] Add support for installing only CRDs](https://github.com/external-secrets/external-secrets/issues/3020)
+
+- [Probes for external-secrets](https://github.com/external-secrets/external-secrets/issues/3012)
+
+- [[Suggestion] dataFrom for a directory](https://github.com/external-secrets/external-secrets/issues/2987)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.7K ⭐️)</span>
+
+- [[Feature]: Separate `quorum` for expedited proposal](https://github.com/cosmos/cosmos-sdk/issues/18990)
+
+
+## earthly/earthly <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [Emit notice when unnecessary feature flags are used](https://github.com/earthly/earthly/issues/3641)
+
+
+## mariadb-operator/mariadb-operator <span style='color:#F1C40F'>(285 ⭐️)</span>
+
+- [[Bug] CA must be mandatory when TLS is enabled](https://github.com/mariadb-operator/mariadb-operator/issues/329)
+
+- [[Feature] S3 authentication via Kubernetes SA (like IRSA)](https://github.com/mariadb-operator/mariadb-operator/issues/318)
+
+- [[Feature] Provide an abstraction to configure `spec.podAntiAffinity`](https://github.com/mariadb-operator/mariadb-operator/issues/316)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.3K ⭐️)</span>
 
-- [Remove invalid go:build instructions](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/30461)
-
 - [[receiver/awscontainerinsight]  do not skip lifecycle tests](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/30037)
+
+- [Remove invalid go:build instructions](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/30461)
 
 - [[receiver/googlecloudpubsub] do not skip lifecycle tests](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/29997)
 
@@ -44,173 +127,11 @@
 - [[receiver/sshcheck] do not skip lifecycle tests](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/29993)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(28.4K ⭐️)</span>
+## diggerhq/digger <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
-- [sql: make `VALID UNTIL 'infinity'` work the same way as `VALID UNTIL NULL`](https://github.com/cockroachdb/cockroach/issues/116714)
+- [Remove isNonEmptyPlan from the Plan() method of the Executor interface](https://github.com/diggerhq/digger/issues/1029)
 
-
-## zeta-chain/node <span style='color:#F1C40F'>(92 ⭐️)</span>
-
-- [CoreParams: Rename `IsSupported` into `IsActive`](https://github.com/zeta-chain/node/issues/1523)
-
-
-## earthly/earthly <span style='color:#F1C40F'>(10.2K ⭐️)</span>
-
-- [Emit notice when unnecessary feature flags are used](https://github.com/earthly/earthly/issues/3641)
-
-
-## onflow/flow-go <span style='color:#F1C40F'>(522 ⭐️)</span>
-
-- [Add a transaction ID to `logExecutionIntensities` so its easier to correlate them to the transaction that produce those logs](https://github.com/onflow/flow-go/issues/5202)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [`fly launch` doesn't launch HA *ever* if you customize in the UI](https://github.com/superfly/flyctl/issues/3159)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(104.4K ⭐️)</span>
-
-- [kubectl describe job should print key fields for scheduling (suspend, tolerations, nodeSelector)](https://github.com/kubernetes/kubernetes/issues/122613)
-
-
-## keploy/keploy <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [[feature]: add update command to keploy cli](https://github.com/keploy/keploy/issues/1303)
-
-- [[feature]: Ensure Consistent Font Usage Across Blog Website and Main Website](https://github.com/keploy/keploy/issues/1239)
-
-- [[feature]: Rectify Broken Author Profile on Blog Page and Enhance Features](https://github.com/keploy/keploy/issues/1241)
-
-- [[feature]: Enhance Home Page Design of Blog Website for Latest Posts Display](https://github.com/keploy/keploy/issues/1237)
-
-- [[bug]: adding log for permission denied while using keploy in home using docker](https://github.com/keploy/keploy/issues/1225)
-
-- [[feature]: Align Blog Website Footer with Main Website for Clarity](https://github.com/keploy/keploy/issues/1236)
-
-- [correct alias for docker image and locally created image](https://github.com/keploy/keploy/issues/1267)
-
-- [[feature]: add passthroughHosts via CLI and config](https://github.com/keploy/keploy/issues/1198)
-
-- [*exec.Error: exec: "monitoring": executable file not found in $PATH](https://github.com/keploy/keploy/issues/1252)
-
-- [[feature]: Standardize Single Blog Post Page Design](https://github.com/keploy/keploy/issues/1238)
-
-- [[feature]: Improve Blog Website Header to Match Main Website](https://github.com/keploy/keploy/issues/1235)
-
-
-## lightningnetwork/lnd <span style='color:#F1C40F'>(7.3K ⭐️)</span>
-
-- [[feature]: Support config via ENV to better protect secrets ](https://github.com/lightningnetwork/lnd/issues/8295)
-
-
-## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Add pagination on repo pipelines view](https://github.com/woodpecker-ci/woodpecker/issues/2976)
-
-
-## hashicorp/terraform-provider-kubernetes <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [Support `PersistentVolumeLastPhaseTransitionTime` feature gate field `lastPhaseTransitionTime` in `PersistentVolumeStatus`](https://github.com/hashicorp/terraform-provider-kubernetes/issues/2399)
-
-- [Support `JobBackoffLimitPerIndex` feature gate fields](https://github.com/hashicorp/terraform-provider-kubernetes/issues/2398)
-
-
-## apache/camel-k <span style='color:#F1C40F'>(810 ⭐️)</span>
-
-- [Quarkus buildMode should sort JVM before Native execution](https://github.com/apache/camel-k/issues/5001)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(280 ⭐️)</span>
-
-- [Consider enabling go-critic linter](https://github.com/celestiaorg/celestia-app/issues/2987)
-
-- [mdbook serve creates a `specs/src/https:/` directory](https://github.com/celestiaorg/celestia-app/issues/2995)
-
-
-## knative-extensions/eventing-kafka-broker <span style='color:#F1C40F'>(154 ⭐️)</span>
-
-- [Add deploy-control-plane command to `hack/run.sh`](https://github.com/knative-extensions/eventing-kafka-broker/issues/3552)
-
-
-## abcxyz/abc <span style='color:#F1C40F'>(7 ⭐️)</span>
-
-- [Add a `golden-test new-test` feature](https://github.com/abcxyz/abc/issues/316)
-
-- [Move templates/common/test_utils.go to its own package](https://github.com/abcxyz/abc/issues/325)
-
-- [Avoid extra git operation to look up "latest" template version](https://github.com/abcxyz/abc/issues/324)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.5K ⭐️)</span>
-
-- [Can't set annotations for create-bucket-job](https://github.com/grafana/mimir/issues/7060)
-
-- [Continuous  error logs  observed in mimir-querier service  when used without query-scheduler](https://github.com/grafana/mimir/issues/7023)
-
-
-## devhatt/pet-dex-backend <span style='color:#F1C40F'>(32 ⭐️)</span>
-
-- [Fazer docker file](https://github.com/devhatt/pet-dex-backend/issues/25)
-
-- [Fazer fluxo de notificações por email](https://github.com/devhatt/pet-dex-backend/issues/34)
-
-- [Fazer Layer de repositório e package de email](https://github.com/devhatt/pet-dex-backend/issues/37)
-
-- [Sem autenticação a Pagina mostra 8 pets (sem link para pagina da ong)](https://github.com/devhatt/pet-dex-backend/issues/53)
-
-- [Fazer Endpoint de Atualizar Pet](https://github.com/devhatt/pet-dex-backend/issues/43)
-
-- [Fazer Endpoint de Cadastro de pet (Nome e RacaID e UserID)](https://github.com/devhatt/pet-dex-backend/issues/42)
-
-- [Trazer listagem de Raças com links de fotos e nomes](https://github.com/devhatt/pet-dex-backend/issues/41)
-
-- [Fazer Docker compose](https://github.com/devhatt/pet-dex-backend/issues/27)
-
-- [Implementar um build multistage no Dockerfile](https://github.com/devhatt/pet-dex-backend/issues/26)
-
-- [Listar pets do usuário](https://github.com/devhatt/pet-dex-backend/issues/39)
-
-
-## siglens/siglens <span style='color:#F1C40F'>(294 ⭐️)</span>
-
-- [[BUG] display port bind errors on stdout](https://github.com/siglens/siglens/issues/340)
-
-- [SPL: Implement dedup](https://github.com/siglens/siglens/issues/313)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(554 ⭐️)</span>
-
-- [Allow users to submit jobs when their client version mismatches the server version](https://github.com/bacalhau-project/bacalhau/issues/3163)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(777 ⭐️)</span>
-
-- [test(cmd/celestia): Implement tests for the RPC CLI](https://github.com/celestiaorg/celestia-node/issues/3095)
-
-
-## googleforgames/agones <span style='color:#F1C40F'>(5.6K ⭐️)</span>
-
-- [Upgrade from Debian Bullseye to Bookworm](https://github.com/googleforgames/agones/issues/3570)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.7K ⭐️)</span>
-
-- [[Feature]: Separate `quorum` for expedited proposal](https://github.com/cosmos/cosmos-sdk/issues/18990)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(804 ⭐️)</span>
-
-- [Broken Links Detected](https://github.com/osmosis-labs/osmosis/issues/7224)
-
-- [Broken Links Detected](https://github.com/osmosis-labs/osmosis/issues/7133)
-
-
-## jesseduffield/lazygit <span style='color:#F1C40F'>(41.5K ⭐️)</span>
-
-- [Clear copied commits selection after pasting (cherry-pick)](https://github.com/jesseduffield/lazygit/issues/3198)
-
-- [Focus commits view after moving custom patch into new commit](https://github.com/jesseduffield/lazygit/issues/3200)
+- [Policy violation message switched variables](https://github.com/diggerhq/digger/issues/1014)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.1K ⭐️)</span>
@@ -230,47 +151,29 @@
 - [[Bug]: VPC IPv6 CIDR Block Association only allows /56 netmask](https://github.com/hashicorp/terraform-provider-aws/issues/34992)
 
 
-## lf-edge/eve <span style='color:#F1C40F'>(423 ⭐️)</span>
+## opensearch-project/terraform-provider-opensearch <span style='color:#F1C40F'>(63 ⭐️)</span>
 
-- [Uniform Usage of Directory Path Constants Across EVE Codebase](https://github.com/lf-edge/eve/issues/3682)
+- [[BUG] Import of index resource doesn't include mapping configuration](https://github.com/opensearch-project/terraform-provider-opensearch/issues/135)
 
-
-## akuity/kargo <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [docs: link to docs on semantic version constraint expressions](https://github.com/akuity/kargo/issues/1342)
+- [[FEATURE] Support *_PROXY env variables](https://github.com/opensearch-project/terraform-provider-opensearch/issues/137)
 
 
-## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.1K ⭐️)</span>
+## oauth2-proxy/oauth2-proxy <span style='color:#F1C40F'>(8.1K ⭐️)</span>
 
-- [Avoid usage of newly deprecated webhook.Validator and webhook.Defaulter interfaces](https://github.com/kubernetes-sigs/kubebuilder/issues/3721)
-
-
-## kubernetes-sigs/cluster-api-provider-openstack <span style='color:#F1C40F'>(251 ⭐️)</span>
-
-- [Conformance tests do not run any tests](https://github.com/kubernetes-sigs/cluster-api-provider-openstack/issues/1800)
+- [[QUESTION] The ingress-nginx configuration-snippet annotations have already been deprecated, but the oauth2-proxy documentation has not been updated.](https://github.com/oauth2-proxy/oauth2-proxy/issues/2368)
 
 
-## kedacore/keda <span style='color:#F1C40F'>(7.3K ⭐️)</span>
+## traPtitech/traQ <span style='color:#F1C40F'>(393 ⭐️)</span>
 
-- [Keda Admission Webhook rejects ScaledObject requests that use Range Limit](https://github.com/kedacore/keda/issues/5348)
-
-
-## kedacore/keda <span style='color:#F1C40F'>(7.3K ⭐️)</span>
-
-- [Keda Admission Webhook rejects ScaledObject requests that use Range Limit](https://github.com/kedacore/keda/issues/5348)
+- [立ち上がり時にメッセージ数をCOUNTしていて遅い](https://github.com/traPtitech/traQ/issues/2157)
 
 
-## guacsec/guac <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+## pouriyajamshidi/tcping <span style='color:#F1C40F'>(313 ⭐️)</span>
 
-- [[bug] Resolver should check DependencyType enum for isDependency ingestion and queries](https://github.com/guacsec/guac/issues/1604)
-
-
-## antrea-io/antrea <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Enhance ExternalIPPool validation](https://github.com/antrea-io/antrea/issues/5842)
+- [break build section of Makefile into smaller chunks](https://github.com/pouriyajamshidi/tcping/issues/185)
 
 
-## gnolang/gno <span style='color:#F1C40F'>(799 ⭐️)</span>
+## gnolang/gno <span style='color:#F1C40F'>(800 ⭐️)</span>
 
 - [Portal Loop: monitoring  oracle](https://github.com/gnolang/gno/issues/1443)
 
@@ -285,29 +188,117 @@
 - [Store all markdown files on-chain and within ReadMemPackage](https://github.com/gnolang/gno/issues/1458)
 
 
-## vmware-tanzu/secrets-manager <span style='color:#F1C40F'>(76 ⭐️)</span>
+## keploy/keploy <span style='color:#F1C40F'>(2.8K ⭐️)</span>
 
-- [random secret generator needs unit tests](https://github.com/vmware-tanzu/secrets-manager/issues/397)
+- [[feature]: add update command to keploy cli](https://github.com/keploy/keploy/issues/1303)
 
-- [`make test` shall print a warning if the project does not meet the coverage target](https://github.com/vmware-tanzu/secrets-manager/issues/398)
+- [[feature]: Ensure Consistent Font Usage Across Blog Website and Main Website](https://github.com/keploy/keploy/issues/1239)
 
-- [save test coverages in the repo](https://github.com/vmware-tanzu/secrets-manager/issues/396)
+- [[feature]: Rectify Broken Author Profile on Blog Page and Enhance Features](https://github.com/keploy/keploy/issues/1241)
 
-- [kubelet verification should be customizable](https://github.com/vmware-tanzu/secrets-manager/issues/356)
+- [[feature]: Enhance Home Page Design of Blog Website for Latest Posts Display](https://github.com/keploy/keploy/issues/1237)
+
+- [[bug]: adding log for permission denied while using keploy in home using docker](https://github.com/keploy/keploy/issues/1225)
+
+- [[feature]: Align Blog Website Footer with Main Website for Clarity](https://github.com/keploy/keploy/issues/1236)
+
+- [correct alias for docker image and locally created image](https://github.com/keploy/keploy/issues/1267)
+
+- [*exec.Error: exec: "monitoring": executable file not found in $PATH](https://github.com/keploy/keploy/issues/1252)
+
+- [[feature]: Standardize Single Blog Post Page Design](https://github.com/keploy/keploy/issues/1238)
+
+- [[feature]: Improve Blog Website Header to Match Main Website](https://github.com/keploy/keploy/issues/1235)
 
 
-## input-output-hk/catalyst-ci <span style='color:#F1C40F'>(4 ⭐️)</span>
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(16.2K ⭐️)</span>
 
-- [🛠️ [TASK] : Clean up rust builder logging](https://github.com/input-output-hk/catalyst-ci/issues/142)
-
-- [Migrate all images to ChainGuard](https://github.com/input-output-hk/catalyst-ci/issues/137)
+- [add nginx build ci test in release branches ](https://github.com/kubernetes/ingress-nginx/issues/10763)
 
 
-## nginxinc/nginx-gateway-fabric <span style='color:#F1C40F'>(308 ⭐️)</span>
+## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.5K ⭐️)</span>
 
-- [Filter: path support for RequestRedirectFilter](https://github.com/nginxinc/nginx-gateway-fabric/issues/1413)
+- [Repeated email validation is not working](https://github.com/bufbuild/protoc-gen-validate/issues/1048)
 
-- [Refactor config version in the handler type](https://github.com/nginxinc/nginx-gateway-fabric/issues/1416)
 
-- [Filter: ResponseHeaderModifier](https://github.com/nginxinc/nginx-gateway-fabric/issues/1397)
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [Add pagination on repo pipelines view](https://github.com/woodpecker-ci/woodpecker/issues/2976)
+
+
+## dagu-dev/dagu <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Switch from Webpack to Vite for Faster Builds](https://github.com/dagu-dev/dagu/issues/513)
+
+- [Add Internationalization to the Web UI](https://github.com/dagu-dev/dagu/issues/516)
+
+- [Add Multilingual Support to Sphinx Documentation](https://github.com/dagu-dev/dagu/issues/517)
+
+- [Update REST API Documentation with OpenAPI Spec](https://github.com/dagu-dev/dagu/issues/518)
+
+- [Unable to run arbitrary code snippets using the "script" directive](https://github.com/dagu-dev/dagu/issues/510)
+
+
+## apecloud/kubeblocks <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [[Improvement] addon support provider and version field](https://github.com/apecloud/kubeblocks/issues/6305)
+
+- [[Improvement] Describe how to setup clusterdefinition and rbac in developer guide](https://github.com/apecloud/kubeblocks/issues/6167)
+
+
+## alibaba/higress <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [Add Custom Discoverer interface](https://github.com/alibaba/higress/issues/767)
+
+- [Wish to support pull wasm plugin from `http` harbor registry](https://github.com/alibaba/higress/issues/728)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(4.8K ⭐️)</span>
+
+- [[Bug] [CLI] Incorrect/missing rule name has different test result from incorrect/missing policy name](https://github.com/kyverno/kyverno/issues/9379)
+
+- [[Bug] `AnyNotIn` operator expects value as array/string and not float64](https://github.com/kyverno/kyverno/issues/9319)
+
+- [[Feature] `time_parse()` to support Epoch time](https://github.com/kyverno/kyverno/issues/9171)
+
+
+## afifurrohman-id/tempsy <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [suggestions: Using open tofu to deploy in azure](https://github.com/afifurrohman-id/tempsy/issues/42)
+
+- [suggestion: Use `GRPC` instead](https://github.com/afifurrohman-id/tempsy/issues/29)
+
+
+## metallb/metallb <span style='color:#F1C40F'>(6.4K ⭐️)</span>
+
+- [MetalLB Website's Documentation Bug](https://github.com/metallb/metallb/issues/2222)
+
+
+## grafana/grafana-operator <span style='color:#F1C40F'>(688 ⭐️)</span>
+
+- [LDAP configuration example](https://github.com/grafana/grafana-operator/issues/1369)
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Enhance ExternalIPPool validation](https://github.com/antrea-io/antrea/issues/5842)
+
+
+## kubescape/kubescape <span style='color:#F1C40F'>(9.4K ⭐️)</span>
+
+- [Scan API - support for exception rules](https://github.com/kubescape/kubescape/issues/1580)
+
+
+## FerretDB/FerretDB <span style='color:#F1C40F'>(8.1K ⭐️)</span>
+
+- [Creating an existing _id index causes a name conflict error](https://github.com/FerretDB/FerretDB/issues/3921)
+
+- [Process `--run` and `--skip` in the `envtool` itself](https://github.com/FerretDB/FerretDB/issues/3969)
+
+
+## kmesiab/ai-code-critic <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Enforce Selection of a Valid GPT Model Before Processing Pull Requests](https://github.com/kmesiab/ai-code-critic/issues/57)
+
+- [Save code review to disk](https://github.com/kmesiab/ai-code-critic/issues/51)
 
