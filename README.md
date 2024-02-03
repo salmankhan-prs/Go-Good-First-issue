@@ -4,37 +4,71 @@
 
 
 
-<div align='center'>Last updated at February 2, 2024 01:48 UTC.</div>
+<div align='center'>Last updated at February 3, 2024 01:48 UTC.</div>
 
 
-## openfga/cli <span style='color:#F1C40F'>(24 ⭐️)</span>
-
-- [Support importing assertions along with the store](https://github.com/openfga/cli/issues/224)
-
-- [Add support for referencing a CSV tuples file in the store file](https://github.com/openfga/cli/issues/213)
-
-- [Support exporting tuples in CSV format](https://github.com/openfga/cli/issues/214)
-
-
-## opentofu/registry <span style='color:#F1C40F'>(88 ⭐️)</span>
+## opentofu/registry <span style='color:#F1C40F'>(90 ⭐️)</span>
 
 - [Add e2e tests on generated files.](https://github.com/opentofu/registry/issues/164)
 
 - [[Registry Stage 2] Implement a custom 404 page instead of a full html page](https://github.com/opentofu/registry/issues/168)
 
-- [Check for valid JSON on PRs](https://github.com/opentofu/registry/issues/152)
+
+## lightningnetwork/lnd <span style='color:#F1C40F'>(7.4K ⭐️)</span>
+
+- [[documentation]: mention that `--lnddir` overwrites all other directory options](https://github.com/lightningnetwork/lnd/issues/8408)
 
 
-## pingcap/tidb <span style='color:#F1C40F'>(35.7K ⭐️)</span>
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(559 ⭐️)</span>
 
-- [make bazel running without nogo](https://github.com/pingcap/tidb/issues/50400)
+- [Allow users to submit jobs when their client version mismatches the server version](https://github.com/bacalhau-project/bacalhau/issues/3163)
 
 
-## lima-vm/lima <span style='color:#F1C40F'>(13.5K ⭐️)</span>
+## envoyproxy/gateway <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
-- [`WARN[0000] vmType vz: ignoring [UpgradePackages]` is printed on every start up of vz instances](https://github.com/lima-vm/lima/issues/2175)
+- [docs: Add a section for adding a Custom bootstrap using the Merge Option](https://github.com/envoyproxy/gateway/issues/2545)
 
-- [Split help commands into Basic and Advanced and Instance command groups](https://github.com/lima-vm/lima/issues/2147)
+- [docs: Show routing to service outside cluster using FQDN based EndpointSlices](https://github.com/envoyproxy/gateway/issues/2482)
+
+
+## zeta-chain/node <span style='color:#F1C40F'>(111 ⭐️)</span>
+
+- [`MsgRemoveForeignCoin`: rename `Name` field into `ZRC20Address`](https://github.com/zeta-chain/node/issues/1650)
+
+- [CoreParams: Rename `IsSupported` into `IsActive`](https://github.com/zeta-chain/node/issues/1523)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Umbrella Issue] Migrate remaining prow jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31789)
+
+- [Migrate remaining `sig-cluster-lifecycle` jobs to community cluster](https://github.com/kubernetes/test-infra/issues/31791)
+
+- [Migrate remaining `sig-cloud-provider` jobs to community cluster](https://github.com/kubernetes/test-infra/issues/31795)
+
+- [Migrate remaining `sig-testing` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31793)
+
+- [Migrate remaining `csi` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31792)
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [Increase Mutating webhook timeout.](https://github.com/linkerd/linkerd2/issues/12011)
+
+
+## TBD54566975/ftl <span style='color:#F1C40F'>(12 ⭐️)</span>
+
+- [Fix case transformation](https://github.com/TBD54566975/ftl/issues/782)
+
+- [`ftl init` should create hermit at the root of the repo (or look up and update hermit if it exists)](https://github.com/TBD54566975/ftl/issues/758)
+
+- [Check that Java "resources" are correctly deployed to FTL](https://github.com/TBD54566975/ftl/issues/767)
+
+- [Consider making `HttpResponse` constructor `headers` argument optional](https://github.com/TBD54566975/ftl/issues/772)
+
+- [Consider making `HttpResponse` constructor's `body` argument optional](https://github.com/TBD54566975/ftl/issues/771)
+
+- [Add ktfmt to autofmt script/CI job](https://github.com/TBD54566975/ftl/issues/774)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.2K ⭐️)</span>
@@ -54,161 +88,82 @@
 - [aws_redshiftserverless_namespace restore from snapshot](https://github.com/hashicorp/terraform-provider-aws/issues/35138)
 
 
-## pipe-cd/pipecd <span style='color:#F1C40F'>(926 ⭐️)</span>
+## diggerhq/digger <span style='color:#F1C40F'>(2.5K ⭐️)</span>
 
-- [Notify the FAILURE of handling event by Event Watcher](https://github.com/pipe-cd/pipecd/issues/4750)
+- [Print the version + commit ID at the top of every binary invocation](https://github.com/diggerhq/digger/issues/1109)
 
+- [Remove isNonEmptyPlan from the Plan() method of the Executor interface](https://github.com/diggerhq/digger/issues/1029)
 
-## Azure/dalec <span style='color:#F1C40F'>(8 ⭐️)</span>
+- [Policy violation message switched variables](https://github.com/diggerhq/digger/issues/1014)
 
-- [CI: Automated check that examples in `docs/examples` work](https://github.com/Azure/dalec/issues/68)
 
-- [Add contributing/troubleshooting guide for devs](https://github.com/Azure/dalec/issues/89)
+## siglens/siglens <span style='color:#F1C40F'>(365 ⭐️)</span>
 
-- [Paths in shells are often not correctly quoted](https://github.com/Azure/dalec/issues/63)
+- [[BUG] Dashboard add panel workflow](https://github.com/siglens/siglens/issues/443)
 
+- [[BUG] Dashboard panel exit without saving alert](https://github.com/siglens/siglens/issues/444)
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.3K ⭐️)</span>
+- [[BUG] Dashboard panel resizing browser window](https://github.com/siglens/siglens/issues/446)
 
-- [awsemf exporter tests fails if a valid aws configuration is found locally](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/31010)
+- [[BUG] Dashboard panel color palette not working](https://github.com/siglens/siglens/issues/445)
 
-- [[CDCD] Investigate why goimports liter isn't firing for lifecycle generated tests](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/30439)
+- [[BUG] Dashboard panel bar chart with multiple group by columns](https://github.com/siglens/siglens/issues/442)
 
-- [Refactor unit test execution so it does not check for a Go version](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/30358)
+- [[BUG] Dashboard panel Number chart type](https://github.com/siglens/siglens/issues/441)
 
+- [[BUG] Dashboard panel invalid chart type](https://github.com/siglens/siglens/issues/440)
 
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(815 ⭐️)</span>
+- [[UI]  Add thousands separator in the tracing service health table](https://github.com/siglens/siglens/issues/396)
 
-- [Broken Links Detected](https://github.com/osmosis-labs/osmosis/issues/7399)
+- [[BUG] display port bind errors on stdout](https://github.com/siglens/siglens/issues/340)
 
 
-## purpleidea/mgmt <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(973 ⭐️)</span>
 
-- [automatic edge between http:file and file](https://github.com/purpleidea/mgmt/issues/734)
+- [Change instrumentation feature gates into normal command-line flags](https://github.com/open-telemetry/opentelemetry-operator/issues/2582)
 
+- [Ability to disable Prometheus scrape annotations](https://github.com/open-telemetry/opentelemetry-operator/issues/2554)
 
-## rclone/rclone <span style='color:#F1C40F'>(42.5K ⭐️)</span>
 
-- [`operations.DeleteFile` does not use `--backup-dir`, despite comment](https://github.com/rclone/rclone/issues/7566)
+## ZeStream/zestream-server <span style='color:#F1C40F'>(174 ⭐️)</span>
 
+- [File Hash Function](https://github.com/ZeStream/zestream-server/issues/81)
 
-## KaijuEngine/kaiju <span style='color:#F1C40F'>(4 ⭐️)</span>
 
-- [Implement copyToClipboard and clipboardContents Windows (windowing/x11.go)](https://github.com/KaijuEngine/kaiju/issues/103)
+## openfga/openfga <span style='color:#F1C40F'>(1.9K ⭐️)</span>
 
-- [Implement copyToClipboard and clipboardContents Windows (windowing/win32.go)](https://github.com/KaijuEngine/kaiju/issues/102)
+- [Update `openfga/language` Go module for DSL transformer/parser and refactor usages](https://github.com/openfga/openfga/issues/1302)
 
-- [Implement cursorIbeam on X11 (windowing/x11.go)](https://github.com/KaijuEngine/kaiju/issues/101)
+- [Add tests for complex structures in context when a condition parameter is of type any](https://github.com/openfga/openfga/issues/1291)
 
-- [Implement cursorStandard on X11 (windowing/x11.go)](https://github.com/KaijuEngine/kaiju/issues/100)
 
-- [Create a setup script (.bat and .sh)](https://github.com/KaijuEngine/kaiju/issues/92)
+## dapr/dapr <span style='color:#F1C40F'>(22.9K ⭐️)</span>
 
-- [Setup X11 to work with Vulkan](https://github.com/KaijuEngine/kaiju/issues/88)
+- [Error Standardization: Bindings API](https://github.com/dapr/dapr/issues/7483)
 
+- [Error Standardization: Cryptography API](https://github.com/dapr/dapr/issues/7491)
 
-## jesseduffield/lazygit <span style='color:#F1C40F'>(42.4K ⭐️)</span>
+- [Error Standardization: Placement API](https://github.com/dapr/dapr/issues/7490)
 
-- [Focus commits view after moving custom patch into new commit](https://github.com/jesseduffield/lazygit/issues/3200)
+- [Error Standardization: Metadata API](https://github.com/dapr/dapr/issues/7489)
 
-- [Allow pasting (cherry picking) commits onto branch from branches view](https://github.com/jesseduffield/lazygit/issues/3275)
+- [Error Standardization: Health API](https://github.com/dapr/dapr/issues/7488)
 
-- [Support range select for reverting commits](https://github.com/jesseduffield/lazygit/issues/3272)
+- [Error Standardization: Workflow API](https://github.com/dapr/dapr/issues/7487)
 
-- [Clear copied commits selection after pasting (cherry-pick)](https://github.com/jesseduffield/lazygit/issues/3198)
+- [Error Standardization: Distributed Lock API](https://github.com/dapr/dapr/issues/7486)
 
+- [Error Standardization: Configuration API](https://github.com/dapr/dapr/issues/7485)
 
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+- [Error Standardization: Secrets API](https://github.com/dapr/dapr/issues/7484)
 
-- [Clarify localhost usage in security documentation](https://github.com/open-telemetry/opentelemetry-collector/issues/9338)
+- [Error Standardization: PubSub API](https://github.com/dapr/dapr/issues/7482)
 
-- [[extension/zpages] zpages extension should use `confighttp.HTTPServerSettings`](https://github.com/open-telemetry/opentelemetry-collector/issues/9368)
+- [Error Standardization: State API](https://github.com/dapr/dapr/issues/7481)
 
-- [Make memory_limiter and otlp_receiver return 503 status code instead of 500 on failure](https://github.com/open-telemetry/opentelemetry-collector/issues/9337)
+- [Error Standardization: Service Invocation API](https://github.com/dapr/dapr/issues/7480)
 
-- [[chore] investigate spellcheck](https://github.com/open-telemetry/opentelemetry-collector/issues/9287)
-
-
-## flyteorg/flyte <span style='color:#F1C40F'>(4.4K ⭐️)</span>
-
-- [[Core feature] Pyflyte 'task with different structure' should show delta](https://github.com/flyteorg/flyte/issues/4762)
-
-- [[Docs] .hostname is not available in log templates](https://github.com/flyteorg/flyte/issues/4750)
-
-- [[Core feature] `pyflyte run remote-task xyz.my_task show-versions`](https://github.com/flyteorg/flyte/issues/4707)
-
-- [Add support passing integer to flytekit.resource](https://github.com/flyteorg/flyte/issues/4691)
-
-
-## testcontainers/testcontainers-go <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [[Documentation]: document volumes and mounts](https://github.com/testcontainers/testcontainers-go/issues/2163)
-
-- [Add Must methods for other database modules](https://github.com/testcontainers/testcontainers-go/issues/2134)
-
-
-## tofuutils/tenv <span style='color:#F1C40F'>(67 ⭐️)</span>
-
-- [[tfswitch-parity] Support version ranges defined in terragrunt.hcl](https://github.com/tofuutils/tenv/issues/27)
-
-- [[tfswitch-parity] tofuenv latest-stable {major.minor}](https://github.com/tofuutils/tenv/issues/23)
-
-- [[tfswitch-parity] Transparently support .tfswitchrc files.](https://github.com/tofuutils/tenv/issues/29)
-
-- [[tfswitch-parity] Support a default version unless a more specific version is requested](https://github.com/tofuutils/tenv/issues/28)
-
-- [[tfswitch-parity] Auto-install if a .tf file contains a Terraform required_version block](https://github.com/tofuutils/tenv/issues/25)
-
-- [[tfswitch-parity] tofuenv latest-pre {major.minor}](https://github.com/tofuutils/tenv/issues/24)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(3.5K ⭐️)</span>
-
-- [ClusterExternalSecret Ready Condition Should Only be Set to False if There is an Error](https://github.com/external-secrets/external-secrets/issues/3029)
-
-- [docs: toggle icon to switch to dark mode ](https://github.com/external-secrets/external-secrets/issues/3055)
-
-- [Probes for external-secrets](https://github.com/external-secrets/external-secrets/issues/3012)
-
-
-## linkerd/linkerd2 <span style='color:#F1C40F'>(10.2K ⭐️)</span>
-
-- [Increase Mutating webhook timeout.](https://github.com/linkerd/linkerd2/issues/12011)
-
-
-## ahelmy/xdev <span style='color:#F1C40F'>(25 ⭐️)</span>
-
-- [Add RSA keys generation](https://github.com/ahelmy/xdev/issues/28)
-
-- [Add ULID-to-UUID conversion](https://github.com/ahelmy/xdev/issues/21)
-
-- [JSON schema auto generation ](https://github.com/ahelmy/xdev/issues/36)
-
-- [JSON schema validation ](https://github.com/ahelmy/xdev/issues/35)
-
-
-## cosmos/ibc-go <span style='color:#F1C40F'>(445 ⭐️)</span>
-
-- [Remove legacy governance v1beta1 handler for `ClientUpdateProposal`](https://github.com/cosmos/ibc-go/issues/5666)
-
-
-## aws-cloudformation/rain <span style='color:#F1C40F'>(668 ⭐️)</span>
-
-- [add `aws-console` logout functionality](https://github.com/aws-cloudformation/rain/issues/267)
-
-- [Implement a "User Initiated" filter option for the rain logs command](https://github.com/aws-cloudformation/rain/issues/236)
-
-
-## spiffe/spire <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Integration test for GetAuthorizedEntries behavior](https://github.com/spiffe/spire/issues/4811)
-
-
-## rollkit/rollkit <span style='color:#F1C40F'>(270 ⭐️)</span>
-
-- [Compute IsProposer once](https://github.com/rollkit/rollkit/issues/1452)
-
-- [Refactor GenerateKey to be more robust](https://github.com/rollkit/rollkit/issues/1492)
+- [Error Standardization: Actors API](https://github.com/dapr/dapr/issues/7425)
 
 
 ## nginxinc/nginx-gateway-fabric <span style='color:#F1C40F'>(325 ⭐️)</span>
@@ -220,110 +175,111 @@
 - [Add unit tests for nginx runtime manager](https://github.com/nginxinc/nginx-gateway-fabric/issues/1498)
 
 
-## cilium/cilium-cli <span style='color:#F1C40F'>(334 ⭐️)</span>
+## ossf/scorecard <span style='color:#F1C40F'>(3.9K ⭐️)</span>
 
-- [Make Cilium CLI work with Cilium installed through helm with a non-default name](https://github.com/cilium/cilium-cli/issues/2274)
-
-
-## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(163 ⭐️)</span>
-
-- [Make guide page titles consistent and easier to find](https://github.com/keptn/lifecycle-toolkit/issues/2921)
-
-- [Use content tabs in CRD reference code examples](https://github.com/keptn/lifecycle-toolkit/issues/2922)
-
-- [Increase CLOMonitor score](https://github.com/keptn/lifecycle-toolkit/issues/2934)
-
-- [Update video on GitHub Codespaces and how to use them for Keptn](https://github.com/keptn/lifecycle-toolkit/issues/2820)
+- [Feature: Allow "incomplete" checks for --local repos](https://github.com/ossf/scorecard/issues/3832)
 
 
-## crowdsecurity/crowdsec <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.3K ⭐️)</span>
 
-- [Add machines heartbeat as a prometheus metric](https://github.com/crowdsecurity/crowdsec/issues/2758)
+- [awsemf exporter tests fails if a valid aws configuration is found locally](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/31010)
 
-- [Add the label "machine" to the prometheus metric cs_active_decisions](https://github.com/crowdsecurity/crowdsec/issues/2784)
+- [[CDCD] Investigate why goimports liter isn't firing for lifecycle generated tests](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/30439)
 
-
-## flashbots/suave-geth <span style='color:#F1C40F'>(159 ⭐️)</span>
-
-- [Private Key Gen Precompile](https://github.com/flashbots/suave-geth/issues/177)
-
-- [End Builder Session on New Block](https://github.com/flashbots/suave-geth/issues/167)
-
-- [Add CLI flag + EnvVar for max concurrent builder sessions](https://github.com/flashbots/suave-geth/issues/166)
-
-- [Add wildcard to docker set-up](https://github.com/flashbots/suave-geth/issues/143)
-
-- [More Configurable Builder Sessions](https://github.com/flashbots/suave-geth/issues/152)
+- [Refactor unit test execution so it does not check for a Go version](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/30358)
 
 
-## kubernetes/autoscaler <span style='color:#F1C40F'>(7.4K ⭐️)</span>
+## open-telemetry/opentelemetry-go-contrib <span style='color:#F1C40F'>(920 ⭐️)</span>
 
-- [cluster autoscaler provider build tags broken for several providers](https://github.com/kubernetes/autoscaler/issues/6492)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(8.2K ⭐️)</span>
-
-- [Make logger configurable in the embedded `ferretdb` package](https://github.com/FerretDB/FerretDB/issues/4014)
+- [autoexport: Change WithFallback options signatures](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/4877)
 
 
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(557 ⭐️)</span>
+## wavetermdev/waveterm <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
-- [Allow users to submit jobs when their client version mismatches the server version](https://github.com/bacalhau-project/bacalhau/issues/3163)
-
-
-## opentofu/opentofu <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Occaisional test failure (timing?)](https://github.com/opentofu/opentofu/issues/1153)
-
-- [Fix tests on Windows](https://github.com/opentofu/opentofu/issues/1201)
-
-- [Install instructions should support hardened environments](https://github.com/opentofu/opentofu/issues/1127)
-
-- [Run unit tests on all architectectures from CI](https://github.com/opentofu/opentofu/issues/1135)
+- [mshell needs support for 32-bit ARM](https://github.com/wavetermdev/waveterm/issues/230)
 
 
-## mstgnz/shipping <span style='color:#F1C40F'>(3 ⭐️)</span>
+## ahelmy/xdev <span style='color:#F1C40F'>(25 ⭐️)</span>
 
-- [YURTİÇİ Cargo Integration](https://github.com/mstgnz/shipping/issues/11)
+- [Add RSA keys generation](https://github.com/ahelmy/xdev/issues/28)
 
-- [UPS Cargo Integration](https://github.com/mstgnz/shipping/issues/10)
+- [JSON schema auto generation ](https://github.com/ahelmy/xdev/issues/36)
 
-- [KARGO TÜRK Cargo Integration](https://github.com/mstgnz/shipping/issues/9)
-
-- [TNT Cargo Integration](https://github.com/mstgnz/shipping/issues/8)
-
-- [SÜRAT Cargo Integration](https://github.com/mstgnz/shipping/issues/7)
-
-- [SENDEO Cargo Integration](https://github.com/mstgnz/shipping/issues/6)
-
-- [PTT Cargo Integration](https://github.com/mstgnz/shipping/issues/5)
-
-- [MNG Cargo Integration](https://github.com/mstgnz/shipping/issues/4)
-
-- [FEDEX Cargo Integration](https://github.com/mstgnz/shipping/issues/3)
-
-- [DHL Cargo Integration](https://github.com/mstgnz/shipping/issues/2)
-
-- [Aras Cargo Integration](https://github.com/mstgnz/shipping/issues/1)
+- [JSON schema validation ](https://github.com/ahelmy/xdev/issues/35)
 
 
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(808 ⭐️)</span>
+## liatrio/liatrio-otel-collector <span style='color:#F1C40F'>(28 ⭐️)</span>
 
-- [fix(node): Log node p2p information to stderr as well so docker runners can see it](https://github.com/celestiaorg/celestia-node/issues/3109)
-
-- [test(cmd/celestia): Implement tests for the RPC CLI](https://github.com/celestiaorg/celestia-node/issues/3095)
+- [Re-figure out and document the use of pkg golden generation as part of adding new metrics and tests](https://github.com/liatrio/liatrio-otel-collector/issues/259)
 
 
-## diggerhq/digger <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+## spiffe/spire <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
-- [Print the version + commit ID at the top of every binary invocation](https://github.com/diggerhq/digger/issues/1109)
-
-- [Remove isNonEmptyPlan from the Plan() method of the Executor interface](https://github.com/diggerhq/digger/issues/1029)
-
-- [Policy violation message switched variables](https://github.com/diggerhq/digger/issues/1014)
+- [Integration test for GetAuthorizedEntries behavior](https://github.com/spiffe/spire/issues/4811)
 
 
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.7K ⭐️)</span>
+## openbao/openbao <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
-- [[Feature]: Separate `quorum` for expedited proposal](https://github.com/cosmos/cosmos-sdk/issues/18990)
+- [Bug - Rabbitmq secret engine crashes vault on role read](https://github.com/openbao/openbao/issues/97)
+
+- [RFE Transit - Support soft delete of transit keys](https://github.com/openbao/openbao/issues/88)
+
+- [Fork - Review dependencies for CVEs, update](https://github.com/openbao/openbao/issues/87)
+
+- [Transit: Add public key format](https://github.com/openbao/openbao/issues/86)
+
+- [PKI: Add Delta CRL Indicator extension](https://github.com/openbao/openbao/issues/84)
+
+- [PKI: Support explicit Basic Constraints isCA=False](https://github.com/openbao/openbao/issues/81)
+
+- [Fork: Rename Environment Variables](https://github.com/openbao/openbao/issues/66)
+
+
+## jesseduffield/lazygit <span style='color:#F1C40F'>(42.5K ⭐️)</span>
+
+- [Focus commits view after moving custom patch into new commit](https://github.com/jesseduffield/lazygit/issues/3200)
+
+- [Allow pasting (cherry picking) commits onto branch from branches view](https://github.com/jesseduffield/lazygit/issues/3275)
+
+- [Support range select for reverting commits](https://github.com/jesseduffield/lazygit/issues/3272)
+
+- [Clear copied commits selection after pasting (cherry-pick)](https://github.com/jesseduffield/lazygit/issues/3198)
+
+
+## superfly/flyctl <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [`fly launch` doesn't launch HA *ever* if you customize in the UI](https://github.com/superfly/flyctl/issues/3159)
+
+
+## keploy/keploy <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [[feature]: use struct instead of passing in variable in CaptureTraffic](https://github.com/keploy/keploy/issues/1482)
+
+- [[feature]: generate GitHub Actions automatically when keploy runs](https://github.com/keploy/keploy/issues/1421)
+
+- [[refactor]: samples-go to fix linter errors](https://github.com/keploy/keploy/issues/1474)
+
+- [[feature]: Make generating testReports files optional](https://github.com/keploy/keploy/issues/1393)
+
+- [[feature]: Sample go test and documentation ](https://github.com/keploy/keploy/issues/1423)
+
+- [[bug]: navbar broken for larger screens in keploy-docs](https://github.com/keploy/keploy/issues/1429)
+
+- [[feature]: add example of filtering urls and headers in keploy config ](https://github.com/keploy/keploy/issues/1389)
+
+- [[feature]: add update command to keploy cli](https://github.com/keploy/keploy/issues/1303)
+
+
+## hyperledger/fabric <span style='color:#F1C40F'>(15.1K ⭐️)</span>
+
+- [Fix documentation warnings from Sphinx](https://github.com/hyperledger/fabric/issues/4617)
+
+
+## Azure/dalec <span style='color:#F1C40F'>(8 ⭐️)</span>
+
+- [CI: Automated check that examples in `docs/examples` work](https://github.com/Azure/dalec/issues/68)
+
+- [Add contributing/troubleshooting guide for devs](https://github.com/Azure/dalec/issues/89)
+
+- [Paths in shells are often not correctly quoted](https://github.com/Azure/dalec/issues/63)
 
