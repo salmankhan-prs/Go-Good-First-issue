@@ -4,17 +4,136 @@
 
 
 
-<div align='center'>Last updated at February 5, 2024 01:48 UTC.</div>
+<div align='center'>Last updated at February 6, 2024 01:48 UTC.</div>
 
 
-## opentofu/registry <span style='color:#F1C40F'>(92 ⭐️)</span>
+## opentofu/registry <span style='color:#F1C40F'>(93 ⭐️)</span>
 
 - [Add e2e tests on generated files.](https://github.com/opentofu/registry/issues/164)
 
 - [[Registry Stage 2] Implement a custom 404 page instead of a full html page](https://github.com/opentofu/registry/issues/168)
 
 
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.3K ⭐️)</span>
+
+- [awsemf exporter tests fails if a valid aws configuration is found locally](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/31010)
+
+- [[CDCD] Investigate why goimports liter isn't firing for lifecycle generated tests](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/30439)
+
+- [Refactor unit test execution so it does not check for a Go version](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/30358)
+
+
+## flyteorg/flyte <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [[Docs] .hostname is not available in log templates](https://github.com/flyteorg/flyte/issues/4750)
+
+- [[Core feature] Pyflyte 'task with different structure' should show delta](https://github.com/flyteorg/flyte/issues/4762)
+
+- [[Core feature] `pyflyte run remote-task xyz.my_task show-versions`](https://github.com/flyteorg/flyte/issues/4707)
+
+- [Add support passing integer to flytekit.resource](https://github.com/flyteorg/flyte/issues/4691)
+
+
+## onflow/cadence <span style='color:#F1C40F'>(516 ⭐️)</span>
+
+- [One-off or expiring capabilities](https://github.com/onflow/cadence/issues/2997)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(22.9K ⭐️)</span>
+
+- [Error Standardization: Metadata API](https://github.com/dapr/dapr/issues/7489)
+
+- [Error Standardization: Actors API](https://github.com/dapr/dapr/issues/7425)
+
+- [Error Standardization: Bindings API](https://github.com/dapr/dapr/issues/7483)
+
+- [Error Standardization: Cryptography API](https://github.com/dapr/dapr/issues/7491)
+
+- [Error Standardization: Placement API](https://github.com/dapr/dapr/issues/7490)
+
+- [Error Standardization: Health API](https://github.com/dapr/dapr/issues/7488)
+
+- [Error Standardization: Workflow API](https://github.com/dapr/dapr/issues/7487)
+
+- [Error Standardization: Distributed Lock API](https://github.com/dapr/dapr/issues/7486)
+
+- [Error Standardization: Configuration API](https://github.com/dapr/dapr/issues/7485)
+
+- [Error Standardization: Secrets API](https://github.com/dapr/dapr/issues/7484)
+
+- [Error Standardization: PubSub API](https://github.com/dapr/dapr/issues/7482)
+
+- [Error Standardization: State API](https://github.com/dapr/dapr/issues/7481)
+
+- [Error Standardization: Service Invocation API](https://github.com/dapr/dapr/issues/7480)
+
+
+## navidrome/navidrome <span style='color:#F1C40F'>(9.0K ⭐️)</span>
+
+- [[Bug]: dates with spaces or no month/day are not able to be parsed](https://github.com/navidrome/navidrome/issues/2833)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [[Umbrella Issue] Migrate remaining prow jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31789)
+
+- [Migrate remaining `sig-cloud-provider` jobs to community cluster](https://github.com/kubernetes/test-infra/issues/31795)
+
+- [Migrate remaining `sig-testing` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31793)
+
+- [Migrate remaining `sig-cluster-lifecycle` jobs to community cluster](https://github.com/kubernetes/test-infra/issues/31791)
+
+- [Migrate remaining `csi` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31792)
+
+
+## external-secrets/external-secrets <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [ClusterExternalSecret Ready Condition Should Only be Set to False if There is an Error](https://github.com/external-secrets/external-secrets/issues/3029)
+
+- [docs: toggle icon to switch to dark mode ](https://github.com/external-secrets/external-secrets/issues/3055)
+
+- [Probes for external-secrets](https://github.com/external-secrets/external-secrets/issues/3012)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(14.2K ⭐️)</span>
+
+- [Support `insecure` flag on `artifact`](https://github.com/hashicorp/nomad/issues/19883)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(4.9K ⭐️)</span>
+
+- [configurable minimum memory limit](https://github.com/cri-o/cri-o/issues/7694)
+
+- [Show current runtime configuration during startup](https://github.com/cri-o/cri-o/issues/7704)
+
+
+## openfga/openfga <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [Update `openfga/language` Go module for DSL transformer/parser and refactor usages](https://github.com/openfga/openfga/issues/1302)
+
+
+## kedacore/keda <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [Add support for different tenant and/or cloud in Azure Workload Identity](https://github.com/kedacore/keda/issues/5441)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(12.4K ⭐️)</span>
+
+- [Store Gateway query minio for index file with illegal characters (backslash)](https://github.com/thanos-io/thanos/issues/7110)
+
+- [UI: Warnings when building react app](https://github.com/thanos-io/thanos/issues/7066)
+
+
+## google/osv-scanner <span style='color:#F1C40F'>(5.7K ⭐️)</span>
+
+- [Consider adding a context argument to `depsdev.MakeVersionRequests`](https://github.com/google/osv-scanner/issues/777)
+
+- [Missing vulnerabilities for debian purls for --experimental-local-db](https://github.com/google/osv-scanner/issues/769)
+
+
 ## KaijuEngine/kaiju <span style='color:#F1C40F'>(7 ⭐️)</span>
+
+- [Create the X11 getDPI of the win32 version](https://github.com/KaijuEngine/kaiju/issues/131)
 
 - [Implement copyToClipboard and clipboardContents Windows (windowing/x11.go)](https://github.com/KaijuEngine/kaiju/issues/103)
 
@@ -29,37 +148,16 @@
 - [Setup X11 to work with Vulkan](https://github.com/KaijuEngine/kaiju/issues/88)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(8.2K ⭐️)</span>
+## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.2K ⭐️)</span>
 
-- [Make logger configurable in the embedded `ferretdb` package](https://github.com/FerretDB/FerretDB/issues/4014)
-
-
-## tomoish/github-persona <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [The number of stars is wrong](https://github.com/tomoish/github-persona/issues/71)
-
-- [Proposal for Directory Structure Refactoring in ./src/funcs/](https://github.com/tomoish/github-persona/issues/65)
-
-- [Excessive Unnecessary Comments in the Codebase](https://github.com/tomoish/github-persona/issues/69)
+- [Avoid usage of newly deprecated webhook.Validator and webhook.Defaulter interfaces](https://github.com/kubernetes-sigs/kubebuilder/issues/3721)
 
 
-## pingcap/tidb <span style='color:#F1C40F'>(35.7K ⭐️)</span>
+## zeta-chain/node <span style='color:#F1C40F'>(115 ⭐️)</span>
 
-- [make bazel running without nogo](https://github.com/pingcap/tidb/issues/50400)
+- [Remove param `Enabled`](https://github.com/zeta-chain/node/issues/1596)
 
-
-## cilium/tetragon <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [doc: improve troubleshooting Tetragon](https://github.com/cilium/tetragon/issues/1974)
-
-- [operator: add a flag to force replacing the CRDs](https://github.com/cilium/tetragon/issues/2014)
-
-- [Migrate e2e labels test from `isovalent/jobs-app`](https://github.com/cilium/tetragon/issues/1976)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.7K ⭐️)</span>
-
-- [[Feature]: Separate `quorum` for expedited proposal](https://github.com/cosmos/cosmos-sdk/issues/18990)
+- [`MsgRemoveForeignCoin`: rename `Name` field into `ZRC20Address`](https://github.com/zeta-chain/node/issues/1650)
 
 
 ## kubernetes/autoscaler <span style='color:#F1C40F'>(7.4K ⭐️)</span>
@@ -67,122 +165,126 @@
 - [cluster autoscaler provider build tags broken for several providers](https://github.com/kubernetes/autoscaler/issues/6492)
 
 
-## TwiN/gatus <span style='color:#F1C40F'>(4.4K ⭐️)</span>
+## numaproj/numaflow <span style='color:#F1C40F'>(874 ⭐️)</span>
 
-- [Is there a way to proactively fetch oauth tokens?](https://github.com/TwiN/gatus/issues/672)
+- [`source` and `sourceTransformer` sdk use the same serverInfoPath](https://github.com/numaproj/numaflow/issues/1456)
 
-
-## open-telemetry/opentelemetry-go-contrib <span style='color:#F1C40F'>(921 ⭐️)</span>
-
-- [autoexport: Change WithFallback options signatures](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/4877)
+- [default to user-container when selecting the pod](https://github.com/numaproj/numaflow/issues/1483)
 
 
-## AnalogJ/scrutiny <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
-- [[FEAT] Add support for sd card health monitoring](https://github.com/AnalogJ/scrutiny/issues/563)
+- [Clarify localhost usage in security documentation](https://github.com/open-telemetry/opentelemetry-collector/issues/9338)
 
+- [[extension/zpages] zpages extension should use `confighttp.HTTPServerSettings`](https://github.com/open-telemetry/opentelemetry-collector/issues/9368)
 
-## testcontainers/testcontainers-go <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+- [Make memory_limiter and otlp_receiver return 503 status code instead of 500 on failure](https://github.com/open-telemetry/opentelemetry-collector/issues/9337)
 
-- [[Documentation]: document volumes and mounts](https://github.com/testcontainers/testcontainers-go/issues/2163)
-
-- [Add Must methods for other database modules](https://github.com/testcontainers/testcontainers-go/issues/2134)
-
-
-## dymensionxyz/dymension <span style='color:#F1C40F'>(174 ⭐️)</span>
-
-- [Change `metadata` field on rollapp creation to be `tokenMetadata`](https://github.com/dymensionxyz/dymension/issues/481)
+- [[chore] investigate spellcheck](https://github.com/open-telemetry/opentelemetry-collector/issues/9287)
 
 
-## kyverno/kyverno <span style='color:#F1C40F'>(4.8K ⭐️)</span>
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.2K ⭐️)</span>
 
-- [[Feature] reduce log-level of `MatchPolicyContext()` to reduce logspam](https://github.com/kyverno/kyverno/issues/9607)
+- [[Docs]: aws_rds_cluster: Incorrect description for enable_http_endpoint Argument](https://github.com/hashicorp/terraform-provider-aws/issues/35370)
 
-- [[Enhancement] [CLI]  add plural form aliases](https://github.com/kyverno/kyverno/issues/9586)
+- [[Bug]: Cognito client pinpoint analytics integration always creates it for us-east-1 region. ](https://github.com/hashicorp/terraform-provider-aws/issues/35418)
 
-- [[Feature] Add CLI tests for policy exceptions support](https://github.com/kyverno/kyverno/issues/9584)
+- [[Enhancement]: aws_codeartifact_domain: add s3 bucket ARN attribute](https://github.com/hashicorp/terraform-provider-aws/issues/35302)
 
-- [[Bug] [CLI] Incorrect/missing rule name has different test result from incorrect/missing policy name](https://github.com/kyverno/kyverno/issues/9379)
+- [[Docs]: aws_rds_cluster RDS Serverless v2 Cluster example code results in cluster that is not encrypted at rest](https://github.com/hashicorp/terraform-provider-aws/issues/35369)
 
-- [[Feature] Add Chainsaw tests to cover podSecurity exemptions in policy exceptions](https://github.com/kyverno/kyverno/issues/9526)
-
-
-## pactus-project/pactus <span style='color:#F1C40F'>(90 ⭐️)</span>
-
-- [GPRC method health check](https://github.com/pactus-project/pactus/issues/944)
-
-- [Show availability score in Default wallet address GUI](https://github.com/pactus-project/pactus/issues/912)
+- [[Enhancement]: add ARN attribute to CodeDeploy config](https://github.com/hashicorp/terraform-provider-aws/issues/35281)
 
 
-## tofuutils/tenv <span style='color:#F1C40F'>(80 ⭐️)</span>
+## nginxinc/nginx-gateway-fabric <span style='color:#F1C40F'>(329 ⭐️)</span>
+
+- [Add unit tests for nginx runtime manager](https://github.com/nginxinc/nginx-gateway-fabric/issues/1498)
+
+- [Don't reconcile delete events for GatewayClasses that do not reference NGF](https://github.com/nginxinc/nginx-gateway-fabric/issues/1476)
+
+- [Reduce complexity around client.object type switches](https://github.com/nginxinc/nginx-gateway-fabric/issues/1456)
+
+
+## rollkit/rollkit <span style='color:#F1C40F'>(271 ⭐️)</span>
+
+- [Refactor GenerateKey to be more robust](https://github.com/rollkit/rollkit/issues/1492)
+
+- [Compute IsProposer once](https://github.com/rollkit/rollkit/issues/1452)
+
+
+## tofuutils/tenv <span style='color:#F1C40F'>(82 ⭐️)</span>
+
+- [Add `TENV_LOG=DEBUG` environment variable for logs](https://github.com/tofuutils/tenv/issues/41)
 
 - [Add badge related to code coverage ](https://github.com/tofuutils/tenv/issues/49)
 
 - [Improve documentation](https://github.com/tofuutils/tenv/issues/48)
 
-- [Add `TENV_LOG=DEBUG` environment variable for logs](https://github.com/tofuutils/tenv/issues/41)
+
+## vmware-tanzu/secrets-manager <span style='color:#F1C40F'>(78 ⭐️)</span>
+
+- [change copyright statements to align with other VMware projects](https://github.com/vmware-tanzu/secrets-manager/issues/487)
+
+- [Any VSecM release other than `vsecm` crashes](https://github.com/vmware-tanzu/secrets-manager/issues/454)
+
+- [After `helm delete vsecm` workloads that are bound to SPIFFE CSI driver canot be deleted.](https://github.com/vmware-tanzu/secrets-manager/issues/456)
+
+- [`make helm-delete` shall accept a release name as parameter too](https://github.com/vmware-tanzu/secrets-manager/issues/459)
+
+- [Introduce dynamic code analysis using go’s fuzzing ability](https://github.com/vmware-tanzu/secrets-manager/issues/438)
 
 
-## jesseduffield/lazygit <span style='color:#F1C40F'>(42.5K ⭐️)</span>
+## Consensys/gnark <span style='color:#F1C40F'>(1.2K ⭐️)</span>
 
-- [Allow pasting (cherry picking) commits onto branch from branches view](https://github.com/jesseduffield/lazygit/issues/3275)
-
-- [Support range select for reverting commits](https://github.com/jesseduffield/lazygit/issues/3272)
+- [feat: implement commitment verification in Groth16 in-circuit recursive verifier](https://github.com/Consensys/gnark/issues/987)
 
 
-## google/osv-scanner <span style='color:#F1C40F'>(5.7K ⭐️)</span>
+## project-copacetic/copacetic <span style='color:#F1C40F'>(684 ⭐️)</span>
 
-- [Consider adding a context argument to `depsdev.MakeVersionRequests`](https://github.com/google/osv-scanner/issues/777)
-
-- [Missing vulnerabilities for debian purls for --experimental-local-db](https://github.com/google/osv-scanner/issues/769)
+- [[REQ] log for held packages](https://github.com/project-copacetic/copacetic/issues/496)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.3K ⭐️)</span>
+## replicatedhq/troubleshoot <span style='color:#F1C40F'>(471 ⭐️)</span>
 
-- [awsemf exporter tests fails if a valid aws configuration is found locally](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/31010)
-
-- [[CDCD] Investigate why goimports liter isn't firing for lifecycle generated tests](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/30439)
-
-- [Refactor unit test execution so it does not check for a Go version](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/30358)
+- [Daemonset collector](https://github.com/replicatedhq/troubleshoot/issues/1446)
 
 
-## mariadb-operator/mariadb-operator <span style='color:#F1C40F'>(311 ⭐️)</span>
+## terrastruct/d2 <span style='color:#F1C40F'>(15.2K ⭐️)</span>
 
-- [[Feature] Ability to scale down to 0 replicas](https://github.com/mariadb-operator/mariadb-operator/issues/356)
+- [`link.icon`](https://github.com/terrastruct/d2/issues/1828)
 
-- [[Feature] Compress backup files](https://github.com/mariadb-operator/mariadb-operator/issues/341)
-
-- [[Feature] Ability to specify dedicated metadata to `Backup` and `Restores`](https://github.com/mariadb-operator/mariadb-operator/issues/353)
-
-- [[Feature] Ability to specify a `ServiceAccount` in `Backup` and `Restore`](https://github.com/mariadb-operator/mariadb-operator/issues/352)
-
-- [[Bug] Propagate `spec.inheritMetadata` to `Deployment` template](https://github.com/mariadb-operator/mariadb-operator/issues/351)
-
-- [[Bug]  No `podSecurityContext` on metrics deployments](https://github.com/mariadb-operator/mariadb-operator/issues/348)
-
-- [[bug] Missing support for private image repositories in Backup and Metrics](https://github.com/mariadb-operator/mariadb-operator/issues/345)
-
-- [[Bug]  SealedSecret error with the MariaDb random password generation](https://github.com/mariadb-operator/mariadb-operator/issues/340)
-
-- [[Bug] CA must be mandatory when TLS is enabled](https://github.com/mariadb-operator/mariadb-operator/issues/329)
+- [support `link` on connections](https://github.com/terrastruct/d2/issues/1827)
 
 
-## glasskube/glasskube <span style='color:#F1C40F'>(259 ⭐️)</span>
+## kubestellar/kubeflex <span style='color:#F1C40F'>(35 ⭐️)</span>
 
-- [Configure eslint for website](https://github.com/glasskube/glasskube/issues/80)
+- [feature: Add kflex command to get the list of available contexts](https://github.com/kubestellar/kubeflex/issues/166)
 
-- [Use a differnt port for "glasskube serve" when default port is already in use](https://github.com/glasskube/glasskube/issues/84)
-
-- [Changing the port for "glasskube serve"](https://github.com/glasskube/glasskube/issues/83)
-
-- [Fix 2 Links in Roadmap ](https://github.com/glasskube/glasskube/issues/103)
-
-- [Remove logger dependency from repo client](https://github.com/glasskube/glasskube/issues/99)
-
-- [Create category link for website guide section](https://github.com/glasskube/glasskube/issues/81)
+- [feature: Add `kflex` command/flag to get the current context](https://github.com/kubestellar/kubeflex/issues/165)
 
 
-## siglens/siglens <span style='color:#F1C40F'>(444 ⭐️)</span>
+## grafana/mimir <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [[helm] IPv6 listener in gateway which breaks on systems without IPv6 support](https://github.com/grafana/mimir/issues/7210)
+
+- [Helm - Templatable host for gateway ingress/route](https://github.com/grafana/mimir/issues/7198)
+
+- [Stop using deprecated panel type graph in mimir-mixin](https://github.com/grafana/mimir/issues/7188)
+
+
+## hyperledger/fabric <span style='color:#F1C40F'>(15.1K ⭐️)</span>
+
+- [Fix documentation warnings from Sphinx](https://github.com/hyperledger/fabric/issues/4617)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [[feature] Update the client side graphQL to with proper naming to match server side](https://github.com/guacsec/guac/issues/1663)
+
+
+## siglens/siglens <span style='color:#F1C40F'>(447 ⭐️)</span>
+
+- [[BUG] Blank panel when no Data Source is selected](https://github.com/siglens/siglens/issues/467)
 
 - [[BUG] Dashboard panel color palette not working](https://github.com/siglens/siglens/issues/445)
 
@@ -201,166 +303,28 @@
 - [[UI]  Add thousands separator in the tracing service health table](https://github.com/siglens/siglens/issues/396)
 
 
-## dapr/dapr <span style='color:#F1C40F'>(22.9K ⭐️)</span>
+## kairos-io/kairos <span style='color:#F1C40F'>(835 ⭐️)</span>
 
-- [Error Standardization: Bindings API](https://github.com/dapr/dapr/issues/7483)
+- [:book: Consistent name of our configuration file across docs](https://github.com/kairos-io/kairos/issues/2210)
 
-- [Error Standardization: Cryptography API](https://github.com/dapr/dapr/issues/7491)
+- [:bug: Improve error message when upgrading with a wrong image](https://github.com/kairos-io/kairos/issues/2152)
 
-- [Error Standardization: Placement API](https://github.com/dapr/dapr/issues/7490)
+- [Make openrc override command logic generic for other services besides k3s](https://github.com/kairos-io/kairos/issues/2149)
 
-- [Error Standardization: Metadata API](https://github.com/dapr/dapr/issues/7489)
 
-- [Error Standardization: Health API](https://github.com/dapr/dapr/issues/7488)
+## aws-cloudformation/rain <span style='color:#F1C40F'>(668 ⭐️)</span>
 
-- [Error Standardization: Workflow API](https://github.com/dapr/dapr/issues/7487)
+- [add `aws-console` logout functionality](https://github.com/aws-cloudformation/rain/issues/267)
 
-- [Error Standardization: Distributed Lock API](https://github.com/dapr/dapr/issues/7486)
+- [Implement a "User Initiated" filter option for the rain logs command](https://github.com/aws-cloudformation/rain/issues/236)
 
-- [Error Standardization: Configuration API](https://github.com/dapr/dapr/issues/7485)
 
-- [Error Standardization: Secrets API](https://github.com/dapr/dapr/issues/7484)
+## FerretDB/FerretDB <span style='color:#F1C40F'>(8.2K ⭐️)</span>
 
-- [Error Standardization: PubSub API](https://github.com/dapr/dapr/issues/7482)
+- [Make logger configurable in the embedded `ferretdb` package](https://github.com/FerretDB/FerretDB/issues/4014)
 
-- [Error Standardization: State API](https://github.com/dapr/dapr/issues/7481)
 
-- [Error Standardization: Service Invocation API](https://github.com/dapr/dapr/issues/7480)
+## go-critic/go-critic <span style='color:#F1C40F'>(1.7K ⭐️)</span>
 
-- [Error Standardization: Actors API](https://github.com/dapr/dapr/issues/7425)
-
-
-## opentofu/opentofu <span style='color:#F1C40F'>(18.1K ⭐️)</span>
-
-- [Occaisional test failure (timing?)](https://github.com/opentofu/opentofu/issues/1153)
-
-- [Fix tests on Windows](https://github.com/opentofu/opentofu/issues/1201)
-
-- [Install instructions should support hardened environments](https://github.com/opentofu/opentofu/issues/1127)
-
-- [Run unit tests on all architectectures from CI](https://github.com/opentofu/opentofu/issues/1135)
-
-
-## keyval-dev/odigos <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Sort backends list in alphabetic order in docs](https://github.com/keyval-dev/odigos/issues/943)
-
-- [honeycomb destination: add EU instance endpoint](https://github.com/keyval-dev/odigos/issues/904)
-
-
-## rsteube/carapace-bin <span style='color:#F1C40F'>(536 ⭐️)</span>
-
-- [git - dash completion](https://github.com/rsteube/carapace-bin/issues/2125)
-
-
-## keploy/keploy <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [[bug]: sorting order of test cases wrong ](https://github.com/keploy/keploy/issues/1491)
-
-- [[bug]: navbar broken for larger screens in keploy-docs](https://github.com/keploy/keploy/issues/1429)
-
-- [[feature]: use struct instead of passing in variable in CaptureTraffic](https://github.com/keploy/keploy/issues/1482)
-
-- [[feature]: generate GitHub Actions automatically when keploy runs](https://github.com/keploy/keploy/issues/1421)
-
-- [[refactor]: samples-go to fix linter errors](https://github.com/keploy/keploy/issues/1474)
-
-- [[feature]: Make generating testReports files optional](https://github.com/keploy/keploy/issues/1393)
-
-- [[feature]: Sample go test and documentation ](https://github.com/keploy/keploy/issues/1423)
-
-- [[feature]: add example of filtering urls and headers in keploy config ](https://github.com/keploy/keploy/issues/1389)
-
-- [[feature]: add update command to keploy cli](https://github.com/keploy/keploy/issues/1303)
-
-
-## alibaba/higress <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [SpringCloudGateway迁移到MSE Higress最佳实践](https://github.com/alibaba/higress/issues/774)
-
-- [Add Custom Discoverer interface](https://github.com/alibaba/higress/issues/767)
-
-
-## bitnami-labs/sealed-secrets <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [Document system:authenticated group usage in GKE](https://github.com/bitnami-labs/sealed-secrets/issues/1448)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.2K ⭐️)</span>
-
-- [[Docs]: aws_rds_cluster: Incorrect description for enable_http_endpoint Argument](https://github.com/hashicorp/terraform-provider-aws/issues/35370)
-
-- [[Bug]: Cognito client pinpoint analytics integration always creates it for us-east-1 region. ](https://github.com/hashicorp/terraform-provider-aws/issues/35418)
-
-- [[Enhancement]: aws_codeartifact_domain: add s3 bucket ARN attribute](https://github.com/hashicorp/terraform-provider-aws/issues/35302)
-
-- [[Docs]: aws_rds_cluster RDS Serverless v2 Cluster example code results in cluster that is not encrypted at rest](https://github.com/hashicorp/terraform-provider-aws/issues/35369)
-
-- [[Enhancement]: add ARN attribute to CodeDeploy config](https://github.com/hashicorp/terraform-provider-aws/issues/35281)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(4.9K ⭐️)</span>
-
-- [configurable minimum memory limit](https://github.com/cri-o/cri-o/issues/7694)
-
-- [Show current runtime configuration during startup](https://github.com/cri-o/cri-o/issues/7704)
-
-
-## TrevorEdris/retropie-utils <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [Add `Retrieve` functions to `Storage` interface](https://github.com/TrevorEdris/retropie-utils/issues/13)
-
-- [Add `username` to configuration](https://github.com/TrevorEdris/retropie-utils/issues/7)
-
-- [Remove unnecessary `Storage` implementations](https://github.com/TrevorEdris/retropie-utils/issues/6)
-
-
-## pedregon/scaffold <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [Support Windows development with just](https://github.com/pedregon/scaffold/issues/6)
-
-- [Create a GitHub Action for deployment](https://github.com/pedregon/scaffold/issues/5)
-
-- [Support Go Report Card](https://github.com/pedregon/scaffold/issues/4)
-
-- [Add the "go reference" and "go version" badges to README](https://github.com/pedregon/scaffold/issues/3)
-
-- [Add GitHub action to test on push event and cover on pull request event](https://github.com/pedregon/scaffold/issues/2)
-
-- [Add GitHub action to lint on push event](https://github.com/pedregon/scaffold/issues/1)
-
-
-## bloxapp/ssv <span style='color:#F1C40F'>(164 ⭐️)</span>
-
-- [Wrong log message in ValidatorExited](https://github.com/bloxapp/ssv/issues/1280)
-
-
-## openimsdk/open-im-server <span style='color:#F1C40F'>(12.5K ⭐️)</span>
-
-- [Bug: afterSendSingleMessage callback trigger when typing](https://github.com/openimsdk/open-im-server/issues/1701)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [docs: Add a section for adding a Custom bootstrap using the Merge Option](https://github.com/envoyproxy/gateway/issues/2545)
-
-- [docs: Show routing to service outside cluster using FQDN based EndpointSlices](https://github.com/envoyproxy/gateway/issues/2482)
-
-
-## lima-vm/lima <span style='color:#F1C40F'>(13.5K ⭐️)</span>
-
-- [Split help commands into Basic and Advanced and Instance command groups](https://github.com/lima-vm/lima/issues/2147)
-
-
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [[Umbrella Issue] Migrate remaining prow jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31789)
-
-- [Migrate remaining `sig-cluster-lifecycle` jobs to community cluster](https://github.com/kubernetes/test-infra/issues/31791)
-
-- [Migrate remaining `sig-cloud-provider` jobs to community cluster](https://github.com/kubernetes/test-infra/issues/31795)
-
-- [Migrate remaining `sig-testing` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31793)
-
-- [Migrate remaining `csi` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31792)
+- [Disabling a non-existant check should not be a fatal error](https://github.com/go-critic/go-critic/issues/1398)
 
