@@ -4,194 +4,17 @@
 
 
 
-<div align='center'>Last updated at February 20, 2024 01:48 UTC.</div>
+<div align='center'>Last updated at February 21, 2024 01:48 UTC.</div>
 
 
-## google/osv-scanner <span style='color:#F1C40F'>(5.7K ⭐️)</span>
-
-- [Consider adding a context argument to `depsdev.MakeVersionRequests`](https://github.com/google/osv-scanner/issues/777)
-
-- [Missing vulnerabilities for debian purls for --experimental-local-db](https://github.com/google/osv-scanner/issues/769)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(823 ⭐️)</span>
-
-- [Broken Links Detected](https://github.com/osmosis-labs/osmosis/issues/7491)
-
-
-## navidrome/navidrome <span style='color:#F1C40F'>(9.2K ⭐️)</span>
-
-- [[Bug]: dates with spaces or no month/day are not able to be parsed](https://github.com/navidrome/navidrome/issues/2833)
-
-
-## milvus-io/milvus <span style='color:#F1C40F'>(25.5K ⭐️)</span>
+## milvus-io/milvus <span style='color:#F1C40F'>(25.6K ⭐️)</span>
 
 - [[Feature]: Backup users and groups and other infromation](https://github.com/milvus-io/milvus/issues/30624)
-
-
-## FerretDB/FerretDB <span style='color:#F1C40F'>(8.3K ⭐️)</span>
-
-- [`checkswitch` should handle regular switches](https://github.com/FerretDB/FerretDB/issues/4082)
-
-- [Make logger configurable in the embedded `ferretdb` package](https://github.com/FerretDB/FerretDB/issues/4014)
-
-
-## go-task/task <span style='color:#F1C40F'>(9.5K ⭐️)</span>
-
-- [Special var CLI_SILENT / CLI_VERBOSE](https://github.com/go-task/task/issues/1480)
-
-
-## robinje/multi-user-dungeon <span style='color:#F1C40F'>(2 ⭐️)</span>
-
-- [Player String Processing](https://github.com/robinje/multi-user-dungeon/issues/36)
-
-- [Obscenity Word List](https://github.com/robinje/multi-user-dungeon/issues/74)
-
-- [Input Overload](https://github.com/robinje/multi-user-dungeon/issues/66)
-
-- [Character Validation](https://github.com/robinje/multi-user-dungeon/issues/58)
-
-- [Cognito Based User Creation, Validation, and Password Reset.](https://github.com/robinje/multi-user-dungeon/issues/30)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(105.2K ⭐️)</span>
 
 - [Jobs should display whether or not they are suspended.](https://github.com/kubernetes/kubernetes/issues/123221)
-
-
-## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(982 ⭐️)</span>
-
-- [Change instrumentation feature gates into normal command-line flags](https://github.com/open-telemetry/opentelemetry-operator/issues/2582)
-
-- [VPA does not work when using DaemonSet mode](https://github.com/open-telemetry/opentelemetry-operator/issues/2605)
-
-- [Ability to disable Prometheus scrape annotations](https://github.com/open-telemetry/opentelemetry-operator/issues/2554)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(4.9K ⭐️)</span>
-
-- [[Feature] Add CLI tests for policy exceptions support](https://github.com/kyverno/kyverno/issues/9584)
-
-- [[Bug] `{{ @  || '' }}` expression crashes background controller when used in generate `data`](https://github.com/kyverno/kyverno/issues/9622)
-
-- [[Feature] reduce log-level of `MatchPolicyContext()` to reduce logspam](https://github.com/kyverno/kyverno/issues/9607)
-
-
-## vitessio/vitess <span style='color:#F1C40F'>(17.5K ⭐️)</span>
-
-- [Chore: replace instances of `t.Errorf` and `t.Fatalf` with `assert` and `require`, respectively](https://github.com/vitessio/vitess/issues/15182)
-
-- [Chore: use new range for loops](https://github.com/vitessio/vitess/issues/15193)
-
-- [Chore: remove loopclosure captures from tests.](https://github.com/vitessio/vitess/issues/15183)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.3K ⭐️)</span>
-
-- [[Docs]:  aws_instance market_type is actually a required parameter when spot_options is defined ](https://github.com/hashicorp/terraform-provider-aws/issues/35770)
-
-- [[Docs]: data.aws_msk_bootstrap_brokers has wrong name in example and misleading attribute documentation](https://github.com/hashicorp/terraform-provider-aws/issues/35748)
-
-- [[Bug]: Cognito client pinpoint analytics integration always creates it for us-east-1 region. ](https://github.com/hashicorp/terraform-provider-aws/issues/35418)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(19.1K ⭐️)</span>
-
-- [Extract archive storage integration test from ES and generalize to all storage backends](https://github.com/jaegertracing/jaeger/issues/5203)
-
-- [[Feature]: Print fullly resolved config](https://github.com/jaegertracing/jaeger/issues/5168)
-
-- [Bring code coverage back to 96%](https://github.com/jaegertracing/jaeger/issues/5194)
-
-- [Add retries to codecov uploads](https://github.com/jaegertracing/jaeger/issues/5173)
-
-- [[Feature]: Support external URL prefix](https://github.com/jaegertracing/jaeger/issues/5157)
-
-
-## diggerhq/digger <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Print the version + commit ID at the top of every binary invocation](https://github.com/diggerhq/digger/issues/1109)
-
-
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Migrate remaining `sig-cluster-lifecycle` jobs to community cluster](https://github.com/kubernetes/test-infra/issues/31791)
-
-- [Migrate remaining `sig-testing` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31793)
-
-- [[Umbrella Issue] Migrate remaining prow jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31789)
-
-- [Migrate remaining `csi` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31792)
-
-- [Migrate remaining `sig-node` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31794)
-
-
-## stashapp/stash <span style='color:#F1C40F'>(7.3K ⭐️)</span>
-
-- [[Feature] Make DIRECTOR and PHOTOGRAPHER fields actionable](https://github.com/stashapp/stash/issues/4568)
-
-
-## cnoe-io/idpbuilder <span style='color:#F1C40F'>(52 ⭐️)</span>
-
-- [A guide for running it in a remote machine](https://github.com/cnoe-io/idpbuilder/issues/144)
-
-- [Make target for generating embedded resources](https://github.com/cnoe-io/idpbuilder/issues/136)
-
-
-## prometheus/node_exporter <span style='color:#F1C40F'>(9.9K ⭐️)</span>
-
-- [fibre channel: symbolic_name attribute is not exposed to sysfs by all drivers](https://github.com/prometheus/node_exporter/issues/2919)
-
-
-## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.6K ⭐️)</span>
-
-- [Support all proxy settings for OAuth2](https://github.com/prometheus-operator/prometheus-operator/issues/6301)
-
-- [Enable minVersionKeepFiringFor for Thanos v0.34.0](https://github.com/prometheus-operator/prometheus-operator/issues/6279)
-
-
-## sourcegraph/sourcegraph <span style='color:#F1C40F'>(9.5K ⭐️)</span>
-
-- [Improve rendering of readme/markdown files](https://github.com/sourcegraph/sourcegraph/issues/60431)
-
-- [Server returns no syntax highlighting information for some files](https://github.com/sourcegraph/sourcegraph/issues/60430)
-
-- [Svelte prototype: add blame view](https://github.com/sourcegraph/sourcegraph/issues/60425)
-
-
-## aws-cloudformation/rain <span style='color:#F1C40F'>(671 ⭐️)</span>
-
-- [add `aws-console` logout functionality](https://github.com/aws-cloudformation/rain/issues/267)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(840 ⭐️)</span>
-
-- [deps: Update pyroscope + related deps](https://github.com/celestiaorg/celestia-node/issues/3178)
-
-
-## project-illium/ilxd <span style='color:#F1C40F'>(6 ⭐️)</span>
-
-- [MakeMultisigUnlockingParams expects signatures to be in the same order as keys](https://github.com/project-illium/ilxd/issues/108)
-
-- [Macro preprocessor attempts to expand comments](https://github.com/project-illium/ilxd/issues/105)
-
-
-## kedacore/keda <span style='color:#F1C40F'>(7.5K ⭐️)</span>
-
-- [KEDA doesn't validate empty array of triggers](https://github.com/kedacore/keda/issues/5520)
-
-- [app.kubernetes.io/version Label in *-core.yaml Release Asset Should Specify Version](https://github.com/kedacore/keda/issues/5484)
-
-- [Supporting disabling admission rules based on resource annotation](https://github.com/kedacore/keda/issues/5516)
-
-- [Validate fallback configuration during admission process](https://github.com/kedacore/keda/issues/5515)
-
-- [Add support for different tenant and/or cloud in Azure Workload Identity](https://github.com/kedacore/keda/issues/5441)
-
-
-## kopia/kopia <span style='color:#F1C40F'>(5.9K ⭐️)</span>
-
-- [Document what metadata is or isn't backed up](https://github.com/kopia/kopia/issues/3587)
 
 
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.7K ⭐️)</span>
@@ -218,18 +41,13 @@
 - [docs: Add a section for adding a Custom bootstrap using the Merge Option](https://github.com/envoyproxy/gateway/issues/2545)
 
 
-## bitnami-labs/sealed-secrets <span style='color:#F1C40F'>(7.0K ⭐️)</span>
+## antrea-io/antrea <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
-- [Document system:authenticated group usage in GKE](https://github.com/bitnami-labs/sealed-secrets/issues/1448)
+- [Remove all references to busybox in e2e tests](https://github.com/antrea-io/antrea/issues/5991)
 
+- [Running `antrea-controller --version` "outside of K8s" should not print warnings](https://github.com/antrea-io/antrea/issues/5990)
 
-## kyverno/chainsaw <span style='color:#F1C40F'>(104 ⭐️)</span>
-
-- [[Feature] Implement programmatic validation for config](https://github.com/kyverno/chainsaw/issues/851)
-
-- [[Feature] Create a wait operation](https://github.com/kyverno/chainsaw/issues/888)
-
-- [[Feature] Check resource scope in describe collector](https://github.com/kyverno/chainsaw/issues/834)
+- [Some antrea-agent Pods always log errors about "join cluster failed"](https://github.com/antrea-io/antrea/issues/5966)
 
 
 ## lightningnetwork/lnd <span style='color:#F1C40F'>(7.4K ⭐️)</span>
@@ -239,23 +57,85 @@
 - [healthcheck: make sure chain backend has enough outbound peers](https://github.com/lightningnetwork/lnd/issues/8487)
 
 
-## kairos-io/kairos <span style='color:#F1C40F'>(845 ⭐️)</span>
+## vitessio/vitess <span style='color:#F1C40F'>(17.5K ⭐️)</span>
 
-- [:book: Consistent name of our configuration file across docs](https://github.com/kairos-io/kairos/issues/2210)
+- [Chore: replace instances of `t.Errorf` and `t.Fatalf` with `assert` and `require`, respectively](https://github.com/vitessio/vitess/issues/15182)
 
+- [Chore: use new range for loops](https://github.com/vitessio/vitess/issues/15193)
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [[chore] Fix new lint issues with golangci-lint v1.56.1](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/31240)
-
-- [awsemf exporter tests fails if a valid aws configuration is found locally](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/31010)
+- [Chore: remove loopclosure captures from tests.](https://github.com/vitessio/vitess/issues/15183)
 
 
-## opentofu/opentofu <span style='color:#F1C40F'>(18.4K ⭐️)</span>
+## parca-dev/parca-agent <span style='color:#F1C40F'>(436 ⭐️)</span>
 
-- [Fix tests on Windows](https://github.com/opentofu/opentofu/issues/1201)
+- [test/integration: Add NodeJS Integration tests](https://github.com/parca-dev/parca-agent/issues/2512)
 
-- [urldecode function](https://github.com/opentofu/opentofu/issues/1234)
+
+## go-gitea/gitea <span style='color:#F1C40F'>(40.8K ⭐️)</span>
+
+- [Sign In form UI refactoring](https://github.com/go-gitea/gitea/issues/29280)
+
+
+## stashapp/stash <span style='color:#F1C40F'>(7.3K ⭐️)</span>
+
+- [[Feature] Make DIRECTOR and PHOTOGRAPHER fields actionable](https://github.com/stashapp/stash/issues/4568)
+
+
+## kopia/kopia <span style='color:#F1C40F'>(5.9K ⭐️)</span>
+
+- [Document what metadata is or isn't backed up](https://github.com/kopia/kopia/issues/3587)
+
+
+## sourcegraph/sourcegraph <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+
+- [Improve rendering of readme/markdown files](https://github.com/sourcegraph/sourcegraph/issues/60431)
+
+- [Server returns no syntax highlighting information for some files](https://github.com/sourcegraph/sourcegraph/issues/60430)
+
+- [Svelte prototype: add blame view](https://github.com/sourcegraph/sourcegraph/issues/60425)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Migrate remaining `sig-cluster-lifecycle` jobs to community cluster](https://github.com/kubernetes/test-infra/issues/31791)
+
+- [Migrate remaining `sig-testing` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31793)
+
+- [[Umbrella Issue] Migrate remaining prow jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31789)
+
+- [Migrate remaining `csi` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31792)
+
+- [Migrate remaining `sig-node` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31794)
+
+
+## nginxinc/nginx-gateway-fabric <span style='color:#F1C40F'>(332 ⭐️)</span>
+
+- [Add unit tests for nginx runtime manager](https://github.com/nginxinc/nginx-gateway-fabric/issues/1498)
+
+
+## kubernetes/autoscaler <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [cluster autoscaler provider build tags broken for several providers](https://github.com/kubernetes/autoscaler/issues/6492)
+
+
+## vmware-tanzu/secrets-manager <span style='color:#F1C40F'>(88 ⭐️)</span>
+
+- [inclusivity: refactor instances of `masterKey` in the source code as `rootKey`](https://github.com/vmware-tanzu/secrets-manager/issues/555)
+
+- [create a dark theme for the website](https://github.com/vmware-tanzu/secrets-manager/issues/547)
+
+- [`make helm-delete` shall accept a release name as parameter too](https://github.com/vmware-tanzu/secrets-manager/issues/459)
+
+- [VSecM Safe does not validate if the workload exists in the secret’s list of namespaces](https://github.com/vmware-tanzu/secrets-manager/issues/503)
+
+- [Any VSecM release other than `vsecm` crashes](https://github.com/vmware-tanzu/secrets-manager/issues/454)
+
+- [After `helm delete vsecm` workloads that are bound to SPIFFE CSI driver canot be deleted.](https://github.com/vmware-tanzu/secrets-manager/issues/456)
+
+
+## eraser-dev/eraser <span style='color:#F1C40F'>(364 ⭐️)</span>
+
+- [[REQ] docs: mention disabling scanner will remove all images](https://github.com/eraser-dev/eraser/issues/978)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(23.0K ⭐️)</span>
@@ -287,17 +167,162 @@
 - [Error Standardization: Service Invocation API](https://github.com/dapr/dapr/issues/7480)
 
 
-## openbao/openbao <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+## gophercloud/gophercloud <span style='color:#F1C40F'>(820 ⭐️)</span>
 
-- [Fork - Review dependencies for CVEs, update](https://github.com/openbao/openbao/issues/87)
+- [CI: "Quota exceeded for instances" acceptance error on some stable jobs](https://github.com/gophercloud/gophercloud/issues/2912)
 
-- [Fork: Rename Environment Variables](https://github.com/openbao/openbao/issues/66)
 
-- [Transit: Add public key format](https://github.com/openbao/openbao/issues/86)
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.3K ⭐️)</span>
 
-- [RFE Transit - Support soft delete of transit keys](https://github.com/openbao/openbao/issues/88)
+- [[Docs]:  aws_instance market_type is actually a required parameter when spot_options is defined ](https://github.com/hashicorp/terraform-provider-aws/issues/35770)
 
-- [PKI: Add Delta CRL Indicator extension](https://github.com/openbao/openbao/issues/84)
+- [[Docs]: data.aws_msk_bootstrap_brokers has wrong name in example and misleading attribute documentation](https://github.com/hashicorp/terraform-provider-aws/issues/35748)
 
-- [PKI: Support explicit Basic Constraints isCA=False](https://github.com/openbao/openbao/issues/81)
+
+## istio/istio <span style='color:#F1C40F'>(34.4K ⭐️)</span>
+
+- [Istio CNI Agent: Tests around CNI plugin for sidecar-and-ambient-together scenarios](https://github.com/istio/istio/issues/49228)
+
+
+## konveyor/analyzer-lsp <span style='color:#F1C40F'>(7 ⭐️)</span>
+
+- [[BUG] Handle language server is closed error in user readable format](https://github.com/konveyor/analyzer-lsp/issues/500)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(14.3K ⭐️)</span>
+
+- [Support `insecure` flag on `artifact`](https://github.com/hashicorp/nomad/issues/19883)
+
+
+## dymensionxyz/dymension <span style='color:#F1C40F'>(300 ⭐️)</span>
+
+- [refactor usage of deprectated `sdkerrors` package](https://github.com/dymensionxyz/dymension/issues/562)
+
+
+## Azure/dalec <span style='color:#F1C40F'>(8 ⭐️)</span>
+
+- [Add contributing/troubleshooting guide for devs](https://github.com/Azure/dalec/issues/89)
+
+
+## rsteube/carapace-bin <span style='color:#F1C40F'>(554 ⭐️)</span>
+
+- [brew](https://github.com/rsteube/carapace-bin/issues/2228)
+
+
+## project-copacetic/copacetic <span style='color:#F1C40F'>(693 ⭐️)</span>
+
+- [[REQ] copa should fast fail if input has no fixable vulns](https://github.com/project-copacetic/copacetic/issues/499)
+
+- [[REQ] log for held packages](https://github.com/project-copacetic/copacetic/issues/496)
+
+
+## carlqt/ezsplit <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [feat: Implement `deleteMyItem` mutation](https://github.com/carlqt/ezsplit/issues/14)
+
+- [feat: Implement `updateMyReceipt` mutation](https://github.com/carlqt/ezsplit/issues/12)
+
+- [feat: Implement `deleteMyReceipt` mutation](https://github.com/carlqt/ezsplit/issues/13)
+
+- [Implement `updateMyItem` mutation](https://github.com/carlqt/ezsplit/issues/5)
+
+- [feat: Implement `myReceipts` query](https://github.com/carlqt/ezsplit/issues/10)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(823 ⭐️)</span>
+
+- [Broken Links Detected](https://github.com/osmosis-labs/osmosis/issues/7491)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [[chore] Fix new lint issues with golangci-lint v1.56.1](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/31240)
+
+- [awsemf exporter tests fails if a valid aws configuration is found locally](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/31010)
+
+
+## cometbft/cometbft <span style='color:#F1C40F'>(475 ⭐️)</span>
+
+- [golangci-lint: enable more linters](https://github.com/cometbft/cometbft/issues/2274)
+
+- [blocksync: Double conversion from proto not needed](https://github.com/cometbft/cometbft/issues/2143)
+
+
+## crowdsecurity/crowdsec <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Add the label "machine" to the prometheus metric cs_active_decisions](https://github.com/crowdsecurity/crowdsec/issues/2784)
+
+
+## keploy/keploy <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [[bug]: correction required in doc quickstart](https://github.com/keploy/keploy/issues/1581)
+
+- [[chore]: blog website seo improvements](https://github.com/keploy/keploy/issues/1594)
+
+- [[bug]: Blog website favicon are breaking](https://github.com/keploy/keploy/issues/1504)
+
+- [[bug]: race condition in mongo parser](https://github.com/keploy/keploy/issues/1540)
+
+- [[feature]: Add a CRUD rest api in Rust & MongoDB to showcase keploy capabilities](https://github.com/keploy/keploy/issues/1546)
+
+- [[feature]: Colorise keploy's logo in terminal](https://github.com/keploy/keploy/issues/1579)
+
+- [[feature]: add light mode compatability on docs code blocks](https://github.com/keploy/keploy/issues/1578)
+
+- [[docs]: adding env path in debugger](https://github.com/keploy/keploy/issues/1574)
+
+- [[bug]: remove explicit chmod commands from keploy codebase](https://github.com/keploy/keploy/issues/1534)
+
+- [[bug]: the Body is empty in github/action script](https://github.com/keploy/keploy/issues/1507)
+
+- [[feature]: add more stories to blog website as a suggestion at the end of the blog](https://github.com/keploy/keploy/issues/1553)
+
+- [[feature]: Add a CRUD API with SQLX and PostgreSQL](https://github.com/keploy/keploy/issues/1547)
+
+- [[bug]: Hero Image Not Responsive on Mobile Devices](https://github.com/keploy/keploy/issues/1537)
+
+- [feat: option to disable ANSI color codes](https://github.com/keploy/keploy/issues/1520)
+
+- [Timeout Error for outgoing https Requests for APIs taking longer time to execute](https://github.com/keploy/keploy/issues/1515)
+
+- [[bug]: Replacement for the links in community and blog pages in blog website.](https://github.com/keploy/keploy/issues/1502)
+
+- [[feature]: generate GitHub Actions automatically when keploy runs](https://github.com/keploy/keploy/issues/1421)
+
+- [[feature]: Sample go test and documentation ](https://github.com/keploy/keploy/issues/1423)
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [Increase Mutating webhook timeout.](https://github.com/linkerd/linkerd2/issues/12011)
+
+
+## flyteorg/flyte <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [[Core feature] Pyflyte 'task with different structure' should show delta](https://github.com/flyteorg/flyte/issues/4762)
+
+- [[Core feature] Automate sandbox-bundled YAML Updates with Helm Charts in Makefile](https://github.com/flyteorg/flyte/issues/4798)
+
+
+## numaproj/numaflow <span style='color:#F1C40F'>(879 ⭐️)</span>
+
+- [Terraform Script](https://github.com/numaproj/numaflow/issues/1486)
+
+- [default to user-container when selecting the pod](https://github.com/numaproj/numaflow/issues/1483)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(5.0K ⭐️)</span>
+
+- [Migrate allowed annotations to Kubernetes recommended syntax](https://github.com/cri-o/cri-o/issues/7781)
+
+- [Show current runtime configuration during startup](https://github.com/cri-o/cri-o/issues/7704)
+
+
+## kyverno/chainsaw <span style='color:#F1C40F'>(108 ⭐️)</span>
+
+- [[Feature] Check resource scope in describe collector](https://github.com/kyverno/chainsaw/issues/834)
+
+- [[Feature] Implement programmatic validation for config](https://github.com/kyverno/chainsaw/issues/851)
+
+- [[Feature] Create a wait operation](https://github.com/kyverno/chainsaw/issues/888)
 
