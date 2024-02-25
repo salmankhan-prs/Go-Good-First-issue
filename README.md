@@ -4,12 +4,23 @@
 
 
 
-<div align='center'>Last updated at February 24, 2024 01:48 UTC.</div>
+<div align='center'>Last updated at February 25, 2024 01:48 UTC.</div>
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(28.7K ⭐️)</span>
+## go-gitea/gitea <span style='color:#F1C40F'>(40.9K ⭐️)</span>
 
-- [ ALTER COLUMN TYPE  doesn’t work if the column being altered has a default value](https://github.com/cockroachdb/cockroach/issues/119555)
+- [Contributors page doesn't look good on mobile view](https://github.com/go-gitea/gitea/issues/29192)
+
+- [Sign In form UI refactoring](https://github.com/go-gitea/gitea/issues/29280)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [[pkg/ottl] Improve OTTL Docs](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/31387)
+
+- [[chore] Fix new lint issues with golangci-lint v1.56.1](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/31240)
+
+- [awsemf exporter tests fails if a valid aws configuration is found locally](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/31010)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(105.3K ⭐️)</span>
@@ -19,43 +30,6 @@
 - [Jobs should display whether or not they are suspended.](https://github.com/kubernetes/kubernetes/issues/123221)
 
 
-## kubernetes/test-infra <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [Migrate remaining `sig-cluster-lifecycle` jobs to community cluster](https://github.com/kubernetes/test-infra/issues/31791)
-
-- [Migrate remaining `sig-testing` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31793)
-
-- [[Umbrella Issue] Migrate remaining prow jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31789)
-
-- [Migrate remaining `csi` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31792)
-
-- [Migrate remaining `sig-node` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31794)
-
-
-## rsteube/carapace-bin <span style='color:#F1C40F'>(555 ⭐️)</span>
-
-- [brew](https://github.com/rsteube/carapace-bin/issues/2228)
-
-
-## opentofu/opentofu <span style='color:#F1C40F'>(18.5K ⭐️)</span>
-
-- [urldecode function](https://github.com/opentofu/opentofu/issues/1234)
-
-- [Fix tests on Windows](https://github.com/opentofu/opentofu/issues/1201)
-
-
-## cloudfoundry/korifi <span style='color:#F1C40F'>(271 ⭐️)</span>
-
-- [[Feature]: As a Korifi app developer I want to see the MEMORY_LIMIT environment variable in my app containers](https://github.com/cloudfoundry/korifi/issues/3081)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Surface Warning in HTTPRoute Status if Regex Program Size is over 1000](https://github.com/envoyproxy/gateway/issues/2622)
-
-- [docs: Add a section for adding a Custom bootstrap using the Merge Option](https://github.com/envoyproxy/gateway/issues/2545)
-
-
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.3K ⭐️)</span>
 
 - [[Docs]:  aws_instance market_type is actually a required parameter when spot_options is defined ](https://github.com/hashicorp/terraform-provider-aws/issues/35770)
@@ -63,35 +37,36 @@
 - [[Docs]: data.aws_msk_bootstrap_brokers has wrong name in example and misleading attribute documentation](https://github.com/hashicorp/terraform-provider-aws/issues/35748)
 
 
-## antrea-io/antrea <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+## milvus-io/milvus <span style='color:#F1C40F'>(25.6K ⭐️)</span>
 
-- [Some ci/kind/kind-setup.sh improvements are needed](https://github.com/antrea-io/antrea/issues/6022)
-
-- [Some antrea-agent Pods always log errors about "join cluster failed"](https://github.com/antrea-io/antrea/issues/5966)
+- [[Feature]: Backup users and groups and other infromation](https://github.com/milvus-io/milvus/issues/30624)
 
 
-## istio/istio <span style='color:#F1C40F'>(34.5K ⭐️)</span>
+## dymensionxyz/dymension <span style='color:#F1C40F'>(310 ⭐️)</span>
 
-- [Istio CNI Agent: Tests around CNI plugin for sidecar-and-ambient-together upgrade scenarios](https://github.com/istio/istio/issues/49228)
+- [Added eibc endpoints to openapi.yaml ](https://github.com/dymensionxyz/dymension/issues/590)
 
-
-## aws/copilot-cli <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Show warning message before deployment when a secret does not exist](https://github.com/aws/copilot-cli/issues/5662)
+- [refactor usage of deprectated `sdkerrors` package](https://github.com/dymensionxyz/dymension/issues/562)
 
 
-## flyteorg/flyte <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+## kyverno/chainsaw <span style='color:#F1C40F'>(111 ⭐️)</span>
 
-- [[Core feature] Automate sandbox-bundled YAML Updates with Helm Charts in Makefile](https://github.com/flyteorg/flyte/issues/4798)
+- [Nix package [Feature] ](https://github.com/kyverno/chainsaw/issues/962)
+
+- [[Feature] Check resource scope in describe collector](https://github.com/kyverno/chainsaw/issues/834)
+
+- [[Feature] Create a wait operation](https://github.com/kyverno/chainsaw/issues/888)
 
 
 ## KaijuEngine/kaiju <span style='color:#F1C40F'>(13 ⭐️)</span>
 
-- [Allow drag to continue outside of window](https://github.com/KaijuEngine/kaiju/issues/203)
+- [Allow drag to continue outside of window (X11)](https://github.com/KaijuEngine/kaiju/issues/203)
 
-- [Add an "All" section to the log window](https://github.com/KaijuEngine/kaiju/issues/188)
+- [Implement cursorStandard on X11](https://github.com/KaijuEngine/kaiju/issues/100)
 
-- [Make functions for setting the window position and size](https://github.com/KaijuEngine/kaiju/issues/185)
+- [Implement cursorIbeam on X11](https://github.com/KaijuEngine/kaiju/issues/101)
+
+- [Add C function to get X11 window X/Y position](https://github.com/KaijuEngine/kaiju/issues/222)
 
 - [Implement all of the CSS cursors (css_cursor.go)](https://github.com/KaijuEngine/kaiju/issues/180)
 
@@ -109,225 +84,92 @@
 
 - [Implement copyToClipboard and clipboardContents Windows (windowing/win32.go)](https://github.com/KaijuEngine/kaiju/issues/102)
 
-- [Implement cursorIbeam on X11 (windowing/x11.go)](https://github.com/KaijuEngine/kaiju/issues/101)
-
-- [Implement cursorStandard on X11 (windowing/x11.go)](https://github.com/KaijuEngine/kaiju/issues/100)
-
 - [Create a setup script (.bat and .sh)](https://github.com/KaijuEngine/kaiju/issues/92)
 
 - [Setup X11 to work with Vulkan](https://github.com/KaijuEngine/kaiju/issues/88)
 
 
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+## cockroachdb/cockroach <span style='color:#F1C40F'>(28.7K ⭐️)</span>
 
-- [[otlpexporter] Validate endpoint has port](https://github.com/open-telemetry/opentelemetry-collector/issues/9505)
+- [ ALTER COLUMN TYPE  doesn’t work if the column being altered has a default value](https://github.com/cockroachdb/cockroach/issues/119555)
 
-- [[configtls] Validate `MinVersion` and `MaxVersion`](https://github.com/open-telemetry/opentelemetry-collector/issues/9475)
 
-- [Add `NewDefaultFoo` for configurations](https://github.com/open-telemetry/opentelemetry-collector/issues/9508)
+## rsteube/carapace-bin <span style='color:#F1C40F'>(560 ⭐️)</span>
 
+- [brew](https://github.com/rsteube/carapace-bin/issues/2228)
 
-## go-gitea/gitea <span style='color:#F1C40F'>(40.8K ⭐️)</span>
 
-- [Contributors page doesn't look good on mobile view](https://github.com/go-gitea/gitea/issues/29192)
+## TwiN/gatus <span style='color:#F1C40F'>(4.6K ⭐️)</span>
 
-- [Sign In form UI refactoring](https://github.com/go-gitea/gitea/issues/29280)
+- [Alerts triggered status is not persistent](https://github.com/TwiN/gatus/issues/679)
 
+- [Is there a way to proactively fetch oauth tokens?](https://github.com/TwiN/gatus/issues/672)
 
-## Azure/dalec <span style='color:#F1C40F'>(9 ⭐️)</span>
 
-- [Add contributing/troubleshooting guide for devs](https://github.com/Azure/dalec/issues/89)
+## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(176 ⭐️)</span>
 
+- [Create helm test for global values](https://github.com/keptn/lifecycle-toolkit/issues/2909)
 
-## navidrome/navidrome <span style='color:#F1C40F'>(9.2K ⭐️)</span>
+- [Enhance contrib guide technologies section with beginner friendly containers and k8s resources](https://github.com/keptn/lifecycle-toolkit/issues/3097)
 
-- [[Bug]: dates with spaces or no month/day are not able to be parsed](https://github.com/navidrome/navidrome/issues/2833)
+- [Use code annotations to increase usability of Analysis reference page](https://github.com/keptn/lifecycle-toolkit/issues/3040)
 
+- [Increase Lifecycle Operator Coverage](https://github.com/keptn/lifecycle-toolkit/issues/3037)
 
-## diggerhq/digger <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+- [Increase CLOMonitor score](https://github.com/keptn/lifecycle-toolkit/issues/2934)
 
-- [Print the version + commit ID at the top of every binary invocation](https://github.com/diggerhq/digger/issues/1109)
+- [Increase Keptn Cert Manager coverage](https://github.com/keptn/lifecycle-toolkit/issues/3038)
 
+- [Sidebar error on website](https://github.com/keptn/lifecycle-toolkit/issues/2947)
 
-## dapr/dapr <span style='color:#F1C40F'>(23.0K ⭐️)</span>
+- [Make guide page titles consistent and easier to find](https://github.com/keptn/lifecycle-toolkit/issues/2921)
 
-- [Error Standardization: Cryptography API](https://github.com/dapr/dapr/issues/7491)
 
-- [Error Standardization: Metadata API](https://github.com/dapr/dapr/issues/7489)
+## stacklok/minder <span style='color:#F1C40F'>(149 ⭐️)</span>
 
-- [Error Standardization: Bindings API](https://github.com/dapr/dapr/issues/7483)
+- [Implement the ability to persist values in the minder CLI config file](https://github.com/stacklok/minder/issues/2309)
 
-- [Error Standardization: Placement API](https://github.com/dapr/dapr/issues/7490)
+- [Switch away from actions using a deprecated nodejs version](https://github.com/stacklok/minder/issues/2300)
 
-- [Error Standardization: Health API](https://github.com/dapr/dapr/issues/7488)
+- [Add minder project list command](https://github.com/stacklok/minder/issues/2255)
 
-- [Error Standardization: Workflow API](https://github.com/dapr/dapr/issues/7487)
 
-- [Error Standardization: Distributed Lock API](https://github.com/dapr/dapr/issues/7486)
+## jesseduffield/lazygit <span style='color:#F1C40F'>(43.2K ⭐️)</span>
 
-- [Error Standardization: Configuration API](https://github.com/dapr/dapr/issues/7485)
+- [Allow pasting (cherry picking) commits onto branch from branches view](https://github.com/jesseduffield/lazygit/issues/3275)
 
-- [Error Standardization: Secrets API](https://github.com/dapr/dapr/issues/7484)
+- [Support range select for reverting commits](https://github.com/jesseduffield/lazygit/issues/3272)
 
-- [Error Standardization: PubSub API](https://github.com/dapr/dapr/issues/7482)
 
-- [Error Standardization: State API](https://github.com/dapr/dapr/issues/7481)
+## glasskube/glasskube <span style='color:#F1C40F'>(477 ⭐️)</span>
 
-- [Error Standardization: Service Invocation API](https://github.com/dapr/dapr/issues/7480)
+- [Parallelize `IsBootstrapped` function](https://github.com/glasskube/glasskube/issues/285)
 
+- [Show current context in install command](https://github.com/glasskube/glasskube/issues/271)
 
-## cometbft/cometbft <span style='color:#F1C40F'>(478 ⭐️)</span>
+- [add progress bar and spinner in all CLI commands](https://github.com/glasskube/glasskube/issues/168)
 
-- [golangci-lint: enable more linters](https://github.com/cometbft/cometbft/issues/2274)
+- [Add footer to the GUI](https://github.com/glasskube/glasskube/issues/232)
 
-- [blocksync: Double conversion from proto not needed](https://github.com/cometbft/cometbft/issues/2143)
 
+## a-h/templ <span style='color:#F1C40F'>(5.7K ⭐️)</span>
 
-## TBD54566975/ftl <span style='color:#F1C40F'>(12 ⭐️)</span>
+- [generator: Support calls that return an error in attributes.](https://github.com/a-h/templ/issues/492)
 
-- [Make `ftl init` create completely self-contained modules](https://github.com/TBD54566975/ftl/issues/933)
 
-- [add schema validation check that prevents cyclical dependencies in FTL modules](https://github.com/TBD54566975/ftl/issues/894)
+## crowdsecurity/hub <span style='color:#F1C40F'>(134 ⭐️)</span>
 
-- [Lower case response fields don't show in response and don't warn or error](https://github.com/TBD54566975/ftl/issues/848)
+- [Incorrect regular expression in crowdsecurity/exim-logs](https://github.com/crowdsecurity/hub/issues/978)
 
 
-## shipwright-io/build <span style='color:#F1C40F'>(575 ⭐️)</span>
+## creativeprojects/resticprofile <span style='color:#F1C40F'>(471 ⭐️)</span>
 
-- [[FEATURE] Move Readme Try It Section to BETA](https://github.com/shipwright-io/build/issues/1502)
+- [Environment variables from file](https://github.com/creativeprojects/resticprofile/issues/316)
 
-- [[FEATURE] Improve on buildCredentialserences function name](https://github.com/shipwright-io/build/issues/1501)
 
-- [[BETA API] Some Go fields use a name that does not match the name of the JSON field](https://github.com/shipwright-io/build/issues/1484)
+## external-secrets/external-secrets <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [[pkg/ottl] Improve OTTL Docs](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/31387)
-
-- [[chore] Fix new lint issues with golangci-lint v1.56.1](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/31240)
-
-- [awsemf exporter tests fails if a valid aws configuration is found locally](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/31010)
-
-
-## quicksilver-zone/quicksilver <span style='color:#F1C40F'>(57 ⭐️)</span>
-
-- [Add missing queries to CLI](https://github.com/quicksilver-zone/quicksilver/issues/1145)
-
-- [Add unbonding info to zone stats](https://github.com/quicksilver-zone/quicksilver/issues/1123)
-
-
-## siglens/siglens <span style='color:#F1C40F'>(473 ⭐️)</span>
-
-- [[STORY] Add Alt Text for Dashboard Panel Chart Icons](https://github.com/siglens/siglens/issues/553)
-
-- [[STORY] UI : The text and icon are getting clashed at the end of the search bar](https://github.com/siglens/siglens/issues/573)
-
-- [[STORY] UI : JSON Box should be smaller or fit in the box](https://github.com/siglens/siglens/issues/572)
-
-- [[STORY] UI: There should be spacing between the icon and text](https://github.com/siglens/siglens/issues/571)
-
-- [[STORY] UI : Info or indicator for the JSON data opening in `timestamp` field in the table](https://github.com/siglens/siglens/issues/570)
-
-- [[STORY] UI : Address dropdown should be large enough](https://github.com/siglens/siglens/issues/569)
-
-- [[STORY] UI: Add an illustration for the empty states across the product](https://github.com/siglens/siglens/issues/568)
-
-- [[STORY] Ensure that the search endpoint contains all necessary properties and returns the correct status code.](https://github.com/siglens/siglens/issues/577)
-
-- [[BUG] Disable the functionality to edit the default dashboard details](https://github.com/siglens/siglens/issues/576)
-
-- [[STORY] Ensure that the traces search endpoint contains all necessary properties and returns the correct status code.](https://github.com/siglens/siglens/issues/575)
-
-- [[BUG] Min and Max Duration search doesn't work for traces](https://github.com/siglens/siglens/issues/574)
-
-- [[STORY] Add Unit tests for contact points](https://github.com/siglens/siglens/issues/545)
-
-- [[NEW] Add a feature to test contact points ](https://github.com/siglens/siglens/issues/544)
-
-- [[STORY] Centralize the definition of default dashboards IDs](https://github.com/siglens/siglens/issues/543)
-
-- [[STORY] Add Unit tests for alert related functions ](https://github.com/siglens/siglens/issues/542)
-
-- [[BUG] The toggle for Dark/Light Mode is not functioning on the saved queries page.](https://github.com/siglens/siglens/issues/541)
-
-- [[STORY] Refactor NodeResult Struct by cleaning up the RecsAggs Fields.](https://github.com/siglens/siglens/issues/564)
-
-- [[STORY] Add unit test for GetDefaultTimechartSpanOptions](https://github.com/siglens/siglens/issues/563)
-
-- [[STORY] Add unit test for the GetOrCreateNodeRes](https://github.com/siglens/siglens/issues/562)
-
-- [[STORY] Add unit test for PerformArithmeticOperation](https://github.com/siglens/siglens/issues/561)
-
-- [[STORY] Add Unit Tests for Stats Aggregation function Following Rex Columns](https://github.com/siglens/siglens/issues/560)
-
-- [[STORY] Add Unit Tests for Group By Stats Aggregation function Following Rex Columns](https://github.com/siglens/siglens/issues/559)
-
-- [[STORY] UI : Update CSS Style for Save Query Dialog Box](https://github.com/siglens/siglens/issues/551)
-
-- [[NEW] Add functionality to show timechart on search page, under visualisation tab](https://github.com/siglens/siglens/issues/567)
-
-- [[NEW]  Add support for querying nested json fields](https://github.com/siglens/siglens/issues/566)
-
-- [[STORY] UI : Disable Search Query Button for Incorrect Queries](https://github.com/siglens/siglens/issues/558)
-
-- [[STORY] UI : Prevent Column Removal in Logs Table When Moving Header](https://github.com/siglens/siglens/issues/557)
-
-- [[STORY] Fix CSS Style: Available Fields on Live Tail Screen](https://github.com/siglens/siglens/issues/556)
-
-- [[STORY] UI :  Add Placeholder for Max and Min Duration in Search Traces Page](https://github.com/siglens/siglens/issues/555)
-
-- [[STORY] UI : Adjust Tooltip Appearance in Scatter Chart for Dark Theme](https://github.com/siglens/siglens/issues/554)
-
-
-## ava-labs/subnet-evm <span style='color:#F1C40F'>(224 ⭐️)</span>
-
-- [Linter: check consistency of copyright headers](https://github.com/ava-labs/subnet-evm/issues/1087)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Logs cluster label cannot be customized in helm chart](https://github.com/grafana/mimir/issues/7412)
-
-- [helm: ImagePullSecrets for grafana agent image](https://github.com/grafana/mimir/issues/7406)
-
-- [[helm] IPv6 listener in gateway which breaks on systems without IPv6 support](https://github.com/grafana/mimir/issues/7210)
-
-
-## vmware-tanzu/secrets-manager <span style='color:#F1C40F'>(89 ⭐️)</span>
-
-- [inclusivity: refactor instances of `masterKey` in the source code as `rootKey`](https://github.com/vmware-tanzu/secrets-manager/issues/555)
-
-- [create a dark theme for the website](https://github.com/vmware-tanzu/secrets-manager/issues/547)
-
-- [`make helm-delete` shall accept a release name as parameter too](https://github.com/vmware-tanzu/secrets-manager/issues/459)
-
-- [VSecM Safe does not validate if the workload exists in the secret’s list of namespaces](https://github.com/vmware-tanzu/secrets-manager/issues/503)
-
-- [Any VSecM release other than `vsecm` crashes](https://github.com/vmware-tanzu/secrets-manager/issues/454)
-
-- [After `helm delete vsecm` workloads that are bound to SPIFFE CSI driver canot be deleted.](https://github.com/vmware-tanzu/secrets-manager/issues/456)
-
-
-## parca-dev/parca-agent <span style='color:#F1C40F'>(438 ⭐️)</span>
-
-- [test/integration: Add NodeJS Integration tests](https://github.com/parca-dev/parca-agent/issues/2512)
-
-
-## containerd/nerdctl <span style='color:#F1C40F'>(7.2K ⭐️)</span>
-
-- [Support multiple build contexts](https://github.com/containerd/nerdctl/issues/2835)
-
-
-## vitessio/vitess <span style='color:#F1C40F'>(17.5K ⭐️)</span>
-
-- [Support all SELECT modifiers](https://github.com/vitessio/vitess/issues/15318)
-
-- [Chore: replace instances of `t.Errorf` and `t.Fatalf` with `assert` and `require`, respectively](https://github.com/vitessio/vitess/issues/15182)
-
-- [Chore: use new range for loops](https://github.com/vitessio/vitess/issues/15193)
-
-- [Chore: remove loopclosure captures from tests.](https://github.com/vitessio/vitess/issues/15183)
+- [Better logging for Webhook Generator](https://github.com/external-secrets/external-secrets/issues/3181)
 
 
 ## grafana/agent <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -337,14 +179,140 @@
 - [Resync defaults for otelcol.exporter.otlp with upstream](https://github.com/grafana/agent/issues/6467)
 
 
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(826 ⭐️)</span>
+## flyteorg/flyte <span style='color:#F1C40F'>(4.6K ⭐️)</span>
 
-- [Broken Links Detected](https://github.com/osmosis-labs/osmosis/issues/7491)
+- [[Core feature] Automate sandbox-bundled YAML Updates with Helm Charts in Makefile](https://github.com/flyteorg/flyte/issues/4798)
 
 
-## terrastruct/d2 <span style='color:#F1C40F'>(15.3K ⭐️)</span>
+## istio/istio <span style='color:#F1C40F'>(34.5K ⭐️)</span>
 
-- [`link.icon`](https://github.com/terrastruct/d2/issues/1828)
+- [Istio CNI Agent: Tests around CNI plugin for sidecar-and-ambient-together upgrade scenarios](https://github.com/istio/istio/issues/49228)
 
-- [support `link` on connections](https://github.com/terrastruct/d2/issues/1827)
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(848 ⭐️)</span>
+
+- [deps: Update pyroscope + related deps](https://github.com/celestiaorg/celestia-node/issues/3178)
+
+
+## minekube/gate <span style='color:#F1C40F'>(460 ⭐️)</span>
+
+- [Status/ping fails when server has the BetterCompatabilityChecker mod](https://github.com/minekube/gate/issues/297)
+
+
+## opentofu/opentofu <span style='color:#F1C40F'>(18.5K ⭐️)</span>
+
+- [urldecode function](https://github.com/opentofu/opentofu/issues/1234)
+
+- [Fix tests on Windows](https://github.com/opentofu/opentofu/issues/1201)
+
+
+## containerd/nerdctl <span style='color:#F1C40F'>(7.2K ⭐️)</span>
+
+- [Support multiple build contexts](https://github.com/containerd/nerdctl/issues/2835)
+
+
+## keploy/keploy <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [Timeout Error for outgoing https Requests for APIs taking longer time to execute](https://github.com/keploy/keploy/issues/1515)
+
+- [[bug]: correction required in doc quickstart](https://github.com/keploy/keploy/issues/1581)
+
+- [[chore]: blog website seo improvements](https://github.com/keploy/keploy/issues/1594)
+
+- [[bug]: Keploy update command updates even on latest version ](https://github.com/keploy/keploy/issues/1608)
+
+- [[feature]: Colorise keploy's logo in terminal](https://github.com/keploy/keploy/issues/1579)
+
+- [[bug]: Blog website favicon are breaking](https://github.com/keploy/keploy/issues/1504)
+
+- [[bug]: race condition in mongo parser](https://github.com/keploy/keploy/issues/1540)
+
+- [[feature]: Add a CRUD rest api in Rust & MongoDB to showcase keploy capabilities](https://github.com/keploy/keploy/issues/1546)
+
+- [[feature]: add light mode compatability on docs code blocks](https://github.com/keploy/keploy/issues/1578)
+
+- [[bug]: remove explicit chmod commands from keploy codebase](https://github.com/keploy/keploy/issues/1534)
+
+- [[feature]: add more stories to blog website as a suggestion at the end of the blog](https://github.com/keploy/keploy/issues/1553)
+
+- [[feature]: Add a CRUD API with SQLX and PostgreSQL](https://github.com/keploy/keploy/issues/1547)
+
+- [[bug]: Hero Image Not Responsive on Mobile Devices](https://github.com/keploy/keploy/issues/1537)
+
+- [feat: option to disable ANSI color codes](https://github.com/keploy/keploy/issues/1520)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Logs cluster label cannot be customized in helm chart](https://github.com/grafana/mimir/issues/7412)
+
+- [helm: ImagePullSecrets for grafana agent image](https://github.com/grafana/mimir/issues/7406)
+
+
+## shipwright-io/build <span style='color:#F1C40F'>(582 ⭐️)</span>
+
+- [[FEATURE] Move Readme Try It Section to BETA](https://github.com/shipwright-io/build/issues/1502)
+
+- [[FEATURE] Improve on buildCredentialserences function name](https://github.com/shipwright-io/build/issues/1501)
+
+- [[BETA API] Some Go fields use a name that does not match the name of the JSON field](https://github.com/shipwright-io/build/issues/1484)
+
+
+## 030/n3dr <span style='color:#F1C40F'>(138 ⭐️)</span>
+
+- [snap stable version 6 should be replaced by 7](https://github.com/030/n3dr/issues/496)
+
+- [Too verbose logging when creating a user](https://github.com/030/n3dr/issues/477)
+
+- [Create build task for generating code from swagger](https://github.com/030/n3dr/issues/462)
+
+
+## hay-kot/homebox <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Option for 100% self hosted without external resources](https://github.com/hay-kot/homebox/issues/748)
+
+
+## treeverse/lakeFS <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Give an option to hide merge commits in a branch view in the UI](https://github.com/treeverse/lakeFS/issues/7441)
+
+
+## stashapp/stash <span style='color:#F1C40F'>(7.3K ⭐️)</span>
+
+- [[Feature] Make DIRECTOR and PHOTOGRAPHER fields actionable](https://github.com/stashapp/stash/issues/4568)
+
+
+## pipe-cd/pipecd <span style='color:#F1C40F'>(927 ⭐️)</span>
+
+- [Display the Base64 encoded value of the Piped Key when registering a new piped](https://github.com/pipe-cd/pipecd/issues/4796)
+
+- [Migrate from the deprecated package:  google.golang.org/genproto/googleapis/cloud/secretmanager/v1](https://github.com/pipe-cd/pipecd/issues/4784)
+
+- [The release note generated by action-gh-release includes older changes than the selected version ](https://github.com/pipe-cd/pipecd/issues/4777)
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(19.1K ⭐️)</span>
+
+- [Extract archive storage integration test from ES and generalize to all storage backends](https://github.com/jaegertracing/jaeger/issues/5203)
+
+- [[Feature]: Print fullly resolved config](https://github.com/jaegertracing/jaeger/issues/5168)
+
+- [Bring code coverage back to 96%](https://github.com/jaegertracing/jaeger/issues/5194)
+
+- [Add retries to codecov uploads](https://github.com/jaegertracing/jaeger/issues/5173)
+
+- [[Feature]: Support external URL prefix](https://github.com/jaegertracing/jaeger/issues/5157)
+
+
+## kubernetes/test-infra <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [Migrate remaining `sig-cluster-lifecycle` jobs to community cluster](https://github.com/kubernetes/test-infra/issues/31791)
+
+- [Migrate remaining `sig-testing` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31793)
+
+- [[Umbrella Issue] Migrate remaining prow jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31789)
+
+- [Migrate remaining `csi` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31792)
+
+- [Migrate remaining `sig-node` jobs to community clusters](https://github.com/kubernetes/test-infra/issues/31794)
 
