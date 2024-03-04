@@ -4,69 +4,55 @@
 
 
 
-<div align='center'>Last updated at March 3, 2024 01:48 UTC.</div>
+<div align='center'>Last updated at March 4, 2024 01:48 UTC.</div>
 
 
-## KaijuEngine/kaiju <span style='color:#F1C40F'>(20 ⭐️)</span>
+## mosn/htnn <span style='color:#F1C40F'>(5 ⭐️)</span>
 
-- [When saving a stage, it just overwrites a stage with the same name](https://github.com/KaijuEngine/kaiju/issues/252)
-
-- [Make a content opener for HTML files run in the preview window](https://github.com/KaijuEngine/kaiju/issues/246)
-
-- [Implement setSize on X11](https://github.com/KaijuEngine/kaiju/issues/236)
-
-- [Implement setPosition on X11](https://github.com/KaijuEngine/kaiju/issues/233)
-
-- [Implement remove/add border for X11 window](https://github.com/KaijuEngine/kaiju/issues/234)
-
-- [Add window activity to X11 window](https://github.com/KaijuEngine/kaiju/issues/228)
-
-- [Allow drag to continue outside of window (X11)](https://github.com/KaijuEngine/kaiju/issues/203)
-
-- [Add C function to get X11 window X/Y position](https://github.com/KaijuEngine/kaiju/issues/222)
-
-- [Implement all of the CSS cursors (css_cursor.go)](https://github.com/KaijuEngine/kaiju/issues/180)
-
-- [Add a "Create Folder" button to the file/folder picker](https://github.com/KaijuEngine/kaiju/issues/158)
-
-- [Create a refresh button in the file/folder picker](https://github.com/KaijuEngine/kaiju/issues/157)
-
-- [Support MacOS](https://github.com/KaijuEngine/kaiju/issues/146)
-
-- [Add auto-triangulation to the obj loader](https://github.com/KaijuEngine/kaiju/issues/139)
-
-- [Create the X11 getDPI of the win32 version](https://github.com/KaijuEngine/kaiju/issues/131)
+- [oidc: add userinfo support](https://github.com/mosn/htnn/issues/336)
 
 
-## google/gvisor <span style='color:#F1C40F'>(14.7K ⭐️)</span>
+## parca-dev/parca-agent <span style='color:#F1C40F'>(441 ⭐️)</span>
 
-- [Convert `atomic.Value` usages for `*T` to `atomic.Pointer[T]`.](https://github.com/google/gvisor/issues/10089)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(105.5K ⭐️)</span>
-
-- [Cleanup to commonize utility function for CronJob and Job](https://github.com/kubernetes/kubernetes/issues/123445)
-
-- [Jobs should display whether or not they are suspended.](https://github.com/kubernetes/kubernetes/issues/123221)
+- [test/integration: Add NodeJS Integration tests](https://github.com/parca-dev/parca-agent/issues/2512)
 
 
-## go-gitea/gitea <span style='color:#F1C40F'>(41.0K ⭐️)</span>
+## istio/istio <span style='color:#F1C40F'>(34.5K ⭐️)</span>
 
-- [Support a member-only organisation profile README](https://github.com/go-gitea/gitea/issues/29503)
-
-- [Contributors page doesn't look good on mobile view](https://github.com/go-gitea/gitea/issues/29192)
-
-- [Add a link to user's commits in contributors graph](https://github.com/go-gitea/gitea/issues/29365)
-
-- [Sign In form UI refactoring](https://github.com/go-gitea/gitea/issues/29280)
+- [Istio CNI Agent: Tests around CNI plugin for sidecar-and-ambient-together upgrade scenarios](https://github.com/istio/istio/issues/49228)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(25.7K ⭐️)</span>
+## TBD54566975/ftl <span style='color:#F1C40F'>(13 ⭐️)</span>
 
-- [[Feature]: Backup users and groups and other infromation](https://github.com/milvus-io/milvus/issues/30624)
+- [Add a `--log-timestamps` flag for console output](https://github.com/TBD54566975/ftl/issues/1009)
+
+- ["Failed to increase deployment replicas" should be logged at error](https://github.com/TBD54566975/ftl/issues/899)
+
+- [add schema validation check that prevents cyclical dependencies in FTL modules](https://github.com/TBD54566975/ftl/issues/894)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [Surface Warning in HTTPRoute Status if Regex Program Size is over 1000](https://github.com/envoyproxy/gateway/issues/2622)
+
+
+## TremblingV5/DouTok <span style='color:#F1C40F'>(56 ⭐️)</span>
+
+- [use `make` to startup DouTok services](https://github.com/TremblingV5/DouTok/issues/112)
+
+- [Refactor Plan](https://github.com/TremblingV5/DouTok/issues/94)
+
+- [UI & Client Plan](https://github.com/TremblingV5/DouTok/issues/98)
+
+
+## containers/podman <span style='color:#F1C40F'>(21.1K ⭐️)</span>
+
+- [When using a quadlet, the generated RequiresMountsFor doesn't properly handle space characters](https://github.com/containers/podman/issues/21607)
 
 
 ## mlange-42/tiny-world <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [Add speed control](https://github.com/mlange-42/tiny-world/issues/87)
 
 - [Write unit tests](https://github.com/mlange-42/tiny-world/issues/74)
 
@@ -90,72 +76,69 @@
 - [Fork - Remove reference to billing](https://github.com/openbao/openbao/issues/130)
 
 
-## gatewayd-io/gatewayd <span style='color:#F1C40F'>(155 ⭐️)</span>
+## go-gitea/gitea <span style='color:#F1C40F'>(41.0K ⭐️)</span>
 
-- [Graceful shutdown](https://github.com/gatewayd-io/gatewayd/issues/439)
+- [Support a member-only organisation profile README](https://github.com/go-gitea/gitea/issues/29503)
 
-- [Replace go-capturer with logging to buffer](https://github.com/gatewayd-io/gatewayd/issues/457)
+- [Contributors page doesn't look good on mobile view](https://github.com/go-gitea/gitea/issues/29192)
 
-- [Refactor `cmd/utils.go`](https://github.com/gatewayd-io/gatewayd/issues/438)
+- [Add a link to user's commits in contributors graph](https://github.com/go-gitea/gitea/issues/29365)
 
-
-## gerrowadat/sheet <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [Add 'truncate'](https://github.com/gerrowadat/sheet/issues/4)
-
-- [Add 'sheet rm'](https://github.com/gerrowadat/sheet/issues/3)
-
-- [Add 'sheet touch'](https://github.com/gerrowadat/sheet/issues/2)
+- [Sign In form UI refactoring](https://github.com/go-gitea/gitea/issues/29280)
 
 
-## syself/cluster-api-provider-hetzner <span style='color:#F1C40F'>(470 ⭐️)</span>
+## antrea-io/antrea <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
-- [Add webhooks for ProviderMachineTemplate objects ](https://github.com/syself/cluster-api-provider-hetzner/issues/1165)
+- [Some antrea-agent Pods always log errors about "join cluster failed"](https://github.com/antrea-io/antrea/issues/5966)
 
-- [Condition for missing `rootDeviceHints` of `HetznerBareMetalHost`](https://github.com/syself/cluster-api-provider-hetzner/issues/1174)
-
-- [Choose HetznerBareMetalHosts with RootDeviceHints set over those ones without](https://github.com/syself/cluster-api-provider-hetzner/issues/1173)
+- [Some ci/kind/kind-setup.sh improvements are needed](https://github.com/antrea-io/antrea/issues/6022)
 
 
-## kyverno/chainsaw <span style='color:#F1C40F'>(115 ⭐️)</span>
+## cockroachdb/cdc-sink <span style='color:#F1C40F'>(48 ⭐️)</span>
 
-- [[Feature] Support --all and --all-namespaces in collectors](https://github.com/kyverno/chainsaw/issues/980)
+- [Improve error message when sending a changefeed query to non-query endpoint](https://github.com/cockroachdb/cdc-sink/issues/720)
 
-- [[Feature] Support more general catch blocks](https://github.com/kyverno/chainsaw/issues/976)
+- [Add `sinktest/base.GetRowRowCountWithPredicate()` helper](https://github.com/cockroachdb/cdc-sink/issues/689)
 
-- [Nix package [Feature] ](https://github.com/kyverno/chainsaw/issues/962)
+- [Watcher interface should be updated to use a notify.Var](https://github.com/cockroachdb/cdc-sink/issues/690)
 
-
-## EinStack/glide <span style='color:#F1C40F'>(66 ⭐️)</span>
-
-- [✨ [API] Make client connection pool configurable](https://github.com/EinStack/glide/issues/164)
-
-- [🔧 [Lang API]  Track what if the chat chunk is the final one](https://github.com/EinStack/glide/issues/161)
-
-- [🔧 [Lang API] Allow to pass metadata into the streaming chat API](https://github.com/EinStack/glide/issues/162)
-
-- [🔧 [Lang API] Validate Chat API with govalidator](https://github.com/EinStack/glide/issues/159)
-
-- [🔒 Upgrade the crypto lib (CVE-2023-48795)](https://github.com/EinStack/glide/issues/148)
-
-- [Improve Code Test Coverage](https://github.com/EinStack/glide/issues/146)
-
-- [Add Anthropic Support to AWS Bedrock Provider](https://github.com/EinStack/glide/issues/145)
-
-- [Support Google Gemini](https://github.com/EinStack/glide/issues/133)
-
-- [Support GCP Vertex AI](https://github.com/EinStack/glide/issues/132)
-
-- [🔧 Upgrade Golang to 1.22](https://github.com/EinStack/glide/issues/129)
+- [Unify database error code extraction logic](https://github.com/cockroachdb/cdc-sink/issues/688)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(28.7K ⭐️)</span>
+## kubernetes/kubernetes <span style='color:#F1C40F'>(105.5K ⭐️)</span>
 
-- [backupccl: consider a more lenient retry policy for backup](https://github.com/cockroachdb/cockroach/issues/119691)
+- [Cleanup to commonize utility function for CronJob and Job](https://github.com/kubernetes/kubernetes/issues/123445)
 
-- [ ALTER COLUMN TYPE  doesn’t work if the column being altered has a default value](https://github.com/cockroachdb/cockroach/issues/119555)
+- [Jobs should display whether or not they are suspended.](https://github.com/kubernetes/kubernetes/issues/123221)
 
-- [sql: grant / revoke statements which make no change should not need schema change jobs](https://github.com/cockroachdb/cockroach/issues/119657)
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(19.1K ⭐️)</span>
+
+- [Bring code coverage back to 95%](https://github.com/jaegertracing/jaeger/issues/5194)
+
+- [Extract archive storage integration test from ES and generalize to all storage backends](https://github.com/jaegertracing/jaeger/issues/5203)
+
+- [[Feature]: Print fullly resolved config](https://github.com/jaegertracing/jaeger/issues/5168)
+
+- [Add retries to codecov uploads](https://github.com/jaegertracing/jaeger/issues/5173)
+
+
+## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.6K ⭐️)</span>
+
+- [[BUG]: Crd AltermanagerConfig field `muteTimeIntervals.timeIntervals.months` regex pattern `|[1-12]` isn't correct](https://github.com/prometheus-operator/prometheus-operator/issues/6353)
+
+- [Bug in the doc, at scrape config crd](https://github.com/prometheus-operator/prometheus-operator/issues/6350)
+
+
+## scribe-org/Scribe-Server <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [Add linting checks to the development process](https://github.com/scribe-org/Scribe-Server/issues/12)
+
+- [Add Toolforge to the 'Wikimedia Communities' section](https://github.com/scribe-org/Scribe-Server/issues/11)
+
+- [Docker tooling for local development](https://github.com/scribe-org/Scribe-Server/issues/7)
+
+- [Create CI workflow to run tests](https://github.com/scribe-org/Scribe-Server/issues/8)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -169,77 +152,25 @@
 - [helm: ImagePullSecrets for grafana agent image](https://github.com/grafana/mimir/issues/7406)
 
 
-## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.3K ⭐️)</span>
+## openfga/openfga <span style='color:#F1C40F'>(2.0K ⭐️)</span>
 
-- [RBAC for `get` on status subresource is unnecessary](https://github.com/kubernetes-sigs/kubebuilder/issues/3781)
+- [Add unit tests to OIDC middleware](https://github.com/openfga/openfga/issues/1395)
 
-- [Invalid leader election ID is generated](https://github.com/kubernetes-sigs/kubebuilder/issues/3790)
+- [Exclude `mock_check_resolver` from code coverage](https://github.com/openfga/openfga/issues/1398)
 
-- [Add support for go 1.22](https://github.com/kubernetes-sigs/kubebuilder/issues/3792)
+- [Support Context in Assertions API ](https://github.com/openfga/openfga/issues/1353)
 
-- [Include CRD viewer and editor roles in kustomization file?](https://github.com/kubernetes-sigs/kubebuilder/issues/3782)
-
-- [Labels added to generated YAML seem a bit aggressive](https://github.com/kubernetes-sigs/kubebuilder/issues/3783)
+- [Refactor logger.NewLogger with options builder pattern](https://github.com/openfga/openfga/issues/1355)
 
 
-## shipwright-io/build <span style='color:#F1C40F'>(586 ⭐️)</span>
+## google/gvisor <span style='color:#F1C40F'>(14.7K ⭐️)</span>
 
-- [[FEATURE] Move Readme Try It Section to BETA](https://github.com/shipwright-io/build/issues/1502)
-
-
-## kubeflow/katib <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [Replace reflect.DeepEqual with cmp.Diff in tests](https://github.com/kubeflow/katib/issues/2268)
-
-
-## istio/istio <span style='color:#F1C40F'>(34.5K ⭐️)</span>
-
-- [Istio CNI Agent: Tests around CNI plugin for sidecar-and-ambient-together upgrade scenarios](https://github.com/istio/istio/issues/49228)
-
-
-## superfly/flyctl <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Parallelize deletion of old machines in bluegreen deployments](https://github.com/superfly/flyctl/issues/3328)
-
-
-## go-playground/validator <span style='color:#F1C40F'>(15.2K ⭐️)</span>
-
-- [bcp47_language_tag doesn't fail on some non-BCP47 tags](https://github.com/go-playground/validator/issues/1221)
-
-
-## mariadb-operator/mariadb-operator <span style='color:#F1C40F'>(329 ⭐️)</span>
-
-- [[Feature] Migrate pkg tests to Ginkgo](https://github.com/mariadb-operator/mariadb-operator/issues/368)
-
-
-## containers/podman <span style='color:#F1C40F'>(21.1K ⭐️)</span>
-
-- [When using a quadlet, the generated RequiresMountsFor doesn't properly handle space characters](https://github.com/containers/podman/issues/21607)
-
-
-## minekube/gate <span style='color:#F1C40F'>(472 ⭐️)</span>
-
-- [Status/ping fails when server has the BetterCompatabilityChecker mod](https://github.com/minekube/gate/issues/297)
-
-
-## keptn/lifecycle-toolkit <span style='color:#F1C40F'>(181 ⭐️)</span>
-
-- [Move info about Golangci-lint from contribute/docs section to contrib/ software section](https://github.com/keptn/lifecycle-toolkit/issues/3139)
-
-- [Use code annotations to increase usability of Analysis reference page](https://github.com/keptn/lifecycle-toolkit/issues/3040)
-
-- [Introduce tests for lifecycle-operator bugs](https://github.com/keptn/lifecycle-toolkit/issues/3121)
-
-- [Increase Keptn Cert Manager coverage](https://github.com/keptn/lifecycle-toolkit/issues/3038)
-
-- [Enhance contrib guide technologies section with beginner friendly containers and k8s resources](https://github.com/keptn/lifecycle-toolkit/issues/3097)
-
-- [Increase Lifecycle Operator Coverage](https://github.com/keptn/lifecycle-toolkit/issues/3037)
-
-- [Sidebar error on website](https://github.com/keptn/lifecycle-toolkit/issues/2947)
+- [Convert `atomic.Value` usages for `*T` to `atomic.Pointer[T]`.](https://github.com/google/gvisor/issues/10089)
 
 
 ## keploy/keploy <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [[feature]:  Addition of version argument to installation script](https://github.com/keploy/keploy/issues/1639)
 
 - [[chore]: blog website seo improvements](https://github.com/keploy/keploy/issues/1594)
 
@@ -270,16 +201,96 @@
 - [feat: option to disable ANSI color codes](https://github.com/keploy/keploy/issues/1520)
 
 
-## crowdsecurity/hub <span style='color:#F1C40F'>(134 ⭐️)</span>
+## dymensionxyz/dymension <span style='color:#F1C40F'>(315 ⭐️)</span>
 
-- [Incorrect regular expression in crowdsecurity/exim-logs](https://github.com/crowdsecurity/hub/issues/978)
+- [Add eibc endpoints to openapi.yaml ](https://github.com/dymensionxyz/dymension/issues/590)
+
+- [refactor usage of deprectated `sdkerrors` package](https://github.com/dymensionxyz/dymension/issues/562)
 
 
-## version-fox/vfox <span style='color:#F1C40F'>(795 ⭐️)</span>
+## chainloop-dev/chainloop <span style='color:#F1C40F'>(243 ⭐️)</span>
 
-- [Support PHP Plugin](https://github.com/version-fox/vfox/issues/55)
+- [enhancement: remove attestationID from stdout](https://github.com/chainloop-dev/chainloop/issues/521)
 
-- [Add support for NuShell](https://github.com/version-fox/vfox/issues/46)
+- [chore: upgrade to go 1.22](https://github.com/chainloop-dev/chainloop/issues/508)
 
-- [Expand supported installation formats for Python Plugin on Windows](https://github.com/version-fox/vfox/issues/44)
+- [Allow downloading files with specific name](https://github.com/chainloop-dev/chainloop/issues/492)
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [Resources in policy controller manifest aren't getting properly defaulted when empty](https://github.com/linkerd/linkerd2/issues/12131)
+
+
+## KaijuEngine/kaiju <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [Implement cursorIbeam on X11](https://github.com/KaijuEngine/kaiju/issues/258)
+
+- [When saving a stage, it just overwrites a stage with the same name](https://github.com/KaijuEngine/kaiju/issues/252)
+
+- [Make a content opener for HTML files run in the preview window](https://github.com/KaijuEngine/kaiju/issues/246)
+
+- [Implement setSize on X11](https://github.com/KaijuEngine/kaiju/issues/236)
+
+- [Implement setPosition on X11](https://github.com/KaijuEngine/kaiju/issues/233)
+
+- [Implement remove/add border for X11 window](https://github.com/KaijuEngine/kaiju/issues/234)
+
+- [Add window activity to X11 window](https://github.com/KaijuEngine/kaiju/issues/228)
+
+- [Allow drag to continue outside of window (X11)](https://github.com/KaijuEngine/kaiju/issues/203)
+
+- [Add C function to get X11 window X/Y position](https://github.com/KaijuEngine/kaiju/issues/222)
+
+- [Implement all of the CSS cursors (css_cursor.go)](https://github.com/KaijuEngine/kaiju/issues/180)
+
+- [Add a "Create Folder" button to the file/folder picker](https://github.com/KaijuEngine/kaiju/issues/158)
+
+- [Create a refresh button in the file/folder picker](https://github.com/KaijuEngine/kaiju/issues/157)
+
+- [Support MacOS](https://github.com/KaijuEngine/kaiju/issues/146)
+
+- [Add auto-triangulation to the obj loader](https://github.com/KaijuEngine/kaiju/issues/139)
+
+- [Create the X11 getDPI of the win32 version](https://github.com/KaijuEngine/kaiju/issues/131)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [Propagate k8s node topology related labels to Dataplane](https://github.com/kumahq/kuma/issues/9242)
+
+- [add some sort of flag to allow operators to turn off the GUI update check](https://github.com/kumahq/kuma/issues/9291)
+
+
+## mariadb-operator/mariadb-operator <span style='color:#F1C40F'>(332 ⭐️)</span>
+
+- [[Feature] Migrate pkg tests to Ginkgo](https://github.com/mariadb-operator/mariadb-operator/issues/368)
+
+
+## a-h/templ <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [generator: enable script components on alpine.js attributes](https://github.com/a-h/templ/issues/579)
+
+- [generator: Support calls that return an error in attributes.](https://github.com/a-h/templ/issues/492)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(28.7K ⭐️)</span>
+
+- [backupccl: consider a more lenient retry policy for backup](https://github.com/cockroachdb/cockroach/issues/119691)
+
+- [ ALTER COLUMN TYPE  doesn’t work if the column being altered has a default value](https://github.com/cockroachdb/cockroach/issues/119555)
+
+- [sql: grant / revoke statements which make no change should not need schema change jobs](https://github.com/cockroachdb/cockroach/issues/119657)
+
+
+## cilium/ebpf <span style='color:#F1C40F'>(5.6K ⭐️)</span>
+
+- [Add test suite for netkit devices](https://github.com/cilium/ebpf/issues/1350)
+
+
+## ayn2op/discordo <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [Dim referred message's content when displaying a message reply](https://github.com/ayn2op/discordo/issues/355)
+
+- [Replace IDs in mentions with usernames](https://github.com/ayn2op/discordo/issues/348)
 
