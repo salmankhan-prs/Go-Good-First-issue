@@ -4,10 +4,42 @@
 
 
 
-<div align='center'>Last updated at March 17, 2024 01:48 UTC.</div>
+<div align='center'>Last updated at March 18, 2024 01:48 UTC.</div>
+
+
+## mosn/htnn <span style='color:#F1C40F'>(7 ⭐️)</span>
+
+- [oidc: add userinfo support](https://github.com/mosn/htnn/issues/336)
+
+
+## milvus-io/milvus <span style='color:#F1C40F'>(26.0K ⭐️)</span>
+
+- [[Feature]: Backup users and groups and other infromation](https://github.com/milvus-io/milvus/issues/30624)
+
+
+## TBD54566975/ftl <span style='color:#F1C40F'>(14 ⭐️)</span>
+
+- [Provide option to specify modules in `ftl schema get`](https://github.com/TBD54566975/ftl/issues/1090)
+
+- [Order and group FTL schema output in a nicer way](https://github.com/TBD54566975/ftl/issues/1089)
+
+- [Go schema extraction doesn't correctly validate data types are in FTL modules](https://github.com/TBD54566975/ftl/issues/1066)
+
+- [Add quickstart to the readme and ftl help](https://github.com/TBD54566975/ftl/issues/1033)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(41.2K ⭐️)</span>
+
+- [Support a member-only organisation profile README](https://github.com/go-gitea/gitea/issues/29503)
+
+- [Add a link to user's commits in contributors graph](https://github.com/go-gitea/gitea/issues/29365)
+
+- [Sign In form UI refactoring](https://github.com/go-gitea/gitea/issues/29280)
 
 
 ## mlange-42/tiny-world <span style='color:#F1C40F'>(18 ⭐️)</span>
+
+- [Profile the game loop](https://github.com/mlange-42/tiny-world/issues/236)
 
 - [Make more maps/scenarios](https://github.com/mlange-42/tiny-world/issues/206)
 
@@ -20,122 +52,54 @@
 - [Modability & custom tilesets](https://github.com/mlange-42/tiny-world/issues/148)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(28.8K ⭐️)</span>
+## grafana/mimir <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
-- [sql: grant / revoke statements which make no change should not need schema change jobs](https://github.com/cockroachdb/cockroach/issues/119657)
+- [Make /ingester/shutdown react on POST method only](https://github.com/grafana/mimir/issues/7623)
 
-- [backupccl/console: don't report estimated time remaining if progress is less than <5%](https://github.com/cockroachdb/cockroach/issues/119873)
-
-- [ ALTER COLUMN TYPE  doesn’t work if the column being altered has a default value](https://github.com/cockroachdb/cockroach/issues/119555)
+- [The bucket you are attempting to access must be addressed using COS virtual-styled domain](https://github.com/grafana/mimir/issues/7512)
 
 
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(837 ⭐️)</span>
+## vitessio/vitess <span style='color:#F1C40F'>(17.6K ⭐️)</span>
 
-- [Broken Links Detected](https://github.com/osmosis-labs/osmosis/issues/7752)
-
-
-## testcontainers/testcontainers-go <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [[Enhancement] [k6]: Retrieve test script from a URL](https://github.com/testcontainers/testcontainers-go/issues/2246)
+- [Support all SELECT modifiers](https://github.com/vitessio/vitess/issues/15318)
 
 
-## siglens/siglens <span style='color:#F1C40F'>(558 ⭐️)</span>
+## vmware-tanzu/secrets-manager <span style='color:#F1C40F'>(118 ⭐️)</span>
 
-- [[BUG] Issue - X does not show up  at the end of a query when we run query using `free text` , go to `Query Builder` tab and come back to  `free text` tab.](https://github.com/siglens/siglens/issues/588)
+- [dynamic log levels: vsecm safe, and sentinel shall have APIs to update their log levels at runtime without killing the pods.](https://github.com/vmware-tanzu/secrets-manager/issues/708)
 
-- [[STORY] UI : Disable Search Query Button for Incorrect Queries](https://github.com/siglens/siglens/issues/558)
+- [Unknown entity in audit logs — run tests and see if we still have unknown entities around.](https://github.com/vmware-tanzu/secrets-manager/issues/645)
 
-- [[STORY] Add Unit tests for contact points](https://github.com/siglens/siglens/issues/545)
+- [-w can be an array (i.e. ability to register one secret to multiple workloads)](https://github.com/vmware-tanzu/secrets-manager/issues/680)
 
-- [[STORY] Refactor NodeResult Struct by cleaning up the RecsAggs Fields.](https://github.com/siglens/siglens/issues/564)
-
-- [[STORY] Add Unit Tests for Group By Stats Aggregation function Following Rex Columns](https://github.com/siglens/siglens/issues/559)
-
-- [[STORY] Add Unit Tests for Stats Aggregation function Following Rex Columns](https://github.com/siglens/siglens/issues/560)
-
-- [[BUG] The toggle for Dark/Light Mode is not functioning on the saved queries page.](https://github.com/siglens/siglens/issues/541)
-
-- [[STORY] UI : The text and icon are getting clashed at the end of the search bar](https://github.com/siglens/siglens/issues/573)
-
-- [[STORY] Refactor PipeSearchRequest duplicate code](https://github.com/siglens/siglens/issues/540)
-
-- [[STORY] Add unit tests for HasDedupBlock](https://github.com/siglens/siglens/issues/528)
-
-- [[STORY] Add unit tests for HasDedupBlockInChain](https://github.com/siglens/siglens/issues/529)
-
-- [[BUG] Min and Max Duration search doesn't work for traces](https://github.com/siglens/siglens/issues/574)
-
-- [[STORY] Fix CSS Style for Dashboard Metrics Dropdown](https://github.com/siglens/siglens/issues/590)
-
-- [[BUG] Disable the functionality to edit the default dashboard details](https://github.com/siglens/siglens/issues/576)
-
-- [[STORY] UI : JSON Box should be smaller or fit in the box](https://github.com/siglens/siglens/issues/572)
-
-- [[STORY] UI : Info or indicator for the JSON data opening in `timestamp` field in the table](https://github.com/siglens/siglens/issues/570)
-
-- [[STORY] UI : Address dropdown should be large enough](https://github.com/siglens/siglens/issues/569)
-
-- [[STORY] UI: Add an illustration for the empty states across the product](https://github.com/siglens/siglens/issues/568)
-
-- [[STORY] Ensure that the traces search endpoint contains all necessary properties and returns the correct status code.](https://github.com/siglens/siglens/issues/575)
-
-- [[NEW] Add a feature to test contact points ](https://github.com/siglens/siglens/issues/544)
-
-- [[STORY] Centralize the definition of default dashboards IDs](https://github.com/siglens/siglens/issues/543)
-
-- [[STORY] Add Unit tests for alert related functions ](https://github.com/siglens/siglens/issues/542)
-
-- [[STORY] Add unit test for the GetOrCreateNodeRes](https://github.com/siglens/siglens/issues/562)
-
-- [[STORY] Add unit test for PerformArithmeticOperation](https://github.com/siglens/siglens/issues/561)
-
-- [[NEW] Add functionality to show timechart on search page, under visualisation tab](https://github.com/siglens/siglens/issues/567)
-
-- [[NEW]  Add support for querying nested json fields](https://github.com/siglens/siglens/issues/566)
-
-- [[STORY] UI : Prevent Column Removal in Logs Table When Moving Header](https://github.com/siglens/siglens/issues/557)
-
-- [[STORY] Fix CSS Style: Available Fields on Live Tail Screen](https://github.com/siglens/siglens/issues/556)
-
-- [[STORY] UI : Adjust Tooltip Appearance in Scatter Chart for Dark Theme](https://github.com/siglens/siglens/issues/554)
-
-- [[STORY] UI : Add Correct Titles for Buttons](https://github.com/siglens/siglens/issues/550)
+- [create a dark theme for the website](https://github.com/vmware-tanzu/secrets-manager/issues/547)
 
 
-## openbao/openbao <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+## RamenDR/ramen <span style='color:#F1C40F'>(66 ⭐️)</span>
 
-- [docs: write our own tutorials](https://github.com/openbao/openbao/issues/151)
+- [Upgrade submariner to v0.17.0](https://github.com/RamenDR/ramen/issues/1263)
 
-- [Fork - Release Pipeline](https://github.com/openbao/openbao/issues/153)
+- [Upgrade olm to version v0.27.0](https://github.com/RamenDR/ramen/issues/1260)
 
+- [Add cert-manager self test](https://github.com/RamenDR/ramen/issues/1259)
 
-## milvus-io/milvus <span style='color:#F1C40F'>(26.0K ⭐️)</span>
+- [Upgrade cert-manager to v1.14.4](https://github.com/RamenDR/ramen/issues/1258)
 
-- [[Feature]: Backup users and groups and other infromation](https://github.com/milvus-io/milvus/issues/30624)
+- [Upgrade csi-addons to 0.8.0](https://github.com/RamenDR/ramen/issues/1257)
 
-
-## zitadel/zitadel <span style='color:#F1C40F'>(6.5K ⭐️)</span>
-
-- [[Bug]: Button positioning wrong on email verification screen](https://github.com/zitadel/zitadel/issues/7457)
-
-- [[Bug]: Country selection for mobile verification needs bigger min width](https://github.com/zitadel/zitadel/issues/7509)
-
-- [Search users by list of phone number (users/_search)](https://github.com/zitadel/zitadel/issues/7410)
-
-- [[Bug]: Switching between login and register loses track of the request id](https://github.com/zitadel/zitadel/issues/7456)
-
-- [Show accepted login names](https://github.com/zitadel/zitadel/issues/7411)
-
-- [[Bug]: UI Layout Issues](https://github.com/zitadel/zitadel/issues/7404)
+- [ramenctl config times out waiting for policies to propagate to managed clusters](https://github.com/RamenDR/ramen/issues/1242)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.4K ⭐️)</span>
+## cilium/tetragon <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
-- [[Bug]: aws_pipes_pipe -- `basic_auth` should not be required for `self_managed_kafka_parameters.credentials`](https://github.com/hashicorp/terraform-provider-aws/issues/35891)
+- [Don't give operator permissions to create CRDs if not needed](https://github.com/cilium/tetragon/issues/2226)
 
-- [[Bug]: modification of cache_usage_limits (ecpu_per_second or data_storage maximum) in aws_elasticache_serverless_cache results in replacement](https://github.com/hashicorp/terraform-provider-aws/issues/36317)
 
-- [[Bug]: aws_lambda_function_url does not remove permissions on terraform apply when there is a deleted resource](https://github.com/hashicorp/terraform-provider-aws/issues/35920)
+## matheusgomes28/urchin <span style='color:#F1C40F'>(19 ⭐️)</span>
+
+- [Improve usage documentation](https://github.com/matheusgomes28/urchin/issues/54)
+
+- [Plz increase test coverage 🧪 ](https://github.com/matheusgomes28/urchin/issues/43)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(105.8K ⭐️)</span>
@@ -143,25 +107,13 @@
 - [Cleanup to commonize utility function for CronJob and Job](https://github.com/kubernetes/kubernetes/issues/123445)
 
 
-## tursodatabase/turso-cli <span style='color:#F1C40F'>(160 ⭐️)</span>
+## cockroachdb/cockroach <span style='color:#F1C40F'>(28.8K ⭐️)</span>
 
-- [Allow other characters than `,` as separators while importing a CSV](https://github.com/tursodatabase/turso-cli/issues/811)
+- [sql: grant / revoke statements which make no change should not need schema change jobs](https://github.com/cockroachdb/cockroach/issues/119657)
 
-- [Better error handling in csv table name](https://github.com/tursodatabase/turso-cli/issues/810)
+- [backupccl/console: don't report estimated time remaining if progress is less than <5%](https://github.com/cockroachdb/cockroach/issues/119873)
 
-
-## matrix-org/dendrite <span style='color:#F1C40F'>(5.3K ⭐️)</span>
-
-- [Only use the `ts` parameter for e.g. `/send` for appservices](https://github.com/matrix-org/dendrite/issues/3333)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(41.2K ⭐️)</span>
-
-- [Support a member-only organisation profile README](https://github.com/go-gitea/gitea/issues/29503)
-
-- [Add a link to user's commits in contributors graph](https://github.com/go-gitea/gitea/issues/29365)
-
-- [Sign In form UI refactoring](https://github.com/go-gitea/gitea/issues/29280)
+- [ ALTER COLUMN TYPE  doesn’t work if the column being altered has a default value](https://github.com/cockroachdb/cockroach/issues/119555)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(15.8K ⭐️)</span>
@@ -174,44 +126,138 @@
 - [generator: enable script components on alpine.js attributes](https://github.com/a-h/templ/issues/579)
 
 
+## aquasecurity/tracee <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [helm: allow user to configure gotemplate](https://github.com/aquasecurity/tracee/issues/3886)
+
+- [helm: rename `traceeConfig` to `traceeConfigFile`](https://github.com/aquasecurity/tracee/issues/3885)
+
+
+## keploy/keploy <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+
+- [[bug]: Invalid DOM Properties Warnings](https://github.com/keploy/keploy/issues/1681)
+
+- [[refactor]: make responsive community section  ](https://github.com/keploy/keploy/issues/1671)
+
+- [[bug]: Unresponsive CLI one click command](https://github.com/keploy/keploy/issues/1672)
+
+- [[refactor]: Star us on github button ](https://github.com/keploy/keploy/issues/1670)
+
+- [[feature]: add twitter mentions on keploy website](https://github.com/keploy/keploy/issues/1673)
+
+- [[bug]  Command built from user-controlled sources](https://github.com/keploy/keploy/issues/1661)
+
+- [[feature]:  Addition of version argument to installation script](https://github.com/keploy/keploy/issues/1639)
+
+- [[bug]: Keploy update command updates even on latest version ](https://github.com/keploy/keploy/issues/1608)
+
+
+## glasskube/glasskube <span style='color:#F1C40F'>(591 ⭐️)</span>
+
+- [Display installed version of a package in the UI](https://github.com/glasskube/glasskube/issues/330)
+
+- [Prevent accidental bootstrapping of an older package-operator version](https://github.com/glasskube/glasskube/issues/304)
+
+
 ## crowdsecurity/hub <span style='color:#F1C40F'>(134 ⭐️)</span>
 
 - [Incorrect regular expression in crowdsecurity/exim-logs](https://github.com/crowdsecurity/hub/issues/978)
 
 
-## cilium/tetragon <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+## tofuutils/tenv <span style='color:#F1C40F'>(166 ⭐️)</span>
 
-- [Don't give operator permissions to create CRDs if not needed](https://github.com/cilium/tetragon/issues/2226)
-
-
-## lightningnetwork/lnd <span style='color:#F1C40F'>(7.4K ⭐️)</span>
-
-- [healthcheck: make sure chain backend has enough outbound peers](https://github.com/lightningnetwork/lnd/issues/8487)
-
-- [[bug]: lncli listpayments --count_total_payments should honor --creation_date_start --creation_date_end](https://github.com/lightningnetwork/lnd/issues/8530)
-
-- [coin select: add coin selection strategy option to all on-chain RPCs](https://github.com/lightningnetwork/lnd/issues/8498)
+- [Write section in the top of README.md about difference between tenv and asdf](https://github.com/tofuutils/tenv/issues/72)
 
 
-## akuity/kargo <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.8K ⭐️)</span>
 
-- [add FreightReference to PromotionStatus](https://github.com/akuity/kargo/issues/1628)
+- [Use ValidatorUpdates in x/staking and x/gentutil](https://github.com/cosmos/cosmos-sdk/issues/19736)
 
-- [additional kargo config commands](https://github.com/akuity/kargo/issues/1614)
+- [[Feature](collections): add a time.Time key codec](https://github.com/cosmos/cosmos-sdk/issues/19501)
 
 
-## vitessio/vitess <span style='color:#F1C40F'>(17.6K ⭐️)</span>
+## argoproj/argo-workflows <span style='color:#F1C40F'>(14.1K ⭐️)</span>
 
-- [Support all SELECT modifiers](https://github.com/vitessio/vitess/issues/15318)
+- [local image build: support arm and amd64](https://github.com/argoproj/argo-workflows/issues/12750)
 
 
 ## redis/rueidis <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
-- [Add RedisResult.AsBoolSlice()](https://github.com/redis/rueidis/issues/499)
-
 - [feature request: adding an option to disable dial on creating client](https://github.com/redis/rueidis/issues/489)
 
+- [Add MAXAGE support to CLIENT KILL](https://github.com/redis/rueidis/issues/502)
+
+- [Add NOVALUES support to HSCAN](https://github.com/redis/rueidis/issues/501)
+
 - [Need to improve the test coverage on rueidiscompat](https://github.com/redis/rueidis/issues/487)
+
+
+## kedacore/keda <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [Document which (observability) metrics are initialized and which not](https://github.com/kedacore/keda/issues/5609)
+
+- [Get rid of `cortexOrgID` within prometheus scaler](https://github.com/kedacore/keda/issues/5538)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [[Feature]: Allow to override the default of self-healing when readyReplicas = 0](https://github.com/cloudnative-pg/cloudnative-pg/issues/3969)
+
+- [[Bug]: Incorrect physical backup percentage in `cnpg status`](https://github.com/cloudnative-pg/cloudnative-pg/issues/4129)
+
+- [[Feature]: Enable configuration of `wal_log_hints`](https://github.com/cloudnative-pg/cloudnative-pg/issues/4041)
+
+- [[Feature]: Generate hostname as service.namespace in postgresql uri/jdbc-uri in credentials secret](https://github.com/cloudnative-pg/cloudnative-pg/issues/4062)
+
+- [[Feature]: Display PDB in `cnpg status`](https://github.com/cloudnative-pg/cloudnative-pg/issues/4019)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(8.2K ⭐️)</span>
+
+- [doc: Make it clearer what the `auth` documentation is about](https://github.com/tektoncd/pipeline/issues/7737)
+
+
+## derailed/k9s <span style='color:#F1C40F'>(24.4K ⭐️)</span>
+
+- [Make Icons / Emoji customizable](https://github.com/derailed/k9s/issues/2624)
+
+
+## EinStack/glide <span style='color:#F1C40F'>(74 ⭐️)</span>
+
+- [Cover HTTP handlers by tests](https://github.com/EinStack/glide/issues/177)
+
+- [Cover Cohere provider by tests](https://github.com/EinStack/glide/issues/178)
+
+- [🔧 [Lang API] Allow to pass metadata into the streaming chat API](https://github.com/EinStack/glide/issues/162)
+
+- [🔧 [Lang API]  Track what if the chat chunk is the final one](https://github.com/EinStack/glide/issues/161)
+
+- [[Lang] Integrate Ollama with Chat Streaming](https://github.com/EinStack/glide/issues/175)
+
+- [[Lang] Integrate AWS Titan with Chat Streaming](https://github.com/EinStack/glide/issues/174)
+
+- [[Lang] Integrate Azure OpenAI with Chat Streaming](https://github.com/EinStack/glide/issues/173)
+
+- [[Lang] Integrate Anthropic with Chat Streaming](https://github.com/EinStack/glide/issues/172)
+
+- [[Lang] Integrate Cohere with Chat Streaming](https://github.com/EinStack/glide/issues/171)
+
+- [✨ [API] Make client connection pool configurable](https://github.com/EinStack/glide/issues/164)
+
+- [🔧 [Lang API] Validate Chat API with govalidator](https://github.com/EinStack/glide/issues/159)
+
+
+## version-fox/vfox <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [[Feature]: Amazon Corretto JDK Plugin](https://github.com/version-fox/vfox/issues/106)
+
+- [[Feature]: Cmake plugin](https://github.com/version-fox/vfox/issues/104)
+
+- [[Feature]: NASM plugin](https://github.com/version-fox/vfox/issues/105)
+
+- [Support Ruby Plugin](https://github.com/version-fox/vfox/issues/72)
+
+- [Support PHP Plugin](https://github.com/version-fox/vfox/issues/55)
 
 
 ## pingcap/tidb <span style='color:#F1C40F'>(35.9K ⭐️)</span>
@@ -221,91 +267,58 @@
 - [Track memory usage in pessimistic locking phase](https://github.com/pingcap/tidb/issues/51217)
 
 
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+## 0xmayalabs/maya-cli <span style='color:#F1C40F'>(4 ⭐️)</span>
 
-- [[Feature]: Enable configuration of `wal_log_hints`](https://github.com/cloudnative-pg/cloudnative-pg/issues/4041)
+- [add circuit for grayscale transformation](https://github.com/0xmayalabs/maya-cli/issues/65)
 
-- [[Feature]: Allow to override the default of self-healing when readyReplicas = 0](https://github.com/cloudnative-pg/cloudnative-pg/issues/3969)
+- [add circuit for resize transformation](https://github.com/0xmayalabs/maya-cli/issues/64)
 
-- [[Feature]: Generate hostname as service.namespace in postgresql uri/jdbc-uri in credentials secret](https://github.com/cloudnative-pg/cloudnative-pg/issues/4062)
-
-- [[Feature]: Display PDB in `cnpg status`](https://github.com/cloudnative-pg/cloudnative-pg/issues/4019)
+- [add circuit for contrast transformation](https://github.com/0xmayalabs/maya-cli/issues/46)
 
 
-## blinklabs-io/gouroboros-starter-kit <span style='color:#F1C40F'>(3 ⭐️)</span>
+## openfga/openfga <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
-- [Create an example tx-submission command](https://github.com/blinklabs-io/gouroboros-starter-kit/issues/31)
-
-- [Create an example chain-sync command](https://github.com/blinklabs-io/gouroboros-starter-kit/issues/30)
-
-- [Support Node-to-Node in chain-tip](https://github.com/blinklabs-io/gouroboros-starter-kit/issues/27)
-
-- [Create a remote "ping" command](https://github.com/blinklabs-io/gouroboros-starter-kit/issues/24)
+- [Exclude `mock_check_resolver` from code coverage](https://github.com/openfga/openfga/issues/1398)
 
 
-## apache/dubbo-go <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
-- [Sample and test-case tasks](https://github.com/apache/dubbo-go/issues/2608)
-
-
-## GoogleCloudPlatform/k8s-config-connector <span style='color:#F1C40F'>(810 ⭐️)</span>
-
-- [chore:lint:ci enable misspell linter](https://github.com/GoogleCloudPlatform/k8s-config-connector/issues/1286)
-
-- [chore:lint:ci: enable gci linter](https://github.com/GoogleCloudPlatform/k8s-config-connector/issues/1325)
-
-- [enh: enable golangci-lint in scripts directories](https://github.com/GoogleCloudPlatform/k8s-config-connector/issues/1269)
+- [[pkg/ottl] Improve OTTL Docs](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/31387)
 
 
-## matheusgomes28/urchin <span style='color:#F1C40F'>(19 ⭐️)</span>
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
-- [Improve usage documentation](https://github.com/matheusgomes28/urchin/issues/54)
-
-- [Database connection checks at startup](https://github.com/matheusgomes28/urchin/issues/51)
-
-- [Plz increase test coverage 🧪 ](https://github.com/matheusgomes28/urchin/issues/43)
+- [Refactor: unify API parameters](https://github.com/woodpecker-ci/woodpecker/issues/3450)
 
 
-## alexellis/arkade <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+## openbao/openbao <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
-- [Add regctl to check registry info and rate limits](https://github.com/alexellis/arkade/issues/1042)
+- [docs: write our own tutorials](https://github.com/openbao/openbao/issues/151)
 
-
-## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.7K ⭐️)</span>
-
-- [Support all pagerduty_config options in AlertmanagerConfig crd](https://github.com/prometheus-operator/prometheus-operator/issues/6387)
-
-- [Add `ttl` to `alertmanagerconfigs` resource](https://github.com/prometheus-operator/prometheus-operator/issues/6360)
-
-- [[BUG]: Crd AltermanagerConfig field `muteTimeIntervals.timeIntervals.months` regex pattern `|[1-12]` isn't correct](https://github.com/prometheus-operator/prometheus-operator/issues/6353)
+- [Fork - Release Pipeline](https://github.com/openbao/openbao/issues/153)
 
 
-## kedacore/keda <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+## rudransh61/Physix.go <span style='color:#F1C40F'>(7 ⭐️)</span>
 
-- [Document which (observability) metrics are initialized and which not](https://github.com/kedacore/keda/issues/5609)
+- [Improve docs (no need to code)](https://github.com/rudransh61/Physix.go/issues/4)
 
-- [Get rid of `cortexOrgID` within prometheus scaler](https://github.com/kedacore/keda/issues/5538)
+- [Add Docs for Polygon and their functions ](https://github.com/rudransh61/Physix.go/issues/3)
 
-- [Supporting disabling admission rules based on resource annotation](https://github.com/kedacore/keda/issues/5516)
+- [Add collision resolution for polygon](https://github.com/rudransh61/Physix.go/issues/2)
 
-- [Validate fallback configuration during admission process](https://github.com/kedacore/keda/issues/5515)
-
-
-## openziti/ziti <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [adopt alpn in create config controller](https://github.com/openziti/ziti/issues/1838)
-
-- [provide a better error when the user is not logged in](https://github.com/openziti/ziti/issues/1772)
+- [Add circle to rectangle collsion](https://github.com/rudransh61/Physix.go/issues/1)
 
 
-## google/go-github <span style='color:#F1C40F'>(10.0K ⭐️)</span>
+## treeverse/lakeFS <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
-- [Changing custom properties](https://github.com/google/go-github/issues/3101)
+- [merge_into ignore when no changes](https://github.com/treeverse/lakeFS/issues/7528)
 
-- [Merge Queues break repository ruleset unmarshaling](https://github.com/google/go-github/issues/3098)
+- [lakectl / Python SDK: Support passing path to config file through environment variable](https://github.com/treeverse/lakeFS/issues/7519)
+
+- [Python high level SDK: support `mode="x"`](https://github.com/treeverse/lakeFS/issues/7505)
 
 
-## ayn2op/discordo <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+## kubernetes/autoscaler <span style='color:#F1C40F'>(7.5K ⭐️)</span>
 
-- [Replace IDs in mentions with usernames](https://github.com/ayn2op/discordo/issues/348)
+- [  clusterIP: "{{ .Values.service.clusterIP }}" not define in values](https://github.com/kubernetes/autoscaler/issues/6631)
 
