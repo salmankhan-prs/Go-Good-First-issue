@@ -4,19 +4,109 @@
 
 
 
-<div align='center'>Last updated at March 25, 2024 01:49 UTC.</div>
+<div align='center'>Last updated at March 26, 2024 01:49 UTC.</div>
 
 
-## karmada-io/karmada <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.4K ⭐️)</span>
 
-- [Stop update krew for release-1.7, release-1.8, and release-1.9](https://github.com/karmada-io/karmada/issues/4703)
+- [[Docs]: Registering Multiple Targets](https://github.com/hashicorp/terraform-provider-aws/issues/36541)
 
-- [add image pullSecrets for cfssl and kubeclt in charts](https://github.com/karmada-io/karmada/issues/4666)
+- [[Docs]: Route53 Resolver Rule Resource Documentation Missing protocol Argument of the target_ip Object](https://github.com/hashicorp/terraform-provider-aws/issues/36439)
+
+- [[Bug]: modification of cache_usage_limits (ecpu_per_second or data_storage maximum) in aws_elasticache_serverless_cache results in replacement](https://github.com/hashicorp/terraform-provider-aws/issues/36317)
 
 
-## koordinator-sh/koordinator <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+## siglens/siglens <span style='color:#F1C40F'>(784 ⭐️)</span>
 
-- [[proposal] Upgrade ginkgo to 2.x](https://github.com/koordinator-sh/koordinator/issues/1964)
+- [[BUG] Visualization tab doesn't update](https://github.com/siglens/siglens/issues/646)
+
+- [[BUG] Issue - X does not show up  at the end of a query when we run query using `free text` , go to `Query Builder` tab and come back to  `free text` tab.](https://github.com/siglens/siglens/issues/588)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(28.9K ⭐️)</span>
+
+- [sql: grant / revoke statements which make no change should not need schema change jobs](https://github.com/cockroachdb/cockroach/issues/119657)
+
+- [backupccl/console: don't report estimated time remaining if progress is less than <5%](https://github.com/cockroachdb/cockroach/issues/119873)
+
+
+## argoproj/argo-workflows <span style='color:#F1C40F'>(14.2K ⭐️)</span>
+
+- [Support displaying line number in object-editor](https://github.com/argoproj/argo-workflows/issues/12807)
+
+- [local image build: support arm and amd64](https://github.com/argoproj/argo-workflows/issues/12750)
+
+
+## microsoft/retina <span style='color:#F1C40F'>(2.0K ⭐️)</span>
+
+- [optimize build pipeline to minimize code duplication. ](https://github.com/microsoft/retina/issues/137)
+
+- [edge cases for MetricConfiguration CRD](https://github.com/microsoft/retina/issues/74)
+
+- [Duplicate import of flow library](https://github.com/microsoft/retina/issues/98)
+
+- [duplicate windows metric: remove `windows_hns_stats`, keep `forward_count`](https://github.com/microsoft/retina/issues/92)
+
+- [API Server Latency buckets are skewed in large scale clusters](https://github.com/microsoft/retina/issues/82)
+
+- [Evaluate security context/caps ](https://github.com/microsoft/retina/issues/93)
+
+- [Support scheduling distributed captures](https://github.com/microsoft/retina/issues/88)
+
+- [remove irrelevant metric labels for dns and apiserver latency](https://github.com/microsoft/retina/issues/75)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(15.6K ⭐️)</span>
+
+- [variables do not work in markdown](https://github.com/terrastruct/d2/issues/1855)
+
+
+## tektoncd/pipeline <span style='color:#F1C40F'>(8.3K ⭐️)</span>
+
+- [doc: Make it clearer what the `auth` documentation is about](https://github.com/tektoncd/pipeline/issues/7737)
+
+
+## go-gitea/gitea <span style='color:#F1C40F'>(41.4K ⭐️)</span>
+
+- [Support a member-only organisation profile README](https://github.com/go-gitea/gitea/issues/29503)
+
+
+## flyteorg/flyte <span style='color:#F1C40F'>(4.7K ⭐️)</span>
+
+- [[Core feature] Implement `pyflyte recover`](https://github.com/flyteorg/flyte/issues/5049)
+
+- [[BUG] sql_alchemy plugin doesn't support pandas version > 2.1.4](https://github.com/flyteorg/flyte/issues/5031)
+
+- [[FlyteCTL Feature] Add support for passing config via ENV vars](https://github.com/flyteorg/flyte/issues/4948)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(106.1K ⭐️)</span>
+
+- [sig-windows-gce test jobs are failing consistently for a long time](https://github.com/kubernetes/kubernetes/issues/124047)
+
+
+## defang-io/defang <span style='color:#F1C40F'>(14 ⭐️)</span>
+
+- [Ports for local dev](https://github.com/defang-io/defang/issues/186)
+
+- [Empty secret](https://github.com/defang-io/defang/issues/196)
+
+
+## wesql/wescale <span style='color:#F1C40F'>(165 ⭐️)</span>
+
+- [[Feature Request] Support collecting all used tables in a SQL](https://github.com/wesql/wescale/issues/457)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.4K ⭐️)</span>
+
+- [azurerm_linux_function_app documentation has a typo for tenant_auth_endpoint parameter](https://github.com/hashicorp/terraform-provider-azurerm/issues/25087)
+
+
+## openziti/ziti <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [adopt single-port default vars in ziti create config](https://github.com/openziti/ziti/issues/1838)
+
+- [provide a better error when the user is not logged in](https://github.com/openziti/ziti/issues/1772)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(23.2K ⭐️)</span>
@@ -24,49 +114,9 @@
 - [Additional Dapr metrics properties when subscriber sends `status=DROP` ](https://github.com/dapr/dapr/issues/7610)
 
 
-## vmware-tanzu/secrets-manager <span style='color:#F1C40F'>(121 ⭐️)</span>
-
-- [dynamic log levels: vsecm safe, and sentinel shall have APIs to update their log levels at runtime without killing the pods.](https://github.com/vmware-tanzu/secrets-manager/issues/708)
-
-- [Unknown entity in audit logs — run tests and see if we still have unknown entities around.](https://github.com/vmware-tanzu/secrets-manager/issues/645)
-
-
-## go-gitea/gitea <span style='color:#F1C40F'>(41.4K ⭐️)</span>
-
-- [Support a member-only organisation profile README](https://github.com/go-gitea/gitea/issues/29503)
-
-- [Add a link to user's commits in contributors graph](https://github.com/go-gitea/gitea/issues/29365)
-
-
-## apache/dubbo-go <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [Sample and test-case tasks](https://github.com/apache/dubbo-go/issues/2608)
-
-
-## lightningnetwork/lnd <span style='color:#F1C40F'>(7.4K ⭐️)</span>
-
-- [[bug]: lncli listpayments --count_total_payments should honor --creation_date_start --creation_date_end](https://github.com/lightningnetwork/lnd/issues/8530)
-
-
-## ollama/ollama <span style='color:#F1C40F'>(50.1K ⭐️)</span>
+## ollama/ollama <span style='color:#F1C40F'>(50.4K ⭐️)</span>
 
 - [Allow `api.Client` to be constructed using URL & http.Client](https://github.com/ollama/ollama/issues/2948)
-
-
-## TBD54566975/ftl <span style='color:#F1C40F'>(14 ⭐️)</span>
-
-- [Provide option to specify modules in `ftl schema get`](https://github.com/TBD54566975/ftl/issues/1090)
-
-- [Order and group FTL schema output in a nicer way](https://github.com/TBD54566975/ftl/issues/1089)
-
-- [Add quickstart to the readme and ftl help](https://github.com/TBD54566975/ftl/issues/1033)
-
-
-## kedacore/keda <span style='color:#F1C40F'>(7.6K ⭐️)</span>
-
-- [Document which (observability) metrics are initialized and which not](https://github.com/kedacore/keda/issues/5609)
-
-- [Get rid of `cortexOrgID` within prometheus scaler](https://github.com/kedacore/keda/issues/5538)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.5K ⭐️)</span>
@@ -74,7 +124,9 @@
 - [[processor/transform] Add debug log that prints current TransformContext](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/31912)
 
 
-## coder/coder <span style='color:#F1C40F'>(6.6K ⭐️)</span>
+## coder/coder <span style='color:#F1C40F'>(6.7K ⭐️)</span>
+
+- [Deprecate gauge metrics named like counters](https://github.com/coder/coder/issues/12744)
 
 - [AlecAivazis/survey is no longer maintained](https://github.com/coder/coder/issues/12720)
 
@@ -83,74 +135,32 @@
 - [add a tooltip on subdomain `coder_app` buttons when wildcard access URL is not set](https://github.com/coder/coder/issues/12342)
 
 
-## cilium/tetragon <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+## ossf/scorecard <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
-- [Don't give operator permissions to create CRDs if not needed](https://github.com/cilium/tetragon/issues/2226)
+- [Feature: Probe whether repo has up-to-date CODEOWNERS](https://github.com/ossf/scorecard/issues/3931)
 
-
-## terrastruct/d2 <span style='color:#F1C40F'>(15.5K ⭐️)</span>
-
-- [variables do not work in markdown](https://github.com/terrastruct/d2/issues/1855)
+- [Dangerous Workflow: some user input are not being detected as untrusted input.](https://github.com/ossf/scorecard/issues/3915)
 
 
-## google/go-github <span style='color:#F1C40F'>(10.0K ⭐️)</span>
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.8K ⭐️)</span>
 
-- [Changing custom properties](https://github.com/google/go-github/issues/3101)
+- [[configgrpc] Add `NewDefault*` functions for all config structs](https://github.com/open-telemetry/opentelemetry-collector/issues/9654)
 
-- [Merge Queues break repository ruleset unmarshaling](https://github.com/google/go-github/issues/3098)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(4.7K ⭐️)</span>
-
-- [[Feature]: add google cloud integration on k8sgpt](https://github.com/k8sgpt-ai/k8sgpt/issues/1012)
+- [[CI] Changes to workflows are not tested on PRs](https://github.com/open-telemetry/opentelemetry-collector/issues/9676)
 
 
-## ovn-org/ovn-kubernetes <span style='color:#F1C40F'>(653 ⭐️)</span>
+## antrea-io/antrea <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
-- [Improve handling of SKIPPED_TESTS in e2e-cp.sh](https://github.com/ovn-org/ovn-kubernetes/issues/4229)
+- [Add env 'ANTREA_NAMESPACE' support in antctl](https://github.com/antrea-io/antrea/issues/6131)
 
-- [addressManager and linkManager sync functions are not having retry mechanisms for transient errors](https://github.com/ovn-org/ovn-kubernetes/issues/4189)
+- [Misformatted log in antrea-agent when falling back local NetworkPolicy](https://github.com/antrea-io/antrea/issues/6054)
 
-
-## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Refactor: unify API parameters](https://github.com/woodpecker-ci/woodpecker/issues/3450)
+- [Support bundle should include OVS groups](https://github.com/antrea-io/antrea/issues/6066)
 
 
-## a-h/templ <span style='color:#F1C40F'>(6.1K ⭐️)</span>
+## argoproj/argo-cd <span style='color:#F1C40F'>(15.9K ⭐️)</span>
 
-- [bug: backslashes in constant string attributes cannot be generated](https://github.com/a-h/templ/issues/624)
-
-- [generator: enable script components on alpine.js attributes](https://github.com/a-h/templ/issues/579)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.4K ⭐️)</span>
-
-- [[Docs]: Route53 Resolver Rule Resource Documentation Missing protocol Argument of the target_ip Object](https://github.com/hashicorp/terraform-provider-aws/issues/36439)
-
-- [[Bug]: modification of cache_usage_limits (ecpu_per_second or data_storage maximum) in aws_elasticache_serverless_cache results in replacement](https://github.com/hashicorp/terraform-provider-aws/issues/36317)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [Use ValidatorUpdates in x/staking and x/gentutil](https://github.com/cosmos/cosmos-sdk/issues/19736)
-
-
-## thanos-io/thanos <span style='color:#F1C40F'>(12.5K ⭐️)</span>
-
-- [bucketweb: Show block size in details pane](https://github.com/thanos-io/thanos/issues/7205)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [Make /ingester/shutdown react on POST method only](https://github.com/grafana/mimir/issues/7623)
-
-
-## ksctl/ksctl <span style='color:#F1C40F'>(228 ⭐️)</span>
-
-- [[Enhancement Proposal]: e2e mock test lack functionality tests](https://github.com/ksctl/ksctl/issues/316)
-
-- [[Enhancement Proposal]: Jenkins CI to run jobs in parallel](https://github.com/ksctl/ksctl/issues/317)
+- [CLI : add sync policy option `manual` for app create command to make it similar to options provided in Web console](https://github.com/argoproj/argo-cd/issues/17447)
 
 
 ## crossplane/crossplane <span style='color:#F1C40F'>(8.6K ⭐️)</span>
@@ -162,73 +172,112 @@
 - [crossplane cli --version client and server version ](https://github.com/crossplane/crossplane/issues/5447)
 
 
-## filecoin-project/lotus <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+## openfga/openfga <span style='color:#F1C40F'>(2.1K ⭐️)</span>
 
-- [Option to back-fill events by re-execution of messages](https://github.com/filecoin-project/lotus/issues/11744)
-
-- [Avoid disputing WindowedPoSt messages when the target Miner has no balance to pay rewards](https://github.com/filecoin-project/lotus/issues/11715)
+- [Exclude `mock_check_resolver` from code coverage](https://github.com/openfga/openfga/issues/1398)
 
 
-## daytonaio/daytona <span style='color:#F1C40F'>(4.8K ⭐️)</span>
+## kedacore/keda <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
-- [Improve target list style](https://github.com/daytonaio/daytona/issues/269)
+- [Document which (observability) metrics are initialized and which not](https://github.com/kedacore/keda/issues/5609)
 
-- [Parsing the git context from URL](https://github.com/daytonaio/daytona/issues/85)
-
-- [Server side websocket errors](https://github.com/daytonaio/daytona/issues/271)
-
-- [TUI flashes on and off during daytona create](https://github.com/daytonaio/daytona/issues/131)
-
-- [Allow user to set no default IDE](https://github.com/daytonaio/daytona/issues/252)
+- [Get rid of `cortexOrgID` within prometheus scaler](https://github.com/kedacore/keda/issues/5538)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(15.9K ⭐️)</span>
+## Azure/azure-dev <span style='color:#F1C40F'>(348 ⭐️)</span>
 
-- [CLI : add sync policy option `manual` for app create command to make it similar to options provided in Web console](https://github.com/argoproj/argo-cd/issues/17447)
-
-
-## EinStack/glide <span style='color:#F1C40F'>(79 ⭐️)</span>
-
-- [[Provider] Fireworks.ai](https://github.com/EinStack/glide/issues/191)
-
-- [[Lang] Integrate Anthropic with Chat Streaming](https://github.com/EinStack/glide/issues/172)
-
-- [[Lang] Integrate Cohere with Chat Streaming](https://github.com/EinStack/glide/issues/171)
-
-- [Cover HTTP handlers by tests](https://github.com/EinStack/glide/issues/177)
-
-- [Cover Cohere provider by tests](https://github.com/EinStack/glide/issues/178)
-
-- [[Lang] Integrate Ollama with Chat Streaming](https://github.com/EinStack/glide/issues/175)
-
-- [[Lang] Integrate AWS Titan with Chat Streaming](https://github.com/EinStack/glide/issues/174)
-
-- [✨ [API] Make client connection pool configurable](https://github.com/EinStack/glide/issues/164)
-
-- [🔧 [Lang API] Validate Chat API with govalidator](https://github.com/EinStack/glide/issues/159)
+- [Operations for a given service (e.g. restore) should only verify presence of dependency tools needed for that service](https://github.com/Azure/azure-dev/issues/3533)
 
 
-## k8sgpt-ai/k8sgpt-operator <span style='color:#F1C40F'>(241 ⭐️)</span>
+## numaproj/numaflow <span style='color:#F1C40F'>(904 ⭐️)</span>
 
-- [[Feature]: Implement Integration with Amazon Bedrock](https://github.com/k8sgpt-ai/k8sgpt-operator/issues/361)
+- [Docs: Message Headers](https://github.com/numaproj/numaflow/issues/1598)
 
-
-## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.7K ⭐️)</span>
-
-- [Support all pagerduty_config options in AlertmanagerConfig crd](https://github.com/prometheus-operator/prometheus-operator/issues/6387)
-
-- [Document the new controller-id flag in the Troubleshooting guide](https://github.com/prometheus-operator/prometheus-operator/issues/6411)
-
-- [unclear documentation about scrapeConfigNamespaceSelector and scrapeConfigSelector](https://github.com/prometheus-operator/prometheus-operator/issues/6404)
-
-- [Add `ttl` to `alertmanagerconfigs` resource](https://github.com/prometheus-operator/prometheus-operator/issues/6360)
-
-- [[BUG]: Crd AltermanagerConfig field `muteTimeIntervals.timeIntervals.months` regex pattern `|[1-12]` isn't correct](https://github.com/prometheus-operator/prometheus-operator/issues/6353)
+- [Find unreachable functions with deadcode if any](https://github.com/numaproj/numaflow/issues/1524)
 
 
-## remotemobprogramming/mob <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+## jozu-ai/kitops <span style='color:#F1C40F'>(29 ⭐️)</span>
 
-- [mob status should show if a mob session exists](https://github.com/remotemobprogramming/mob/issues/410)
+- [CLI UX: Sorting commands & Flags](https://github.com/jozu-ai/kitops/issues/76)
+
+- [CLI UX: Pimp help commands](https://github.com/jozu-ai/kitops/issues/77)
+
+- [CLI UX: Customize warning, errors, special messages](https://github.com/jozu-ai/kitops/issues/78)
+
+- [Support shell completions for commands](https://github.com/jozu-ai/kitops/issues/79)
+
+
+## radius-project/radius <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [`rad group switch` doesn't print success message](https://github.com/radius-project/radius/issues/7395)
+
+- [`rad group show` doesn't show the current group](https://github.com/radius-project/radius/issues/7391)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [[feature] Update deps.dev collector to take advantage of the new API](https://github.com/guacsec/guac/issues/1768)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(869 ⭐️)</span>
+
+- [refactor: Consolidate SHA-256 Hash Function Usage](https://github.com/celestiaorg/celestia-node/issues/3275)
+
+- [refactor(metrics): Remove code related to granular metrics control](https://github.com/celestiaorg/celestia-node/issues/3265)
+
+
+## derailed/k9s <span style='color:#F1C40F'>(24.5K ⭐️)</span>
+
+- [Make Icons / Emoji customizable](https://github.com/derailed/k9s/issues/2624)
+
+
+## metal3-io/baremetal-operator <span style='color:#F1C40F'>(521 ⭐️)</span>
+
+- [Remove gofmt make targets and script](https://github.com/metal3-io/baremetal-operator/issues/1628)
+
+- [Skip cleanup after each e2e test when SKIP_RESOURCE_CLEANUP is set](https://github.com/metal3-io/baremetal-operator/issues/1629)
+
+- [Add make target for fixing linter errors](https://github.com/metal3-io/baremetal-operator/issues/1627)
+
+- [Split BMO e2e tests into separate spec and test files](https://github.com/metal3-io/baremetal-operator/issues/1626)
+
+- [Unit test coverage improvement in BMO](https://github.com/metal3-io/baremetal-operator/issues/1574)
+
+
+## diggerhq/digger <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Workflow name in action logs is empty](https://github.com/diggerhq/digger/issues/1299)
+
+- [make tests trigger for external contributors](https://github.com/diggerhq/digger/issues/1293)
+
+- [Trigger apply run from "digger apply" on PR review comments](https://github.com/diggerhq/digger/issues/1220)
+
+- [remove single cli build and update action.yml to point to the right build from multiarch](https://github.com/diggerhq/digger/issues/1215)
+
+
+## kubeflow/katib <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [Whether the hyperparameter search algorithm will refer to the value of additionalMetricNames](https://github.com/kubeflow/katib/issues/2286)
+
+- [Replace reflect.DeepEqual with cmp.Diff in tests](https://github.com/kubeflow/katib/issues/2268)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [[Feature]: Generate hostname as service.namespace in postgresql uri/jdbc-uri in credentials secret](https://github.com/cloudnative-pg/cloudnative-pg/issues/4062)
+
+- [[Feature]: Allow to override the default of self-healing when readyReplicas = 0](https://github.com/cloudnative-pg/cloudnative-pg/issues/3969)
+
+- [[Bug]: Incorrect physical backup percentage in `cnpg status`](https://github.com/cloudnative-pg/cloudnative-pg/issues/4129)
+
+- [[Feature]: Enable configuration of `wal_log_hints`](https://github.com/cloudnative-pg/cloudnative-pg/issues/4041)
+
+- [[Feature]: Display PDB in `cnpg status`](https://github.com/cloudnative-pg/cloudnative-pg/issues/4019)
+
+
+## bufbuild/protoc-gen-validate <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Use another email validation library in Python?](https://github.com/bufbuild/protoc-gen-validate/issues/1084)
 
 
 ## keploy/keploy <span style='color:#F1C40F'>(3.2K ⭐️)</span>
@@ -250,118 +299,33 @@
 - [[feature]:  Addition of version argument to installation script](https://github.com/keploy/keploy/issues/1639)
 
 
+## stacklok/minder <span style='color:#F1C40F'>(176 ⭐️)</span>
+
+- [The repository registered field is not set](https://github.com/stacklok/minder/issues/2628)
+
+- [Update the ListRemoteRepositoriesFromProvider response with a field saying which repo is registered and which not](https://github.com/stacklok/minder/issues/2627)
+
+- [Move to log/slog logging](https://github.com/stacklok/minder/issues/2502)
+
+- [profile get renders a alert: on status instead of the correct one](https://github.com/stacklok/minder/issues/2447)
+
+
+## syself/cluster-api-provider-hetzner <span style='color:#F1C40F'>(482 ⭐️)</span>
+
+- [Condition indicating that HetznerBareMetalHost is deleting](https://github.com/syself/cluster-api-provider-hetzner/issues/1229)
+
+
+## knative/serving <span style='color:#F1C40F'>(5.4K ⭐️)</span>
+
+- [Rename `UserContainer` to `ServingContainer`](https://github.com/knative/serving/issues/15007)
+
+
+## defenseunicorns/uds-cli <span style='color:#F1C40F'>(20 ⭐️)</span>
+
+- [Set bundle override variable with --set](https://github.com/defenseunicorns/uds-cli/issues/471)
+
+
 ## kubernetes/autoscaler <span style='color:#F1C40F'>(7.6K ⭐️)</span>
 
 - [  clusterIP: "{{ .Values.service.clusterIP }}" not define in values](https://github.com/kubernetes/autoscaler/issues/6631)
-
-
-## siglens/siglens <span style='color:#F1C40F'>(763 ⭐️)</span>
-
-- [[BUG] Visualization tab doesn't update](https://github.com/siglens/siglens/issues/646)
-
-- [[BUG] Issue - X does not show up  at the end of a query when we run query using `free text` , go to `Query Builder` tab and come back to  `free text` tab.](https://github.com/siglens/siglens/issues/588)
-
-
-## zitadel/zitadel <span style='color:#F1C40F'>(6.6K ⭐️)</span>
-
-- [[Bug]: Switching between login and register loses track of the request id](https://github.com/zitadel/zitadel/issues/7456)
-
-- [[Bug]: Translations overflow buttons in login UI](https://github.com/zitadel/zitadel/issues/7619)
-
-- [[Bug]: Applications in a granted project not showing initially](https://github.com/zitadel/zitadel/issues/7613)
-
-- [[Bug]: "Default settings" missing in console mobile view](https://github.com/zitadel/zitadel/issues/7574)
-
-- [[Bug]: Button positioning wrong on email verification screen](https://github.com/zitadel/zitadel/issues/7457)
-
-
-## gotd/td <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [Add a sugared wrapper around takeout functions](https://github.com/gotd/td/issues/1332)
-
-
-## matheusgomes28/urchin <span style='color:#F1C40F'>(22 ⭐️)</span>
-
-- [Remove test files from coverage reports](https://github.com/matheusgomes28/urchin/issues/61)
-
-- [Serve Proper Error Pages](https://github.com/matheusgomes28/urchin/issues/58)
-
-- [Improve usage documentation](https://github.com/matheusgomes28/urchin/issues/54)
-
-- [Plz increase test coverage 🧪 ](https://github.com/matheusgomes28/urchin/issues/43)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [merge_into ignore when no changes](https://github.com/treeverse/lakeFS/issues/7528)
-
-- [lakectl / Python SDK: Support passing path to config file through environment variable](https://github.com/treeverse/lakeFS/issues/7519)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(842 ⭐️)</span>
-
-- [Broken Links Detected](https://github.com/osmosis-labs/osmosis/issues/7752)
-
-
-## argoproj/argo-workflows <span style='color:#F1C40F'>(14.2K ⭐️)</span>
-
-- [Support displaying line number in object-editor](https://github.com/argoproj/argo-workflows/issues/12807)
-
-- [local image build: support arm and amd64](https://github.com/argoproj/argo-workflows/issues/12750)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(869 ⭐️)</span>
-
-- [refactor(metrics): Remove code related to granular metrics control](https://github.com/celestiaorg/celestia-node/issues/3265)
-
-
-## flyteorg/flyte <span style='color:#F1C40F'>(4.7K ⭐️)</span>
-
-- [[Core feature] Implement `pyflyte recover`](https://github.com/flyteorg/flyte/issues/5049)
-
-- [[BUG] sql_alchemy plugin doesn't support pandas version > 2.1.4](https://github.com/flyteorg/flyte/issues/5031)
-
-- [[FlyteCTL Feature] Add support for passing config via ENV vars](https://github.com/flyteorg/flyte/issues/4948)
-
-
-## litmuschaos/litmus <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [Add Fuzzing test suites in Litmus](https://github.com/litmuschaos/litmus/issues/4548)
-
-- [Save button not working when no "resilience" probe is added while creating experiments, this should throw an error toaster](https://github.com/litmuschaos/litmus/issues/4551)
-
-- [Add pre-commit check to find and delete unused strings in strings.en.yaml file](https://github.com/litmuschaos/litmus/issues/4550)
-
-- [In gitops, access key is added to a plain field, this should be changed to a hidden field like password](https://github.com/litmuschaos/litmus/issues/4549)
-
-
-## 030/n3dr <span style='color:#F1C40F'>(138 ⭐️)</span>
-
-- [snap stable version 6 should be replaced by 7](https://github.com/030/n3dr/issues/496)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(28.9K ⭐️)</span>
-
-- [sql: grant / revoke statements which make no change should not need schema change jobs](https://github.com/cockroachdb/cockroach/issues/119657)
-
-- [backupccl/console: don't report estimated time remaining if progress is less than <5%](https://github.com/cockroachdb/cockroach/issues/119873)
-
-
-## numaproj/numaflow <span style='color:#F1C40F'>(902 ⭐️)</span>
-
-- [Find unreachable functions with deadcode if any](https://github.com/numaproj/numaflow/issues/1524)
-
-
-## redis/rueidis <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [feature request: adding an option to disable dial on creating client](https://github.com/redis/rueidis/issues/489)
-
-- [Fix code scanning alert - Incorrect conversion between integer types](https://github.com/redis/rueidis/issues/513)
-
-- [Need to improve the test coverage on rueidiscompat](https://github.com/redis/rueidis/issues/487)
-
-
-## celestiaorg/celestia-app <span style='color:#F1C40F'>(319 ⭐️)</span>
-
-- [Ignore mdbook `theme/`](https://github.com/celestiaorg/celestia-app/issues/3151)
 
