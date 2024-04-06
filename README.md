@@ -4,64 +4,30 @@
 
 
 
-<div align='center'>Last updated at April 5, 2024 01:48 UTC.</div>
+<div align='center'>Last updated at April 6, 2024 01:49 UTC.</div>
 
 
-## kopia/kopia <span style='color:#F1C40F'>(6.2K ⭐️)</span>
+## ollama/ollama <span style='color:#F1C40F'>(52.9K ⭐️)</span>
 
-- [Snapshot retention is deleting more snapshots as defined by policy in case system was pausing snapshots](https://github.com/kopia/kopia/issues/3758)
-
-
-## vmware-tanzu/secrets-manager <span style='color:#F1C40F'>(127 ⭐️)</span>
-
-- [dynamic log levels: vsecm safe, and sentinel shall have APIs to update their log levels at runtime without killing the pods.](https://github.com/vmware-tanzu/secrets-manager/issues/708)
-
-- [a cli to check if a secret exists (like, return true/false based on if there is an assigned secret to a workload](https://github.com/vmware-tanzu/secrets-manager/issues/706)
-
-- [VSecM Init Container shall wait for a (configurable) grace period before exiting and yielding control](https://github.com/vmware-tanzu/secrets-manager/issues/766)
-
-- [VSecM Init containar shall be able to (optionally) decrypt a file mounted to the workload, provided it can fech an AES or age decrption key](https://github.com/vmware-tanzu/secrets-manager/issues/765)
-
-- [VSecM shall be able to create an AES key, or an age key pair and register it as secrets for a workload; so that if two workload share the same AES key, they can decrypt a shared encrypted file](https://github.com/vmware-tanzu/secrets-manager/issues/764)
-
-- [VSecM Init Container shall be able to wait on a Kubernetes secret](https://github.com/vmware-tanzu/secrets-manager/issues/763)
-
-- [VSecM Sidecar shall be able to interpolate secrets to a file that is templatized using go templating language](https://github.com/vmware-tanzu/secrets-manager/issues/760)
-
-- [VSecM Sidecar should be able to (optionally) create one file per secret key](https://github.com/vmware-tanzu/secrets-manager/issues/761)
-
-- [VSecM Init Container should be (optionally cofigurable) able to watch the changes in a volume or a file instead of VSecM Safe](https://github.com/vmware-tanzu/secrets-manager/issues/759)
-
-- [Nobody uses the `Stats()` function in VSecM Safe; have a /stats endpoint to use it. Sentinel can be used to query this endpoint, and the endpoint will display these stats in JSON form.](https://github.com/vmware-tanzu/secrets-manager/issues/634)
-
-- [vsecm components (and SPIRE components too) should be able to have customizable labels and annotations; helm charts should have the option to provide it](https://github.com/vmware-tanzu/secrets-manager/issues/635)
-
-- [Sentinel should do a basic validation of init commands before running them](https://github.com/vmware-tanzu/secrets-manager/issues/641)
-
-- [`safe -l -e` should be able to get the secrets per workload (instead of listing all secrets) enable a command line option for that](https://github.com/vmware-tanzu/secrets-manager/issues/642)
+- [Document `OLLAMA_DEBUG` in `ollama serve` `-h` docs](https://github.com/ollama/ollama/issues/3401)
 
 
-## flyteorg/flyte <span style='color:#F1C40F'>(4.7K ⭐️)</span>
+## jaegertracing/jaeger <span style='color:#F1C40F'>(19.3K ⭐️)</span>
 
-- [Add a securitySchemes to swagger.json](https://github.com/flyteorg/flyte/issues/5160)
+- [es.SamplingStore.CreateTemplates is never called](https://github.com/jaegertracing/jaeger/issues/5333)
 
-- [[UI Feature] The UI should show that a task is pending due to `cache_serialize=True`](https://github.com/flyteorg/flyte/issues/5096)
-
-- [[Core feature] Override task `secret_requests` using `with_overrides`](https://github.com/flyteorg/flyte/issues/5085)
-
-- [[Core feature] Implement `pyflyte recover`](https://github.com/flyteorg/flyte/issues/5049)
-
-- [[BUG] sql_alchemy plugin doesn't support pandas version > 2.1.4](https://github.com/flyteorg/flyte/issues/5031)
-
-
-## hashicorp/terraform-provider-kubernetes <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [SecurityContext `procMount` Support](https://github.com/hashicorp/terraform-provider-kubernetes/issues/2451)
-
-- [Init container doesn't support restart_policy option (to transform it in a sidecar container)](https://github.com/hashicorp/terraform-provider-kubernetes/issues/2446)
+- [Upgrade google.golang.org 1.63.0](https://github.com/jaegertracing/jaeger/issues/5330)
 
 
 ## TBD54566975/ftl <span style='color:#F1C40F'>(15 ⭐️)</span>
+
+- [Creating 2 verbs with the same name/signature causes panic](https://github.com/TBD54566975/ftl/issues/1186)
+
+- [`ftl [config|secret] set` panics if module doesn't exist in `ftl-project.toml`](https://github.com/TBD54566975/ftl/issues/1174)
+
+- [`ftl dev --no-serve --stop` goes into a connection loop if the server isn't running](https://github.com/TBD54566975/ftl/issues/1167)
+
+- [Add minimum required FTL version to ftl-project.toml and/or ftl.toml](https://github.com/TBD54566975/ftl/issues/1183)
 
 - [Add `ftl dev --background-after-deploy` or alter existing `--background` to have this behaviour](https://github.com/TBD54566975/ftl/issues/1168)
 
@@ -75,63 +41,23 @@
 
 - [Multiple usages of `config` usages show up in schema](https://github.com/TBD54566975/ftl/issues/1121)
 
-- [Add quickstart to the readme and ftl help](https://github.com/TBD54566975/ftl/issues/1033)
 
+## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.7K ⭐️)</span>
 
-## coder/coder <span style='color:#F1C40F'>(6.7K ⭐️)</span>
+- [Add proxyURL validation for the AlertmanagerConfig CRD.](https://github.com/prometheus-operator/prometheus-operator/issues/6466)
 
-- [Deprecate gauge metrics named like counters](https://github.com/coder/coder/issues/12744)
+- [Change suffix of testdata that is used as input to `.input`](https://github.com/prometheus-operator/prometheus-operator/issues/6455)
 
-- [AlecAivazis/survey is no longer maintained](https://github.com/coder/coder/issues/12720)
+- [Support all pagerduty_config options in AlertmanagerConfig crd](https://github.com/prometheus-operator/prometheus-operator/issues/6387)
 
+- [Document the new controller-id flag in the Troubleshooting guide](https://github.com/prometheus-operator/prometheus-operator/issues/6411)
 
-## istio/istio <span style='color:#F1C40F'>(34.9K ⭐️)</span>
-
-- [istioctl precheck: add unit tests](https://github.com/istio/istio/issues/50255)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.4K ⭐️)</span>
-
-- [[Enhancement]: r/aws_elasticache_serverless_cache: Support minimum cache usage limits](https://github.com/hashicorp/terraform-provider-aws/issues/36624)
-
-- [[Docs]: Route53 Resolver Rule Resource Documentation Missing protocol Argument of the target_ip Object](https://github.com/hashicorp/terraform-provider-aws/issues/36439)
-
-- [[Bug]: modification of cache_usage_limits (ecpu_per_second or data_storage maximum) in aws_elasticache_serverless_cache results in replacement](https://github.com/hashicorp/terraform-provider-aws/issues/36317)
-
-
-## derailed/k9s <span style='color:#F1C40F'>(24.6K ⭐️)</span>
-
-- [Make Icons / Emoji customizable](https://github.com/derailed/k9s/issues/2624)
-
-
-## ollama/ollama <span style='color:#F1C40F'>(52.7K ⭐️)</span>
-
-- [Document `OLLAMA_DEBUG` in `ollama serve` `-h` docs](https://github.com/ollama/ollama/issues/3401)
-
-- [Allow `api.Client` to be constructed using URL & http.Client](https://github.com/ollama/ollama/issues/2948)
-
-
-## redis/rueidis <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [Fix code scanning alert - Incorrect conversion between integer types](https://github.com/redis/rueidis/issues/513)
-
-
-## Kong/kubernetes-ingress-controller <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [Get rid of `tcpMutex` and `tlsMutex` from integration tests](https://github.com/Kong/kubernetes-ingress-controller/issues/5757)
-
-
-## buildpacks/pack <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [Remove validation of deprecated `io.buildpacks.stack.id`](https://github.com/buildpacks/pack/issues/2104)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(106.3K ⭐️)</span>
-
-- [sig-windows-gce test jobs are failing consistently for a long time](https://github.com/kubernetes/kubernetes/issues/124047)
+- [unclear documentation about scrapeConfigNamespaceSelector and scrapeConfigSelector](https://github.com/prometheus-operator/prometheus-operator/issues/6404)
 
 
 ## microsoft/retina <span style='color:#F1C40F'>(2.3K ⭐️)</span>
+
+- [edge cases for MetricConfiguration CRD](https://github.com/microsoft/retina/issues/74)
 
 - [Enrich flows based on non-primary Pod IPs](https://github.com/microsoft/retina/issues/224)
 
@@ -151,19 +77,51 @@
 
 - [Evaluate security context/caps ](https://github.com/microsoft/retina/issues/93)
 
-- [edge cases for MetricConfiguration CRD](https://github.com/microsoft/retina/issues/74)
+
+## stacklok/minder <span style='color:#F1C40F'>(181 ⭐️)</span>
+
+- [The repository registered field is not set](https://github.com/stacklok/minder/issues/2628)
+
+- [Update the ListRemoteRepositoriesFromProvider response with a field saying which repo is registered and which not](https://github.com/stacklok/minder/issues/2627)
 
 
-## kyverno/kyverno <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+## flyteorg/flyte <span style='color:#F1C40F'>(4.7K ⭐️)</span>
 
-- [[Bug] generate with synchronize: true does not detect removal of secret/cm keys](https://github.com/kyverno/kyverno/issues/9972)
+- [Add a securitySchemes to swagger.json](https://github.com/flyteorg/flyte/issues/5160)
 
-- [[Feature] Boolean for disabling testing pod or increase the sleep time](https://github.com/kyverno/kyverno/issues/9866)
+- [[UI Feature] The UI should show that a task is pending due to `cache_serialize=True`](https://github.com/flyteorg/flyte/issues/5096)
+
+- [[Core feature] Override task `secret_requests` using `with_overrides`](https://github.com/flyteorg/flyte/issues/5085)
+
+- [[Core feature] Implement `pyflyte recover`](https://github.com/flyteorg/flyte/issues/5049)
+
+- [[BUG] sql_alchemy plugin doesn't support pandas version > 2.1.4](https://github.com/flyteorg/flyte/issues/5031)
 
 
-## argoproj/argo-workflows <span style='color:#F1C40F'>(14.2K ⭐️)</span>
+## istio/istio <span style='color:#F1C40F'>(34.9K ⭐️)</span>
 
-- [local image build: support arm and amd64](https://github.com/argoproj/argo-workflows/issues/12750)
+- [istioctl precheck: add unit tests](https://github.com/istio/istio/issues/50255)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.4K ⭐️)</span>
+
+- [[Enhancement]: r/aws_elasticache_serverless_cache: Support minimum cache usage limits](https://github.com/hashicorp/terraform-provider-aws/issues/36624)
+
+- [[Docs]: Route53 Resolver Rule Resource Documentation Missing protocol Argument of the target_ip Object](https://github.com/hashicorp/terraform-provider-aws/issues/36439)
+
+- [[Bug]: modification of cache_usage_limits (ecpu_per_second or data_storage maximum) in aws_elasticache_serverless_cache results in replacement](https://github.com/hashicorp/terraform-provider-aws/issues/36317)
+
+
+## coder/coder <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+
+- [Deprecate gauge metrics named like counters](https://github.com/coder/coder/issues/12744)
+
+- [AlecAivazis/survey is no longer maintained](https://github.com/coder/coder/issues/12720)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [Make /ingester/shutdown react on POST method only](https://github.com/grafana/mimir/issues/7623)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(16.6K ⭐️)</span>
@@ -171,9 +129,21 @@
 - [strict-validate-path-type does not allow period/dot/. in Exact or Prefix path](https://github.com/kubernetes/ingress-nginx/issues/11176)
 
 
-## Azure/azure-dev <span style='color:#F1C40F'>(351 ⭐️)</span>
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(854 ⭐️)</span>
 
-- [Operations for a given service (e.g. restore) should only verify presence of dependency tools needed for that service](https://github.com/Azure/azure-dev/issues/3533)
+- [Broken Links Job Gets Rate Limited](https://github.com/osmosis-labs/osmosis/issues/7877)
+
+
+## gatewayd-io/gatewayd <span style='color:#F1C40F'>(166 ⭐️)</span>
+
+- [Add Prometheus, Tempo and Grafana to docker compose file for observing GatewayD](https://github.com/gatewayd-io/gatewayd/issues/487)
+
+- [Add support for installing user-defined plugins in docker compose file](https://github.com/gatewayd-io/gatewayd/issues/486)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(106.3K ⭐️)</span>
+
+- [sig-windows-gce test jobs are failing consistently for a long time](https://github.com/kubernetes/kubernetes/issues/124047)
 
 
 ## radius-project/radius <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -188,39 +158,51 @@
 - [Document which (observability) metrics are initialized and which not](https://github.com/kedacore/keda/issues/5609)
 
 
-## ossf/scorecard <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+## AnalogJ/scrutiny <span style='color:#F1C40F'>(4.3K ⭐️)</span>
 
-- [Feature: Probe whether repo has up-to-date CODEOWNERS](https://github.com/ossf/scorecard/issues/3931)
-
-
-## kubernetes-sigs/aws-load-balancer-controller <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [add the ability to add a runtimeClassName parameter in values.yaml to enable gvisor or kata containers](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/3628)
-
-- [Helm chart does not allow --load-balancer-class flag to be set](https://github.com/kubernetes-sigs/aws-load-balancer-controller/issues/3629)
+- [[BUG] generic:// notifications parameter does not work correctly (attempting to get Signal-CLI to work)](https://github.com/AnalogJ/scrutiny/issues/623)
 
 
-## numaproj/numaflow <span style='color:#F1C40F'>(907 ⭐️)</span>
+## hashicorp/terraform-provider-kubernetes <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
-- [Docs: Message Headers](https://github.com/numaproj/numaflow/issues/1598)
+- [SecurityContext `procMount` Support](https://github.com/hashicorp/terraform-provider-kubernetes/issues/2451)
 
-- [User Defined Source: Add functionality to tag messages](https://github.com/numaproj/numaflow/issues/1605)
-
-- [Bypass transformer calls if source transformer is not used](https://github.com/numaproj/numaflow/issues/1612)
+- [Init container doesn't support restart_policy option (to transform it in a sidecar container)](https://github.com/hashicorp/terraform-provider-kubernetes/issues/2446)
 
 
-## EchoVault/EchoVault <span style='color:#F1C40F'>(88 ⭐️)</span>
+## zeta-chain/node <span style='color:#F1C40F'>(133 ⭐️)</span>
 
-- [Create Godoc documentation for Embedded API](https://github.com/EchoVault/EchoVault/issues/16)
+- [Replace all `cosmoserror.Wrap(types.Err[...], "...")` by `types.Err[...].Wrap(...)`](https://github.com/zeta-chain/node/issues/1991)
 
 
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(3.2K ⭐️)</span>
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.8K ⭐️)</span>
 
-- [[Feature]: Generate hostname as service.namespace in postgresql uri/jdbc-uri in credentials secret](https://github.com/cloudnative-pg/cloudnative-pg/issues/4062)
+- [[component] Reject `component.ID`s that are too long](https://github.com/open-telemetry/opentelemetry-collector/issues/9872)
 
-- [[Feature]: Enable configuration of `wal_log_hints`](https://github.com/cloudnative-pg/cloudnative-pg/issues/4041)
 
-- [[Feature]: Display PDB in `cnpg status`](https://github.com/cloudnative-pg/cloudnative-pg/issues/4019)
+## CycloneDX/sbom-utility <span style='color:#F1C40F'>(59 ⭐️)</span>
+
+- [TODO: Change Formulation and ModelCard schemas to use pointers](https://github.com/CycloneDX/sbom-utility/issues/79)
+
+
+## kubernetes/autoscaler <span style='color:#F1C40F'>(7.6K ⭐️)</span>
+
+- [  clusterIP: "{{ .Values.service.clusterIP }}" not define in values](https://github.com/kubernetes/autoscaler/issues/6631)
+
+
+## syself/cluster-api-provider-hetzner <span style='color:#F1C40F'>(495 ⭐️)</span>
+
+- [Condition indicating that HetznerBareMetalHost is deleting](https://github.com/syself/cluster-api-provider-hetzner/issues/1229)
+
+
+## ovn-org/ovn-kubernetes <span style='color:#F1C40F'>(655 ⭐️)</span>
+
+- [Improve handling of SKIPPED_TESTS in e2e-cp.sh](https://github.com/ovn-org/ovn-kubernetes/issues/4229)
+
+
+## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [Multiple network flags should prevent the BN to start.](https://github.com/prysmaticlabs/prysm/issues/13801)
 
 
 ## filecoin-project/lotus <span style='color:#F1C40F'>(2.8K ⭐️)</span>
@@ -230,58 +212,55 @@
 - [Avoid disputing WindowedPoSt messages when the target Miner has no balance to pay rewards](https://github.com/filecoin-project/lotus/issues/11715)
 
 
-## konveyor/analyzer-lsp <span style='color:#F1C40F'>(7 ⭐️)</span>
+## EchoVault/EchoVault <span style='color:#F1C40F'>(91 ⭐️)</span>
 
-- [[Bug] Add openapi struct fields for dependency condition](https://github.com/konveyor/analyzer-lsp/issues/551)
-
-- [[BUG] Adding Title and Description to capability](https://github.com/konveyor/analyzer-lsp/issues/550)
+- [Create Godoc documentation for Embedded API](https://github.com/EchoVault/EchoVault/issues/16)
 
 
-## openziti/ziti <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+## infracost/infracost <span style='color:#F1C40F'>(10.2K ⭐️)</span>
 
-- [adopt single-port default vars in ziti create config](https://github.com/openziti/ziti/issues/1838)
-
-
-## pingcap/tidb <span style='color:#F1C40F'>(36.0K ⭐️)</span>
-
-- [`TestDumpBinaryTime` failed in Egypt time](https://github.com/pingcap/tidb/issues/52345)
+- [Add support for some SES and SESv2 resources](https://github.com/infracost/infracost/issues/2998)
 
 
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+## elastic/elastic-package <span style='color:#F1C40F'>(42 ⭐️)</span>
 
-- [[component] Reject `component.ID`s that are too long](https://github.com/open-telemetry/opentelemetry-collector/issues/9872)
-
-
-## a-h/templ <span style='color:#F1C40F'>(6.2K ⭐️)</span>
-
-- [feature: add folding to LSP](https://github.com/a-h/templ/issues/650)
-
-- [bug: backslashes in constant string attributes cannot be generated](https://github.com/a-h/templ/issues/624)
+- [[Feature] elastic-package export pipelines](https://github.com/elastic/elastic-package/issues/1722)
 
 
-## dapr/dapr <span style='color:#F1C40F'>(23.2K ⭐️)</span>
+## cilium/tetragon <span style='color:#F1C40F'>(3.2K ⭐️)</span>
 
-- [Additional Dapr metrics properties when subscriber sends `status=DROP` ](https://github.com/dapr/dapr/issues/7610)
+- [doc: document why Tetragon will fail to load its BPF programs with operation not permitted](https://github.com/cilium/tetragon/issues/2265)
 
-
-## crossplane/crossplane <span style='color:#F1C40F'>(8.6K ⭐️)</span>
-
-- [`validate` doesn't do tilde expansion](https://github.com/crossplane/crossplane/issues/5487)
-
-- [crossplane beta validate does not work with Configurations using composition function dependencies](https://github.com/crossplane/crossplane/issues/5491)
+- [Don't give operator permissions to create CRDs if not needed](https://github.com/cilium/tetragon/issues/2226)
 
 
-## litmuschaos/litmus <span style='color:#F1C40F'>(4.2K ⭐️)</span>
+## ossf/scorecard <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
-- [Need to formatting text in probe card](https://github.com/litmuschaos/litmus/issues/4560)
+- [Feature: Probe whether repo has up-to-date CODEOWNERS](https://github.com/ossf/scorecard/issues/3931)
 
-- [Add pre-commit check to find and delete unused strings in strings.en.yaml file](https://github.com/litmuschaos/litmus/issues/4550)
 
-- [Add Fuzzing test suites in Litmus](https://github.com/litmuschaos/litmus/issues/4548)
+## siglens/siglens <span style='color:#F1C40F'>(962 ⭐️)</span>
 
-- [Save button not working when no "resilience" probe is added while creating experiments, this should throw an error toaster](https://github.com/litmuschaos/litmus/issues/4551)
+- [[BUG] Visualization tab doesn't update](https://github.com/siglens/siglens/issues/646)
 
-- [In gitops, access key is added to a plain field, this should be changed to a hidden field like password](https://github.com/litmuschaos/litmus/issues/4549)
+
+## apache/incubator-answer <span style='color:#F1C40F'>(11.3K ⭐️)</span>
+
+- [Account setting label issue](https://github.com/apache/incubator-answer/issues/881)
+
+- [SMTP not support outlook ](https://github.com/apache/incubator-answer/issues/879)
+
+- [Basic Connector Overrides profile picture](https://github.com/apache/incubator-answer/issues/857)
+
+
+## Azure/azure-dev <span style='color:#F1C40F'>(351 ⭐️)</span>
+
+- [Operations for a given service (e.g. restore) should only verify presence of dependency tools needed for that service](https://github.com/Azure/azure-dev/issues/3533)
+
+
+## zitadel/oidc <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [Set IDTokenSigningAlgValuesSupported of DiscoveryConfiguration obtained by Discover when initializing RelyingParty.](https://github.com/zitadel/oidc/issues/574)
 
 
 ## RamenDR/ramen <span style='color:#F1C40F'>(67 ⭐️)</span>
@@ -301,34 +280,100 @@
 - [Upgrade olm to version v0.27.0](https://github.com/RamenDR/ramen/issues/1260)
 
 
-## keploy/keploy <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+## nspcc-dev/neofs-node <span style='color:#F1C40F'>(30 ⭐️)</span>
 
-- [[feature]: automatically add test reports folder to gitignore ](https://github.com/keploy/keploy/issues/1775)
+- [Split verification and storage code for incoming objects](https://github.com/nspcc-dev/neofs-node/issues/2796)
 
-- [[bug]: Build Warnings on Image Optimization ](https://github.com/keploy/keploy/issues/1770)
-
-- [[bug]: Table of Contents Positioning Issue on Medium Screens](https://github.com/keploy/keploy/issues/1771)
-
-- [[bug]: test mode panics in case of empty test case ](https://github.com/keploy/keploy/issues/1755)
-
-- [[bug]:  incorrect routing on blog website ](https://github.com/keploy/keploy/issues/1733)
-
-- [[bug]: table titles are not visible in dark mode](https://github.com/keploy/keploy/issues/1756)
-
-- [[feature]: update all the frameworks logo on landing page](https://github.com/keploy/keploy/issues/1734)
-
-- [[bug]: copy button doesn't copy to clipboard for Safari](https://github.com/keploy/keploy/issues/1706)
-
-- [[bug]: Invalid DOM Properties Warnings](https://github.com/keploy/keploy/issues/1681)
-
-- [[bug]: Unresponsive CLI one click command](https://github.com/keploy/keploy/issues/1672)
-
-- [[refactor]: Star us on github button ](https://github.com/keploy/keploy/issues/1670)
-
-- [[bug]  Command built from user-controlled sources](https://github.com/keploy/keploy/issues/1661)
+- [Create and use helpers for crypto verifications](https://github.com/nspcc-dev/neofs-node/issues/2795)
 
 
-## grafana/mimir <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
-- [Make /ingester/shutdown react on POST method only](https://github.com/grafana/mimir/issues/7623)
+- [conformance - HTTPBackendRef Filter HTTPRouteFilterURLRewrite](https://github.com/kubernetes-sigs/gateway-api/issues/2937)
+
+- [conformance - HTTPBackendRef Filter HTTPRouteFilterRequestRedirect](https://github.com/kubernetes-sigs/gateway-api/issues/2936)
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Improve "antctl mc" usage](https://github.com/antrea-io/antrea/issues/6151)
+
+- [Add env 'ANTREA_NAMESPACE' support in antctl](https://github.com/antrea-io/antrea/issues/6131)
+
+
+## Kong/kubernetes-ingress-controller <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+
+- [Get rid of `tcpMutex` and `tlsMutex` from integration tests](https://github.com/Kong/kubernetes-ingress-controller/issues/5757)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.9K ⭐️)</span>
+
+- [Remove x/exp import](https://github.com/cosmos/cosmos-sdk/issues/19892)
+
+
+## glasskube/glasskube <span style='color:#F1C40F'>(645 ⭐️)</span>
+
+- [Move the search bar in the package section of the website](https://github.com/glasskube/glasskube/issues/481)
+
+- [Enable logo rendering on Firefox](https://github.com/glasskube/glasskube/issues/482)
+
+- [Fix logo images in the package section of the website](https://github.com/glasskube/glasskube/issues/480)
+
+- [CLI version completion when updating to specific version](https://github.com/glasskube/glasskube/issues/462)
+
+- [Too "GUIsh" install, need --yes option](https://github.com/glasskube/glasskube/issues/468)
+
+- [Handle `v` prefix in versions in install and update command](https://github.com/glasskube/glasskube/issues/463)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [[feature] update S3 collector to support collecting from a directory within the bucket](https://github.com/guacsec/guac/issues/1795)
+
+- [[feature] Update deps.dev collector to take advantage of the new API](https://github.com/guacsec/guac/issues/1768)
+
+
+## openziti/ziti <span style='color:#F1C40F'>(1.9K ⭐️)</span>
+
+- [adopt single-port default vars in ziti create config](https://github.com/openziti/ziti/issues/1838)
+
+
+## lightningnetwork/lnd <span style='color:#F1C40F'>(7.4K ⭐️)</span>
+
+- [[bug]: lncli listpayments --count_total_payments should honor --creation_date_start --creation_date_end](https://github.com/lightningnetwork/lnd/issues/8530)
+
+
+## a-h/templ <span style='color:#F1C40F'>(6.3K ⭐️)</span>
+
+- [feature: add folding to LSP](https://github.com/a-h/templ/issues/650)
+
+- [bug: backslashes in constant string attributes cannot be generated](https://github.com/a-h/templ/issues/624)
+
+
+## diggerhq/digger <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Workflow name in action logs is empty](https://github.com/diggerhq/digger/issues/1299)
+
+- [make tests trigger for external contributors](https://github.com/diggerhq/digger/issues/1293)
+
+
+## numaproj/numaflow <span style='color:#F1C40F'>(908 ⭐️)</span>
+
+- [Docs: Message Headers](https://github.com/numaproj/numaflow/issues/1598)
+
+- [User Defined Source: Add functionality to tag messages](https://github.com/numaproj/numaflow/issues/1605)
+
+- [Bypass transformer calls if source transformer is not used](https://github.com/numaproj/numaflow/issues/1612)
+
+
+## konveyor/analyzer-lsp <span style='color:#F1C40F'>(7 ⭐️)</span>
+
+- [[Bug] Add openapi struct fields for dependency condition](https://github.com/konveyor/analyzer-lsp/issues/551)
+
+- [[BUG] Adding Title and Description to capability](https://github.com/konveyor/analyzer-lsp/issues/550)
+
+
+## remotemobprogramming/mob <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Better Tutorial](https://github.com/remotemobprogramming/mob/issues/417)
 
