@@ -4,29 +4,14 @@
 
 
 
-<div align='center'>Last updated at April 13, 2024 01:49 UTC.</div>
+<div align='center'>Last updated at April 14, 2024 01:48 UTC.</div>
 
 
-## kopia/kopia <span style='color:#F1C40F'>(6.2K ⭐️)</span>
+## dagu-dev/dagu <span style='color:#F1C40F'>(1.2K ⭐️)</span>
 
-- [Snapshot retention is deleting more snapshots as defined by policy in case system was pausing snapshots](https://github.com/kopia/kopia/issues/3758)
+- [Fix linter errors](https://github.com/dagu-dev/dagu/issues/553)
 
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(860 ⭐️)</span>
-
-- [Delete osmomath.BigDec.ApproxRoot](https://github.com/osmosis-labs/osmosis/issues/8007)
-
-- [Broken Links Job Gets Rate Limited](https://github.com/osmosis-labs/osmosis/issues/7877)
-
-
-## openziti/ziti <span style='color:#F1C40F'>(2.0K ⭐️)</span>
-
-- [adopt single-port default vars in ziti create config](https://github.com/openziti/ziti/issues/1838)
-
-
-## ollama/ollama <span style='color:#F1C40F'>(54.4K ⭐️)</span>
-
-- [Document `OLLAMA_DEBUG` in `ollama serve` `-h` docs](https://github.com/ollama/ollama/issues/3401)
+- [feature request: structured (json) logs to stdout, disable writing to a file system](https://github.com/dagu-dev/dagu/issues/548)
 
 
 ## kubernetes/kubernetes <span style='color:#F1C40F'>(106.5K ⭐️)</span>
@@ -34,11 +19,14 @@
 - [sig-windows-gce test jobs are failing consistently for a long time](https://github.com/kubernetes/kubernetes/issues/124047)
 
 
-## istio/istio <span style='color:#F1C40F'>(34.9K ⭐️)</span>
+## solo-io/gloo <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
-- [Ambient: should use `istio.io/dataplane-mode=ambient` for enrolling individual pods](https://github.com/istio/istio/issues/50355)
+- [More detailed proxy latency docs](https://github.com/solo-io/gloo/issues/9333)
 
-- [istioctl precheck: add unit tests](https://github.com/istio/istio/issues/50255)
+
+## ollama/ollama <span style='color:#F1C40F'>(54.6K ⭐️)</span>
+
+- [Document `OLLAMA_DEBUG` in `ollama serve` `-h` docs](https://github.com/ollama/ollama/issues/3401)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.5K ⭐️)</span>
@@ -48,65 +36,133 @@
 - [[exporter/elasticsearchexporter] Push failures not reported in metrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32302)
 
 
-## openpubkey/openpubkey <span style='color:#F1C40F'>(550 ⭐️)</span>
+## istio/istio <span style='color:#F1C40F'>(34.9K ⭐️)</span>
 
-- [More Godoc on all public functions and structs](https://github.com/openpubkey/openpubkey/issues/176)
+- [Ambient: should use `istio.io/dataplane-mode=ambient` for enrolling individual pods](https://github.com/istio/istio/issues/50355)
 
-- [Move all tests over to testify/require](https://github.com/openpubkey/openpubkey/issues/175)
-
-
-## flyteorg/flyte <span style='color:#F1C40F'>(4.7K ⭐️)</span>
-
-- [Add a securitySchemes to swagger.json](https://github.com/flyteorg/flyte/issues/5160)
-
-- [[UI Feature] The UI should show that a task is pending due to `cache_serialize=True`](https://github.com/flyteorg/flyte/issues/5096)
-
-- [[Core feature] Override task `secret_requests` using `with_overrides`](https://github.com/flyteorg/flyte/issues/5085)
+- [istioctl precheck: add unit tests](https://github.com/istio/istio/issues/50255)
 
 
-## microsoft/retina <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+## kubernetes-sigs/jobset <span style='color:#F1C40F'>(93 ⭐️)</span>
 
-- [Duplicate import of flow library](https://github.com/microsoft/retina/issues/98)
-
-- [Evaluate security context/caps ](https://github.com/microsoft/retina/issues/93)
-
-- [remove irrelevant metric labels for dns and apiserver latency](https://github.com/microsoft/retina/issues/75)
-
-- [Most or all metrics exported by Retina should be counters, not gauges](https://github.com/microsoft/retina/issues/237)
-
-- [retina-operator shows up as unhealthy in Prometheus targets](https://github.com/microsoft/retina/issues/177)
-
-- [Enrich flows based on non-primary Pod IPs](https://github.com/microsoft/retina/issues/224)
-
-- [edge cases for MetricConfiguration CRD](https://github.com/microsoft/retina/issues/74)
-
-- [duplicate windows metric: remove `windows_hns_stats`, keep `forward_count`](https://github.com/microsoft/retina/issues/92)
-
-- [optimize build pipeline to minimize code duplication. ](https://github.com/microsoft/retina/issues/137)
-
-- [API Server Latency buckets are skewed in large scale clusters](https://github.com/microsoft/retina/issues/82)
-
-- [Support scheduling distributed captures](https://github.com/microsoft/retina/issues/88)
+- [Add pod controller unit tests](https://github.com/kubernetes-sigs/jobset/issues/478)
 
 
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+## gomods/athens <span style='color:#F1C40F'>(4.3K ⭐️)</span>
 
-- [[Feature]: support `allow_alter_system` from PostgreSQL 17](https://github.com/cloudnative-pg/cloudnative-pg/issues/4244)
-
-
-## Kong/kubernetes-ingress-controller <span style='color:#F1C40F'>(2.1K ⭐️)</span>
-
-- [Get rid of `tcpMutex` and `tlsMutex` from integration tests](https://github.com/Kong/kubernetes-ingress-controller/issues/5757)
+- [Use AWS SDK v2 for Go](https://github.com/gomods/athens/issues/1938)
 
 
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.9K ⭐️)</span>
+## getporter/porter <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
-- [Remove x/exp import](https://github.com/cosmos/cosmos-sdk/issues/19892)
+- [add brew tap for porter](https://github.com/getporter/porter/issues/3045)
 
 
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+## argoproj/argo-workflows <span style='color:#F1C40F'>(14.3K ⭐️)</span>
 
-- [Multiple network flags should prevent the BN to start.](https://github.com/prysmaticlabs/prysm/issues/13801)
+- [Add `--no-color` support / ability to disable ANSI escape codes to `argo lint` command](https://github.com/argoproj/argo-workflows/issues/12913)
+
+
+## coder/coder <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+
+- [Deprecate gauge metrics named like counters](https://github.com/coder/coder/issues/12744)
+
+- [AlecAivazis/survey is no longer maintained](https://github.com/coder/coder/issues/12720)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.4K ⭐️)</span>
+
+- [Documentation Update - azurerm_private_endpoint](https://github.com/hashicorp/terraform-provider-azurerm/issues/25590)
+
+- [azurerm_storage_table data source](https://github.com/hashicorp/terraform-provider-azurerm/issues/25562)
+
+
+## version-fox/vfox <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [[Feature]: Support Ruby Plugin](https://github.com/version-fox/vfox/issues/164)
+
+
+## cosmos/interchain-security <span style='color:#F1C40F'>(139 ⭐️)</span>
+
+- [add msg server for param updates on provider and consumer](https://github.com/cosmos/interchain-security/issues/1780)
+
+
+## openbao/openbao <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [Broader usage of Paginated Lists](https://github.com/openbao/openbao/issues/271)
+
+- [Publish container image somewhere other than docker.io](https://github.com/openbao/openbao/issues/260)
+
+
+## kyverno/kyverno <span style='color:#F1C40F'>(5.1K ⭐️)</span>
+
+- [[Bug] generate with synchronize: true does not detect removal of secret/cm keys](https://github.com/kyverno/kyverno/issues/9972)
+
+
+## alegrey91/fwdctl <span style='color:#F1C40F'>(43 ⭐️)</span>
+
+- [Add flag `--watch` to `list` command](https://github.com/alegrey91/fwdctl/issues/105)
+
+
+## numaproj/numaflow <span style='color:#F1C40F'>(912 ⭐️)</span>
+
+- [Docs: Message Headers](https://github.com/numaproj/numaflow/issues/1598)
+
+- [User Defined Source: Add functionality to tag messages](https://github.com/numaproj/numaflow/issues/1605)
+
+- [Bypass transformer calls if source transformer is not used](https://github.com/numaproj/numaflow/issues/1612)
+
+
+## zitadel/zitadel <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Log the unique id used for sonyflake in stdout](https://github.com/zitadel/zitadel/issues/7750)
+
+- [Instance settings title](https://github.com/zitadel/zitadel/issues/7632)
+
+- [[Bug]: Translations overflow buttons in login UI](https://github.com/zitadel/zitadel/issues/7619)
+
+- [[Bug]: Applications in a granted project not showing initially](https://github.com/zitadel/zitadel/issues/7613)
+
+- [[Bug]: "Default settings" missing in console mobile view](https://github.com/zitadel/zitadel/issues/7574)
+
+
+## kedacore/keda <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Document which (observability) metrics are initialized and which not](https://github.com/kedacore/keda/issues/5609)
+
+
+## redis/rueidis <span style='color:#F1C40F'>(2.2K ⭐️)</span>
+
+- [Feature: Add the Unit field to rueidiscompat BitCount](https://github.com/redis/rueidis/issues/526)
+
+- [Fix code scanning alert - Incorrect conversion between integer types](https://github.com/redis/rueidis/issues/513)
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(875 ⭐️)</span>
+
+- [chore(pruner | headertest): Deduplicate header generator utilities](https://github.com/celestiaorg/celestia-node/issues/3278)
+
+- [refactor: Consolidate SHA-256 Hash Function Usage](https://github.com/celestiaorg/celestia-node/issues/3275)
+
+- [refactor(metrics): Remove code related to granular metrics control](https://github.com/celestiaorg/celestia-node/issues/3265)
+
+
+## glasskube/glasskube <span style='color:#F1C40F'>(667 ⭐️)</span>
+
+- [CLI version completion when updating to specific version](https://github.com/glasskube/glasskube/issues/462)
+
+- [Fix logo images in the package section of the website](https://github.com/glasskube/glasskube/issues/480)
+
+- [Handle `v` prefix in versions in install and update command](https://github.com/glasskube/glasskube/issues/463)
+
+
+## EliCDavis/polyform <span style='color:#F1C40F'>(60 ⭐️)</span>
+
+- [New Gizmo: Weighted Point](https://github.com/EliCDavis/polyform/issues/29)
+
+- [New Gizmo: Line](https://github.com/EliCDavis/polyform/issues/28)
+
+- [Verify Graph is DAG](https://github.com/EliCDavis/polyform/issues/23)
 
 
 ## TBD54566975/ftl <span style='color:#F1C40F'>(15 ⭐️)</span>
@@ -142,105 +198,98 @@
 - [Add `ftl dev --background-after-deploy` or alter existing `--background` to have this behaviour](https://github.com/TBD54566975/ftl/issues/1168)
 
 
-## solo-io/gloo <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+## flyteorg/flyte <span style='color:#F1C40F'>(4.7K ⭐️)</span>
 
-- [More detailed proxy latency docs](https://github.com/solo-io/gloo/issues/9333)
+- [Add a securitySchemes to swagger.json](https://github.com/flyteorg/flyte/issues/5160)
 
+- [[UI Feature] The UI should show that a task is pending due to `cache_serialize=True`](https://github.com/flyteorg/flyte/issues/5096)
 
-## vmware-tanzu/secrets-manager <span style='color:#F1C40F'>(128 ⭐️)</span>
-
-- [VSecM Init containar shall be able to (optionally) decrypt a file mounted to the workload, provided it can fech an AES or age decrption key](https://github.com/vmware-tanzu/secrets-manager/issues/765)
-
-- [VSecM shall be able to create an AES key, or an age key pair and register it as secrets for a workload; so that if two workload share the same AES key, they can decrypt a shared encrypted file](https://github.com/vmware-tanzu/secrets-manager/issues/764)
-
-- [vsecm sentinel should be (optionally) configured to require a user id at every command execution](https://github.com/vmware-tanzu/secrets-manager/issues/762)
-
-- [func ProcessSecretDeleteQueue() only deletes a single secret, it should delete all existing backups of the secret too.](https://github.com/vmware-tanzu/secrets-manager/issues/633)
-
-- [vsecm components (and SPIRE components too) should be able to have customizable labels and annotations; helm charts should have the option to provide it](https://github.com/vmware-tanzu/secrets-manager/issues/635)
-
-- [bug: inserting root key does not work](https://github.com/vmware-tanzu/secrets-manager/issues/640)
-
-- [Sentinel should do a basic validation of init commands before running them](https://github.com/vmware-tanzu/secrets-manager/issues/641)
-
-- [`safe -l -e` should be able to get the secrets per workload (instead of listing all secrets) enable a command line option for that](https://github.com/vmware-tanzu/secrets-manager/issues/642)
-
-- [write integration tests around this: https://github.com/vmware-tanzu/secrets-manager/pull/564#pullrequestreview-1920918083](https://github.com/vmware-tanzu/secrets-manager/issues/651)
-
-- [write integration tests for multiple ns feature](https://github.com/vmware-tanzu/secrets-manager/issues/649)
-
-- [VSecM Sidecar should be able to (optionally) create one file per secret key](https://github.com/vmware-tanzu/secrets-manager/issues/761)
-
-- [VSecM Sidecar shall be able to interpolate secrets to a file that is templatized using go templating language](https://github.com/vmware-tanzu/secrets-manager/issues/760)
-
-- [VSecM Init Container should be (optionally cofigurable) able to watch the changes in a volume or a file instead of pinging VSecM Safe](https://github.com/vmware-tanzu/secrets-manager/issues/759)
-
-- [dynamic log levels: vsecm safe, and sentinel shall have APIs to update their log levels at runtime without killing the pods.](https://github.com/vmware-tanzu/secrets-manager/issues/708)
-
-- [a cli to check if a secret exists (like, return true/false based on if there is an assigned secret to a workload](https://github.com/vmware-tanzu/secrets-manager/issues/706)
+- [[Core feature] Override task `secret_requests` using `with_overrides`](https://github.com/flyteorg/flyte/issues/5085)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.4K ⭐️)</span>
+## kopia/kopia <span style='color:#F1C40F'>(6.2K ⭐️)</span>
 
-- [[Enhancement]: r/aws_quicksight_account_subscription: Add IAM Identity Center Instance ARN argument](https://github.com/hashicorp/terraform-provider-aws/issues/36782)
+- [Snapshot retention is deleting more snapshots as defined by policy in case system was pausing snapshots](https://github.com/kopia/kopia/issues/3758)
 
 
-## siglens/siglens <span style='color:#F1C40F'>(985 ⭐️)</span>
+## jaegertracing/jaeger <span style='color:#F1C40F'>(19.3K ⭐️)</span>
+
+- [[test] Crossdock tests do not need to build Docker images for all architectures](https://github.com/jaegertracing/jaeger/issues/5350)
+
+- [es.SamplingStore.CreateTemplates is never called](https://github.com/jaegertracing/jaeger/issues/5333)
+
+- [Upgrade google.golang.org 1.63.0](https://github.com/jaegertracing/jaeger/issues/5330)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.9K ⭐️)</span>
+
+- [Remove x/exp import](https://github.com/cosmos/cosmos-sdk/issues/19892)
+
+
+## grafana/k6 <span style='color:#F1C40F'>(23.3K ⭐️)</span>
+
+- [Enabling Profiling using environment variable ](https://github.com/grafana/k6/issues/3670)
+
+
+## siglens/siglens <span style='color:#F1C40F'>(988 ⭐️)</span>
 
 - [[BUG] Visualization tab doesn't update](https://github.com/siglens/siglens/issues/646)
 
 
-## coder/coder <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(861 ⭐️)</span>
 
-- [Deprecate gauge metrics named like counters](https://github.com/coder/coder/issues/12744)
+- [Delete osmomath.BigDec.ApproxRoot](https://github.com/osmosis-labs/osmosis/issues/8007)
 
-- [AlecAivazis/survey is no longer maintained](https://github.com/coder/coder/issues/12720)
-
-
-## kubeflow/training-operator <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [Add more AI/ML Training Examples](https://github.com/kubeflow/training-operator/issues/2040)
+- [Broken Links Job Gets Rate Limited](https://github.com/osmosis-labs/osmosis/issues/7877)
 
 
-## filecoin-project/lotus <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+## keploy/keploy <span style='color:#F1C40F'>(3.3K ⭐️)</span>
 
-- [Option to back-fill events by re-execution of messages](https://github.com/filecoin-project/lotus/issues/11744)
+- [[feature]: check if the linux kernel version is lower than 5.15](https://github.com/keploy/keploy/issues/1811)
 
+- [[bug]: copy button doesn't copy to clipboard for Safari](https://github.com/keploy/keploy/issues/1706)
 
-## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+- [[docs]: Update Samples-Rust documentation](https://github.com/keploy/keploy/issues/1721)
 
-- [conformance - HTTPBackendRef Filter HTTPRouteFilterURLRewrite](https://github.com/kubernetes-sigs/gateway-api/issues/2937)
+- [[refactor]: Remove code block from Keploy developer section in keploy website landing page ](https://github.com/keploy/keploy/issues/1812)
 
-- [conformance - HTTPBackendRef Filter HTTPRouteFilterRequestRedirect](https://github.com/kubernetes-sigs/gateway-api/issues/2936)
+- [[feature]: dark mode for the website](https://github.com/keploy/keploy/issues/1694)
 
+- [[refactor]: Limit Display to Three Content Blocks on Small Screens](https://github.com/keploy/keploy/issues/1772)
 
-## cosmos/interchain-security <span style='color:#F1C40F'>(139 ⭐️)</span>
+- [[feature]: automatically add test reports folder to gitignore ](https://github.com/keploy/keploy/issues/1775)
 
-- [add msg server for param updates on provider and consumer](https://github.com/cosmos/interchain-security/issues/1780)
-
-
-## cebilon123/waffle <span style='color:#F1C40F'>(46 ⭐️)</span>
-
-- [Add BPF provider ](https://github.com/cebilon123/waffle/issues/16)
-
-- [Refactor how config and certificates are being read](https://github.com/cebilon123/waffle/issues/15)
+- [[bug]: test mode panics in case of empty test case ](https://github.com/keploy/keploy/issues/1755)
 
 
-## apecloud/kubeblocks <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.7K ⭐️)</span>
 
-- [[Improvement] doc API `opsrequest.spec.restoreSpec.restoreTimeStr`](https://github.com/apecloud/kubeblocks/issues/7031)
+- [Add testing instructions using podman](https://github.com/prometheus-operator/prometheus-operator/issues/6488)
 
-- [[Improvement] Inconsistent Addons VERSION and PROVIDER.](https://github.com/apecloud/kubeblocks/issues/7007)
+- [Change suffix of testdata that is used as input to `.input`](https://github.com/prometheus-operator/prometheus-operator/issues/6455)
 
-- [[Improvement] Addon Controllers should check the version constraint on KB](https://github.com/apecloud/kubeblocks/issues/6981)
+- [Add proxyURL validation for the AlertmanagerConfig CRD.](https://github.com/prometheus-operator/prometheus-operator/issues/6466)
+
+- [Document the new controller-id flag in the Troubleshooting guide](https://github.com/prometheus-operator/prometheus-operator/issues/6411)
+
+- [unclear documentation about scrapeConfigNamespaceSelector and scrapeConfigSelector](https://github.com/prometheus-operator/prometheus-operator/issues/6404)
 
 
-## crossplane/crossplane <span style='color:#F1C40F'>(8.7K ⭐️)</span>
+## ovn-org/ovn-kubernetes <span style='color:#F1C40F'>(655 ⭐️)</span>
 
-- [crossplane beta validate does not work with Configurations using composition function dependencies](https://github.com/crossplane/crossplane/issues/5491)
+- [Investigate if max(fieldmanager) length is less than max(nodename) what happens](https://github.com/ovn-org/ovn-kubernetes/issues/4273)
+
+- [Improve handling of SKIPPED_TESTS in e2e-cp.sh](https://github.com/ovn-org/ovn-kubernetes/issues/4229)
 
 
-## plandex-ai/plandex <span style='color:#F1C40F'>(8.3K ⭐️)</span>
+## pingcap/tidb <span style='color:#F1C40F'>(36.1K ⭐️)</span>
+
+- [`TestDumpBinaryTime` failed in Egypt time](https://github.com/pingcap/tidb/issues/52345)
+
+- ["memory exceeds quota" logs can print detailed sub-trackers](https://github.com/pingcap/tidb/issues/52478)
+
+
+## plandex-ai/plandex <span style='color:#F1C40F'>(8.4K ⭐️)</span>
 
 - [The same file can be added to context twice](https://github.com/plandex-ai/plandex/issues/57)
 
@@ -255,46 +304,34 @@
 - [plandex-server mapping not working as expected](https://github.com/plandex-ai/plandex/issues/9)
 
 
-## metallb/metallb <span style='color:#F1C40F'>(6.6K ⭐️)</span>
+## miyamo2/dynmgrm <span style='color:#F1C40F'>(2 ⭐️)</span>
 
-- [Fix for #1739 breaks localPref for different prefix lengths](https://github.com/metallb/metallb/issues/2345)
+- [Add Custom `gorm.Expr` for `list_append` function](https://github.com/miyamo2/dynmgrm/issues/74)
 
+- [Add Custom `gorm.Expr` for `set_delete` function](https://github.com/miyamo2/dynmgrm/issues/73)
 
-## dapr/dapr <span style='color:#F1C40F'>(23.2K ⭐️)</span>
+- [Add Custom `gorm.Expr` for `set_add` function](https://github.com/miyamo2/dynmgrm/issues/72)
 
-- [Service invocation via request header removes trailing slash](https://github.com/dapr/dapr/issues/7686)
-
-
-## numaproj/numaflow <span style='color:#F1C40F'>(912 ⭐️)</span>
-
-- [Docs: Message Headers](https://github.com/numaproj/numaflow/issues/1598)
-
-- [User Defined Source: Add functionality to tag messages](https://github.com/numaproj/numaflow/issues/1605)
-
-- [Bypass transformer calls if source transformer is not used](https://github.com/numaproj/numaflow/issues/1612)
+- [Define  `dynmgrm.List<T>`](https://github.com/miyamo2/dynmgrm/issues/70)
 
 
-## cilium/tetragon <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+## cebilon123/waffle <span style='color:#F1C40F'>(50 ⭐️)</span>
 
-- [doc: document why Tetragon will fail to load its BPF programs with operation not permitted](https://github.com/cilium/tetragon/issues/2265)
+- [Add BPF provider ](https://github.com/cebilon123/waffle/issues/16)
 
-- [Don't give operator permissions to create CRDs if not needed](https://github.com/cilium/tetragon/issues/2226)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(19.3K ⭐️)</span>
-
-- [[test] Crossdock tests do not need to build Docker images for all architectures](https://github.com/jaegertracing/jaeger/issues/5350)
-
-- [es.SamplingStore.CreateTemplates is never called](https://github.com/jaegertracing/jaeger/issues/5333)
-
-- [Upgrade google.golang.org 1.63.0](https://github.com/jaegertracing/jaeger/issues/5330)
+- [Refactor how config and certificates are being read](https://github.com/cebilon123/waffle/issues/15)
 
 
-## glasskube/glasskube <span style='color:#F1C40F'>(663 ⭐️)</span>
+## envoyproxy/gateway <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
-- [CLI version completion when updating to specific version](https://github.com/glasskube/glasskube/issues/462)
+- [docs: yaml artifacts in guides should code-highlight](https://github.com/envoyproxy/gateway/issues/3137)
 
-- [Fix logo images in the package section of the website](https://github.com/glasskube/glasskube/issues/480)
+- [tab character in helm template](https://github.com/envoyproxy/gateway/issues/3153)
 
-- [Handle `v` prefix in versions in install and update command](https://github.com/glasskube/glasskube/issues/463)
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Add env 'ANTREA_NAMESPACE' support in antctl](https://github.com/antrea-io/antrea/issues/6131)
+
+- [Improve "antctl mc" usage](https://github.com/antrea-io/antrea/issues/6151)
 
