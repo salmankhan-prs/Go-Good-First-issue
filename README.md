@@ -4,73 +4,38 @@
 
 
 
-<div align='center'>Last updated at April 15, 2024 01:48 UTC.</div>
+<div align='center'>Last updated at April 16, 2024 01:49 UTC.</div>
 
 
-## version-fox/vfox <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+## dapr/dapr <span style='color:#F1C40F'>(23.2K ⭐️)</span>
 
-- [[Feature]: Support Ruby Plugin](https://github.com/version-fox/vfox/issues/164)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [docs: yaml artifacts in guides should code-highlight](https://github.com/envoyproxy/gateway/issues/3137)
-
-- [tab character in helm template](https://github.com/envoyproxy/gateway/issues/3153)
+- [Service invocation via request header removes trailing slash](https://github.com/dapr/dapr/issues/7686)
 
 
-## istio/istio <span style='color:#F1C40F'>(34.9K ⭐️)</span>
-
-- [Ambient: should use `istio.io/dataplane-mode=ambient` for enrolling individual pods](https://github.com/istio/istio/issues/50355)
-
-- [istioctl precheck: add unit tests](https://github.com/istio/istio/issues/50255)
-
-
-## kaestro/ChatApplication <span style='color:#F1C40F'>(1 ⭐️)</span>
-
-- [흩어진 models모듈 통합 모듈로 전환](https://github.com/kaestro/ChatApplication/issues/67)
-
-- [TypeAliasing for types like loginsessionID](https://github.com/kaestro/ChatApplication/issues/65)
-
-- [sessionkey로 돼있는 변수명 session id로 변경, 혹은 로직을 변경](https://github.com/kaestro/ChatApplication/issues/69)
-
-
-## ollama/ollama <span style='color:#F1C40F'>(54.7K ⭐️)</span>
+## ollama/ollama <span style='color:#F1C40F'>(54.9K ⭐️)</span>
 
 - [Document `OLLAMA_DEBUG` in `ollama serve` `-h` docs](https://github.com/ollama/ollama/issues/3401)
-
-
-## kubernetes-sigs/aws-ebs-csi-driver <span style='color:#F1C40F'>(912 ⭐️)</span>
-
-- [Make scrape interval configurable](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/issues/2004)
-
-
-## openbao/openbao <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [Broader usage of Paginated Lists](https://github.com/openbao/openbao/issues/271)
-
-- [Publish container image somewhere other than docker.io](https://github.com/openbao/openbao/issues/260)
 
 
 ## TBD54566975/ftl <span style='color:#F1C40F'>(15 ⭐️)</span>
 
 - [Extend HTTP ingress to support `omitempty`](https://github.com/TBD54566975/ftl/issues/1254)
 
-- [log when we don't deploy because code is unchanged](https://github.com/TBD54566975/ftl/issues/1228)
+- [Think about whether events table serves the role of audit logs](https://github.com/TBD54566975/ftl/issues/1236)
+
+- [Validate that the secrets and config required by the schema exactly match defined secrets](https://github.com/TBD54566975/ftl/issues/1173)
+
+- [File updates in quick succession leads to unnecessary builds](https://github.com/TBD54566975/ftl/issues/1210)
 
 - [`ftl [config|secret] set` panics if module doesn't exist in `ftl-project.toml`](https://github.com/TBD54566975/ftl/issues/1174)
 
 - [Write a reaper that periodically cleans `$CACHE/ftl-runner`](https://github.com/TBD54566975/ftl/issues/1234)
-
-- [File updates in quick succession leads to unnecessary builds](https://github.com/TBD54566975/ftl/issues/1210)
 
 - [Log links to console objects at trace level](https://github.com/TBD54566975/ftl/issues/1134)
 
 - [The FTL runtime should verify that the version of Go being executed is recent enough for the go.mod files](https://github.com/TBD54566975/ftl/issues/1184)
 
 - [`runInBackground` should return errors](https://github.com/TBD54566975/ftl/issues/1170)
-
-- [Validate that the secrets and config required by the schema exactly match defined secrets](https://github.com/TBD54566975/ftl/issues/1173)
 
 - [Get rid of `all_{controllers,runners,ingress_routes}` from `GetStatus()`](https://github.com/TBD54566975/ftl/issues/1171)
 
@@ -87,32 +52,198 @@
 - [Add `ftl dev --background-after-deploy` or alter existing `--background` to have this behaviour](https://github.com/TBD54566975/ftl/issues/1168)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+## syself/cluster-api-provider-hetzner <span style='color:#F1C40F'>(498 ⭐️)</span>
 
-- [make update-otel should update builder configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32354)
+- [Condition indicating that HetznerBareMetalHost is deleting](https://github.com/syself/cluster-api-provider-hetzner/issues/1229)
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(106.5K ⭐️)</span>
+
+- [sig-windows-gce test jobs are failing consistently for a long time](https://github.com/kubernetes/kubernetes/issues/124047)
+
+
+## terrastruct/d2 <span style='color:#F1C40F'>(15.8K ⭐️)</span>
+
+- [fix sequence diagram lines](https://github.com/terrastruct/d2/issues/1909)
+
+- [HTTP server directly in binary](https://github.com/terrastruct/d2/issues/1907)
+
+
+## openpubkey/openpubkey <span style='color:#F1C40F'>(551 ⭐️)</span>
+
+- [We should use algorithm from public key rather than alg from token in verification](https://github.com/openpubkey/openpubkey/issues/185)
+
+- [Find and fix spelling errors in comments](https://github.com/openpubkey/openpubkey/issues/183)
+
+- [More Godoc on all public functions and structs](https://github.com/openpubkey/openpubkey/issues/176)
+
+
+## istio/istio <span style='color:#F1C40F'>(34.9K ⭐️)</span>
+
+- [Ambient: should use `istio.io/dataplane-mode=ambient` for enrolling individual pods](https://github.com/istio/istio/issues/50355)
+
+- [istioctl precheck: add unit tests](https://github.com/istio/istio/issues/50255)
+
+
+## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(4.8K ⭐️)</span>
+
+- [Remove context check on stdout exporters](https://github.com/open-telemetry/opentelemetry-go/issues/5173)
+
+
+## filecoin-project/lotus <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [Option to back-fill events by re-execution of messages](https://github.com/filecoin-project/lotus/issues/11744)
+
+
+## kopia/kopia <span style='color:#F1C40F'>(6.2K ⭐️)</span>
+
+- [Snapshot retention is deleting more snapshots as defined by policy in case system was pausing snapshots](https://github.com/kopia/kopia/issues/3758)
+
+
+## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [conformance - HTTPBackendRef Filter HTTPRouteFilterURLRewrite](https://github.com/kubernetes-sigs/gateway-api/issues/2937)
+
+- [conformance - HTTPBackendRef Filter HTTPRouteFilterRequestRedirect](https://github.com/kubernetes-sigs/gateway-api/issues/2936)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.4K ⭐️)</span>
+
+- [[Docs]: jupyter_lab_image_config is missing for aws_sagemaker_app_image_config resource](https://github.com/hashicorp/terraform-provider-aws/issues/36828)
+
+- [[Enhancement]: r/aws_redshift_cluster_snapshot: Add `snapshot_arn` attribute](https://github.com/hashicorp/terraform-provider-aws/issues/36915)
+
+- [[Enhancement]: r/aws_quicksight_account_subscription: Add IAM Identity Center Instance ARN argument](https://github.com/hashicorp/terraform-provider-aws/issues/36782)
+
+
+## maxnystrom/together-go <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [FIX: Determine correct type for the `schema` and `parameters` keys](https://github.com/maxnystrom/together-go/issues/4)
+
+- [FIX: Replace `Tags` and `Subjob` stub structs](https://github.com/maxnystrom/together-go/issues/2)
+
+- [TODO: Determine if it makes sense to have a negative int32 for `maxTokens` and what a real maximum is](https://github.com/maxnystrom/together-go/issues/3)
+
+
+## argoproj/argo-workflows <span style='color:#F1C40F'>(14.3K ⭐️)</span>
+
+- [Add `--no-color` support / ability to disable ANSI escape codes to `argo lint` command](https://github.com/argoproj/argo-workflows/issues/12913)
+
+
+## guacsec/guac <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [[feature] Switch out archived github.com/golang/mock repo with maintained fork github.com/uber-go/mock](https://github.com/guacsec/guac/issues/1838)
+
+- [[feature] update S3 collector to support collecting from a directory within the bucket](https://github.com/guacsec/guac/issues/1795)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(16.6K ⭐️)</span>
+
+- [strict-validate-path-type does not allow period/dot/. in Exact or Prefix path](https://github.com/kubernetes/ingress-nginx/issues/11176)
+
+
+## apecloud/kubeblocks <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [[Improvement] Inconsistent Addons VERSION and PROVIDER.](https://github.com/apecloud/kubeblocks/issues/7007)
+
+- [[Improvement] Create At Most ONE PITR backup for a cluster](https://github.com/apecloud/kubeblocks/issues/6982)
+
+- [[Improvement] doc API `opsrequest.spec.restoreSpec.restoreTimeStr`](https://github.com/apecloud/kubeblocks/issues/7031)
+
+- [[Improvement] Addon Controllers should check the version constraint on KB](https://github.com/apecloud/kubeblocks/issues/6981)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(29.0K ⭐️)</span>
+
+- [o11y: unavailable ranges in console is coloured green](https://github.com/cockroachdb/cockroach/issues/122014)
+
+
+## microsoft/retina <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [Duplicate import of flow library](https://github.com/microsoft/retina/issues/98)
+
+- [Evaluate security context/caps ](https://github.com/microsoft/retina/issues/93)
+
+- [remove irrelevant metric labels for dns and apiserver latency](https://github.com/microsoft/retina/issues/75)
+
+- [Most or all metrics exported by Retina should be counters, not gauges](https://github.com/microsoft/retina/issues/237)
+
+- [retina-operator shows up as unhealthy in Prometheus targets](https://github.com/microsoft/retina/issues/177)
+
+- [Enrich flows based on non-primary Pod IPs](https://github.com/microsoft/retina/issues/224)
+
+- [edge cases for MetricConfiguration CRD](https://github.com/microsoft/retina/issues/74)
+
+- [duplicate windows metric: remove `windows_hns_stats`, keep `forward_count`](https://github.com/microsoft/retina/issues/92)
+
+- [optimize build pipeline to minimize code duplication. ](https://github.com/microsoft/retina/issues/137)
+
+- [API Server Latency buckets are skewed in large scale clusters](https://github.com/microsoft/retina/issues/82)
+
+- [Support scheduling distributed captures](https://github.com/microsoft/retina/issues/88)
+
+
+## flyteorg/flyte <span style='color:#F1C40F'>(4.7K ⭐️)</span>
+
+- [Add a securitySchemes to swagger.json](https://github.com/flyteorg/flyte/issues/5160)
+
+- [[UI Feature] The UI should show that a task is pending due to `cache_serialize=True`](https://github.com/flyteorg/flyte/issues/5096)
+
+- [[Core feature] Override task `secret_requests` using `with_overrides`](https://github.com/flyteorg/flyte/issues/5085)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.5K ⭐️)</span>
 
 - [[exporter/elasticsearchexporter] Push failures not reported in metrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32302)
 
 
-## coder/coder <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+## buildpacks/pack <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
-- [Deprecate gauge metrics named like counters](https://github.com/coder/coder/issues/12744)
-
-- [AlecAivazis/survey is no longer maintained](https://github.com/coder/coder/issues/12720)
+- [Remove validation of deprecated `io.buildpacks.stack.id`](https://github.com/buildpacks/pack/issues/2104)
 
 
-## treeverse/lakeFS <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+## cosmos/ibc-go <span style='color:#F1C40F'>(472 ⭐️)</span>
 
-- [[Bug]: Doc bug in quickstart](https://github.com/treeverse/lakeFS/issues/7647)
+- [Bump golangci-lint to latest version](https://github.com/cosmos/ibc-go/issues/6086)
 
 
-## jaegertracing/jaeger <span style='color:#F1C40F'>(19.3K ⭐️)</span>
+## RamenDR/ramen <span style='color:#F1C40F'>(67 ⭐️)</span>
 
-- [[test] Crossdock tests do not need to build Docker images for all architectures](https://github.com/jaegertracing/jaeger/issues/5350)
+- [Cache addons resources](https://github.com/RamenDR/ramen/issues/1290)
 
-- [es.SamplingStore.CreateTemplates is never called](https://github.com/jaegertracing/jaeger/issues/5333)
+- [drenv addons: Warning: 'patchesJson6902' is deprecated. Please use 'patches' instead. Run 'kustomize edit fix' to update your Kustomization automatically.](https://github.com/RamenDR/ramen/issues/1336)
 
-- [Upgrade google.golang.org 1.63.0](https://github.com/jaegertracing/jaeger/issues/5330)
+- [drenv rook-cluster addon: repository 'https://raw.githubusercontent.com/rook/rook/' not found](https://github.com/RamenDR/ramen/issues/1310)
+
+- [Bad error handling in velero test when running velero backup/restore](https://github.com/RamenDR/ramen/issues/1281)
+
+- [Fake s3 store in tests doesn't use locks to store data in a map](https://github.com/RamenDR/ramen/issues/1289)
+
+- [Upgrade olm to version v0.27.0](https://github.com/RamenDR/ramen/issues/1260)
+
+
+## cilium/tetragon <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [doc: document why Tetragon will fail to load its BPF programs with operation not permitted](https://github.com/cilium/tetragon/issues/2265)
+
+
+## prometheus/node_exporter <span style='color:#F1C40F'>(10.2K ⭐️)</span>
+
+- [Handle thermal_zone errors gracefully](https://github.com/prometheus/node_exporter/issues/2980)
+
+
+## osmosis-labs/osmosis <span style='color:#F1C40F'>(863 ⭐️)</span>
+
+- [Delete osmomath.BigDec.ApproxRoot](https://github.com/osmosis-labs/osmosis/issues/8007)
+
+- [Broken Links Job Gets Rate Limited](https://github.com/osmosis-labs/osmosis/issues/7877)
+
+
+## antrea-io/antrea <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Add env 'ANTREA_NAMESPACE' support in antctl](https://github.com/antrea-io/antrea/issues/6131)
+
+- [Improve "antctl mc" usage](https://github.com/antrea-io/antrea/issues/6151)
 
 
 ## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.7K ⭐️)</span>
@@ -128,84 +259,14 @@
 - [unclear documentation about scrapeConfigNamespaceSelector and scrapeConfigSelector](https://github.com/prometheus-operator/prometheus-operator/issues/6404)
 
 
-## Kong/kubernetes-ingress-controller <span style='color:#F1C40F'>(2.1K ⭐️)</span>
+## k8sgpt-ai/k8sgpt-operator <span style='color:#F1C40F'>(250 ⭐️)</span>
 
-- [Get rid of `tcpMutex` and `tlsMutex` from integration tests](https://github.com/Kong/kubernetes-ingress-controller/issues/5757)
-
-
-## kopia/kopia <span style='color:#F1C40F'>(6.2K ⭐️)</span>
-
-- [Snapshot retention is deleting more snapshots as defined by policy in case system was pausing snapshots](https://github.com/kopia/kopia/issues/3758)
+- [[Feature]: Generate results CRD in related to issue namespace](https://github.com/k8sgpt-ai/k8sgpt-operator/issues/390)
 
 
-## plandex-ai/plandex <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+## gnolang/gno <span style='color:#F1C40F'>(819 ⭐️)</span>
 
-- [Plandex git commit messages first line should be a summary of changes rather than just 'applied pending changes'](https://github.com/plandex-ai/plandex/issues/72)
-
-- [Make plandex use XDG configuration if it's available](https://github.com/plandex-ai/plandex/issues/7)
-
-- [plandex-server mapping not working as expected](https://github.com/plandex-ai/plandex/issues/9)
-
-
-## numaproj/numaflow <span style='color:#F1C40F'>(912 ⭐️)</span>
-
-- [Docs: Message Headers](https://github.com/numaproj/numaflow/issues/1598)
-
-- [User Defined Source: Add functionality to tag messages](https://github.com/numaproj/numaflow/issues/1605)
-
-- [Bypass transformer calls if source transformer is not used](https://github.com/numaproj/numaflow/issues/1612)
-
-
-## maxnystrom/together-go <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [FIX: Determine correct type for the `schema` and `parameters` keys](https://github.com/maxnystrom/together-go/issues/4)
-
-- [FIX: Replace `Tags` and `Subjob` stub structs](https://github.com/maxnystrom/together-go/issues/2)
-
-- [TODO: Determine if it makes sense to have a negative int32 for `maxTokens` and what a real maximum is](https://github.com/maxnystrom/together-go/issues/3)
-
-
-## filecoin-project/lotus <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Option to back-fill events by re-execution of messages](https://github.com/filecoin-project/lotus/issues/11744)
-
-
-## pingcap/tidb <span style='color:#F1C40F'>(36.1K ⭐️)</span>
-
-- [`TestDumpBinaryTime` failed in Egypt time](https://github.com/pingcap/tidb/issues/52345)
-
-- ["memory exceeds quota" logs can print detailed sub-trackers](https://github.com/pingcap/tidb/issues/52478)
-
-
-## radius-project/radius <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [`rad group show` doesn't show the current group](https://github.com/radius-project/radius/issues/7391)
-
-
-## flyteorg/flyte <span style='color:#F1C40F'>(4.7K ⭐️)</span>
-
-- [Add a securitySchemes to swagger.json](https://github.com/flyteorg/flyte/issues/5160)
-
-- [[UI Feature] The UI should show that a task is pending due to `cache_serialize=True`](https://github.com/flyteorg/flyte/issues/5096)
-
-- [[Core feature] Override task `secret_requests` using `with_overrides`](https://github.com/flyteorg/flyte/issues/5085)
-
-
-## keploy/keploy <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [[feature]: check if the linux kernel version is lower than 5.15](https://github.com/keploy/keploy/issues/1811)
-
-- [[bug]: copy button doesn't copy to clipboard for Safari](https://github.com/keploy/keploy/issues/1706)
-
-- [[docs]: Update Samples-Rust documentation](https://github.com/keploy/keploy/issues/1721)
-
-- [[refactor]: Remove code block from Keploy developer section in keploy website landing page ](https://github.com/keploy/keploy/issues/1812)
-
-- [[refactor]: Limit Display to Three Content Blocks on Small Screens](https://github.com/keploy/keploy/issues/1772)
-
-- [[feature]: automatically add test reports folder to gitignore ](https://github.com/keploy/keploy/issues/1775)
-
-- [[bug]: test mode panics in case of empty test case ](https://github.com/keploy/keploy/issues/1755)
+- [print all errors from `scanner.ErrorList` when calling `gno.ParseFile`](https://github.com/gnolang/gno/issues/1933)
 
 
 ## kubernetes-sigs/jobset <span style='color:#F1C40F'>(94 ⭐️)</span>
@@ -213,21 +274,13 @@
 - [Add pod controller unit tests](https://github.com/kubernetes-sigs/jobset/issues/478)
 
 
-## cebilon123/waffle <span style='color:#F1C40F'>(50 ⭐️)</span>
+## pingcap/tidb <span style='color:#F1C40F'>(36.1K ⭐️)</span>
 
-- [Add BPF provider ](https://github.com/cebilon123/waffle/issues/16)
+- ["memory exceeds quota" logs can print detailed sub-trackers](https://github.com/pingcap/tidb/issues/52478)
 
-- [Refactor how config and certificates are being read](https://github.com/cebilon123/waffle/issues/15)
+- [txn: unexpected behavior for point-get and `LOCK IN SHARE MODE`](https://github.com/pingcap/tidb/issues/52432)
 
-
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [Multiple network flags should prevent the BN to start.](https://github.com/prysmaticlabs/prysm/issues/13801)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.4K ⭐️)</span>
-
-- [[Enhancement]: r/aws_quicksight_account_subscription: Add IAM Identity Center Instance ARN argument](https://github.com/hashicorp/terraform-provider-aws/issues/36782)
+- [`TestDumpBinaryTime` failed in Egypt time](https://github.com/pingcap/tidb/issues/52345)
 
 
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(5.9K ⭐️)</span>
@@ -235,76 +288,53 @@
 - [Remove x/exp import](https://github.com/cosmos/cosmos-sdk/issues/19892)
 
 
-## terraform-linters/tflint <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+## GoogleContainerTools/kaniko <span style='color:#F1C40F'>(13.9K ⭐️)</span>
 
-- [Sarif output should use the final schema version](https://github.com/terraform-linters/tflint/issues/2017)
-
-
-## kubeflow/training-operator <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [Add more AI/ML Training Examples](https://github.com/kubeflow/training-operator/issues/2040)
+- [Both `--kaniko-dir` and `KANIKO_DIR` needs to be set](https://github.com/GoogleContainerTools/kaniko/issues/3098)
 
 
-## miyamo2/dynmgrm <span style='color:#F1C40F'>(2 ⭐️)</span>
+## coder/coder <span style='color:#F1C40F'>(6.8K ⭐️)</span>
 
-- [Add Custom `gorm.Expr` for `list_append` function](https://github.com/miyamo2/dynmgrm/issues/74)
+- [Deprecate gauge metrics named like counters](https://github.com/coder/coder/issues/12744)
 
-- [Add Custom `gorm.Expr` for `set_delete` function](https://github.com/miyamo2/dynmgrm/issues/73)
-
-- [Add Custom `gorm.Expr` for `set_add` function](https://github.com/miyamo2/dynmgrm/issues/72)
+- [AlecAivazis/survey is no longer maintained](https://github.com/coder/coder/issues/12720)
 
 
-## vmware-tanzu/secrets-manager <span style='color:#F1C40F'>(128 ⭐️)</span>
+## celestiaorg/celestia-app <span style='color:#F1C40F'>(324 ⭐️)</span>
 
-- [`safe -l -e` should be able to get the secrets per workload (instead of listing all secrets) enable a command line option for that](https://github.com/vmware-tanzu/secrets-manager/issues/642)
+- [Move markdown link check to run daily and Slack message failures](https://github.com/celestiaorg/celestia-app/issues/3324)
 
-- [Store Generated Proto Files in the Repo](https://github.com/vmware-tanzu/secrets-manager/issues/828)
+- [Use one term for MaxBlockSizeBytes](https://github.com/celestiaorg/celestia-app/issues/3322)
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/app/safe/internal/bootstrap/bootstrap_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/910)
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/sdk/startup/watch_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/909)
+## ossf/scorecard <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/sdk/sentry/watch_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/908)
+- [Include human friendly links for the GitHub artifacts for Signed-Releases](https://github.com/ossf/scorecard/issues/4030)
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/sdk/sentry/privates_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/907)
+- [Cleanup old error names before full v5 release](https://github.com/ossf/scorecard/issues/4033)
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/sdk/sentry/fetch_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/906)
+- [update the SPDX license list](https://github.com/ossf/scorecard/issues/4031)
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/system/wait_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/905)
+- [improve binary artifact and license tests to match other checks](https://github.com/ossf/scorecard/issues/4032)
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/spiffe/spiffe_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/904)
+- [Specify a user agent for OSV.dev](https://github.com/ossf/scorecard/issues/4029)
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/probe/probe_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/903)
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/log/rpc/url_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/902)
+## solo-io/gloo <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/log/rpc/server_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/901)
+- [More detailed proxy latency docs](https://github.com/solo-io/gloo/issues/9333)
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/log/rpc/client_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/900)
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/log/rpc/builder_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/899)
+## ethereum/go-ethereum <span style='color:#F1C40F'>(46.0K ⭐️)</span>
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/env/system_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/898)
+- [Beacon root contract in dev mode and private chains](https://github.com/ethereum/go-ethereum/issues/29539)
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/env/sentinel_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/897)
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/env/secret_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/896)
+## jaegertracing/jaeger <span style='color:#F1C40F'>(19.4K ⭐️)</span>
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/env/keygen_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/895)
+- [[test] Crossdock tests do not need to build Docker images for all architectures](https://github.com/jaegertracing/jaeger/issues/5350)
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/env/backoff_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/894)
+- [es.SamplingStore.CreateTemplates is never called](https://github.com/jaegertracing/jaeger/issues/5333)
 
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/entity/reqres/safe/v1/v1_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/893)
-
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/crypto/key_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/892)
-
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/crypto/decrypt_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/891)
-
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/backoff/timer_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/890)
-
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/core/audit/state/event_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/889)
-
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/app/sentinel/rest/server_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/888)
-
-- [write tests: https://github.com/vmware-tanzu/secrets-manager/blob/main/app/sentinel/rest/safe/post_test.go](https://github.com/vmware-tanzu/secrets-manager/issues/887)
+- [Upgrade google.golang.org 1.63.0](https://github.com/jaegertracing/jaeger/issues/5330)
 
