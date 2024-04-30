@@ -4,31 +4,56 @@
 
 
 
-<div align='center'>Last updated at April 29, 2024 01:48 UTC.</div>
+<div align='center'>Last updated at April 30, 2024 01:49 UTC.</div>
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+## milvus-io/milvus <span style='color:#F1C40F'>(26.9K ⭐️)</span>
 
-- [[Weekly report] Action failed due to message body being too long](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32655)
-
-- [Update weekly report to include waiting-for-code-owners](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32490)
-
-- [[exporter/elasticsearchexporter] Push failures not reported in metrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32302)
+- [[Feature]: Support brew install and brew services](https://github.com/milvus-io/milvus/issues/32445)
 
 
-## apecloud/kubeblocks <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+## kubernetes-sigs/gateway-api <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
-- [[BUG] null pointer error in addon.spec.helm.chartlocationurl](https://github.com/apecloud/kubeblocks/issues/7114)
+- [conformance - HTTPBackendRef Filter HTTPRouteFilterURLRewrite](https://github.com/kubernetes-sigs/gateway-api/issues/2937)
 
-- [[Improvement] doc the API 'backuppolicy.spec.backofflimit` with default value](https://github.com/apecloud/kubeblocks/issues/7122)
+- [conformance - HTTPBackendRef Filter HTTPRouteFilterRequestRedirect](https://github.com/kubernetes-sigs/gateway-api/issues/2936)
 
-- [[Improvement] doc API `opsrequest.spec.restoreSpec.restoreTimeStr`](https://github.com/apecloud/kubeblocks/issues/7031)
 
-- [[Improvement] Create At Most ONE PITR backup for a cluster](https://github.com/apecloud/kubeblocks/issues/6982)
+## flyteorg/flyte <span style='color:#F1C40F'>(4.8K ⭐️)</span>
 
-- [[Improvement] Inconsistent Addons VERSION and PROVIDER.](https://github.com/apecloud/kubeblocks/issues/7007)
+- [Add a securitySchemes to swagger.json](https://github.com/flyteorg/flyte/issues/5160)
 
-- [[Improvement] Addon Controllers should check the version constraint on KB](https://github.com/apecloud/kubeblocks/issues/6981)
+
+## pipe-cd/pipecd <span style='color:#F1C40F'>(960 ⭐️)</span>
+
+- [PipeCD control plane does not work on Arm architecture cluster](https://github.com/pipe-cd/pipecd/issues/4896)
+
+
+## istio/istio <span style='color:#F1C40F'>(35.0K ⭐️)</span>
+
+- [Ambient: should use `istio.io/dataplane-mode=ambient` for enrolling individual pods](https://github.com/istio/istio/issues/50355)
+
+- [sidecar iptables - istio-specific rules should only be inserted into custom chains](https://github.com/istio/istio/issues/50532)
+
+- [istioctl precheck: add unit tests](https://github.com/istio/istio/issues/50255)
+
+
+## crossplane/crossplane <span style='color:#F1C40F'>(8.8K ⭐️)</span>
+
+- [Deploy a provider in a different namespace than the core](https://github.com/crossplane/crossplane/issues/5576)
+
+- [`xpkg login` should support SSO](https://github.com/crossplane/crossplane/issues/5625)
+
+- [Private function pull fails in `crossplane beta render`](https://github.com/crossplane/crossplane/issues/5581)
+
+
+## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.4K ⭐️)</span>
+
+- [Update the Multi-Version tutorial programatically when we run `make generate` ](https://github.com/kubernetes-sigs/kubebuilder/issues/3880)
+
+- [Implement e2e controller tests for the multi-version sample used in the docs ](https://github.com/kubernetes-sigs/kubebuilder/issues/3878)
+
+- [cannot be handled as a CronJob unknown field ](https://github.com/kubernetes-sigs/kubebuilder/issues/3858)
 
 
 ## radius-project/radius <span style='color:#F1C40F'>(1.4K ⭐️)</span>
@@ -38,12 +63,43 @@
 - [rad env delete command removes environment and its deployed applications without confirming](https://github.com/radius-project/radius/issues/7529)
 
 
-## milvus-io/milvus <span style='color:#F1C40F'>(26.9K ⭐️)</span>
+## cnoe-io/idpbuilder <span style='color:#F1C40F'>(120 ⭐️)</span>
 
-- [[Feature]: Support brew install and brew services](https://github.com/milvus-io/milvus/issues/32445)
+- [[Bug]: Cannot git clone a gitea repository using ssh](https://github.com/cnoe-io/idpbuilder/issues/227)
+
+- [use go build ld flags to reduce binary size](https://github.com/cnoe-io/idpbuilder/issues/232)
+
+- [[Doc] Rename the title of the section "Example commands" to "Advanced usage" as it concerns how to use the command "create"](https://github.com/cnoe-io/idpbuilder/issues/225)
+
+
+## onflow/flow-go <span style='color:#F1C40F'>(527 ⭐️)</span>
+
+- [[CI] Address deprecation warnings in Actions](https://github.com/onflow/flow-go/issues/5809)
+
+
+## google/go-github <span style='color:#F1C40F'>(10.1K ⭐️)</span>
+
+- [Can't remove  repository ruleset's every Bypass Actors because of serialization issue](https://github.com/google/go-github/issues/3137)
+
+
+## TBD54566975/tbdex-go <span style='color:#F1C40F'>(1 ⭐️)</span>
+
+- [`Parse` should be a function, not a receiver method for `rfq` and `quote`](https://github.com/TBD54566975/tbdex-go/issues/34)
+
+- [Remove `privateDataStrict` arg from `quote.Parse`](https://github.com/TBD54566975/tbdex-go/issues/33)
+
+- [change `rfq.MessageMetadata` and `quote.MessageMetadata` to `Metadata`](https://github.com/TBD54566975/tbdex-go/issues/32)
+
+- [Remove `quote.ExchangeID` create option](https://github.com/TBD54566975/tbdex-go/issues/31)
 
 
 ## TBD54566975/ftl <span style='color:#F1C40F'>(15 ⭐️)</span>
+
+- [Refactor controller heartbeats to use leases](https://github.com/TBD54566975/ftl/issues/1358)
+
+- [Replace runner reservation transaction with lease](https://github.com/TBD54566975/ftl/issues/1321)
+
+- [`ftl-project.toml` loaded even if a different project file is specified](https://github.com/TBD54566975/ftl/issues/1352)
 
 - [CLI should error if `--config` or `FTL_CONFIG` specifies invalid files](https://github.com/TBD54566975/ftl/issues/1347)
 
@@ -60,42 +116,28 @@
 - [Add `ftl dev --background-after-deploy` or alter existing `--background` to have this behaviour](https://github.com/TBD54566975/ftl/issues/1168)
 
 
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(867 ⭐️)</span>
+## hashicorp/terraform <span style='color:#F1C40F'>(41.2K ⭐️)</span>
 
-- [Delete osmomath.BigDec.ApproxRoot](https://github.com/osmosis-labs/osmosis/issues/8007)
-
-- [Osmosis TokenFactory CLI is missing `MsgSetDenomMetadata`](https://github.com/osmosis-labs/osmosis/issues/7941)
-
-- [[Bug]: TokenFactory CLI --help for `create-denom` is outdated as it includes `(cost osmo though!)`](https://github.com/osmosis-labs/osmosis/issues/7942)
+- [terraform test: produces invalid warning during cleanup phase](https://github.com/hashicorp/terraform/issues/35061)
 
 
-## TwiN/gatus <span style='color:#F1C40F'>(5.4K ⭐️)</span>
+## lightningnetwork/lnd <span style='color:#F1C40F'>(7.5K ⭐️)</span>
 
-- [fix(ssh): Support authless connection](https://github.com/TwiN/gatus/issues/723)
+- [[bug]: InboundFees are overwritten if they were not explicitly specified in lncli](https://github.com/lightningnetwork/lnd/issues/8614)
 
-- [feat(alerting): Overriding telegram id and token](https://github.com/TwiN/gatus/issues/717)
-
-
-## gatewayd-io/gatewayd <span style='color:#F1C40F'>(175 ⭐️)</span>
-
-- [Use Docker Scout in CI/CD workflows](https://github.com/gatewayd-io/gatewayd/issues/510)
+- [[feature]: Append the listchannels command with the short_chan_id representation (XXXX:XX:X) besides the 8 byte integer one.](https://github.com/lightningnetwork/lnd/issues/8650)
 
 
-## open-telemetry/opentelemetry-go <span style='color:#F1C40F'>(4.8K ⭐️)</span>
+## pingcap/tidb <span style='color:#F1C40F'>(36.2K ⭐️)</span>
 
-- [Add README generation to semconv tooling](https://github.com/open-telemetry/opentelemetry-go/issues/5255)
+- ["memory exceeds quota" logs can print detailed sub-trackers](https://github.com/pingcap/tidb/issues/52478)
 
-
-## cloud-ark/kubeplus <span style='color:#F1C40F'>(607 ⭐️)</span>
-
-- [Bulk upgrade test case](https://github.com/cloud-ark/kubeplus/issues/1230)
-
-- [Follow Kubernetes naming convention for service instance names](https://github.com/cloud-ark/kubeplus/issues/1218)
+- [txn: unexpected behavior for point-get and `LOCK IN SHARE MODE`](https://github.com/pingcap/tidb/issues/52432)
 
 
-## google/go-github <span style='color:#F1C40F'>(10.1K ⭐️)</span>
+## Layr-Labs/eigensdk-go <span style='color:#F1C40F'>(51 ⭐️)</span>
 
-- [Can't remove  repository ruleset's every Bypass Actors because of serialization issue](https://github.com/google/go-github/issues/3137)
+- [Change all type aliases to type definitions](https://github.com/Layr-Labs/eigensdk-go/issues/207)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(29.1K ⭐️)</span>
@@ -105,34 +147,92 @@
 - [server: bad certificate error spams the logs](https://github.com/cockroachdb/cockroach/issues/122622)
 
 
-## grafana/mimir <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+## cilium/cilium-cli <span style='color:#F1C40F'>(367 ⭐️)</span>
 
-- [mixin: networking overview renders useless panels for the gateway](https://github.com/grafana/mimir/issues/7911)
-
-
-## sedelinggam/cats-social <span style='color:#F1C40F'>(1 ⭐️)</span>
-
-- [Create ERD for Cats Social](https://github.com/sedelinggam/cats-social/issues/1)
-
-- [[ Match Cat ] Create Match](https://github.com/sedelinggam/cats-social/issues/9)
-
-- [Init Fiber Golang Project](https://github.com/sedelinggam/cats-social/issues/2)
-
-- [[ Manage Cats ] Create Cat](https://github.com/sedelinggam/cats-social/issues/5)
-
-
-## pingcap/tidb <span style='color:#F1C40F'>(36.1K ⭐️)</span>
-
-- [`TestDumpBinaryTime` failed in Egypt time](https://github.com/pingcap/tidb/issues/52345)
-
-- ["memory exceeds quota" logs can print detailed sub-trackers](https://github.com/pingcap/tidb/issues/52478)
-
-- [txn: unexpected behavior for point-get and `LOCK IN SHARE MODE`](https://github.com/pingcap/tidb/issues/52432)
+- [sysdump: don't hardcode custom resource api versions](https://github.com/cilium/cilium-cli/issues/2485)
 
 
 ## wailsapp/wails <span style='color:#F1C40F'>(22.2K ⭐️)</span>
 
 - [Please add Goland support](https://github.com/wailsapp/wails/issues/3409)
+
+
+## infracost/infracost <span style='color:#F1C40F'>(10.3K ⭐️)</span>
+
+- [Add support for some SES and SESv2 resources](https://github.com/infracost/infracost/issues/2998)
+
+
+## kubearmor/KubeArmor <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [kubearmor helm charts on artifacthub ](https://github.com/kubearmor/KubeArmor/issues/1736)
+
+- [Request: support for taints and tolerations to KubeArmor deployments in Helm charts.](https://github.com/kubearmor/KubeArmor/issues/1720)
+
+
+## ethereum/go-ethereum <span style='color:#F1C40F'>(46.1K ⭐️)</span>
+
+- [Beacon root contract in dev mode and private chains](https://github.com/ethereum/go-ethereum/issues/29539)
+
+
+## gofr-dev/gofr <span style='color:#F1C40F'>(928 ⭐️)</span>
+
+- [Update CONTRIBUITON.md to update documentation.](https://github.com/gofr-dev/gofr/issues/537)
+
+- [favicon.ico should be overridable ](https://github.com/gofr-dev/gofr/issues/474)
+
+- [Enhance the DB logs ](https://github.com/gofr-dev/gofr/issues/472)
+
+- [Improve details in debug log for Migrations](https://github.com/gofr-dev/gofr/issues/477)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [Enable `loopvar` feature of go for EG](https://github.com/envoyproxy/gateway/issues/3244)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [[Weekly report] Action failed due to message body being too long](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32655)
+
+- [Update weekly report to include waiting-for-code-owners](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32490)
+
+- [[exporter/elasticsearchexporter] Push failures not reported in metrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32302)
+
+
+## plandex-ai/plandex <span style='color:#F1C40F'>(8.9K ⭐️)</span>
+
+- [Automatic CLI upgrade isn't working in some cases](https://github.com/plandex-ai/plandex/issues/97)
+
+- [prepareEditorCommand doesn't accept arguments](https://github.com/plandex-ai/plandex/issues/98)
+
+- [Make plandex use XDG configuration if it's available](https://github.com/plandex-ai/plandex/issues/7)
+
+- [plandex-server mapping not working as expected](https://github.com/plandex-ai/plandex/issues/9)
+
+
+## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [Log level for errors is "info"](https://github.com/grpc-ecosystem/grpc-gateway/issues/4245)
+
+
+## containers/podman <span style='color:#F1C40F'>(21.7K ⭐️)</span>
+
+- [`docker login` with docker.io creds  "successfully" logs-into `registry.fedoraproject.org` then fails to push to `registry-1.docker.io`](https://github.com/containers/podman/issues/22400)
+
+
+## grafana/alloy <span style='color:#F1C40F'>(726 ⭐️)</span>
+
+- [No error logs when the HTTP server cannot start](https://github.com/grafana/alloy/issues/694)
+
+
+## talostrading/sonic <span style='color:#F1C40F'>(150 ⭐️)</span>
+
+- [Support multishot reads/writes](https://github.com/talostrading/sonic/issues/119)
+
+
+## elastic/beats <span style='color:#F1C40F'>(12.0K ⭐️)</span>
+
+- [Elasticsearch output can report an incorrect count for active events](https://github.com/elastic/beats/issues/39146)
 
 
 ## external-secrets/external-secrets <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -142,11 +242,45 @@
 - [[Docs] GKE Workload Identity has changed](https://github.com/external-secrets/external-secrets/issues/3339)
 
 
-## opentofu/opentofu <span style='color:#F1C40F'>(20.3K ⭐️)</span>
+## zitadel/zitadel <span style='color:#F1C40F'>(7.1K ⭐️)</span>
 
-- [Broken links on website](https://github.com/opentofu/opentofu/issues/1563)
+- [[Bug]: Password complexity not checked on /auth/v1/users/me/password](https://github.com/zitadel/zitadel/issues/7833)
 
-- [Migration guide index page doesn't have a title](https://github.com/opentofu/opentofu/issues/1565)
+- [Log the unique id used for sonyflake in stdout](https://github.com/zitadel/zitadel/issues/7750)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [mixin: networking overview renders useless panels for the gateway](https://github.com/grafana/mimir/issues/7911)
+
+
+## cloud-ark/kubeplus <span style='color:#F1C40F'>(607 ⭐️)</span>
+
+- [Bulk upgrade test case](https://github.com/cloud-ark/kubeplus/issues/1230)
+
+- [Follow Kubernetes naming convention for service instance names](https://github.com/cloud-ark/kubeplus/issues/1218)
+
+
+## clastix/kamaji <span style='color:#F1C40F'>(847 ⭐️)</span>
+
+- [Document NATS limitations](https://github.com/clastix/kamaji/issues/446)
+
+
+## kubernetes-sigs/jobset <span style='color:#F1C40F'>(97 ⭐️)</span>
+
+- [Periodic Jobs for Testing Release Branches](https://github.com/kubernetes-sigs/jobset/issues/524)
+
+
+## cosmos/ibc-go <span style='color:#F1C40F'>(472 ⭐️)</span>
+
+- [Move additional solomachine client state method functionality to light client methods](https://github.com/cosmos/ibc-go/issues/6087)
+
+
+## ovn-org/ovn-kubernetes <span style='color:#F1C40F'>(660 ⭐️)</span>
+
+- [Security, E2E CI: Fix the dependabot PR manually since there are test code changes required](https://github.com/ovn-org/ovn-kubernetes/issues/4310)
+
+- [Investigate if max(fieldmanager) length is less than max(nodename) what happens](https://github.com/ovn-org/ovn-kubernetes/issues/4273)
 
 
 ## argoproj/argo-workflows <span style='color:#F1C40F'>(14.3K ⭐️)</span>
@@ -154,55 +288,24 @@
 - [Clarify docs for CronWorkflow `startingDeadlineSeconds`](https://github.com/argoproj/argo-workflows/issues/12971)
 
 
-## grafana/alloy <span style='color:#F1C40F'>(717 ⭐️)</span>
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(4.9K ⭐️)</span>
 
-- [No error logs when the HTTP server cannot start](https://github.com/grafana/alloy/issues/694)
-
-
-## open-telemetry/opentelemetry-go-contrib <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [otelmux middleware doesn't support websockets](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/5402)
+- [[Question]: Integration with Amazon bedrock issue](https://github.com/k8sgpt-ai/k8sgpt/issues/1076)
 
 
-## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+## kedacore/keda <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
-- [Log level for errors is "info"](https://github.com/grpc-ecosystem/grpc-gateway/issues/4245)
-
-
-## kubeflow/training-operator <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [Update pytorch launcher component in Kubeflow Pipelines repository](https://github.com/kubeflow/training-operator/issues/2068)
+- [Metrics Server: `klogr.New` is deprecated use `textlogger.NewLogger` instead](https://github.com/kedacore/keda/issues/5732)
 
 
-## ethereum/go-ethereum <span style='color:#F1C40F'>(46.1K ⭐️)</span>
+## terraform-linters/tflint <span style='color:#F1C40F'>(4.6K ⭐️)</span>
 
-- [Beacon root contract in dev mode and private chains](https://github.com/ethereum/go-ethereum/issues/29539)
-
-
-## cebilon123/waffle <span style='color:#F1C40F'>(56 ⭐️)</span>
-
-- [Add BPF provider ](https://github.com/cebilon123/waffle/issues/16)
-
-- [Refactor how config and certificates are being read](https://github.com/cebilon123/waffle/issues/15)
+- [Sarif output should use the final schema version](https://github.com/terraform-linters/tflint/issues/2017)
 
 
-## istio/istio <span style='color:#F1C40F'>(35.0K ⭐️)</span>
+## defang-io/defang <span style='color:#F1C40F'>(16 ⭐️)</span>
 
-- [Ambient: should use `istio.io/dataplane-mode=ambient` for enrolling individual pods](https://github.com/istio/istio/issues/50355)
-
-- [sidecar iptables - istio-specific rules should only be inserted into custom chains](https://github.com/istio/istio/issues/50532)
-
-- [istioctl precheck: add unit tests](https://github.com/istio/istio/issues/50255)
-
-
-## containers/podman <span style='color:#F1C40F'>(21.7K ⭐️)</span>
-
-- [`docker login` with docker.io creds  "successfully" logs-into `registry.fedoraproject.org` then fails to push to `registry-1.docker.io`](https://github.com/containers/podman/issues/22400)
-
-
-## gnolang/gno <span style='color:#F1C40F'>(825 ⭐️)</span>
-
-- [print all errors from `scanner.ErrorList` when calling `gno.ParseFile`](https://github.com/gnolang/gno/issues/1933)
+- [C# .NET sample](https://github.com/defang-io/defang/issues/294)
 
 
 ## alexandrevilain/temporal-operator <span style='color:#F1C40F'>(129 ⭐️)</span>
@@ -214,95 +317,28 @@
 - [Allow to use NodePort and LoadBalancer type for deployment ](https://github.com/alexandrevilain/temporal-operator/issues/695)
 
 
-## kubernetes/minikube <span style='color:#F1C40F'>(28.4K ⭐️)</span>
+## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(8.8K ⭐️)</span>
 
-- [`minikube mount` does not work on 6.1.0-20-cloud-amd64 - Detect when OS does not support 9p ](https://github.com/kubernetes/minikube/issues/18724)
+- [Add testing instructions using podman](https://github.com/prometheus-operator/prometheus-operator/issues/6488)
 
+- [Change suffix of testdata that is used as input to `.input`](https://github.com/prometheus-operator/prometheus-operator/issues/6455)
 
-## LinuxSuRen/api-testing <span style='color:#F1C40F'>(183 ⭐️)</span>
-
-- [Add a flag to enable/disable reload mock config automatically](https://github.com/LinuxSuRen/api-testing/issues/409)
-
-- [Support to generator Python code from a HTTP testCase](https://github.com/LinuxSuRen/api-testing/issues/365)
-
-- [Support to view the YAML on the testSuite page](https://github.com/LinuxSuRen/api-testing/issues/393)
-
-- [Create a serviceMonitor in the helm chart](https://github.com/LinuxSuRen/api-testing/issues/358)
+- [Add proxyURL validation for the AlertmanagerConfig CRD.](https://github.com/prometheus-operator/prometheus-operator/issues/6466)
 
 
-## matrixorigin/matrixone <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+## openfga/openfga <span style='color:#F1C40F'>(2.3K ⭐️)</span>
 
-- [[Feature Request]: Implement UNHEX() to replace DECODE("xxx", "hex")](https://github.com/matrixorigin/matrixone/issues/15261)
+- [Improve cyclomatic complexity of func (s *ServerContext) Run(ctx context.Context, config *serverconfig.Config)](https://github.com/openfga/openfga/issues/1575)
 
-- [[Feature Request]:  Support publish/subscribe with tables](https://github.com/matrixorigin/matrixone/issues/15591)
-
-
-## volcano-sh/volcano <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [queue is put back before a job's resource allocating](https://github.com/volcano-sh/volcano/issues/3407)
-
-- [Enhance issue template](https://github.com/volcano-sh/volcano/issues/3420)
-
-- [docs: build custom-plugin in docker not working](https://github.com/volcano-sh/volcano/issues/3385)
+- [Replace `github.com/hashicorp/go-multierror` with `errors.Join`](https://github.com/openfga/openfga/issues/1556)
 
 
-## FerretDB/FerretDB <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+## thanos-io/thanos <span style='color:#F1C40F'>(12.6K ⭐️)</span>
 
-- [batch-size error when using embbeded ferretdb package](https://github.com/FerretDB/FerretDB/issues/4235)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.5K ⭐️)</span>
-
-- [[Enhancement]: r/aws_redshift_cluster_snapshot: Set `arn` attribute from API response](https://github.com/hashicorp/terraform-provider-aws/issues/36915)
-
-- [[Enhancement]: r/aws_quicksight_account_subscription: Add IAM Identity Center Instance ARN argument](https://github.com/hashicorp/terraform-provider-aws/issues/36782)
+- [Ruler UI: `alert.query-template` is not honored inside the Rules UI](https://github.com/thanos-io/thanos/issues/7278)
 
 
-## MassiGy/mmtime <span style='color:#F1C40F'>(1 ⭐️)</span>
-
-- [- Change the logs format to be cleaner (trim after 7chars of the application name or so, or try adding tabs).](https://github.com/MassiGy/mmtime/issues/4)
-
-- [- Maybe make the applet a symlink too to be consistent with what we've did with the mmtime binary. ](https://github.com/MassiGy/mmtime/issues/3)
-
-- [- Change the 'See Stats' menu item action to be more dynamic, do not just read a fixed number of lines.](https://github.com/MassiGy/mmtime/issues/2)
-
-- [- Change the Quit menu item action to be more specific, since right now it just kills all the running yad instances.](https://github.com/MassiGy/mmtime/issues/1)
-
-
-## redis/rueidis <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [Fix IPv6 Handing in IsMoved() and IsAsk()](https://github.com/redis/rueidis/issues/539)
-
-- [Feature: Add the Unit field to rueidiscompat BitCount](https://github.com/redis/rueidis/issues/526)
-
-
-## ayn2op/discordo <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [Can an exit key other than <ctr-c> be added?](https://github.com/ayn2op/discordo/issues/386)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [Enable `loopvar` feature of go for EG](https://github.com/envoyproxy/gateway/issues/3244)
-
-
-## wesql/wescale <span style='color:#F1C40F'>(179 ⭐️)</span>
-
-- [[Enhancement Request] Fine-Grained GTID Support for Improved Read-After-Write Performance](https://github.com/wesql/wescale/issues/472)
-
-- [[Feature Request] Supports 'show create filter [name]' command](https://github.com/wesql/wescale/issues/485)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[Bug]: kubectl cnpg psql doesn't pass `--context` to kubectl](https://github.com/cloudnative-pg/cloudnative-pg/issues/4332)
-
-- [[Feature]: support `allow_alter_system` from PostgreSQL 17](https://github.com/cloudnative-pg/cloudnative-pg/issues/4244)
-
-
-## yonahd/kor <span style='color:#F1C40F'>(868 ⭐️)</span>
-
-- [Chore: Upgrade go to 1.22](https://github.com/yonahd/kor/issues/248)
+## yonahd/kor <span style='color:#F1C40F'>(869 ⭐️)</span>
 
 - [Map false unused resources: Kind](https://github.com/yonahd/kor/issues/235)
 
@@ -317,55 +353,41 @@
 - [Map false unused resources AKS](https://github.com/yonahd/kor/issues/239)
 
 
-## nephio-project/nephio <span style='color:#F1C40F'>(82 ⭐️)</span>
+## ossf/scorecard <span style='color:#F1C40F'>(4.2K ⭐️)</span>
 
-- [Decouple git test server image from porch server image](https://github.com/nephio-project/nephio/issues/600)
+- [Include human friendly links for the GitHub artifacts for Signed-Releases](https://github.com/ossf/scorecard/issues/4030)
 
-- [Support using Gerrit as git repo with Porch](https://github.com/nephio-project/nephio/issues/718)
+- [update the SPDX license list](https://github.com/ossf/scorecard/issues/4031)
 
-- [Implement richer support for referencing packages by URLs](https://github.com/nephio-project/nephio/issues/710)
+- [improve binary artifact and license tests to match other checks](https://github.com/ossf/scorecard/issues/4032)
 
-- [Updates to the content of a PackageRevision should lead to a MODIFIED watch event](https://github.com/nephio-project/nephio/issues/700)
-
-- [function runtimes in porch does not return structured result when rendering a package](https://github.com/nephio-project/nephio/issues/699)
-
-- [Change the k8s resource names of Functions](https://github.com/nephio-project/nephio/issues/692)
-
-- [Blueprint isn't immediately available after creation](https://github.com/nephio-project/nephio/issues/678)
-
-- [All errors should translate to appropriate API-level HTTP statuses](https://github.com/nephio-project/nephio/issues/667)
-
-- [Porch packages can enter a unrecoverable state](https://github.com/nephio-project/nephio/issues/658)
-
-- [Add selector functionality to set-namespace](https://github.com/nephio-project/nephio/issues/633)
-
-- [Better status update on WorkloadIdentityBinding when reconciliation fails](https://github.com/nephio-project/nephio/issues/632)
-
-- [Slight differences in Kptfile upstream formatting with `kpt pkg get` and `kpt alpha rpkg clone`](https://github.com/nephio-project/nephio/issues/631)
-
-- [Move `test-infra` testing yaml resources to `catalog` repository](https://github.com/nephio-project/nephio/issues/593)
+- [Specify a user agent for OSV.dev](https://github.com/ossf/scorecard/issues/4029)
 
 
-## kedacore/keda <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.5K ⭐️)</span>
 
-- [Metrics Server: `klogr.New` is deprecated use `textlogger.NewLogger` instead](https://github.com/kedacore/keda/issues/5732)
+- [[Enhancement]: `d/aws_rds_engine_version`: Add `supports_limitless_database` computed attribute](https://github.com/hashicorp/terraform-provider-aws/issues/37156)
 
+- [[Enhancement]: r/aws_redshift_cluster_snapshot: Set `arn` attribute from API response](https://github.com/hashicorp/terraform-provider-aws/issues/36915)
 
-## go-git/go-git <span style='color:#F1C40F'>(5.5K ⭐️)</span>
-
-- [ When executing worktree.Add("."), an error of "invalid checksum" is reported.](https://github.com/go-git/go-git/issues/1081)
-
-
-## crossplane/crossplane <span style='color:#F1C40F'>(8.8K ⭐️)</span>
-
-- [Deploy a provider in a different namespace than the core](https://github.com/crossplane/crossplane/issues/5576)
-
-- [`xpkg login` should support SSO](https://github.com/crossplane/crossplane/issues/5625)
-
-- [Private function pull fails in `crossplane beta render`](https://github.com/crossplane/crossplane/issues/5581)
+- [[Enhancement]: r/aws_quicksight_account_subscription: Add IAM Identity Center Instance ARN argument](https://github.com/hashicorp/terraform-provider-aws/issues/36782)
 
 
-## mosn/htnn <span style='color:#F1C40F'>(9 ⭐️)</span>
+## jaegertracing/jaeger <span style='color:#F1C40F'>(19.5K ⭐️)</span>
 
-- [Port Envoy Go WAF to the HTNN](https://github.com/mosn/htnn/issues/467)
+- [Migrate from grpc.Dial to grpc.NewClient](https://github.com/jaegertracing/jaeger/issues/5330)
+
+- [[Bug]: Jaeger not respecting JAEGER_DISABLED=true](https://github.com/jaegertracing/jaeger/issues/5385)
+
+- [[test] Crossdock tests do not need to build Docker images for all architectures](https://github.com/jaegertracing/jaeger/issues/5350)
+
+
+## openclarity/vmclarity <span style='color:#F1C40F'>(86 ⭐️)</span>
+
+- [Move Dockerfiles to their respective components](https://github.com/openclarity/vmclarity/issues/1546)
+
+
+## kubernetes/minikube <span style='color:#F1C40F'>(28.4K ⭐️)</span>
+
+- [`minikube mount` does not work on 6.1.0-20-cloud-amd64 - Detect when OS does not support 9p ](https://github.com/kubernetes/minikube/issues/18724)
 
