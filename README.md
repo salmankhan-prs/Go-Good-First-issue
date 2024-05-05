@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at May 4, 2024 01:49 UTC.</div>
+<div align='center'>Last updated at May 5, 2024 01:48 UTC.</div>
 
 
 ## owncast/owncast <span style='color:#F1C40F'>(8.9K ⭐️)</span>
@@ -12,11 +12,233 @@
 - [New offline embed has overflow problems](https://github.com/owncast/owncast/issues/3683)
 
 
+## royiro10/cogo <span style='color:#F1C40F'>(1 ⭐️)</span>
+
+- [Doc: update README.md](https://github.com/royiro10/cogo/issues/24)
+
+- [Chore: Support for Current Working Directory](https://github.com/royiro10/cogo/issues/23)
+
+- [Feature: Installation ](https://github.com/royiro10/cogo/issues/21)
+
+- [Feature: Better Usage msg](https://github.com/royiro10/cogo/issues/22)
+
+- [Feature: Cogo run File Template](https://github.com/royiro10/cogo/issues/20)
+
+- [Feature: Add Status Command](https://github.com/royiro10/cogo/issues/12)
+
+- [Feature: CI Test Stage using Github workflows](https://github.com/royiro10/cogo/issues/19)
+
+- [Feature: Cogpit](https://github.com/royiro10/cogo/issues/18)
+
+- [Test for Daemon: CogoDaemon](https://github.com/royiro10/cogo/issues/16)
+
+- [Tests for Client: CLI](https://github.com/royiro10/cogo/issues/14)
+
+
+## google/go-github <span style='color:#F1C40F'>(10.1K ⭐️)</span>
+
+- [Can't remove  repository ruleset's every Bypass Actors because of serialization issue](https://github.com/google/go-github/issues/3137)
+
+
+## crossplane/crossplane <span style='color:#F1C40F'>(8.8K ⭐️)</span>
+
+- [Private function pull fails in `crossplane beta render`](https://github.com/crossplane/crossplane/issues/5581)
+
+- [Deploy a provider in a different namespace than the core](https://github.com/crossplane/crossplane/issues/5576)
+
+- [`xpkg login` should support SSO](https://github.com/crossplane/crossplane/issues/5625)
+
+
+## TwiN/gatus <span style='color:#F1C40F'>(5.4K ⭐️)</span>
+
+- [fix(ssh): Support authless connection](https://github.com/TwiN/gatus/issues/723)
+
+
 ## istio/istio <span style='color:#F1C40F'>(35.0K ⭐️)</span>
 
 - [sidecar iptables - istio-specific rules should only be inserted into custom chains](https://github.com/istio/istio/issues/50532)
 
-- [istioctl precheck: add unit tests](https://github.com/istio/istio/issues/50255)
+
+## ovn-org/ovn-kubernetes <span style='color:#F1C40F'>(661 ⭐️)</span>
+
+- [Security, E2E CI: Fix the dependabot PR manually since there are test code changes required](https://github.com/ovn-org/ovn-kubernetes/issues/4310)
+
+- [Investigate if max(fieldmanager) length is less than max(nodename) what happens](https://github.com/ovn-org/ovn-kubernetes/issues/4273)
+
+
+## taubyte/tau <span style='color:#F1C40F'>(212 ⭐️)</span>
+
+- [Tests being skipped because TAU_TEST_GIT_TOKEN -> TEST_GIT_TOKEN](https://github.com/taubyte/tau/issues/146)
+
+- [Move vm-core-plugins to tau (pass 1)](https://github.com/taubyte/tau/issues/149)
+
+- [Delete deprecated migration code](https://github.com/taubyte/tau/issues/144)
+
+- [Fix log message that says Odo](https://github.com/taubyte/tau/issues/143)
+
+- [Some clean up](https://github.com/taubyte/tau/issues/142)
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(19.5K ⭐️)</span>
+
+- [Migrate from grpc.Dial to grpc.NewClient](https://github.com/jaegertracing/jaeger/issues/5330)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(29.1K ⭐️)</span>
+
+- [schemachanger: internal error when creating pk from "dropping" col while using comma syntax](https://github.com/cockroachdb/cockroach/issues/122917)
+
+- [o11y: unavailable ranges in console is coloured green](https://github.com/cockroachdb/cockroach/issues/122014)
+
+- [server: bad certificate error spams the logs](https://github.com/cockroachdb/cockroach/issues/122622)
+
+
+## cloud-ark/kubeplus <span style='color:#F1C40F'>(609 ⭐️)</span>
+
+- [Bulk upgrade test case](https://github.com/cloud-ark/kubeplus/issues/1230)
+
+- [Follow Kubernetes naming convention for service instance names](https://github.com/cloud-ark/kubeplus/issues/1218)
+
+
+## symflower/eval-dev-quality <span style='color:#F1C40F'>(21 ⭐️)</span>
+
+- [Do an up-to-date leaderboard/dashboard for current models current evaluation](https://github.com/symflower/eval-dev-quality/issues/26)
+
+
+## kedacore/keda <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Metrics Server: `klogr.New` is deprecated use `textlogger.NewLogger` instead](https://github.com/kedacore/keda/issues/5732)
+
+
+## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [Log level for errors is "info"](https://github.com/grpc-ecosystem/grpc-gateway/issues/4245)
+
+
+## ollama/ollama <span style='color:#F1C40F'>(63.6K ⭐️)</span>
+
+- [Ollama should prevent sleep when working.](https://github.com/ollama/ollama/issues/4072)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(12.6K ⭐️)</span>
+
+- [Ruler UI: `alert.query-template` is not honored inside the Rules UI](https://github.com/thanos-io/thanos/issues/7278)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [[exporter/elasticsearchexporter] Push failures not reported in metrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32302)
+
+- [[extensions/sigv4auth] sigv4auth requires AWS credentials to run 'validate' subcommand](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32214)
+
+- [[Weekly report] Action failed due to message body being too long](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32655)
+
+- [Update weekly report to include waiting-for-code-owners](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32490)
+
+
+## yonahd/kor <span style='color:#F1C40F'>(873 ⭐️)</span>
+
+- [Map false unused resources AKS](https://github.com/yonahd/kor/issues/239)
+
+- [Map false unused resources: K3s](https://github.com/yonahd/kor/issues/259)
+
+- [Map false unused resources: Kind](https://github.com/yonahd/kor/issues/235)
+
+- [Map false unused resources: EKS](https://github.com/yonahd/kor/issues/236)
+
+- [Map false unused resources: Openshift ](https://github.com/yonahd/kor/issues/240)
+
+
+## containers/podman <span style='color:#F1C40F'>(21.8K ⭐️)</span>
+
+- [Outdated documentation: slirp4netns vs pasta](https://github.com/containers/podman/issues/22543)
+
+- [`docker login` with docker.io creds  "successfully" logs-into `registry.fedoraproject.org` then fails to push to `registry-1.docker.io`](https://github.com/containers/podman/issues/22400)
+
+
+## argoproj/argo-workflows <span style='color:#F1C40F'>(14.3K ⭐️)</span>
+
+- [Clarify docs for CronWorkflow `startingDeadlineSeconds`](https://github.com/argoproj/argo-workflows/issues/12971)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(23.3K ⭐️)</span>
+
+- [Service invocation via request header removes trailing slash](https://github.com/dapr/dapr/issues/7686)
+
+- [OpenTelemetry spec v1.10 that Dapr uses needs to be updated to v1.25](https://github.com/dapr/dapr/issues/7703)
+
+
+## openbao/openbao <span style='color:#F1C40F'>(2.3K ⭐️)</span>
+
+- [Broader usage of Paginated Lists](https://github.com/openbao/openbao/issues/271)
+
+
+## keploy/keploy <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [[bug]: no log incase of wrong commands](https://github.com/keploy/keploy/issues/1853)
+
+- [[bug]: Missing 'Explore' Button for Native Integration on Medium and Small Screens](https://github.com/keploy/keploy/issues/1842)
+
+- [[bug]: Content Overlap on Medium Screen Sizes](https://github.com/keploy/keploy/issues/1843)
+
+- [[docs]: Link not working in PyTest documentation](https://github.com/keploy/keploy/issues/1844)
+
+- [[bug]: race condition in keploy record](https://github.com/keploy/keploy/issues/1851)
+
+- [[feature]: add keploy version as comment in tests and mocks generated by keploy](https://github.com/keploy/keploy/issues/1848)
+
+- [[feature]: log time in the cli results after a test run ](https://github.com/keploy/keploy/issues/1826)
+
+- [[refactor]: Remove code block from Keploy developer section in keploy website landing page ](https://github.com/keploy/keploy/issues/1812)
+
+
+## babylonchain/staking-queue-client <span style='color:#F1C40F'>(2 ⭐️)</span>
+
+- [add size restriction when enqueue message](https://github.com/babylonchain/staking-queue-client/issues/9)
+
+- [seperate queue client config for consumer and producer](https://github.com/babylonchain/staking-queue-client/issues/13)
+
+
+## zitadel/zitadel <span style='color:#F1C40F'>(7.1K ⭐️)</span>
+
+- [[Bug]: Zitadel does not honor "Light Mode only" when after user logs in with another browser or in private mode](https://github.com/zitadel/zitadel/issues/7876)
+
+- [[Bug]: Date Picker for PAT expiration date is unusable on Firefox](https://github.com/zitadel/zitadel/issues/7877)
+
+- [Actions - Human readable name vs JS function name](https://github.com/zitadel/zitadel/issues/7874)
+
+- [Log the unique id used for sonyflake in stdout](https://github.com/zitadel/zitadel/issues/7750)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[Bug]: kubectl cnpg psql doesn't pass `--context` to kubectl](https://github.com/cloudnative-pg/cloudnative-pg/issues/4332)
+
+- [[Feature]: support `allow_alter_system` from PostgreSQL 17](https://github.com/cloudnative-pg/cloudnative-pg/issues/4244)
+
+
+## lightningnetwork/lnd <span style='color:#F1C40F'>(7.5K ⭐️)</span>
+
+- [[bug]: Regression: Missing newline in "Shutdown complete" log message](https://github.com/lightningnetwork/lnd/issues/8713)
+
+- [[feature]: Append the listchannels command with the short_chan_id representation (XXXX:XX:X) besides the 8 byte integer one.](https://github.com/lightningnetwork/lnd/issues/8650)
+
+
+## grafana/alloy <span style='color:#F1C40F'>(763 ⭐️)</span>
+
+- [No error logs when the HTTP server cannot start](https://github.com/grafana/alloy/issues/694)
+
+
+## kubernetes-sigs/jobset <span style='color:#F1C40F'>(100 ⭐️)</span>
+
+- [Periodic Jobs for Testing Release Branches](https://github.com/kubernetes-sigs/jobset/issues/524)
+
+
+## flux-iac/tofu-controller <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [Namesapce flux-system is always needed (helm install)](https://github.com/flux-iac/tofu-controller/issues/1286)
+
+- [Documentation: better documentation on the differences between vars and values.](https://github.com/flux-iac/tofu-controller/issues/1279)
 
 
 ## TBD54566975/ftl <span style='color:#F1C40F'>(16 ⭐️)</span>
@@ -39,118 +261,20 @@
 
 - [CLI should error if `--config` or `FTL_CONFIG` specifies invalid files](https://github.com/TBD54566975/ftl/issues/1347)
 
-- [Validate that the secrets and config required by the schema exactly match defined secrets](https://github.com/TBD54566975/ftl/issues/1173)
-
 - [Extend HTTP ingress to support `omitempty`](https://github.com/TBD54566975/ftl/issues/1254)
 
 - [Think about whether events table serves the role of audit logs](https://github.com/TBD54566975/ftl/issues/1236)
 
 - [Write a reaper that periodically cleans `$CACHE/ftl-runner`](https://github.com/TBD54566975/ftl/issues/1234)
 
-- [Replace use of `docker` CLI with Docker API](https://github.com/TBD54566975/ftl/issues/1169)
 
-- [Add `ftl dev --background-after-deploy` or alter existing `--background` to have this behaviour](https://github.com/TBD54566975/ftl/issues/1168)
+## zeta-chain/node <span style='color:#F1C40F'>(148 ⭐️)</span>
 
+- [Rename all `crossChain`/`CrossChain` into `crosschain`/`Crosschain`](https://github.com/zeta-chain/node/issues/2003)
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+- [`OutTxTracker`: rename `TxHashList` into `TxHash`](https://github.com/zeta-chain/node/issues/1995)
 
-- [[exporter/elasticsearchexporter] Push failures not reported in metrics](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32302)
-
-- [[extensions/sigv4auth] sigv4auth requires AWS credentials to run 'validate' subcommand](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32214)
-
-- [[Weekly report] Action failed due to message body being too long](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32655)
-
-- [Update weekly report to include waiting-for-code-owners](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/32490)
-
-
-## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [Log level for errors is "info"](https://github.com/grpc-ecosystem/grpc-gateway/issues/4245)
-
-
-## ollama/ollama <span style='color:#F1C40F'>(63.4K ⭐️)</span>
-
-- [Ollama should prevent sleep when working.](https://github.com/ollama/ollama/issues/4072)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(19.5K ⭐️)</span>
-
-- [Migrate from grpc.Dial to grpc.NewClient](https://github.com/jaegertracing/jaeger/issues/5330)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(29.1K ⭐️)</span>
-
-- [schemachanger: internal error when creating pk from "dropping" col while using comma syntax](https://github.com/cockroachdb/cockroach/issues/122917)
-
-- [o11y: unavailable ranges in console is coloured green](https://github.com/cockroachdb/cockroach/issues/122014)
-
-- [server: bad certificate error spams the logs](https://github.com/cockroachdb/cockroach/issues/122622)
-
-
-## siglens/siglens <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [[STORY] Display error spans in Gantt chart](https://github.com/siglens/siglens/issues/790)
-
-
-## hashicorp/terraform <span style='color:#F1C40F'>(41.2K ⭐️)</span>
-
-- [terraform test: produces invalid warning during cleanup phase](https://github.com/hashicorp/terraform/issues/35061)
-
-
-## googleforgames/agones <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [Fail CI if a PR updates an example without modifying the version](https://github.com/googleforgames/agones/issues/3794)
-
-
-## containers/podman <span style='color:#F1C40F'>(21.8K ⭐️)</span>
-
-- [Outdated documentation: slirp4netns vs pasta](https://github.com/containers/podman/issues/22543)
-
-- [`docker login` with docker.io creds  "successfully" logs-into `registry.fedoraproject.org` then fails to push to `registry-1.docker.io`](https://github.com/containers/podman/issues/22400)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.5K ⭐️)</span>
-
-- [[Docs]: Import existing trail using ARN doesn't work, but it does if the trail name is used](https://github.com/hashicorp/terraform-provider-aws/issues/37179)
-
-- [[Docs]: Unclear documentation on Eventbridge pipe source when using self-managed Kafka](https://github.com/hashicorp/terraform-provider-aws/issues/37181)
-
-- [[Enhancement]: `d/aws_rds_engine_version`: Add `supports_limitless_database` computed attribute](https://github.com/hashicorp/terraform-provider-aws/issues/37156)
-
-- [[Enhancement]: r/aws_redshift_cluster_snapshot: Set `arn` attribute from API response](https://github.com/hashicorp/terraform-provider-aws/issues/36915)
-
-- [[Enhancement]: r/aws_quicksight_account_subscription: Add IAM Identity Center Instance ARN argument](https://github.com/hashicorp/terraform-provider-aws/issues/36782)
-
-
-## flyteorg/flyte <span style='color:#F1C40F'>(4.8K ⭐️)</span>
-
-- [[Core feature] Support patching subworkflows in unit tests](https://github.com/flyteorg/flyte/issues/5312)
-
-
-## ossf/scorecard <span style='color:#F1C40F'>(4.2K ⭐️)</span>
-
-- [Include human friendly links for the GitHub artifacts for Signed-Releases](https://github.com/ossf/scorecard/issues/4030)
-
-- [update the SPDX license list](https://github.com/ossf/scorecard/issues/4031)
-
-- [Specify a user agent for OSV.dev](https://github.com/ossf/scorecard/issues/4029)
-
-
-## osmosis-labs/osmosis <span style='color:#F1C40F'>(868 ⭐️)</span>
-
-- [Broken Links Detected](https://github.com/osmosis-labs/osmosis/issues/8183)
-
-- [Delete osmomath.BigDec.ApproxRoot](https://github.com/osmosis-labs/osmosis/issues/8007)
-
-
-## openbao/openbao <span style='color:#F1C40F'>(2.2K ⭐️)</span>
-
-- [Broader usage of Paginated Lists](https://github.com/openbao/openbao/issues/271)
-
-
-## grafana/tempo <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Autocomplete regex several issues](https://github.com/grafana/tempo/issues/3635)
+- [Replace all `cosmoserror.Wrap(types.Err[...], "...")` by `types.Err[...].Wrap(...)`](https://github.com/zeta-chain/node/issues/1991)
 
 
 ## ethereum/go-ethereum <span style='color:#F1C40F'>(46.2K ⭐️)</span>
@@ -158,119 +282,15 @@
 - [Beacon root contract in dev mode and private chains](https://github.com/ethereum/go-ethereum/issues/29539)
 
 
-## dolthub/dolt <span style='color:#F1C40F'>(17.0K ⭐️)</span>
+## gofr-dev/gofr <span style='color:#F1C40F'>(966 ⭐️)</span>
 
-- [`dolt diff --stat -r sql` is unimplemented](https://github.com/dolthub/dolt/issues/7817)
+- [Enhance the DB logs ](https://github.com/gofr-dev/gofr/issues/472)
 
+- [Update CONTRIBUITON.md to update documentation.](https://github.com/gofr-dev/gofr/issues/537)
 
-## radius-project/radius <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+- [Improve details in debug log for Migrations](https://github.com/gofr-dev/gofr/issues/477)
 
-- [migrate golang/mock to uber-go/mock](https://github.com/radius-project/radius/issues/7543)
-
-- [rad env delete command removes environment and its deployed applications without confirming](https://github.com/radius-project/radius/issues/7529)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.4K ⭐️)</span>
-
-- [azurerm_postgresql_flexible_server example config costs 484 USD/month](https://github.com/hashicorp/terraform-provider-azurerm/issues/25806)
-
-- [Docs says to use TerraformTaskV4@4 task but provides no details and pipeline editor says it does not exist](https://github.com/hashicorp/terraform-provider-azurerm/issues/25638)
-
-- [azurerm_storage_table data source](https://github.com/hashicorp/terraform-provider-azurerm/issues/25562)
-
-
-## grafana/alloy <span style='color:#F1C40F'>(760 ⭐️)</span>
-
-- [No error logs when the HTTP server cannot start](https://github.com/grafana/alloy/issues/694)
-
-
-## Layr-Labs/eigensdk-go <span style='color:#F1C40F'>(51 ⭐️)</span>
-
-- [Change all type aliases to type definitions](https://github.com/Layr-Labs/eigensdk-go/issues/207)
-
-
-## external-secrets/external-secrets <span style='color:#F1C40F'>(3.9K ⭐️)</span>
-
-- [Expose logging options like human readable verbose and json format in values.yaml](https://github.com/external-secrets/external-secrets/issues/3440)
-
-- [Specify location on Secret Store for pushing secrets](https://github.com/external-secrets/external-secrets/issues/3354)
-
-- [docs are showing old links in the upper tabs and we need to remove that](https://github.com/external-secrets/external-secrets/issues/3362)
-
-- [Bound finalizer from Secret Stores to PushSecrets if DeletionPolicy == Delete](https://github.com/external-secrets/external-secrets/issues/3411)
-
-- [Add `SecureString` for `PushString` to AWS Parameter Store](https://github.com/external-secrets/external-secrets/issues/3422)
-
-- [AWS SM PushSecret creates new version w/ every refresh cycle with secretPushFormat "string"](https://github.com/external-secrets/external-secrets/issues/3436)
-
-- [[Docs] GKE Workload Identity has changed](https://github.com/external-secrets/external-secrets/issues/3339)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [mimirtool load rules not working with api.prometheus_http_prefix different than /prometheus](https://github.com/grafana/mimir/issues/8018)
-
-- [mixin: networking overview renders useless panels for the gateway](https://github.com/grafana/mimir/issues/7911)
-
-
-## opentofu/opentofu <span style='color:#F1C40F'>(20.6K ⭐️)</span>
-
-- [Migration guide index page doesn't have a title](https://github.com/opentofu/opentofu/issues/1565)
-
-- [Broken links on website](https://github.com/opentofu/opentofu/issues/1563)
-
-
-## microsoft/retina <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [Repeated logs in plugins](https://github.com/microsoft/retina/issues/319)
-
-- [ideally agent's init container enables telemetry based on ConfigMap flag](https://github.com/microsoft/retina/issues/339)
-
-- [Prometheus metrics build info: `retina_build_info`](https://github.com/microsoft/retina/issues/338)
-
-- [Introduce staging tiers for plugns](https://github.com/microsoft/retina/issues/318)
-
-- [Capture Manager should use contexts](https://github.com/microsoft/retina/issues/317)
-
-- [log: fix "unsupported value" error in a log line](https://github.com/microsoft/retina/issues/309)
-
-- [Feature Request: Outputting the .tar FileName as part of Retina Output please. ☕️](https://github.com/microsoft/retina/issues/286)
-
-- [prevent the potential for misconfiguration of MetricsInterval](https://github.com/microsoft/retina/issues/284)
-
-- [deps: bump DavidAnson/markdownlint-cli2-action from 9 to 16](https://github.com/microsoft/retina/pull/244)
-
-- [Most or all metrics exported by Retina should be counters, not gauges](https://github.com/microsoft/retina/issues/237)
-
-
-## RamenDR/ramen <span style='color:#F1C40F'>(68 ⭐️)</span>
-
-- [drenv addons: Warning: 'patchesJson6902' is deprecated. Please use 'patches' instead. Run 'kustomize edit fix' to update your Kustomization automatically.](https://github.com/RamenDR/ramen/issues/1336)
-
-
-## openfga/openfga <span style='color:#F1C40F'>(2.3K ⭐️)</span>
-
-- [Improve cyclomatic complexity of func (s *ServerContext) Run(ctx context.Context, config *serverconfig.Config)](https://github.com/openfga/openfga/issues/1575)
-
-
-## artefactual-sdps/enduro <span style='color:#F1C40F'>(4 ⭐️)</span>
-
-- [Problem: Enduro UI does not use ISO standards for date formatting](https://github.com/artefactual-sdps/enduro/issues/933)
-
-
-## solo-io/gloo <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [More detailed proxy latency docs](https://github.com/solo-io/gloo/issues/9333)
-
-
-## wailsapp/wails <span style='color:#F1C40F'>(22.3K ⭐️)</span>
-
-- [Please add Goland support](https://github.com/wailsapp/wails/issues/3409)
-
-
-## google/go-github <span style='color:#F1C40F'>(10.1K ⭐️)</span>
-
-- [Can't remove  repository ruleset's every Bypass Actors because of serialization issue](https://github.com/google/go-github/issues/3137)
+- [favicon.ico should be overridable ](https://github.com/gofr-dev/gofr/issues/474)
 
 
 ## gnolang/gno <span style='color:#F1C40F'>(827 ⭐️)</span>
@@ -280,54 +300,12 @@
 - [print all errors from `scanner.ErrorList` when calling `gno.ParseFile`](https://github.com/gnolang/gno/issues/1933)
 
 
-## NethermindEth/cairo-vm-go <span style='color:#F1C40F'>(66 ⭐️)</span>
-
-- [Move GetConsecutiveValues functionality to memory package](https://github.com/NethermindEth/cairo-vm-go/issues/384)
-
-- [Create a structure for Scope value types instead of using interface](https://github.com/NethermindEth/cairo-vm-go/issues/347)
-
-- [Resolve as BigInt3 structure](https://github.com/NethermindEth/cairo-vm-go/issues/346)
-
-- [Initialize scopes when creating hint context](https://github.com/NethermindEth/cairo-vm-go/issues/345)
-
-
-## openclarity/vmclarity <span style='color:#F1C40F'>(86 ⭐️)</span>
-
-- [Move Dockerfiles to their respective components](https://github.com/openclarity/vmclarity/issues/1546)
-
-
-## nginxinc/kubernetes-ingress <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [Collect whether the deployment is using nginx plus or not](https://github.com/nginxinc/kubernetes-ingress/issues/5419)
-
-- [Identify potential memory leaks in our goroutines using `uber-go/goleak`](https://github.com/nginxinc/kubernetes-ingress/issues/5373)
-
-
 ## elastic/beats <span style='color:#F1C40F'>(12.0K ⭐️)</span>
 
 - [Elasticsearch output can report an incorrect count for active events](https://github.com/elastic/beats/issues/39146)
 
 
-## royiro10/cogo <span style='color:#F1C40F'>(1 ⭐️)</span>
+## litmuschaos/litmus <span style='color:#F1C40F'>(4.2K ⭐️)</span>
 
-- [Feature: Installation ](https://github.com/royiro10/cogo/issues/21)
-
-- [Feature: Better Usage msg](https://github.com/royiro10/cogo/issues/22)
-
-- [Feature: Cogo run File Template](https://github.com/royiro10/cogo/issues/20)
-
-- [Feature: Add Status Command](https://github.com/royiro10/cogo/issues/12)
-
-- [Feature: CI Test Stage using Github workflows](https://github.com/royiro10/cogo/issues/19)
-
-- [Feature: Cogpit](https://github.com/royiro10/cogo/issues/18)
-
-- [Test for Daemon: CogoDaemon](https://github.com/royiro10/cogo/issues/16)
-
-- [Tests for Client: CLI](https://github.com/royiro10/cogo/issues/14)
-
-
-## kubernetes-sigs/jobset <span style='color:#F1C40F'>(99 ⭐️)</span>
-
-- [Periodic Jobs for Testing Release Branches](https://github.com/kubernetes-sigs/jobset/issues/524)
+- [Hide the 'cluster-wide access infrastructure' option when ChaosCenter is namespaced scope](https://github.com/litmuschaos/litmus/issues/4612)
 
