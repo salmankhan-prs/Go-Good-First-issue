@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at October 12, 2024 23:01 UTC.</div>
+<div align='center'>Last updated at October 13, 2024 00:01 UTC.</div>
+
+
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(4.3K ⭐️)</span>
+
+- [Deprecate and remove processorhelper.BuildCustomMetricName](https://github.com/open-telemetry/opentelemetry-collector/issues/11302)
 
 
 ## AvitalTamir/cyphernetes <span style='color:#F1C40F'>(363 ⭐️)</span>
@@ -110,11 +115,6 @@
 - [Relax validation on sectionName with `kind: MeshService`](https://github.com/kumahq/kuma/issues/11572)
 
 
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(4.3K ⭐️)</span>
-
-- [Deprecate and remove processorhelper.BuildCustomMetricName](https://github.com/open-telemetry/opentelemetry-collector/issues/11302)
-
-
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(4.2K ⭐️)</span>
 
 - [Show WP version pipeline was run on](https://github.com/woodpecker-ci/woodpecker/issues/4204)
@@ -211,7 +211,7 @@
 - [[feature]: sync default config with the latest fields ](https://github.com/keploy/keploy/issues/2303)
 
 
-## Project-HAMi/HAMi <span style='color:#F1C40F'>(727 ⭐️)</span>
+## Project-HAMi/HAMi <span style='color:#F1C40F'>(728 ⭐️)</span>
 
 - [Fix code scanning alert - encoding/gob: golang: Calling Decoder.Decode on a message which contains deeply nested structures...](https://github.com/Project-HAMi/HAMi/issues/554)
 
