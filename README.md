@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at October 13, 2024 23:00 UTC.</div>
+<div align='center'>Last updated at October 14, 2024 00:01 UTC.</div>
 
 
 ## loxilb-io/loxilb <span style='color:#F1C40F'>(1.4K ⭐️)</span>
@@ -197,6 +197,11 @@
 - [Feature Request: honour CI debugging flags](https://github.com/updatecli/updatecli/issues/2805)
 
 
+## linkerd/linkerd2 <span style='color:#F1C40F'>(10.6K ⭐️)</span>
+
+- [proxy-injector doesn't respect JSON logging configuration for all log messages](https://github.com/linkerd/linkerd2/issues/13168)
+
+
 ## tailscale/tailscale <span style='color:#F1C40F'>(18.9K ⭐️)</span>
 
 - [Validate that tailscale.com/tailnet-ip annotation for the Kubernetes operator egress proxies contains a valid IP address](https://github.com/tailscale/tailscale/issues/13671)
@@ -324,4 +329,35 @@
 ## wailsapp/wails <span style='color:#F1C40F'>(24.9K ⭐️)</span>
 
 - [Webview failed to set AllowExternalDrag to false on Win 10 ( after cross compile on macOS) ](https://github.com/wailsapp/wails/issues/3782)
+
+
+## anywherelan/awl <span style='color:#F1C40F'>(406 ⭐️)</span>
+
+- [Update to latest Flutter, migrate to Material 3](https://github.com/anywherelan/awl/issues/142)
+
+
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(4.2K ⭐️)</span>
+
+- [Show WP version pipeline was run on](https://github.com/woodpecker-ci/woodpecker/issues/4204)
+
+- [ci: fail if feature has no docs](https://github.com/woodpecker-ci/woodpecker/issues/4147)
+
+- [ui bug: moving woodpecker has hidden parts](https://github.com/woodpecker-ci/woodpecker/issues/4133)
+
+
+## juanfont/headscale <span style='color:#F1C40F'>(22.8K ⭐️)</span>
+
+- [[Feature] Setting DisplayName and ProfilePicURL for headscale users](https://github.com/juanfont/headscale/issues/2166)
+
+
+## coder/coder <span style='color:#F1C40F'>(8.1K ⭐️)</span>
+
+- [Notifications: verify rendered action](https://github.com/coder/coder/issues/14913)
+
+- [Notifications: improve wording](https://github.com/coder/coder/issues/14893)
+
+
+## pactus-project/pactus <span style='color:#F1C40F'>(187 ⭐️)</span>
+
+- [Sign and verify message by ed25519](https://github.com/pactus-project/pactus/issues/1549)
 
