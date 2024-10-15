@@ -4,7 +4,38 @@
 
 
 
-<div align='center'>Last updated at October 14, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at October 15, 2024 00:01 UTC.</div>
+
+
+## kubernetes/kubernetes <span style='color:#F1C40F'>(110.4K ⭐️)</span>
+
+- [integrate kubelet with the systemd watchdog](https://github.com/kubernetes/kubernetes/issues/127460)
+
+
+## openbao/openbao <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Broader usage of Transactions](https://github.com/openbao/openbao/issues/607)
+
+- [Update of RPM package overwrites existing configuration files](https://github.com/openbao/openbao/issues/599)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(30.0K ⭐️)</span>
+
+- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
+
+- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
+
+- [sql/schema: add a NOTICE that a table created using CREATE TABLE AS does not inherit the primary key](https://github.com/cockroachdb/cockroach/issues/131675)
+
+
+## robinje/multi-user-dungeon <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [Interactive Password Change](https://github.com/robinje/multi-user-dungeon/issues/201)
+
+
+## dapr/components-contrib <span style='color:#F1C40F'>(545 ⭐️)</span>
+
+- [Azure Queue: InitialVisibilityDelay option](https://github.com/dapr/components-contrib/issues/3555)
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(20.3K ⭐️)</span>
@@ -30,20 +61,6 @@
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [`send_quiet` is not working for `container` operator](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35726)
-
-
-## kubernetes/kubernetes <span style='color:#F1C40F'>(110.4K ⭐️)</span>
-
-- [integrate kubelet with the systemd watchdog](https://github.com/kubernetes/kubernetes/issues/127460)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(30.0K ⭐️)</span>
-
-- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
-
-- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
-
-- [sql/schema: add a NOTICE that a table created using CREATE TABLE AS does not inherit the primary key](https://github.com/cockroachdb/cockroach/issues/131675)
 
 
 ## updatecli/updatecli <span style='color:#F1C40F'>(559 ⭐️)</span>
@@ -108,19 +125,9 @@
 - [Geth Discv5 P2P Analysis and Testing](https://github.com/omni-network/omni/issues/2069)
 
 
-## robinje/multi-user-dungeon <span style='color:#F1C40F'>(3 ⭐️)</span>
-
-- [Interactive Password Change](https://github.com/robinje/multi-user-dungeon/issues/201)
-
-
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.8K ⭐️)</span>
 
 - [[Enhancement]: Add Memory capability to aws_bedrockagent_agent resource](https://github.com/hashicorp/terraform-provider-aws/issues/39626)
-
-
-## dapr/components-contrib <span style='color:#F1C40F'>(545 ⭐️)</span>
-
-- [Azure Queue: InitialVisibilityDelay option](https://github.com/dapr/components-contrib/issues/3555)
 
 
 ## recursecenter/pairing-bot <span style='color:#F1C40F'>(21 ⭐️)</span>
@@ -184,13 +191,6 @@
 ## radius-project/radius <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [Add more detail to rad install kubernetes doc](https://github.com/radius-project/radius/issues/7968)
-
-
-## openbao/openbao <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Broader usage of Transactions](https://github.com/openbao/openbao/issues/607)
-
-- [Update of RPM package overwrites existing configuration files](https://github.com/openbao/openbao/issues/599)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(344 ⭐️)</span>
@@ -375,14 +375,4 @@
 - [Update python version for CI](https://github.com/RamenDR/ramen/issues/1586)
 
 - [drenv macOS:  your configuration file uses a deprecated API spec](https://github.com/RamenDR/ramen/issues/1567)
-
-
-## cnoe-io/idpbuilder <span style='color:#F1C40F'>(179 ⭐️)</span>
-
-- [Document the tls insecure flag for the Gitea registry](https://github.com/cnoe-io/idpbuilder/issues/391)
-
-
-## databricks/cli <span style='color:#F1C40F'>(136 ⭐️)</span>
-
-- [Add a terminate clusters subcommand as alias](https://github.com/databricks/cli/issues/1804)
 
