@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at October 15, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at October 16, 2024 00:03 UTC.</div>
+
+
+## dapr/dapr <span style='color:#F1C40F'>(23.9K ⭐️)</span>
+
+- [Jobs API Metrics](https://github.com/dapr/dapr/issues/8160)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Add support for with_request_body in SecurityPolicy.spec.extAuth](https://github.com/envoyproxy/gateway/issues/4431)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(30.0K ⭐️)</span>
+
+- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
+
+- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
+
+- [sql/schema: add a NOTICE that a table created using CREATE TABLE AS does not inherit the primary key](https://github.com/cockroachdb/cockroach/issues/131675)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -17,13 +36,11 @@
 - [ArgoCD should support `helm template --skip-tests`](https://github.com/argoproj/argo-cd/issues/19956)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(30.0K ⭐️)</span>
+## openbao/openbao <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
-- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
+- [Broader usage of Transactions](https://github.com/openbao/openbao/issues/607)
 
-- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
-
-- [sql/schema: add a NOTICE that a table created using CREATE TABLE AS does not inherit the primary key](https://github.com/cockroachdb/cockroach/issues/131675)
+- [Update of RPM package overwrites existing configuration files](https://github.com/openbao/openbao/issues/599)
 
 
 ## containers/podman <span style='color:#F1C40F'>(23.5K ⭐️)</span>
@@ -97,11 +114,6 @@
 - [Validate that tailscale.com/tailnet-ip annotation for the Kubernetes operator egress proxies contains a valid IP address](https://github.com/tailscale/tailscale/issues/13671)
 
 
-## dapr/dapr <span style='color:#F1C40F'>(23.9K ⭐️)</span>
-
-- [Jobs API Metrics](https://github.com/dapr/dapr/issues/8160)
-
-
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(4.4K ⭐️)</span>
 
 - [Deprecate and remove processorhelper.BuildCustomMetricName](https://github.com/open-telemetry/opentelemetry-collector/issues/11302)
@@ -120,11 +132,6 @@
 ## numaproj/numaflow <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [more type-safe version compatibility check for monovertex](https://github.com/numaproj/numaflow/issues/2076)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Add support for with_request_body in SecurityPolicy.spec.extAuth](https://github.com/envoyproxy/gateway/issues/4431)
 
 
 ## owncast/owncast <span style='color:#F1C40F'>(9.4K ⭐️)</span>
@@ -345,11 +352,4 @@
 - [Invalid use of noopHost in prod code](https://github.com/jaegertracing/jaeger/issues/6049)
 
 - [[query] Switch to use OTEL's http/grpc servers](https://github.com/jaegertracing/jaeger/issues/6026)
-
-
-## openbao/openbao <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Broader usage of Transactions](https://github.com/openbao/openbao/issues/607)
-
-- [Update of RPM package overwrites existing configuration files](https://github.com/openbao/openbao/issues/599)
 
