@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at October 16, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at October 17, 2024 00:02 UTC.</div>
+
+
+## lima-vm/lima <span style='color:#F1C40F'>(15.2K ⭐️)</span>
+
+- [`hack/test-port-forwarding.pl` should print a human-readable error when `nc` is not installed on the host](https://github.com/lima-vm/lima/issues/2707)
+
+- [website: npm lacks lock](https://github.com/lima-vm/lima/issues/2749)
+
+
+## ray-project/kuberay <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [[Feature][kubectl-plugin] Also show kuberay operator version in kubectl ray version command](https://github.com/ray-project/kuberay/issues/2439)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(19.0K ⭐️)</span>
+
+- [Validate that tailscale.com/tailnet-ip annotation for the Kubernetes operator egress proxies contains a valid IP address](https://github.com/tailscale/tailscale/issues/13671)
 
 
 ## coder/coder <span style='color:#F1C40F'>(8.1K ⭐️)</span>
@@ -31,6 +48,11 @@
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.8K ⭐️)</span>
 
 - [[Enhancement]: Add Memory capability to aws_bedrockagent_agent resource](https://github.com/hashicorp/terraform-provider-aws/issues/39626)
+
+
+## taubyte/tau <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [[upx] Create a cross platform upx tool](https://github.com/taubyte/tau/issues/250)
 
 
 ## owncast/owncast <span style='color:#F1C40F'>(9.4K ⭐️)</span>
@@ -91,11 +113,6 @@
 - [Give Agent a name in the logs to filter out logs related to experiments](https://github.com/jlewi/foyle/issues/280)
 
 
-## ray-project/kuberay <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [[Feature][kubectl-plugin] Also show kuberay operator version in kubectl ray version command](https://github.com/ray-project/kuberay/issues/2439)
-
-
 ## gittuf/gittuf <span style='color:#F1C40F'>(455 ⭐️)</span>
 
 - [gittuf-git: Add test cases for `cmd`](https://github.com/gittuf/gittuf/issues/591)
@@ -125,11 +142,6 @@
 - [Certificate generation should respect the state of the webhooks](https://github.com/kedacore/keda/issues/6184)
 
 
-## taubyte/tau <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [[upx] Create a cross platform upx tool](https://github.com/taubyte/tau/issues/250)
-
-
 ## omni-network/omni <span style='color:#F1C40F'>(85 ⭐️)</span>
 
 - [Decrease xchain rpc requests by using batching](https://github.com/omni-network/omni/issues/1899)
@@ -146,11 +158,6 @@
 ## hashicorp/nomad <span style='color:#F1C40F'>(14.9K ⭐️)</span>
 
 - [unclear message in task event from executor crash](https://github.com/hashicorp/nomad/issues/24220)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(19.0K ⭐️)</span>
-
-- [Validate that tailscale.com/tailnet-ip annotation for the Kubernetes operator egress proxies contains a valid IP address](https://github.com/tailscale/tailscale/issues/13671)
 
 
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(345 ⭐️)</span>
@@ -370,9 +377,4 @@
 - [add -update command](https://github.com/osteensco/fastTravelCLI/issues/16)
 
 - [Improve Testing](https://github.com/osteensco/fastTravelCLI/issues/14)
-
-
-## testcontainers/testcontainers-go <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [[Enhancement]: use testify's require instead of assert.](https://github.com/testcontainers/testcontainers-go/issues/2808)
 
