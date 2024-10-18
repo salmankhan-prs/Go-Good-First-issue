@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at October 17, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at October 18, 2024 00:02 UTC.</div>
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [Documentation for azurerm_role_definition doesn't show Management Group Support](https://github.com/hashicorp/terraform-provider-azurerm/issues/27565)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(30.0K ⭐️)</span>
@@ -14,6 +19,15 @@
 - [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
 
 - [sql/schema: add a NOTICE that a table created using CREATE TABLE AS does not inherit the primary key](https://github.com/cockroachdb/cockroach/issues/131675)
+
+
+## jlewi/foyle <span style='color:#F1C40F'>(100 ⭐️)</span>
+
+- [Style <example> and <input> in our evaluation reports](https://github.com/jlewi/foyle/issues/289)
+
+- [LLM As Judge should describe programs as expected and actual](https://github.com/jlewi/foyle/issues/287)
+
+- [Give Agent a name in the logs to filter out logs related to experiments](https://github.com/jlewi/foyle/issues/280)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(19.0K ⭐️)</span>
@@ -166,11 +180,6 @@
 - [Docs feedback: Syntax is seemingly undocumented](https://github.com/grafana/alloy/issues/1872)
 
 - [Adopt the new Github exporter from OTEL Collector into Alloy](https://github.com/grafana/alloy/issues/1702)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [Documentation for azurerm_role_definition doesn't show Management Group Support](https://github.com/hashicorp/terraform-provider-azurerm/issues/27565)
 
 
 ## metacontroller/metacontroller <span style='color:#F1C40F'>(859 ⭐️)</span>
@@ -356,11 +365,4 @@
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [[Bug]: Make `color` argument of kubectl cnpg a global variable](https://github.com/cloudnative-pg/cloudnative-pg/issues/5849)
-
-
-## RamenDR/ramen <span style='color:#F1C40F'>(73 ⭐️)</span>
-
-- [Update python version for CI](https://github.com/RamenDR/ramen/issues/1586)
-
-- [drenv macOS:  your configuration file uses a deprecated API spec](https://github.com/RamenDR/ramen/issues/1567)
 
