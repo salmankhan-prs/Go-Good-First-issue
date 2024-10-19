@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at October 18, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at October 19, 2024 00:02 UTC.</div>
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
+
+
+## kopia/kopia <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [Multiline text field for Kopia Actions in UI (web + desktop)](https://github.com/kopia/kopia/issues/4179)
 
 
 ## lima-vm/lima <span style='color:#F1C40F'>(15.2K ⭐️)</span>
@@ -15,11 +25,6 @@
 ## dapr/dapr <span style='color:#F1C40F'>(24.0K ⭐️)</span>
 
 - [Jobs API Metrics](https://github.com/dapr/dapr/issues/8160)
-
-
-## flyteorg/flyte <span style='color:#F1C40F'>(5.7K ⭐️)</span>
-
-- [[Docs] Update logging links documentation for Cloudwatch](https://github.com/flyteorg/flyte/issues/5760)
 
 
 ## kubernetes-sigs/aws-load-balancer-controller <span style='color:#F1C40F'>(3.9K ⭐️)</span>
@@ -200,11 +205,6 @@
 - [Check RayJob `ray job submit` can successfully create a job by running it in the head Pod in the corresponding RayCluster](https://github.com/ray-project/kuberay/issues/2452)
 
 - [[Feature][kubectl-plugin] Also show kuberay operator version in kubectl ray version command](https://github.com/ray-project/kuberay/issues/2439)
-
-
-## kopia/kopia <span style='color:#F1C40F'>(7.7K ⭐️)</span>
-
-- [Multiline text field for Kopia Actions in UI (web + desktop)](https://github.com/kopia/kopia/issues/4179)
 
 
 ## containers/podman <span style='color:#F1C40F'>(23.5K ⭐️)</span>
