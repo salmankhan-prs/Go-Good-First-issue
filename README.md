@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at October 19, 2024 23:01 UTC.</div>
+<div align='center'>Last updated at October 20, 2024 00:02 UTC.</div>
+
+
+## celestiaorg/celestia-node <span style='color:#F1C40F'>(924 ⭐️)</span>
+
+- [share/ipld: newProofCollector should use bits.Len instead of math.Log2 just in case](https://github.com/celestiaorg/celestia-node/issues/3852)
+
+
+## robinje/multi-user-dungeon <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [Interactive Password Change](https://github.com/robinje/multi-user-dungeon/issues/201)
 
 
 ## owncast/owncast <span style='color:#F1C40F'>(9.4K ⭐️)</span>
@@ -61,11 +71,6 @@
 ## anywherelan/awl <span style='color:#F1C40F'>(406 ⭐️)</span>
 
 - [Update to latest Flutter, migrate to Material 3](https://github.com/anywherelan/awl/issues/142)
-
-
-## celestiaorg/celestia-node <span style='color:#F1C40F'>(924 ⭐️)</span>
-
-- [share/ipld: newProofCollector should use bits.Len instead of math.Log2 just in case](https://github.com/celestiaorg/celestia-node/issues/3852)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(17.7K ⭐️)</span>
