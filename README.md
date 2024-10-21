@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at October 20, 2024 23:01 UTC.</div>
+<div align='center'>Last updated at October 21, 2024 00:01 UTC.</div>
 
 
 ## owncast/owncast <span style='color:#F1C40F'>(9.4K ⭐️)</span>
