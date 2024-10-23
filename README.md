@@ -4,7 +4,47 @@
 
 
 
-<div align='center'>Last updated at October 22, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at October 23, 2024 00:02 UTC.</div>
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
+
+- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
+
+- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
+
+- [sql/schema: add a NOTICE that a table created using CREATE TABLE AS does not inherit the primary key](https://github.com/cockroachdb/cockroach/issues/131675)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
+
+
+## owncast/owncast <span style='color:#F1C40F'>(9.4K ⭐️)</span>
+
+- [Update React components to not use defaultProps](https://github.com/owncast/owncast/issues/3953)
+
+- [Add support for translations in the web project](https://github.com/owncast/owncast/issues/3950)
+
+- [Documentation broken link: https://dev.maxmind.com/geoip/geoip2/geolite2/](https://github.com/owncast/owncast/issues/3960)
+
+- [There is no list of features for Owncast](https://github.com/owncast/owncast/issues/3934)
+
+
+## ipfs/kubo <span style='color:#F1C40F'>(16.1K ⭐️)</span>
+
+- [Missing support fr RPC API over HTTPS](https://github.com/ipfs/kubo/issues/10539)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(6.2K ⭐️)</span>
+
+- [Missing validations and implementation in x/circuit](https://github.com/cosmos/cosmos-sdk/issues/22322)
+
+
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(4.4K ⭐️)</span>
+
+- [Deprecate and remove processorhelper.BuildCustomMetricName](https://github.com/open-telemetry/opentelemetry-collector/issues/11302)
 
 
 ## omni-network/omni <span style='color:#F1C40F'>(85 ⭐️)</span>
@@ -52,11 +92,6 @@
 ## kubernetes-sigs/secrets-store-sync-controller <span style='color:#F1C40F'>(15 ⭐️)</span>
 
 - [Inconsistency between README instructions and Makefile output](https://github.com/kubernetes-sigs/secrets-store-sync-controller/issues/86)
-
-
-## ipfs/kubo <span style='color:#F1C40F'>(16.1K ⭐️)</span>
-
-- [Missing support fr RPC API over HTTPS](https://github.com/ipfs/kubo/issues/10539)
 
 
 ## DiceDB/dice <span style='color:#F1C40F'>(6.5K ⭐️)</span>
@@ -111,15 +146,6 @@
 ## istio/istio <span style='color:#F1C40F'>(35.9K ⭐️)</span>
 
 - [Add custom headers on invalid token](https://github.com/istio/istio/issues/53559)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(30.0K ⭐️)</span>
-
-- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
-
-- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
-
-- [sql/schema: add a NOTICE that a table created using CREATE TABLE AS does not inherit the primary key](https://github.com/cockroachdb/cockroach/issues/131675)
 
 
 ## filecoin-project/lotus <span style='color:#F1C40F'>(2.8K ⭐️)</span>
@@ -234,11 +260,6 @@
 - [Add tests for currently-unused combinations in GetLatestReferenceEntry](https://github.com/gittuf/gittuf/issues/557)
 
 
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(4.4K ⭐️)</span>
-
-- [Deprecate and remove processorhelper.BuildCustomMetricName](https://github.com/open-telemetry/opentelemetry-collector/issues/11302)
-
-
 ## vmware-tanzu/secrets-manager <span style='color:#F1C40F'>(158 ⭐️)</span>
 
 - [get the secrets postgres table name from environment variables too.](https://github.com/vmware-tanzu/secrets-manager/issues/1177)
@@ -284,11 +305,6 @@
 - [chore: generate countries.tsx from Go code](https://github.com/coder/coder/issues/15074)
 
 - [Notifications: improve wording](https://github.com/coder/coder/issues/14893)
-
-
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(6.2K ⭐️)</span>
-
-- [Missing validations and implementation in x/circuit](https://github.com/cosmos/cosmos-sdk/issues/22322)
 
 
 ## treeverse/lakeFS <span style='color:#F1C40F'>(4.4K ⭐️)</span>
@@ -347,23 +363,4 @@
 ## open-policy-agent/opa <span style='color:#F1C40F'>(9.6K ⭐️)</span>
 
 - [opa eval: panic when given bad input for --unknowns](https://github.com/open-policy-agent/opa/issues/7127)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [(feature) evaluation command line for local testing](https://github.com/thomaspoignant/go-feature-flag/issues/2560)
-
-- [(feature) Bitbucket retriever](https://github.com/thomaspoignant/go-feature-flag/issues/2561)
-
-- [(feature) Azure BlobStorage exporter](https://github.com/thomaspoignant/go-feature-flag/issues/2559)
-
-- [(feature) Azure Blob Storage retriever](https://github.com/thomaspoignant/go-feature-flag/issues/2558)
-
-- [(feature) Amazon Kinesis Exporter](https://github.com/thomaspoignant/go-feature-flag/issues/2557)
-
-- [(feature) Microsoft Teams Notifier](https://github.com/thomaspoignant/go-feature-flag/issues/2556)
-
-- [(change) Don't send "new flag added" notification upon `ffClient` initialization](https://github.com/thomaspoignant/go-feature-flag/issues/2532)
-
-- [(feature) Support for multiple exporters](https://github.com/thomaspoignant/go-feature-flag/issues/2505)
 
