@@ -4,7 +4,45 @@
 
 
 
-<div align='center'>Last updated at October 23, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at October 24, 2024 00:02 UTC.</div>
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
+
+- [`send_quiet` is not working for `container` operator](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35726)
+
+
+## siglens/siglens <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [[BUG] Fields command returning all columns in the websocket/API response](https://github.com/siglens/siglens/issues/1713)
+
+
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(4.4K ⭐️)</span>
+
+- [Deprecate and remove processorhelper.BuildCustomMetricName](https://github.com/open-telemetry/opentelemetry-collector/issues/11302)
+
+
+## pingcap/tidb <span style='color:#F1C40F'>(37.1K ⭐️)</span>
+
+- [lightning should cache the result of `columnAPI.Cols()` to improve performance](https://github.com/pingcap/tidb/issues/56705)
+
+- [too many "fail to get hist meta for this histogram, possibly a deleted one"](https://github.com/pingcap/tidb/issues/56740)
+
+- [use golang built-in functions rather than mathutil](https://github.com/pingcap/tidb/issues/56594)
+
+- [`ALTER TABLE ... DROP FOREIGN KEY IF EXISTS ...` shouldn't be supported in parser](https://github.com/pingcap/tidb/issues/56701)
+
+
+## ethereum-optimism/supersim <span style='color:#F1C40F'>(74 ⭐️)</span>
+
+- [Add CLI command to display interop spec & optimism docs in Supersim flow](https://github.com/ethereum-optimism/supersim/issues/227)
+
+
+## wailsapp/wails <span style='color:#F1C40F'>(25.1K ⭐️)</span>
+
+- [Webview failed to set AllowExternalDrag to false on Win 10 ( after cross compile on macOS) ](https://github.com/wailsapp/wails/issues/3782)
 
 
 ## istio/istio <span style='color:#F1C40F'>(35.9K ⭐️)</span>
@@ -13,6 +51,8 @@
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(20.3K ⭐️)</span>
+
+- [[query] Drop Support For Same Host Ports](https://github.com/jaegertracing/jaeger/issues/6117)
 
 - [Improve unit test speed](https://github.com/jaegertracing/jaeger/issues/6111)
 
@@ -30,11 +70,6 @@
 ## project-copacetic/copacetic <span style='color:#F1C40F'>(995 ⭐️)</span>
 
 - [[REQ] Use apt-get instead of apt](https://github.com/project-copacetic/copacetic/issues/787)
-
-
-## ethereum-optimism/supersim <span style='color:#F1C40F'>(73 ⭐️)</span>
-
-- [Add CLI command to display interop spec & optimism docs in Supersim flow](https://github.com/ethereum-optimism/supersim/issues/227)
 
 
 ## loxilb-io/loxilb <span style='color:#F1C40F'>(1.4K ⭐️)</span>
@@ -63,9 +98,17 @@
 - [Notifications: improve wording](https://github.com/coder/coder/issues/14893)
 
 
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(4.4K ⭐️)</span>
+## filecoin-project/lotus <span style='color:#F1C40F'>(2.8K ⭐️)</span>
 
-- [Deprecate and remove processorhelper.BuildCustomMetricName](https://github.com/open-telemetry/opentelemetry-collector/issues/11302)
+- [eth_getBlockByNumber should return error for null round](https://github.com/filecoin-project/lotus/issues/12633)
+
+- [Standardise a top level output format for all lotus CLIs](https://github.com/filecoin-project/lotus/issues/12616)
+
+- [Lotus daemon --api setting overrides LOTUS_API_LISTENADDRESS without warning](https://github.com/filecoin-project/lotus/issues/12545)
+
+- [Dependency 'github.com/alecthomas/jsonschema' is no longer maintained](https://github.com/filecoin-project/lotus/issues/12559)
+
+- [Reduce default log verbosity for itests](https://github.com/filecoin-project/lotus/issues/12565)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
@@ -97,6 +140,13 @@
 - [add skip audit/unenroll flag to uninstall command](https://github.com/elastic/elastic-agent/issues/5757)
 
 
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [[Bug]: "cnpg psql" doesn't detect a cluster that doesn't exist](https://github.com/cloudnative-pg/cloudnative-pg/issues/5913)
+
+- [[Bug]: Make `color` argument of kubectl cnpg a global variable](https://github.com/cloudnative-pg/cloudnative-pg/issues/5849)
+
+
 ## creativeprojects/resticprofile <span style='color:#F1C40F'>(727 ⭐️)</span>
 
 - [Forward restic exit code from resticprofile](https://github.com/creativeprojects/resticprofile/issues/410)
@@ -124,13 +174,6 @@
 ## traPtitech/traQ <span style='color:#F1C40F'>(424 ⭐️)</span>
 
 - [groupsのbulk処理のtest](https://github.com/traPtitech/traQ/issues/2521)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [[Bug]: "cnpg psql" doesn't detect a cluster that doesn't exist](https://github.com/cloudnative-pg/cloudnative-pg/issues/5913)
-
-- [[Bug]: Make `color` argument of kubectl cnpg a global variable](https://github.com/cloudnative-pg/cloudnative-pg/issues/5849)
 
 
 ## gittuf/gittuf <span style='color:#F1C40F'>(458 ⭐️)</span>
@@ -287,90 +330,7 @@
 - [Move `internal/config` to `pkg`](https://github.com/mindersec/minder/issues/4698)
 
 
-## siglens/siglens <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [[BUG] Fields command returning all columns in the websocket/API response](https://github.com/siglens/siglens/issues/1713)
-
-
 ## kopia/kopia <span style='color:#F1C40F'>(7.7K ⭐️)</span>
 
 - [Multiline text field for Kopia Actions in UI (web + desktop)](https://github.com/kopia/kopia/issues/4179)
-
-
-## camunda/camunda-platform-helm <span style='color:#F1C40F'>(72 ⭐️)</span>
-
-- [[ENHANCEMENT] Disable Connection test if the component is disabled](https://github.com/camunda/camunda-platform-helm/issues/2492)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
-
-- [`send_quiet` is not working for `container` operator](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35726)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(24.0K ⭐️)</span>
-
-- [Introduce config to optionally disable requests to `/dapr/config` and `/dapr/subscribe`during dapr init](https://github.com/dapr/dapr/issues/8224)
-
-- [Jobs API Metrics](https://github.com/dapr/dapr/issues/8160)
-
-
-## keploy/keploy <span style='color:#F1C40F'>(5.0K ⭐️)</span>
-
-- [Create a Springboot-Redis sample app](https://github.com/keploy/keploy/issues/2333)
-
-- [Create a Flask-PostgreSQL sample app](https://github.com/keploy/keploy/issues/2336)
-
-- [Create a Springboot-Elastic sample app](https://github.com/keploy/keploy/issues/2334)
-
-- [Create a .NET and MongoDB sample app](https://github.com/keploy/keploy/issues/2340)
-
-- [[docs]: Prepare the docs and organise the samples-csharp repository](https://github.com/keploy/keploy/issues/2341)
-
-- [Create a Rust and PostgreSQL sample app](https://github.com/keploy/keploy/issues/2342)
-
-- [Create a Django-Mongo sample app](https://github.com/keploy/keploy/issues/2335)
-
-- [Create a Sanic-Postgres sample app](https://github.com/keploy/keploy/issues/2337)
-
-- [[bug]: make one click install for mac backward compatible](https://github.com/keploy/keploy/issues/2327)
-
-- [[feature]: sync default config with the latest fields ](https://github.com/keploy/keploy/issues/2303)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(17.7K ⭐️)</span>
-
-- [Incorrect pluralization on resources that end with an S (Rules, ClusterRules, etc.)](https://github.com/argoproj/argo-cd/issues/20210)
-
-- [Document iconClass and displayName fields for custom resource action discovery](https://github.com/argoproj/argo-cd/issues/20460)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Support configuring Datadog remote config](https://github.com/kumahq/kuma/issues/11633)
-
-- [Relax validation on sectionName with `kind: MeshService`](https://github.com/kumahq/kuma/issues/11572)
-
-
-## libp2p/go-libp2p <span style='color:#F1C40F'>(6.0K ⭐️)</span>
-
-- [Update `examples/`](https://github.com/libp2p/go-libp2p/issues/3017)
-
-
-## mariadb-operator/mariadb-operator <span style='color:#F1C40F'>(480 ⭐️)</span>
-
-- [[Bug] MariaDB galera recovery job crashes due to missing user=root argument, causing the MariaDB unrecoverable after crash](https://github.com/mariadb-operator/mariadb-operator/issues/927)
-
-- [[Bug] Compressed backups use unconventional file extensions](https://github.com/mariadb-operator/mariadb-operator/issues/940)
-
-- [[Bug] replication on custom ports is not supported](https://github.com/mariadb-operator/mariadb-operator/issues/948)
-
-- [[Bug] authdelegator CRB creation race condition](https://github.com/mariadb-operator/mariadb-operator/issues/898)
-
-- [[Feature] inheritMetadata support for galera PersistentVolumeClaim](https://github.com/mariadb-operator/mariadb-operator/issues/906)
-
-- [[Feature] - MaxScale: add possibility for sidecar containers ](https://github.com/mariadb-operator/mariadb-operator/issues/925)
-
-- [[Feature] Rely on server defaults by making `maxConnections` nullable](https://github.com/mariadb-operator/mariadb-operator/issues/922)
 
