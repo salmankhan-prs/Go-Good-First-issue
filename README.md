@@ -4,31 +4,19 @@
 
 
 
-<div align='center'>Last updated at October 24, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at October 25, 2024 00:01 UTC.</div>
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(4.4K ⭐️)</span>
 
-- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
-
-- [`send_quiet` is not working for `container` operator](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35726)
+- [Deprecate and remove processorhelper.BuildCustomMetricName](https://github.com/open-telemetry/opentelemetry-collector/issues/11302)
 
 
-## ethereum-optimism/supersim <span style='color:#F1C40F'>(78 ⭐️)</span>
+## dapr/components-contrib <span style='color:#F1C40F'>(546 ⭐️)</span>
 
-- [Add CLI command to display interop spec & optimism docs in Supersim flow](https://github.com/ethereum-optimism/supersim/issues/227)
+- [EventHub component delivers out of order messages (pubsub, binding)](https://github.com/dapr/components-contrib/issues/3568)
 
-- [Add Superchain token bridge address to docs and terminal output](https://github.com/ethereum-optimism/supersim/issues/224)
-
-
-## nucleuscloud/neosync <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [[NEOS-1572] Write script to auto-generate openapi-merge.json](https://github.com/nucleuscloud/neosync/issues/2857)
-
-
-## istio/istio <span style='color:#F1C40F'>(35.9K ⭐️)</span>
-
-- [Add custom headers on invalid token](https://github.com/istio/istio/issues/53559)
+- [Azure Queue: InitialVisibilityDelay option](https://github.com/dapr/components-contrib/issues/3555)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
@@ -38,6 +26,47 @@
 - [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
 
 - [sql/schema: add a NOTICE that a table created using CREATE TABLE AS does not inherit the primary key](https://github.com/cockroachdb/cockroach/issues/131675)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
+
+- [`send_quiet` is not working for `container` operator](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35726)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
+
+
+## siglens/siglens <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [[BUG] Fields command returning all columns in the websocket/API response](https://github.com/siglens/siglens/issues/1713)
+
+
+## coder/coder <span style='color:#F1C40F'>(8.2K ⭐️)</span>
+
+- [chore: generate countries.tsx from Go code](https://github.com/coder/coder/issues/15074)
+
+- [Notifications: improve wording](https://github.com/coder/coder/issues/14893)
+
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [Documentation for azurerm_role_definition doesn't show Management Group Support](https://github.com/hashicorp/terraform-provider-azurerm/issues/27565)
+
+
+## ethereum-optimism/supersim <span style='color:#F1C40F'>(78 ⭐️)</span>
+
+- [Add CLI command to display interop spec & optimism docs in Supersim flow](https://github.com/ethereum-optimism/supersim/issues/227)
+
+- [Add Superchain token bridge address to docs and terminal output](https://github.com/ethereum-optimism/supersim/issues/224)
+
+
+## istio/istio <span style='color:#F1C40F'>(35.9K ⭐️)</span>
+
+- [Add custom headers on invalid token](https://github.com/istio/istio/issues/53559)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(24.0K ⭐️)</span>
@@ -52,11 +81,6 @@
 ## mindersec/minder <span style='color:#F1C40F'>(259 ⭐️)</span>
 
 - [Move `internal/entities/properties` to `pkg`](https://github.com/mindersec/minder/issues/4699)
-
-
-## siglens/siglens <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [[BUG] Fields command returning all columns in the websocket/API response](https://github.com/siglens/siglens/issues/1713)
 
 
 ## omni-network/omni <span style='color:#F1C40F'>(85 ⭐️)</span>
@@ -116,11 +140,6 @@
 - [Error Aggregation](https://github.com/kashifkhan0771/utils/issues/13)
 
 
-## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
-
-
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
 - [(feature) Amazon Kinesis Exporter](https://github.com/thomaspoignant/go-feature-flag/issues/2557)
@@ -140,16 +159,14 @@
 - [(feature) Support for multiple exporters](https://github.com/thomaspoignant/go-feature-flag/issues/2505)
 
 
-## coder/coder <span style='color:#F1C40F'>(8.2K ⭐️)</span>
-
-- [chore: generate countries.tsx from Go code](https://github.com/coder/coder/issues/15074)
-
-- [Notifications: improve wording](https://github.com/coder/coder/issues/14893)
-
-
 ## traPtitech/traQ <span style='color:#F1C40F'>(424 ⭐️)</span>
 
 - [groupsのbulk処理のtest](https://github.com/traPtitech/traQ/issues/2521)
+
+
+## aws/aws-network-policy-agent <span style='color:#F1C40F'>(45 ⭐️)</span>
+
+- [Reduce/Optimize logging in the agent](https://github.com/aws/aws-network-policy-agent/issues/325)
 
 
 ## open-telemetry/opentelemetry-go-contrib <span style='color:#F1C40F'>(1.2K ⭐️)</span>
@@ -424,22 +441,4 @@
 - [Add Sarif Validation](https://github.com/Boeing/config-file-validator/issues/173)
 
 - [Add `--file-types` flag to include only specified config file types](https://github.com/Boeing/config-file-validator/issues/174)
-
-
-## ray-project/kuberay <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [Check RayService `ray job submit` can successfully create a job by running it in the head Pod in the corresponding RayCluster](https://github.com/ray-project/kuberay/issues/2453)
-
-- [Check RayJob `ray job submit` can successfully create a job by running it in the head Pod in the corresponding RayCluster](https://github.com/ray-project/kuberay/issues/2452)
-
-- [Implement `CurlServiceRule` with golang for RayService](https://github.com/ray-project/kuberay/issues/2455)
-
-- [Implement `ShutdownJobRule` with golang for RayJob](https://github.com/ray-project/kuberay/issues/2454)
-
-
-## zitadel/zitadel <span style='color:#F1C40F'>(8.8K ⭐️)</span>
-
-- [Console: Filter organizations by id](https://github.com/zitadel/zitadel/issues/8792)
-
-- [[Bug]: Zitadel Logo showing both dark and light](https://github.com/zitadel/zitadel/issues/8770)
 
