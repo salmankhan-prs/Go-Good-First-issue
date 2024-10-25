@@ -4,45 +4,16 @@
 
 
 
-<div align='center'>Last updated at October 25, 2024 00:01 UTC.</div>
+<div align='center'>Last updated at October 25, 2024 23:01 UTC.</div>
 
 
-## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(4.4K ⭐️)</span>
+## DefangLabs/defang <span style='color:#F1C40F'>(35 ⭐️)</span>
 
-- [Deprecate and remove processorhelper.BuildCustomMetricName](https://github.com/open-telemetry/opentelemetry-collector/issues/11302)
+- [Regression: Tail/Compose Up no longer show hint on Ctrl-C](https://github.com/DefangLabs/defang/issues/790)
 
+- [defang provider set](https://github.com/DefangLabs/defang/issues/719)
 
-## dapr/components-contrib <span style='color:#F1C40F'>(546 ⭐️)</span>
-
-- [EventHub component delivers out of order messages (pubsub, binding)](https://github.com/dapr/components-contrib/issues/3568)
-
-- [Azure Queue: InitialVisibilityDelay option](https://github.com/dapr/components-contrib/issues/3555)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
-
-- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
-
-- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
-
-- [sql/schema: add a NOTICE that a table created using CREATE TABLE AS does not inherit the primary key](https://github.com/cockroachdb/cockroach/issues/131675)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
-
-- [`send_quiet` is not working for `container` operator](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35726)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
-
-
-## siglens/siglens <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [[BUG] Fields command returning all columns in the websocket/API response](https://github.com/siglens/siglens/issues/1713)
+- [`defang --provider aws` should fail fast if unauthenticated](https://github.com/DefangLabs/defang/issues/782)
 
 
 ## coder/coder <span style='color:#F1C40F'>(8.2K ⭐️)</span>
@@ -52,95 +23,72 @@
 - [Notifications: improve wording](https://github.com/coder/coder/issues/14893)
 
 
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+## open-policy-agent/opa <span style='color:#F1C40F'>(9.6K ⭐️)</span>
 
-- [Documentation for azurerm_role_definition doesn't show Management Group Support](https://github.com/hashicorp/terraform-provider-azurerm/issues/27565)
-
-
-## ethereum-optimism/supersim <span style='color:#F1C40F'>(78 ⭐️)</span>
-
-- [Add CLI command to display interop spec & optimism docs in Supersim flow](https://github.com/ethereum-optimism/supersim/issues/227)
-
-- [Add Superchain token bridge address to docs and terminal output](https://github.com/ethereum-optimism/supersim/issues/224)
+- [opa eval: panic when given bad input for --unknowns](https://github.com/open-policy-agent/opa/issues/7127)
 
 
-## istio/istio <span style='color:#F1C40F'>(35.9K ⭐️)</span>
+## redis/rueidis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
-- [Add custom headers on invalid token](https://github.com/istio/istio/issues/53559)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(24.0K ⭐️)</span>
-
-- [Add more descriptive logging for component startup failure](https://github.com/dapr/dapr/issues/8236)
-
-- [Introduce config to optionally disable requests to `/dapr/config` and `/dapr/subscribe`during dapr init](https://github.com/dapr/dapr/issues/8224)
-
-- [Jobs API Metrics](https://github.com/dapr/dapr/issues/8160)
+- [Feature: remove idle connections from pool](https://github.com/redis/rueidis/issues/651)
 
 
-## mindersec/minder <span style='color:#F1C40F'>(259 ⭐️)</span>
+## jaegertracing/jaeger <span style='color:#F1C40F'>(20.4K ⭐️)</span>
 
-- [Move `internal/entities/properties` to `pkg`](https://github.com/mindersec/minder/issues/4699)
+- [Improve unit test speed](https://github.com/jaegertracing/jaeger/issues/6111)
 
+- [[v2] How is tenancy handled / configured? Should it be part of storage config?](https://github.com/jaegertracing/jaeger/issues/6108)
 
-## omni-network/omni <span style='color:#F1C40F'>(85 ⭐️)</span>
+- [ES 8.x / v2 integration test often fails](https://github.com/jaegertracing/jaeger/issues/6094)
 
-- [Update xsubmission tests to use XSubGen](https://github.com/omni-network/omni/issues/2154)
+- [[crossdock] Replace sampling calls to agent with calls to collector](https://github.com/jaegertracing/jaeger/issues/6083)
 
-- [Deploy gas pump contracts on mainnet](https://github.com/omni-network/omni/issues/2206)
+- [Add integration test for hotrod on k8s](https://github.com/jaegertracing/jaeger/issues/6086)
 
-- [Address remaining informational and low security audit findings by Spearbit](https://github.com/omni-network/omni/issues/2115)
-
-- [Geth Discv5 P2P Analysis and Testing](https://github.com/omni-network/omni/issues/2069)
-
-
-## owncast/owncast <span style='color:#F1C40F'>(9.4K ⭐️)</span>
-
-- [Create an equivalent external/integration API endpoint for /api/status](https://github.com/owncast/owncast/issues/3981)
-
-- [Update React components to not use defaultProps](https://github.com/owncast/owncast/issues/3953)
-
-- [Add support for translations in the web project](https://github.com/owncast/owncast/issues/3950)
-
-- [Documentation broken link: https://dev.maxmind.com/geoip/geoip2/geolite2/](https://github.com/owncast/owncast/issues/3960)
+- [[query] Switch to use OTEL's http/grpc servers](https://github.com/jaegertracing/jaeger/issues/6026)
 
 
-## camunda/camunda-platform-helm <span style='color:#F1C40F'>(73 ⭐️)</span>
+## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(4.4K ⭐️)</span>
 
-- [[ENHANCEMENT] Disable Connection test if the component is disabled](https://github.com/camunda/camunda-platform-helm/issues/2492)
-
-
-## cilium/tetragon <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [DOCS: update minikube installation scripts in k8s identity aware policies](https://github.com/cilium/tetragon/issues/2980)
+- [Deprecate and remove processorhelper.BuildCustomMetricName](https://github.com/open-telemetry/opentelemetry-collector/issues/11302)
 
 
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(678 ⭐️)</span>
+## libp2p/go-libp2p <span style='color:#F1C40F'>(6.0K ⭐️)</span>
 
-- [add a flag to the CLI to enable debug mode](https://github.com/bacalhau-project/bacalhau/issues/4535)
-
-
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.8K ⭐️)</span>
-
-- [[Docs]: missing transformation block in aws_bedrockagent_data_source](https://github.com/hashicorp/terraform-provider-aws/issues/39773)
-
-- [[Docs]: `max_tokens` argument in `aws_bedrockagent_data_source`](https://github.com/hashicorp/terraform-provider-aws/issues/39819)
-
-- [[Bug]: Value Conversion Error with `aws_iam_role_policy_attachments_exclusive` and `null` values for `policy_arns`](https://github.com/hashicorp/terraform-provider-aws/issues/39786)
-
-- [[Enhancement]: aws_appstream_stack user_settings has been updated](https://github.com/hashicorp/terraform-provider-aws/issues/39792)
-
-- [[Enhancement]: Add Memory capability to aws_bedrockagent_agent resource](https://github.com/hashicorp/terraform-provider-aws/issues/39626)
+- [Update `examples/`](https://github.com/libp2p/go-libp2p/issues/3017)
 
 
-## kashifkhan0771/utils <span style='color:#F1C40F'>(2 ⭐️)</span>
+## jlewi/foyle <span style='color:#F1C40F'>(103 ⭐️)</span>
 
-- [Remove Technical Debts](https://github.com/kashifkhan0771/utils/issues/9)
+- [Document tips & tricks for how to work with the AI](https://github.com/jlewi/foyle/issues/323)
 
-- [Error Aggregation](https://github.com/kashifkhan0771/utils/issues/13)
+- [Style <example> and <input> in our evaluation reports](https://github.com/jlewi/foyle/issues/289)
+
+- [LLM As Judge should describe programs as expected and actual](https://github.com/jlewi/foyle/issues/287)
+
+- [Give Agent a name in the logs to filter out logs related to experiments](https://github.com/jlewi/foyle/issues/280)
 
 
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+## open-telemetry/opentelemetry-go-contrib <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [Support Environment Variable Installation and Configuration of Jaeger Remote Sampler](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/6256)
+
+
+## kubestellar/kubestellar <span style='color:#F1C40F'>(269 ⭐️)</span>
+
+- [bug: spelling checker checks invisible HTML](https://github.com/kubestellar/kubestellar/issues/2507)
+
+- [feature: expand regular testing](https://github.com/kubestellar/kubestellar/issues/2506)
+
+
+## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
+
+- [Fix Grafana dashboards for Hubble control plane and update doc](https://github.com/microsoft/retina/issues/811)
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
 - [(feature) Amazon Kinesis Exporter](https://github.com/thomaspoignant/go-feature-flag/issues/2557)
 
@@ -159,81 +107,13 @@
 - [(feature) Support for multiple exporters](https://github.com/thomaspoignant/go-feature-flag/issues/2505)
 
 
-## traPtitech/traQ <span style='color:#F1C40F'>(424 ⭐️)</span>
+## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
 
-- [groupsのbulk処理のtest](https://github.com/traPtitech/traQ/issues/2521)
+- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
 
+- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
 
-## aws/aws-network-policy-agent <span style='color:#F1C40F'>(45 ⭐️)</span>
-
-- [Reduce/Optimize logging in the agent](https://github.com/aws/aws-network-policy-agent/issues/325)
-
-
-## open-telemetry/opentelemetry-go-contrib <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [Support Environment Variable Installation and Configuration of Jaeger Remote Sampler](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/6256)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(20.4K ⭐️)</span>
-
-- [Improve unit test speed](https://github.com/jaegertracing/jaeger/issues/6111)
-
-- [[v2] How is tenancy handled / configured? Should it be part of storage config?](https://github.com/jaegertracing/jaeger/issues/6108)
-
-- [ES 8.x / v2 integration test often fails](https://github.com/jaegertracing/jaeger/issues/6094)
-
-- [[crossdock] Replace sampling calls to agent with calls to collector](https://github.com/jaegertracing/jaeger/issues/6083)
-
-- [Add integration test for hotrod on k8s](https://github.com/jaegertracing/jaeger/issues/6086)
-
-- [[query] Switch to use OTEL's http/grpc servers](https://github.com/jaegertracing/jaeger/issues/6026)
-
-
-## akuity/kargo <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Descriptive names for subscriptions](https://github.com/akuity/kargo/issues/2839)
-
-- [bug(ui): selecting freight in assembly resets the view](https://github.com/akuity/kargo/issues/2581)
-
-- [ui: improve freight discovery error tooltip](https://github.com/akuity/kargo/issues/2582)
-
-
-## anywherelan/awl <span style='color:#F1C40F'>(407 ⭐️)</span>
-
-- [Update to latest Flutter, migrate to Material 3](https://github.com/anywherelan/awl/issues/142)
-
-
-## Azure/eno <span style='color:#F1C40F'>(7 ⭐️)</span>
-
-- [Store a third synthesis](https://github.com/Azure/eno/issues/229)
-
-- [Replace missing resource slices](https://github.com/Azure/eno/issues/228)
-
-- [Composition deletion should succeed when its synthesizer is missing](https://github.com/Azure/eno/issues/227)
-
-- [More aggressive writebuffer behavior](https://github.com/Azure/eno/issues/226)
-
-- [Log reason why state was swapped](https://github.com/Azure/eno/issues/225)
-
-- [Empty compositions never become ready](https://github.com/Azure/eno/issues/224)
-
-
-## confluentinc/terraform-provider-confluent <span style='color:#F1C40F'>(29 ⭐️)</span>
-
-- [Update to confluent_group_mapping filter forces replacement](https://github.com/confluentinc/terraform-provider-confluent/issues/468)
-
-
-## filecoin-project/lotus <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [eth_getBlockByNumber should return error for null round](https://github.com/filecoin-project/lotus/issues/12633)
-
-- [Standardise a top level output format for all lotus CLIs](https://github.com/filecoin-project/lotus/issues/12616)
-
-- [Lotus daemon --api setting overrides LOTUS_API_LISTENADDRESS without warning](https://github.com/filecoin-project/lotus/issues/12545)
-
-- [Dependency 'github.com/alecthomas/jsonschema' is no longer maintained](https://github.com/filecoin-project/lotus/issues/12559)
-
-- [Reduce default log verbosity for itests](https://github.com/filecoin-project/lotus/issues/12565)
+- [sql/schema: add a NOTICE that a table created using CREATE TABLE AS does not inherit the primary key](https://github.com/cockroachdb/cockroach/issues/131675)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(19.1K ⭐️)</span>
@@ -241,77 +121,29 @@
 - [Validate that tailscale.com/tailnet-ip annotation for the Kubernetes operator egress proxies contains a valid IP address](https://github.com/tailscale/tailscale/issues/13671)
 
 
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(6.2K ⭐️)</span>
+## pingcap/tidb <span style='color:#F1C40F'>(37.1K ⭐️)</span>
 
-- [Missing validations and implementation in x/circuit](https://github.com/cosmos/cosmos-sdk/issues/22322)
+- [Dumpling will stuck while it's expect to fallback to LOCK TABLES when FTWRL blocking for a long time](https://github.com/pingcap/tidb/issues/56838)
 
+- [lightning should cache the result of `columnAPI.Cols()` to improve performance](https://github.com/pingcap/tidb/issues/56705)
 
-## quicksilver-zone/quicksilver <span style='color:#F1C40F'>(62 ⭐️)</span>
+- [too many "fail to get hist meta for this histogram, possibly a deleted one"](https://github.com/pingcap/tidb/issues/56740)
 
-- [Broken Links Detected](https://github.com/quicksilver-zone/quicksilver/issues/1722)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(14.9K ⭐️)</span>
-
-- [unclear message in task event from executor crash](https://github.com/hashicorp/nomad/issues/24220)
+- [`ALTER TABLE ... DROP FOREIGN KEY IF EXISTS ...` shouldn't be supported in parser](https://github.com/pingcap/tidb/issues/56701)
 
 
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+## NIC-Golang/ecommerce-team-dotpep <span style='color:#F1C40F'>(0 ⭐️)</span>
 
-- [[Bug]: "cnpg psql" doesn't detect a cluster that doesn't exist](https://github.com/cloudnative-pg/cloudnative-pg/issues/5913)
+- [Сделать инит коммиты в свои репозитории микросервисов](https://github.com/NIC-Golang/ecommerce-team-dotpep/issues/1)
 
-- [[Bug]: Make `color` argument of kubectl cnpg a global variable](https://github.com/cloudnative-pg/cloudnative-pg/issues/5849)
+- [Implement User Basic CRUD operations (User-Auth-Service)](https://github.com/NIC-Golang/ecommerce-team-dotpep/issues/5)
 
-
-## kyma-project/telemetry-manager <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Rename upgrade tests and related resources](https://github.com/kyma-project/telemetry-manager/issues/1508)
+- [Implement Basic CRUD operations (Core-Shop-Service)](https://github.com/NIC-Golang/ecommerce-team-dotpep/issues/2)
 
 
-## mariadb-operator/mariadb-operator <span style='color:#F1C40F'>(480 ⭐️)</span>
+## siglens/siglens <span style='color:#F1C40F'>(1.2K ⭐️)</span>
 
-- [[Bug] MariaDB galera recovery job crashes due to missing user=root argument, causing the MariaDB unrecoverable after crash](https://github.com/mariadb-operator/mariadb-operator/issues/927)
-
-- [[Bug] Compressed backups use unconventional file extensions](https://github.com/mariadb-operator/mariadb-operator/issues/940)
-
-- [[Bug] replication on custom ports is not supported](https://github.com/mariadb-operator/mariadb-operator/issues/948)
-
-- [[Bug] authdelegator CRB creation race condition](https://github.com/mariadb-operator/mariadb-operator/issues/898)
-
-- [[Feature] inheritMetadata support for galera PersistentVolumeClaim](https://github.com/mariadb-operator/mariadb-operator/issues/906)
-
-- [[Feature] - MaxScale: add possibility for sidecar containers ](https://github.com/mariadb-operator/mariadb-operator/issues/925)
-
-- [[Feature] Rely on server defaults by making `maxConnections` nullable](https://github.com/mariadb-operator/mariadb-operator/issues/922)
-
-
-## redis/rueidis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [Support Go 1.23 iterators for the ZADD command](https://github.com/redis/rueidis/issues/644)
-
-
-## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Fix Grafana dashboards for Hubble control plane and update doc](https://github.com/microsoft/retina/issues/811)
-
-
-## x-sushant-x/Rate-Shield <span style='color:#F1C40F'>(106 ⭐️)</span>
-
-- [hacktoberfest - add example on how to use Rate Shield with Gin](https://github.com/x-sushant-x/Rate-Shield/issues/20)
-
-- [hacktoberfest - implement basic sliding window rate limit strategy](https://github.com/x-sushant-x/Rate-Shield/issues/17)
-
-- [add examples for using Rate Shield using your favourite frameworks](https://github.com/x-sushant-x/Rate-Shield/issues/24)
-
-- [add example of using Rate Shield with Spring Boot](https://github.com/x-sushant-x/Rate-Shield/issues/23)
-
-- [add examples of how to use Rate Shield with Fast API](https://github.com/x-sushant-x/Rate-Shield/issues/22)
-
-- [add example of using Rate Shield with Django](https://github.com/x-sushant-x/Rate-Shield/issues/21)
-
-- [hacktoberfest - add example on how to use Rate Shield with GoFiber.](https://github.com/x-sushant-x/Rate-Shield/issues/19)
-
-- [hacktoberfest - implement basic leaky bucket rate limit strategy](https://github.com/x-sushant-x/Rate-Shield/issues/18)
+- [[BUG] Fields command returning all columns in the websocket/API response](https://github.com/siglens/siglens/issues/1713)
 
 
 ## vmware-tanzu/secrets-manager <span style='color:#F1C40F'>(158 ⭐️)</span>
@@ -321,45 +153,53 @@
 - [make sleep 5sec sleep time configurable](https://github.com/vmware-tanzu/secrets-manager/issues/1176)
 
 
-## cilium/ebpf <span style='color:#F1C40F'>(6.3K ⭐️)</span>
+## kopia/kopia <span style='color:#F1C40F'>(7.8K ⭐️)</span>
 
-- [Run netkit test in separate network namespace](https://github.com/cilium/ebpf/issues/1577)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(17.7K ⭐️)</span>
-
-- [Incorrect pluralization on resources that end with an S (Rules, ClusterRules, etc.)](https://github.com/argoproj/argo-cd/issues/20210)
-
-- [Document iconClass and displayName fields for custom resource action discovery](https://github.com/argoproj/argo-cd/issues/20460)
+- [Multiline text field for Kopia Actions in UI (web + desktop)](https://github.com/kopia/kopia/issues/4179)
 
 
-## gittuf/gittuf <span style='color:#F1C40F'>(459 ⭐️)</span>
+## traPtitech/traQ <span style='color:#F1C40F'>(424 ⭐️)</span>
 
-- [gittuf-git: Add test cases for `cmd`](https://github.com/gittuf/gittuf/issues/591)
-
-- [Add tests for currently-unused combinations in GetLatestReferenceEntry](https://github.com/gittuf/gittuf/issues/557)
+- [groupsのbulk処理のtest](https://github.com/traPtitech/traQ/issues/2521)
 
 
-## cloudfoundry/korifi <span style='color:#F1C40F'>(316 ⭐️)</span>
+## ethereum-optimism/supersim <span style='color:#F1C40F'>(80 ⭐️)</span>
 
-- [Implement the GET /v3/apps/guid/droplets endpoint](https://github.com/cloudfoundry/korifi/issues/3552)
+- [Add Superchain token bridge address to docs and terminal output](https://github.com/ethereum-optimism/supersim/issues/224)
 
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Support configuring Datadog remote config](https://github.com/kumahq/kuma/issues/11633)
-
-- [Relax validation on sectionName with `kind: MeshService`](https://github.com/kumahq/kuma/issues/11572)
+- [Add CLI command to display interop spec & optimism docs in Supersim flow](https://github.com/ethereum-optimism/supersim/issues/227)
 
 
-## vdaas/vald <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+## confluentinc/terraform-provider-confluent <span style='color:#F1C40F'>(29 ⭐️)</span>
 
-- [[O11y] Fix calculate method of latency (Grafana: cluster overview panel)](https://github.com/vdaas/vald/issues/2657)
+- [Update to confluent_group_mapping filter forces replacement](https://github.com/confluentinc/terraform-provider-confluent/issues/468)
 
-- [[CI] E2E Test using vald-benchmark-operator](https://github.com/vdaas/vald/issues/2656)
+
+## zitadel/zitadel <span style='color:#F1C40F'>(8.8K ⭐️)</span>
+
+- [[Bug]: Zitadel Logo showing both dark and light](https://github.com/zitadel/zitadel/issues/8770)
+
+- [Console: Filter organizations by id](https://github.com/zitadel/zitadel/issues/8792)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.8K ⭐️)</span>
+
+- [[Docs]: missing transformation block in aws_bedrockagent_data_source](https://github.com/hashicorp/terraform-provider-aws/issues/39773)
+
+- [[Docs]: `max_tokens` argument in `aws_bedrockagent_data_source`](https://github.com/hashicorp/terraform-provider-aws/issues/39819)
+
+- [[Bug]: Value Conversion Error with `aws_iam_role_policy_attachments_exclusive` and `null` values for `policy_arns`](https://github.com/hashicorp/terraform-provider-aws/issues/39786)
+
+- [[Enhancement]: aws_appstream_stack user_settings has been updated](https://github.com/hashicorp/terraform-provider-aws/issues/39792)
+
+- [[Enhancement]: Add Memory capability to aws_bedrockagent_agent resource](https://github.com/hashicorp/terraform-provider-aws/issues/39626)
 
 
 ## DiceDB/dice <span style='color:#F1C40F'>(6.6K ⭐️)</span>
+
+- [Refactor Websocket server parser to support space char in values](https://github.com/DiceDB/dice/issues/1191)
+
+- [Inconsistent `APPEND`: APPEND command incorrectly resets TTL to -1](https://github.com/DiceDB/dice/issues/1036)
 
 - [Add support for command `ZREM`](https://github.com/DiceDB/dice/issues/1125)
 
@@ -369,13 +209,9 @@
 
 - [Audit and make documentation for command `HGET` consistent](https://github.com/DiceDB/dice/issues/819)
 
-- [Add support for command `ZCOUNT`](https://github.com/DiceDB/dice/issues/1130)
-
 - [Enhancement `GETRANGE` to support all available datatypes](https://github.com/DiceDB/dice/issues/1194)
 
 - [Enhancement: `Append` to support other datatypes](https://github.com/DiceDB/dice/issues/1193)
-
-- [Add support for command `ZPOPMAX`](https://github.com/DiceDB/dice/issues/1127)
 
 - [Add support for command `ZCARD`](https://github.com/DiceDB/dice/issues/1129)
 
@@ -406,27 +242,166 @@
 - [Audit and make documentation for command `BITOP` consistent](https://github.com/DiceDB/dice/issues/802)
 
 
-## NibiruChain/nibiru <span style='color:#F1C40F'>(183 ⭐️)</span>
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
-- [[test] Add retry logic to make `Test_BlockByNumber` from eth_api_test.go more consistent ](https://github.com/NibiruChain/nibiru/issues/2058)
+- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
+
+- [`send_quiet` is not working for `container` operator](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35726)
 
 
-## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(9.1K ⭐️)</span>
+## dymensionxyz/dymension <span style='color:#F1C40F'>(365 ⭐️)</span>
 
-- [Add `enableHTTP2` field to the ScrapeConfig CRD](https://github.com/prometheus-operator/prometheus-operator/issues/6970)
+- [add `activeOnly` arg for IRO queries](https://github.com/dymensionxyz/dymension/issues/1323)
 
-- [Add `OAuth2` field to the ScrapeConfig CRD](https://github.com/prometheus-operator/prometheus-operator/issues/6971)
+- [Refactor usage of `err.Error()`](https://github.com/dymensionxyz/dymension/issues/1280)
 
-- [Refactor `DigitalOceanSDConfig`](https://github.com/prometheus-operator/prometheus-operator/issues/6991)
 
-- [Add credentialsFile support in scrape class](https://github.com/prometheus-operator/prometheus-operator/issues/6986)
+## polymerdao/monomer <span style='color:#F1C40F'>(20 ⭐️)</span>
 
-- [Adding "Exposing Prometheus and Alertmanager" Page to the Website](https://github.com/prometheus-operator/prometheus-operator/issues/6978)
+- [Programmatically refer to version within docs](https://github.com/polymerdao/monomer/issues/258)
 
-- [Reorganize Documentation Directory](https://github.com/prometheus-operator/prometheus-operator/issues/6983)
+- [Use `go run` instead of `go install` in `Makefile`](https://github.com/polymerdao/monomer/issues/248)
+
+
+## ipfs/kubo <span style='color:#F1C40F'>(16.1K ⭐️)</span>
+
+- [Missing support fr RPC API over HTTPS](https://github.com/ipfs/kubo/issues/10539)
+
+
+## istio/istio <span style='color:#F1C40F'>(35.9K ⭐️)</span>
+
+- [Add custom headers on invalid token](https://github.com/istio/istio/issues/53559)
+
+
+## gosom/google-maps-scraper <span style='color:#F1C40F'>(898 ⭐️)</span>
+
+- [Pagination in UI](https://github.com/gosom/google-maps-scraper/issues/86)
+
+
+## kubearchive/kubearchive <span style='color:#F1C40F'>(12 ⭐️)</span>
+
+- [Unify labels for the different KubeArchive components](https://github.com/kubearchive/kubearchive/issues/499)
+
+- [Refactor the errors sent to abort.Abort()](https://github.com/kubearchive/kubearchive/issues/536)
+
+- [Update pull_request_template.md to show how to link a PR to several issues](https://github.com/kubearchive/kubearchive/issues/500)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(17.8K ⭐️)</span>
+
+- [Document iconClass and displayName fields for custom resource action discovery](https://github.com/argoproj/argo-cd/issues/20460)
+
+- [Incorrect pluralization on resources that end with an S (Rules, ClusterRules, etc.)](https://github.com/argoproj/argo-cd/issues/20210)
+
+
+## robinje/multi-user-dungeon <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [Add Inactivity Timer](https://github.com/robinje/multi-user-dungeon/issues/258)
+
+- [Add Password Generation to Registration Page](https://github.com/robinje/multi-user-dungeon/issues/256)
+
+
+## nucleuscloud/neosync <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [[NEOS-1577] Auto-generate CLI Config JSON Schema](https://github.com/nucleuscloud/neosync/issues/2868)
+
+- [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
+
+- [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
+
+
+## elastic/cloud-on-k8s <span style='color:#F1C40F'>(2.6K ⭐️)</span>
+
+- [Enable gosec G115 check for potential integer overflow in type conversions](https://github.com/elastic/cloud-on-k8s/issues/8076)
+
+
+## owncast/owncast <span style='color:#F1C40F'>(9.4K ⭐️)</span>
+
+- [Create an equivalent external/integration API endpoint for /api/status](https://github.com/owncast/owncast/issues/3981)
+
+- [Update React components to not use defaultProps](https://github.com/owncast/owncast/issues/3953)
+
+- [Add support for translations in the web project](https://github.com/owncast/owncast/issues/3950)
+
+- [Documentation broken link: https://dev.maxmind.com/geoip/geoip2/geolite2/](https://github.com/owncast/owncast/issues/3960)
+
+
+## HilkopterBob/PackageLock <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [DOCS: Build out wiki](https://github.com/HilkopterBob/PackageLock/issues/109)
+
+- [FEAT: Add Server Restart reason](https://github.com/HilkopterBob/PackageLock/issues/58)
+
+- [Finalize Backend API](https://github.com/HilkopterBob/PackageLock/issues/37)
+
+
+## ray-project/kuberay <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [Check RayService `ray job submit` can successfully create a job by running it in the head Pod in the corresponding RayCluster](https://github.com/ray-project/kuberay/issues/2453)
+
+- [Check RayJob `ray job submit` can successfully create a job by running it in the head Pod in the corresponding RayCluster](https://github.com/ray-project/kuberay/issues/2452)
+
+- [Implement `CurlServiceRule` with golang for RayService](https://github.com/ray-project/kuberay/issues/2455)
+
+- [Implement `ShutdownJobRule` with golang for RayJob](https://github.com/ray-project/kuberay/issues/2454)
+
+
+## elastic/elastic-agent <span style='color:#F1C40F'>(132 ⭐️)</span>
+
+- [Update to gopkg.in/yaml.v3](https://github.com/elastic/elastic-agent/issues/5750)
+
+- [add skip audit/unenroll flag to uninstall command](https://github.com/elastic/elastic-agent/issues/5757)
+
+
+## Azure/eno <span style='color:#F1C40F'>(7 ⭐️)</span>
+
+- [Store a third synthesis](https://github.com/Azure/eno/issues/229)
+
+- [Replace missing resource slices](https://github.com/Azure/eno/issues/228)
+
+- [Composition deletion should succeed when its synthesizer is missing](https://github.com/Azure/eno/issues/227)
+
+- [More aggressive writebuffer behavior](https://github.com/Azure/eno/issues/226)
+
+- [Log reason why state was swapped](https://github.com/Azure/eno/issues/225)
+
+
+## cyclops-ui/cyclops <span style='color:#F1C40F'>(2.5K ⭐️)</span>
+
+- [Add tooltip to resource not needed warning](https://github.com/cyclops-ui/cyclops/issues/644)
+
+- [Filter Modules by TargetNamespace](https://github.com/cyclops-ui/cyclops/issues/640)
+
+- [Copy Module Name and Namespace buttons](https://github.com/cyclops-ui/cyclops/issues/639)
+
+- [Manifests modals to use the same theme](https://github.com/cyclops-ui/cyclops/issues/641)
+
+- [Add `skipCRDs` option to Module definition](https://github.com/cyclops-ui/cyclops/issues/602)
+
+- [`cyctl` interactive template auth rule creation](https://github.com/cyclops-ui/cyclops/issues/604)
+
+
+## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [Move validation to be part of the CRD](https://github.com/open-telemetry/opentelemetry-operator/issues/3319)
+
+
+## filecoin-project/lotus <span style='color:#F1C40F'>(2.8K ⭐️)</span>
+
+- [eth_getBlockByNumber should return error for null round](https://github.com/filecoin-project/lotus/issues/12633)
+
+- [Standardise a top level output format for all lotus CLIs](https://github.com/filecoin-project/lotus/issues/12616)
+
+- [Lotus daemon --api setting overrides LOTUS_API_LISTENADDRESS without warning](https://github.com/filecoin-project/lotus/issues/12545)
+
+- [Dependency 'github.com/alecthomas/jsonschema' is no longer maintained](https://github.com/filecoin-project/lotus/issues/12559)
+
+- [Reduce default log verbosity for itests](https://github.com/filecoin-project/lotus/issues/12565)
 
 
 ## Boeing/config-file-validator <span style='color:#F1C40F'>(337 ⭐️)</span>
+
+- [Add `--file-types` flag to include only specified config file types](https://github.com/Boeing/config-file-validator/issues/174)
 
 - [Update example execution images in the README](https://github.com/Boeing/config-file-validator/issues/175)
 
@@ -440,5 +415,8 @@
 
 - [Add Sarif Validation](https://github.com/Boeing/config-file-validator/issues/173)
 
-- [Add `--file-types` flag to include only specified config file types](https://github.com/Boeing/config-file-validator/issues/174)
+
+## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [Documentation for azurerm_role_definition doesn't show Management Group Support](https://github.com/hashicorp/terraform-provider-azurerm/issues/27565)
 
