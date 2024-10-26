@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at October 25, 2024 23:01 UTC.</div>
+<div align='center'>Last updated at October 26, 2024 00:02 UTC.</div>
+
+
+## dapr/components-contrib <span style='color:#F1C40F'>(546 ⭐️)</span>
+
+- [EventHub component delivers out of order messages (pubsub, binding)](https://github.com/dapr/components-contrib/issues/3568)
 
 
 ## DefangLabs/defang <span style='color:#F1C40F'>(35 ⭐️)</span>
@@ -287,6 +292,15 @@
 - [Update pull_request_template.md to show how to link a PR to several issues](https://github.com/kubearchive/kubearchive/issues/500)
 
 
+## akuity/kargo <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Descriptive names for subscriptions](https://github.com/akuity/kargo/issues/2839)
+
+- [ui: improve freight discovery error tooltip](https://github.com/akuity/kargo/issues/2582)
+
+- [bug(ui): selecting freight in assembly resets the view](https://github.com/akuity/kargo/issues/2581)
+
+
 ## argoproj/argo-cd <span style='color:#F1C40F'>(17.8K ⭐️)</span>
 
 - [Document iconClass and displayName fields for custom resource action discovery](https://github.com/argoproj/argo-cd/issues/20460)
@@ -308,115 +322,4 @@
 - [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
 
 - [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
-
-
-## elastic/cloud-on-k8s <span style='color:#F1C40F'>(2.6K ⭐️)</span>
-
-- [Enable gosec G115 check for potential integer overflow in type conversions](https://github.com/elastic/cloud-on-k8s/issues/8076)
-
-
-## owncast/owncast <span style='color:#F1C40F'>(9.4K ⭐️)</span>
-
-- [Create an equivalent external/integration API endpoint for /api/status](https://github.com/owncast/owncast/issues/3981)
-
-- [Update React components to not use defaultProps](https://github.com/owncast/owncast/issues/3953)
-
-- [Add support for translations in the web project](https://github.com/owncast/owncast/issues/3950)
-
-- [Documentation broken link: https://dev.maxmind.com/geoip/geoip2/geolite2/](https://github.com/owncast/owncast/issues/3960)
-
-
-## HilkopterBob/PackageLock <span style='color:#F1C40F'>(3 ⭐️)</span>
-
-- [DOCS: Build out wiki](https://github.com/HilkopterBob/PackageLock/issues/109)
-
-- [FEAT: Add Server Restart reason](https://github.com/HilkopterBob/PackageLock/issues/58)
-
-- [Finalize Backend API](https://github.com/HilkopterBob/PackageLock/issues/37)
-
-
-## ray-project/kuberay <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [Check RayService `ray job submit` can successfully create a job by running it in the head Pod in the corresponding RayCluster](https://github.com/ray-project/kuberay/issues/2453)
-
-- [Check RayJob `ray job submit` can successfully create a job by running it in the head Pod in the corresponding RayCluster](https://github.com/ray-project/kuberay/issues/2452)
-
-- [Implement `CurlServiceRule` with golang for RayService](https://github.com/ray-project/kuberay/issues/2455)
-
-- [Implement `ShutdownJobRule` with golang for RayJob](https://github.com/ray-project/kuberay/issues/2454)
-
-
-## elastic/elastic-agent <span style='color:#F1C40F'>(132 ⭐️)</span>
-
-- [Update to gopkg.in/yaml.v3](https://github.com/elastic/elastic-agent/issues/5750)
-
-- [add skip audit/unenroll flag to uninstall command](https://github.com/elastic/elastic-agent/issues/5757)
-
-
-## Azure/eno <span style='color:#F1C40F'>(7 ⭐️)</span>
-
-- [Store a third synthesis](https://github.com/Azure/eno/issues/229)
-
-- [Replace missing resource slices](https://github.com/Azure/eno/issues/228)
-
-- [Composition deletion should succeed when its synthesizer is missing](https://github.com/Azure/eno/issues/227)
-
-- [More aggressive writebuffer behavior](https://github.com/Azure/eno/issues/226)
-
-- [Log reason why state was swapped](https://github.com/Azure/eno/issues/225)
-
-
-## cyclops-ui/cyclops <span style='color:#F1C40F'>(2.5K ⭐️)</span>
-
-- [Add tooltip to resource not needed warning](https://github.com/cyclops-ui/cyclops/issues/644)
-
-- [Filter Modules by TargetNamespace](https://github.com/cyclops-ui/cyclops/issues/640)
-
-- [Copy Module Name and Namespace buttons](https://github.com/cyclops-ui/cyclops/issues/639)
-
-- [Manifests modals to use the same theme](https://github.com/cyclops-ui/cyclops/issues/641)
-
-- [Add `skipCRDs` option to Module definition](https://github.com/cyclops-ui/cyclops/issues/602)
-
-- [`cyctl` interactive template auth rule creation](https://github.com/cyclops-ui/cyclops/issues/604)
-
-
-## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [Move validation to be part of the CRD](https://github.com/open-telemetry/opentelemetry-operator/issues/3319)
-
-
-## filecoin-project/lotus <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [eth_getBlockByNumber should return error for null round](https://github.com/filecoin-project/lotus/issues/12633)
-
-- [Standardise a top level output format for all lotus CLIs](https://github.com/filecoin-project/lotus/issues/12616)
-
-- [Lotus daemon --api setting overrides LOTUS_API_LISTENADDRESS without warning](https://github.com/filecoin-project/lotus/issues/12545)
-
-- [Dependency 'github.com/alecthomas/jsonschema' is no longer maintained](https://github.com/filecoin-project/lotus/issues/12559)
-
-- [Reduce default log verbosity for itests](https://github.com/filecoin-project/lotus/issues/12565)
-
-
-## Boeing/config-file-validator <span style='color:#F1C40F'>(337 ⭐️)</span>
-
-- [Add `--file-types` flag to include only specified config file types](https://github.com/Boeing/config-file-validator/issues/174)
-
-- [Update example execution images in the README](https://github.com/Boeing/config-file-validator/issues/175)
-
-- [Replace the text list of supported config file types with logos](https://github.com/Boeing/config-file-validator/issues/187)
-
-- [Add a fuzz test](https://github.com/Boeing/config-file-validator/issues/189)
-
-- [Integrate MegaLinter Github Action into Workflow](https://github.com/Boeing/config-file-validator/issues/188)
-
-- [Add List of file types that can be excluded in the `--help` output](https://github.com/Boeing/config-file-validator/issues/170)
-
-- [Add Sarif Validation](https://github.com/Boeing/config-file-validator/issues/173)
-
-
-## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [Documentation for azurerm_role_definition doesn't show Management Group Support](https://github.com/hashicorp/terraform-provider-azurerm/issues/27565)
 
