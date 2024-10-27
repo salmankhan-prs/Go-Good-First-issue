@@ -4,7 +4,31 @@
 
 
 
-<div align='center'>Last updated at October 26, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at October 27, 2024 00:01 UTC.</div>
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
+
+
+## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [(feature) Support for multiple exporters](https://github.com/thomaspoignant/go-feature-flag/issues/2505)
+
+- [(feature) Amazon Kinesis Exporter](https://github.com/thomaspoignant/go-feature-flag/issues/2557)
+
+- [(feature) Discord Notifier](https://github.com/thomaspoignant/go-feature-flag/issues/2564)
+
+- [(feature) Azure BlobStorage exporter](https://github.com/thomaspoignant/go-feature-flag/issues/2559)
+
+- [(feature) Bitbucket retriever](https://github.com/thomaspoignant/go-feature-flag/issues/2561)
+
+- [(feature) Azure Blob Storage retriever](https://github.com/thomaspoignant/go-feature-flag/issues/2558)
+
+- [(feature) Microsoft Teams Notifier](https://github.com/thomaspoignant/go-feature-flag/issues/2556)
+
+- [(feature) evaluation command line for local testing](https://github.com/thomaspoignant/go-feature-flag/issues/2560)
 
 
 ## owncast/owncast <span style='color:#F1C40F'>(9.4K ⭐️)</span>
@@ -18,6 +42,23 @@
 - [Documentation broken link: https://dev.maxmind.com/geoip/geoip2/geolite2/](https://github.com/owncast/owncast/issues/3960)
 
 
+## jaegertracing/jaeger <span style='color:#F1C40F'>(20.4K ⭐️)</span>
+
+- [[jaeger-v2] Add Meter Provider To Telemetry Settings](https://github.com/jaegertracing/jaeger/issues/6127)
+
+- [Improve unit test speed](https://github.com/jaegertracing/jaeger/issues/6111)
+
+- [[v2] How is tenancy handled / configured? Should it be part of storage config?](https://github.com/jaegertracing/jaeger/issues/6108)
+
+- [ES 8.x / v2 integration test often fails](https://github.com/jaegertracing/jaeger/issues/6094)
+
+- [[crossdock] Replace sampling calls to agent with calls to collector](https://github.com/jaegertracing/jaeger/issues/6083)
+
+- [Add integration test for hotrod on k8s](https://github.com/jaegertracing/jaeger/issues/6086)
+
+- [[query] Switch to use OTEL's http/grpc servers](https://github.com/jaegertracing/jaeger/issues/6026)
+
+
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(4.2K ⭐️)</span>
 
 - [Show WP version pipeline was run on](https://github.com/woodpecker-ci/woodpecker/issues/4204)
@@ -25,7 +66,7 @@
 - [ci: fail if feature has no docs](https://github.com/woodpecker-ci/woodpecker/issues/4147)
 
 
-## scribble-rs/scribble.rs <span style='color:#F1C40F'>(411 ⭐️)</span>
+## scribble-rs/scribble.rs <span style='color:#F1C40F'>(412 ⭐️)</span>
 
 - [Color picker has an inconsistent look and feel on chromium](https://github.com/scribble-rs/scribble.rs/issues/350)
 
@@ -129,30 +170,6 @@
 ## redis/rueidis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
 - [Feature: remove idle connections from pool](https://github.com/redis/rueidis/issues/651)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [(feature) Support for multiple exporters](https://github.com/thomaspoignant/go-feature-flag/issues/2505)
-
-- [(feature) Amazon Kinesis Exporter](https://github.com/thomaspoignant/go-feature-flag/issues/2557)
-
-- [(feature) Discord Notifier](https://github.com/thomaspoignant/go-feature-flag/issues/2564)
-
-- [(feature) Azure BlobStorage exporter](https://github.com/thomaspoignant/go-feature-flag/issues/2559)
-
-- [(feature) Bitbucket retriever](https://github.com/thomaspoignant/go-feature-flag/issues/2561)
-
-- [(feature) Azure Blob Storage retriever](https://github.com/thomaspoignant/go-feature-flag/issues/2558)
-
-- [(feature) Microsoft Teams Notifier](https://github.com/thomaspoignant/go-feature-flag/issues/2556)
-
-- [(feature) evaluation command line for local testing](https://github.com/thomaspoignant/go-feature-flag/issues/2560)
 
 
 ## vdaas/vald <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -271,23 +288,6 @@
 ## open-telemetry/opentelemetry-collector <span style='color:#F1C40F'>(4.4K ⭐️)</span>
 
 - [Deprecate and remove processorhelper.BuildCustomMetricName](https://github.com/open-telemetry/opentelemetry-collector/issues/11302)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(20.4K ⭐️)</span>
-
-- [[jaeger-v2] Add Meter Provider To Telemetry Settings](https://github.com/jaegertracing/jaeger/issues/6127)
-
-- [Improve unit test speed](https://github.com/jaegertracing/jaeger/issues/6111)
-
-- [[v2] How is tenancy handled / configured? Should it be part of storage config?](https://github.com/jaegertracing/jaeger/issues/6108)
-
-- [ES 8.x / v2 integration test often fails](https://github.com/jaegertracing/jaeger/issues/6094)
-
-- [[crossdock] Replace sampling calls to agent with calls to collector](https://github.com/jaegertracing/jaeger/issues/6083)
-
-- [Add integration test for hotrod on k8s](https://github.com/jaegertracing/jaeger/issues/6086)
-
-- [[query] Switch to use OTEL's http/grpc servers](https://github.com/jaegertracing/jaeger/issues/6026)
 
 
 ## ethereum-optimism/supersim <span style='color:#F1C40F'>(81 ⭐️)</span>
