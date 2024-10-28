@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at October 27, 2024 23:01 UTC.</div>
+<div align='center'>Last updated at October 28, 2024 00:02 UTC.</div>
+
+
+## zrepl/zrepl <span style='color:#F1C40F'>(948 ⭐️)</span>
+
+- [zrepl status: attempt & reconnect delay not intuitie](https://github.com/zrepl/zrepl/issues/833)
+
+- [transport tcp: allow client to specify its `client_identity` to enable dynamic IPs](https://github.com/zrepl/zrepl/issues/832)
+
+
+## robinje/multi-user-dungeon <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [Add Inactivity Timer](https://github.com/robinje/multi-user-dungeon/issues/258)
+
+- [Add Password Generation to Registration Page](https://github.com/robinje/multi-user-dungeon/issues/256)
+
+
+## sysadminsmedia/homebox <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [Maintenance completed date in the future still marks maintenance as completed](https://github.com/sysadminsmedia/homebox/issues/280)
 
 
 ## owncast/owncast <span style='color:#F1C40F'>(9.4K ⭐️)</span>
@@ -39,11 +58,6 @@
 - [sql/schema: add a NOTICE that a table created using CREATE TABLE AS does not inherit the primary key](https://github.com/cockroachdb/cockroach/issues/131675)
 
 
-## sysadminsmedia/homebox <span style='color:#F1C40F'>(1.0K ⭐️)</span>
-
-- [Maintenance completed date in the future still marks maintenance as completed](https://github.com/sysadminsmedia/homebox/issues/280)
-
-
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(20.4K ⭐️)</span>
 
 - [[jaeger-v2] Add Meter Provider To Telemetry Settings](https://github.com/jaegertracing/jaeger/issues/6127)
@@ -74,13 +88,6 @@
 - [Feature: SLIM/BUILD - An ability to keep the linux distribution metadata in the minified image ( --include-distro-metadata flag)](https://github.com/mintoolkit/mint/issues/69)
 
 - [Feature: Display Full Command Line Data When the Exit Function in ExecutionContext is Called](https://github.com/mintoolkit/mint/issues/70)
-
-
-## zrepl/zrepl <span style='color:#F1C40F'>(948 ⭐️)</span>
-
-- [zrepl status: attempt & reconnect delay not intuitie](https://github.com/zrepl/zrepl/issues/833)
-
-- [transport tcp: allow client to specify its `client_identity` to enable dynamic IPs](https://github.com/zrepl/zrepl/issues/832)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(14.9K ⭐️)</span>
@@ -316,9 +323,4 @@
 ## cortexproject/cortex <span style='color:#F1C40F'>(5.5K ⭐️)</span>
 
 - [Both branches of `if-then-else` are identical in `pkg/ruler/ruler_test.go`](https://github.com/cortexproject/cortex/issues/6287)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
 
