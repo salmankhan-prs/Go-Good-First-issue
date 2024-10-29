@@ -4,7 +4,17 @@
 
 
 
-<div align='center'>Last updated at October 28, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at October 29, 2024 00:01 UTC.</div>
+
+
+## kopia/kopia <span style='color:#F1C40F'>(7.8K ⭐️)</span>
+
+- [Multiline text field for Kopia Actions in UI (web + desktop)](https://github.com/kopia/kopia/issues/4179)
+
+
+## ethereum-optimism/supersim <span style='color:#F1C40F'>(82 ⭐️)</span>
+
+- [Add CLI command to display interop spec & optimism docs in Supersim flow](https://github.com/ethereum-optimism/supersim/issues/227)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
@@ -14,6 +24,11 @@
 - [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
 
 - [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(19.1K ⭐️)</span>
+
+- [Validate that tailscale.com/tailnet-ip annotation for the Kubernetes operator egress proxies contains a valid IP address](https://github.com/tailscale/tailscale/issues/13671)
 
 
 ## akuity/kargo <span style='color:#F1C40F'>(1.6K ⭐️)</span>
@@ -55,11 +70,6 @@
 - [Programmatically refer to version within docs](https://github.com/polymerdao/monomer/issues/258)
 
 - [Use `go run` instead of `go install` in `Makefile`](https://github.com/polymerdao/monomer/issues/248)
-
-
-## ethereum-optimism/supersim <span style='color:#F1C40F'>(82 ⭐️)</span>
-
-- [Add CLI command to display interop spec & optimism docs in Supersim flow](https://github.com/ethereum-optimism/supersim/issues/227)
 
 
 ## hashicorp/terraform-provider-azurerm <span style='color:#F1C40F'>(4.6K ⭐️)</span>
@@ -138,18 +148,18 @@
 - [[feature] Add Akkoma-style `preview` parameter to status creation](https://github.com/superseriousbusiness/gotosocial/issues/3492)
 
 
-## mindersec/minder <span style='color:#F1C40F'>(265 ⭐️)</span>
+## mindersec/minder <span style='color:#F1C40F'>(266 ⭐️)</span>
 
 - [Move `internal/entities/properties` to `pkg`](https://github.com/mindersec/minder/issues/4699)
 
 
 ## DefangLabs/defang <span style='color:#F1C40F'>(35 ⭐️)</span>
 
+- [`defang --provider aws` should fail fast if unauthenticated](https://github.com/DefangLabs/defang/issues/782)
+
 - [Regression: Tail/Compose Up no longer show hint on Ctrl-C](https://github.com/DefangLabs/defang/issues/790)
 
 - [defang provider set](https://github.com/DefangLabs/defang/issues/719)
-
-- [`defang --provider aws` should fail fast if unauthenticated](https://github.com/DefangLabs/defang/issues/782)
 
 
 ## guacsec/guac <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -234,11 +244,6 @@
 ## sysadminsmedia/homebox <span style='color:#F1C40F'>(1.1K ⭐️)</span>
 
 - [Maintenance completed date in the future still marks maintenance as completed](https://github.com/sysadminsmedia/homebox/issues/280)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(19.1K ⭐️)</span>
-
-- [Validate that tailscale.com/tailnet-ip annotation for the Kubernetes operator egress proxies contains a valid IP address](https://github.com/tailscale/tailscale/issues/13671)
 
 
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(6.2K ⭐️)</span>
@@ -384,23 +389,4 @@
 ## kumahq/kuma <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Support configuring Datadog remote config](https://github.com/kumahq/kuma/issues/11633)
-
-
-## updatecli/updatecli <span style='color:#F1C40F'>(565 ⭐️)</span>
-
-- [Adjust check-spelling pattern](https://github.com/updatecli/updatecli/issues/2804)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(4.4K ⭐️)</span>
-
-- [There is no lakectl command to check current user](https://github.com/treeverse/lakeFS/issues/8313)
-
-- [[Bug]: When stats sending fails it sends a warning](https://github.com/treeverse/lakeFS/issues/8287)
-
-- [lakeFS api test runs with >40 GiB of virtual memory, >6 GiB of which is resident](https://github.com/treeverse/lakeFS/issues/8263)
-
-
-## open-telemetry/opentelemetry-operator <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [Move validation to be part of the CRD](https://github.com/open-telemetry/opentelemetry-operator/issues/3319)
 
