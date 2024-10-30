@@ -4,46 +4,7 @@
 
 
 
-<div align='center'>Last updated at October 29, 2024 23:02 UTC.</div>
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(23.4K ⭐️)</span>
-
-- [Migrate csaf-poc/csaf_distribution to gocsaf/csaf](https://github.com/aquasecurity/trivy/issues/7805)
-
-- [fix(golang): do not trim `v` prefix from versions](https://github.com/aquasecurity/trivy/issues/7711)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(17.4K ⭐️)</span>
-
-- [Be able to use relative redirects (in Location header)](https://github.com/kubernetes/ingress-nginx/issues/12162)
-
-
-## kubearchive/kubearchive <span style='color:#F1C40F'>(12 ⭐️)</span>
-
-- [Unify labels for the different KubeArchive components](https://github.com/kubearchive/kubearchive/issues/499)
-
-- [Refactor the errors sent to abort.Abort()](https://github.com/kubearchive/kubearchive/issues/536)
-
-- [Update pull_request_template.md to show how to link a PR to several issues](https://github.com/kubearchive/kubearchive/issues/500)
-
-
-## DefangLabs/defang <span style='color:#F1C40F'>(35 ⭐️)</span>
-
-- [`defang --provider aws` should fail fast if unauthenticated](https://github.com/DefangLabs/defang/issues/782)
-
-- [Regression: Tail/Compose Up no longer show hint on Ctrl-C](https://github.com/DefangLabs/defang/issues/790)
-
-- [defang provider set](https://github.com/DefangLabs/defang/issues/719)
-
-
-## jlewi/foyle <span style='color:#F1C40F'>(103 ⭐️)</span>
-
-- [Document tips & tricks for how to work with the AI](https://github.com/jlewi/foyle/issues/323)
-
-- [Style <example> and <input> in our evaluation reports](https://github.com/jlewi/foyle/issues/289)
-
-- [LLM As Judge should describe programs as expected and actual](https://github.com/jlewi/foyle/issues/287)
+<div align='center'>Last updated at October 30, 2024 00:02 UTC.</div>
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
@@ -55,6 +16,41 @@
 - [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
 
 
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
+
+- [`send_quiet` is not working for `container` operator](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35726)
+
+
+## kubearchive/kubearchive <span style='color:#F1C40F'>(12 ⭐️)</span>
+
+- [Unify labels for the different KubeArchive components](https://github.com/kubearchive/kubearchive/issues/499)
+
+- [Refactor the errors sent to abort.Abort()](https://github.com/kubearchive/kubearchive/issues/536)
+
+- [Update pull_request_template.md to show how to link a PR to several issues](https://github.com/kubearchive/kubearchive/issues/500)
+
+
+## akuity/kargo <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [Add Kargo Promotion Step to Remove File and/or Directory](https://github.com/akuity/kargo/issues/2860)
+
+- [Descriptive names for subscriptions](https://github.com/akuity/kargo/issues/2839)
+
+
+## mindersec/minder <span style='color:#F1C40F'>(269 ⭐️)</span>
+
+- [Move `internal/entities/properties` to `pkg`](https://github.com/mindersec/minder/issues/4699)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(23.4K ⭐️)</span>
+
+- [fix(golang): do not trim `v` prefix from versions](https://github.com/aquasecurity/trivy/issues/7711)
+
+- [Migrate csaf-poc/csaf_distribution to gocsaf/csaf](https://github.com/aquasecurity/trivy/issues/7805)
+
+
 ## nucleuscloud/neosync <span style='color:#F1C40F'>(3.3K ⭐️)</span>
 
 - [[NEOS-1577] Auto-generate CLI Config JSON Schema](https://github.com/nucleuscloud/neosync/issues/2868)
@@ -64,6 +60,47 @@
 - [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
 
 - [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(17.4K ⭐️)</span>
+
+- [Be able to use relative redirects (in Location header)](https://github.com/kubernetes/ingress-nginx/issues/12162)
+
+
+## coder/coder <span style='color:#F1C40F'>(8.2K ⭐️)</span>
+
+- [Provide Postgresql database settings not only via connection string](https://github.com/coder/coder/issues/15264)
+
+- [chore: generate countries.tsx from Go code](https://github.com/coder/coder/issues/15074)
+
+- [Notifications: improve wording](https://github.com/coder/coder/issues/14893)
+
+
+## coder/coder <span style='color:#F1C40F'>(8.2K ⭐️)</span>
+
+- [Provide Postgresql database settings not only via connection string](https://github.com/coder/coder/issues/15264)
+
+- [chore: generate countries.tsx from Go code](https://github.com/coder/coder/issues/15074)
+
+- [Notifications: improve wording](https://github.com/coder/coder/issues/14893)
+
+
+## DefangLabs/defang <span style='color:#F1C40F'>(35 ⭐️)</span>
+
+- [`defang --provider aws` should fail fast if unauthenticated](https://github.com/DefangLabs/defang/issues/782)
+
+- [Regression: Tail/Compose Up no longer show hint on Ctrl-C](https://github.com/DefangLabs/defang/issues/790)
+
+- [defang provider set](https://github.com/DefangLabs/defang/issues/719)
+
+
+## jlewi/foyle <span style='color:#F1C40F'>(104 ⭐️)</span>
+
+- [Document tips & tricks for how to work with the AI](https://github.com/jlewi/foyle/issues/323)
+
+- [Style <example> and <input> in our evaluation reports](https://github.com/jlewi/foyle/issues/289)
+
+- [LLM As Judge should describe programs as expected and actual](https://github.com/jlewi/foyle/issues/287)
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(20.4K ⭐️)</span>
@@ -88,13 +125,6 @@
 - [Missing support fr RPC API over HTTPS](https://github.com/ipfs/kubo/issues/10539)
 
 
-## akuity/kargo <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [Add Kargo Promotion Step to Remove File and/or Directory](https://github.com/akuity/kargo/issues/2860)
-
-- [Descriptive names for subscriptions](https://github.com/akuity/kargo/issues/2839)
-
-
 ## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
 
 - [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
@@ -110,6 +140,11 @@
 ## camunda/camunda-platform-helm <span style='color:#F1C40F'>(74 ⭐️)</span>
 
 - [[ENHANCEMENT] Disable Connection test if the component is disabled](https://github.com/camunda/camunda-platform-helm/issues/2492)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [unclear message in task event from executor crash](https://github.com/hashicorp/nomad/issues/24220)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.8K ⭐️)</span>
@@ -145,9 +180,13 @@
 - [[BUG] Fields command returning all columns in the websocket/API response](https://github.com/siglens/siglens/issues/1713)
 
 
-## hashicorp/nomad <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+## treeverse/lakeFS <span style='color:#F1C40F'>(4.4K ⭐️)</span>
 
-- [unclear message in task event from executor crash](https://github.com/hashicorp/nomad/issues/24220)
+- [There is no lakectl command to check current user](https://github.com/treeverse/lakeFS/issues/8313)
+
+- [[Bug]: When stats sending fails it sends a warning](https://github.com/treeverse/lakeFS/issues/8287)
+
+- [lakeFS api test runs with >40 GiB of virtual memory, >6 GiB of which is resident](https://github.com/treeverse/lakeFS/issues/8263)
 
 
 ## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(4.2K ⭐️)</span>
@@ -175,6 +214,11 @@
 ## argoproj/argo-cd <span style='color:#F1C40F'>(17.8K ⭐️)</span>
 
 - [Document iconClass and displayName fields for custom resource action discovery](https://github.com/argoproj/argo-cd/issues/20460)
+
+
+## sysadminsmedia/homebox <span style='color:#F1C40F'>(1.1K ⭐️)</span>
+
+- [Maintenance completed date in the future still marks maintenance as completed](https://github.com/sysadminsmedia/homebox/issues/280)
 
 
 ## confluentinc/terraform-provider-confluent <span style='color:#F1C40F'>(30 ⭐️)</span>
@@ -228,6 +272,11 @@
 - [Github Billing and Usage](https://github.com/opencost/opencost-plugins/issues/42)
 
 
+## cilium/ebpf <span style='color:#F1C40F'>(6.3K ⭐️)</span>
+
+- [Run netkit test in separate network namespace](https://github.com/cilium/ebpf/issues/1577)
+
+
 ## tailscale/tailscale <span style='color:#F1C40F'>(19.1K ⭐️)</span>
 
 - [Validate that tailscale.com/tailnet-ip annotation for the Kubernetes operator egress proxies contains a valid IP address](https://github.com/tailscale/tailscale/issues/13671)
@@ -244,23 +293,9 @@
 - [Jobs API Metrics](https://github.com/dapr/dapr/issues/8160)
 
 
-## coder/coder <span style='color:#F1C40F'>(8.2K ⭐️)</span>
-
-- [Provide Postgresql database settings not only via connection string](https://github.com/coder/coder/issues/15264)
-
-- [chore: generate countries.tsx from Go code](https://github.com/coder/coder/issues/15074)
-
-- [Notifications: improve wording](https://github.com/coder/coder/issues/14893)
-
-
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(6.2K ⭐️)</span>
 
 - [Missing validations and implementation in x/circuit](https://github.com/cosmos/cosmos-sdk/issues/22322)
-
-
-## sysadminsmedia/homebox <span style='color:#F1C40F'>(1.1K ⭐️)</span>
-
-- [Maintenance completed date in the future still marks maintenance as completed](https://github.com/sysadminsmedia/homebox/issues/280)
 
 
 ## zeropsio/zcli <span style='color:#F1C40F'>(15 ⭐️)</span>
@@ -289,13 +324,6 @@
 - [Console: Filter organizations by id](https://github.com/zitadel/zitadel/issues/8792)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
-
-- [`send_quiet` is not working for `container` operator](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35726)
-
-
 ## open-feature/flagd <span style='color:#F1C40F'>(554 ⭐️)</span>
 
 - [[FEATURE] Support addition of arbitrary properties in evaluation context](https://github.com/open-feature/flagd/issues/1435)
@@ -318,27 +346,4 @@
 - [Provide tests for `systatus.go`](https://github.com/gdegiorgio/systatus/issues/10)
 
 - [Provide option to hide the values of some sensitive keys in the env when calling `/env`](https://github.com/gdegiorgio/systatus/issues/6)
-
-
-## pingcap/tidb <span style='color:#F1C40F'>(37.2K ⭐️)</span>
-
-- [Convert charset should consider index key length limitation](https://github.com/pingcap/tidb/issues/56930)
-
-- [Dumpling will stuck while it's expect to fallback to LOCK TABLES when FTWRL blocking for a long time](https://github.com/pingcap/tidb/issues/56838)
-
-- [lightning should cache the result of `columnAPI.Cols()` to improve performance](https://github.com/pingcap/tidb/issues/56705)
-
-- [too many "fail to get hist meta for this histogram, possibly a deleted one"](https://github.com/pingcap/tidb/issues/56740)
-
-- [`ALTER TABLE ... DROP FOREIGN KEY IF EXISTS ...` shouldn't be supported in parser](https://github.com/pingcap/tidb/issues/56701)
-
-
-## mindersec/minder <span style='color:#F1C40F'>(269 ⭐️)</span>
-
-- [Move `internal/entities/properties` to `pkg`](https://github.com/mindersec/minder/issues/4699)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [Support configuring Datadog remote config](https://github.com/kumahq/kuma/issues/11633)
 
