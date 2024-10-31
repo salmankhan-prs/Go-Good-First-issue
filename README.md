@@ -4,7 +4,63 @@
 
 
 
-<div align='center'>Last updated at October 30, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at October 31, 2024 00:03 UTC.</div>
+
+
+## istio/istio <span style='color:#F1C40F'>(35.9K ⭐️)</span>
+
+- [Add custom headers on invalid token](https://github.com/istio/istio/issues/53559)
+
+
+## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Add e2e test to validate webhook conversion from one version to another](https://github.com/kubernetes-sigs/kubebuilder/issues/4255)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
+
+
+## DefangLabs/defang <span style='color:#F1C40F'>(35 ⭐️)</span>
+
+- [`defang --provider aws` should fail fast if unauthenticated](https://github.com/DefangLabs/defang/issues/782)
+
+- [defang provider set](https://github.com/DefangLabs/defang/issues/719)
+
+
+## superseriousbusiness/gotosocial <span style='color:#F1C40F'>(3.8K ⭐️)</span>
+
+- [[feature] Add Akkoma-style `preview` parameter to status creation](https://github.com/superseriousbusiness/gotosocial/issues/3492)
+
+
+## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
+
+- [Fix Grafana dashboards for Hubble control plane and update doc](https://github.com/microsoft/retina/issues/811)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
+
+- [sql/schema: add a NOTICE that a table created using CREATE TABLE AS does not inherit the primary key](https://github.com/cockroachdb/cockroach/issues/131675)
+
+- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
+
+- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
+
+
+## ray-project/kuberay <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [Query dashboard to get the application status in head pod](https://github.com/ray-project/kuberay/issues/2481)
+
+- [Check `.status.numServeEndpoints` is greater than zero](https://github.com/ray-project/kuberay/issues/2483)
+
+- [Check RayJob successfully create RayCluster](https://github.com/ray-project/kuberay/issues/2452)
+
+- [Check all applications in Ray Serve are running](https://github.com/ray-project/kuberay/issues/2482)
+
+- [Check RayService can successfully create RayCluster](https://github.com/ray-project/kuberay/issues/2453)
 
 
 ## mintoolkit/mint <span style='color:#F1C40F'>(145 ⭐️)</span>
@@ -22,18 +78,9 @@
 - [Feature: Display Full Command Line Data When the Exit Function in ExecutionContext is Called](https://github.com/mintoolkit/mint/issues/70)
 
 
-## istio/istio <span style='color:#F1C40F'>(35.9K ⭐️)</span>
+## tailscale/tailscale <span style='color:#F1C40F'>(19.1K ⭐️)</span>
 
-- [Add custom headers on invalid token](https://github.com/istio/istio/issues/53559)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
-
-- [sql/schema: add a NOTICE that a table created using CREATE TABLE AS does not inherit the primary key](https://github.com/cockroachdb/cockroach/issues/131675)
-
-- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
-
-- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
+- [Validate that tailscale.com/tailnet-ip annotation for the Kubernetes operator egress proxies contains a valid IP address](https://github.com/tailscale/tailscale/issues/13671)
 
 
 ## ipfs/kubo <span style='color:#F1C40F'>(16.1K ⭐️)</span>
@@ -117,23 +164,9 @@
 - [Show WP version pipeline was run on](https://github.com/woodpecker-ci/woodpecker/issues/4204)
 
 
-## DefangLabs/defang <span style='color:#F1C40F'>(35 ⭐️)</span>
-
-- [Regression: Tail/Compose Up no longer show hint on Ctrl-C](https://github.com/DefangLabs/defang/issues/790)
-
-- [`defang --provider aws` should fail fast if unauthenticated](https://github.com/DefangLabs/defang/issues/782)
-
-- [defang provider set](https://github.com/DefangLabs/defang/issues/719)
-
-
 ## open-feature/flagd <span style='color:#F1C40F'>(554 ⭐️)</span>
 
 - [[FEATURE] Support addition of arbitrary properties in evaluation context](https://github.com/open-feature/flagd/issues/1435)
-
-
-## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Add e2e test to validate webhook conversion from one version to another](https://github.com/kubernetes-sigs/kubebuilder/issues/4255)
 
 
 ## kubestellar/kubestellar <span style='color:#F1C40F'>(269 ⭐️)</span>
@@ -189,9 +222,11 @@
 - [Move `internal/entities/properties` to `pkg`](https://github.com/mindersec/minder/issues/4699)
 
 
-## tailscale/tailscale <span style='color:#F1C40F'>(19.1K ⭐️)</span>
+## gittuf/gittuf <span style='color:#F1C40F'>(461 ⭐️)</span>
 
-- [Validate that tailscale.com/tailnet-ip annotation for the Kubernetes operator egress proxies contains a valid IP address](https://github.com/tailscale/tailscale/issues/13671)
+- [`gittuf rsl log` should write output incrementally](https://github.com/gittuf/gittuf/issues/630)
+
+- [gittuf-git: Add test cases for `cmd`](https://github.com/gittuf/gittuf/issues/591)
 
 
 ## testcontainers/testcontainers-go <span style='color:#F1C40F'>(3.6K ⭐️)</span>
@@ -286,13 +321,6 @@
 - [Move validation to be part of the CRD](https://github.com/open-telemetry/opentelemetry-operator/issues/3319)
 
 
-## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
-
-- [Fix Grafana dashboards for Hubble control plane and update doc](https://github.com/microsoft/retina/issues/811)
-
-
 ## camunda/camunda-platform-helm <span style='color:#F1C40F'>(74 ⭐️)</span>
 
 - [[ENHANCEMENT] Disable Connection test if the component is disabled](https://github.com/camunda/camunda-platform-helm/issues/2492)
@@ -367,11 +395,6 @@
 - [Add callback cli command](https://github.com/resonatehq/resonate/issues/435)
 
 
-## superseriousbusiness/gotosocial <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [[feature] Add Akkoma-style `preview` parameter to status creation](https://github.com/superseriousbusiness/gotosocial/issues/3492)
-
-
 ## grafana/alloy <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
 - [Docs feedback: Syntax is seemingly undocumented](https://github.com/grafana/alloy/issues/1872)
@@ -384,9 +407,4 @@
 - [Add credentialsFile support in scrape class](https://github.com/prometheus-operator/prometheus-operator/issues/6986)
 
 - [Reorganize Documentation Directory](https://github.com/prometheus-operator/prometheus-operator/issues/6983)
-
-
-## kopia/kopia <span style='color:#F1C40F'>(7.8K ⭐️)</span>
-
-- [Multiline text field for Kopia Actions in UI (web + desktop)](https://github.com/kopia/kopia/issues/4179)
 
