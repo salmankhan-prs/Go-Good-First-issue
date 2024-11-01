@@ -4,7 +4,69 @@
 
 
 
-<div align='center'>Last updated at October 31, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 1, 2024 00:02 UTC.</div>
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(20.4K ⭐️)</span>
+
+- [[jaeger-v2] Add Meter Provider To Telemetry Settings](https://github.com/jaegertracing/jaeger/issues/6127)
+
+- [[v2] How is tenancy handled / configured? Should it be part of storage config?](https://github.com/jaegertracing/jaeger/issues/6108)
+
+- [Improve unit test speed](https://github.com/jaegertracing/jaeger/issues/6111)
+
+- [ES 8.x / v2 integration test often fails](https://github.com/jaegertracing/jaeger/issues/6094)
+
+- [[crossdock] Replace sampling calls to agent with calls to collector](https://github.com/jaegertracing/jaeger/issues/6083)
+
+- [Add integration test for hotrod on k8s](https://github.com/jaegertracing/jaeger/issues/6086)
+
+
+## ethereum-optimism/supersim <span style='color:#F1C40F'>(86 ⭐️)</span>
+
+- [Add CLI command to display interop spec & optimism docs in Supersim flow](https://github.com/ethereum-optimism/supersim/issues/227)
+
+
+## kubearchive/kubearchive <span style='color:#F1C40F'>(12 ⭐️)</span>
+
+- [Unify labels for the different KubeArchive components](https://github.com/kubearchive/kubearchive/issues/499)
+
+- [Refactor the errors sent to abort.Abort()](https://github.com/kubearchive/kubearchive/issues/536)
+
+- [Update pull_request_template.md to show how to link a PR to several issues](https://github.com/kubearchive/kubearchive/issues/500)
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(10.7K ⭐️)</span>
+
+- [proxy-injector doesn't respect JSON logging configuration for all log messages](https://github.com/linkerd/linkerd2/issues/13168)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
+
+- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
+
+- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
+
+
+## kumahq/kuma <span style='color:#F1C40F'>(3.7K ⭐️)</span>
+
+- [Support configuring Datadog remote config](https://github.com/kumahq/kuma/issues/11633)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(24.0K ⭐️)</span>
+
+- [Conversation API feedback - proto type names](https://github.com/dapr/dapr/issues/8241)
+
+- [Add more descriptive logging for component startup failure](https://github.com/dapr/dapr/issues/8236)
+
+- [Introduce config to optionally disable requests to `/dapr/config` and `/dapr/subscribe`during dapr init](https://github.com/dapr/dapr/issues/8224)
+
+- [Jobs API Metrics](https://github.com/dapr/dapr/issues/8160)
+
+
+## tailscale/tailscale <span style='color:#F1C40F'>(19.2K ⭐️)</span>
+
+- [Validate that tailscale.com/tailnet-ip annotation for the Kubernetes operator egress proxies contains a valid IP address](https://github.com/tailscale/tailscale/issues/13671)
 
 
 ## coder/coder <span style='color:#F1C40F'>(8.2K ⭐️)</span>
@@ -52,21 +114,9 @@
 - [Check all applications in Ray Serve are running](https://github.com/ray-project/kuberay/issues/2482)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
-
-- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
-
-- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
-
-
 ## argoproj/argo-cd <span style='color:#F1C40F'>(17.8K ⭐️)</span>
 
 - [Document iconClass and displayName fields for custom resource action discovery](https://github.com/argoproj/argo-cd/issues/20460)
-
-
-## tailscale/tailscale <span style='color:#F1C40F'>(19.2K ⭐️)</span>
-
-- [Validate that tailscale.com/tailnet-ip annotation for the Kubernetes operator egress proxies contains a valid IP address](https://github.com/tailscale/tailscale/issues/13671)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(4.1K ⭐️)</span>
@@ -142,11 +192,6 @@
 - [[Bug]: When stats sending fails it sends a warning](https://github.com/treeverse/lakeFS/issues/8287)
 
 - [lakeFS api test runs with >40 GiB of virtual memory, >6 GiB of which is resident](https://github.com/treeverse/lakeFS/issues/8263)
-
-
-## kumahq/kuma <span style='color:#F1C40F'>(3.7K ⭐️)</span>
-
-- [Support configuring Datadog remote config](https://github.com/kumahq/kuma/issues/11633)
 
 
 ## cortexproject/cortex <span style='color:#F1C40F'>(5.5K ⭐️)</span>
@@ -380,55 +425,4 @@
 - [[Bug]: Zitadel Logo showing both dark and light](https://github.com/zitadel/zitadel/issues/8770)
 
 - [Console: Filter organizations by id](https://github.com/zitadel/zitadel/issues/8792)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(20.4K ⭐️)</span>
-
-- [[jaeger-v2] Add Meter Provider To Telemetry Settings](https://github.com/jaegertracing/jaeger/issues/6127)
-
-- [[v2] How is tenancy handled / configured? Should it be part of storage config?](https://github.com/jaegertracing/jaeger/issues/6108)
-
-- [Improve unit test speed](https://github.com/jaegertracing/jaeger/issues/6111)
-
-- [ES 8.x / v2 integration test often fails](https://github.com/jaegertracing/jaeger/issues/6094)
-
-- [[crossdock] Replace sampling calls to agent with calls to collector](https://github.com/jaegertracing/jaeger/issues/6083)
-
-- [Add integration test for hotrod on k8s](https://github.com/jaegertracing/jaeger/issues/6086)
-
-
-## filecoin-project/lotus <span style='color:#F1C40F'>(2.8K ⭐️)</span>
-
-- [Reduce default log verbosity for itests](https://github.com/filecoin-project/lotus/issues/12565)
-
-- [ChainIndexer: move lotus-shed chainindex into lotus CLI](https://github.com/filecoin-project/lotus/issues/12654)
-
-- [Dependency 'github.com/alecthomas/jsonschema' is no longer maintained](https://github.com/filecoin-project/lotus/issues/12559)
-
-- [Standardise a top level output format for all lotus CLIs](https://github.com/filecoin-project/lotus/issues/12616)
-
-- [Lotus daemon --api setting overrides LOTUS_API_LISTENADDRESS without warning](https://github.com/filecoin-project/lotus/issues/12545)
-
-
-## testcontainers/testcontainers-go <span style='color:#F1C40F'>(3.6K ⭐️)</span>
-
-- [Extend contributing guides to mention avoiding packaging clients in the modules](https://github.com/testcontainers/testcontainers-go/issues/2832)
-
-- [[Enhancement]: use testify's require instead of assert.](https://github.com/testcontainers/testcontainers-go/issues/2808)
-
-
-## kubearchive/kubearchive <span style='color:#F1C40F'>(12 ⭐️)</span>
-
-- [Unify labels for the different KubeArchive components](https://github.com/kubearchive/kubearchive/issues/499)
-
-- [Refactor the errors sent to abort.Abort()](https://github.com/kubearchive/kubearchive/issues/536)
-
-- [Update pull_request_template.md to show how to link a PR to several issues](https://github.com/kubearchive/kubearchive/issues/500)
-
-
-## elastic/elastic-agent <span style='color:#F1C40F'>(15 ⭐️)</span>
-
-- [add skip audit/unenroll flag to uninstall command](https://github.com/elastic/elastic-agent/issues/5757)
-
-- [Update to gopkg.in/yaml.v3](https://github.com/elastic/elastic-agent/issues/5750)
 
