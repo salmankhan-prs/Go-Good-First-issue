@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at November 1, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 2, 2024 00:02 UTC.</div>
 
 
 ## elastic/elastic-agent <span style='color:#F1C40F'>(16 ⭐️)</span>
@@ -12,6 +12,30 @@
 - [add skip audit/unenroll flag to uninstall command](https://github.com/elastic/elastic-agent/issues/5757)
 
 - [Update to gopkg.in/yaml.v3](https://github.com/elastic/elastic-agent/issues/5750)
+
+
+## redis/rueidis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [Enhancement: Graceful Handling of Redis LOADING State in Rueidis](https://github.com/redis/rueidis/issues/656)
+
+- [Feature: remove idle connections from pool](https://github.com/redis/rueidis/issues/651)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [`send_quiet` is not working for `container` operator](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35726)
+
+- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
+
+
+## kedacore/keda <span style='color:#F1C40F'>(8.5K ⭐️)</span>
+
+- [Authentication with Security Bundle for Cassandra Scaler](https://github.com/kedacore/keda/issues/6277)
+
+
+## istio/istio <span style='color:#F1C40F'>(35.9K ⭐️)</span>
+
+- [Add custom headers on invalid token](https://github.com/istio/istio/issues/53559)
 
 
 ## tailscale/tailscale <span style='color:#F1C40F'>(19.2K ⭐️)</span>
@@ -29,20 +53,6 @@
 - [Both branches of `if-then-else` are identical in `pkg/ruler/ruler_test.go`](https://github.com/cortexproject/cortex/issues/6287)
 
 
-## redis/rueidis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [Enhancement: Graceful Handling of Redis LOADING State in Rueidis](https://github.com/redis/rueidis/issues/656)
-
-- [Feature: remove idle connections from pool](https://github.com/redis/rueidis/issues/651)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [`send_quiet` is not working for `container` operator](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35726)
-
-- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
-
-
 ## owncast/owncast <span style='color:#F1C40F'>(9.5K ⭐️)</span>
 
 - [Create an equivalent external/integration API endpoint for /api/status](https://github.com/owncast/owncast/issues/3981)
@@ -52,6 +62,11 @@
 - [Add support for translations in the web project](https://github.com/owncast/owncast/issues/3950)
 
 - [Documentation broken link: https://dev.maxmind.com/geoip/geoip2/geolite2/](https://github.com/owncast/owncast/issues/3960)
+
+
+## creativeprojects/resticprofile <span style='color:#F1C40F'>(731 ⭐️)</span>
+
+- [Forward restic exit code from resticprofile](https://github.com/creativeprojects/resticprofile/issues/410)
 
 
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(4.6K ⭐️)</span>
@@ -72,6 +87,11 @@
 - [Fix Grafana dashboards for Hubble control plane and update doc](https://github.com/microsoft/retina/issues/811)
 
 
+## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(4.2K ⭐️)</span>
+
+- [Show WP version pipeline was run on](https://github.com/woodpecker-ci/woodpecker/issues/4204)
+
+
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
 
 - [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
@@ -89,6 +109,13 @@
 - [bug: spelling checker checks invisible HTML](https://github.com/kubestellar/kubestellar/issues/2507)
 
 - [feature: expand regular testing](https://github.com/kubestellar/kubestellar/issues/2506)
+
+
+## coder/coder <span style='color:#F1C40F'>(8.2K ⭐️)</span>
+
+- [Provide Postgresql database settings not only via connection string](https://github.com/coder/coder/issues/15264)
+
+- [chore: generate countries.tsx from Go code](https://github.com/coder/coder/issues/15074)
 
 
 ## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
@@ -116,11 +143,6 @@
 - [[ingestion/data-quality issue] JSON lines files are rejected](https://github.com/guacsec/guac/issues/2187)
 
 
-## woodpecker-ci/woodpecker <span style='color:#F1C40F'>(4.2K ⭐️)</span>
-
-- [Show WP version pipeline was run on](https://github.com/woodpecker-ci/woodpecker/issues/4204)
-
-
 ## DefangLabs/defang <span style='color:#F1C40F'>(35 ⭐️)</span>
 
 - [`defang --provider aws` should fail fast if unauthenticated](https://github.com/DefangLabs/defang/issues/782)
@@ -131,13 +153,6 @@
 ## traPtitech/traQ <span style='color:#F1C40F'>(424 ⭐️)</span>
 
 - [groupsのbulk処理のtest](https://github.com/traPtitech/traQ/issues/2521)
-
-
-## coder/coder <span style='color:#F1C40F'>(8.2K ⭐️)</span>
-
-- [Provide Postgresql database settings not only via connection string](https://github.com/coder/coder/issues/15264)
-
-- [chore: generate countries.tsx from Go code](https://github.com/coder/coder/issues/15074)
 
 
 ## QuesmaOrg/quesma <span style='color:#F1C40F'>(96 ⭐️)</span>
@@ -267,7 +282,7 @@
 - [Geth Discv5 P2P Analysis and Testing](https://github.com/omni-network/omni/issues/2069)
 
 
-## mindersec/minder <span style='color:#F1C40F'>(275 ⭐️)</span>
+## mindersec/minder <span style='color:#F1C40F'>(276 ⭐️)</span>
 
 - [Move `internal/entities/properties` to `pkg`](https://github.com/mindersec/minder/issues/4699)
 
@@ -296,6 +311,11 @@
 - [Implement the GET /v3/apps/guid/droplets endpoint](https://github.com/cloudfoundry/korifi/issues/3552)
 
 
+## hashicorp/terraform-provider-kubernetes <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Create kubernetes_persistent_volume_claim from snapshot](https://github.com/hashicorp/terraform-provider-kubernetes/issues/2608)
+
+
 ## testcontainers/testcontainers-go <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Extend contributing guides to mention avoiding packaging clients in the modules](https://github.com/testcontainers/testcontainers-go/issues/2832)
@@ -304,11 +324,6 @@
 ## grafana/alloy <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
 - [Docs feedback: Syntax is seemingly undocumented](https://github.com/grafana/alloy/issues/1872)
-
-
-## istio/istio <span style='color:#F1C40F'>(35.9K ⭐️)</span>
-
-- [Add custom headers on invalid token](https://github.com/istio/istio/issues/53559)
 
 
 ## pingcap/tidb <span style='color:#F1C40F'>(37.2K ⭐️)</span>
@@ -348,27 +363,4 @@
 - [Sign and verify message by ed25519](https://github.com/pactus-project/pactus/issues/1549)
 
 - [Fix transaction link in GUI](https://github.com/pactus-project/pactus/issues/1569)
-
-
-## score-spec/score-k8s <span style='color:#F1C40F'>(26 ⭐️)</span>
-
-- [[feature request] Add a default in-cluster `elasticsearch` provisioner](https://github.com/score-spec/score-k8s/issues/68)
-
-- [[feature request] Add a default in-cluster `kafka-topic` provisioner](https://github.com/score-spec/score-k8s/issues/67)
-
-- [[feature request] Add a default in-cluster `s3` provisioner](https://github.com/score-spec/score-k8s/issues/65)
-
-- [[feature request] Add a default `service-port` provisioner](https://github.com/score-spec/score-k8s/issues/64)
-
-- [[feature request] `check-version` subcommand](https://github.com/score-spec/score-k8s/issues/50)
-
-
-## score-spec/score-compose <span style='color:#F1C40F'>(448 ⭐️)</span>
-
-- [[feature request] Add a default `mssql` provisioner](https://github.com/score-spec/score-compose/issues/195)
-
-
-## alibaba/higress <span style='color:#F1C40F'>(3.2K ⭐️)</span>
-
-- [custom-response插件支持对多个不同状态码自定义不同的应答](https://github.com/alibaba/higress/issues/1434)
 
