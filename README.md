@@ -4,19 +4,17 @@
 
 
 
-<div align='center'>Last updated at November 2, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 3, 2024 00:02 UTC.</div>
+
+
+## redis/rueidis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [Feature: remove idle connections from pool](https://github.com/redis/rueidis/issues/651)
 
 
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(17.5K ⭐️)</span>
 
 - [Be able to use relative redirects (in Location header)](https://github.com/kubernetes/ingress-nginx/issues/12162)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
-
-- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
-
-- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
 
 
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(4.6K ⭐️)</span>
@@ -28,6 +26,13 @@
 - [[Bug]: "cnpg psql" doesn't detect a cluster that doesn't exist](https://github.com/cloudnative-pg/cloudnative-pg/issues/5913)
 
 - [[Bug]: Make `color` argument of kubectl cnpg a global variable](https://github.com/cloudnative-pg/cloudnative-pg/issues/5849)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
+
+- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
+
+- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
 
 
 ## kubeflow/training-operator <span style='color:#F1C40F'>(1.6K ⭐️)</span>
@@ -249,13 +254,6 @@
 ## updatecli/updatecli <span style='color:#F1C40F'>(570 ⭐️)</span>
 
 - [Adjust check-spelling pattern](https://github.com/updatecli/updatecli/issues/2804)
-
-
-## redis/rueidis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
-
-- [Enhancement: Graceful Handling of Redis LOADING State in Rueidis](https://github.com/redis/rueidis/issues/656)
-
-- [Feature: remove idle connections from pool](https://github.com/redis/rueidis/issues/651)
 
 
 ## hashicorp/nomad <span style='color:#F1C40F'>(14.9K ⭐️)</span>
