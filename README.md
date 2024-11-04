@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at November 3, 2024 23:01 UTC.</div>
+<div align='center'>Last updated at November 4, 2024 00:02 UTC.</div>
 
 
 ## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
@@ -85,6 +85,11 @@
 - [[Bug]: "cnpg psql" doesn't detect a cluster that doesn't exist](https://github.com/cloudnative-pg/cloudnative-pg/issues/5913)
 
 - [[Bug]: Make `color` argument of kubectl cnpg a global variable](https://github.com/cloudnative-pg/cloudnative-pg/issues/5849)
+
+
+## grafana/alloy <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [Docs feedback: Syntax is seemingly undocumented](https://github.com/grafana/alloy/issues/1872)
 
 
 ## istio/istio <span style='color:#F1C40F'>(35.9K ⭐️)</span>
@@ -369,19 +374,4 @@
 - [[Enhancement Request] Configure VTGate and VTTablet Using SQL Command](https://github.com/wesql/wescale/issues/567)
 
 - [[Enhancement Request] Support Temporary table When using Declarative DDL](https://github.com/wesql/wescale/issues/566)
-
-
-## x-sushant-x/Rate-Shield <span style='color:#F1C40F'>(108 ⭐️)</span>
-
-- [hacktoberfest - add example on how to use Rate Shield with Gin](https://github.com/x-sushant-x/Rate-Shield/issues/20)
-
-- [hacktoberfest - implement basic sliding window rate limit strategy](https://github.com/x-sushant-x/Rate-Shield/issues/17)
-
-- [add examples for using Rate Shield using your favourite frameworks](https://github.com/x-sushant-x/Rate-Shield/issues/24)
-
-- [add example of using Rate Shield with Spring Boot](https://github.com/x-sushant-x/Rate-Shield/issues/23)
-
-- [add examples of how to use Rate Shield with Fast API](https://github.com/x-sushant-x/Rate-Shield/issues/22)
-
-- [add example of using Rate Shield with Django](https://github.com/x-sushant-x/Rate-Shield/issues/21)
 
