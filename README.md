@@ -4,12 +4,64 @@
 
 
 
-<div align='center'>Last updated at November 4, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 5, 2024 00:03 UTC.</div>
+
+
+## google/gvisor <span style='color:#F1C40F'>(15.8K ⭐️)</span>
+
+- [Runsc exec wipes capabilities if they are provided](https://github.com/google/gvisor/issues/11108)
 
 
 ## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
+
+- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
+
+- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
+
+
+## grafana/tempo <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Limit maximun number of spans for span sets](https://github.com/grafana/tempo/issues/4275)
+
+- [tempo-cli: add support for dropping multiple traces in single operation](https://github.com/grafana/tempo/issues/4246)
+
+
+## nucleuscloud/neosync <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
+
+- [[NEOS-1577] Auto-generate CLI Config JSON Schema](https://github.com/nucleuscloud/neosync/issues/2868)
+
+- [[NEOS-1581] Update tests to use slogt](https://github.com/nucleuscloud/neosync/issues/2872)
+
+- [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
+
+
+## akuity/kargo <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [Document the possible values of Warehouse imageSelectionStrategy](https://github.com/akuity/kargo/issues/2880)
+
+- [Add Kargo Promotion Step to Remove File and/or Directory](https://github.com/akuity/kargo/issues/2860)
+
+- [Descriptive names for subscriptions](https://github.com/akuity/kargo/issues/2839)
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(20.4K ⭐️)</span>
+
+- [Improve unit test speed](https://github.com/jaegertracing/jaeger/issues/6111)
+
+- [ES 8.x / v2 integration test often fails](https://github.com/jaegertracing/jaeger/issues/6094)
+
+- [[jaeger-v2] Add Meter Provider To Telemetry Settings](https://github.com/jaegertracing/jaeger/issues/6127)
+
+- [[v2] How is tenancy handled / configured? Should it be part of storage config?](https://github.com/jaegertracing/jaeger/issues/6108)
+
+- [Add integration test for hotrod on k8s](https://github.com/jaegertracing/jaeger/issues/6086)
 
 
 ## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
@@ -19,27 +71,9 @@
 - [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
 
 
-## jaegertracing/jaeger <span style='color:#F1C40F'>(20.4K ⭐️)</span>
-
-- [ES 8.x / v2 integration test often fails](https://github.com/jaegertracing/jaeger/issues/6094)
-
-- [[jaeger-v2] Add Meter Provider To Telemetry Settings](https://github.com/jaegertracing/jaeger/issues/6127)
-
-- [[v2] How is tenancy handled / configured? Should it be part of storage config?](https://github.com/jaegertracing/jaeger/issues/6108)
-
-- [Improve unit test speed](https://github.com/jaegertracing/jaeger/issues/6111)
-
-- [Add integration test for hotrod on k8s](https://github.com/jaegertracing/jaeger/issues/6086)
-
-
 ## kubernetes/ingress-nginx <span style='color:#F1C40F'>(17.5K ⭐️)</span>
 
 - [Be able to use relative redirects (in Location header)](https://github.com/kubernetes/ingress-nginx/issues/12162)
-
-
-## google/gvisor <span style='color:#F1C40F'>(15.8K ⭐️)</span>
-
-- [Runsc exec wipes capabilities if they are provided](https://github.com/google/gvisor/issues/11108)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(17.8K ⭐️)</span>
@@ -83,24 +117,6 @@
 - [(feature) Support for multiple exporters](https://github.com/thomaspoignant/go-feature-flag/issues/2505)
 
 
-## nucleuscloud/neosync <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
-
-- [[NEOS-1577] Auto-generate CLI Config JSON Schema](https://github.com/nucleuscloud/neosync/issues/2868)
-
-- [[NEOS-1581] Update tests to use slogt](https://github.com/nucleuscloud/neosync/issues/2872)
-
-- [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
-
-
-## grafana/tempo <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Limit maximun number of spans for span sets](https://github.com/grafana/tempo/issues/4275)
-
-- [tempo-cli: add support for dropping multiple traces in single operation](https://github.com/grafana/tempo/issues/4246)
-
-
 ## hashicorp/nomad <span style='color:#F1C40F'>(14.9K ⭐️)</span>
 
 - [unclear message in task event from executor crash](https://github.com/hashicorp/nomad/issues/24220)
@@ -114,13 +130,6 @@
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.5K ⭐️)</span>
 
 - [server ignores request to gzip data](https://github.com/prysmaticlabs/prysm/issues/14593)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
-
-- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
-
-- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -164,11 +173,6 @@
 ## guacsec/guac <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
 - [[ingestion/data-quality issue] JSON lines files are rejected](https://github.com/guacsec/guac/issues/2187)
-
-
-## DefangLabs/defang <span style='color:#F1C40F'>(35 ⭐️)</span>
-
-- [`defang --provider aws` should fail fast if unauthenticated](https://github.com/DefangLabs/defang/issues/782)
 
 
 ## DefangLabs/defang <span style='color:#F1C40F'>(35 ⭐️)</span>
@@ -238,18 +242,14 @@
 - [Update `examples/`](https://github.com/libp2p/go-libp2p/issues/3017)
 
 
-## akuity/kargo <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [Document the possible values of Warehouse imageSelectionStrategy](https://github.com/akuity/kargo/issues/2880)
-
-- [Add Kargo Promotion Step to Remove File and/or Directory](https://github.com/akuity/kargo/issues/2860)
-
-- [Descriptive names for subscriptions](https://github.com/akuity/kargo/issues/2839)
-
-
 ## provenance-io/provenance <span style='color:#F1C40F'>(88 ⭐️)</span>
 
 - [Create a multi-authorization.](https://github.com/provenance-io/provenance/issues/2207)
+
+
+## onflow/cadence <span style='color:#F1C40F'>(533 ⭐️)</span>
+
+- [Get a list of all cases of an enum](https://github.com/onflow/cadence/issues/3671)
 
 
 ## coder/coder <span style='color:#F1C40F'>(8.2K ⭐️)</span>
@@ -347,4 +347,42 @@
 - [Enhancement `GETRANGE` to support all available datatypes](https://github.com/DiceDB/dice/issues/1194)
 
 - [Add support for `PFCOUNT.WATCH` command](https://github.com/DiceDB/dice/issues/1133)
+
+
+## kubestellar/kubestellar <span style='color:#F1C40F'>(270 ⭐️)</span>
+
+- [bug: spelling checker checks invisible HTML](https://github.com/kubestellar/kubestellar/issues/2507)
+
+- [feature: expand regular testing](https://github.com/kubestellar/kubestellar/issues/2506)
+
+
+## open-telemetry/opentelemetry-go-contrib <span style='color:#F1C40F'>(1.2K ⭐️)</span>
+
+- [Support Environment Variable Installation and Configuration of Jaeger Remote Sampler](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/6256)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [[Bug]: Documentation still reports pod security policies](https://github.com/cloudnative-pg/cloudnative-pg/issues/5996)
+
+- [[Bug]: Standardize the cluster name argument in kubectl cnpg plugin](https://github.com/cloudnative-pg/cloudnative-pg/issues/5848)
+
+- [[Bug]: Make `color` argument of kubectl cnpg a global variable](https://github.com/cloudnative-pg/cloudnative-pg/issues/5849)
+
+
+## kubernetes/autoscaler <span style='color:#F1C40F'>(8.1K ⭐️)</span>
+
+- [cluster_autoscaler_failed_scale_ups_total metric is missing from metrics until an event is registered](https://github.com/kubernetes/autoscaler/issues/7448)
+
+
+## RamenDR/ramen <span style='color:#F1C40F'>(73 ⭐️)</span>
+
+- [drenv deps: Install helm from github releases](https://github.com/RamenDR/ramen/issues/1623)
+
+- [e2e: Improper use of error formatting](https://github.com/RamenDR/ramen/issues/1618)
+
+
+## QuesmaOrg/quesma <span style='color:#F1C40F'>(97 ⭐️)</span>
+
+- [Add some numeric values to demo logs](https://github.com/QuesmaOrg/quesma/issues/864)
 
