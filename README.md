@@ -4,7 +4,66 @@
 
 
 
-<div align='center'>Last updated at November 5, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 6, 2024 00:02 UTC.</div>
+
+
+## gittuf/gittuf <span style='color:#F1C40F'>(462 ⭐️)</span>
+
+- [`gittuf rsl log` should write output incrementally](https://github.com/gittuf/gittuf/issues/630)
+
+- [gittuf-git: Add test cases for `cmd`](https://github.com/gittuf/gittuf/issues/591)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
+
+- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
+
+- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
+
+
+## omni-network/omni <span style='color:#F1C40F'>(87 ⭐️)</span>
+
+- [Deploy gas pump contracts on mainnet](https://github.com/omni-network/omni/issues/2206)
+
+- [Address remaining informational and low security audit findings by Spearbit](https://github.com/omni-network/omni/issues/2115)
+
+
+## project-copacetic/copacetic <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+
+- [[DOC] update design/tradeoffs doc regarding scanner vuln reports](https://github.com/project-copacetic/copacetic/issues/818)
+
+
+## DefangLabs/defang <span style='color:#F1C40F'>(35 ⭐️)</span>
+
+- [`defang --provider aws` should fail fast if unauthenticated](https://github.com/DefangLabs/defang/issues/782)
+
+
+## pingcap/tidb <span style='color:#F1C40F'>(37.2K ⭐️)</span>
+
+- [lightning should cache the result of `columnAPI.Cols()` to improve performance](https://github.com/pingcap/tidb/issues/56705)
+
+- [Improve observability of fast reorg ADD INDEX progress](https://github.com/pingcap/tidb/issues/56986)
+
+- [Dumpling will stuck while it's expect to fallback to LOCK TABLES when FTWRL blocking for a long time](https://github.com/pingcap/tidb/issues/56838)
+
+- [too many "fail to get hist meta for this histogram, possibly a deleted one"](https://github.com/pingcap/tidb/issues/56740)
+
+
+## aquasecurity/trivy <span style='color:#F1C40F'>(23.5K ⭐️)</span>
+
+- [Migrate csaf-poc/csaf_distribution to gocsaf/csaf](https://github.com/aquasecurity/trivy/issues/7805)
+
+
+## coder/coder <span style='color:#F1C40F'>(8.2K ⭐️)</span>
+
+- [Provide Postgresql database settings not only via connection string](https://github.com/coder/coder/issues/15264)
+
+- [chore: generate countries.tsx from Go code](https://github.com/coder/coder/issues/15074)
+
+
+## google/gvisor <span style='color:#F1C40F'>(15.8K ⭐️)</span>
+
+- [Runsc exec wipes capabilities if they are provided](https://github.com/google/gvisor/issues/11108)
 
 
 ## nucleuscloud/neosync <span style='color:#F1C40F'>(3.3K ⭐️)</span>
@@ -23,13 +82,6 @@
 - [EventHub component delivers out of order messages (pubsub, binding)](https://github.com/dapr/components-contrib/issues/3568)
 
 
-## omni-network/omni <span style='color:#F1C40F'>(87 ⭐️)</span>
-
-- [Deploy gas pump contracts on mainnet](https://github.com/omni-network/omni/issues/2206)
-
-- [Address remaining informational and low security audit findings by Spearbit](https://github.com/omni-network/omni/issues/2115)
-
-
 ## argoproj/argo-cd <span style='color:#F1C40F'>(17.8K ⭐️)</span>
 
 - [Document iconClass and displayName fields for custom resource action discovery](https://github.com/argoproj/argo-cd/issues/20460)
@@ -38,18 +90,6 @@
 ## superseriousbusiness/gotosocial <span style='color:#F1C40F'>(3.8K ⭐️)</span>
 
 - [[feature] Add Akkoma-style `preview` parameter to status creation](https://github.com/superseriousbusiness/gotosocial/issues/3492)
-
-
-## coder/coder <span style='color:#F1C40F'>(8.2K ⭐️)</span>
-
-- [Provide Postgresql database settings not only via connection string](https://github.com/coder/coder/issues/15264)
-
-- [chore: generate countries.tsx from Go code](https://github.com/coder/coder/issues/15074)
-
-
-## nitrictech/cli <span style='color:#F1C40F'>(25 ⭐️)</span>
-
-- [Unknown service nitric.proto.sql.v1.Sql error during collection](https://github.com/nitrictech/cli/issues/812)
 
 
 ## nitrictech/cli <span style='color:#F1C40F'>(25 ⭐️)</span>
@@ -126,21 +166,14 @@
 - [Add support for `PFCOUNT.WATCH` command](https://github.com/DiceDB/dice/issues/1133)
 
 
-## project-copacetic/copacetic <span style='color:#F1C40F'>(1.0K ⭐️)</span>
+## anfragment/zen <span style='color:#F1C40F'>(2.3K ⭐️)</span>
 
-- [[DOC] update design/tradeoffs doc regarding scanner vuln reports](https://github.com/project-copacetic/copacetic/issues/818)
+- [Move icon from dock to menu bar](https://github.com/anfragment/zen/issues/130)
 
 
 ## kedacore/keda <span style='color:#F1C40F'>(8.5K ⭐️)</span>
 
 - [Authentication with Security Bundle for Cassandra Scaler](https://github.com/kedacore/keda/issues/6277)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
-
-- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
-
-- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
 
 
 ## mindersec/minder <span style='color:#F1C40F'>(277 ⭐️)</span>
@@ -187,11 +220,6 @@
 ## updatecli/updatecli <span style='color:#F1C40F'>(572 ⭐️)</span>
 
 - [Adjust check-spelling pattern](https://github.com/updatecli/updatecli/issues/2804)
-
-
-## spiffe/spire <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [spire-server/agent: log version at startup](https://github.com/spiffe/spire/issues/5632)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(4.1K ⭐️)</span>
@@ -312,17 +340,6 @@
 - [server ignores request to gzip data](https://github.com/prysmaticlabs/prysm/issues/14593)
 
 
-## pingcap/tidb <span style='color:#F1C40F'>(37.2K ⭐️)</span>
-
-- [lightning should cache the result of `columnAPI.Cols()` to improve performance](https://github.com/pingcap/tidb/issues/56705)
-
-- [Improve observability of fast reorg ADD INDEX progress](https://github.com/pingcap/tidb/issues/56986)
-
-- [Dumpling will stuck while it's expect to fallback to LOCK TABLES when FTWRL blocking for a long time](https://github.com/pingcap/tidb/issues/56838)
-
-- [too many "fail to get hist meta for this histogram, possibly a deleted one"](https://github.com/pingcap/tidb/issues/56740)
-
-
 ## cosmos/cosmos-sdk <span style='color:#F1C40F'>(6.3K ⭐️)</span>
 
 - [Missing validations and implementation in x/circuit](https://github.com/cosmos/cosmos-sdk/issues/22322)
@@ -348,16 +365,6 @@
 
 - [bug - a new rule is created when api endpoint is changed from frontend](https://github.com/x-sushant-x/Rate-Shield/issues/45)
 
-- [hacktoberfest - add example on how to use Rate Shield with Gin](https://github.com/x-sushant-x/Rate-Shield/issues/20)
-
-- [add examples for using Rate Shield using your favourite frameworks](https://github.com/x-sushant-x/Rate-Shield/issues/24)
-
-- [add example of using Rate Shield with Spring Boot](https://github.com/x-sushant-x/Rate-Shield/issues/23)
-
-- [add examples of how to use Rate Shield with Fast API](https://github.com/x-sushant-x/Rate-Shield/issues/22)
-
-- [add example of using Rate Shield with Django](https://github.com/x-sushant-x/Rate-Shield/issues/21)
-
 
 ## owncast/owncast <span style='color:#F1C40F'>(9.5K ⭐️)</span>
 
@@ -368,6 +375,15 @@
 - [Add support for translations in the web project](https://github.com/owncast/owncast/issues/3950)
 
 - [Documentation broken link: https://dev.maxmind.com/geoip/geoip2/geolite2/](https://github.com/owncast/owncast/issues/3960)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [[Bug]: Documentation still reports pod security policies](https://github.com/cloudnative-pg/cloudnative-pg/issues/5996)
+
+- [[Bug]: Standardize the cluster name argument in kubectl cnpg plugin](https://github.com/cloudnative-pg/cloudnative-pg/issues/5848)
+
+- [[Bug]: Make `color` argument of kubectl cnpg a global variable](https://github.com/cloudnative-pg/cloudnative-pg/issues/5849)
 
 
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(1.5K ⭐️)</span>
@@ -383,23 +399,4 @@
 - [(feature) evaluation command line for local testing](https://github.com/thomaspoignant/go-feature-flag/issues/2560)
 
 - [(feature) Support for multiple exporters](https://github.com/thomaspoignant/go-feature-flag/issues/2505)
-
-
-## kubernetes/autoscaler <span style='color:#F1C40F'>(8.1K ⭐️)</span>
-
-- [cluster_autoscaler_failed_scale_ups_total metric is missing from metrics until an event is registered](https://github.com/kubernetes/autoscaler/issues/7448)
-
-
-## prometheus-operator/prometheus-operator <span style='color:#F1C40F'>(9.1K ⭐️)</span>
-
-- [Refactor `DigitalOceanSDConfig`](https://github.com/prometheus-operator/prometheus-operator/issues/6991)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(4.6K ⭐️)</span>
-
-- [[Bug]: Documentation still reports pod security policies](https://github.com/cloudnative-pg/cloudnative-pg/issues/5996)
-
-- [[Bug]: Standardize the cluster name argument in kubectl cnpg plugin](https://github.com/cloudnative-pg/cloudnative-pg/issues/5848)
-
-- [[Bug]: Make `color` argument of kubectl cnpg a global variable](https://github.com/cloudnative-pg/cloudnative-pg/issues/5849)
 
