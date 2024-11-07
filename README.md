@@ -4,12 +4,14 @@
 
 
 
-<div align='center'>Last updated at November 6, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 7, 2024 00:01 UTC.</div>
 
 
-## cockroachdb/replicator <span style='color:#F1C40F'>(60 ⭐️)</span>
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
-- [Add debug.zip functionality for investigations](https://github.com/cockroachdb/replicator/issues/1050)
+- [`send_quiet` is not working for `container` operator](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35726)
+
+- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
@@ -17,6 +19,53 @@
 - [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
 
 - [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
+
+
+## UnlockedLabs/UnlockEdv2 <span style='color:#F1C40F'>(6 ⭐️)</span>
+
+- [User is unable to delete first link in a collection](https://github.com/UnlockedLabs/UnlockEdv2/issues/467)
+
+- [User should not be able to publish changes if link title OR link URL is empty](https://github.com/UnlockedLabs/UnlockEdv2/issues/466)
+
+- [Update "Program Attendance Records" table in `MyProgress.tsx`](https://github.com/UnlockedLabs/UnlockEdv2/issues/460)
+
+
+## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Add node level metric for no VFPCounters](https://github.com/microsoft/retina/issues/933)
+
+- [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
+
+
+## cosmos/cosmos-sdk <span style='color:#F1C40F'>(6.3K ⭐️)</span>
+
+- [Missing validations and implementation in x/circuit](https://github.com/cosmos/cosmos-sdk/issues/22322)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(688 ⭐️)</span>
+
+- [Replace NodeID field access with ID() method across the codebase](https://github.com/bacalhau-project/bacalhau/issues/4688)
+
+
+## nucleuscloud/neosync <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [[NEOS-1581] Update tests to use slogt](https://github.com/nucleuscloud/neosync/issues/2872)
+
+- [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
+
+- [[NEOS-1577] Auto-generate CLI Config JSON Schema](https://github.com/nucleuscloud/neosync/issues/2868)
+
+- [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
+
+
+## google/gvisor <span style='color:#F1C40F'>(15.8K ⭐️)</span>
+
+- [Runsc exec wipes capabilities if they are provided](https://github.com/google/gvisor/issues/11108)
+
+
+## cockroachdb/replicator <span style='color:#F1C40F'>(60 ⭐️)</span>
+
+- [Add debug.zip functionality for investigations](https://github.com/cockroachdb/replicator/issues/1050)
 
 
 ## provenance-io/provenance <span style='color:#F1C40F'>(88 ⭐️)</span>
@@ -27,11 +76,6 @@
 ## DefangLabs/defang <span style='color:#F1C40F'>(35 ⭐️)</span>
 
 - [`defang --provider aws` should fail fast if unauthenticated](https://github.com/DefangLabs/defang/issues/782)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(688 ⭐️)</span>
-
-- [Replace NodeID field access with ID() method across the codebase](https://github.com/bacalhau-project/bacalhau/issues/4688)
 
 
 ## kubearchive/kubearchive <span style='color:#F1C40F'>(12 ⭐️)</span>
@@ -73,25 +117,6 @@
 ## devfile/devworkspace-operator <span style='color:#F1C40F'>(67 ⭐️)</span>
 
 - [Add attribute to DWO-injected commands that should not be displayed to users](https://github.com/devfile/devworkspace-operator/issues/1333)
-
-
-## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Add node level metric for no VFPCounters](https://github.com/microsoft/retina/issues/933)
-
-- [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
-
-
-## google/gvisor <span style='color:#F1C40F'>(15.8K ⭐️)</span>
-
-- [Runsc exec wipes capabilities if they are provided](https://github.com/google/gvisor/issues/11108)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [`send_quiet` is not working for `container` operator](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35726)
-
-- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
 
 
 ## grafana/alloy <span style='color:#F1C40F'>(1.4K ⭐️)</span>
@@ -186,11 +211,6 @@
 - [cluster_autoscaler_failed_scale_ups_total metric is missing from metrics until an event is registered](https://github.com/kubernetes/autoscaler/issues/7448)
 
 
-## cosmos/cosmos-sdk <span style='color:#F1C40F'>(6.3K ⭐️)</span>
-
-- [Missing validations and implementation in x/circuit](https://github.com/cosmos/cosmos-sdk/issues/22322)
-
-
 ## project-copacetic/copacetic <span style='color:#F1C40F'>(1.0K ⭐️)</span>
 
 - [[DOC] update design/tradeoffs doc regarding scanner vuln reports](https://github.com/project-copacetic/copacetic/issues/818)
@@ -222,17 +242,6 @@
 - [[feature request] Add a default in-cluster `s3` provisioner](https://github.com/score-spec/score-k8s/issues/65)
 
 - [[feature request] Add a default `service-port` provisioner](https://github.com/score-spec/score-k8s/issues/64)
-
-
-## nucleuscloud/neosync <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [[NEOS-1581] Update tests to use slogt](https://github.com/nucleuscloud/neosync/issues/2872)
-
-- [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
-
-- [[NEOS-1577] Auto-generate CLI Config JSON Schema](https://github.com/nucleuscloud/neosync/issues/2868)
-
-- [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
 
 
 ## akuity/kargo <span style='color:#F1C40F'>(1.7K ⭐️)</span>
@@ -347,9 +356,4 @@
 - [(feature) evaluation command line for local testing](https://github.com/thomaspoignant/go-feature-flag/issues/2560)
 
 - [(feature) Support for multiple exporters](https://github.com/thomaspoignant/go-feature-flag/issues/2505)
-
-
-## metal-stack/metal-api <span style='color:#F1C40F'>(130 ⭐️)</span>
-
-- [Mark machine as dead if installation does not finish](https://github.com/metal-stack/metal-api/issues/585)
 
