@@ -4,7 +4,41 @@
 
 
 
-<div align='center'>Last updated at November 7, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 8, 2024 00:01 UTC.</div>
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(20.4K ⭐️)</span>
+
+- [Improve unit test speed](https://github.com/jaegertracing/jaeger/issues/6111)
+
+- [ES 8.x / v2 integration test often fails](https://github.com/jaegertracing/jaeger/issues/6094)
+
+- [[jaeger-v2] Add Meter Provider To Telemetry Settings](https://github.com/jaegertracing/jaeger/issues/6127)
+
+- [[v2] How is tenancy handled / configured? Should it be part of storage config?](https://github.com/jaegertracing/jaeger/issues/6108)
+
+- [Add integration test for hotrod on k8s](https://github.com/jaegertracing/jaeger/issues/6086)
+
+
+## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
+
+- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
+
+- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
+
+
+## polymerdao/monomer <span style='color:#F1C40F'>(23 ⭐️)</span>
+
+- [Add HTML, CSS, JavaScript linter](https://github.com/polymerdao/monomer/issues/274)
+
+- [Programmatically refer to version within docs](https://github.com/polymerdao/monomer/issues/258)
+
+- [Use `go run` instead of `go install` in `Makefile`](https://github.com/polymerdao/monomer/issues/248)
+
+
+## redis/rueidis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
+
+- [Feature: remove idle connections from pool](https://github.com/redis/rueidis/issues/651)
 
 
 ## mindersec/minder <span style='color:#F1C40F'>(281 ⭐️)</span>
@@ -50,11 +84,9 @@
 - [[ENHANCEMENT] Disable Connection test if the component is disabled](https://github.com/camunda/camunda-platform-helm/issues/2492)
 
 
-## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
+## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
-- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
-
-- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
+- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
 
 
 ## gittuf/gittuf <span style='color:#F1C40F'>(462 ⭐️)</span>
@@ -83,11 +115,6 @@
 ## hashicorp/nomad <span style='color:#F1C40F'>(14.9K ⭐️)</span>
 
 - [unclear message in task event from executor crash](https://github.com/hashicorp/nomad/issues/24220)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
 
 
 ## grafana/alloy <span style='color:#F1C40F'>(1.4K ⭐️)</span>
@@ -149,15 +176,6 @@
 ## kubearchive/kubearchive <span style='color:#F1C40F'>(12 ⭐️)</span>
 
 - [Refactor the errors sent to abort.Abort()](https://github.com/kubearchive/kubearchive/issues/536)
-
-
-## polymerdao/monomer <span style='color:#F1C40F'>(23 ⭐️)</span>
-
-- [Add HTML, CSS, JavaScript linter](https://github.com/polymerdao/monomer/issues/274)
-
-- [Programmatically refer to version within docs](https://github.com/polymerdao/monomer/issues/258)
-
-- [Use `go run` instead of `go install` in `Makefile`](https://github.com/polymerdao/monomer/issues/248)
 
 
 ## traPtitech/traQ <span style='color:#F1C40F'>(425 ⭐️)</span>
@@ -290,6 +308,11 @@
 - [CACAO playbook validation apis](https://github.com/COSSAS/SOARCA/issues/244)
 
 
+## COSSAS/SOARCA <span style='color:#F1C40F'>(55 ⭐️)</span>
+
+- [CACAO playbook validation apis](https://github.com/COSSAS/SOARCA/issues/244)
+
+
 ## go-task/task <span style='color:#F1C40F'>(11.4K ⭐️)</span>
 
 - [Incorrect/confusing `include cycle detected` error message after a silly mistake](https://github.com/go-task/task/issues/1881)
@@ -340,6 +363,11 @@
 - [[Bug]: When stats sending fails it sends a warning](https://github.com/treeverse/lakeFS/issues/8287)
 
 
+## cilium/tetragon <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [add destination_port filter](https://github.com/cilium/tetragon/issues/3078)
+
+
 ## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [(feature) Azure BlobStorage exporter](https://github.com/thomaspoignant/go-feature-flag/issues/2559)
@@ -363,39 +391,4 @@
 ## kubernetes/autoscaler <span style='color:#F1C40F'>(8.1K ⭐️)</span>
 
 - [cluster_autoscaler_failed_scale_ups_total metric is missing from metrics until an event is registered](https://github.com/kubernetes/autoscaler/issues/7448)
-
-
-## kyverno/kyverno <span style='color:#F1C40F'>(5.7K ⭐️)</span>
-
-- [[Feature] Disable reporting per policy](https://github.com/kyverno/kyverno/issues/11555)
-
-- [[Helm] "mergeOverwrite" overwrites nested objects](https://github.com/kyverno/kyverno/issues/11536)
-
-- [[Feature] Enforce Policy Field Parity between `v1` and `v2beta1`](https://github.com/kyverno/kyverno/issues/11490)
-
-- [Improve log level when reporting "rule not matched"](https://github.com/kyverno/kyverno/issues/11525)
-
-- [[Bug] [CLI] Kyverno test labels a test run passing if the test expects a fail but the policy a pass](https://github.com/kyverno/kyverno/issues/11519)
-
-- [[Feature] add MD5 and SHA1 hash functions for JMESPath](https://github.com/kyverno/kyverno/issues/11506)
-
-- [[Feature] Add more information in policy reports for generate rule](https://github.com/kyverno/kyverno/issues/11408)
-
-
-## DiceDB/dice <span style='color:#F1C40F'>(6.7K ⭐️)</span>
-
-- [Enhancement: `Append` to support other datatypes](https://github.com/DiceDB/dice/issues/1193)
-
-- [Inconsistent `APPEND`: APPEND command incorrectly resets TTL to -1](https://github.com/DiceDB/dice/issues/1036)
-
-- [Add support for `SMEMBERS.WATCH` command](https://github.com/DiceDB/dice/issues/1132)
-
-- [Enhancement `GETRANGE` to support all available datatypes](https://github.com/DiceDB/dice/issues/1194)
-
-- [Add support for `PFCOUNT.WATCH` command](https://github.com/DiceDB/dice/issues/1133)
-
-
-## grafana/k6 <span style='color:#F1C40F'>(25.9K ⭐️)</span>
-
-- [Address jhump/protoreflect deprecations introduced by v1.17.0](https://github.com/grafana/k6/issues/4035)
 
