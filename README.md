@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at November 8, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 9, 2024 00:02 UTC.</div>
+
+
+## linkerd/linkerd2 <span style='color:#F1C40F'>(10.7K ⭐️)</span>
+
+- [proxy-injector doesn't respect JSON logging configuration for all log messages](https://github.com/linkerd/linkerd2/issues/13168)
 
 
 ## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
@@ -12,6 +17,21 @@
 - [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
 
 - [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
+
+
+## storj/storj <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [Satellite UI: Truncate "available funds" to two decimal places](https://github.com/storj/storj/issues/7241)
+
+
+## kubearchive/kubearchive <span style='color:#F1C40F'>(12 ⭐️)</span>
+
+- [Refactor the errors sent to abort.Abort()](https://github.com/kubearchive/kubearchive/issues/536)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(17.9K ⭐️)</span>
@@ -34,19 +54,9 @@
 - [[FEATURE] Support addition of arbitrary properties in evaluation context](https://github.com/open-feature/flagd/issues/1435)
 
 
-## linkerd/linkerd2 <span style='color:#F1C40F'>(10.7K ⭐️)</span>
-
-- [proxy-injector doesn't respect JSON logging configuration for all log messages](https://github.com/linkerd/linkerd2/issues/13168)
-
-
 ## DefangLabs/defang <span style='color:#F1C40F'>(37 ⭐️)</span>
 
 - [`defang --provider aws` should fail fast if unauthenticated](https://github.com/DefangLabs/defang/issues/782)
-
-
-## kubearchive/kubearchive <span style='color:#F1C40F'>(12 ⭐️)</span>
-
-- [Refactor the errors sent to abort.Abort()](https://github.com/kubearchive/kubearchive/issues/536)
 
 
 ## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(5.9K ⭐️)</span>
@@ -81,6 +91,15 @@
 - [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
 
 
+## owncast/owncast <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+
+- [Create an equivalent external/integration API endpoint for /api/status](https://github.com/owncast/owncast/issues/3981)
+
+- [Update React components to not use defaultProps](https://github.com/owncast/owncast/issues/3953)
+
+- [Documentation broken link: https://dev.maxmind.com/geoip/geoip2/geolite2/](https://github.com/owncast/owncast/issues/3960)
+
+
 ## kubestellar/kubestellar <span style='color:#F1C40F'>(270 ⭐️)</span>
 
 - [bug: spelling checker checks invisible HTML](https://github.com/kubestellar/kubestellar/issues/2507)
@@ -96,15 +115,6 @@
 ## open-telemetry/opentelemetry-go-contrib <span style='color:#F1C40F'>(1.2K ⭐️)</span>
 
 - [Support Environment Variable Installation and Configuration of Jaeger Remote Sampler](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/6256)
-
-
-## owncast/owncast <span style='color:#F1C40F'>(9.5K ⭐️)</span>
-
-- [Create an equivalent external/integration API endpoint for /api/status](https://github.com/owncast/owncast/issues/3981)
-
-- [Update React components to not use defaultProps](https://github.com/owncast/owncast/issues/3953)
-
-- [Documentation broken link: https://dev.maxmind.com/geoip/geoip2/geolite2/](https://github.com/owncast/owncast/issues/3960)
 
 
 ## UnlockedLabs/UnlockEdv2 <span style='color:#F1C40F'>(6 ⭐️)</span>
@@ -177,11 +187,6 @@
 - [(feature) evaluation command line for local testing](https://github.com/thomaspoignant/go-feature-flag/issues/2560)
 
 - [(feature) Support for multiple exporters](https://github.com/thomaspoignant/go-feature-flag/issues/2505)
-
-
-## storj/storj <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [Satellite UI: Truncate "available funds" to two decimal places](https://github.com/storj/storj/issues/7241)
 
 
 ## keploy/keploy <span style='color:#F1C40F'>(5.1K ⭐️)</span>
@@ -349,28 +354,4 @@
 ## cortexproject/cortex <span style='color:#F1C40F'>(5.5K ⭐️)</span>
 
 - [Both branches of `if-then-else` are identical in `pkg/ruler/ruler_test.go`](https://github.com/cortexproject/cortex/issues/6287)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(24.0K ⭐️)</span>
-
-- [Add more descriptive logging for component startup failure](https://github.com/dapr/dapr/issues/8236)
-
-- [Introduce config to optionally disable requests to `/dapr/config` and `/dapr/subscribe`during dapr init](https://github.com/dapr/dapr/issues/8224)
-
-
-## updatecli/updatecli <span style='color:#F1C40F'>(575 ⭐️)</span>
-
-- [Adjust check-spelling pattern](https://github.com/updatecli/updatecli/issues/2804)
-
-
-## metal-stack/metal-api <span style='color:#F1C40F'>(130 ⭐️)</span>
-
-- [Mark machine as dead if installation does not finish](https://github.com/metal-stack/metal-api/issues/585)
-
-
-## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Enhance RBAC Scaffolding to Include `admin` Roles](https://github.com/kubernetes-sigs/kubebuilder/issues/4294)
-
-- [Enhance e2e Tests: Validate Conversion with Mock Scenario](https://github.com/kubernetes-sigs/kubebuilder/issues/4297)
 
