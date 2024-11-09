@@ -4,64 +4,39 @@
 
 
 
-<div align='center'>Last updated at November 9, 2024 00:02 UTC.</div>
+<div align='center'>Last updated at November 9, 2024 23:01 UTC.</div>
 
 
-## linkerd/linkerd2 <span style='color:#F1C40F'>(10.7K ⭐️)</span>
+## redis/rueidis <span style='color:#F1C40F'>(2.4K ⭐️)</span>
 
-- [proxy-injector doesn't respect JSON logging configuration for all log messages](https://github.com/linkerd/linkerd2/issues/13168)
-
-
-## cockroachdb/cockroach <span style='color:#F1C40F'>(30.1K ⭐️)</span>
-
-- [opt: add rule to simplify const comparison with ANY values](https://github.com/cockroachdb/cockroach/issues/132328)
-
-- [opt: add rule to eliminate left-join with empty right input](https://github.com/cockroachdb/cockroach/issues/132327)
+- [Feature: remove idle connections from pool](https://github.com/redis/rueidis/issues/651)
 
 
-## storj/storj <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+## ray-project/kuberay <span style='color:#F1C40F'>(1.2K ⭐️)</span>
 
-- [Satellite UI: Truncate "available funds" to two decimal places](https://github.com/storj/storj/issues/7241)
+- [[Doc] Write a doc for persisting KubeRay operator log](https://github.com/ray-project/kuberay/issues/2513)
 
+- [[Feature] Some client-go logs are not in JSON format](https://github.com/ray-project/kuberay/issues/2512)
 
-## kubearchive/kubearchive <span style='color:#F1C40F'>(12 ⭐️)</span>
+- [[Logging] Remove unnecessary context information](https://github.com/ray-project/kuberay/issues/2514)
 
-- [Refactor the errors sent to abort.Abort()](https://github.com/kubearchive/kubearchive/issues/536)
+- [[Feature] Implement RayService In-place update test in Golang](https://github.com/ray-project/kuberay/issues/2516)
 
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
+- [Rewrite `compatibility-test.py` with golang](https://github.com/ray-project/kuberay/issues/2510)
 
 
-## argoproj/argo-cd <span style='color:#F1C40F'>(17.9K ⭐️)</span>
+## owncast/owncast <span style='color:#F1C40F'>(9.5K ⭐️)</span>
 
-- [Document iconClass and displayName fields for custom resource action discovery](https://github.com/argoproj/argo-cd/issues/20460)
+- [Create an equivalent external/integration API endpoint for /api/status](https://github.com/owncast/owncast/issues/3981)
 
-
-## solo-io/gloo <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [Helm lint as part of ci](https://github.com/solo-io/gloo/issues/10283)
+- [Documentation broken link: https://dev.maxmind.com/geoip/geoip2/geolite2/](https://github.com/owncast/owncast/issues/3960)
 
 
-## omni-network/omni <span style='color:#F1C40F'>(87 ⭐️)</span>
+## creativeprojects/resticprofile <span style='color:#F1C40F'>(740 ⭐️)</span>
 
-- [Deploy gas pump contracts on mainnet](https://github.com/omni-network/omni/issues/2206)
+- [[feat]status-file support for copy](https://github.com/creativeprojects/resticprofile/issues/429)
 
-
-## open-feature/flagd <span style='color:#F1C40F'>(557 ⭐️)</span>
-
-- [[FEATURE] Support addition of arbitrary properties in evaluation context](https://github.com/open-feature/flagd/issues/1435)
-
-
-## DefangLabs/defang <span style='color:#F1C40F'>(37 ⭐️)</span>
-
-- [`defang --provider aws` should fail fast if unauthenticated](https://github.com/DefangLabs/defang/issues/782)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(5.9K ⭐️)</span>
-
-- [[Question]: K8sgpt CRD cannot set resource limit memory](https://github.com/k8sgpt-ai/k8sgpt/issues/1277)
+- [Remove default confirmation for self-update.](https://github.com/creativeprojects/resticprofile/issues/427)
 
 
 ## DiceDB/dice <span style='color:#F1C40F'>(6.7K ⭐️)</span>
@@ -79,32 +54,135 @@
 - [Add support for `PFCOUNT.WATCH` command](https://github.com/DiceDB/dice/issues/1133)
 
 
-## mariadb-operator/mariadb-operator <span style='color:#F1C40F'>(492 ⭐️)</span>
+## jlewi/foyle <span style='color:#F1C40F'>(106 ⭐️)</span>
 
-- [[Bug] Compressed backups use unconventional file extensions](https://github.com/mariadb-operator/mariadb-operator/issues/940)
+- [Post Processing Bug - Dropped New Line From OpenAI response](https://github.com/jlewi/foyle/issues/327)
 
-
-## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Add node level metric for no VFPCounters](https://github.com/microsoft/retina/issues/933)
-
-- [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
+- [Document tips & tricks for how to work with the AI](https://github.com/jlewi/foyle/issues/323)
 
 
-## owncast/owncast <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+## traPtitech/traQ <span style='color:#F1C40F'>(425 ⭐️)</span>
 
-- [Create an equivalent external/integration API endpoint for /api/status](https://github.com/owncast/owncast/issues/3981)
-
-- [Update React components to not use defaultProps](https://github.com/owncast/owncast/issues/3953)
-
-- [Documentation broken link: https://dev.maxmind.com/geoip/geoip2/geolite2/](https://github.com/owncast/owncast/issues/3960)
+- [groupsのbulk処理のtest](https://github.com/traPtitech/traQ/issues/2521)
 
 
-## kubestellar/kubestellar <span style='color:#F1C40F'>(270 ⭐️)</span>
+## keploy/keploy <span style='color:#F1C40F'>(5.1K ⭐️)</span>
 
-- [bug: spelling checker checks invisible HTML](https://github.com/kubestellar/kubestellar/issues/2507)
+- [[feature]: Better template for Keploy's blog page](https://github.com/keploy/keploy/issues/2387)
 
-- [feature: expand regular testing](https://github.com/kubestellar/kubestellar/issues/2506)
+- [[feature]: Case Studies Page](https://github.com/keploy/keploy/issues/2385)
+
+- [[feature]: Pricing Page](https://github.com/keploy/keploy/issues/2382)
+
+- [[feature]: Add Attractive sticky for VS Code Extension](https://github.com/keploy/keploy/issues/2383)
+
+- [[feature]: Careers page for Keploy](https://github.com/keploy/keploy/issues/2384)
+
+- [[feature]: Navbar Dock](https://github.com/keploy/keploy/issues/2381)
+
+
+## cortexproject/cortex <span style='color:#F1C40F'>(5.5K ⭐️)</span>
+
+- [Both branches of `if-then-else` are identical in `pkg/ruler/ruler_test.go`](https://github.com/cortexproject/cortex/issues/6287)
+
+
+## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(5.9K ⭐️)</span>
+
+- [[Question]: K8sgpt CRD cannot set resource limit memory](https://github.com/k8sgpt-ai/k8sgpt/issues/1277)
+
+
+## kubeflow/training-operator <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Use Debian images for Python components in the Training Operator V2](https://github.com/kubeflow/training-operator/issues/2311)
+
+
+## scribble-rs/scribble.rs <span style='color:#F1C40F'>(437 ⭐️)</span>
+
+- [End round early to prevent wait times if people leave](https://github.com/scribble-rs/scribble.rs/issues/343)
+
+
+## dragonflydb/dragonfly-operator <span style='color:#F1C40F'>(142 ⭐️)</span>
+
+- [Include prometheus rules to the chart for alerting](https://github.com/dragonflydb/dragonfly-operator/issues/259)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+
+- [[helm] Usage of function mimir.siToBytes seems inconsistent](https://github.com/grafana/mimir/issues/9780)
+
+- [extraVolumes block fails for alertmanager](https://github.com/grafana/mimir/issues/9775)
+
+- [Unable to configure memcached container resources](https://github.com/grafana/mimir/issues/9737)
+
+
+## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Enhance RBAC Scaffolding to Include `admin` Roles](https://github.com/kubernetes-sigs/kubebuilder/issues/4294)
+
+- [Enhance e2e Tests: Validate Conversion with Mock Scenario](https://github.com/kubernetes-sigs/kubebuilder/issues/4297)
+
+
+## kyma-project/telemetry-manager <span style='color:#F1C40F'>(5 ⭐️)</span>
+
+- [Erroneous condition for Trace/Metric/Log Pipelines evaluates to TLSCertificateInvalid by default](https://github.com/kyma-project/telemetry-manager/issues/1571)
+
+
+## NYCUarchery/archeryWebsite <span style='color:#F1C40F'>(1 ⭐️)</span>
+
+- [啟動一個人以上的對抗賽以後，再創建新的組別，新的組別的一人以上對抗賽不會被創建。](https://github.com/NYCUarchery/archeryWebsite/issues/218)
+
+- [創建比賽的host id可以改，但是顯示一直是原來的id](https://github.com/NYCUarchery/archeryWebsite/issues/214)
+
+- [competition返回首頁的按鈕容易誤觸](https://github.com/NYCUarchery/archeryWebsite/issues/213)
+
+- [setup an .env file in backend](https://github.com/NYCUarchery/archeryWebsite/issues/191)
+
+- [More Information in competition/main](https://github.com/NYCUarchery/archeryWebsite/issues/203)
+
+
+## go-task/task <span style='color:#F1C40F'>(11.4K ⭐️)</span>
+
+- [Incorrect/confusing `include cycle detected` error message after a silly mistake](https://github.com/go-task/task/issues/1881)
+
+
+## camunda/camunda-platform-helm <span style='color:#F1C40F'>(74 ⭐️)</span>
+
+- [[ISSUE] camundaPlatform.getExternalURL does not support custom ingress port](https://github.com/camunda/camunda-platform-helm/issues/2497)
+
+- [[ENHANCEMENT] Disable Connection test if the component is disabled](https://github.com/camunda/camunda-platform-helm/issues/2492)
+
+
+## kubernetes/ingress-nginx <span style='color:#F1C40F'>(17.5K ⭐️)</span>
+
+- [Be able to use relative redirects (in Location header)](https://github.com/kubernetes/ingress-nginx/issues/12162)
+
+
+## mgechev/revive <span style='color:#F1C40F'>(4.8K ⭐️)</span>
+
+- [Missing docs for `comment-spacings` rule](https://github.com/mgechev/revive/issues/1062)
+
+
+## RamenDR/ramen <span style='color:#F1C40F'>(73 ⭐️)</span>
+
+- [drenv deps: Install helm from github releases](https://github.com/RamenDR/ramen/issues/1623)
+
+- [e2e: Improper use of error formatting](https://github.com/RamenDR/ramen/issues/1618)
+
+
+## Bitlatte/metrics-agent <span style='color:#F1C40F'>(0 ⭐️)</span>
+
+- [Metrics Transport System](https://github.com/Bitlatte/metrics-agent/issues/5)
+
+- [Battery Collector](https://github.com/Bitlatte/metrics-agent/issues/4)
+
+- [System Collector](https://github.com/Bitlatte/metrics-agent/issues/3)
+
+- [Base Network Collector](https://github.com/Bitlatte/metrics-agent/issues/2)
+
+
+## apache/camel-k <span style='color:#F1C40F'>(866 ⭐️)</span>
+
+- [Kustomize common labels deprecated](https://github.com/apache/camel-k/issues/5928)
 
 
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.5K ⭐️)</span>
@@ -117,9 +195,163 @@
 - [Support Environment Variable Installation and Configuration of Jaeger Remote Sampler](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/6256)
 
 
-## UnlockedLabs/UnlockEdv2 <span style='color:#F1C40F'>(6 ⭐️)</span>
+## storj/storj <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
-- [User is unable to delete first link in a collection](https://github.com/UnlockedLabs/UnlockEdv2/issues/467)
+- [Satellite UI: Truncate "available funds" to two decimal places](https://github.com/storj/storj/issues/7241)
+
+
+## pingcap/tidb <span style='color:#F1C40F'>(37.3K ⭐️)</span>
+
+- [lightning should cache the result of `columnAPI.Cols()` to improve performance](https://github.com/pingcap/tidb/issues/56705)
+
+- [Improve observability of fast reorg ADD INDEX progress](https://github.com/pingcap/tidb/issues/56986)
+
+- [Dumpling will stuck while it's expect to fallback to LOCK TABLES when FTWRL blocking for a long time](https://github.com/pingcap/tidb/issues/56838)
+
+- [too many "fail to get hist meta for this histogram, possibly a deleted one"](https://github.com/pingcap/tidb/issues/56740)
+
+
+## flyteorg/flyte <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [[BUG] Make Protobuf Struct Attribute Access local execurtion the same as remote execution](https://github.com/flyteorg/flyte/issues/5959)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
+
+
+## mintoolkit/mint <span style='color:#F1C40F'>(153 ⭐️)</span>
+
+- [Enhancement: Need a global --help (-h) flag to show the help information shown when the 'help` command is selected](https://github.com/mintoolkit/mint/issues/71)
+
+- [Enhancement: Refactor to use one set of Docker instruction name constants when processing Docker instruction/command info](https://github.com/mintoolkit/mint/issues/74)
+
+- [Feature: HTTP Probe - Enhance apispec based probes to generate dummy query string, path and body request param data ('http-probe-apispec' and 'http-probe-apispec-file' flags)](https://github.com/mintoolkit/mint/issues/73)
+
+- [Docs: Enhance README to improve the CI/CD integration section, so it has more and better examples with different CI/CD tools](https://github.com/mintoolkit/mint/issues/72)
+
+- [Feature: SLIM/BUILD - An ability to keep the linux distribution metadata in the minified image ( --include-distro-metadata flag)](https://github.com/mintoolkit/mint/issues/69)
+
+- [Feature: Display Full Command Line Data When the Exit Function in ExecutionContext is Called](https://github.com/mintoolkit/mint/issues/70)
+
+
+## kubearchive/kubearchive <span style='color:#F1C40F'>(12 ⭐️)</span>
+
+- [Refactor the errors sent to abort.Abort()](https://github.com/kubearchive/kubearchive/issues/536)
+
+
+## solo-io/gloo <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+
+- [Helm lint as part of ci](https://github.com/solo-io/gloo/issues/10283)
+
+
+## omissis/goarkitect <span style='color:#F1C40F'>(21 ⭐️)</span>
+
+- [Update validation command deps and schema resolution](https://github.com/omissis/goarkitect/issues/100)
+
+
+## ausocean/cloud <span style='color:#F1C40F'>(1 ⭐️)</span>
+
+- [bench: Device variable values can't be edited due to disabled text field](https://github.com/ausocean/cloud/issues/346)
+
+- [bench: device cannot be updated because MAC is not submitted](https://github.com/ausocean/cloud/issues/345)
+
+- [bench: init is undefined on configure page.](https://github.com/ausocean/cloud/issues/344)
+
+
+## open-feature/flagd <span style='color:#F1C40F'>(556 ⭐️)</span>
+
+- [[FEATURE] Support addition of arbitrary properties in evaluation context](https://github.com/open-feature/flagd/issues/1435)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(4.6K ⭐️)</span>
+
+- [[Bug]: Documentation still reports pod security policies](https://github.com/cloudnative-pg/cloudnative-pg/issues/5996)
+
+- [[Bug]: Standardize the cluster name argument in kubectl cnpg plugin](https://github.com/cloudnative-pg/cloudnative-pg/issues/5848)
+
+- [[Bug]: Make `color` argument of kubectl cnpg a global variable](https://github.com/cloudnative-pg/cloudnative-pg/issues/5849)
+
+
+## nucleuscloud/neosync <span style='color:#F1C40F'>(3.3K ⭐️)</span>
+
+- [[NEOS-1581] Update tests to use slogt](https://github.com/nucleuscloud/neosync/issues/2872)
+
+- [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
+
+- [[NEOS-1577] Auto-generate CLI Config JSON Schema](https://github.com/nucleuscloud/neosync/issues/2868)
+
+- [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
+
+
+## cri-o/cri-o <span style='color:#F1C40F'>(5.2K ⭐️)</span>
+
+- [Add prow based arm64 jobs](https://github.com/cri-o/cri-o/issues/8714)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
+
+
+## testcontainers/testcontainers-go <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [Extend contributing guides to mention avoiding packaging clients in the modules](https://github.com/testcontainers/testcontainers-go/issues/2832)
+
+
+## argoproj/argo-cd <span style='color:#F1C40F'>(17.9K ⭐️)</span>
+
+- [Document iconClass and displayName fields for custom resource action discovery](https://github.com/argoproj/argo-cd/issues/20460)
+
+
+## omni-network/omni <span style='color:#F1C40F'>(87 ⭐️)</span>
+
+- [Deploy gas pump contracts on mainnet](https://github.com/omni-network/omni/issues/2206)
+
+
+## DefangLabs/defang <span style='color:#F1C40F'>(37 ⭐️)</span>
+
+- [`defang --provider aws` should fail fast if unauthenticated](https://github.com/DefangLabs/defang/issues/782)
+
+
+## mariadb-operator/mariadb-operator <span style='color:#F1C40F'>(495 ⭐️)</span>
+
+- [[Bug] Compressed backups use unconventional file extensions](https://github.com/mariadb-operator/mariadb-operator/issues/940)
+
+
+## hashicorp/nomad <span style='color:#F1C40F'>(14.9K ⭐️)</span>
+
+- [unclear message in task event from executor crash](https://github.com/hashicorp/nomad/issues/24220)
+
+
+## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Add node level metric for no VFPCounters](https://github.com/microsoft/retina/issues/933)
+
+- [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
+
+
+## coder/coder <span style='color:#F1C40F'>(8.3K ⭐️)</span>
+
+- [Provide Postgresql database settings not only via connection string](https://github.com/coder/coder/issues/15264)
+
+- [chore: generate countries.tsx from Go code](https://github.com/coder/coder/issues/15074)
+
+
+## kubestellar/kubestellar <span style='color:#F1C40F'>(270 ⭐️)</span>
+
+- [bug: spelling checker checks invisible HTML](https://github.com/kubestellar/kubestellar/issues/2507)
+
+- [feature: expand regular testing](https://github.com/kubestellar/kubestellar/issues/2506)
+
+
+## bacalhau-project/bacalhau <span style='color:#F1C40F'>(698 ⭐️)</span>
+
+- [Replace NodeID field access with ID() method across the codebase](https://github.com/bacalhau-project/bacalhau/issues/4688)
+
+
+## UnlockedLabs/UnlockEdv2 <span style='color:#F1C40F'>(6 ⭐️)</span>
 
 - [User should not be able to publish changes if link title OR link URL is empty](https://github.com/UnlockedLabs/UnlockEdv2/issues/466)
 
@@ -151,207 +383,7 @@
 - [[Enhancement]: aws_appstream_stack user_settings has been updated](https://github.com/hashicorp/terraform-provider-aws/issues/39792)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [`send_quiet` is not working for `container` operator](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35726)
-
-- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
-
-
-## kyma-project/telemetry-manager <span style='color:#F1C40F'>(5 ⭐️)</span>
-
-- [Erroneous condition for Trace/Metric/Log Pipelines evaluates to TLSCertificateInvalid by default](https://github.com/kyma-project/telemetry-manager/issues/1571)
-
-
-## kubernetes/ingress-nginx <span style='color:#F1C40F'>(17.5K ⭐️)</span>
-
-- [Be able to use relative redirects (in Location header)](https://github.com/kubernetes/ingress-nginx/issues/12162)
-
-
 ## open-policy-agent/opa <span style='color:#F1C40F'>(9.7K ⭐️)</span>
 
 - [opa eval: panic when given bad input for --unknowns](https://github.com/open-policy-agent/opa/issues/7127)
-
-
-## traPtitech/traQ <span style='color:#F1C40F'>(425 ⭐️)</span>
-
-- [groupsのbulk処理のtest](https://github.com/traPtitech/traQ/issues/2521)
-
-
-## thomaspoignant/go-feature-flag <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [(feature) Azure BlobStorage exporter](https://github.com/thomaspoignant/go-feature-flag/issues/2559)
-
-- [(feature) Azure Blob Storage retriever](https://github.com/thomaspoignant/go-feature-flag/issues/2558)
-
-- [(feature) evaluation command line for local testing](https://github.com/thomaspoignant/go-feature-flag/issues/2560)
-
-- [(feature) Support for multiple exporters](https://github.com/thomaspoignant/go-feature-flag/issues/2505)
-
-
-## keploy/keploy <span style='color:#F1C40F'>(5.1K ⭐️)</span>
-
-- [Create a .NET and MongoDB sample app](https://github.com/keploy/keploy/issues/2340)
-
-- [[feature]: Better template for Keploy's blog page](https://github.com/keploy/keploy/issues/2387)
-
-- [[feature]: Case Studies Page](https://github.com/keploy/keploy/issues/2385)
-
-- [[feature]: Pricing Page](https://github.com/keploy/keploy/issues/2382)
-
-- [[feature]: Add Attractive sticky for VS Code Extension](https://github.com/keploy/keploy/issues/2383)
-
-- [[feature]: Careers page for Keploy](https://github.com/keploy/keploy/issues/2384)
-
-- [[feature]: Navbar Dock](https://github.com/keploy/keploy/issues/2381)
-
-- [[docs]: Prepare the docs and organise the samples-csharp repository](https://github.com/keploy/keploy/issues/2341)
-
-- [Create a Rust and PostgreSQL sample app](https://github.com/keploy/keploy/issues/2342)
-
-
-## coder/coder <span style='color:#F1C40F'>(8.2K ⭐️)</span>
-
-- [Provide Postgresql database settings not only via connection string](https://github.com/coder/coder/issues/15264)
-
-- [chore: generate countries.tsx from Go code](https://github.com/coder/coder/issues/15074)
-
-
-## bacalhau-project/bacalhau <span style='color:#F1C40F'>(696 ⭐️)</span>
-
-- [Replace NodeID field access with ID() method across the codebase](https://github.com/bacalhau-project/bacalhau/issues/4688)
-
-
-## akuity/kargo <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [Document the possible values of Warehouse imageSelectionStrategy](https://github.com/akuity/kargo/issues/2880)
-
-- [Add Kargo Promotion Step to Remove File and/or Directory](https://github.com/akuity/kargo/issues/2860)
-
-- [Descriptive names for subscriptions](https://github.com/akuity/kargo/issues/2839)
-
-
-## nucleuscloud/neosync <span style='color:#F1C40F'>(3.3K ⭐️)</span>
-
-- [[NEOS-1581] Update tests to use slogt](https://github.com/nucleuscloud/neosync/issues/2872)
-
-- [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
-
-- [[NEOS-1577] Auto-generate CLI Config JSON Schema](https://github.com/nucleuscloud/neosync/issues/2868)
-
-- [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(20.5K ⭐️)</span>
-
-- [Improve unit test speed](https://github.com/jaegertracing/jaeger/issues/6111)
-
-- [ES 8.x / v2 integration test often fails](https://github.com/jaegertracing/jaeger/issues/6094)
-
-- [[jaeger-v2] Add Meter Provider To Telemetry Settings](https://github.com/jaegertracing/jaeger/issues/6127)
-
-- [[v2] How is tenancy handled / configured? Should it be part of storage config?](https://github.com/jaegertracing/jaeger/issues/6108)
-
-- [Add integration test for hotrod on k8s](https://github.com/jaegertracing/jaeger/issues/6086)
-
-
-## gittuf/gittuf <span style='color:#F1C40F'>(464 ⭐️)</span>
-
-- [Add a `remove-person` flow](https://github.com/gittuf/gittuf/issues/642)
-
-- [`gittuf rsl log` should write output incrementally](https://github.com/gittuf/gittuf/issues/630)
-
-
-## hashicorp/nomad <span style='color:#F1C40F'>(14.9K ⭐️)</span>
-
-- [unclear message in task event from executor crash](https://github.com/hashicorp/nomad/issues/24220)
-
-
-## pingcap/tidb <span style='color:#F1C40F'>(37.3K ⭐️)</span>
-
-- [lightning should cache the result of `columnAPI.Cols()` to improve performance](https://github.com/pingcap/tidb/issues/56705)
-
-- [Improve observability of fast reorg ADD INDEX progress](https://github.com/pingcap/tidb/issues/56986)
-
-- [Dumpling will stuck while it's expect to fallback to LOCK TABLES when FTWRL blocking for a long time](https://github.com/pingcap/tidb/issues/56838)
-
-- [too many "fail to get hist meta for this histogram, possibly a deleted one"](https://github.com/pingcap/tidb/issues/56740)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [[helm] Usage of function mimir.siToBytes seems inconsistent](https://github.com/grafana/mimir/issues/9780)
-
-- [extraVolumes block fails for alertmanager](https://github.com/grafana/mimir/issues/9775)
-
-- [Unable to configure memcached container resources](https://github.com/grafana/mimir/issues/9737)
-
-
-## grafana/k6 <span style='color:#F1C40F'>(25.9K ⭐️)</span>
-
-- [Address jhump/protoreflect deprecations introduced by v1.17.0](https://github.com/grafana/k6/issues/4035)
-
-
-## COSSAS/SOARCA <span style='color:#F1C40F'>(55 ⭐️)</span>
-
-- [CACAO playbook validation apis](https://github.com/COSSAS/SOARCA/issues/244)
-
-
-## flyteorg/flyte <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [[BUG] Make Protobuf Struct Attribute Access local execurtion the same as remote execution](https://github.com/flyteorg/flyte/issues/5959)
-
-- [[Docs] Document how caching can be controlled in the "Writing Custom Flyte Types" page](https://github.com/flyteorg/flyte/issues/5838)
-
-
-## devfile/devworkspace-operator <span style='color:#F1C40F'>(67 ⭐️)</span>
-
-- [Add attribute to DWO-injected commands that should not be displayed to users](https://github.com/devfile/devworkspace-operator/issues/1333)
-
-
-## grafana/alloy <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [Docs feedback: Syntax is seemingly undocumented](https://github.com/grafana/alloy/issues/1872)
-
-
-## pactus-project/pactus <span style='color:#F1C40F'>(213 ⭐️)</span>
-
-- [Failed import prune data to mounted path](https://github.com/pactus-project/pactus/issues/1579)
-
-- [Sign and verify message by ed25519](https://github.com/pactus-project/pactus/issues/1549)
-
-
-## navikt/ghep <span style='color:#F1C40F'>(0 ⭐️)</span>
-
-- [Informere om at et repo blir public](https://github.com/navikt/ghep/issues/79)
-
-
-## cloudfoundry/korifi <span style='color:#F1C40F'>(318 ⭐️)</span>
-
-- [Implement the GET /v3/apps/guid/droplets endpoint](https://github.com/cloudfoundry/korifi/issues/3552)
-
-
-## elastic/elastic-agent <span style='color:#F1C40F'>(17 ⭐️)</span>
-
-- [add skip audit/unenroll flag to uninstall command](https://github.com/elastic/elastic-agent/issues/5757)
-
-
-## cri-o/cri-o <span style='color:#F1C40F'>(5.2K ⭐️)</span>
-
-- [Add prow based arm64 jobs](https://github.com/cri-o/cri-o/issues/8714)
-
-
-## anfragment/zen <span style='color:#F1C40F'>(2.3K ⭐️)</span>
-
-- [Move icon from dock to menu bar](https://github.com/anfragment/zen/issues/130)
-
-
-## superseriousbusiness/gotosocial <span style='color:#F1C40F'>(3.8K ⭐️)</span>
-
-- [[feature] Add Akkoma-style `preview` parameter to status creation](https://github.com/superseriousbusiness/gotosocial/issues/3492)
-
-
-## cortexproject/cortex <span style='color:#F1C40F'>(5.5K ⭐️)</span>
-
-- [Both branches of `if-then-else` are identical in `pkg/ruler/ruler_test.go`](https://github.com/cortexproject/cortex/issues/6287)
 
