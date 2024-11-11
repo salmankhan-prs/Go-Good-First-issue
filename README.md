@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at November 10, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 11, 2024 00:02 UTC.</div>
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
 
 
 ## owncast/owncast <span style='color:#F1C40F'>(9.5K ⭐️)</span>
@@ -149,6 +154,13 @@
 - [[feature]: Careers page for Keploy](https://github.com/keploy/keploy/issues/2384)
 
 - [[feature]: Navbar Dock](https://github.com/keploy/keploy/issues/2381)
+
+
+## getAlby/hub <span style='color:#F1C40F'>(96 ⭐️)</span>
+
+- [BuzzPay PoS incorrectly passes name property](https://github.com/getAlby/hub/issues/759)
+
+- [[Accessibility] Some dialogs are not easily submitted via keyboard](https://github.com/getAlby/hub/issues/760)
 
 
 ## DefangLabs/defang <span style='color:#F1C40F'>(37 ⭐️)</span>
@@ -316,11 +328,6 @@
 - [[BUG] Make Protobuf Struct Attribute Access local execurtion the same as remote execution](https://github.com/flyteorg/flyte/issues/5959)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
-
-
 ## mintoolkit/mint <span style='color:#F1C40F'>(154 ⭐️)</span>
 
 - [Enhancement: Need a global --help (-h) flag to show the help information shown when the 'help` command is selected](https://github.com/mintoolkit/mint/issues/71)
@@ -367,9 +374,4 @@
 - [[Bug]: Standardize the cluster name argument in kubectl cnpg plugin](https://github.com/cloudnative-pg/cloudnative-pg/issues/5848)
 
 - [[Bug]: Make `color` argument of kubectl cnpg a global variable](https://github.com/cloudnative-pg/cloudnative-pg/issues/5849)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
 
