@@ -4,7 +4,52 @@
 
 
 
-<div align='center'>Last updated at November 11, 2024 23:01 UTC.</div>
+<div align='center'>Last updated at November 12, 2024 00:01 UTC.</div>
+
+
+## coder/coder <span style='color:#F1C40F'>(8.3K ⭐️)</span>
+
+- [Provide Postgresql database settings not only via connection string](https://github.com/coder/coder/issues/15264)
+
+- [chore: generate countries.tsx from Go code](https://github.com/coder/coder/issues/15074)
+
+
+## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Enhance e2e Tests: Validate Conversion with Mock Scenario](https://github.com/kubernetes-sigs/kubebuilder/issues/4297)
+
+
+## nucleuscloud/neosync <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[NEOS-1577] Auto-generate CLI Config JSON Schema](https://github.com/nucleuscloud/neosync/issues/2868)
+
+- [[NEOS-1581] Update tests to use slogt](https://github.com/nucleuscloud/neosync/issues/2872)
+
+- [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
+
+- [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
+
+
+## apache/camel-k <span style='color:#F1C40F'>(867 ⭐️)</span>
+
+- [Kustomize common labels deprecated](https://github.com/apache/camel-k/issues/5928)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
+
+
+## gittuf/gittuf <span style='color:#F1C40F'>(464 ⭐️)</span>
+
+- [Add a `remove-person` flow](https://github.com/gittuf/gittuf/issues/642)
+
+- [`gittuf rsl log` should write output incrementally](https://github.com/gittuf/gittuf/issues/630)
+
+
+## omni-network/omni <span style='color:#F1C40F'>(88 ⭐️)</span>
+
+- [Deploy gas pump contracts on mainnet](https://github.com/omni-network/omni/issues/2206)
 
 
 ## jaegertracing/jaeger <span style='color:#F1C40F'>(20.5K ⭐️)</span>
@@ -41,31 +86,6 @@
 - [[Docs]: `max_tokens` argument in `aws_bedrockagent_data_source`](https://github.com/hashicorp/terraform-provider-aws/issues/39819)
 
 - [[Enhancement]: aws_appstream_stack user_settings has been updated](https://github.com/hashicorp/terraform-provider-aws/issues/39792)
-
-
-## gittuf/gittuf <span style='color:#F1C40F'>(464 ⭐️)</span>
-
-- [Add a `remove-person` flow](https://github.com/gittuf/gittuf/issues/642)
-
-- [`gittuf rsl log` should write output incrementally](https://github.com/gittuf/gittuf/issues/630)
-
-
-## nucleuscloud/neosync <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[NEOS-1577] Auto-generate CLI Config JSON Schema](https://github.com/nucleuscloud/neosync/issues/2868)
-
-- [[NEOS-1581] Update tests to use slogt](https://github.com/nucleuscloud/neosync/issues/2872)
-
-- [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
-
-- [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
-
-
-## coder/coder <span style='color:#F1C40F'>(8.3K ⭐️)</span>
-
-- [Provide Postgresql database settings not only via connection string](https://github.com/coder/coder/issues/15264)
-
-- [chore: generate countries.tsx from Go code](https://github.com/coder/coder/issues/15074)
 
 
 ## RamenDR/ramen <span style='color:#F1C40F'>(73 ⭐️)</span>
@@ -109,9 +129,9 @@
 - [unclear message in task event from executor crash](https://github.com/hashicorp/nomad/issues/24220)
 
 
-## omni-network/omni <span style='color:#F1C40F'>(88 ⭐️)</span>
+## mgechev/revive <span style='color:#F1C40F'>(4.8K ⭐️)</span>
 
-- [Deploy gas pump contracts on mainnet](https://github.com/omni-network/omni/issues/2206)
+- [Missing docs for `comment-spacings` rule](https://github.com/mgechev/revive/issues/1062)
 
 
 ## camunda/camunda-platform-helm <span style='color:#F1C40F'>(74 ⭐️)</span>
@@ -147,14 +167,14 @@
 - [[Core feature] `pyflyte info` show `Version`](https://github.com/flyteorg/flyte/issues/5984)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
-
-
 ## provenance-io/provenance <span style='color:#F1C40F'>(88 ⭐️)</span>
 
 - [Create a multi-authorization.](https://github.com/provenance-io/provenance/issues/2207)
+
+
+## kubernetes/autoscaler <span style='color:#F1C40F'>(8.1K ⭐️)</span>
+
+- [cluster_autoscaler_failed_scale_ups_total metric is missing from metrics until an event is registered](https://github.com/kubernetes/autoscaler/issues/7448)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(4.1K ⭐️)</span>
@@ -166,9 +186,9 @@
 - [Unable to configure memcached container resources](https://github.com/grafana/mimir/issues/9737)
 
 
-## kubernetes/autoscaler <span style='color:#F1C40F'>(8.1K ⭐️)</span>
+## anfragment/zen <span style='color:#F1C40F'>(2.3K ⭐️)</span>
 
-- [cluster_autoscaler_failed_scale_ups_total metric is missing from metrics until an event is registered](https://github.com/kubernetes/autoscaler/issues/7448)
+- [Move icon from dock to menu bar](https://github.com/anfragment/zen/issues/130)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(17.9K ⭐️)</span>
@@ -191,11 +211,6 @@
 - [[Bug]: Zitadel Logo showing both dark and light](https://github.com/zitadel/zitadel/issues/8770)
 
 - [Console: Filter organizations by id](https://github.com/zitadel/zitadel/issues/8792)
-
-
-## mgechev/revive <span style='color:#F1C40F'>(4.8K ⭐️)</span>
-
-- [Missing docs for `comment-spacings` rule](https://github.com/mgechev/revive/issues/1062)
 
 
 ## dragonflydb/dragonfly-operator <span style='color:#F1C40F'>(142 ⭐️)</span>
@@ -348,11 +363,6 @@
 - [Enable storing a defined list of request headers.](https://github.com/nicolastakashi/prom-analytics-proxy/issues/101)
 
 
-## anfragment/zen <span style='color:#F1C40F'>(2.3K ⭐️)</span>
-
-- [Move icon from dock to menu bar](https://github.com/anfragment/zen/issues/130)
-
-
 ## cosmos/ibc-go <span style='color:#F1C40F'>(552 ⭐️)</span>
 
 - [Add additional grpc queries for channel/v2](https://github.com/cosmos/ibc-go/issues/7478)
@@ -392,9 +402,4 @@
 ## metal-stack/metal-api <span style='color:#F1C40F'>(130 ⭐️)</span>
 
 - [Mark machine as dead if installation does not finish](https://github.com/metal-stack/metal-api/issues/585)
-
-
-## k8sgpt-ai/k8sgpt <span style='color:#F1C40F'>(5.9K ⭐️)</span>
-
-- [[Question]: K8sgpt CRD cannot set resource limit memory](https://github.com/k8sgpt-ai/k8sgpt/issues/1277)
 
