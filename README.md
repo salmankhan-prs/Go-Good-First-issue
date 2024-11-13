@@ -4,17 +4,49 @@
 
 
 
-<div align='center'>Last updated at November 12, 2024 23:02 UTC.</div>
-
-
-## owncast/owncast <span style='color:#F1C40F'>(9.5K ⭐️)</span>
-
-- [Create an equivalent external/integration API endpoint for /api/status](https://github.com/owncast/owncast/issues/3981)
+<div align='center'>Last updated at November 13, 2024 00:02 UTC.</div>
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
 
 - [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
+
+
+## pingcap/tidb <span style='color:#F1C40F'>(37.3K ⭐️)</span>
+
+- [lightning should cache the result of `columnAPI.Cols()` to improve performance](https://github.com/pingcap/tidb/issues/56705)
+
+- [Improve observability of fast reorg ADD INDEX progress](https://github.com/pingcap/tidb/issues/56986)
+
+- [Dumpling will stuck while it's expect to fallback to LOCK TABLES when FTWRL blocking for a long time](https://github.com/pingcap/tidb/issues/56838)
+
+- [too many "fail to get hist meta for this histogram, possibly a deleted one"](https://github.com/pingcap/tidb/issues/56740)
+
+
+## solo-io/gloo <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+
+- [Persist Discovered Gateway API CRDs in the ControllerBuilder Type](https://github.com/solo-io/gloo/issues/10321)
+
+- [Helm lint as part of ci](https://github.com/solo-io/gloo/issues/10283)
+
+
+## radius-project/radius <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [`rad env` should be renamed to `rad environment`](https://github.com/radius-project/radius/issues/8043)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+
+- [[helm] Usage of function mimir.siToBytes seems inconsistent](https://github.com/grafana/mimir/issues/9780)
+
+- [extraVolumes block fails for alertmanager](https://github.com/grafana/mimir/issues/9775)
+
+- [Unable to configure memcached container resources](https://github.com/grafana/mimir/issues/9737)
+
+
+## owncast/owncast <span style='color:#F1C40F'>(9.5K ⭐️)</span>
+
+- [Create an equivalent external/integration API endpoint for /api/status](https://github.com/owncast/owncast/issues/3981)
 
 
 ## zitadel/zitadel <span style='color:#F1C40F'>(9.0K ⭐️)</span>
@@ -68,23 +100,11 @@
 - [opa eval: panic when given bad input for --unknowns](https://github.com/open-policy-agent/opa/issues/7127)
 
 
-## radius-project/radius <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [`rad env` should be renamed to `rad environment`](https://github.com/radius-project/radius/issues/8043)
-
-
 ## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
 
 - [Add node level metric for no VFPCounters](https://github.com/microsoft/retina/issues/933)
 
 - [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
-
-
-## solo-io/gloo <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [Persist Discovered Gateway API CRDs in the ControllerBuilder Type](https://github.com/solo-io/gloo/issues/10321)
-
-- [Helm lint as part of ci](https://github.com/solo-io/gloo/issues/10283)
 
 
 ## kubestellar/kubestellar <span style='color:#F1C40F'>(275 ⭐️)</span>
@@ -190,15 +210,6 @@
 - [[Feature Request] Document Keyword Lists for Search Attributes](https://github.com/temporalio/terraform-provider-temporalcloud/issues/159)
 
 - [[Feature Request] Docs Improvement for Admin User Management](https://github.com/temporalio/terraform-provider-temporalcloud/issues/147)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [[helm] Usage of function mimir.siToBytes seems inconsistent](https://github.com/grafana/mimir/issues/9780)
-
-- [extraVolumes block fails for alertmanager](https://github.com/grafana/mimir/issues/9775)
-
-- [Unable to configure memcached container resources](https://github.com/grafana/mimir/issues/9737)
 
 
 ## warpstreamlabs/bento <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -331,17 +342,6 @@
 - [[Bug]: When stats sending fails it sends a warning](https://github.com/treeverse/lakeFS/issues/8287)
 
 
-## pingcap/tidb <span style='color:#F1C40F'>(37.3K ⭐️)</span>
-
-- [lightning should cache the result of `columnAPI.Cols()` to improve performance](https://github.com/pingcap/tidb/issues/56705)
-
-- [Improve observability of fast reorg ADD INDEX progress](https://github.com/pingcap/tidb/issues/56986)
-
-- [Dumpling will stuck while it's expect to fallback to LOCK TABLES when FTWRL blocking for a long time](https://github.com/pingcap/tidb/issues/56838)
-
-- [too many "fail to get hist meta for this histogram, possibly a deleted one"](https://github.com/pingcap/tidb/issues/56740)
-
-
 ## testcontainers/testcontainers-go <span style='color:#F1C40F'>(3.6K ⭐️)</span>
 
 - [Extend contributing guides to mention avoiding packaging clients in the modules](https://github.com/testcontainers/testcontainers-go/issues/2832)
@@ -423,9 +423,4 @@
 - [Add more descriptive logging for component startup failure](https://github.com/dapr/dapr/issues/8236)
 
 - [Introduce config to optionally disable requests to `/dapr/config` and `/dapr/subscribe`during dapr init](https://github.com/dapr/dapr/issues/8224)
-
-
-## kubernetes-sigs/kueue <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [Use ResourceFlavorReference instead of string consistently](https://github.com/kubernetes-sigs/kueue/issues/3491)
 
