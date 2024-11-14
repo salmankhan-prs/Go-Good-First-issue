@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at November 13, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 14, 2024 00:02 UTC.</div>
 
 
 ## nucleuscloud/neosync <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -18,14 +18,68 @@
 - [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
 
 
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Dolt reset should stage working set](https://github.com/dolthub/dolt/issues/8548)
+
+
 ## ethereum-optimism/supersim <span style='color:#F1C40F'>(107 ⭐️)</span>
 
 - [Allow customizing anvil hosts](https://github.com/ethereum-optimism/supersim/issues/262)
 
 
-## getAlby/hub <span style='color:#F1C40F'>(97 ⭐️)</span>
+## radius-project/radius <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
-- [BuzzPay PoS incorrectly passes name property](https://github.com/getAlby/hub/issues/759)
+- [`rad env` should be renamed to `rad environment`](https://github.com/radius-project/radius/issues/8043)
+
+
+## cilium/tetragon <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [add destination_port filter](https://github.com/cilium/tetragon/issues/3078)
+
+
+## flyteorg/flyte <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [[BUG] dataclass in list default input error](https://github.com/flyteorg/flyte/issues/5985)
+
+- [[BUG] Make Protobuf Struct Attribute Access local execurtion the same as remote execution](https://github.com/flyteorg/flyte/issues/5959)
+
+- [[Core feature] `pyflyte info` show `Version`](https://github.com/flyteorg/flyte/issues/5984)
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(20.5K ⭐️)</span>
+
+- [Improve unit test speed](https://github.com/jaegertracing/jaeger/issues/6111)
+
+- [ES 8.x / v2 integration test often fails](https://github.com/jaegertracing/jaeger/issues/6094)
+
+- [[jaeger-v2] Add Meter Provider To Telemetry Settings](https://github.com/jaegertracing/jaeger/issues/6127)
+
+- [[v2] How is tenancy handled / configured? Should it be part of storage config?](https://github.com/jaegertracing/jaeger/issues/6108)
+
+
+## coder/coder <span style='color:#F1C40F'>(8.3K ⭐️)</span>
+
+- [Provide Postgresql database settings not only via connection string](https://github.com/coder/coder/issues/15264)
+
+- [chore: generate countries.tsx from Go code](https://github.com/coder/coder/issues/15074)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+
+- [[helm] Usage of function mimir.siToBytes seems inconsistent](https://github.com/grafana/mimir/issues/9780)
+
+- [extraVolumes block fails for alertmanager](https://github.com/grafana/mimir/issues/9775)
+
+- [Unable to configure memcached container resources](https://github.com/grafana/mimir/issues/9737)
+
+
+## getAlby/hub <span style='color:#F1C40F'>(97 ⭐️)</span>
 
 - [[Accessibility] Some dialogs are not easily submitted via keyboard](https://github.com/getAlby/hub/issues/760)
 
@@ -55,16 +109,6 @@
 ## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Enhance e2e Tests: Validate Conversion with Mock Scenario](https://github.com/kubernetes-sigs/kubebuilder/issues/4297)
-
-
-## radius-project/radius <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [`rad env` should be renamed to `rad environment`](https://github.com/radius-project/radius/issues/8043)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Dolt reset should stage working set](https://github.com/dolthub/dolt/issues/8548)
 
 
 ## ray-project/kuberay <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -113,24 +157,6 @@
 - [[Enhancement]: aws_appstream_stack user_settings has been updated](https://github.com/hashicorp/terraform-provider-aws/issues/39792)
 
 
-## flyteorg/flyte <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [[BUG] dataclass in list default input error](https://github.com/flyteorg/flyte/issues/5985)
-
-- [[BUG] Make Protobuf Struct Attribute Access local execurtion the same as remote execution](https://github.com/flyteorg/flyte/issues/5959)
-
-- [[Core feature] `pyflyte info` show `Version`](https://github.com/flyteorg/flyte/issues/5984)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [[helm] Usage of function mimir.siToBytes seems inconsistent](https://github.com/grafana/mimir/issues/9780)
-
-- [extraVolumes block fails for alertmanager](https://github.com/grafana/mimir/issues/9775)
-
-- [Unable to configure memcached container resources](https://github.com/grafana/mimir/issues/9737)
-
-
 ## QuesmaOrg/quesma <span style='color:#F1C40F'>(101 ⭐️)</span>
 
 - [`_count` endpoint doesn't work for non-default database](https://github.com/QuesmaOrg/quesma/issues/985)
@@ -144,11 +170,6 @@
 ## openfga/openfga <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
 - [Replace existing caching library](https://github.com/openfga/openfga/issues/2097)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [[cmd/opampsupervisor] Strictly unmarshal the supervisor configuration](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/35838)
 
 
 ## openbao/openbao <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -197,13 +218,6 @@
 ## cortexproject/cortex <span style='color:#F1C40F'>(5.5K ⭐️)</span>
 
 - [Both branches of `if-then-else` are identical in `pkg/ruler/ruler_test.go`](https://github.com/cortexproject/cortex/issues/6287)
-
-
-## coder/coder <span style='color:#F1C40F'>(8.3K ⭐️)</span>
-
-- [Provide Postgresql database settings not only via connection string](https://github.com/coder/coder/issues/15264)
-
-- [chore: generate countries.tsx from Go code](https://github.com/coder/coder/issues/15074)
 
 
 ## argoproj/argo-cd <span style='color:#F1C40F'>(17.9K ⭐️)</span>
@@ -274,6 +288,11 @@
 ## grafana/tempo <span style='color:#F1C40F'>(4.0K ⭐️)</span>
 
 - [Limit maximun number of spans for span sets](https://github.com/grafana/tempo/issues/4275)
+
+
+## libp2p/go-libp2p <span style='color:#F1C40F'>(6.1K ⭐️)</span>
+
+- [Update `examples/`](https://github.com/libp2p/go-libp2p/issues/3017)
 
 
 ## open-telemetry/opentelemetry-go-contrib <span style='color:#F1C40F'>(1.2K ⭐️)</span>
@@ -373,18 +392,4 @@
 ## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
 
 - [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
-
-
-## west2-online/fzuhelper-server <span style='color:#F1C40F'>(8 ⭐️)</span>
-
-- [服务端鉴权中间件设计](https://github.com/west2-online/fzuhelper-server/issues/72)
-
-- [MySQL data structure optimization](https://github.com/west2-online/fzuhelper-server/issues/32)
-
-
-## gittuf/gittuf <span style='color:#F1C40F'>(464 ⭐️)</span>
-
-- [Add a `remove-person` flow](https://github.com/gittuf/gittuf/issues/642)
-
-- [`gittuf rsl log` should write output incrementally](https://github.com/gittuf/gittuf/issues/630)
 
