@@ -4,7 +4,26 @@
 
 
 
-<div align='center'>Last updated at November 14, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 15, 2024 00:01 UTC.</div>
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Dolt reset should stage working set](https://github.com/dolthub/dolt/issues/8548)
+
+
+## apache/camel-k <span style='color:#F1C40F'>(868 ⭐️)</span>
+
+- [Kustomize common labels deprecated](https://github.com/apache/camel-k/issues/5928)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+
+- [[helm] Usage of function mimir.siToBytes seems inconsistent](https://github.com/grafana/mimir/issues/9780)
+
+- [extraVolumes block fails for alertmanager](https://github.com/grafana/mimir/issues/9775)
+
+- [Unable to configure memcached container resources](https://github.com/grafana/mimir/issues/9737)
 
 
 ## flyteorg/flyte <span style='color:#F1C40F'>(5.8K ⭐️)</span>
@@ -14,6 +33,40 @@
 - [[BUG] Make Protobuf Struct Attribute Access local execurtion the same as remote execution](https://github.com/flyteorg/flyte/issues/5959)
 
 - [[Core feature] `pyflyte info` show `Version`](https://github.com/flyteorg/flyte/issues/5984)
+
+
+## ethereum-optimism/supersim <span style='color:#F1C40F'>(113 ⭐️)</span>
+
+- [Temp logging not working](https://github.com/ethereum-optimism/supersim/issues/205)
+
+- [Allow customizing anvil hosts](https://github.com/ethereum-optimism/supersim/issues/262)
+
+
+## omni-network/omni <span style='color:#F1C40F'>(88 ⭐️)</span>
+
+- [Deploy gas pump contracts on mainnet](https://github.com/omni-network/omni/issues/2206)
+
+
+## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
+
+- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
+
+
+## elastic/elastic-agent <span style='color:#F1C40F'>(18 ⭐️)</span>
+
+- [Default logger and events logger use different timestamp formats](https://github.com/elastic/elastic-agent/issues/5962)
+
+
+## camunda/camunda-platform-helm <span style='color:#F1C40F'>(74 ⭐️)</span>
+
+- [[ISSUE] camundaPlatform.getExternalURL does not support custom ingress port](https://github.com/camunda/camunda-platform-helm/issues/2497)
+
+- [[ENHANCEMENT] Disable Connection test if the component is disabled](https://github.com/camunda/camunda-platform-helm/issues/2492)
+
+
+## openfga/openfga <span style='color:#F1C40F'>(2.9K ⭐️)</span>
+
+- [Replace existing caching library](https://github.com/openfga/openfga/issues/2097)
 
 
 ## cockroachdb/replicator <span style='color:#F1C40F'>(60 ⭐️)</span>
@@ -26,16 +79,11 @@
 - [`rad env` should be renamed to `rad environment`](https://github.com/radius-project/radius/issues/8043)
 
 
-## dolthub/dolt <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
 
-- [Dolt reset should stage working set](https://github.com/dolthub/dolt/issues/8548)
+- [Add node level metric for no VFPCounters](https://github.com/microsoft/retina/issues/933)
 
-
-## ethereum-optimism/supersim <span style='color:#F1C40F'>(111 ⭐️)</span>
-
-- [Temp logging not working](https://github.com/ethereum-optimism/supersim/issues/205)
-
-- [Allow customizing anvil hosts](https://github.com/ethereum-optimism/supersim/issues/262)
+- [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.8K ⭐️)</span>
@@ -99,11 +147,6 @@
 - [[FEATURE] Support addition of arbitrary properties in evaluation context](https://github.com/open-feature/flagd/issues/1435)
 
 
-## openfga/openfga <span style='color:#F1C40F'>(2.9K ⭐️)</span>
-
-- [Replace existing caching library](https://github.com/openfga/openfga/issues/2097)
-
-
 ## treeverse/lakeFS <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
 - [WebUI Page Title should be descriptive](https://github.com/treeverse/lakeFS/issues/8363)
@@ -119,11 +162,6 @@
 ## coder/coder <span style='color:#F1C40F'>(8.3K ⭐️)</span>
 
 - [Provide Postgresql database settings not only via connection string](https://github.com/coder/coder/issues/15264)
-
-
-## openbao/openbao <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [inmem - Occasional logging after test finishes](https://github.com/openbao/openbao/issues/702)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(5.2K ⭐️)</span>
@@ -218,24 +256,9 @@
 - [scale.min is not respected when pipeline has no traffic](https://github.com/numaproj/numaflow/issues/2220)
 
 
-## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Allow to pull wasm image from insecure registry while using envoy extension policy](https://github.com/envoyproxy/gateway/issues/4466)
-
-
-## apache/camel-k <span style='color:#F1C40F'>(868 ⭐️)</span>
-
-- [Kustomize common labels deprecated](https://github.com/apache/camel-k/issues/5928)
-
-
-## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Add node level metric for no VFPCounters](https://github.com/microsoft/retina/issues/933)
-
-- [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
-
-
 ## cilium/tetragon <span style='color:#F1C40F'>(3.6K ⭐️)</span>
+
+- [tetra cli: add support for cel_expression filter](https://github.com/cilium/tetragon/issues/3112)
 
 - [add destination_port filter](https://github.com/cilium/tetragon/issues/3078)
 
@@ -243,20 +266,6 @@
 ## databricks/cli <span style='color:#F1C40F'>(147 ⭐️)</span>
 
 - [databricks queries list: an't evaluate field Name in type interface {}](https://github.com/databricks/cli/issues/1888)
-
-
-## databricks/cli <span style='color:#F1C40F'>(147 ⭐️)</span>
-
-- [databricks queries list: an't evaluate field Name in type interface {}](https://github.com/databricks/cli/issues/1888)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [[helm] Usage of function mimir.siToBytes seems inconsistent](https://github.com/grafana/mimir/issues/9780)
-
-- [extraVolumes block fails for alertmanager](https://github.com/grafana/mimir/issues/9775)
-
-- [Unable to configure memcached container resources](https://github.com/grafana/mimir/issues/9737)
 
 
 ## nucleuscloud/neosync <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -268,11 +277,6 @@
 - [[NEOS-1581] Update tests to use slogt](https://github.com/nucleuscloud/neosync/issues/2872)
 
 - [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
-
-
-## omni-network/omni <span style='color:#F1C40F'>(88 ⭐️)</span>
-
-- [Deploy gas pump contracts on mainnet](https://github.com/omni-network/omni/issues/2206)
 
 
 ## grafana/k6 <span style='color:#F1C40F'>(26.0K ⭐️)</span>
@@ -363,11 +367,6 @@
 - [Update "Program Attendance Records" table in `MyProgress.tsx`](https://github.com/UnlockedLabs/UnlockEdv2/issues/460)
 
 
-## elastic/elastic-agent <span style='color:#F1C40F'>(18 ⭐️)</span>
-
-- [Default logger and events logger use different timestamp formats](https://github.com/elastic/elastic-agent/issues/5962)
-
-
 ## kyverno/kyverno <span style='color:#F1C40F'>(5.7K ⭐️)</span>
 
 - [[Bug] [CLI] Kyverno test labels a test run passing if the test expects a fail but the policy a pass](https://github.com/kyverno/kyverno/issues/11519)
@@ -381,11 +380,4 @@
 - [Improve log level when reporting "rule not matched"](https://github.com/kyverno/kyverno/issues/11525)
 
 - [[Feature] add MD5 and SHA1 hash functions for JMESPath](https://github.com/kyverno/kyverno/issues/11506)
-
-
-## gittuf/gittuf <span style='color:#F1C40F'>(465 ⭐️)</span>
-
-- [Add a `remove-person` flow](https://github.com/gittuf/gittuf/issues/642)
-
-- [`gittuf rsl log` should write output incrementally](https://github.com/gittuf/gittuf/issues/630)
 
