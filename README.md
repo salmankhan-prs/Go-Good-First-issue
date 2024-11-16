@@ -4,7 +4,44 @@
 
 
 
-<div align='center'>Last updated at November 15, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 16, 2024 00:02 UTC.</div>
+
+
+## kubernetes/autoscaler <span style='color:#F1C40F'>(8.1K ⭐️)</span>
+
+- [cluster_autoscaler_failed_scale_ups_total metric is missing from metrics until an event is registered](https://github.com/kubernetes/autoscaler/issues/7448)
+
+
+## numaproj/numaflow <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [scale.min is not respected when pipeline has no traffic](https://github.com/numaproj/numaflow/issues/2220)
+
+
+## radius-project/radius <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [`rad env` should be renamed to `rad environment`](https://github.com/radius-project/radius/issues/8043)
+
+
+## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Add node level metric for no VFPCounters](https://github.com/microsoft/retina/issues/933)
+
+- [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [[pkg/ottl] truncate_all function corrupts UTF-8 encoding](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/36017)
+
+
+## storj/storj <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [Satellite UI: Truncate "available funds" to two decimal places](https://github.com/storj/storj/issues/7241)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Dolt reset should stage working set](https://github.com/dolthub/dolt/issues/8548)
 
 
 ## Azure/eno <span style='color:#F1C40F'>(7 ⭐️)</span>
@@ -20,11 +57,6 @@
 - [Log reason why state was swapped](https://github.com/Azure/eno/issues/225)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [[pkg/ottl] truncate_all function corrupts UTF-8 encoding](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/36017)
-
-
 ## akuity/kargo <span style='color:#F1C40F'>(1.7K ⭐️)</span>
 
 - [Document the possible values of Warehouse imageSelectionStrategy](https://github.com/akuity/kargo/issues/2880)
@@ -34,14 +66,9 @@
 - [Descriptive names for subscriptions](https://github.com/akuity/kargo/issues/2839)
 
 
-## jesusprubio/up <span style='color:#F1C40F'>(289 ⭐️)</span>
+## jesusprubio/up <span style='color:#F1C40F'>(292 ⭐️)</span>
 
 - [Option to hide symbols](https://github.com/jesusprubio/up/issues/57)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Dolt reset should stage working set](https://github.com/dolthub/dolt/issues/8548)
 
 
 ## onflow/cadence <span style='color:#F1C40F'>(533 ⭐️)</span>
@@ -49,11 +76,6 @@
 - [Refactor string interpolation to separate parsing logic](https://github.com/onflow/cadence/issues/3624)
 
 - [Get a list of all cases of an enum](https://github.com/onflow/cadence/issues/3671)
-
-
-## storj/storj <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [Satellite UI: Truncate "available funds" to two decimal places](https://github.com/storj/storj/issues/7241)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(4.1K ⭐️)</span>
@@ -123,11 +145,6 @@
 - [Incorrect/confusing `include cycle detected` error message after a silly mistake](https://github.com/go-task/task/issues/1881)
 
 
-## kubernetes/autoscaler <span style='color:#F1C40F'>(8.1K ⭐️)</span>
-
-- [cluster_autoscaler_failed_scale_ups_total metric is missing from metrics until an event is registered](https://github.com/kubernetes/autoscaler/issues/7448)
-
-
 ## kubestellar/kubestellar <span style='color:#F1C40F'>(279 ⭐️)</span>
 
 - [bug: spelling checker checks invisible HTML](https://github.com/kubestellar/kubestellar/issues/2507)
@@ -138,13 +155,6 @@
 ## kubernetes-sigs/kueue <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
 - [Use ResourceFlavorReference instead of string consistently](https://github.com/kubernetes-sigs/kueue/issues/3491)
-
-
-## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Add node level metric for no VFPCounters](https://github.com/microsoft/retina/issues/933)
-
-- [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
 
 
 ## anfragment/zen <span style='color:#F1C40F'>(2.3K ⭐️)</span>
@@ -173,11 +183,6 @@
 - [WebUI Page Title should be descriptive](https://github.com/treeverse/lakeFS/issues/8363)
 
 - [[Bug]: lakectl local doesn't mention the reason commit fails when writing to a protected branch](https://github.com/treeverse/lakeFS/issues/8333)
-
-
-## radius-project/radius <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [`rad env` should be renamed to `rad environment`](https://github.com/radius-project/radius/issues/8043)
 
 
 ## testcontainers/testcontainers-go <span style='color:#F1C40F'>(3.6K ⭐️)</span>
