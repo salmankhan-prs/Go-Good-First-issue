@@ -4,7 +4,12 @@
 
 
 
-<div align='center'>Last updated at November 16, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 17, 2024 00:02 UTC.</div>
+
+
+## apache/camel-k <span style='color:#F1C40F'>(868 ⭐️)</span>
+
+- [Kustomize common labels deprecated](https://github.com/apache/camel-k/issues/5928)
 
 
 ## cortexproject/cortex <span style='color:#F1C40F'>(5.5K ⭐️)</span>
@@ -44,6 +49,17 @@
 - [default_route_behaviour: BLOCK ](https://github.com/pg-sharding/spqr/issues/803)
 
 
+## meysamhadeli/codai <span style='color:#F1C40F'>(101 ⭐️)</span>
+
+- [Provide background style for code block](https://github.com/meysamhadeli/codai/issues/41)
+
+- [Add vscode extension](https://github.com/meysamhadeli/codai/issues/67)
+
+- [Add jetbrains plugin](https://github.com/meysamhadeli/codai/issues/66)
+
+- [Support anthropic claude api](https://github.com/meysamhadeli/codai/issues/15)
+
+
 ## grafana/mimir <span style='color:#F1C40F'>(4.1K ⭐️)</span>
 
 - [[helm] Usage of function mimir.siToBytes seems inconsistent](https://github.com/grafana/mimir/issues/9780)
@@ -80,11 +96,6 @@
 - [Add node level metric for no VFPCounters](https://github.com/microsoft/retina/issues/933)
 
 - [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
-
-
-## apache/camel-k <span style='color:#F1C40F'>(868 ⭐️)</span>
-
-- [Kustomize common labels deprecated](https://github.com/apache/camel-k/issues/5928)
 
 
 ## warpstreamlabs/bento <span style='color:#F1C40F'>(1.0K ⭐️)</span>
@@ -329,7 +340,7 @@
 - [Log reason why state was swapped](https://github.com/Azure/eno/issues/225)
 
 
-## jesusprubio/up <span style='color:#F1C40F'>(348 ⭐️)</span>
+## jesusprubio/up <span style='color:#F1C40F'>(349 ⭐️)</span>
 
 - [Parameter to hide symbols](https://github.com/jesusprubio/up/issues/57)
 
