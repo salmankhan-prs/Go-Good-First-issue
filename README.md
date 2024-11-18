@@ -4,7 +4,23 @@
 
 
 
-<div align='center'>Last updated at November 17, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 18, 2024 00:01 UTC.</div>
+
+
+## apache/camel-k <span style='color:#F1C40F'>(868 ⭐️)</span>
+
+- [Kustomize common labels deprecated](https://github.com/apache/camel-k/issues/5928)
+
+
+## nucleuscloud/neosync <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
+
+- [[NEOS-1577] Auto-generate CLI Config JSON Schema](https://github.com/nucleuscloud/neosync/issues/2868)
+
+- [[NEOS-1581] Update tests to use slogt](https://github.com/nucleuscloud/neosync/issues/2872)
+
+- [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
 
 
 ## ray-project/kuberay <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -143,11 +159,6 @@
 - [More Information in competition/main](https://github.com/NYCUarchery/archeryWebsite/issues/203)
 
 
-## apache/camel-k <span style='color:#F1C40F'>(868 ⭐️)</span>
-
-- [Kustomize common labels deprecated](https://github.com/apache/camel-k/issues/5928)
-
-
 ## pg-sharding/spqr <span style='color:#F1C40F'>(932 ⭐️)</span>
 
 - [[REDISTRIBUTE|MOVE] KEY RANGE on router](https://github.com/pg-sharding/spqr/issues/810)
@@ -239,17 +250,6 @@
 ## cri-o/cri-o <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [Add prow based arm64 jobs](https://github.com/cri-o/cri-o/issues/8714)
-
-
-## nucleuscloud/neosync <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
-
-- [[NEOS-1577] Auto-generate CLI Config JSON Schema](https://github.com/nucleuscloud/neosync/issues/2868)
-
-- [[NEOS-1581] Update tests to use slogt](https://github.com/nucleuscloud/neosync/issues/2872)
-
-- [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
 
 
 ## cyclops-ui/cyclops <span style='color:#F1C40F'>(2.5K ⭐️)</span>
