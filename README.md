@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at November 18, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 19, 2024 00:03 UTC.</div>
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.8K ⭐️)</span>
+
+- [[Enhancement]: aws_sagemaker_domain add Hidden Image Versions options to the studio_web_portal_settings](https://github.com/hashicorp/terraform-provider-aws/issues/39876)
+
+- [[Bug]: aws_elasticache_cluster resource does not support Valkey as an engine](https://github.com/hashicorp/terraform-provider-aws/issues/39905)
+
+- [[Enhancement]: Add `manualCreation` argument to `aws_codebuild_webhook` resource](https://github.com/hashicorp/terraform-provider-aws/issues/40078)
+
+- [[Enhancement]: Request warning for possible OpenSearch blue/green deployments](https://github.com/hashicorp/terraform-provider-aws/issues/40045)
+
+- [[Docs]: Add example of `replace_triggered_by` usage to `aws_imagebuilder_image_recipe` documentation](https://github.com/hashicorp/terraform-provider-aws/issues/40057)
+
+- [[Enhancement]: Support updateToLatestImageVersion in aws_batch_compute_environment.compute_resources](https://github.com/hashicorp/terraform-provider-aws/issues/39978)
+
+- [[Bug]: aws_emr_cluster Inappropriate value for attribute "configurations": string required.](https://github.com/hashicorp/terraform-provider-aws/issues/39959)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -14,14 +31,62 @@
 - [[pkg/ottl] truncate_all function corrupts UTF-8 encoding](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/36017)
 
 
+## kubernetes/autoscaler <span style='color:#F1C40F'>(8.1K ⭐️)</span>
+
+- [cluster_autoscaler_failed_scale_ups_total metric is missing from metrics until an event is registered](https://github.com/kubernetes/autoscaler/issues/7448)
+
+
+## akuity/kargo <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [Add Kargo Promotion Step to Remove File and/or Directory](https://github.com/akuity/kargo/issues/2860)
+
+- [Descriptive names for subscriptions](https://github.com/akuity/kargo/issues/2839)
+
+
+## elastic/elastic-agent <span style='color:#F1C40F'>(19 ⭐️)</span>
+
+- [Fleet deprecated `list` property when retrieving enrollment api keys](https://github.com/elastic/elastic-agent/issues/6023)
+
+- [Default logger and events logger use different timestamp formats](https://github.com/elastic/elastic-agent/issues/5962)
+
+
+## jaegertracing/jaeger <span style='color:#F1C40F'>(20.5K ⭐️)</span>
+
+- [Ensure all servers listen on 0.0.0.0](https://github.com/jaegertracing/jaeger/issues/6209)
+
+- [Improve unit test speed](https://github.com/jaegertracing/jaeger/issues/6111)
+
+- [[v2] How is tenancy handled / configured? Should it be part of storage config?](https://github.com/jaegertracing/jaeger/issues/6108)
+
+
+## flyteorg/flyte <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [[BUG] dataclass in list default input error](https://github.com/flyteorg/flyte/issues/5985)
+
+- [[BUG] Make Protobuf Struct Attribute Access local execurtion the same as remote execution](https://github.com/flyteorg/flyte/issues/5959)
+
+- [[Core feature] `pyflyte info` show `Version`](https://github.com/flyteorg/flyte/issues/5984)
+
+
 ## numaproj/numaflow <span style='color:#F1C40F'>(1.3K ⭐️)</span>
 
 - [scale.min is not respected when pipeline has no traffic](https://github.com/numaproj/numaflow/issues/2220)
 
 
-## libp2p/go-libp2p <span style='color:#F1C40F'>(6.1K ⭐️)</span>
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(296 ⭐️)</span>
 
-- [Update `examples/`](https://github.com/libp2p/go-libp2p/issues/3017)
+- [Tilt should not reinstall cert-manager on every file change](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/5267)
+
+
+## robinje/multi-user-dungeon <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [Reconcile Player and Character Lists](https://github.com/robinje/multi-user-dungeon/issues/270)
+
+- [Add Maximum Connections to Configuration](https://github.com/robinje/multi-user-dungeon/issues/269)
+
+- [Add Inactivity Timer](https://github.com/robinje/multi-user-dungeon/issues/258)
+
+- [Add Password Generation to Registration Page](https://github.com/robinje/multi-user-dungeon/issues/256)
 
 
 ## dapr/dapr <span style='color:#F1C40F'>(24.1K ⭐️)</span>
@@ -29,6 +94,11 @@
 - [Add more descriptive logging for component startup failure](https://github.com/dapr/dapr/issues/8236)
 
 - [Introduce config to optionally disable requests to `/dapr/config` and `/dapr/subscribe`during dapr init](https://github.com/dapr/dapr/issues/8224)
+
+
+## libp2p/go-libp2p <span style='color:#F1C40F'>(6.1K ⭐️)</span>
+
+- [Update `examples/`](https://github.com/libp2p/go-libp2p/issues/3017)
 
 
 ## dolthub/dolt <span style='color:#F1C40F'>(18.0K ⭐️)</span>
@@ -65,15 +135,6 @@
 - [Add documentation for command `ZRANGE`](https://github.com/DiceDB/dice/issues/1284)
 
 
-## flyteorg/flyte <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [[BUG] dataclass in list default input error](https://github.com/flyteorg/flyte/issues/5985)
-
-- [[BUG] Make Protobuf Struct Attribute Access local execurtion the same as remote execution](https://github.com/flyteorg/flyte/issues/5959)
-
-- [[Core feature] `pyflyte info` show `Version`](https://github.com/flyteorg/flyte/issues/5984)
-
-
 ## argoproj/argo-cd <span style='color:#F1C40F'>(18.0K ⭐️)</span>
 
 - [Export metrics for a number of daily users (dau)](https://github.com/argoproj/argo-cd/issues/20801)
@@ -85,23 +146,6 @@
 - [Add additional capabilities to argocd-k8s-auth](https://github.com/argoproj/argo-cd/issues/20582)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.8K ⭐️)</span>
-
-- [[Enhancement]: aws_sagemaker_domain add Hidden Image Versions options to the studio_web_portal_settings](https://github.com/hashicorp/terraform-provider-aws/issues/39876)
-
-- [[Bug]: aws_elasticache_cluster resource does not support Valkey as an engine](https://github.com/hashicorp/terraform-provider-aws/issues/39905)
-
-- [[Enhancement]: Add `manualCreation` argument to `aws_codebuild_webhook` resource](https://github.com/hashicorp/terraform-provider-aws/issues/40078)
-
-- [[Enhancement]: Request warning for possible OpenSearch blue/green deployments](https://github.com/hashicorp/terraform-provider-aws/issues/40045)
-
-- [[Docs]: Add example of `replace_triggered_by` usage to `aws_imagebuilder_image_recipe` documentation](https://github.com/hashicorp/terraform-provider-aws/issues/40057)
-
-- [[Enhancement]: Support updateToLatestImageVersion in aws_batch_compute_environment.compute_resources](https://github.com/hashicorp/terraform-provider-aws/issues/39978)
-
-- [[Bug]: aws_emr_cluster Inappropriate value for attribute "configurations": string required.](https://github.com/hashicorp/terraform-provider-aws/issues/39959)
-
-
 ## buildsafedev/bsf <span style='color:#F1C40F'>(68 ⭐️)</span>
 
 - [Add `date` and `time` column in `bsf search` GUI](https://github.com/buildsafedev/bsf/issues/125)
@@ -109,6 +153,11 @@
 - [Sort packages in `bsf.hcl`](https://github.com/buildsafedev/bsf/issues/126)
 
 - [Replace `coreutils-full` with `toybox + coreutils`](https://github.com/buildsafedev/bsf/issues/123)
+
+
+## traPtitech/traQ <span style='color:#F1C40F'>(425 ⭐️)</span>
+
+- [リリースノートにcommit単位で表示される](https://github.com/traPtitech/traQ/issues/2542)
 
 
 ## celestiaorg/celestia-core <span style='color:#F1C40F'>(489 ⭐️)</span>
@@ -121,21 +170,9 @@
 - [Replace existing caching library](https://github.com/openfga/openfga/issues/2097)
 
 
-## akuity/kargo <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [Add Kargo Promotion Step to Remove File and/or Directory](https://github.com/akuity/kargo/issues/2860)
-
-- [Descriptive names for subscriptions](https://github.com/akuity/kargo/issues/2839)
-
-
 ## anfragment/zen <span style='color:#F1C40F'>(2.3K ⭐️)</span>
 
 - [Move icon from dock to menu bar](https://github.com/anfragment/zen/issues/130)
-
-
-## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(296 ⭐️)</span>
-
-- [Tilt should not reinstall cert-manager on every file change](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/5267)
 
 
 ## ray-project/kuberay <span style='color:#F1C40F'>(1.3K ⭐️)</span>
@@ -147,13 +184,6 @@
 - [[Feature] Implement RayService In-place update test in Golang](https://github.com/ray-project/kuberay/issues/2516)
 
 - [Rewrite `compatibility-test.py` with golang](https://github.com/ray-project/kuberay/issues/2510)
-
-
-## elastic/elastic-agent <span style='color:#F1C40F'>(19 ⭐️)</span>
-
-- [Fleet deprecated `list` property when retrieving enrollment api keys](https://github.com/elastic/elastic-agent/issues/6023)
-
-- [Default logger and events logger use different timestamp formats](https://github.com/elastic/elastic-agent/issues/5962)
 
 
 ## nucleuscloud/neosync <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -329,71 +359,4 @@
 - [Enable object-map,exclusive-lock or use the storageClass imageFeatures for "-temp" cloned RBD volumes](https://github.com/ceph/ceph-csi/issues/4936)
 
 - [use single set to keys for cephfs secrets](https://github.com/ceph/ceph-csi/issues/4935)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [Support putIfAbsent](https://github.com/treeverse/lakeFS/issues/8380)
-
-- [WebUI Page Title should be descriptive](https://github.com/treeverse/lakeFS/issues/8363)
-
-- [[Bug]: lakectl local doesn't mention the reason commit fails when writing to a protected branch](https://github.com/treeverse/lakeFS/issues/8333)
-
-
-## k8sgateway/k8sgateway <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [Helm lint as part of ci](https://github.com/k8sgateway/k8sgateway/issues/10283)
-
-- [Persist Discovered Gateway API CRDs in the ControllerBuilder Type](https://github.com/k8sgateway/k8sgateway/issues/10321)
-
-
-## jaegertracing/jaeger <span style='color:#F1C40F'>(20.5K ⭐️)</span>
-
-- [Ensure all servers listen on 0.0.0.0](https://github.com/jaegertracing/jaeger/issues/6209)
-
-- [Improve unit test speed](https://github.com/jaegertracing/jaeger/issues/6111)
-
-- [[v2] How is tenancy handled / configured? Should it be part of storage config?](https://github.com/jaegertracing/jaeger/issues/6108)
-
-
-## aquasecurity/trivy <span style='color:#F1C40F'>(23.7K ⭐️)</span>
-
-- [Migrate csaf-poc/csaf_distribution to gocsaf/csaf](https://github.com/aquasecurity/trivy/issues/7805)
-
-
-## getAlby/hub <span style='color:#F1C40F'>(99 ⭐️)</span>
-
-- [[Accessibility] Some dialogs are not easily submitted via keyboard](https://github.com/getAlby/hub/issues/760)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(4.7K ⭐️)</span>
-
-- [[Bug]: Documentation still reports pod security policies](https://github.com/cloudnative-pg/cloudnative-pg/issues/5996)
-
-
-## knative/eventing <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [JobSink controller logs Failed to export to Prometheus: "job-sink_client_latency" is not a valid metric name](https://github.com/knative/eventing/issues/8296)
-
-
-## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Enhance e2e Tests: Validate Conversion with Mock Scenario](https://github.com/kubernetes-sigs/kubebuilder/issues/4297)
-
-
-## mindersec/minder <span style='color:#F1C40F'>(291 ⭐️)</span>
-
-- [Refactor label filtering logic](https://github.com/mindersec/minder/issues/4982)
-
-- [Remediation status does not change after being "error"](https://github.com/mindersec/minder/issues/4949)
-
-
-## open-telemetry/opentelemetry-go-contrib <span style='color:#F1C40F'>(1.2K ⭐️)</span>
-
-- [Add check for `toolchain`](https://github.com/open-telemetry/opentelemetry-go-contrib/issues/6341)
-
-
-## envoyproxy/gateway <span style='color:#F1C40F'>(1.6K ⭐️)</span>
-
-- [Update grafana dashboard and exported metrics doc for `watchable_panics_recovered_total`](https://github.com/envoyproxy/gateway/issues/4728)
 
