@@ -4,7 +4,14 @@
 
 
 
-<div align='center'>Last updated at November 19, 2024 23:01 UTC.</div>
+<div align='center'>Last updated at November 20, 2024 00:02 UTC.</div>
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [[processor/k8sattributes] Use the already available internal docker.ParseImageName function](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/36418)
+
+- [[pkg/ottl] truncate_all function corrupts UTF-8 encoding](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/36017)
 
 
 ## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.8K ⭐️)</span>
@@ -24,6 +31,57 @@
 - [[Bug]: aws_emr_cluster Inappropriate value for attribute "configurations": string required.](https://github.com/hashicorp/terraform-provider-aws/issues/39959)
 
 
+## celestiaorg/celestia-core <span style='color:#F1C40F'>(489 ⭐️)</span>
+
+- [Stop automatically broadcasting transactions from the rpc](https://github.com/celestiaorg/celestia-core/issues/1529)
+
+
+## grafana/alloy <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [base64 encode function](https://github.com/grafana/alloy/issues/2048)
+
+- [Support otel-collector bearer token filename](https://github.com/grafana/alloy/issues/1988)
+
+
+## grafana/tempo <span style='color:#F1C40F'>(4.0K ⭐️)</span>
+
+- [Limit maximun number of spans for span sets](https://github.com/grafana/tempo/issues/4275)
+
+
+## UnlockedLabs/UnlockEdv2 <span style='color:#F1C40F'>(6 ⭐️)</span>
+
+- [BUG: User should not be able to publish changes if link title OR link URL is empty](https://github.com/UnlockedLabs/UnlockEdv2/issues/466)
+
+- [BUG: Users cannot reorder the first link in a collection on Resource Management](https://github.com/UnlockedLabs/UnlockEdv2/issues/495)
+
+- [Update "Program Attendance Records" table in `MyProgress.tsx`](https://github.com/UnlockedLabs/UnlockEdv2/issues/460)
+
+
+## spiffe/spike <span style='color:#F1C40F'>(14 ⭐️)</span>
+
+- [`spike login` should inform user to run `spike init` first if the system is not initialized.](https://github.com/spiffe/spike/issues/37)
+
+- [SPIKE audit logs shall include user information.](https://github.com/spiffe/spike/issues/36)
+
+- [enhance SPIKE integration tests](https://github.com/spiffe/spike/issues/35)
+
+- [clean up old secrets in a goroutine.](https://github.com/spiffe/spike/issues/33)
+
+- [implement exponential retries](https://github.com/spiffe/spike/issues/17)
+
+
+## zitadel/zitadel <span style='color:#F1C40F'>(9.0K ⭐️)</span>
+
+- [[Bug]: Link button is disabled until you enter some valid data, including valid email address](https://github.com/zitadel/zitadel/issues/8824)
+
+
+## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
+
+- [Add node level metric for no VFPCounters](https://github.com/microsoft/retina/issues/933)
+
+- [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
+
+
 ## confluentinc/terraform-provider-confluent <span style='color:#F1C40F'>(31 ⭐️)</span>
 
 - [Update to confluent_group_mapping filter forces replacement](https://github.com/confluentinc/terraform-provider-confluent/issues/468)
@@ -32,6 +90,22 @@
 ## cri-o/cri-o <span style='color:#F1C40F'>(5.2K ⭐️)</span>
 
 - [Add prow based arm64 jobs](https://github.com/cri-o/cri-o/issues/8714)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(4.1K ⭐️)</span>
+
+- [[helm] Usage of function mimir.siToBytes seems inconsistent](https://github.com/grafana/mimir/issues/9780)
+
+- [extraVolumes block fails for alertmanager](https://github.com/grafana/mimir/issues/9775)
+
+- [Unable to configure memcached container resources](https://github.com/grafana/mimir/issues/9737)
+
+
+## databricks/cli <span style='color:#F1C40F'>(149 ⭐️)</span>
+
+- [Databricks CLI auth login command removes cluster id](https://github.com/databricks/cli/issues/1897)
+
+- [databricks queries list: an't evaluate field Name in type interface {}](https://github.com/databricks/cli/issues/1888)
 
 
 ## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(18.2K ⭐️)</span>
@@ -87,18 +161,6 @@
 - [[BUG] Make Protobuf Struct Attribute Access local execurtion the same as remote execution](https://github.com/flyteorg/flyte/issues/5959)
 
 
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [[processor/k8sattributes] Use the already available internal docker.ParseImageName function](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/36418)
-
-- [[pkg/ottl] truncate_all function corrupts UTF-8 encoding](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/36017)
-
-
-## grafana/tempo <span style='color:#F1C40F'>(4.0K ⭐️)</span>
-
-- [Limit maximun number of spans for span sets](https://github.com/grafana/tempo/issues/4275)
-
-
 ## open-feature/flagd <span style='color:#F1C40F'>(561 ⭐️)</span>
 
 - [[FEATURE] Support addition of arbitrary properties in evaluation context](https://github.com/open-feature/flagd/issues/1435)
@@ -137,20 +199,9 @@
 - [Satellite UI: Truncate "available funds" to two decimal places](https://github.com/storj/storj/issues/7241)
 
 
-## spiffe/spike <span style='color:#F1C40F'>(13 ⭐️)</span>
-
-- [`spike login` should inform user to run `spike init` first if the system is not initialized.](https://github.com/spiffe/spike/issues/37)
-
-- [SPIKE audit logs shall include user information.](https://github.com/spiffe/spike/issues/36)
-
-- [enhance SPIKE integration tests](https://github.com/spiffe/spike/issues/35)
-
-- [clean up old secrets in a goroutine.](https://github.com/spiffe/spike/issues/33)
-
-- [implement exponential retries](https://github.com/spiffe/spike/issues/17)
-
-
 ## lightningnetwork/lnd <span style='color:#F1C40F'>(7.7K ⭐️)</span>
+
+- [[bug]: clean up Python gRPC client instructions ](https://github.com/lightningnetwork/lnd/issues/9285)
 
 - [[feature]: add a default value for `timeout_seconds` in `SendPaymentV2` `routerrpc.SendPaymentRequest`](https://github.com/lightningnetwork/lnd/issues/9282)
 
@@ -165,13 +216,9 @@
 - [Replace `coreutils-full` with `toybox + coreutils`](https://github.com/buildsafedev/bsf/issues/123)
 
 
-## UnlockedLabs/UnlockEdv2 <span style='color:#F1C40F'>(6 ⭐️)</span>
+## openfga/openfga <span style='color:#F1C40F'>(2.9K ⭐️)</span>
 
-- [BUG: User should not be able to publish changes if link title OR link URL is empty](https://github.com/UnlockedLabs/UnlockEdv2/issues/466)
-
-- [BUG: Users cannot reorder the first link in a collection on Resource Management](https://github.com/UnlockedLabs/UnlockEdv2/issues/495)
-
-- [Update "Program Attendance Records" table in `MyProgress.tsx`](https://github.com/UnlockedLabs/UnlockEdv2/issues/460)
+- [Replace existing caching library](https://github.com/openfga/openfga/issues/2097)
 
 
 ## Azure/azure-dev <span style='color:#F1C40F'>(413 ⭐️)</span>
@@ -186,13 +233,6 @@
 - [Merge E2E argocd-agent 'test/e2e' and 'tests/e2e2' folder into a single test/e2e folder](https://github.com/argoproj-labs/argocd-agent/issues/224)
 
 
-## microsoft/retina <span style='color:#F1C40F'>(2.7K ⭐️)</span>
-
-- [Add node level metric for no VFPCounters](https://github.com/microsoft/retina/issues/933)
-
-- [Capture: provide an option to download the file of completed capture to local file system](https://github.com/microsoft/retina/issues/899)
-
-
 ## cilium/tetragon <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [add destination_port filter](https://github.com/cilium/tetragon/issues/3078)
@@ -203,15 +243,6 @@
 ## radius-project/radius <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
 - [`rad env` should be renamed to `rad environment`](https://github.com/radius-project/radius/issues/8043)
-
-
-## grafana/mimir <span style='color:#F1C40F'>(4.1K ⭐️)</span>
-
-- [[helm] Usage of function mimir.siToBytes seems inconsistent](https://github.com/grafana/mimir/issues/9780)
-
-- [extraVolumes block fails for alertmanager](https://github.com/grafana/mimir/issues/9775)
-
-- [Unable to configure memcached container resources](https://github.com/grafana/mimir/issues/9737)
 
 
 ## pingcap/tidb <span style='color:#F1C40F'>(37.3K ⭐️)</span>
@@ -293,13 +324,6 @@
 - [(feature) evaluation command line for local testing](https://github.com/thomaspoignant/go-feature-flag/issues/2560)
 
 
-## grafana/alloy <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [base64 encode function](https://github.com/grafana/alloy/issues/2048)
-
-- [Support otel-collector bearer token filename](https://github.com/grafana/alloy/issues/1988)
-
-
 ## superseriousbusiness/gotosocial <span style='color:#F1C40F'>(3.8K ⭐️)</span>
 
 - [[feature] Add Akkoma-style `preview` parameter to status creation](https://github.com/superseriousbusiness/gotosocial/issues/3492)
@@ -343,7 +367,7 @@
 - [More Information in competition/main](https://github.com/NYCUarchery/archeryWebsite/issues/203)
 
 
-## openclarity/openclarity <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+## openclarity/openclarity <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
 - [Make crd service socket path configurable](https://github.com/openclarity/openclarity/issues/924)
 
@@ -384,19 +408,9 @@
 - [[Improvement] update Upgrade Ops msg](https://github.com/apecloud/kubeblocks/issues/8369)
 
 
-## zitadel/zitadel <span style='color:#F1C40F'>(9.0K ⭐️)</span>
-
-- [[Bug]: Link button is disabled until you enter some valid data, including valid email address](https://github.com/zitadel/zitadel/issues/8824)
-
-
 ## kashifkhan0771/utils <span style='color:#F1C40F'>(5 ⭐️)</span>
 
 - [[Unit Testing] Need to test all available functions in version `0.7.0`](https://github.com/kashifkhan0771/utils/issues/41)
 
 - [[Tests] Add unit test cases for more coverage](https://github.com/kashifkhan0771/utils/issues/25)
-
-
-## kubernetes-sigs/cluster-api-provider-ibmcloud <span style='color:#F1C40F'>(62 ⭐️)</span>
-
-- [Handle toolchain entry in the go.mod file](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud/issues/2048)
 
