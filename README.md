@@ -4,12 +4,75 @@
 
 
 
-<div align='center'>Last updated at November 20, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 21, 2024 00:02 UTC.</div>
+
+
+## QuesmaOrg/quesma <span style='color:#F1C40F'>(108 ⭐️)</span>
+
+- [`_count` endpoint doesn't work for non-default database](https://github.com/QuesmaOrg/quesma/issues/985)
+
+
+## apache/camel-k <span style='color:#F1C40F'>(868 ⭐️)</span>
+
+- [Kustomize common labels deprecated](https://github.com/apache/camel-k/issues/5928)
+
+
+## dapr/dapr <span style='color:#F1C40F'>(24.1K ⭐️)</span>
+
+- [Add more descriptive logging for component startup failure](https://github.com/dapr/dapr/issues/8236)
+
+- [Introduce config to optionally disable requests to `/dapr/config` and `/dapr/subscribe`during dapr init](https://github.com/dapr/dapr/issues/8224)
+
+
+## akuity/kargo <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+
+- [Add Kargo Promotion Step to Remove File and/or Directory](https://github.com/akuity/kargo/issues/2860)
+
+- [Descriptive names for subscriptions](https://github.com/akuity/kargo/issues/2839)
+
+
+## storj/storj <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [Satellite UI: Truncate "available funds" to two decimal places](https://github.com/storj/storj/issues/7241)
+
+
+## Azure/eno <span style='color:#F1C40F'>(7 ⭐️)</span>
+
+- [Add metric for number of compositions waiting for inputs](https://github.com/Azure/eno/issues/239)
+
+- [It should be possible to optionally replace entire resources](https://github.com/Azure/eno/issues/238)
+
+
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.8K ⭐️)</span>
+
+- [[Enhancement]: Support updateToLatestImageVersion in aws_batch_compute_environment.compute_resources](https://github.com/hashicorp/terraform-provider-aws/issues/39978)
+
+- [[Enhancement]: aws_sagemaker_domain add Hidden Image Versions options to the studio_web_portal_settings](https://github.com/hashicorp/terraform-provider-aws/issues/39876)
+
+- [[Bug]: aws_elasticache_cluster resource does not support Valkey as an engine](https://github.com/hashicorp/terraform-provider-aws/issues/39905)
+
+- [[Enhancement]: Add `manualCreation` argument to `aws_codebuild_webhook` resource](https://github.com/hashicorp/terraform-provider-aws/issues/40078)
+
+- [[Enhancement]: Request warning for possible OpenSearch blue/green deployments](https://github.com/hashicorp/terraform-provider-aws/issues/40045)
+
+- [[Bug]: aws_emr_cluster Inappropriate value for attribute "configurations": string required.](https://github.com/hashicorp/terraform-provider-aws/issues/39959)
 
 
 ## confluentinc/terraform-provider-confluent <span style='color:#F1C40F'>(31 ⭐️)</span>
 
 - [Update to confluent_group_mapping filter forces replacement](https://github.com/confluentinc/terraform-provider-confluent/issues/468)
+
+
+## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(18.2K ⭐️)</span>
+
+- [Timestamps in year 0000 are accepted as query parameters](https://github.com/grpc-ecosystem/grpc-gateway/issues/4967)
+
+
+## grafana/alloy <span style='color:#F1C40F'>(1.4K ⭐️)</span>
+
+- [base64 encode function](https://github.com/grafana/alloy/issues/2048)
+
+- [Support otel-collector bearer token filename](https://github.com/grafana/alloy/issues/1988)
 
 
 ## coder/coder <span style='color:#F1C40F'>(8.3K ⭐️)</span>
@@ -30,24 +93,18 @@
 - [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
 
 
-## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.8K ⭐️)</span>
-
-- [[Enhancement]: Support updateToLatestImageVersion in aws_batch_compute_environment.compute_resources](https://github.com/hashicorp/terraform-provider-aws/issues/39978)
-
-- [[Enhancement]: aws_sagemaker_domain add Hidden Image Versions options to the studio_web_portal_settings](https://github.com/hashicorp/terraform-provider-aws/issues/39876)
-
-- [[Bug]: aws_elasticache_cluster resource does not support Valkey as an engine](https://github.com/hashicorp/terraform-provider-aws/issues/39905)
-
-- [[Enhancement]: Add `manualCreation` argument to `aws_codebuild_webhook` resource](https://github.com/hashicorp/terraform-provider-aws/issues/40078)
-
-- [[Enhancement]: Request warning for possible OpenSearch blue/green deployments](https://github.com/hashicorp/terraform-provider-aws/issues/40045)
-
-- [[Bug]: aws_emr_cluster Inappropriate value for attribute "configurations": string required.](https://github.com/hashicorp/terraform-provider-aws/issues/39959)
-
-
 ## cortexproject/cortex <span style='color:#F1C40F'>(5.5K ⭐️)</span>
 
 - [Both branches of `if-then-else` are identical in `pkg/ruler/ruler_test.go`](https://github.com/cortexproject/cortex/issues/6287)
+
+
+## grafana/mimir <span style='color:#F1C40F'>(4.2K ⭐️)</span>
+
+- [[helm] Usage of function mimir.siToBytes seems inconsistent](https://github.com/grafana/mimir/issues/9780)
+
+- [extraVolumes block fails for alertmanager](https://github.com/grafana/mimir/issues/9775)
+
+- [Unable to configure memcached container resources](https://github.com/grafana/mimir/issues/9737)
 
 
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.5K ⭐️)</span>
@@ -67,21 +124,9 @@
 - [[Feature Request] Message-/ping-notifications](https://github.com/ayn2op/discordo/issues/466)
 
 
-## storj/storj <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [Satellite UI: Truncate "available funds" to two decimal places](https://github.com/storj/storj/issues/7241)
-
-
 ## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Enhance e2e Tests: Validate Conversion with Mock Scenario](https://github.com/kubernetes-sigs/kubebuilder/issues/4297)
-
-
-## akuity/kargo <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [Add Kargo Promotion Step to Remove File and/or Directory](https://github.com/akuity/kargo/issues/2860)
-
-- [Descriptive names for subscriptions](https://github.com/akuity/kargo/issues/2839)
 
 
 ## cri-o/cri-o <span style='color:#F1C40F'>(5.2K ⭐️)</span>
@@ -237,22 +282,6 @@
 - [Persist Discovered Gateway API CRDs in the ControllerBuilder Type](https://github.com/k8sgateway/k8sgateway/issues/10321)
 
 
-## grafana/mimir <span style='color:#F1C40F'>(4.2K ⭐️)</span>
-
-- [[helm] Usage of function mimir.siToBytes seems inconsistent](https://github.com/grafana/mimir/issues/9780)
-
-- [extraVolumes block fails for alertmanager](https://github.com/grafana/mimir/issues/9775)
-
-- [Unable to configure memcached container resources](https://github.com/grafana/mimir/issues/9737)
-
-
-## dapr/dapr <span style='color:#F1C40F'>(24.1K ⭐️)</span>
-
-- [Add more descriptive logging for component startup failure](https://github.com/dapr/dapr/issues/8236)
-
-- [Introduce config to optionally disable requests to `/dapr/config` and `/dapr/subscribe`during dapr init](https://github.com/dapr/dapr/issues/8224)
-
-
 ## MuxN4/gocheerio <span style='color:#F1C40F'>(0 ⭐️)</span>
 
 - [Expand Test Coverage](https://github.com/MuxN4/gocheerio/issues/4)
@@ -260,11 +289,6 @@
 - [Documentation Improvements](https://github.com/MuxN4/gocheerio/issues/5)
 
 - [Feature Request: Advanced Selector Support](https://github.com/MuxN4/gocheerio/issues/1)
-
-
-## apache/camel-k <span style='color:#F1C40F'>(868 ⭐️)</span>
-
-- [Kustomize common labels deprecated](https://github.com/apache/camel-k/issues/5928)
 
 
 ## UnlockedLabs/UnlockEdv2 <span style='color:#F1C40F'>(6 ⭐️)</span>
@@ -334,13 +358,6 @@
 - [[ISSUE] camundaPlatform.getExternalURL does not support custom ingress port](https://github.com/camunda/camunda-platform-helm/issues/2497)
 
 
-## grafana/alloy <span style='color:#F1C40F'>(1.4K ⭐️)</span>
-
-- [base64 encode function](https://github.com/grafana/alloy/issues/2048)
-
-- [Support otel-collector bearer token filename](https://github.com/grafana/alloy/issues/1988)
-
-
 ## cilium/tetragon <span style='color:#F1C40F'>(3.7K ⭐️)</span>
 
 - [add destination_port filter](https://github.com/cilium/tetragon/issues/3078)
@@ -387,33 +404,4 @@
 ## libp2p/go-libp2p <span style='color:#F1C40F'>(6.1K ⭐️)</span>
 
 - [Update `examples/`](https://github.com/libp2p/go-libp2p/issues/3017)
-
-
-## treeverse/lakeFS <span style='color:#F1C40F'>(4.5K ⭐️)</span>
-
-- [Support putIfAbsent](https://github.com/treeverse/lakeFS/issues/8380)
-
-- [WebUI Page Title should be descriptive](https://github.com/treeverse/lakeFS/issues/8363)
-
-- [[Bug]: lakectl local doesn't mention the reason commit fails when writing to a protected branch](https://github.com/treeverse/lakeFS/issues/8333)
-
-
-## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(4.7K ⭐️)</span>
-
-- [[Bug]: Documentation still reports pod security policies](https://github.com/cloudnative-pg/cloudnative-pg/issues/5996)
-
-
-## kubernetes-sigs/cluster-api-provider-ibmcloud <span style='color:#F1C40F'>(62 ⭐️)</span>
-
-- [Handle toolchain entry in the go.mod file](https://github.com/kubernetes-sigs/cluster-api-provider-ibmcloud/issues/2048)
-
-
-## kubevirt/project-infra <span style='color:#F1C40F'>(26 ⭐️)</span>
-
-- [prowjob: remove outdated job config for kubevirt versions 0.3x.xx](https://github.com/kubevirt/project-infra/issues/3768)
-
-
-## kubernetes/autoscaler <span style='color:#F1C40F'>(8.1K ⭐️)</span>
-
-- [cluster_autoscaler_failed_scale_ups_total metric is missing from metrics until an event is registered](https://github.com/kubernetes/autoscaler/issues/7448)
 
