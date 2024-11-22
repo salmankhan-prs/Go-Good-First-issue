@@ -4,7 +4,24 @@
 
 
 
-<div align='center'>Last updated at November 21, 2024 23:01 UTC.</div>
+<div align='center'>Last updated at November 22, 2024 00:02 UTC.</div>
+
+
+## Azure/eno <span style='color:#F1C40F'>(7 ⭐️)</span>
+
+- [It should be possible to optionally replace entire resources](https://github.com/Azure/eno/issues/238)
+
+
+## GoogleCloudPlatform/k8s-config-connector <span style='color:#F1C40F'>(901 ⭐️)</span>
+
+- [lint:crds: ensure CRDs have shortnames](https://github.com/GoogleCloudPlatform/k8s-config-connector/issues/3230)
+
+
+## getAlby/hub <span style='color:#F1C40F'>(101 ⭐️)</span>
+
+- [Improve Receive UI](https://github.com/getAlby/hub/issues/816)
+
+- [[Accessibility] Some dialogs are not easily submitted via keyboard](https://github.com/getAlby/hub/issues/760)
 
 
 ## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.9K ⭐️)</span>
@@ -87,11 +104,21 @@
 - [Descriptive names for subscriptions](https://github.com/akuity/kargo/issues/2839)
 
 
-## getAlby/hub <span style='color:#F1C40F'>(101 ⭐️)</span>
+## argoproj/argo-cd <span style='color:#F1C40F'>(18.0K ⭐️)</span>
 
-- [Improve Receive UI](https://github.com/getAlby/hub/issues/816)
+- [Blank space in Argo RBAC line causes permission issues](https://github.com/argoproj/argo-cd/issues/20825)
 
-- [[Accessibility] Some dialogs are not easily submitted via keyboard](https://github.com/getAlby/hub/issues/760)
+- [[DOCS] Getting Started Guide, contains a Path field in the Source section that is not valid](https://github.com/argoproj/argo-cd/issues/20822)
+
+- [Notifications controller doesn't try to send notifications again if there's been failure reaching the destination thinking the notification has been sent already](https://github.com/argoproj/argo-cd/issues/20879)
+
+- [Add additional capabilities to argocd-k8s-auth](https://github.com/argoproj/argo-cd/issues/20582)
+
+- [Export metrics for a number of daily users (dau)](https://github.com/argoproj/argo-cd/issues/20801)
+
+- [[UI] Add a Diff button to the Apps on the home screen](https://github.com/argoproj/argo-cd/issues/20696)
+
+- [Standardize the application-related log structured fields](https://github.com/argoproj/argo-cd/issues/20731)
 
 
 ## grpc-ecosystem/grpc-gateway <span style='color:#F1C40F'>(18.2K ⭐️)</span>
@@ -131,23 +158,6 @@
 ## storj/storj <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [Satellite UI: Truncate "available funds" to two decimal places](https://github.com/storj/storj/issues/7241)
-
-
-## argoproj/argo-cd <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Blank space in Argo RBAC line causes permission issues](https://github.com/argoproj/argo-cd/issues/20825)
-
-- [[DOCS] Getting Started Guide, contains a Path field in the Source section that is not valid](https://github.com/argoproj/argo-cd/issues/20822)
-
-- [Notifications controller doesn't try to send notifications again if there's been failure reaching the destination thinking the notification has been sent already](https://github.com/argoproj/argo-cd/issues/20879)
-
-- [Add additional capabilities to argocd-k8s-auth](https://github.com/argoproj/argo-cd/issues/20582)
-
-- [Export metrics for a number of daily users (dau)](https://github.com/argoproj/argo-cd/issues/20801)
-
-- [[UI] Add a Diff button to the Apps on the home screen](https://github.com/argoproj/argo-cd/issues/20696)
-
-- [Standardize the application-related log structured fields](https://github.com/argoproj/argo-cd/issues/20731)
 
 
 ## kyma-project/telemetry-manager <span style='color:#F1C40F'>(5 ⭐️)</span>
@@ -195,13 +205,6 @@
 - [Introduce config to optionally disable requests to `/dapr/config` and `/dapr/subscribe`during dapr init](https://github.com/dapr/dapr/issues/8224)
 
 
-## Azure/eno <span style='color:#F1C40F'>(7 ⭐️)</span>
-
-- [Add metric for number of compositions waiting for inputs](https://github.com/Azure/eno/issues/239)
-
-- [It should be possible to optionally replace entire resources](https://github.com/Azure/eno/issues/238)
-
-
 ## grafana/alloy <span style='color:#F1C40F'>(1.4K ⭐️)</span>
 
 - [base64 encode function](https://github.com/grafana/alloy/issues/2048)
@@ -236,11 +239,6 @@
 ## coreos/butane <span style='color:#F1C40F'>(256 ⭐️)</span>
 
 - [Configs with a `boot_device.luks.device` set but no method (tpm2, tang, etc.) set should fail validation](https://github.com/coreos/butane/issues/560)
-
-
-## GoogleCloudPlatform/k8s-config-connector <span style='color:#F1C40F'>(901 ⭐️)</span>
-
-- [lint:crds: ensure CRDs have shortnames](https://github.com/GoogleCloudPlatform/k8s-config-connector/issues/3230)
 
 
 ## pg-sharding/spqr <span style='color:#F1C40F'>(934 ⭐️)</span>
@@ -389,16 +387,4 @@
 ## QuesmaOrg/quesma <span style='color:#F1C40F'>(108 ⭐️)</span>
 
 - [`_count` endpoint doesn't work for non-default database](https://github.com/QuesmaOrg/quesma/issues/985)
-
-
-## COSSAS/SOARCA <span style='color:#F1C40F'>(58 ⭐️)</span>
-
-- [CACAO playbook validation apis](https://github.com/COSSAS/SOARCA/issues/244)
-
-
-## databricks/cli <span style='color:#F1C40F'>(150 ⭐️)</span>
-
-- [Databricks CLI auth login command removes cluster id](https://github.com/databricks/cli/issues/1897)
-
-- [databricks queries list: an't evaluate field Name in type interface {}](https://github.com/databricks/cli/issues/1888)
 
