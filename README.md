@@ -4,7 +4,56 @@
 
 
 
-<div align='center'>Last updated at November 22, 2024 23:01 UTC.</div>
+<div align='center'>Last updated at November 23, 2024 00:01 UTC.</div>
+
+
+## cortexproject/cortex <span style='color:#F1C40F'>(5.5K ⭐️)</span>
+
+- [Both branches of `if-then-else` are identical in `pkg/ruler/ruler_test.go`](https://github.com/cortexproject/cortex/issues/6287)
+
+
+## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.9K ⭐️)</span>
+
+- [Enhance e2e Tests: Validate Conversion with Mock Scenario](https://github.com/kubernetes-sigs/kubebuilder/issues/4297)
+
+
+## nucleuscloud/neosync <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
+
+- [[NEOS-1577] Auto-generate CLI Config JSON Schema](https://github.com/nucleuscloud/neosync/issues/2868)
+
+- [[NEOS-1581] Update tests to use slogt](https://github.com/nucleuscloud/neosync/issues/2872)
+
+- [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
+
+
+## UnlockedLabs/UnlockEdv2 <span style='color:#F1C40F'>(7 ⭐️)</span>
+
+- [BUG: User should not be able to publish changes if link title OR link URL is empty](https://github.com/UnlockedLabs/UnlockEdv2/issues/466)
+
+- [BUG: Users cannot reorder the first link in a collection on Resource Management](https://github.com/UnlockedLabs/UnlockEdv2/issues/495)
+
+
+## flyteorg/flyte <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [[Core feature] Reuse same literals in the dynamic task ](https://github.com/flyteorg/flyte/issues/6032)
+
+- [[BUG] dataclass in list default input error](https://github.com/flyteorg/flyte/issues/5985)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Dolt reset should stage working set](https://github.com/dolthub/dolt/issues/8548)
+
+
+## ausocean/cloud <span style='color:#F1C40F'>(1 ⭐️)</span>
+
+- [AOTV: Fix formatting of files](https://github.com/ausocean/cloud/issues/372)
+
+- [AusOceanTV: Remove Static file serving from Go backend](https://github.com/ausocean/cloud/issues/352)
+
+- [bench: init is undefined on configure page.](https://github.com/ausocean/cloud/issues/344)
 
 
 ## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
@@ -39,25 +88,16 @@
 - [[Issue] Differentiate provisioned names for Azure AI Studio resources](https://github.com/Azure/azure-dev/issues/4557)
 
 
-## nucleuscloud/neosync <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
-
-- [[NEOS-1577] Auto-generate CLI Config JSON Schema](https://github.com/nucleuscloud/neosync/issues/2868)
-
-- [[NEOS-1581] Update tests to use slogt](https://github.com/nucleuscloud/neosync/issues/2872)
-
-- [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
-
-
 ## openfga/openfga <span style='color:#F1C40F'>(3.0K ⭐️)</span>
 
 - [Replace existing caching library](https://github.com/openfga/openfga/issues/2097)
 
 
-## dolthub/dolt <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+## akuity/kargo <span style='color:#F1C40F'>(1.7K ⭐️)</span>
 
-- [Dolt reset should stage working set](https://github.com/dolthub/dolt/issues/8548)
+- [Add Kargo Promotion Step to Remove File and/or Directory](https://github.com/akuity/kargo/issues/2860)
+
+- [Descriptive names for subscriptions](https://github.com/akuity/kargo/issues/2839)
 
 
 ## storj/storj <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -92,13 +132,6 @@
 ## opensearch-project/opensearch-k8s-operator <span style='color:#F1C40F'>(404 ⭐️)</span>
 
 - [[BUG] Outdated value name in OpenSearch Cluster Helm docs](https://github.com/opensearch-project/opensearch-k8s-operator/issues/888)
-
-
-## flyteorg/flyte <span style='color:#F1C40F'>(5.8K ⭐️)</span>
-
-- [[Core feature] Reuse same literals in the dynamic task ](https://github.com/flyteorg/flyte/issues/6032)
-
-- [[BUG] dataclass in list default input error](https://github.com/flyteorg/flyte/issues/5985)
 
 
 ## RamenDR/ramen <span style='color:#F1C40F'>(74 ⭐️)</span>
@@ -137,18 +170,6 @@
 ## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.5K ⭐️)</span>
 
 - [server ignores request to gzip data](https://github.com/prysmaticlabs/prysm/issues/14593)
-
-
-## cortexproject/cortex <span style='color:#F1C40F'>(5.5K ⭐️)</span>
-
-- [Both branches of `if-then-else` are identical in `pkg/ruler/ruler_test.go`](https://github.com/cortexproject/cortex/issues/6287)
-
-
-## akuity/kargo <span style='color:#F1C40F'>(1.7K ⭐️)</span>
-
-- [Add Kargo Promotion Step to Remove File and/or Directory](https://github.com/akuity/kargo/issues/2860)
-
-- [Descriptive names for subscriptions](https://github.com/akuity/kargo/issues/2839)
 
 
 ## resonatehq/resonate <span style='color:#F1C40F'>(404 ⭐️)</span>
@@ -207,6 +228,8 @@
 
 
 ## DiceDB/dice <span style='color:#F1C40F'>(6.8K ⭐️)</span>
+
+- [Linking Docs & Similar commands](https://github.com/DiceDB/dice/issues/1324)
 
 - [Add documentation for command `SETEX`](https://github.com/DiceDB/dice/issues/1281)
 
@@ -320,6 +343,21 @@
 - [[feature]: add a default value for `timeout_seconds` in `SendPaymentV2` `routerrpc.SendPaymentRequest`](https://github.com/lightningnetwork/lnd/issues/9282)
 
 
+## kyverno/kyverno <span style='color:#F1C40F'>(5.8K ⭐️)</span>
+
+- [Improve log level when reporting "rule not matched"](https://github.com/kyverno/kyverno/issues/11525)
+
+- [[Bug] [CLI] Kyverno test labels a test run passing if the test expects a fail but the policy a pass](https://github.com/kyverno/kyverno/issues/11519)
+
+- [[Helm] "mergeOverwrite" overwrites nested objects](https://github.com/kyverno/kyverno/issues/11536)
+
+- [[Feature] Disable reporting per policy](https://github.com/kyverno/kyverno/issues/11555)
+
+- [[Feature] Enforce Policy Field Parity between `v1` and `v2beta1`](https://github.com/kyverno/kyverno/issues/11490)
+
+- [[Feature] add MD5 and SHA1 hash functions for JMESPath](https://github.com/kyverno/kyverno/issues/11506)
+
+
 ## beamlit/beamlit-controller <span style='color:#F1C40F'>(5 ⭐️)</span>
 
 - [Remove need for beamlitApiToken when installing operator](https://github.com/beamlit/beamlit-controller/issues/17)
@@ -347,13 +385,6 @@
 - [Configs with a `boot_device.luks.device` set but no method (tpm2, tang, etc.) set should fail validation](https://github.com/coreos/butane/issues/560)
 
 
-## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.9K ⭐️)</span>
-
-- [Project scaffold by default has some lint errors which must be fixed](https://github.com/kubernetes-sigs/kubebuilder/issues/4376)
-
-- [Enhance e2e Tests: Validate Conversion with Mock Scenario](https://github.com/kubernetes-sigs/kubebuilder/issues/4297)
-
-
 ## pingcap/tidb <span style='color:#F1C40F'>(37.3K ⭐️)</span>
 
 - [checkpoint-dump of lightning dump to the wrong file for tables checkpoint](https://github.com/pingcap/tidb/issues/57402)
@@ -361,11 +392,4 @@
 - [Improve observability of fast reorg ADD INDEX progress](https://github.com/pingcap/tidb/issues/56986)
 
 - [Dumpling will stuck while it's expect to fallback to LOCK TABLES when FTWRL blocking for a long time](https://github.com/pingcap/tidb/issues/56838)
-
-
-## alibaba/higress <span style='color:#F1C40F'>(3.5K ⭐️)</span>
-
-- [higress能否支持当请求404时返回一个类似Nginx的响应报文](https://github.com/alibaba/higress/issues/1514)
-
-- [custom-response插件支持对多个不同状态码自定义不同的应答](https://github.com/alibaba/higress/issues/1434)
 
