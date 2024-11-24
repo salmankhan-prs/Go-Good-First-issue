@@ -4,7 +4,18 @@
 
 
 
-<div align='center'>Last updated at November 23, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 24, 2024 00:01 UTC.</div>
+
+
+## nucleuscloud/neosync <span style='color:#F1C40F'>(3.4K ⭐️)</span>
+
+- [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
+
+- [[NEOS-1577] Auto-generate CLI Config JSON Schema](https://github.com/nucleuscloud/neosync/issues/2868)
+
+- [[NEOS-1581] Update tests to use slogt](https://github.com/nucleuscloud/neosync/issues/2872)
+
+- [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
 
 
 ## kedacore/keda <span style='color:#F1C40F'>(8.6K ⭐️)</span>
@@ -68,7 +79,7 @@
 - [[FEATURE]  Improve `README.md` which more information about usage](https://github.com/gdegiorgio/systatus/issues/14)
 
 
-## akuity/kargo <span style='color:#F1C40F'>(1.7K ⭐️)</span>
+## akuity/kargo <span style='color:#F1C40F'>(1.8K ⭐️)</span>
 
 - [Add Kargo Promotion Step to Remove File and/or Directory](https://github.com/akuity/kargo/issues/2860)
 
@@ -248,17 +259,6 @@
 ## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.9K ⭐️)</span>
 
 - [Enhance e2e Tests: Validate Conversion with Mock Scenario](https://github.com/kubernetes-sigs/kubebuilder/issues/4297)
-
-
-## nucleuscloud/neosync <span style='color:#F1C40F'>(3.4K ⭐️)</span>
-
-- [[NEOS-1575] Create a better Python SDK README](https://github.com/nucleuscloud/neosync/issues/2863)
-
-- [[NEOS-1577] Auto-generate CLI Config JSON Schema](https://github.com/nucleuscloud/neosync/issues/2868)
-
-- [[NEOS-1581] Update tests to use slogt](https://github.com/nucleuscloud/neosync/issues/2872)
-
-- [[NEOS-1576] Fill out remaining python sdk metadata](https://github.com/nucleuscloud/neosync/issues/2864)
 
 
 ## grafana/mimir <span style='color:#F1C40F'>(4.2K ⭐️)</span>
