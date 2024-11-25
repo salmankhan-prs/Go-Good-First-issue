@@ -4,7 +4,7 @@
 
 
 
-<div align='center'>Last updated at November 24, 2024 23:01 UTC.</div>
+<div align='center'>Last updated at November 25, 2024 00:01 UTC.</div>
 
 
 ## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(7.9K ⭐️)</span>
