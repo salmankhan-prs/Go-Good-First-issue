@@ -4,7 +4,42 @@
 
 
 
-<div align='center'>Last updated at November 25, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 26, 2024 00:02 UTC.</div>
+
+
+## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(297 ⭐️)</span>
+
+- [Update Tiltfile to differentiate between aks and kind cluster](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/5289)
+
+- [Update Makefile to install az cli if unavailable](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/5291)
+
+- [Tilt should not reinstall cert-manager on every file change](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/5267)
+
+
+## DiceDB/dice <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Add documentation for command `SETEX`](https://github.com/DiceDB/dice/issues/1281)
+
+- [Add documentation for command `JSON.OBJLEN`](https://github.com/DiceDB/dice/issues/1282)
+
+- [Add documentation for command `ZRANGE`](https://github.com/DiceDB/dice/issues/1284)
+
+
+## apache/camel-k <span style='color:#F1C40F'>(869 ⭐️)</span>
+
+- [Kustomize common labels deprecated](https://github.com/apache/camel-k/issues/5928)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [[processor/k8sattributes] Use the already available internal docker.ParseImageName function](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/36418)
+
+- [[pkg/ottl] truncate_all function corrupts UTF-8 encoding](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/36017)
+
+
+## Azure/eno <span style='color:#F1C40F'>(7 ⭐️)</span>
+
+- [It should be possible to optionally replace entire resources](https://github.com/Azure/eno/issues/238)
 
 
 ## nucleuscloud/neosync <span style='color:#F1C40F'>(3.4K ⭐️)</span>
@@ -39,15 +74,6 @@
 - [[Core feature] Reuse same literals in the dynamic task ](https://github.com/flyteorg/flyte/issues/6032)
 
 - [[BUG] dataclass in list default input error](https://github.com/flyteorg/flyte/issues/5985)
-
-
-## kubernetes-sigs/cluster-api-provider-azure <span style='color:#F1C40F'>(297 ⭐️)</span>
-
-- [Update Tiltfile to differentiate between aks and kind cluster](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/5289)
-
-- [Update Makefile to install az cli if unavailable](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/5291)
-
-- [Tilt should not reinstall cert-manager on every file change](https://github.com/kubernetes-sigs/cluster-api-provider-azure/issues/5267)
 
 
 ## storj/storj <span style='color:#F1C40F'>(3.0K ⭐️)</span>
@@ -144,15 +170,6 @@
 - [Check possibility of having separate releases with and without database functionality](https://github.com/pouriyajamshidi/tcping/issues/266)
 
 
-## DiceDB/dice <span style='color:#F1C40F'>(6.9K ⭐️)</span>
-
-- [Add documentation for command `SETEX`](https://github.com/DiceDB/dice/issues/1281)
-
-- [Add documentation for command `JSON.OBJLEN`](https://github.com/DiceDB/dice/issues/1282)
-
-- [Add documentation for command `ZRANGE`](https://github.com/DiceDB/dice/issues/1284)
-
-
 ## UnlockedLabs/UnlockEdv2 <span style='color:#F1C40F'>(7 ⭐️)</span>
 
 - [BUG: User should not be able to publish changes if link title OR link URL is empty](https://github.com/UnlockedLabs/UnlockEdv2/issues/466)
@@ -206,13 +223,6 @@
 ## kubernetes/autoscaler <span style='color:#F1C40F'>(8.1K ⭐️)</span>
 
 - [cluster_autoscaler_failed_scale_ups_total metric is missing from metrics until an event is registered](https://github.com/kubernetes/autoscaler/issues/7448)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [[processor/k8sattributes] Use the already available internal docker.ParseImageName function](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/36418)
-
-- [[pkg/ottl] truncate_all function corrupts UTF-8 encoding](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/36017)
 
 
 ## finos/common-cloud-controls <span style='color:#F1C40F'>(36 ⭐️)</span>
@@ -366,4 +376,44 @@
 ## kyma-project/telemetry-manager <span style='color:#F1C40F'>(5 ⭐️)</span>
 
 - [Erroneous condition for Trace/Metric/Log Pipelines evaluates to TLSCertificateInvalid by default](https://github.com/kyma-project/telemetry-manager/issues/1571)
+
+
+## grafana/grafana-operator <span style='color:#F1C40F'>(922 ⭐️)</span>
+
+- [Feature: provision notificationTemplates trough the operator](https://github.com/grafana/grafana-operator/issues/1736)
+
+
+## databricks/cli <span style='color:#F1C40F'>(150 ⭐️)</span>
+
+- [Databricks CLI auth login command removes cluster id](https://github.com/databricks/cli/issues/1897)
+
+- [databricks queries list: an't evaluate field Name in type interface {}](https://github.com/databricks/cli/issues/1888)
+
+
+## thanos-io/thanos <span style='color:#F1C40F'>(13.1K ⭐️)</span>
+
+- [QFE should optionally expose httpgrpc on through gRPC](https://github.com/thanos-io/thanos/issues/7905)
+
+
+## openfga/cli <span style='color:#F1C40F'>(50 ⭐️)</span>
+
+- [Improvement: Running multiple test files at once](https://github.com/openfga/cli/issues/423)
+
+
+## pg-sharding/spqr <span style='color:#F1C40F'>(936 ⭐️)</span>
+
+- [[REDISTRIBUTE|MOVE] KEY RANGE on router](https://github.com/pg-sharding/spqr/issues/810)
+
+- [REDISTRIBUTE: default batch size](https://github.com/pg-sharding/spqr/issues/807)
+
+- [No panic](https://github.com/pg-sharding/spqr/issues/806)
+
+- [default_route_behaviour: BLOCK ](https://github.com/pg-sharding/spqr/issues/803)
+
+
+## robinje/multi-user-dungeon <span style='color:#F1C40F'>(3 ⭐️)</span>
+
+- [Reconcile Player and Character Lists](https://github.com/robinje/multi-user-dungeon/issues/270)
+
+- [Add Maximum Connections to Configuration](https://github.com/robinje/multi-user-dungeon/issues/269)
 
