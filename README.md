@@ -4,7 +4,52 @@
 
 
 
-<div align='center'>Last updated at November 26, 2024 23:02 UTC.</div>
+<div align='center'>Last updated at November 27, 2024 00:03 UTC.</div>
+
+
+## ignite/cli <span style='color:#F1C40F'>(1.3K ⭐️)</span>
+
+- [FIX: App Installation Error Msg](https://github.com/ignite/cli/issues/4407)
+
+
+## Azure/azure-dev <span style='color:#F1C40F'>(416 ⭐️)</span>
+
+- [Improve `azd pipeline config` error message when it fails in a Codespace due to Conditional Access Policy](https://github.com/Azure/azure-dev/issues/4559)
+
+- [compose: `azd add` does not force alpha schema annotation](https://github.com/Azure/azure-dev/issues/4572)
+
+- [[Issue] Differentiate provisioned names for Azure AI Studio resources](https://github.com/Azure/azure-dev/issues/4557)
+
+
+## dolthub/dolt <span style='color:#F1C40F'>(18.0K ⭐️)</span>
+
+- [Dolt reset should stage working set](https://github.com/dolthub/dolt/issues/8548)
+
+
+## DiceDB/dice <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+
+- [Add documentation for command `SETEX`](https://github.com/DiceDB/dice/issues/1281)
+
+- [Add documentation for command `JSON.OBJLEN`](https://github.com/DiceDB/dice/issues/1282)
+
+- [Add documentation for command `ZRANGE`](https://github.com/DiceDB/dice/issues/1284)
+
+
+## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.5K ⭐️)</span>
+
+- [server ignores request to gzip data](https://github.com/prysmaticlabs/prysm/issues/14593)
+
+
+## akuity/kargo <span style='color:#F1C40F'>(1.8K ⭐️)</span>
+
+- [Add Kargo Promotion Step to Remove File and/or Directory](https://github.com/akuity/kargo/issues/2860)
+
+
+## grafana/alloy <span style='color:#F1C40F'>(1.5K ⭐️)</span>
+
+- [base64 encode function](https://github.com/grafana/alloy/issues/2048)
+
+- [Support otel-collector bearer token filename](https://github.com/grafana/alloy/issues/1988)
 
 
 ## ausocean/cloud <span style='color:#F1C40F'>(1 ⭐️)</span>
@@ -17,27 +62,6 @@
 ## nucleuscloud/neosync <span style='color:#F1C40F'>(3.4K ⭐️)</span>
 
 - [[NEOS-1581] Update tests to use slogt](https://github.com/nucleuscloud/neosync/issues/2872)
-
-
-## grafana/alloy <span style='color:#F1C40F'>(1.5K ⭐️)</span>
-
-- [base64 encode function](https://github.com/grafana/alloy/issues/2048)
-
-- [Support otel-collector bearer token filename](https://github.com/grafana/alloy/issues/1988)
-
-
-## dolthub/dolt <span style='color:#F1C40F'>(18.0K ⭐️)</span>
-
-- [Dolt reset should stage working set](https://github.com/dolthub/dolt/issues/8548)
-
-
-## Azure/azure-dev <span style='color:#F1C40F'>(416 ⭐️)</span>
-
-- [Improve `azd pipeline config` error message when it fails in a Codespace due to Conditional Access Policy](https://github.com/Azure/azure-dev/issues/4559)
-
-- [compose: `azd add` does not force alpha schema annotation](https://github.com/Azure/azure-dev/issues/4572)
-
-- [[Issue] Differentiate provisioned names for Azure AI Studio resources](https://github.com/Azure/azure-dev/issues/4557)
 
 
 ## googleforgames/agones <span style='color:#F1C40F'>(6.1K ⭐️)</span>
@@ -114,11 +138,6 @@
 - [Add node level metric for no VFPCounters](https://github.com/microsoft/retina/issues/933)
 
 
-## ignite/cli <span style='color:#F1C40F'>(1.3K ⭐️)</span>
-
-- [FIX: App Installation Error Msg](https://github.com/ignite/cli/issues/4407)
-
-
 ## elastic/elastic-agent <span style='color:#F1C40F'>(22 ⭐️)</span>
 
 - [Fleet deprecated `list` property when retrieving enrollment api keys](https://github.com/elastic/elastic-agent/issues/6023)
@@ -149,11 +168,6 @@
 - [[Enhancement]: Request warning for possible OpenSearch blue/green deployments](https://github.com/hashicorp/terraform-provider-aws/issues/40045)
 
 - [[Bug]: aws_emr_cluster Inappropriate value for attribute "configurations": string required.](https://github.com/hashicorp/terraform-provider-aws/issues/39959)
-
-
-## prysmaticlabs/prysm <span style='color:#F1C40F'>(3.5K ⭐️)</span>
-
-- [server ignores request to gzip data](https://github.com/prysmaticlabs/prysm/issues/14593)
 
 
 ## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(4.7K ⭐️)</span>
@@ -229,8 +243,6 @@
 
 - [NATS JetStream TLS Authentication Support](https://github.com/kedacore/keda/issues/6347)
 
-- [Authentication with Security Bundle for Cassandra Scaler](https://github.com/kedacore/keda/issues/6277)
-
 - [Add support for AWS RDS credential secrets or just encrypted JSON in AWS TriggerAuth](https://github.com/kedacore/keda/issues/6312)
 
 
@@ -256,11 +268,6 @@
 - [Databricks CLI auth login command removes cluster id](https://github.com/databricks/cli/issues/1897)
 
 - [databricks queries list: an't evaluate field Name in type interface {}](https://github.com/databricks/cli/issues/1888)
-
-
-## akuity/kargo <span style='color:#F1C40F'>(1.8K ⭐️)</span>
-
-- [Add Kargo Promotion Step to Remove File and/or Directory](https://github.com/akuity/kargo/issues/2860)
 
 
 ## mindersec/minder <span style='color:#F1C40F'>(294 ⭐️)</span>
@@ -357,11 +364,52 @@
 - [[FEAT]Persistent History view ](https://github.com/AnalogJ/scrutiny/issues/719)
 
 
-## DiceDB/dice <span style='color:#F1C40F'>(6.9K ⭐️)</span>
+## hyperledger-labs/fabric-builder-k8s <span style='color:#F1C40F'>(30 ⭐️)</span>
 
-- [Add documentation for command `SETEX`](https://github.com/DiceDB/dice/issues/1281)
+- [Description not shown for docker images](https://github.com/hyperledger-labs/fabric-builder-k8s/issues/213)
 
-- [Add documentation for command `JSON.OBJLEN`](https://github.com/DiceDB/dice/issues/1282)
 
-- [Add documentation for command `ZRANGE`](https://github.com/DiceDB/dice/issues/1284)
+## treeverse/lakeFS <span style='color:#F1C40F'>(4.5K ⭐️)</span>
+
+- [Use an updated lakeFS Python client in Spark integration tests](https://github.com/treeverse/lakeFS/issues/8391)
+
+- [Support putIfAbsent](https://github.com/treeverse/lakeFS/issues/8380)
+
+- [lakectl local checkout to a new branch in a local directory](https://github.com/treeverse/lakeFS/issues/8361)
+
+- [WebUI Page Title should be descriptive](https://github.com/treeverse/lakeFS/issues/8363)
+
+- [[Bug]: lakectl local doesn't mention the reason commit fails when writing to a protected branch](https://github.com/treeverse/lakeFS/issues/8333)
+
+
+## coder/terraform-provider-coder <span style='color:#F1C40F'>(32 ⭐️)</span>
+
+- [bug: coder_app declaration can attempt to overflow length of column `workspace_apps.display_name`](https://github.com/coder/terraform-provider-coder/issues/307)
+
+
+## kcl-lang/flux-kcl-controller <span style='color:#F1C40F'>(22 ⭐️)</span>
+
+- [[Enhancement] Update all scripts in the document to support Windows](https://github.com/kcl-lang/flux-kcl-controller/issues/165)
+
+
+## operator-framework/operator-controller <span style='color:#F1C40F'>(75 ⭐️)</span>
+
+- [Docs: describe Brief & RFC process](https://github.com/operator-framework/operator-controller/issues/1483)
+
+
+## elastic/cloud-on-k8s <span style='color:#F1C40F'>(65 ⭐️)</span>
+
+- [Operator Helm chart: API server port should be configurable](https://github.com/elastic/cloud-on-k8s/issues/8201)
+
+
+## nspcc-dev/neo-go <span style='color:#F1C40F'>(123 ⭐️)</span>
+
+- [Cover example contracts with tests](https://github.com/nspcc-dev/neo-go/issues/3648)
+
+- [Properly await WS connections finalization on RPC server shutdown](https://github.com/nspcc-dev/neo-go/issues/3664)
+
+
+## abhinav/git-spice <span style='color:#F1C40F'>(257 ⭐️)</span>
+
+- [Add --fixup to commit create](https://github.com/abhinav/git-spice/issues/492)
 
