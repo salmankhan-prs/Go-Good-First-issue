@@ -4,7 +4,30 @@
 
 
 
-<div align='center'>Last updated at November 27, 2024 23:01 UTC.</div>
+<div align='center'>Last updated at November 28, 2024 00:01 UTC.</div>
+
+
+## storj/storj <span style='color:#F1C40F'>(3.0K ⭐️)</span>
+
+- [Satellite UI: Fix header bug in delete objects and versions dialog](https://github.com/storj/storj/issues/7268)
+
+- [Satellite UI: Truncate version IDs in more situations](https://github.com/storj/storj/issues/7267)
+
+- [Satellite UI: Truncate "available funds" to two decimal places](https://github.com/storj/storj/issues/7241)
+
+
+## mindersec/minder <span style='color:#F1C40F'>(294 ⭐️)</span>
+
+- [Cannot get profile status by profile ID (CLI flag is missing)](https://github.com/mindersec/minder/issues/4999)
+
+- [Refactor label filtering logic](https://github.com/mindersec/minder/issues/4982)
+
+- [Remediation status does not change after being "error"](https://github.com/mindersec/minder/issues/4949)
+
+
+## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
+
+- [[processor/k8sattributes] Use the already available internal docker.ParseImageName function](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/36418)
 
 
 ## flyteorg/flyte <span style='color:#F1C40F'>(5.8K ⭐️)</span>
@@ -29,6 +52,11 @@
 ## GoogleCloudPlatform/k8s-config-connector <span style='color:#F1C40F'>(902 ⭐️)</span>
 
 - [lint:crds: ensure CRDs have shortnames](https://github.com/GoogleCloudPlatform/k8s-config-connector/issues/3230)
+
+
+## cloudnative-pg/cloudnative-pg <span style='color:#F1C40F'>(4.8K ⭐️)</span>
+
+- [[Bug]: Documentation still reports pod security policies](https://github.com/cloudnative-pg/cloudnative-pg/issues/5996)
 
 
 ## coder/coder <span style='color:#F1C40F'>(8.4K ⭐️)</span>
@@ -64,15 +92,6 @@
 - [nodebuilder/node: `Init` should also generate and save node ID and JWT secret](https://github.com/celestiaorg/celestia-node/issues/3953)
 
 
-## storj/storj <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [Satellite UI: Fix header bug in delete objects and versions dialog](https://github.com/storj/storj/issues/7268)
-
-- [Satellite UI: Truncate version IDs in more situations](https://github.com/storj/storj/issues/7267)
-
-- [Satellite UI: Truncate "available funds" to two decimal places](https://github.com/storj/storj/issues/7241)
-
-
 ## getAlby/hub <span style='color:#F1C40F'>(107 ⭐️)</span>
 
 - [Improve Receive UI](https://github.com/getAlby/hub/issues/816)
@@ -102,14 +121,20 @@
 - [[Bug]: aws_emr_cluster Inappropriate value for attribute "configurations": string required.](https://github.com/hashicorp/terraform-provider-aws/issues/39959)
 
 
+## hashicorp/terraform-provider-aws <span style='color:#F1C40F'>(9.9K ⭐️)</span>
+
+- [[Enhancement]: Support updateToLatestImageVersion in aws_batch_compute_environment.compute_resources](https://github.com/hashicorp/terraform-provider-aws/issues/39978)
+
+- [[Enhancement]: Add `manualCreation` argument to `aws_codebuild_webhook` resource](https://github.com/hashicorp/terraform-provider-aws/issues/40078)
+
+- [[Enhancement]: Request warning for possible OpenSearch blue/green deployments](https://github.com/hashicorp/terraform-provider-aws/issues/40045)
+
+- [[Bug]: aws_emr_cluster Inappropriate value for attribute "configurations": string required.](https://github.com/hashicorp/terraform-provider-aws/issues/39959)
+
+
 ## celestiaorg/celestia-app <span style='color:#F1C40F'>(347 ⭐️)</span>
 
 - [Override upgrade height delay for local devnets](https://github.com/celestiaorg/celestia-app/issues/4053)
-
-
-## open-telemetry/opentelemetry-collector-contrib <span style='color:#F1C40F'>(3.1K ⭐️)</span>
-
-- [[processor/k8sattributes] Use the already available internal docker.ParseImageName function](https://github.com/open-telemetry/opentelemetry-collector-contrib/issues/36418)
 
 
 ## filecoin-project/lotus <span style='color:#F1C40F'>(2.9K ⭐️)</span>
@@ -177,8 +202,6 @@
 
 ## grafana/alloy <span style='color:#F1C40F'>(1.5K ⭐️)</span>
 
-- [Support otel-collector bearer token filename](https://github.com/grafana/alloy/issues/1988)
-
 - [base64 encode function](https://github.com/grafana/alloy/issues/2048)
 
 
@@ -195,11 +218,6 @@
 ## googleforgames/agones <span style='color:#F1C40F'>(6.1K ⭐️)</span>
 
 - [Fleet autoscaler with "Counter" policy throws an error if configured with a fleet with no replicas](https://github.com/googleforgames/agones/issues/4047)
-
-
-## openfga/openfga <span style='color:#F1C40F'>(3.0K ⭐️)</span>
-
-- [Replace existing caching library](https://github.com/openfga/openfga/issues/2097)
 
 
 ## gruntwork-io/terragrunt <span style='color:#F1C40F'>(8.1K ⭐️)</span>
@@ -298,13 +316,17 @@
 - [Security Group Rule Mutation](https://github.com/unikorn-cloud/region/issues/74)
 
 
-## mindersec/minder <span style='color:#F1C40F'>(294 ⭐️)</span>
+## treeverse/lakeFS <span style='color:#F1C40F'>(4.5K ⭐️)</span>
 
-- [Cannot get profile status by profile ID (CLI flag is missing)](https://github.com/mindersec/minder/issues/4999)
+- [Use an updated lakeFS Python client in Spark integration tests](https://github.com/treeverse/lakeFS/issues/8391)
 
-- [Refactor label filtering logic](https://github.com/mindersec/minder/issues/4982)
+- [Support putIfAbsent](https://github.com/treeverse/lakeFS/issues/8380)
 
-- [Remediation status does not change after being "error"](https://github.com/mindersec/minder/issues/4949)
+- [lakectl local checkout to a new branch in a local directory](https://github.com/treeverse/lakeFS/issues/8361)
+
+- [WebUI Page Title should be descriptive](https://github.com/treeverse/lakeFS/issues/8363)
+
+- [[Bug]: lakectl local doesn't mention the reason commit fails when writing to a protected branch](https://github.com/treeverse/lakeFS/issues/8333)
 
 
 ## RamenDR/ramen <span style='color:#F1C40F'>(74 ⭐️)</span>
@@ -312,8 +334,6 @@
 - [Remove usage of `github.com/pkg/errors` across the code base, and also import `k8s.io/apimachinery/pkg/api/errors` as k8serrors](https://github.com/RamenDR/ramen/issues/1678)
 
 - [Add yamlfmt configuration and build step](https://github.com/RamenDR/ramen/issues/1677)
-
-- [drenv deps: Install helm from github releases](https://github.com/RamenDR/ramen/issues/1623)
 
 
 ## lightningnetwork/lnd <span style='color:#F1C40F'>(7.7K ⭐️)</span>
@@ -405,11 +425,4 @@
 ## elastic/cloudbeat <span style='color:#F1C40F'>(15 ⭐️)</span>
 
 - [Opt in cloudbeat into IAR](https://github.com/elastic/cloudbeat/issues/2709)
-
-
-## kubernetes-sigs/kubebuilder <span style='color:#F1C40F'>(8.0K ⭐️)</span>
-
-- [ Add kubebuilderVersion Field in PROJECT File for Tracking Kubebuilder CLI Version](https://github.com/kubernetes-sigs/kubebuilder/issues/4398)
-
-- [Enhance e2e Tests: Validate Conversion with Mock Scenario](https://github.com/kubernetes-sigs/kubebuilder/issues/4297)
 
